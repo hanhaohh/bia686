@@ -1,0 +1,457 @@
+International Journal of Pediatric Otorhinolaryngology (2003) 67, 359 . 
+364 
+
+
+www.elsevier.com/locate/ijporl 
+
+Adenotonsillectomy in the morbidly obese child 
+
+Andrew Spectora, Sara Scheida, Sandra Hassinkb, Ellen S. Deutschc, 
+James S. Reillyc, Steven P. Cookc,* 
+
+a Department of Otolaryngology, Thomas Jefferson University Hospital, 111 S. 11th Street, Philadelphia, 
+PA 19134, USA 
+b Department of Pediatrics, Alfred I. duPont Hospital for Children, P.O. Box 269, Wilmington, DE 19899, 
+USA 
+c Division of Pediatric Otolaryngology, Alfred I. duPont Hospital for Children, P.O. Box 269, Wilmington, DE 
+19899, USA 
+
+Received 26 February 2002; received in revised form 1 November 2002; accepted 23 November 2002 
+
+KEYWORDS 
+
+Adenotonsillectomy; 
+Body mass index; 
+Obstructive sleep apnea 
+
+Summary Objective: The prevalence of obesity in the pediatric population has risen 
+more than 20% in 25 years. Accordingly, surgical procedures on obese children have 
+become more common. Adenotonsillectomy (AT) remains among the most frequently 
+performed pediatric surgical procedures in the United States. Our objective was to 
+determine if there is an increased complication rate in morbidly obese (MO) children 
+undergoing AT and if elective pediatric intensive care unit (PICU) admission for 
+observation is warranted. Methods: This retrospective study includes postoperative 
+admissions to the PICU over a 4-year period at one hospital. Out of 957 
+adenotonsillectomies performed by one surgeon, 543 were admitted to the hospital. 
+Fourteen MO children were identified. Using body mass index (BMI; weight in kg/m2), 
+as calculated for age appropriate categories, postoperative outcomes of AT in MO 
+children (. 
+95th percentile BMI) were determined. These 14 were electively 
+admitted to the PICU for airway observation. The indication for surgery in these 14 
+children was obstructive sleep apnea. Ages ranged from 4 to 15 years. There were 11 
+males and 3 females. Results: Two patients required overnight bi-level positive 
+airway pressure (BiPAP) for oxygen desaturation. One patient remained intubated for 
+10 days. Three patients required supplemental oxygen. Four of these admissions had 
+preoperative polysomnograms (PSGs). Conclusions: Our study concluded that routine 
+PICU admission was not warranted for most MO patients although several required 
+supplemental oxygen, BiPAP, and one required intubation. These interventions can 
+easily be administered in a surgical floor bed. In fact, these results imply that 
+performing this surgical procedure in obese children is not as risky as many believe. 
+Trends were noted for an increased need of airway interventions in children requiring 
+preoperative BiPAP and in those with comorbidities. In this small population, sample 
+AT was performed on the basis of history. This is to serve as a pilot review for a 
+prospective study in which preoperative PSGs would be used to determine potential 
+indicators for elective PICU admission. 
+
+– 
+2003 Elsevier Science Ireland Ltd. All rights reserved. 
+*Corresponding author. Tel.: /1-302-651-5829; fax: /1-302-651-5328. 
+E-mail address: scook@nemours.org (S.P. Cook). 
+
+
+0165-5876/03/$ -see front matter – 
+2003 Elsevier Science Ireland Ltd. All rights reserved. 
+doi:10.1016/S0165-5876(02)00401-9 
+
+
+A. Spector et al. 
+1. Introduction 
+Adenotonsillar hypertrophy can cause airway 
+obstruction in children. Adenotonsillar hypertrophy 
+is the primary cause of sleep apnea in children and 
+has become an increasingly more common indication 
+for this procedure. Adenotonsillectomy (AT) is 
+performed more than 300,000 times per year. With 
+the elevated proportions of obese children in the 
+population, it can be presumed that more obese 
+children will undergo surgical procedures including 
+AT. Although most children with obstructive sleep 
+apnea (OSA) are not obese, obesity does contribute 
+to obstructed breathing [1]. Kudoh and Sanai [2] 
+noted that severely obese children with large 
+tonsils and adenoids tend to have more apnea 
+compared with those without comorbidities because 
+both conditions can cause OSA. It is unknown 
+whether the need for postoperative monitoring is 
+increased in obese children or if elective admission 
+to a pediatric intensive care unit (PICU) is warranted. 
+The purpose of this pilot study was to 
+determine whether morbidly obese (MO) children 
+are at risk for the need of postoperative airway 
+interventions and, therefore, require elective PICU 
+monitoring. 
+
+2. Methods and materials 
+This study was designed as a retrospective chart 
+review of MO children admitted to the PICU after 
+AT from January 1997 to July 2001. The patients of 
+one surgeon at the Alfred I. duPont Hospital for 
+Children, a tertiary-care pediatric hospital in 
+Wilmington, DE, were used for the study. A total 
+of 957 children underwent AT during the 3-year 
+period for which charts were reviewed. Charts of 
+38 patients who went to the PICU postoperatively 
+after AT were reviewed to determine if the patient 
+was MO based upon body mass index (BMI) scores 
+greater than the 95th percentile for age. MO is the 
+clinical term we used to describe those children 
+who fall into this category. One surgeon electively 
+admitted all patients subjectively considered to be 
+MO to the PICU. 
+
+Several parameters were analyzed for the 14 MO 
+patients. Airway interventions in the PICU were 
+noted including the use of supplemental oxygen, 
+bi-level positive airway pressure (BiPAP), intubation, 
+and placement of a nasopharyngeal airway. 
+Additional complications, such as postoperative 
+bleeding and patient comorbidities were also 
+documented. When available, the results of preoperative 
+polysomnograms (PSGs) were reviewed. 
+
+3. Results 
+Between January 1997 and July 2001, 957 children 
+underwent AT. Of the patients, 543 were 
+admitted to stay overnight in the hospital. Thirty-
+eight patients went to the PICU postoperatively. 
+Fourteen of these children were MO, and all but 
+one was admitted to the PICU electively. All ATs 
+were performed for airway obstruction. There 
+were 11 males and 3 females. The ages ranged 
+from 4 to 15 years (average: 10.8 years). All the MO 
+children ranged above the 95th percentile for BMI. 
+Eleven children stayed in the PICU only one night 
+and did not require airway intervention. All 11 
+were discharged from the hospital the next day. 
+Two additional patients went home from the PICU 
+the first postoperative day despite receiving some 
+intervention other than simple observation. The 
+average length of stay in the PICU was 1.7 days. 
+The longest stay in the PICU was 12 days. 
+
+In the chart review, it was noted that all children 
+were placed on at least oxygen by nasal canula 
+upon completion of their AT. The duration of this 
+intervention was not well documented in the 
+patients’ charts unless the children required oxygen 
+for desaturations. Generally, oxygen by nasal 
+canula was not continued beyond the first hour or 
+two postoperatively. 
+
+Table 1 is a list of all obese patients admitted to 
+the PICU after AT and demonstrates patient demographics 
+including age, sex, height/weight, BMI, 
+comorbidities, preoperative oxygen requirements, 
+additional procedures performed, postoperative 
+complications and interventions, length of PICU 
+admission, and oxygen requirements upon discharge. 
+One of the three children with comorbidities 
+had oxygen requirements as compared with 1 
+of 11 children without comorbidities who desaturated. 
+The following interventions were used: one 
+patient was intubated and two patients received 
+BiPAP. 
+
+Table 2 lists the results of preoperative PSGs on 
+the four children who had them and the airway 
+complications each experienced. 
+
+Two children required BiPAP in the immediate 
+postoperative period. Neither of these children had 
+been on home BiPAP prior to surgery. Both children 
+received BiPAP in the PICU for desaturations, while 
+awake postoperatively. Both eventually were able 
+to maintain their oxygen saturation at normal 
+levels before discharge the next day. Only one of 
+these children had a sleep study which demonstrated 
+92 apneic or hypopneic events though his 
+AHI was just 3.7. 
+
+Only one child, who had Prader-Willi syndrome, 
+required intubation postoperatively. He remained 
+
+
+Table 1 Patient demographics 
+
+Number Age Sex Height BMI Comorbidity Preop. Complica-Additional Intervention Days in PICU Oxygen at 
+(cm)/ oxygen tions procedures discharge 
+weight (kg) 
+1 15 M 174.5/119.8 39.34 1 
+2 15 M 177/141 45 1 
+3 9 M 127/42.5 26.1 Desaturation BiPAP 1 No 
+4 11 M 147.3/54.8 25.26 Achondroplasia 1 
+5 9 M 146.6/86.2 38.3 Desaturation BiPAP 1 No 
+6 6 M 124.7/46.7 29.8 Nasal cautery 1 
+7 5 F 114/42.5 32.7 1 
+8 13 M 164.5/140 51.66 1 
+9 15 M 168/101.4 35.1 1 
+10 15 M 170.3/128.1 44.3 1 
+11 12 F 159.5/82 32.0 Bleeding on 15th 1 
+postoperative day*/ 
+cautery/right myringotomy 
+with tube 
+12 11 M 117/52.8 38.1 RAD, Prader-Willi Nasal Resp. failure, Intubation 12 12 Yes; no longcanula 
+pneumonia days er requires 
+13 12 M 170/131.6 45.53 1 
+14 4 F 99/20.2 20.2 Beckwith/Weide-Direct laryngoscopy/ 1 
+mann, tracheomabronchoscopy 
+lacia 
+
+BMI, body mass index; PICU, pediatric intensive care unit; M, male; F, female; RAD, reactive airway disease; HTN, hypertension; BiPAP, bi-level positive airway 
+pressure; BMT, bilateral myringotomy with tubes; URI, upper respiratory tract infection; NP, nasopharyngeal. 
+
+Adenotonsillectomy in the morbidly obese child 
+
+
+A. Spector et al. 
+Table 2 Sleep studies 
+
+Patient number AHI pO2 (%) pCO2 Events Complication Intervention 
+1 20 70 / / / / 
+5 3.7 / 92 Oxygen desaturation BiPAP 
+7 8 B/90 / 68 / / 
+8 56.7 B/72 / / / / 
+
+AHI, apnea to hypopnea index; BiPAP, bi-level positive airway pressure; NP, nasopharyngeal. 
+
+intubated for 10 days. Before surgery, he had 
+required supplemental oxygen via nasal canula for 
+frequent oxygen desaturations. While awake, he 
+was noted to have significantly elevated pCO2 
+though he never underwent a formal preoperative 
+PSG. He was also noted to desaturate to 77% while 
+asleep at home. He underwent AT on an urgent 
+basis. His hospitalization was complicated by 
+pneumonia and respiratory failure. He was treated 
+with intravenous antibiotics and steroids before 
+successful extubation after two failed attempts. 
+This child ultimately required no oxygen at home. 
+
+Another child returned to the operating room on 
+the fifteenth postoperative day for cautery of a 
+bleed from the tonsillar fossa. 
+
+A 4-year old female with Beckwith. 
+Weidemann 
+syndrome and a history of tracheomalacia necessitating 
+a tracheostomy. She had already been 
+decanulated at the time of surgery. She had an 
+uncomplicated postoperative course and went 
+home the following day. 
+
+The child with the preoperative PSG most indicative 
+of severe obstruction was also the child 
+with the highest BMI (51.66). He went home on the 
+first postoperative day without incident. 
+
+4. Discussion 
+The prevalence of obesity in children (ages 6. 
+11) in the United States from 1988 to 1994 was 14%, 
+and the percentage of obese adolescents (ages 12. 
+17) in that same time period was 11% [3]. These 
+represent 6% increases from 1976 to 1980. The 
+National Health and Nutrition Examination Surveys 
+(NHANES) from 1963 to 1965, 1966 to 1970, 1971 to 
+1974, 1976 to 1980, and 1988 to 1991 examined the 
+prevalence and trends of overweight children and 
+adolescents. According to this survey, and based on 
+BMIs (weight in kg/m2) greater than the 85th 
+percentile of age-adjusted categories, the prevalence 
+of overweight children and adolescents was 
+22% [4]. This is an increase of 40% from 1976 to 
+1990 in ages between 6 and 17.3. Of the same age 
+
+ranges, 10.9% were obese based on estimates for 
+the 95th percentile of BMI [4]. There is no 
+universally accepted definition of obesity in the 
+pediatric population. BMI, while the most commonly 
+used measurement of obesity, is not perfect 
+because it is not truly a measure of ‘‘fatness’’ and 
+adiposity since children have not reached their 
+peak heights and have different degrees of maturity 
+[4]. In addition, the BMI changes drastically as 
+children grow to attain their adult height and 
+weight unlike in adults [4]. 
+
+Obese children are predisposed to upper airway 
+obstruction and OSA. In addition, children with OSA 
+may have associated complications with surgery 
+such as respiratory and cardiovascular complications, 
+prolonged hospital stay, and death [1,5]. 
+Symptoms of these morbidities and subsequent 
+findings on PSG may correlate with the degree of 
+obesity [1]. It is, therefore, possible that PSG 
+results may be predictive in determining which 
+obese children would benefit from more intensive 
+postoperative monitoring though this study did not 
+demonstrate such a need. 
+
+Airway obstruction from adenotonsillar hypertrophy 
+can result in chronic alveolar hypoventilation, 
+hypercapnia, and hypoxia ultimately leading 
+to cardiac and pulmonary morbidity. Some children 
+may not require preoperative sleep studies if they 
+demonstrate loud snoring, observed apneic events, 
+and prominent adenotonsillar tissue. A PSG is, 
+however, helpful in revealing airway obstruction 
+that would warrant AT if clinical evidence of 
+obstruction is not obvious based on history and 
+physical examination or when anatomy, but not 
+history, is indicative of obstruction. Because obese 
+children are considered medically complicated 
+surgical candidates, it is important to demonstrate 
+that there is significant airway obstruction and that 
+surgery will correct this problem [6]. 
+
+AT results in a sudden reduction of upper airway 
+obstruction that may necessitate postoperative 
+monitoring, perhaps in an intensive care setting. 
+Postoperative monitoring is indicated after surgery 
+in those children with significant medical comor
+
+
+
+Adenotonsillectomy in the morbidly obese child 
+
+bidities including central nervous system dysfunction, 
+severe OSA, age less than 3, and craniofacial 
+anomalies [2]. Postoperative morbidity was more 
+frequently observed in patients with severe preoperative 
+obstructive symptoms such as daytime 
+somnolence, retractions, choking, cyanosis, frequent 
+waking, and urgent performance of surgery 
+[7]. 
+
+5. Conclusion 
+Our study was too small to determine any 
+statistically significant predictors that would indicate 
+if MO children are at higher risk for postoperative 
+complications. This limited review 
+suggests that the MO children reported here did 
+well enough to be discharged the first postoperative 
+day. There is a known increase in postoperative 
+morbidity in children with OSA. Perhaps morbid 
+obesity alone does not increase risk of surgery and 
+AT should be performed without additional concern 
+given potential complications of not relieving 
+upper airway obstruction. It would seem reasonable 
+for MO children to be admitted to the hospital 
+though not the PICU for observation after surgery. 
+The results of this study imply, however, that MO 
+children do well after AT despite the perceived, 
+and possibly incorrect, increased risk of surgery. 
+Within this cohort, only 1 of 14 MO children 
+required attention in the PICU after AT. Most 
+interventions for respiratory problems encountered 
+in the group of children reported here could be 
+managed on a standard hospital unit. This includes 
+treatments such as oxygen by nasal canula, face-
+mask, or BiPAP. It is also important in an effort to 
+conserve PICU resources in the face of expensive 
+medical care and nursing shortages. 
+
+Though not included in this study several patients 
+of other surgeons were noted to require 
+BiPAP in the postoperative period if it was required 
+before surgery. In several instances, though, BiPAP 
+was continued preemptively and not because of 
+clinical need for intervention. When examining the 
+patients of other surgeons not included in this 
+study, there was a higher incidence of respiratory 
+complications postoperatively in patients with 
+comorbid conditions. Even these children may be 
+monitored on the floor unless a complication 
+occurs. One patient with a major complication 
+requiring intubation in our study did have a history 
+of reactive airway disease and Prader-Willi syndrome. 
+
+
+Further study is needed to determine more 
+specifically which children are likely to require 
+additional treatment. One area warranting further 
+
+research is the utility of the PSG. In this review, we 
+found no consistent criteria as to who received 
+preoperative PSGs. Lack of consistency in obtaining 
+preoperative PSGs also made it difficult to show 
+which features of the study might predict the need 
+for PICU admission after AT. It would be helpful to 
+document preoperative indications for the AT with 
+the PSG. A postoperative PSG should be considered 
+to demonstrate resolution of apnea and whether 
+this relief was sustained over a long-term period. 
+This is particularly important since sustained 
+weight loss over an extended period is often an 
+elusive goal. 
+
+Based on history and physical examination alone, 
+all the children needed AT though the ability to 
+predict complications was limited. This small 
+cohort is, therefore, a pilot review. Preparations 
+are being made for a prospective study utilizing 
+pre-and postoperative PSGs in order to better 
+stratify risks for postoperative complications. This 
+becomes more important because there was seemingly 
+no correlation between increasing BMI and 
+need for intervention. 
+
+One weakness of this study is its retrospective 
+nature. One surgeon electively admitted MO patients 
+to the PICU after surgery. This was performed 
+subjectively and not on the basis of BMI and 
+ultimately appears to be unnecessary. It is possible 
+that there were some MO children who were not 
+identified by this review and did well after surgery 
+without PICU admission. Also, 24 other post-AT 
+children were admitted to the PICU, none of which 
+were MO suggesting that obesity is not the risk 
+factor for complications that it seemed. It may be 
+helpful to compare the reasons for these admissions 
+with those of the MO children. In addition, 
+examination of comorbidities and preoperative 
+PSGs in the non-obese children may help to reveal 
+parameters warranting PICU admission. 
+
+References 
+
+[1] C.M. Bower, A. 
+Gungor, Pediatric obstructive sleep apnea 
+syndrome, Otolaryngol. Clin. North Am. 33 (2000) 49. 
+75. 
+[2] F. Kudoh, A. Sanai, Effect of tonsillectomy and adenoidectomy 
+on obese children with sleep-associated breathing 
+disorders, Acta Otolaryngol. Suppl. 523 (1996) 216 . 
+218. 
+[3] National 
+Center for Health Statistics, FASTATS A to Z: 
+Overweight Prevalence (online), Centers for Disease Control 
+and Prevention, Hyattsville, MD. http://www.cdc.gov/nchs/ 
+fastats/overwt.htm. 
+[4] R.P. Troiano, K.M. Flegal, R.J. Kuczmarski, S.M. Campbell, 
+C.L. Johnson, Overweight prevalence and trends for children 
+and adolescents. The National Health and Nutrition Examination 
+Surveys, 1963 to 1991, Arch. Pediatr. Adolesc. Med. 
+149 (1963) 1085. 
+1091. 
+
+A. Spector et al. 
+[5] H. Reuveni, T. Simon, T. Asher, E. Asher, Tarasiuk, Health pediatric patient documented by polysomnography, Int. J. 
+care services utilization in children with obstructive sleep Pediatr. Otorhinolaryngol. 41 (1997) 133. 
+143. 
+apnea syndrome, Pediatrics 110 (2002) 68. 
+72. [7] S.D. Price, D.B. Hawkins, E.J. Kahlstrom, Tonsil and adenoid 
+[6] G.J. 
+Wiet, C. Bower, R. Seibert, M. Griebel, Surgical surgery for airway obstruction: perioperative respiratory 
+correction of obstructive sleep apnea in the complicated morbidity, Ear Nose Throat J. 72 (1993) 526. 
+531. 
+

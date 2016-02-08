@@ -1,0 +1,579 @@
+ORIGINAL ARTICLE ORIGINAL ARTICLE 
+Impact of Tonsillectomy and Adenoidectomy 
+on Child Behavior 
+
+Nira A. Goldstein, MD; J. Christopher Post, MD; 
+Richard M. Rosenfeld, MD, MPH; Thomas F. Campbell, PhD 
+
+
+Objective: To measure the impact of tonsillectomy 
+and adenoidectomy (T&A) on children’s behavioral 
+and emotional problems using a standardized assessment. 
+
+
+Design: Prospective study. 
+
+Setting: Tertiary care children’s hospital. 
+
+Patients: Thirty-six children, aged 2 through 18 years, 
+with symptoms of nighttime snoring, observed apneas, 
+and daytime mouth breathing and physical examination 
+results demonstrating 3+ or 4+ tonsils scheduled for 
+T&A. 
+
+Intervention: Parents completed a standard survey of 
+their children’s symptoms of sleep apnea and a standardized 
+measure of children’s competencies and problems, 
+the Child Behavior Checklist for ages 2 through 3 years 
+or 4 through 18 years, before T&A and 3 months postoperatively. 
+
+
+Main Outcome Measure: The Child Behavior Checklist 
+total problem score. 
+
+Results: The preoperative Child Behavior Checklist total 
+problem score was consistent with abnormal behavior 
+for 10 children (28%). After T&A (n = 15), only 2 
+scores were abnormal, but the change was not statistically 
+significant. In contrast, the mean total problem score 
+was 7.5 points lower after surgery (95% confidence interval, 
+5.1-9.7), indicating a significant decrease (P.001, 
+matched t test). 
+
+Conclusions: This pilot study demonstrates a high prevalence 
+(28%) of abnormal behavior in children undergoing 
+T&A for chronic upper airway obstruction. Scores 
+on a standardized measure of behavior improve following 
+T&A, but larger studies with increased statistical 
+power are needed to clarify the degree of improvement 
+and its clinical importance. 
+
+Arch Otolaryngol Head Neck Surg. 2000;126:494-498 
+
+From the Division of Pediatric 
+Otolaryngology, State 
+University of New York Health 
+Science Center at Brooklyn 
+(Drs Goldstein and Rosenfeld); 
+Department of Pediatric 
+Otolaryngology, Allegheny 
+General Hospital, Pittsburgh, 
+Pa (Dr Post); and Department 
+of Communication Science and 
+Disorders, University of 
+Pittsburgh, and Department of 
+Audiology and Communication 
+Disorders, Children’s Hospital 
+of Pittsburgh (Dr Campbell). 
+
+C
+C
+HILDREN WITH obstructive 
+sleep apnea syndrome 
+(OSAS) usually are 
+brought to medical attention 
+because of nighttime 
+breathing difficulties. Parents report symptoms 
+of snoring, apneic pauses, choking, 
+gasping, struggling to breath, restless sleep, 
+unusual sleeping positions, and frequent 
+awakenings.1-4 Although daytime sleepiness 
+may be present, it is not a universal 
+symptom in children compared with adults.5 
+Pediatric OSAS has also been associated with 
+cor pulmonale and right-sided heart failure,
+3,4,6-8 systemic hypertension,3,9 failure to 
+thrive,3,4,6 enuresis,3,10 and neurocognitive 
+and behavioral abnormalities. 
+
+The diagnosis of pediatric OSAS may 
+be confirmed by polysomnography. However, 
+there are few normative data available 
+for polysomnography in children, 
+sleep laboratories able to adequately study 
+
+children are not widely available, and the 
+studies are time-consuming and expensive. 
+Thus, since tonsillectomy and adenoidectomy 
+(T&A) is curative in most 
+children, many children with suspected 
+OSAS undergo T&A without preoperative 
+polysomnography.11 
+
+Although behavioral disturbances, including 
+learning difficulties, attention disorders, 
+hyperactivity, aggression, and antisocial 
+behavior, have been reported in 
+children with sleep apnea, there have been 
+few studies using standardized behavioral 
+assessments.3,6,12-16 Most studies have 
+relied on parental reports of children’s behavior 
+before and after treatment.6,14,17 The 
+objective of this study was to determine 
+the impact of T&A on the behavioral and 
+emotional problems of children with OSAS 
+or upper airway obstruction using a standardized 
+assessment, the Child Behavior 
+Checklist (CBCL).18,19 
+
+ARCH OTOLARYNGOL HEAD NECK SURG/ VOL 124, APR 1998 
+
+494 
+
+Downloaded from www.archoto.com on March 4, 2009 
+
+©1998 American Medical Association. All rights reserved. 
+
+
+behaviors. Each item is scored as follows: not true, 0; some-
+
+PATIENTS AND METHODS 
+
+what or sometimes true, 1; and very true or often true, 2. 
+
+The CBCL /4-18 also has 35 questions regarding chil-
+Parents of children aged 2 through 18 years who were dren’s competencies in school, activities, and social con-
+scheduled for T&A were recruited from the Otolaryn-texts, which are scored based on the amount and quality 
+gology Clinic at the Children’s Hospital of Pittsburgh, of participation. Raw scores are converted to normalized 
+Pittsburgh, Pa, between August 1996 and April 1998. To T scores, which are compared with the scores of children 
+be included, the children were required to have symp-in normative samples. Scores are then divided into nor-
+toms of nighttime snoring, observed apneas, and day-mal (95th percentile), borderline(95th percentile but 
+time mouth breathing, and results of their physical 98th percentile), or abnormal (98th percentile) ranges. 
+examination had to demonstrate 3+ or 4+ tonsils. Chil-TheCBCL/2-3isscoredtoobtainatotalproblemscore, 
+dren with craniofacial syndromes, neuromuscular disor-which provides a global index of the child’s behavioral and 
+ders, behavioral disorders, learning disabilities, and psy-emotional problems. The responses can be further dichiatric 
+disease and children whose parents did not read vided into scores for internalizing (anxious/depressed and 
+or understand English were excluded. Polysomnography withdrawn) and externalizing (aggressive behavior and de-
+was not performed in any child before T&A. The proto-structive behavior), and scores for the individual syncol 
+was approved by the Children’s Hospital of Pitts-drome scales (anxious/depressed, withdrawn, sleep probburgh 
+Human Rights Committee, and a convenience lems, somatic problems, aggressive behavior, and destructive 
+sample was recruited. behavior) can be calculated. The CBCL/4-18 is scored to 
+
+Before T&A and 3 months postoperatively, parents obtain a total problem score, scores for internalizing (withcompleted 
+2 forms: (1) a standard questionnaire that re-drawn, somatic complaints, anxious/depressed) and extercorded 
+demographic information, family socioeconomic sta-nalizing (delinquent behavior and aggressive behavior) 
+tus, level of parent’s education, and frequency (always, al-groupings, scores for the individual syndrome scales (withmost 
+always, sometimes, never) of 11 symptoms of pediatric drawn, somatic complaints, anxious/depressed, social prob-
+OSAS or upper airway obstruction and (2) the CBCL for lems, thought problems, attention problems, delinquent be-
+ages 2 through 3 years (CBCL/2-3) or ages 4 through 18 havior, and aggressive behavior), and a total competence 
+years (CBCL/4-18). The CBCLs are valid and reliable and score. 
+have been used widely since 1991 to study behavior in a Comparison of preoperative and postoperative T scores 
+variety of clinical situations. were performed using a matched, 2-tailed t test, and pre-
+
+The responses to the symptom questionnaire were operative and postoperative T score classifications (norscored 
+as follows: always, 3; almost always, 2; sometimes, mal, borderline, and abnormal) were compared by the log1; 
+and never, 0. The CBCL/2-3 is a 100-item survey, and likelihood ratio test. P.05 was considered statistically 
+the CBCL/4-18 is a 118-item survey of specific childhood significant.20 
+
+RESULTS 
+Parents of 36 children completed the CBCL preoperatively. 
+Patient demographics are presented in Table 1. 
+The male-female ratio was 2:1, and the mean patient 
+age was 4.6 years (range, 2-10 years). Most families 
+were middle class or upper middle class (annual family 
+income between $21 000 and $100 000),21 and the 
+mean education level of the parent who completed the 
+form was 2 years of postsecondary education. Fifteen 
+parents returned the postoperative surveys. There 
+were no clinical or demographic differences between 
+those who returned the second survey and those who 
+did not. 
+
+Mean preoperative and postoperative symptom 
+scores are presented in Table 2 and Table 3. One 
+parent did not complete the standard questionnaire, 
+and some responses were left incomplete by the parents. 
+The postoperative scores were much lower than 
+the preoperative scores, as would be expected after 
+T&A. Entry T scores and score classifications for the 
+total problem score, internalizing and externalizing 
+groupings, and the individual syndrome scales are presented 
+in Table 4. Sample size varied because some 
+of the syndrome scales are applicable to only the 
+CBCL/2-3 or the CBCL/4-18, and there were many 
+incomplete responses for the total competence items. 
+
+The total problem score was abnormal for 10 patients 
+(28%), the internalizing group was abnormal for 3 
+patients (8%), the externalizing group was abnormal 
+for 9 patients (25%), and the individual syndrome 
+scales were abnormal for between 0% and 20% of 
+patients. Problem scales most affected were total competence 
+(20%), sleep problems (17%), somatic complaints 
+(11%), social problems (8%) and destructive 
+behavior (8%). 
+
+The change in T score and change in classification 
+after T&A for the 15 patients with complete data 
+are presented in Table 5. The mean total problem 
+score was 7.5 points lower after surgery, resulting in a 
+statistically significant decrease (P.001). Scores were 
+also significantly lower after T&A for the internalizing 
+subgroup and the individual syndrome scales of withdrawn, 
+somatic complaints, anxious/depressed, attention 
+problems, and thought problems. Sleep problems, 
+destructive behavior, and total competence were not 
+subjected to analysis because of the small numbers of 
+patients in these groups. Although there were trends 
+toward improvement, changes in classification were 
+not significant for the total problem score or the individual 
+syndrome scales. There were no significant relationships 
+between family income and level of parent 
+education and entry T scores or changes in classification 
+postoperatively. 
+
+ARCH OTOLARYNGOL HEAD NECK SURG/ VOL 124, APR 1998 
+
+495 
+
+Downloaded from www.archoto.com on March 4, 2009 
+
+©1998 American Medical Association. All rights reserved. 
+
+
+Table 1. Demographics of 36 Children Whose 
+Parents Completed the Child Behavior Checklist 
+Before Tonsillectomy and Adenoidectomy 
+
+Characteristic No. (%) 
+
+Sex 
+Male 24 (67) 
+Female 12 (33) 
+
+Age, y 
+2 4 (11) 
+3 8 (22) 
+4 6 (17) 
+5 7 (19) 
+6 7 (19) 
+7 2 (6) 
+80 
+9 1 (3) 
+
+10 1(3) 
+
+Race 
+White 30 (83) 
+Black 5 (14) 
+East Asian 1 (3) 
+
+Family income, $ (in thousands) 
+
+20 6 (17) 
+20-35 10 (28) 
+36-50 6 (17) 
+51-75 4 (11) 
+76-100 5 (14) 
+Unknown 5 (14) 
+Parent’s education level* 
+11th grade 1 (3) 
+12th grade 11 (31) 
+1st year college 5 (14) 
+2nd year college 3 (8) 
+3rd year college 1 (3) 
+4th year college 2 (6) 
+1st year postgraduate 4 (11) 
+2nd year postgraduate 3 (8) 
+Unknown 6 (17) 
+
+*Asked of the parent who completed the Child Behavior Checklist. 
+
+COMMENT 
+This pilot study demonstrates a high prevalence (28%) of 
+abnormal behavior in children undergoing T&A for OSAS 
+or chronic upper airway obstruction. The CBCL scores significantly 
+improved following T&A, although changes in 
+classification (normal, borderline, or abnormal) were not 
+statistically significant. Subclasses that showed significant 
+improvement after T&A were withdrawn behavior, 
+somatic complaints, anxious/depressed, attention problems, 
+and thought problems. 
+
+Although widely cited as a common complication 
+of pediatric OSAS, neurocognitive and behavioral disturbances 
+have mostly been inferred from case series 
+where parents’ reports were the sole criteria for evaluation. 
+Reports of improved behavior after treatment of 
+OSAS have also largely consisted of anecdotal observations 
+by parents and teachers. There have been only 4 
+prior reports using standardized measures to assess the 
+developmental and behavioral disturbances of children 
+with OSAS. 
+
+Ali et al12 performed overnight pulse oximetry and 
+overnight video recordings on 66 children with sus-
+
+Table 2. Preoperative Obstructive Symptom Scores for 35 
+Children Scheduled for Tonsillectomy and Adenoidectomy 
+
+
+Sample Mean Preoperative Score 
+Symptom Size (95% Confidence Interval) 
+
+Snoring 35 2.5 (2.3 to 2.7) 
+Apneic pauses 34 1.8 (1.5 to 2.1) 
+Nighttime gasping 34 1.4 (1.1 to 1.7) 
+Nighttime choking 35 0.9 (0.6 to 1.2) 
+Restless sleep 35 1.9 (1.5 to 2.2) 
+Frequent awakenings 35 1.5 (1.2 to 1.8) 
+Enuresis* 23 0.5 (0.2 to 0.8) 
+Neck extension during sleep 33 1.4 (1.1 to 1.7) 
+Daytime sleepiness 35 1.1 (0.8 to 1.5) 
+Mouth breathing 35 2.1 (1.8 to 2.4) 
+Chronic rhinorrhea 34 0.8 (0.6 to 1.6) 
+
+*For children 4 years or older. 
+
+pected sleep apnea and 66 controls. They administered 3 
+subscales of the Conners’ Behavior Rating Scale to their 
+parents and teachers. Only 7 children (all in the high-
+risk group) had a detectable breathing disorder, but the 
+high-risk children had significantly higher scores on the 
+hyperactive and inattentive Conners’ subscales completed 
+by both the parents and teachers and a significantly 
+higher score on the aggressive subscale completed 
+by the parents. In a follow-up study, Ali et al13 repeated 
+their evaluation along with the administration of the 
+continuous performance test, a measure of sustained 
+attention in children, to 33 children with suspected 
+sleep apnea who were scheduled for T&A. Of these 33 
+children, 12 displayed a sleep and breathing disorder 
+(SBD group) by video recording and pulse oximetry, and 
+21 had normal sleep. Eleven of these children were 
+matched by age and sex to those in the SBD group 
+(snorer group). Ten other children without a history of 
+snoring served as controls. After T&A, the SBD group 
+showed a small but statistically significant improvement 
+in all 3 behavior subscales of the Conners’ Parent Rating 
+Scale, whereas the snorer group improved only on the 
+hyperactivity subscale. There were no significant 
+changes for any of the groups on the Conners’ Teacher 
+Rating Scale. Following T&A, there were significant 
+improvements on the continuous performance test by 
+both the SBD and snorer groups. 
+
+Rhodes et al15 administered the Wide Range Assessment 
+of Memory and Learning to 14 morbidly obese children, 
+5 with OSAS. The 5 children with OSAS had significantly 
+lower scores on general memory, verbal 
+memory, learning, and vocabulary. Gozal22 evaluated 297 
+first-grade children whose school performance was in the 
+lowest 10th percentile by a detailed OSAS questionnaire 
+and a single night recording of pulse oximetry and transcutaneous 
+partial pressure of carbon dioxide. Sleep-
+associated gas exchange abnormalities were identified in 
+54 children. Of these children, 24 underwent T&A, and 
+their mean grades during the second grade increased significantly 
+compared with the 30 children whose parents 
+declined treatment. 
+
+Limitations of these studies include small sample 
+sizes,12,13,15 lack of a control group or lack of a control 
+
+ARCH OTOLARYNGOL HEAD NECK SURG/ VOL 124, APR 1998 
+
+496 
+
+Downloaded from www.archoto.com on March 4, 2009 
+
+©1998 American Medical Association. All rights reserved. 
+
+
+Table 3. Impact of Tonsillectomy and Adenoidectomy on Obstructive Symptoms for the 15 Children 
+With Both Preoperative and Postoperative Scores 
+
+Sample Mean Preoperative Score Sample Mean Postoperative Score 
+Symptom Size (95% Confidence Interval) Size (95% Confidence Interval) 
+
+Snoring 15 2.5 (2.1 to 2.9) 14 0.4 (0.1 to 0.6) 
+Apneic pauses 15 1.9 (1.3 to 2.4) 15 0.2 (-0.01 to 0.4) 
+Nighttime gasping 14 1.5 (1.1 to 2.0) 15 0.07 (-0.06 to 0.2) 
+Nighttime choking 15 1.1 (0.5 to 1.7) 15 0.07 (-0.06 to 0.2) 
+Restless sleep 15 2.0 (1.6 to 2.4) 15 0.5 (0.3 to 0.8) 
+Frequent awakenings 15 1.7 (1.2 to 2.1) 14 0.4 (0.2 to 0.7) 
+Enuresis* 11 0.6 (0.2 to 1.0) 11 0.2 (-0.06 to 0.4) 
+Neck extension during sleep 15 1.8 (1.4 to 2.2) 15 0.3 (0.1 to 0.6) 
+Daytime sleepiness 15 1.4 (0.9 to 1.9) 15 0.6 (0.3 to 0.9) 
+Mouth breathing 15 2.2 (1.8 to 2.6) 15 0.5 (0.3 to 0.8) 
+Chronic rhinorrhea 15 1.0 (0.6 to 1.4) 15 0.1 (-0.05 to 0.3) 
+
+*For children 4 years or older. 
+
+Table 4. Entry Child Behavior Checklist (CBCL) Scores and Classification 
+
+Classification, No. (%) 
+
+Mean T Score 
+CBCL Problem Scale Sample Size (95% Confidence Interval) Normal Borderline Abnormal 
+
+Internalizing 36 51.8 (48.4 to 55.1) 27 (75) 6 (17) 3 (8) 
+Externalizing 36 53.9 (50.2 to 57.6) 24 (67) 3 (8) 9 (25) 
+Withdrawn 36 54.6 (52.5 to 56.6) 32 (89) 3 (8) 1 (3) 
+Somatic complaints 36 58.4 (56.0 to 60.9) 28 (78) 4 (11) 4 (11) 
+Anxious/depressed 36 54.0 (52.1 to 55.9) 34 (94) 2 (6) 0 
+Aggressive behavior 36 57.2 (54.3 to 60.1) 27 (75) 7 (19) 2 (6) 
+Delinquent behavior 24 55.1 (52.4 to 57.9) 21 (88) 2 (8) 1 (4) 
+Attention problems 24 57.0 (54.0 to 60.0) 19 (79) 5 (21) 0 
+Thought problems 24 54.7 (52.1 to 57.3) 23 (96) 0 1 (4) 
+Social problems 24 55.5 (52.7 to 58.2) 22 (92) 0 2 (8) 
+Sleep problems 12 61.9 (56.4 to 67.5) 7 (58) 3 (25) 2 (17) 
+Destructive behavior 12 59.0 (52.3 to 65.3) 10 (83) 1 (8) 1 (8) 
+Total competence (social, activities, school) 10 45.1 (38.7 to 51.5) 7 (70) 1 (10) 2 (20) 
+Total problems 36 55.4 (52.1 to 58.7) 25 (69) 1 (3) 10 (28) 
+
+Table 5. Impact of Tonsillectomy and Adenoidectomy on Child Behavior Checklist (CBCL) Scores and Classification 
+
+Change in T Score* Change in Classification† Final Classification, No. (%) 
+Sample 
+
+CBCL Problem Scale Size Mean (95% CI) P ‡ Normal Borderline Abnormal P § Normal Borderline Abnormal 
+
+Internalizing 15 +8.1 (5.5 to 10.6) .001 +2 0 -2 .54 13(87) 1(7) 1(7) 
+Externalizing 15 +1.7 (-2.3 to 5.6) .38 +2 0 -2 .71 12 (80) 0 3 (20) 
+Withdrawn 15 +2.9 (1.5 to 4.3) .001 +1 0 -1 .49 14(93) 1(7) 0 
+Somatic complaints 15 +6.2 (1.8 to 10.6) .009 +3 -1 -2 .18 14 (93) 1 (7) 0 
+Anxious/depressed 15 +2.7 (1.1 to 4.4) .003 +2 -2 0 .23 15 (100) 0 0 
+Aggressive behavior 15 +3.0 (-0.4 to 6.4) .08 +3 -2 -1 .41 13 (87) 1 (7) 1 (7) 
+Delinquent behavior 11 -0.3 (-6.4 to 5.8) .92 0 +1 -1 .25 10 (91) 1 (9) 0 
+Attention problems 11 +5.0 (2.4 to 7.6) .002 +3 -3 0 .10 11 (100) 0 0 
+Thought problems 11 +4.2 (1.4 to 6.9) .007 0 0 0 .99 11 (100) 0 0 
+Social problems 11 +3.5 (-0.9 to 7.8) .11 +1 +1 -2 .12 10 (91) 1 (9) 0 
+Total problems 15 +7.5 (5.1 to 9.7) .001 +2 +1 -3 .48 12 (80) 1 (7) 2 (13) 
+
+*Difference in postoperative vs preoperative values; plus signs indicate improvement. 
+
+†Plus signs indicate additional patients in classification range postoperatively; minus signs, fewer patients in classification range postoperatively. 
+‡t Test matched samples, 2-tailed P value. 
+§Log-likelihood ratio test. 
+group consisting of otherwise healthy children,15,22 se-pilot study include small sample size and the lack of a 
+lecting the study group from a special patient popula-control group. However, the CBCL is a validated, comtion,
+15,22 or evaluating only a limited range of neurocog-prehensive survey of children’s behavioral and emonitive 
+and behavioral functions.12,13,15 Limitations of our tional problems used extensively in pediatric psychia-
+
+ARCH OTOLARYNGOL HEAD NECK SURG/ VOL 124, APR 1998 
+
+497 
+
+Downloaded from www.archoto.com on March 4, 2009 
+
+©1998 American Medical Association. All rights reserved. 
+
+
+try, pediatric psychology, pediatrics, special education, 
+forensic situations, and evaluation of problems related 
+to child abuse.18,19 Our results agree with prior studies 
+in emphasizing improvement in attention and thought 
+problems after T&A but do not support improvement in 
+aggressive or antisocial tendencies. 
+
+Adults with OSAS have been shown to experience 
+deficits in attention, memory, intellectual abilities, problem-
+solving functions, and psychomotor skills using a 
+wide range of validated tests.17,23,24 Many of these behavioral 
+and neurocognitive functions improve following successful 
+treatment.17,23 Recent studies have reported the 
+higher incidence of traffic accidents in adult patients with 
+OSAS.25 Although the physiologic mechanism by which 
+OSAS produces its neurocognitive and behavioral effects 
+is unknown, disrupted sleep patterns and hypoxemia 
+are integral to their development.23,24 Although these 
+defects are present in adults with sleep apnea, we cannot 
+generalize these findings to children. 
+
+Our pilot data suggest that behavioral, emotional, 
+and neurocognitive difficulties are present in children with 
+OSAS and improve after treatment. Further larger-scale 
+work is needed to define the precise spectrum of these 
+abnormalities, clarify the degree of improvement after 
+treatment of OSAS, elucidate their clinical importance, 
+and provide data to allow their early recognition. 
+
+Accepted for publication November 16, 1999. 
+
+Presented at the annual meeting of the American Society 
+of Pediatric Otolaryngology, Palm Desert, Calif, April 
+29, 1999. 
+
+Reprints: Nira A. Goldstein, MD, Department of Otolaryngology, 
+State University of New York Health Science Center 
+at Brooklyn, 450 Clarkson Ave, Campus Box 126, Brooklyn,
+NY11203-2098(e-mail:ngoldstein@netmail.hscbklyn.edu). 
+
+REFERENCES 
+1. Brouilette R, Hanson D, David R, et al. A diagnostic approach to suspected obstructive 
+sleep apnea in children. J Pediatr. 1984;105:10-14. 
+2. Goldstein NA, Sculerati N, Walsleben JA, Bhatia N, Friedman DM, Rapoport DM. 
+Clinical diagnosis of pediatric obstructive sleep apnea validated by polysomnography. 
+Otolaryngol Head Neck Surg. 1994;111:611-617. 
+3. Guilleminault C, Korobkin R, Winkle R. A review of 50 children with obstructive 
+sleep apnea syndrome. Lung. 1981;159:275-287. 
+4. Leach J, Olson J, Hermann J, Manning S. Polysomnographic and clinical findings 
+in children with obstructive sleep apnea. Arch Otolaryngol Head Neck Surg. 
+1992;118:741-744. 
+5. Carroll JL. Sleep-related upper-airway obstruction in children and adolescents. 
+Child Adolesc Psychiatr Clin North Am. 1996;5:617-647. 
+6. Brouillette RT, Fernbach SK, Hunt CE. Obstructive sleep apnea in infants and children. 
+J Pediatr. 1982;100:31-40. 
+7. Hunt CE, Brouillette RT. Abnormalities of breathing control and airway maintenance 
+in infants and children as a cause of cor pulmonale. Pediatr Cardiol. 1982; 
+3:249-256. 
+8. Talbot AR, Robertson LW. Cardiac failure with tonsil and adenoid hypertrophy. 
+Arch Otolaryngol. 1973;98:277-281. 
+9. Richardson MA, Seid AB, Cotton RT, Benton C, Kramer M. Evaluation of tonsils 
+and adenoids in sleep apnea syndrome. Laryngoscope. 1980;90:1106-1110. 
+10. Frank Y, Kravath RE, Pollak CP, Weitzman ED. Obstructive sleep apnea and its 
+therapy: clinical and polysomnographic manifestations. Pediatrics. 1983;71:737742. 
+11. Messner AH. Evaluation of obstructive sleep apnea by polysomnography prior 
+to pediatric adenotonsillectomy. Arch Otolaryngol Head Neck Surg. 1999;125: 
+353-356. 
+12. Ali NJ, Pitson DJ, Stradling JR. Snoring, sleep disturbance, and behaviour in 4-5 
+year olds. Arch Dis Child. 1993;68:360-366. 
+13. Ali NJ, Pitson DJ, Stradling JR. Sleep disordered breathing: effects of adenotonsillectomy 
+on behaviour and psychological functioning. Eur J Pediatr. 1996; 
+155:56-62. 
+14. 
+Guilleminault CH, Winkle R, Korobkin R, Simmons B. Children and nocturnal snoring: 
+evaluation of the effects of sleep related respiratory resistive load and daytime 
+functioning. Eur J Pediatr. 1982;139:165-171. 
+15. 
+Rhodes SK, Shimoda KC, Waid LR, et al. Neurocognitive deficits in morbidly obese 
+children with obstructive sleep apnea. J Pediatr. 1995;127:741-744. 
+16. Weissbluth M, Davis AT, Poncher J, Reiff J. Signs of airway obstruction during 
+sleep and behavioral, developmental, and academic problems. J Dev Behav Pediatr. 
+1983;4:119-121. 
+17. Greene MG, Carroll JL. Consequences of sleep-disordered breathing in childhood. 
+Curr Opin Pulm Med. 1997;3:456-463. 
+18. 
+Achenbach TM. Manual for the Child Behavior Checklist/2-3 and 1992 Profile. 
+Burlington: Dept of Psychiatry, University of Vermont; 1992. 
+19. 
+Achenbach TM. Manual for the Child Behavior Checklist/4-18 and 1991 Profile. 
+Burlington: Dept of Psychiatry, University of Vermont; 1991. 
+20. Gustafson TL. True Epistat Reference Manual. 5th ed. Richardson, Tex: Epistat 
+Services; 1994. 
+21. 
+Employment Policy Foundation. Fact and Fallacy. Vol 2, No. 1. Available at: http:// 
+www.epf.org/ff2-1.htm. Accessed April 8, 1999. 
+22. 
+Gozal D. Sleep-disordered breathing and school performance in children. Pediatrics. 
+1998;102:616-620. 
+23. Bédard M-A, Montplaisir J, Malo J, Richer F, Rouleau I. Persistent neuropsychological 
+deficits and vigilance impairment in sleep apnea syndrome after treatment 
+with continuous positive airways pressure (CPAP). J Clin Exp Neuropsychol. 
+1993;15:330-341. 
+24. Findley LJ, Barth JT, Powers DC, Wilhoit SC, Boyd DG, Suratt PM. Cognitive impairment 
+in patients with obstructive sleep apnea and associated hypoxemia. Chest. 
+1986;90:686-690. 
+25. 
+Findley LJ, Unverzagt ME, Suratt PM. Automobile accidents involving patients 
+with obstructive sleep apnea. Am Rev Respir Dis. 1988;138:337-340. 
+ARCH OTOLARYNGOL HEAD NECK SURG/ VOL 124, APR 1998 
+
+498 
+
+Downloaded from www.archoto.com on March 4, 2009 
+
+©1998 American Medical Association. All rights reserved. 
+
+

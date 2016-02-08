@@ -1,0 +1,1020 @@
+0031-3998/06/5905-0711 
+PEDIATRIC RESEARCH 
+Copyright © 2006 International Pediatric Research Foundation, Inc. 
+
+Vol. 59, No. 5, 2006 
+
+Printed 
+in 
+U.S.A. 
+
+
+Changes 
+in 
+Behavior 
+and 
+Attentional 
+Capacity 
+after 
+Adenotonsillectomy 
+
+
+BARBARA C. GALLAND, PATRICK J. DAWES, E. GAIL TRIPP, AND BARRY J. TAYLOR 
+
+Department 
+of 
+Women’s 
+& 
+Children’s 
+Health 
+[B.C.G., 
+B.J.T.], 
+Department 
+of 
+Otorhinolaryngology, 
+Head 
+& 
+Neck 
+Surgery 
+[P.J.D.], 
+Department 
+of 
+Psychology 
+[E.G.T.], 
+University 
+of 
+Otago, 
+Dunedin, 
+New 
+Zealand 
+
+
+ABSTRACT: 
+The objective of this study was to quantify behavioral 
+and attention capacity changes in children aged 4–11 y before and 
+3 mo after adenotonsillectomy (A/T). Overnight cardiorespiratory 
+recordings were performed in 61 “behaviorally normal” children 
+1 wk before A/T. Tests of sustained attention using visual and 
+auditory continuous performance tests (CPT) were completed by 
+children 1 wk before and 3 mo after A/T. Behavioral Assessment 
+Scales for Children (BASC) and a sleep questionnaire were completed 
+by the parent/s at these same times. Results from overnight 
+cardiorespiratory recordings showed that the children had mild sleep-
+related breathing disorders (SRBD) preoperatively with a mean 
+apnea/hypopnea index of 3.0/h and a movement awakening index of 
+2.5/h. The majority had parent-perceived sleep and breathing difficulties 
+that significantly improved post-A/T. BASC T 
+scores for 
+externalizing and internalizing behaviors improved post-A/T, e.g., 
+behavioral symptom index mean pre-A/T was 56.2 (95% confidence 
+interval, 52.8–59.6) compared with 50.9 (48.5–53.5) post-A/T. Some 
+measures indicative of impulsivity and attentiveness obtained from 
+the visual CPT before surgery, improved post-A/T, but no change 
+was observed in any auditory CPT measures. Our data confirm 
+improvements in subjective measures of sleep problems in children 
+treated for SRBD and strengthen the notion of treating the disorder, 
+not only related to the obvious clinical condition but also to the 
+underlying sleep problems and adverse effects on daytime behavior 
+and attention. (Pediatr 
+Res 
+59: 
+711–716, 
+2006) 
+
+
+C
+C
+hildren with adenotonsillar hypertrophy are at risk of 
+suffering SRBD (1), with snoring, difficulty breathing, 
+apnea, and persistent mouth breathing that ranges from primary 
+snoring, through upper airways resistance syndrome, to 
+OSA. The most common treatment for children with adenotonsillar 
+hypertrophy or recurrent tonsillitis is A/T. This has 
+been shown to result in clinical improvement in the majority 
+of cases. In severe cases involving OSA, failure to treat can be 
+associated with serious morbidity such as failure to thrive and 
+systemic hypertension, and pulmonary hypertension with or 
+without cor pulmonale can develop (1). 
+
+SRBD have been linked to daytime behavioral problems, 
+predominantly those associated with hyperactivity, aggression, 
+and inattention (2–4), and poorer performance on tests of 
+memory and intelligence (5). At short-term follow-up after 
+
+treatment, significant improvements in children’s vigilance 
+and behavior in areas of aggression, inattention, impulsivity 
+and hyperactivity (6,7), and quality of life (8) have been 
+reported. Also reported are short-term improvements in several 
+cognitive factors such as perceptual closure, inference, 
+organization, visual and auditory short-term memory, ability 
+to solve problems and think analytically (9), and learning 1 y 
+after treatment for a SRBD in poor academic achievers (10). 
+
+The main physiologic characteristics during sleep for children 
+with SRBD are intermittent hypoxemia associated with 
+frequent apneas, hypopneas and sleep fragmentation due to 
+frequent arousals, awakenings, and a reduction in REM sleep, 
+all of which may impact adversely on neurobehavioral functioning 
+(11). These adverse effects are well documented, 
+although only a few small prospective studies have been 
+carried out. The aim of this study was to quantify the behavioral 
+and attention changes in children aged 4–11 y, before 
+and 3 mo after surgery, and to examine any potential relationships 
+between the severity of SRBD and changes in the main 
+outcomes of behavior and attention. 
+
+METHODS 
+
+
+Subjects. 
+The sample comprised 61 children aged 4–11 y. Subjects were 
+recruited from a surgical waiting list for A/T following referral by an 
+otolaryngologist; 19 (31%) because of obstructive airway symptoms relating 
+to adenotonsillar hypertrophy and 42 (59%) because of recurrent episodes of 
+tonsillitis. Tonsillar size was graded according to the reduction in pharyngeal 
+diameter at the fauces (12): Grade I, 0–25%; II, 26–50%; III, 51–75% and; 
+IV, 76–100%. Exclusion criteria were gross sensory or motor problems, 
+significant developmental delay, or previous diagnosis of attention deficit 
+hyperactivity disorder (ADHD) or taking medication for ADHD. Recruitment 
+success was 55%. Deprivation index scores [New Zealand (NZ) Dep2001] 
+were calculated for each child’s domicile using GeoStan NZ (version 2.1). 
+This uses data extracted from the 2001 census dividing NZ into 10ths of 
+distributions in relation to several indicators of socioeconomic deprivation. 
+The Otago Ethics Committee approved the study. Informed written consent 
+was obtained from parent/s of all participants and with assent from the child. 
+
+Overnight 
+cardiorespiratory 
+recordings. 
+One week before adenotonsillectomy 
+(pre-A/T), each child underwent one night of cardiorespiratory recording. 
+Thoracic and abdominal movements were recorded by inductive plethysmography 
+(Respitrace model 150; Respitrace Co., NY ); SaO2 and pulse 
+signal by pulse oximetry (Nellcor N-200, Nellcor, Pleasanton, CA); nasal 
+airflow by thermistry (MLT415, ADInstruments Pty. Ltd., Castle Hill, Australia); 
+breath sounds by microphone placed over the sternal notch; and ECG 
+
+Received June 2, 2005; accepted January 4, 2006. Abbreviations: 
+ACPT, 
+auditory continuous performance test; AHI, 
+apnea 
+Correspondence: Barbara Galland, Ph.D., Department of Women’s & Children’s 
+
+hypopnea index; A/T, 
+adenotonsillectomy; BASC, 
+Behavioral Assessment 
+
+Health, University of Otago, P.O. Box 913, Dunedin, New Zealand; e-mail: 
+
+Scale for Children; OSA, 
+obstructive sleep apnea; SaO2, 
+hemoglobin oxygen 
+
+barbara.galland@stonebow.otago.ac.nz 
+This study was supported by a University of Otago research grant. saturation; SRBD, 
+sleep-related breathing disorder; TRT, 
+total recorded time 
+
+DOI: 
+10.1203/01.pdr.0000214992.69847.6f 
+
+
+711 
+
+
+
+GALLAND ET 
+AL. 
+
+
+was recorded using standard position electrodes. All signals were relayed 
+through an analog-to-digital converter (PowerLab, ADInstruments Pty. Ltd.). 
+Sleep, movement, and awakenings were recorded using time-lapse video 
+recordings with an infrared light source. Because there were no EEG or 
+electrooculogram recordings, behavioral movement awakenings were quantified 
+using video recording observations together with increases in heart rate. 
+A movement awakening index was expressed as the total number of movement 
+awakenings per hour of TRT, i.e., time from behaviorally observed sleep 
+onset to morning awakening. Sleep efficiency and snoring were calculated as 
+the percentage of behaviorally observed sleep time. Respiratory events were 
+classified and their number, frequency and duration recorded. Obstructive 
+apnea was defined as the absence of airflow with continued chest wall and 
+abdominal movement for at least two respiratory cycles (13,14). Obstructive 
+hypopnea was defined as a decrease in airflow to less than 50% baseline 
+amplitude for at least two respiratory cycles (15). An obstructive AHI was 
+defined as the total number of obstructive apneas, hypopneas, and mixed 
+apneas per hour of behaviorally observed sleep time. On the basis of “normative 
+data,” an obstructive AHI index 1.5 was chosen as the cutoff for 
+outside the range of normal (15). 
+
+Sleep 
+and 
+breathing 
+questionnaire. 
+As for all questionnaires, the parent 
+(predominantly mother) completed this 28-item questionnaire 1 wk before 
+surgery (pre-A/T) and 3 mo after (post-A/T). Questions were based on clinical 
+experience and published signs and symptoms of children with SRBD with 
+particular reference to a parent questionnaire designed by Brouillette et 
+al. 
+
+
+(16) for discriminating between children with and without proven SRBD from 
+polysomnography and included questions about child and family history of 
+breathing difficulties during sleep, sleep hygiene, snoring, enuresis, sweating 
+during sleep, periodic limb movements, levels of household smoking, and 
+daytime signs of sleepiness. Responses to the main questions were categorized 
+as never/sometimes/often/always, with room for additional comments 
+where appropriate. 
+BASC. 
+The BASC Parent Rating Scales (17), a 131-to 138-item questionnaire 
+that assesses a child’s adaptive and problem behaviors in home and 
+community settings, were completed pre-and post-A/T. Two forms were 
+used, targeted at children aged 4 –5 y and 6–11 y. These contain descriptors 
+of behaviors that respondents rate on a 4-point scale ranging from “never” to 
+“almost always.” The scores yield a clinical profile and an adaptive profile 
+(for 6–11 y olds). T-scores calculated represent a standard score normalized 
+for the age of the child using a mean of 50 and a SD of 10. Test-retest 
+reliability coefficients for the parent-completed rating scale over a 2– 8 wk 
+interval range from 0.41 to 0.94 (17). 
+
+Tests 
+of 
+sustained 
+attention. 
+Visual and auditory continuous performance 
+tests (CPT) taking 15 min each were used to measure sustained attention pre-
+and post-A/T, but were available to 6-to 11-y-old children only (n 
+. 
+39). The 
+Visual Conners’ Continuous Performance Test (VCPT) II (18) is a computerized 
+tool where stimuli (white letters) appear on a black screen for 250 ms 
+at varying interstimulus intervals (ISI; 1, 2, and 4 s). Children respond by 
+pressing the space bar immediately, except when the target letter X 
+appears. 
+The test measures reaction time, inattention, impulsivity, and variability of 
+reaction time. Test-retest reliabilities over 3 mo range from 0.55 to 0.84 for 
+the most relevant outcomes (18). 
+
+The Auditory Continuous Performance Test (ACPT) (19) required children 
+to listen to a string of 120 words repeated six times over, and indicate to the 
+experimenter, whenever they heard the target word dog. Total error scores 
+were calculated from the sum of omissions (inattention error) and commissions 
+(impulsive error), and a vigilance decrement calculated [difference in 
+percentage of responses to dog 
+in the first presentation to the last (sixth)]. 
+Test-retest reliability show moderate coefficient scores of 0.67 and 0.74 for 
+children aged 7 and 9 y, respectively (19). 
+
+Statistical 
+analyses. 
+Statistical analyses were performed using STATA 
+version 8.0 (StataCorp, College Station, TX). Nonparametric tests using 
+Spearman’s correlation coefficients were used to look for correlations between 
+cardiorespiratory variables with continuous data. Standard logistic regression 
+was used to investigate potential relationships between AHI (. 
+or 1.5), 
+tonsillar size (grades 1 and II or III and IV), and other cardiorespiratoryderived 
+variables. To investigate whether variables suggestive of a SRBD 
+(pre-A/T) could predict behavioral scores, standard logistic regression was 
+used for AHI (. 
+or 1.5) and ANOVA for SaO2 nadir, the movement 
+awakening index, and percentage of recording snoring (transformed into 
+tertiles). For sleep and breathing questionnaire-derived responses, 2 analyses 
+were performed (dichotomous outcomes), and pre-and post-treatment were 
+compared using binomial statistics. Comparisons of pre-and post-treatment 
+indices for behavior and attention, and deviations from the norm, were made 
+with paired t 
+tests with p 
+values adjusted for unequal variances where 
+appropriate. A value of p 
+. 
+0.05 (two-tailed test) was considered statistically 
+significant. 
+
+RESULTS 
+
+
+Group 
+characteristics. 
+The sample of 61 children (35 
+boys/26 girls) ranged in age from 4 to11 y with a mean . 
+SD 
+of 7 . 
+2 y. Most had a normal body mass index (18.1 . 
+4.0 
+kg/m2), although 24% were overweight or obese for their age 
+according to Cole et 
+al. 
+(20). Tonsillar size was graded I, II, 
+III, and IV in 8, 36, 50, and 6% of the sample, respectively. 
+Smoking by at least one person was present in the households 
+of 47%. Children came from the full spectrum of domiciles, 
+ranging from the 10% least deprived areas indicated by a 
+NZDep2001 score of 1, to the 10% most deprived areas 
+scoring 10; mean . 
+SD . 
+4.8 . 
+2.9. There was no evidence 
+that the sample was drawn from a population with different 
+frequencies from the overall population (2 . 
+8.65, p 
+. 
+0.471). 
+
+Cardiorespiratory 
+findings. 
+Results are summarized in Table 
+1. Using an AHI index 1.5 for being outside the range of 
+“normal” (15), 43 children (70%) reached this cutoff. Of the 
+19 children with obstructive airway symptoms from clinical 
+history and examination alone, 14 (74%) reached this cutoff. 
+Ten children had an AHI 5, 21% of those presenting with 
+obstructive airway symptoms and 16% with just a history of 
+recurrent tonsillitis. There was a tendency for tonsillar size to 
+be related to AHI 1.5 [odds ratio (OR), 2.10; 95% confidence 
+interval (CI), 0.82–5.36). Mean sleep efficiency was 
+87%, with only two children scoring 70%. Eighty-seven 
+percent (n 
+. 
+53) exhibited a SaO2 nadir between 95 and 90; 
+13% (n 
+. 
+8) reached 90%. SaO2 nadir was inversely correlated 
+with AHI (r 
+. 
+–0.46, p 
+. 
+0.001) and the percentage of 
+recorded snoring (r 
+. 
+–0.27, p 
+. 
+0.05), and AHI was 
+positively correlated with the percentage of recorded snoring 
+(r 
+. 
+0.33, p 
+. 
+0.015). 
+
+Sleep 
+and 
+breathing 
+items. 
+The results are summarized in 
+Table 2. Data were analyzed only when complete pre-post 
+data were available, as sometimes parents chose not to answer 
+or missed answering a particular question that precluded 
+inclusion in the pre-post data analyses. Sleep and breathing 
+disturbance item responses ranging from “never” to “always” 
+were frequently reported pre-A/T. Sixty-four percent of the 
+sample was reported to snore “frequently or constantly,” but 
+there was no significant relationship between this and the 
+presence of household smoking. There was a slight trend for 
+reported snoring levels by the parent and those measured 
+
+Table 
+1. 
+Cardiorespiratory-derived 
+variables 
+recorded 
+pre-A/T 
+
+
+Mean . 
+SD 
+(n 
+. 
+61) 
+
+Observed sleep latency (min) 35.1 . 
+30.7 
+TRT† (h) 9.4 . 
+1.2 
+Behaviorally observed sleep time (h) 8.2 . 
+1.1 
+Awake (% TRT) 12.5 . 
+6.6 
+Sleep efficiency (% TRT) 87.5 . 
+6.6 
+Movement awakening index (per hour TRT) 2.5 . 
+0.9 
+Snoring (% of behaviorally observed sleep) 17.5 . 
+14.4 
+SaO2 nadir (%) 91.7 . 
+4.3 
+AHI (per hour of behaviorally observed sleep time) 3.0 . 
+2.6 
+
+† TRT covers time from behaviorally observed sleep onset to morning 
+awakening. 
+
+BEHAVIOR AFTER ADENOTONSILLECTOMY 713 
+Table 
+2. 
+Parental 
+reports 
+of 
+sleeping 
+items 
+pre-and 
+post-A/T 
+Pre-A/T Direction of change Post-A/T (n) 
+Never/sometimes Frequently/constantly 
+Variable [n 
+(%)] [n 
+(%)] Worse Same Improved p 
+Value 
+Difficulty breathing 40 (75.5) 13 (24.5) 0 41 12 0.0005 
+Snoring 21 (35.6) 38 (64.4) 0 25 34 0.0001 
+Sleep with mouth open 16 (27.1) 43 (72.9) 1 27 31 0.0001 
+Snorting 45 (80.4) 11 (19.6) 1 45 10 0.01 
+Hard to wake 40 (66.7) 20 (33.3) 3 39 18 0.001 
+Daytime sleepiness 48 (81.4) 11 (18.6) 0 50 9 0.004 
+Restless sleep 34 (59.6) 23 (40.4) 2 33 22 0.0001 
+Restless legs 53 (91.4) 5 (8.6) 3 51 4 NS 
+Enuresis 52 (89.7) 6 (10.3) 1 54 3 NS 
+Drenching sweats 24 (54.5) 20 (45.5) 3 29 12 0.035 
+Headaches 53 (91.4) 5 (8.6) 1 52 5 NS 
+
+during the overnight recording to be related (OR, 1.05; 95% 
+CI, 1.0–1.1). Post-A/T, there were significant improvements 
+in all items including drenching sweats. Less than 10% of 
+children were reported to have restless legs, enuresis, and 
+headaches “frequently or constantly” before or after surgery. 
+
+Behavior. 
+BASC scores are given in Table 3. Before surgery 
+(pre-A/T), the following variable scores within the clinical 
+profile were significantly higher than the T 
+score mean 
+(50), but still within average range: hyperactivity, aggression, 
+depression, somatization, attentional problems, and composite 
+scores for externalizing and internalizing behaviors including 
+the behavioral symptom index. Other variables within the 
+clinical profile scores (i.e., conduct problems, anxiety, atypicality, 
+and withdrawal) were not significantly different from 
+the T 
+score mean. Post-A/T behavioral variable changes significantly 
+improved for all except conduct problems, and T 
+scores were no longer different from the mean. Adaptive 
+profile scores were never significantly different from the T 
+score mean, pre-or post-A/T. Linear regression analyses to 
+
+look for any association of cardiorespiratory variables pre-A/T 
+with concomitant behavioral scores revealed no significant 
+correlation. 
+
+Tests 
+of 
+attention. 
+Table 4 gives a summary of the T 
+scores 
+for the 11 VCPT variables. Comparisons with the normal 
+population mean showed that significantly higher scores for 
+commissions (indicator for inattention and impulsivity) and 
+detectability (indicator for inattention) were present pre-A/T 
+but were within the average range of a normal nonclinical 
+score. Significant improvements were found after surgery. 
+Lower scores for hit reaction time (HRT) SE by ISI were 
+detected pre-A/T, suggesting the group showed more consistent 
+responses in their ability to change their reaction time in 
+response to changing ISI. No other measures were significantly 
+different from the population norm. 
+
+Table 5 gives ACPT summary scores for total errors by age 
+group. Comparison with normative mean data showed all, 
+excluding age 7, were within the range of normal and showed 
+no change in attention abilities post-A/T. The group of 7-y-
+
+Table 
+3. 
+BASC 
+parental-rated 
+T 
+scores 
+pre-and 
+post-A/T 
+
+
+T 
+score§ pre-A/T, T 
+score§ post-A/T, 
+mean (95% CI), mean (95% CI), . 
+Between means 
+Profile Variable n 
+. 
+61 n 
+. 
+61 (95% CI) p 
+Value 
+Clinical Externalizing behaviors composite 56.2 (52.8 –59.6)* 50.9 (48.5–53.5) 5.2 (8.5 to 1.9) 0.003 
+Hyperactivity 56.0 (52.8 –59.2)* 50.2 (47.7–52.7) 5.8 (8.5 to 3.1) 0.0001 
+Aggression 54.6 (51.7–57.6)* 49.8 (47.2–52.5) 4.8 (7.9 to 1.7) 0.003 
+Conduct problems† 51.0 (47.9 –54.1) 50.0 (47.2–52.8) 0.6 (2.7 to 1.4) NS 
+Internalizing behaviors composite 57.6 (54.6 – 60.6)** 50.1 (47.2–53.0) 7.5 (9.7 to 5.2) 0.0001 
+Anxiety 52.7 (49.9 –55.4) 49.8 (47.4 –52.1) 2.9 (5.1 to 0.7) 0.01 
+Depression 54.4 (51.3–57.6)* 48.4 (45.9 –50.8) 6.1 (8.4 to 3.8) 0.0001 
+Somatization 59.9 (56.2– 63.6)* 51.4 (48.5–53.5) 8.5 (11.7 to 5.3) 0.0001 
+Atypicality 53.4 (49.9 –56.8) 49.5 (47.0 –52.0) 3.9 (6.7 to 1.1) 0.008 
+Withdrawal 53.1 (49.9 –56.4) 47.5 (44.9 –50.1) 5.7 (8.2 to 3.2) 0.0001 
+Attention problems 56.1 (53.4 –58.7)* 52.7 (50.2–55.2) 3.4 (5.8 to 0.1) 0.006 
+Behavioral symptom index composite 56.3 (53.1–59.5)* 50.2 (47.5–53.0) 6.0 (8.9 to 3.2) 0.001 
+Adaptive† Adaptive skills composite 49.3 (45.1–52.3) 51.9 (59.0 –54.8) 2.6 (0.4 to 5.6) NS 
+Adaptability 48.7 (45.1–52.3) 51.6 (49.1–54.1) 2.9 (0.32 to 6.1) NS 
+Social skills 49.2 (46.4–51.9) 51.8 (49.1–54.4) 2.6 (0.8 to 4.5) NS 
+Leadership 49.0 (44.8–53.2) 51.4 (47.5–55.2) 1.5 (0.08 to 3.1) NS 
+
+* p 
+. 
+0.05; ** p 
+. 
+0.0001 significantly different from T 
+score mean norm of 50. 
+† 6-to 11-y-olds only (n 
+. 
+34). 
+§ T 
+score cutoffs: Clinical profile: 41–59 . 
+average, 60 –69 . 
+at-risk. Adaptive profile: 41–59 . 
+average, 31–40 . 
+at-risk. 
+
+714 GALLAND ET 
+AL. 
+Table 
+4. 
+Visual 
+Continuous 
+Performance 
+Test 
+Response‡ 
+T 
+score pre-A/T mean 
+(95% CI) 
+T 
+score post-A/T mean 
+(95% CI) 
+. 
+Between means 
+(95% CI) p 
+Value 
+Inattention summary 
+1. Hit reaction time (HRT) 
+2. % Omissions 
+3. % Commissions 
+4. HRT SE 
+5. Variability 
+6. Detectability 
+7. HRT by ISI 
+8. HRT SE by ISI 
+Impulsivity summary§ 
+9. Perseverations 
+Vigilance summary 
+10. HRT by block 
+11. HRT SE by block 
+48.3 (44.2–52.5) 
+49.9 (44.9 –54.9) 
+56.9 (53.7– 60.2)** 
+48.5 (44.8 –52.2) 
+48.4 (44.4 –52.4) 
+56.6 (53.7–59.6)** 
+48.9 (45.7–52.2) 
+45.7 (42.6 – 48.8)* 
+51.3 (46.8 –55.7) 
+49.9 (46.7–53.1) 
+49.1 (45.6 –52.6) 
+47.7 (42.9 –52.6) 
+48.2 (45.0 –51.4) 
+51.4 (47.2–55.6) 
+48.8 (45.1–52.6) 
+49.9 (46.7–53.1) 
+49.9 (46.0 –53.8) 
+50.5 (46.4 –54.5) 
+50.4 (45.8 –54.9) 
+52.9 (47.1–58.7) 
+49.5 (46.9 –52.0) 
+47.9 (45.3–50.5) 
+0.6 (6.9 to 5.6) 
+1.7 (7.5 to 4.1) 
+5.5 (10.7 to 0.32) 
+0.3 (4.9 to 5.5) 
+1.5 (3.5 to 6.5) 
+6.7 (11.5 to 1.9) 
+1.5 (3.5 to 6.6) 
+4.7 (0.7 to 10.1) 
+1.6 (5.5 to 8.7) 
+0.47 (4.5 to 3.5) 
+1.2 (5.5 to 3.1) 
+NS 
+NS 
+0.04 
+NS 
+NS 
+0.006 
+NS 
+NS 
+NS 
+NS 
+NS 
+
+* p 
+. 
+0.05; ** p 
+. 
+0.0001 significantly different from T 
+score general population mean norm of 50. 
+‡ The numbered responses measure 1) average speed of correct responses; 2) response not given; 3) response given after X 
+appears; 4) response speed 
+consistency; 5) inconsistency; 6) discriminatory power to detect X 
+and non-X 
+stimuli; 7) ability to change reaction time to changing ISI; 8) consistency of 7; 9) 
+any reaction time 100 ms; 10) change in reaction time over test duration; 11) change in response consistency over test duration. 
+§ Impulsivity summary includes data for commissions and HRT. 
+
+olds had better attention abilities than the norm both pre-and 
+post-A/T. No significant change in vigilance pre-versus 
+post-
+A/T was found. There were no significant correlations between 
+cardiorespiratory variables with attention test scores 
+pre-A/T. 
+
+Relationship 
+between 
+indicators 
+for 
+SRBD 
+and 
+behavior 
+scores. 
+Analyses to predict whether variables suggestive of a 
+SRBD (pre-A/T) (i.e., AHI, SaO2 nadir, movement awakening 
+index, and percentage snoring) could predict behavioral scores 
+resulted in one significant association and one trend worth 
+reporting. Thus, AHI was significantly positively associated 
+with hyperactivity [50.8 . 
+10.4 (SD) and 58.3 . 
+12.5 for AHI 
+. 
+and 1.5, respectively; p 
+. 
+0.03] and there was a trend for 
+a positive association with the behavioral symptom index 
+
+(51.7 . 
+7.4 and 57.3 . 
+12.7, respectively; p 
+. 
+0.08). No other 
+significant associations were found. 
+DISCUSSION 
+
+
+This study of behaviorally normal children referred for A/T 
+showed that several parent-rated indices of child behavior 
+significantly improved 3 mo after surgery. Objective testing of 
+
+children’s sustained attention also showed improvements in 
+some areas indicative of inattentive and impulsive symptoms. 
+A higher level of age-adjusted scores for many of the behavioral 
+indices found before surgery concurs with other reports 
+where behaviors such as hyperactivity and aggression have 
+also been associated with SRBD (21,22). Owens et 
+al. 
+(22) 
+have suggested that these externalizing behaviors may be in 
+part reflective of daytime somnolence, and thus of an underlying 
+sleep disturbance. Our subjective measures of the severity 
+of the nighttime disruption to sleep and breathing, including 
+daytime somnolence, certainly revealed marked 
+improvements after surgery. However, we found no association 
+of factors that looked at somnolence in particular with any 
+of the higher behavioral scores reported before surgery. 
+
+Before proceeding further, there are some methodological 
+limitations to this study that warrant comment. There was no 
+concurrent control group and thus we cannot exclude the 
+possibility that some of the attentional test improvements 
+observed postoperatively were a practiced effect despite valid 
+test-retest reliability data (18,19). The behavioral questionnaire 
+changes were parent-perceived. The parents could never 
+be blinded to the procedure so belief and expectation may 
+
+Table 
+5. 
+ACPT: 
+total 
+error 
+score 
+for 
+age 
+
+
+Total error scores (no. omissions . 
+commissions) 
+
+Age No. 
+Normal 
+population mean† 
+Pre-A/T mean 
+(95% CI) 
+Post-A/T mean 
+(95% CI) 
+. 
+Between means 
+(95% CI) P 
+Value 
+6 
+7 
+8 
+9 –11‡ 
+8 
+8 
+8 
+12 
+20.4 
+16.2 
+12.8 
+6.7 
+22.1 (12.8 –31.4) 
+8.5 (1.1–15.9)* 
+13.6 (0 –28.3) 
+6.2 (1.8 –10.5) 
+24.6 (11.8 –37.4) 
+9.2 (2.5–15.9)* 
+9.2 (1.3–17.1) 
+5.1 (1.7– 8.5) 
+2.5 (11.8 to 16.8) 
+0.7 (8.2 to 9.7) 
+4.5 (18.9 to 9.9) 
+1.0 (1.3 to 3.1) 
+NS 
+NS 
+NS 
+NS 
+
+* p 
+. 
+0.05; ** p 
+. 
+0.0001 significantly different from ACPT data from a study of 220 children with normal attention abilities (19). 
+Repeat data were not available for three children. 
+† ACPT data from a study of 220 children with normal attention abilities (19). 
+‡ Data pooled for 9-to 11-y-olds because the normal population mean shows little variation over this age range (19). 
+
+BEHAVIOR AFTER ADENOTONSILLECTOMY 
+
+have played some part in the perceived improvements. Despite 
+these limitations, our findings are consistent with the large 
+body of evidence in the literature reporting an adverse association 
+between SRBD and several facets of daytime functioning 
+(2–5) together with data showing improvements after A/T 
+(6–10). 
+
+In contrast to the externalizing and internalizing behaviors, 
+measures of the children’s adaptive skills and the sub-scales of 
+adaptability, social skills, and leadership were all judged to be 
+close to the norm before surgery and remained so at follow-up. 
+Adaptive skills may be considered learned behaviors that 
+appeared to be unaffected by the SRBD. We did not test 
+specifically for cognitive processing, but a study of children 
+age 5–9 y with longer term follow-up (6–10 mo) showed 
+significant improvements in neurocognitive function including 
+academic performance after adenotonsillectomy (9). Children 
+with SRBD in whom the condition is left untreated have been 
+suggested to be at risk of underachieving academically (9,10). 
+Improvements in learning have been reported after treatment 
+(3,10). However, the report that children who snore loudly and 
+frequently during childhood risk poorer academic performance 
+in later years, even well after the snoring has resolved, 
+suggests that treatment may only reverse a learning deficit in 
+the short term (23). 
+
+Our study showed that the VCPT revealed some mild 
+impulsive and inattentive symptoms in children before surgery 
+that reversed to the general population mean norm after 
+surgery. The markers for inattentiveness included the detect-
+ability measure. This is a measure of a child’s discriminatory 
+power, suggesting that minor perceptual difficulties were evident 
+before surgery. We acknowledge that repeatability of the 
+task may have influenced our results, but the time frame of 3 
+mo was well outside of the 1–14 d test-retest reliability studies 
+that showed moderate correlations (19). Also, our findings 
+concur with others in that several studies have shown that 
+children with SRBD have poorer measures of attention span 
+compared with a control group (3,9,21). Furthermore, Fried-
+man et 
+al. 
+(9) have shown that the poor attention span in 
+OSA-treated children, followed-up 6–10 mo after surgery, 
+reversed compared with that of their control group. Avior et 
+al. 
+(7), using a comparable visual CPT tool in a small sample 
+of children with OSA have shown 2-mo postoperative improvements 
+in measures of both inattention and impulsivity. 
+The auditory test we used, however, did not expose any 
+deficits in attention, impulsivity, or vigilance. An anomaly 
+was seen in the group of 7-y-olds who performed better than 
+the norm for their age group before and after surgery and the 
+10-y-olds after surgery. This particular age group had a bias 
+toward good performance that was unavoidable with the small 
+sample numbers. 
+
+Funding restrictions limited our ability to perform overnight 
+cardiorespiratory studies at follow-up, but the positive result 
+from the parental questionnaires designed to measure the 
+symptoms and severity of a number of sleep and breathing 
+items suggest overall improvement of sleep and breathing 
+disturbances after A/T. The findings support other studies also 
+based on parental reports (9,24,25), although we acknowledge 
+that parental perception of their child’s resolution of SRDB 
+
+can sometimes be wrong (26). However, it is well documented 
+that as many as 80% of children have polysomnographically 
+determined improved breathing during sleep and resolution of 
+SRBD after A/T (25,26), and our results would suggest from 
+subjective measures that up to 60% improved depending on 
+the breathing item chosen. Others have also shown significant 
+improvements of many polysomnographic-derived variables 
+(6,27,28). A recent study evaluating polysomnographic data 
+before and a few months after surgery showed significant 
+improvements in all respiratory parameters with a greater 
+improvement in the respiratory disturbance index in non-REM 
+compared with REM sleep and significant improvements in 
+the arousal index (29). 
+
+The overnight cardiorespiratory data gave an indication of 
+the severity of SRBD in the population under study, although 
+we acknowledge that these data were taken from one night 
+only, so the influence of night-to-night variability could not be 
+taken into account. We also acknowledge that, in the absence 
+of accurate sleep staging in the recording, the influence of 
+repeated micro-arousals on the severity of nighttime disturbance 
+could not be taken into account. The majority of the 
+children rated in the mild SRBD category, with very few 
+having an AHI 5, suggesting that the group might not be 
+representative of the true clinical population. We did not 
+specifically exclude those with severe SRBD, but the public 
+hospital points referral system may have meant that those with 
+severe symptoms received immediate treatment or sought 
+private treatment without linking into the hospital waiting list. 
+The range of waiting time for surgery over the study period 
+was between 3 and 6 mo. The finding that the AHI 1.5 was 
+mildly associated with hyperactivity deserves further investigation 
+in children with more severe SRBD, although two 
+studies have found more adverse associations of externalizing 
+behaviors in children with mild OSA compared with moderate-
+to-severe OSA (21,30). In one study, severity of SRBD 
+has been linked to severity of verbal impairment but to very 
+few other neurocognitive outcomes (21). 
+
+Our findings do not allow us to draw conclusions as to 
+possible mechanism/s whereby SRBD could contribute to 
+behavioral problems or attentional difficulties. Findings from 
+many studies report that chronic or intermittent hypoxemia in 
+SRBD, even at a mild level, can adversely impact on children’s 
+behavior, cognition, and academic performance 
+(6,10,25,31). A recent study by Urschitz et 
+al. 
+(32) has shown 
+that the specific variable of nocturnal SaO2 nadir is associated 
+with impaired academic performance. Beebe and Gozal (11) 
+have proposed a theoretical model that suggests that intermittent 
+hypoxemia and sleep fragmentation may act synergistically 
+to affect daytime behavior and cognitive functioning. A 
+reduction in REM sleep, a feature of sleep fragmentation, has 
+been linked to impaired consolidation of learned tasks and 
+may contribute to the severity of behavioral problems in 
+children (33). In the absence of EEG data, we cannot comment 
+as to whether sleep disturbance related to transient arousals 
+may have influenced any of the aspects of children’s daytime 
+functioning in this study. 
+
+In conclusion, this study adds to the accumulation of evidence 
+that neurobehavioral functioning improves in children 
+
+
+
+GALLAND ET 
+AL. 
+
+
+after treatment of SRBD. It must be emphasized that we report 
+statistically significant improvements in a group of behaviorally 
+“normal” children as distinct from clinically significant 
+improvements. A link between SRBD and clinical diagnoses 
+of behavioral disorders is not established, but there is a 
+growing body of evidence that children with ADHD have a 
+higher prevalence of SRBD than the normal population 
+(2,31,34). The finding of improved behavior and attention 
+after A/T in the current group of children, in whom a diagnosis 
+of behavioral disorder was specifically excluded, may have 
+implications for the pediatric population diagnosed with the 
+co-existence of SRBD and behavioral and attentional disorders. 
+Studies aimed at children with these co-existing conditions, 
+in whom the ceiling for improvement is far higher, 
+should be an objective for future studies. 
+
+Acknowledgments. 
+The authors thank Amanda Phillips and 
+Rachel Sayers for research assistance and Andrew Gray for 
+his statistical advice. We also thank the children and their 
+parents/guardians who participated in this study. 
+
+REFERENCES 
+
+
+1. Marcus CL 2001 Sleep disordered breathing in children. Am J Respir Crit Care Med 
+164:16–30 
+2. Ali NJ, Pitson DJ, Stradling JR 1993 Snoring, sleep disturbance, and behaviour in 
+4–5 year olds. Arch Dis Child 68:360–366 
+3. Blunden S, Lushington K, Kennedy D, Martin J, Dawson D 2000 Behavior and 
+neurocognitive performance in children aged 5–10 years who snore compared to 
+controls. J Clin Exp Neuropsychol 22:554–568 
+4. Chervin RD, Archbold KH, Dillon JE, Panahi P, Pituch KJ, Dahl RE, Guilleminault 
+C 2002 Inattention, hyperactivity, and symptoms of sleep-disordered breathing. 
+Pediatrics 109:449–456 
+5. Kennedy JD, Blunden S, Hirte C, Parsons DW, Martin AJ, Crowe E, Williams D, 
+Pamula Y, Lushington K 2004 Reduced neurocognition in children who snore. 
+Pediatr Pulmonol 37:330–337 
+6. Ali NJ, Pitson D, Stradling JR 1996 Sleep disordered breathing: effects of adenotonsillectomy 
+on behaviour and psychological functioning. Eur J Pediatr 155:56–62 
+7. Avior G, Fishman G, Leor A, Sivan Y, Kaysar N, Derowe A 2004 The effect of 
+tonsillectomy and adenoidectomy on inattention and impulsivity as measured by the 
+Test of Variables of Attention (TOVA) in children with obstructive sleep apnea 
+syndrome. Otolaryngol Head Neck Surg 131:367–371 
+8. De Serres LM, Derkay C, Sie K, Biavati M, Jones J, Tunkel D, Manning S, Inglis 
+AF, Haddad J Jr, Tampakopoulou D, Weinberg AD 2002 Impact of adenotonsillectomy 
+on quality of life in children with obstructive sleep disorders. Arch Otolaryngol 
+Head Neck Surg 128:489–496 
+9. Friedman BC, Hendeles-Amitai A, Kozminsky E, Leiberman A, Friger M, Tarasiuk 
+A, Tal A 2003 Adenotonsillectomy improves neurocognitive function in children 
+with obstructive sleep apnea syndrome. Sleep 26:999–1005 
+10. Gozal D 1998 Sleep-disordered breathing and school performance in children. 
+Pediatrics 102:616–620 
+11. Beebe DW, Gozal D 2002 Obstructive sleep apnea and the prefrontal cortex: towards 
+a comprehensive model linking nocturnal upper airway obstruction to daytime 
+cognitive and behavioral deficits. J Sleep Res 11:1–16 
+12. Brodsky L 1989 Modern assessment of tonsils and adenoids. Pediatr Clin North Am 
+36:1551–1569 
+13. American Thoracic Society 1996 Standards and indications for cardiopulmonary 
+sleep studies in children. American Thoracic Society. Am J Resp Crit Care Med 
+153:866–878 
+14. Marcus CL, Omlin KJ, Basinki DJ, Bailey SL, Rachel AB, Von Pechmann WS, 
+Keens TG, Ward SL 1992 Normal polysomnographic values for children and 
+adolescents. Am Rev Respir Dis 146:1235–1239 
+15. Witmans MB, Keens TG, Davidson Ward SL, Marcus CL 2003 Obstructive hypopneas 
+in children and adolescents: normal values. Am J Resp Crit Care Med 168:1540 
+16. Brouilette R, Hanson D, David R, Klemka L, Szatkowski A, Fernbach S, Hunt C 
+1984 A diagnostic approach to suspected obstructive sleep apnea in children. 
+J Pediatr 105:10–14 
+17. Reynolds CR, Kamphaus RW 1992 Behavior Assessment System for Children 
+(BASC). American Guidance Service Inc., Circle Pines, MO 
+18. Conners CK 2000 Conners’ Continuous Performance Test II. Technical Guide and 
+Software Manual. Multi-Health Systems Inc., Toronto, ON, Canada 
+19. Keith RW 1994 Auditory Continuous Performance Test (ACPT). The Psychological 
+Corporation, San Antonio, TX 
+20. Cole TJ, Bellizzi MC, Flegal KM, Dietz WH 2000 Establishing a standard definition 
+for child overweight and obesity worldwide: international survey. BMJ 320:1240– 
+1243 
+21. Lewin DS, Rosen RC, England SJ, Dahl RE 2002 Preliminary evidence of behavioral 
+and cognitive sequelae of obstructive sleep apnea in children. Sleep Med 5–13 
+22. Owens J, Opipari L, Nobile C, Spirito A 1998 Sleep and daytime behavior in 
+children with obstructive sleep apnea and behavioral sleep disorders. Pediatrics 
+102:1178–1184 
+23. Gozal D, Pope DW Jr, 2001 Snoring during early childhood and academic performance 
+at ages thirteen to fourteen years Pediatrics 107:1394–1399 
+24. Potsic WP, Pasquariello PS, Baranak CC, Marsh RR, Miller LM 1986 Relief of 
+upper airway obstruction by adenotonsillectomy. Otolaryngol Head Neck Surg 
+94:476–480 
+25. Stradling JR, Thomas G, Warley AR, Williams P, Freeland A 1990 Effect of 
+adenotonsillectomy on nocturnal hypoxaemia, sleep disturbance, and symptoms in 
+snoring children. Lancet 335:249–253 
+26. Suen JS, Arnold JE, Brooks LJ 1995 Adenotonsillectomy for treatment of obstructive 
+sleep apnea in children. Arch Otolaryngol Head Neck Surg 121:525–530 
+27. Goldstein NA, Post JC, Rosenfeld RM, Campbell TF 2000 Impact of tonsillectomy 
+and adenoidectomy on child behavior. Arch Otolaryngol Head Neck Surg 126:494– 
+498 
+28. Harvey JM, O’Callaghan MJ, Wales PD, Harris MA, Masters IB 1999 Six-month 
+follow-up of children with obstructive sleep apnoea. J Paediatr Child Health 
+35:136–139 
+29. Tal A, Bar A, Leiberman A, Tarasiuk A 2003 Sleep characteristics following 
+adenotonsillectomy in children with obstructive sleep apnea syndrome. Chest 
+124:948–953 
+30. Harsh JR, Mixon MM, Avis KT, LeBourgeois MK 2001 Sleep, daytime sleepiness, 
+and clinical subtypes of ADHD. Sleep 24:A15 
+31. O’Brien LM, Holbrook CR, Mervis CB, Klaus CJ, Bruner JL, Raffield TJ, Rutherford 
+J, Mehl RC, Wang M, Tuell A, Hume BC, Gozal D 2003 Sleep and neurobehavioral 
+characteristics of 5-to 7-year-old children with parentally reported symptoms 
+of attention-deficit/hyperactivity disorder. Pediatrics 111:554–563 
+32. Urschitz MS, Wolff J, Sokollik C, Eggebrecht E, Urschitz-Duprat PM, Schlaud M, 
+Poets CF 2005 Nocturnal arterial oxygen saturation and academic performance in a 
+community sample of children. Pediatrics 115:e204–e209 
+33. O’Brien LM, Ivanenko A, Crabtree VM, Holbrook CR, Bruner JL, Klaus CJ, Gozal 
+D 2003 Sleep disturbances in children with attention deficit hyperactivity disorder. 
+Pediatr Res 54:237–243 
+34. Chervin RD, Dillon JE, Bassetti C, Ganoczy DA, Pituch KJ 1997 Symptoms of sleep 
+disorders, inattention, and hyperactivity in children. Sleep 20:1185–1192 
+

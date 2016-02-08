@@ -1,0 +1,718 @@
+Pediatric Pulmonology 27:403–409 (1999) 
+
+Clinical Features of Obstructive Sleep Apnea 
+Hypoventilation Syndrome in Otherwise 
+Healthy Children 
+
+
+Carol L. Rosen, MD* 
+
+Summary. Obstructive sleep apnea hypoventilation syndrome (OSAHS) is an important public 
+health problem. However, major gaps exist in our knowledge about the clinical features of this 
+disorder in the pediatric age group. The purpose of this study was to examine clinical features 
+of OSAHS diagnosed by polysomnography in otherwise healthy children. In this cross-sectional 
+study, 326 children without underlying medical conditions (5.8 ± 3.0 years, range 1–12 years; 
+56% male) were recruited from patients referred by primary care and otorhinolaryngology physicians 
+for evaluation of snoring and difficulty breathing. Ethnic group distribution was African-
+American (38%), Caucasian (30%), and Hispanic (31%). Complaints of daytime tiredness or 
+sleepiness were reported in 29% of the children. All children underwent overnight polysomnography 
+(N = 330 studies). 
+
+OSAHS was diagnosed in 59% of the children, based on polysomnographic criteria. The 
+remaining children had either primary snoring (25%); no snoring (10%), or upper airway resistance 
+syndrome (6%). Neither male gender nor obesity increased the likelihood for the diagnosis 
+of OSAHS. However, the incidence of obesity in the study population (28%) was more than twice 
+that of the general pediatric population. African-American children had a greater likelihood for 
+OSAHS diagnosis compared to Hispanic or Caucasian children. Daytime complaints of sleepiness 
+or tiredness were not more common in children diagnosed with OSAHS than in the children 
+without OSAHS. As expected, tonsillar hypertrophy increased the likelihood of OSAHS diagnosis. 
+In summary, many of the clinical features of childhood OSAHS are in marked contrast to 
+those in adults. Pediatr Pulmonol. 1999;27:403–409. © 1999 Wiley-Liss, Inc. 
+
+Key words: 
+child; comparative study; polysomnography; sleep apnea syndromes; 
+sleep disordered breathing. 
+
+INTRODUCTION 
+gender and obesity are major risk factors for the diagnosis 
+of obstructive sleep apnea.8 In children, these clinical 
+
+Obstructive sleep apnea hypoventilation syndrome 
+
+features are not well-known, and polysomnographic 
+
+(OSAHS) is an important public health problem that is 
+
+documentation of OSAHS is often absent. In contrast to 
+
+well characterized in adults. However, major gaps exist 
+
+adults, the majority of children with OSAHS have ad-
+
+in our knowledge about this disorder in the pediatric age 
+
+enotonsillar hypertrophy and improve following adeno
+
+
+group. OSAHS is identified by recurrent episodes of 
+
+complete and/or partial airway obstruction during sleep 
+Section of Respiratory Medicine, Department of Pediatrics, Yale Uni
+
+
+that result in intermittent hypoxemia and hypercapnia, 
+
+versity School of Medicine and the Children’s Sleep Laboratory in the 
+
+recurrent arousals, and sleep disruption. These distur
+
+
+Children’s Clinical Research Center, Yale-New Haven Hospital, New 
+
+bances can be associated with daytime sequelae includ-
+
+Haven, Connecticut. 
+
+ing daytime sleepiness, behavioral and neurocognitive 
+
+problems.1 
+Presented at the American Thoracic Society Meeting, April, 1998. 
+
+Habitual snoring occurs in 7–12% of children and is 
+
+Grant sponsor: Yale Children’s Clinical Research Center; Grant num
+
+
+the most common presenting symptom of OSAHS.2–6 
+
+ber: M01-RR06022; Grant Sponsor: General Clinical Research Cen-
+
+However, not all snoring children have OSAHS. In most 
+
+ters Program, National Center for Research Resources, NIH. 
+
+children, snoring occurs in the absence of apnea, hy
+
+
+poventilation, hypoxemia, sleep disturbance, or daytime 
+*Correspondence to: Carol L. Rosen, M.D., Section of Respiratory 
+Medicine, Department of Pediatrics, Yale University School of Medi
+
+
+symptoms (primary snoring). In contrast, OSAHS is as-
+
+cine, 333 Cedar St., P.O. Box 208064, New Haven, CT 06520-8064. 
+
+sociated with physiologic abnormalities such as hypox
+
+
+E-mail: carol.rosen@yale.edu 
+
+emia, hypoventilation, sleep disruption, or daytime sequelae, 
+and occurs in 1–3% of children.6,7 In adults, male Received 8 September 1998; Accepted 22 January 1999. 
+
+
+© 1999 Wiley-Liss, Inc. 
+
+
+404 Rosen 
+
+tonsillectomy.1 Although many normal children have adenotonsillar 
+hypertrophy, a relative minority develop obstructive 
+sleep apnea. Craniofacial, genetic, and 
+neuromuscular disorders such as trisomy 21, achondroplasia, 
+Pierre Robin anomalad, and cerebral palsy are 
+major risk factors for childhood OSAHS, but these conditions 
+are relatively rare.1 The purpose of this study was 
+to examine the clinical features of OSAHS documented 
+by polysomnography in otherwise healthy children referred 
+for suspected OSAHS, but without underlying 
+medical conditions. 
+
+MATERIALS AND METHODS 
+
+The study population included 326 otherwise healthy 
+children, aged 1–12 years, and identified within the data 
+base for polysomnography at the Children’s Sleep Laboratory 
+in the Children’s Clinical Research Center of Yale 
+New-Haven Hospital. All children had been referred to 
+the pediatric respiratory medicine clinic at Yale University 
+by primary care and otorhinolaryngology physicians 
+for evaluation of snoring and difficulty breathing during 
+sleep between 1990 and the present. Exclusion criteria 
+were: children less than 1 year of age, craniofacial 
+anomalies, genetic syndromes, neuromuscular disorders, 
+mental retardation, chronic cardiorespiratory problems, 
+and prior upper airway surgery. Since the sample population 
+included only one Asian patient, this patient’s data 
+were excluded from the final analysis. 
+
+An interview using a standardized sleep and breathing 
+questionnaire2 was completed by the investigator or a 
+physician colleague. For most questions, numerical 
+scores were assigned to each of the answers, ranging 
+from 0 (never); 1 (rarely: less than once a month); 2 
+(occasionally: 1–4 times a month); 3 (frequently: more 
+than once a week); to 4 (almost always: most days). The 
+interview included questions such as: 
+
+1. How often does your child snore at night? 
+2. Does your child struggle to breathe during sleep? 
+3. Does your child stop breathing at night, i.e., try to 
+breathe, but no air comes out? 
+4. Does your child complain of feeling tired all day? 
+5. Does your child fall asleep during the day, either at 
+school or after school? 
+The following question was answered by “yes or no”: 
+
+Abbreviations 
+
+EtCO2 End-tidal carbon dioxide tension 
+OSAHS Obstructive sleep apnea hypoventilation syndrome 
+SpO2 Oxyhemoglobin saturation by pulse oximetry 
+UARS Upper airway resistance syndrome 
+
+6. Has there been any recent change in your child’s behavior, 
+personality, or school performance? 
+An OSAHS symptom score as described by Brouillette 
+et al was determined for each child.2 
+
+Ethnic group was defined on the basis of physician 
+observation of parent and child. Growth parameters were 
+obtained using standard growth charts (National Center 
+for Health Statistics) and were expressed as a percentage 
+of ideal weight for height.9 Children were defined as 
+obese if their ideal body weight was greater than 120% of 
+ideal weight for height, or if their body mass index was 
+greater than the 95th percentile for age.10,11 Failure to 
+thrive was defined by weight less than 80% of ideal 
+weight for height. Tonsil size was rated using a visual 
+scoring system of 0–4+.12 Receipt of medical assistance 
+vs. private insurance was used as a crude indicator of 
+socioeconomic status. 
+
+Overnight sleep studies began at the child’s usual bedtime 
+and used polysomnographic techniques previously 
+described for assessment of OSAHS in children.13,14 
+Continuously recorded signals included: electroencephalography; 
+electrooculography; electromyography by sub-
+mental and tibial electrodes; electrocardiography; oronasal 
+airflow; thoracic and abdominal effort by inductance 
+plethysmography; oxygen saturation by pulse oximetry 
+(SpO2); end-tidal carbon dioxide tensions (EtCO2) measured 
+by infrared capnometry of nasal airflow; and tracheal 
+sound recording by a neck microphone. Each signal 
+was appropriately digitized and stored on disk for computer-
+assisted data analysis. Children were recorded on 
+videotape using an infrared video camera, and were continuously 
+observed by a sleep technician. 
+
+Analyses 
+
+Obstructive apnea was defined as the presence of chest 
+and abdominal wall motion in the absence of airflow. All 
+obstructive apneas longer than two breath cycles were 
+counted.15,16 The obstructive apnea index was defined as 
+the number of obstructive apneas per hour of sleep. Hypopneas 
+were not quantitated, since standardized criteria 
+for their definition in children are lacking.17 SpO2 nadir 
+and mean were determined. Oximetry data with artifacts 
+in the pulse waveform tracings were discarded. Oxyhemoglobin 
+desaturation episodes were defined as periods 
+associated with a 4% or more reduction from the prior 
+10-s baseline. Reductions in SpO2 were reported as indices, 
+i.e., the number of events per hour of total sleep 
+
+time. The mean and peak EtCO2 and the percentage of 
+total sleep time when EtCO2 values were greater than or 
+equal to 50 mm Hg were measured. Values below 30 mm 
+Hg or with poor alveolar plateaus were considered artifacts, 
+and discarded. 
+
+Polysomnography remains the gold standard for diag
+
+
+
+Obstructive Sleep Apnea Hypoventilation Syndrome 405 
+
+nostic investigation, but universally accepted diagnostic 
+criteria for OSAHS in children are lacking, and normative 
+data are limited.15,16,18 Polysomnographic studies 
+were considered abnormal when they included one or 
+more of the following deviations from normal pediatric 
+sleep and breathing data.1,13,15 
+
+1. Obstructive apnea index $1 event per hour; 
+2. 4% desaturation episodes of more than 1.5 events per 
+hour or SpO2 nadir less than 92%; 
+3. Hypoventilation as indicated by EtCO2 values $50 
+mm Hg for greater than 9% of total sleep time, or peak 
+EtCO2 values of 55 mm Hg or greater. 
+Other evidence supporting the diagnosis of OSAHS 
+came from the sleep technician’s log, review of the video 
+tape, and examination of the polysomnographic record. 
+These included: 
+
+1. Snoring; 
+2. Labored breathing indicated by marked paradoxical 
+inward movement of the chest, sternal retractions or 
+use of accessory muscles of respiration; 
+3. Frequent arousals or awakenings from sleep associated 
+with snoring, increasing respiratory efforts, and 
+partial obstructions. 
+Most children had multiple clinical and polysomnographic 
+features of OSAHS. In obese children, rare transient 
+desaturations to less than 92% saturation, particularly 
+during rapid eye movement (REM) sleep, were not 
+considered diagnostic of obstructive sleep apnea in the 
+absence of other evidence for obstruction or hypoventilation. 
+The records were scored by physicians who knew 
+the characteristics of the subject. However, the analyses 
+of clinical features were performed long after scoring 
+was completed. 
+
+The polysomnographic findings were stratified into 
+five severity groups similar to those suggested by Brouillette 
+and Waters:19 no snore, no snoring, apnea, desaturation, 
+or hypoventilation; snore, snoring without apnea, 
+desaturation, or hypoventilation; upper airway resistance 
+syndrome, snoring with marked paradoxical inward chest 
+movements or repetitive arousals and movements, but 
+without apnea, desaturation, or hypoventilation; obstructive 
+sleep apnea, snoring with apnea and/or hypercapnia, 
+but without desaturation; and hypoxemia with obstructive 
+sleep apnea, snoring with desaturation and apnea, with or 
+without hypercapnia. 
+
+The protocol was approved by the institutional review 
+board of Yale University, and parental informed written 
+consent was obtained. 
+
+Statistics 
+
+All results are expressed as means ± SD where appropriate. 
+Medians and interquartile ranges were used as 
+
+descriptive statistics for variables with a skewed distribution. 
+Differences between groups were compared using 
+analysis of variance for continuous data, Chi-square 
+analysis for categorical data, and Mann-Whitney rank-
+sum or Kruskal-Wallis tests for data not normally distributed. 
+The diagnosis of OSAHS was considered the 
+primary outcome variable. Predictors for OSAHS were 
+identified using multivariate logistic regression with independent 
+variables: ethnic group, gender, age, percent 
+ideal body weight, 3+ or 4+ tonsil size, and medical 
+assistance status. Multivariate odds ratios were used to 
+measure the strength of the association between OSAHS 
+and these clinical features. P < 0.05 was considered significant 
+except for multiple comparisons, in which case 
+an appropriate post hoc test was performed. 
+
+RESULTS 
+Patient Characteristics 
+
+The study population of 326 children included several 
+ethnic groups: African-American (38%), Caucasian 
+(30%), and Hispanic (31%). The mean age was 5.8 ± 3.0 
+years (range, 1–12 years), with the majority of children 
+of either preschool or school age. Slightly more than half 
+the children were male (56%). Obesity was present in 
+more than one quarter of the study population (28%). The 
+mean percent ideal body weight for height was 119 ± 
+37%. The percent ideal body weight was similar for each 
+ethnic and gender group. None of the children presented 
+with failure to thrive. There were no ethnic group differences 
+for age, gender, or percentage of obese children. 
+Sixty-six percent of the children were receiving medical 
+assistance. This percentage was significantly higher in 
+the non-Caucasian groups (81%) compared to the Caucasian 
+group (30%). With regard to gender, there were no 
+differences for age, ethnic group, obesity, percent ideal 
+body weight, or medical assistance status. Habitual snoring 
+was reported by parents in 99% of children, difficulty 
+breathing in 80%, and witnessed obstructive apnea in 
+59%. Parental complaints of daily tiredness occurred in 
+19%, excessive daytime sleepiness occurred in 10%, and 
+behavioral, school, or mood problems were reported in 
+9% of children. Although the OSAHS symptom scores 
+were higher in the African-American compared to both 
+Hispanic and Caucasian children (P < 0.01), there was 
+marked overlap of these scores between ethnic groups 
+(Fig. 1). The scores of Hispanic and Caucasian children 
+were not significantly different. Tonsillar enlargement 
+was common, with two thirds of the children described as 
+having 3 or 4+ tonsils. 
+
+Polysomnographic Findings 
+
+There were 330 polysomnographic studies in the 326 
+study children. Four children whose initial study was not 
+
+
+406 Rosen 
+
+Fig. 1. OSAHS symptom scores in each ethnic group. Note: in 
+the original publication of this score,2 a symptom score less 
+than (-1) indicated no OSAHS; from (-1) to 3.5 was indetermi-
+nate; and ³ 3.5 indicated OSAHS. 
+
+
+diagnostic of obstructive sleep apnea were restudied 5, 
+11, 33, and 48 months later because of persistent symptoms. 
+These repeat studies resulted in a change in diagnosis 
+in all four children. The polysomnographic data 
+were initially stratified into five severity groups: no snore 
+(10%), snore (25%), upper airway resistance syndrome 
+(UARS) (6%), obstructive apnea (16%), and hypoxemia 
+with obstructive apnea (43%).19 Respiratory and gas exchange 
+data for each OSAHS diagnostic category are 
+shown in Figure 2. Of note, the apnea indices are much 
+lower than those reported in adults.20 This occurred because 
+many children have a clinical picture of continuous 
+partial obstruction rather than repetitive discrete obstructive 
+apnea events. Some very obese children in the snoring 
+group had transient oxyhemoglobin desaturation 
+events, especially in REM sleep, without other evidence 
+of obstruction. 
+
+Pediatric OSAHS has been best characterized in terms 
+of respiratory abnormalities.21 Since the greatest number 
+of polysomnographic respiratory abnormalities were 
+found in the children with obstructive apnea ± hypoxemia 
+groups, these two severity groups were collapsed 
+into the OSAHS final diagnosis category (59%) to simplify 
+further analyses. The three remaining severity 
+groups with lesser findings (no snore, snore and UARS) 
+were collapsed into the non-OSAHS final diagnosis category 
+(41%). 
+
+OSAHS was more likely to be diagnosed in African-
+American children (75%) compared with Hispanic (51%) 
+or Caucasian (47%) children. Multivariate odds ratios 
+(including variables for race, gender, percent ideal body 
+weight, tonsillar enlargement, medical assistance, OSAHS 
+symptom score, and parental complaints of tiredness or 
+sleepiness) showed that African-American children were 
+more than three times more likely to be diagnosed with 
+OSAHS than Hispanic children (odds ratio, 3.3; P . 
+0.003; 95% confidence interval, 1.7–6.3) or Caucasian 
+
+children (odds ratio, 3.0; P . 
+0.007; 95% confidence 
+interval, 1.6–5.8). The odds ratio for Hispanic compared 
+to Caucasian children was not significantly different. In 
+marked contrast to adult obstructive sleep apnea, neither 
+male gender (55% in the OSAHS compared with 59% in 
+the non-OSAHS children), nor obesity (26% in OSAHS 
+compared with 30% in non-OSAHS children), increased 
+the likelihood for OSAHS diagnosis in the study children. 
+A symptom score $3.5 had a sensitivity of 47%, a 
+specificity of 28%, a positive predictive value of 76%, 
+and a negative predictive value of 67%. However, 47% 
+of the children had symptom scores in the indeterminate 
+range, and 55% of those had OSAHS diagnosed by polysomnography. 
+As expected, the presence of 3–4+ tonsillar 
+hypertrophy increased the likelihood for diagnosis of 
+OSAHS (75% in OSAHS, compared with 57% in non-
+OSAHS children; odds ratio, 2.6; confidence interval, 
+1.5–4.3; P . 
+0.0003). 
+
+DISCUSSION 
+
+This study demonstrates several important differences 
+between childhood and adult OSAHS in a large population 
+of symptomatic but otherwise healthy children in 
+whom the presence and severity of OSAHS were confirmed 
+by overnight polysomnography. First, gender distribution 
+was nearly equal in both the original referral 
+population and in those children subsequently diagnosed 
+with OSAHS. Several population-based studies confirmed 
+the absence of gender differences in the prevalence 
+of snoring in children based on questionnaire 
+data.3–5,7 This study is the first large series showing a 
+similar gender distribution in children with polysomnographic 
+confirmation of OSAHS. Pediatric practitioners 
+should recognize that girls are just as likely to have 
+OSAHS as boys, and they should consider that diagnosis. 
+
+A second finding was that the presence of obesity did 
+not increase the likelihood of OSAHS diagnosis in this 
+referral population. Of note, 28% of the initial study 
+population and 26% of the children diagnosed with 
+OSAHS were obese. Of great concern from a public 
+health perspective, is that these percentages are more 
+than double the prevalence of obesity in the general 
+childhood population of 10.9%.11 One possible explanation 
+for this high percentage of obese children is that the 
+referring sources may have been biased into linking obesity 
+to risk of OSAHS based on the adult experience. In 
+a previous pediatric study, investigators suggested that 
+the combination of an ideal body weight greater than 
+200% and adenotonsillar hypertrophy warranted an 
+evaluation for possible OSAHS.22 Further studies on the 
+role of obesity in the development of childhood OSAHS 
+are needed. 
+
+In this referral population, African-American children 
+had an increased likelihood for OSAHS diagnosis. This 
+
+
+Obstructive Sleep Apnea Hypoventilation Syndrome 407 
+
+
+finding is particularly interesting in light of a recent 
+population-based study of sleep disordered breathing 
+in adults showing a higher prevalence in African-
+Americans compared to Caucasians.23 Of note, the ethnic 
+group differences were most evident in individuals 25 
+years old or less, in whom sleep disordered breathing was 
+almost twice as prevalent in African-Americans compared 
+to Caucasians. Two previous pediatric studies that 
+suggested an increased risk for OSAHS in African-
+American children were based on highly selected patient 
+populations.24,25 One literature review included only 
+children whose obstructive sleep apnea was complicated 
+by cor pulmonale.24 Ethnic group data were missing for 
+
+Fig. 2. Box plots of respiratory and gas exchange measurements 
+organized by polysomnographic diagnosis: No Snore, 
+Snore, UARS, OSAHS, and Hypoxia & OSAHS. A: Obstructive 
+apnea index. B: REM obstructive apnea index. C: 4% desaturation 
+episodes. D: Minimum SpO2 value. E: Maximum EtCO2 
+value. Each box encloses 50% of the data, with the median 
+value of the variable displayed as a line within the box. The top 
+and bottom of the box mark the limits of ±25% of the variable 
+group. The lines extending from the top and bottom of each 
+box mark the minimum and maximum values that are 1.5 times 
+the interquartile distance between the upper and lower quartiles. 
+Values outside of this range, i.e., outliers, are indicated 
+by the open circles. Note: peak EtCO2 values were not available 
+in 17 children because of near-continuous mouth breathing 
+and absent nasal airflow. 
+
+more than one quarter of the study population, and polysomnography 
+was not performed. Another investigation 
+which was a retrospective patient chart review did include 
+polysomnographic data, but almost one half of the 
+study population had underlying risk factors such as craniofacial, 
+genetic, or neurologic disorders.25 
+
+These ethnic-group differences for OSAHS were not 
+explained by differences in age, gender, obesity, tonsil 
+size, or medical assistance for health care. However, the 
+study design limits the interpretation of these observations 
+for several reasons. First, the study participants 
+were part of an already symptomatic referral population 
+to a subspecialty clinic from a variety of sources. Al
+
+
+
+408 Rosen 
+
+though the ethnic group distribution of the initial study 
+population was similar, it is possible that the referrals 
+were made based on ethnic or economic characteristics of 
+the patient’s family. Medical assistance was used as a 
+crude indicator of socioeconomic status, but it is not a 
+valid measure of the socioeconomic differences that may 
+exist in this study population. Case ascertainment bias 
+could be present if families with higher parental education 
+or from higher socioeconomic conditions sought earlier 
+medical attention for milder symptoms. Although age 
+of presentation for OSAHS evaluation was similar in the 
+three ethnic groups, the higher symptom scores in African-
+American children suggest that these children may 
+have had more OSAHS symptoms at the time of presentation. 
+However, the overlap of these scores between 
+ethnic groups was nearly 100% (Fig. 1). Ethnic-group 
+differences in exposure to other environmental factors 
+not examined in this study, such as cigarette smoke or 
+nasal allergen exposure might have accounted for the 
+observed differences in this referral population.3,26 
+
+An expected finding was that tonsillar hypertrophy, 
+which reduces upper airway caliber, increased the likelihood 
+for diagnosis of OSAHS. The peak age of childhood 
+obstructive sleep apnea corresponds to the peak of 
+adenotonsillar enlargement in relationship to airway 
+size.27 Although the assessment of tonsillar enlargement 
+was somewhat subjective, there were no ethnic group or 
+gender differences in the proportions of children who had 
+enlarged tonsils. 
+
+With regard to clinical symptoms, daytime complaints 
+of tiredness and sleepiness were much less common in 
+pediatric compared to adult patients, and their presence 
+did not increase the likelihood of OSAHS diagnosis. On 
+the other hand, higher OSAHS symptom scores were 
+associated with an increased likelihood of OSAHS diagnosis. 
+The large overlap of these scores in children with 
+OSAHS or lesser findings limits their diagnostic usefulness. 
+Clinical evaluation has not been shown to reliably 
+distinguish primary snoring from OSAHS or to predict 
+OSAHS severity.14,28–32 
+
+Finally, some readers may disagree with the definition 
+of UARS used in this report. The term UARS typically 
+refers to arousals, sleep disruption, or daytime symptoms 
+associated with partial obstruction and increased esophageal 
+pressure swings.33,34 UARS has been used to describe 
+children with this clinical picture in the absence of 
+esophageal pressure monitoring.35 Although esophageal 
+pressure monitoring is unlikely to become a standard 
+diagnostic tool for OSAHS in children because it is so 
+invasive, UARS is often considered as part of the clinical 
+spectrum of OSAHS for treatment purposes. Therefore, 
+some readers may disagree with the decision to include 
+the small proportion of UARS patients with lesser polysomnographic 
+findings in the “non-OSAHS” diagnostic 
+category for the purposes of data analysis. When the data 
+
+were reanalyzed to include UARS in the OSAHS diagnostic 
+category, the study results were unchanged. 
+
+In summary, this study demonstrates that typical adult 
+risk factors for OSAHS such as gender and obesity did 
+not increase the likelihood of diagnosing childhood 
+OSAHS in this study population. However, the incidence 
+of obesity in this referral population was twice that of the 
+general population. The increased likelihood for diagnosis 
+of OSAHS in African-American children in this referral 
+population is intriguing, but should not be over-
+interpreted because of limitations in the study design. 
+Further community-based and longitudinal studies are 
+needed to confirm these findings and to address longer-
+term questions about the natural history of childhood 
+OSAHS and its relationship to sleep disordered breathing 
+in adulthood. 
+
+ACKNOWLEDGMENTS 
+
+We gratefully acknowledge the technical help of Chris 
+Sega, Ronda Golding, and Mary Riggio; the computer 
+and biomedical engineering expertise of Mark Rosen, 
+Ph.D.; the interactions with Yale students from the undergraduate 
+epidemiology course; the statistical assistance 
+of Gene Fisch, Ph.D.; and the manuscript review by 
+Gabriel Haddad, M.D. 
+
+REFERENCES 
+
+1. Carroll JL. Sleep-related upper-airway obstruction in children and 
+adolescents. Child Adolesc Psych Clin North Am 1996;5:617– 
+647. 
+2. Brouillette R, Hanson D, David R, Klemka L, Szatkowski A, 
+Fernbach S. A diagnostic approach to suspected obstructive sleep 
+apnea in children. J Pediatr 1984;105:10–14. 
+3. Corbo GM, Fuciarelli F, Foresi A, De Benedetto F. Snoring in 
+children: association with respiratory symptoms and passive 
+smoking. Br Med J [Clin Res] 1989;299:1491–1494. 
+4. Teculescu DB, Caillier I, Perrin P, Rebstock E, Rauch A. Snoring 
+in French preschool children. Pediatr Pulmonol 1992;13:239–244. 
+5. Ali NJ, Pitson DJ, Stradling JR. Snoring, sleep disturbance, and 
+behavior in 4–5 years olds. Arch Dis Child 1993;68:360–366. 
+6. Ali NJ, Pitson D, Stradling JR. Natural history of snoring and 
+related behaviour problems between the ages of 4 and 7 years. 
+Arch Dis Child 1994;71:74–76. 
+7. Gislason T, Benediktsdottir B. Snoring, apneic episodes, and nocturnal 
+hypoxemia among children 6 months to 6 years old. An 
+epidemiologic study of lower limit of prevalence. Chest 1995;107: 
+963–966. 
+8. Strohl KP, Redline S. Recognition of obstructive sleep apnea. Am 
+J Respir Crit Care Med 1996;154:279–289. 
+9. Dietz WH, Robinson TN. Assessment and treatment of childhood 
+obesity. Pediatr Rev 1993;14:337–343. 
+10. Hammer LD, Kraemer HC, Wilson DM, Ritter PL, Dornbusch 
+SM. Standardized percentile curves of body-mass index for children 
+and adolescents. Am J Dis Child 1991;145:259–263. 
+11. Troiano RP, Flegal KM, Kuczmarski RJ, Campbell SM, Johnson 
+CL. Overweight prevalence and trends for children and adolescents. 
+The National Health and Nutrition Examination Surveys, 
+1963 to 1991. Arch Pediatr Adolesc Med 1995;149:1085–1091. 
+
+Obstructive Sleep Apnea Hypoventilation Syndrome 409 
+
+12. Schwartz R, Seid A, Stool S. T&A does not mean Time and 
+Again. Contemp Pediatr 1992;9:18–46. 
+13. Rosen CL, D’Andrea L, Haddad GG. Adult criteria for obstructive 
+sleep apnea do not identify children with serious obstruction. Am 
+Rev Respir Dis 1992;146:1231–1234. 
+14. Carroll JL, McColley SA, Marcus CL, Curtis S, Loughlin GM. 
+Inability of clinical history to distinguish primary snoring from 
+obstructive sleep apnea syndrome in children. Chest 1995;108: 
+610–618. 
+15. Marcus CL, Omlin KJ, Basinki DJ, Bailey SL, Rachal AB, Von 
+Pechmann WS, Keens TG, Ward SL. Normal polysomnographic 
+values for children and adolescents. Am Rev Respir Dis 1992; 
+146:1235–1239. 
+16. American Thoracic Society. Standards and indications for cardiopulmonary 
+sleep studies in children. Am J Respir Crit Care Med 
+1996;153:866–878. 
+17. Redline S, Sanders M. Hypopnea, a floating metric: implications 
+for prevalence, morbidity estimates, and case finding. Sleep 1997; 
+20:1209–1217. 
+18. Gaultier C. Respiratory adaptation during sleep from the neonatal 
+period to adolescence. In: Guilleminault C, editor. Sleep and its 
+disorders in children. New York: Raven Press; 1987:67–98. 
+19. Brouillette R, Waters K. Oxygen therapy for pediatric obstructive 
+sleep apnea syndrome: How safe? How effective? [editorial] Am 
+J Respir Crit Care Med 1996;153:1–2. 
+20. Gaultier C. Sleep-related breathing disorders. 6. Obstructive sleep 
+apnoea syndrome in infants and children: established facts and 
+unsettled issues. Thorax 1995;50:1204–1210. 
+21. Carroll JL, McColley SA, Marcus CL, Curtis S, Pyzik P, Loughlin 
+GM. Can childhood obstructive sleep apnea be diagnosed by a 
+clinical symptom score? Am Rev Respir Dis 1992;145:(A)179. 
+22. Silvestri JM, Weese-Mayer DE, Bass MT, Kenny AS, Hauptman 
+SA, Pearsall SM. Polysomnography in obese children with a history 
+of sleep-associated breathing disorders. Pediatr Pulmonol 
+1993;16:124–129. 
+23. Redline S, Tishler PV, Hans MG, Tosteson TD, Strohl KP, Spry 
+K. Racial differences in sleep-disordered breathing in African-
+Americans and Caucasians. Am J Respir Crit Care Med 1997;155: 
+186–192. 
+24. Yonkers AJ, Spaur RC. Upper airway obstruction and the pharyngeal 
+lymphoid tissue. Otolaryngol Clin North Am 1987;20: 
+235–239. 
+
+25. Leach J, Olson J, Hermann J, Manning S. Polysomnographic and 
+clinical findings in children with obstructive sleep apnea. Arch 
+Otolaryngol Head Neck Surg 1992;118:741–744. 
+26. McColley SA, Carroll JL, Curtis S, Loughlin GM, Sampson HA. 
+High prevalence of allergic sensitization in children with habitual 
+snoring and obstructive sleep apnea. Chest 1997;111:170–173. 
+27. Linder-Aronson S. The development of the posterior nasopharyngeal 
+wall in boys and girls between the ages of 3–16 years. A 
+longitudinal study. Zahn Mund Kieferheilkd 1983;71:149–160. 
+28. Goldstein NA, Sculerati N, Walsleben JA, Bhatia N, Friedman 
+DM, Rapoport DM. Clinical diagnosis of pediatric obstructive 
+sleep apnea validated by polysomnography. Arch Otolaryngol 
+Head Neck Surg 1994;111:611–617. 
+29. Suen JS, Arnold JE, Brooks LJ. Adenotonsillectomy for treatment 
+of obstructive sleep apnea in children. Arch Otolaryngol Head 
+Neck Surg 1995;121:525–530. 
+30. Sanchez-Armengol A, Capote-Gil F, Cano-Gomez S, 
+Ayerbe-
+Garcia R, Delgado-Moreno F, Castillo-Gomez J. Polysomnographic 
+studies in children with adenotonsillar hypertrophy and 
+suspected obstructive sleep apnea. Pediatr Pulmonol 1996;22: 
+101–105. 
+31. Nieminen P, Tolonen U, Lopponen H, Lopponen T, Luotonen J, 
+Jokinen K. Snoring children: factors predicting sleep apnea. Acta 
+Otolaryngol [Suppl] (Stockh) 1997;529:190–194. 
+32. Wang RC, Elkins TP, Keech D, Wauquier A, Hubbard D. Accuracy 
+of clinical evaluation in pediatric obstructive sleep apnea. 
+Arch Otolaryngol Head Neck Surg 1998;118:69–73. 
+33. Guilleminault C, Winkle R, Korobkin R, Simmons B. Children 
+and nocturnal snoring: Evaluation of the effects of sleep related 
+respiratory resistive load and daytime functioning. Eur J Pediatr 
+1982;139:165–171. 
+34. Guilleminault C, Pelayo R, Leger D, Clerk A, Bocian RC. Recognition 
+of sleep-disordered breathing in children. Pediatrics 
+1996;98:871–882. 
+35. Downey R III, Perkin RM, MacQuarrie J. Upper airway resistance 
+syndrome: sick, symptomatic but underrecognized. Sleep 1993; 
+16:620–623. 
+

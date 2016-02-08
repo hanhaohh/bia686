@@ -1,0 +1,814 @@
+Risk Factors for Sleep-disordered Breathing in Children 
+
+Associations with Obesity, Race, and Respiratory Problems 
+
+SUSAN REDLINE, PETER V. TISHLER, MARK SCHLUCHTER, JOAN AYLOR, KATHRYN CLARK, 
+and GREGORY GRAHAM 
+
+Department of Pediatrics, Case Western Reserve University, Rainbow Babies and Childrens Hospital, Cleveland, Ohio; 
+and Harvard Medical School and Brockton-West Roxbury Veterans Affairs Medical Center, Boston, Massachusetts 
+
+This study examined risk factors for sleep-disordered breathing (SDB) in children and adolescents; 
+specifically, quantifying risk associated with obesity, race, and upper and lower respiratory problems. 
+Subjects were participants in a genetic-epidemiologic study of SDB and included 399 children and adolescents 
+2 to 18 yr of age, recruited as members of families with a member (a proband) with known 
+sleep apnea (31 index families) or as members of neighborhood control families (30 families). SDB 
+was assessed with home overnight multichannel monitoring and SDB was defined based on an apneahypopnea 
+index > 10 (moderately affected) or , 5 (unaffected). SDB of moderate level was significantly 
+associated with obesity (odds ratio, 4.59; 95% confidence interval [CI], 1.58 to 13.33) and African-
+American race (odds ratio, 3.49; 95% CI, 1.56 to 8.32) but not with sex or age. After adjusting for 
+obesity, proband sampling, race and familial clustering, sinus problems and persistent wheeze each 
+independently (of the other) predicted SDB. These data suggest the importance of upper and lower 
+respiratory problems and obesity as risk factors for SDB in children and adolescents. Increased risk in 
+African Americans appears to be independent of the effects of obesity or respiratory problems. Red-
+line S, Tishler PV, Schluchter M, Aylor J, Clark K, Graham G. Risk factors for sleep-disordered 
+breathing in children: associations with obesity, race, and respiratory problems. 
+
+AM J RESPIR CRIT CARE MED 1999;159:1527–1532. 
+
+Sleep-disordered breathing (SDB) refers to the occurrence of 
+repetitive episodes of complete or partial obstruction of the 
+upper airway during sleep, usually in association with loud 
+snoring and daytime sleepiness. Episodes of upper airway obstruction 
+often are associated with arousals, sleep fragmentation, 
+intermittent hypoxemia and hypercapnia, and nocturnal 
+hypertension. The long-term consequences of SDB may include 
+sustained daytime hypertension and increased cardiovascular 
+and cerebrovascular morbidity and mortality. Relatively 
+recent epidemiologic data have shown the disorder to 
+be prevalent in adults, affecting . 9% of those 30 to 60 yr of 
+age (1). Much less data are available for children. Despite an 
+increased clinical experience with diagnosing and treating 
+children with snoring and upper airway obstruction, there has 
+not been an appreciable increase in knowledge regarding the 
+overall prevalence of clinically significant SDB in children, 
+risk factors for the disorder, and consequences of SDB of various 
+degrees of severity. Characterization of risk factors for 
+SDB could help identify susceptible children, which may pro
+
+
+(Received in original form September 17, 1998 and in revised form December 21, 1998) 
+
+Supported by Grant RO1-46380 from the National Heart, Lung, and Blood Institute. 
+
+
+Correspondence and requests for reprints should be addressed to Susan Redline; 
+Division of Clinical Epidemiology, Rainbow Babies and Childrens Hospital, 11100 
+Euclid Avenue, Cleveland, OH 44106-6003. 
+
+Am J Respir Crit Care Med Vol 159. pp 1527–1532, 1999 
+Internet address: www.atsjournals.org 
+
+vide insight into disease pathogenesis and help formulate screening 
+strategies. 
+
+In this study, we assessed putative risk factors for SDB in a 
+large sample of children, specifically quantifying the independent 
+risks associated with obesity, sex, race, and upper and 
+lower respiratory problems. 
+
+METHODS 
+
+Sample 
+
+The study population consisted of children 2 to 18 yr of age who participated 
+in the Cleveland Family Study, a community-based genetic-
+epidemiologic study of sleep apnea. The larger cohort consists of index 
+and control families, recruited using methods previously detailed 
+(2, 3). Briefly, “index” families were identified because one member 
+(the proband) had laboratory-confirmed sleep apnea. Neighborhood 
+control families were chosen randomly from a list of names provided 
+by the index proband of neighbors/friends with living relatives who resided 
+in the area. In toto, 399 children 2 to 18 yr of age were identified 
+who had a technically acceptable overnight sleep study. Of these children, 
+273 were members of 31 index families and 126 were members 
+of 30 control families. 
+
+Protocol 
+
+All subjects were studied in their homes, where they were visited by a 
+trained technician who distributed and administered questionnaires, 
+made physical measurements, performed spirometry, and provided instruction 
+on the use of an overnight sleep monitor. For subjects > 13 
+yr of age, medical history, medication use, family history, and symptoms 
+were assessed with the Sleep and Health Modified SCOR Questionnaire 
+(4). This instrument included questions pertaining to respiratory 
+symptoms and illnesses that are identical or similar to those 
+
+
+1528 AMERICAN JOURNAL OF RESPIRATORY AND CRITICAL CARE MEDICINE VOL 159 1999 
+
+used in the American Thoracic Association-DLD Standardized Respiratory 
+Symptom Questionnaire for children (5). A modified version of 
+this questionnaire, completed by the child’s primary caretaker, was 
+used for younger children. Height, neck circumference, and weight 
+were measured directly. Spirometry was performed in a sitting position 
+and with the use of noseclips, using a portable spirometer (Multi-
+Spiro, Irvine, CA). Three acceptable forced vital capacity maneuvers 
+were obtained (6). Overnight sleep monitoring was accomplished with 
+an Edentrace I or II monitor (Edentec, Inc., Eden Prairie, MN), with 
+measurement of airflow (nasal/oral thermistry), chest wall impedance, 
+finger pulse oximetry, and heart rate, as described previously (7). 
+
+Data Extraction 
+
+Pulmonary symptoms, illnesses, and exposures were identified by the 
+following criteria. 
+
+Asthma. The child was reported as having had asthma and the diagnosis 
+was reported to have been confirmed by a doctor. 
+
+Occasional wheeze. The child’s chest was reported to sound 
+“wheezy or whistling” during the last year, and this occurred at times 
+other than “only with colds.” 
+
+Persistent wheezing. Wheezing or whistling was reported as occurring 
+“most days or nights.” 
+
+Cough. Report of cough occurring “usually” during the previous 
+year. 
+
+Sinus problems, hay fever. Reported to have occurred any time 
+during the child’s life. 
+
+Bronchitis. The child was reported to have “chronic bronchitis.” 
+
+Maternal passive smoking. The child’s mother reported smoking at 
+least one cigarette per day during the previous month. 
+
+Body mass index (BMI) was computed by dividing weight (in kilograms) 
+by height-squared (in meters). Obesity was considered present 
+if the BMI was . 28 kg/m2 (8). 
+
+The FEV1 and FVC were derived from the FVC maneuver with 
+greatest summed value of FVC and FEV1 that also met ATS standards 
+of acceptability (6). The percent predicted values were based on 
+published regression equations, with adjustments for age, height, and 
+sex (9). 
+
+From the sleep studies, respiratory events were defined as cessations 
+(apneas) or discrete reductions (hypopneas) in airflow or chest 
+impedance, lasting > 10 s and associated with > 2.5% fall in oxygen 
+saturation. Sleep time was estimated from visual inspection of the 
+sleep record, correlated with a sleep diary completed by the subject or 
+the subject’s parent. The apnea-hypopnea index (AHI) was determined 
+by dividing the number of respiratory events by the estimated 
+sleep time. The AHI measured with this approach has been shown 
+previously to correlate excellently with in-laboratory polysomnography, 
+which includes EEG, EOG, and EMG measurement (7). In 
+adults, and more so in children, there is no consensus on what threshold 
+level of AHI best identifies “affection,” with levels of 5, 10, 15, 20, 
+or 30 used in different studies and clinical settings (reviewed in [10]). 
+It is clear that such thresholds need to be modified according to the 
+method of monitoring and definitions of hypopnea (10). For this report, 
+we chose an AHI threshold of 10 to identify a group with clearly 
+increased apneic activity (SDB cases). This threshold is higher than 
+what is often considered abnormal in clinical settings (. 5) and, thus, 
+probably identifies a group with at least a moderate degree of SDB. 
+Support for this threshold is derived from our previous work, which 
+has shown that children with an AHI at least this high have significantly 
+more symptoms of SDB (habitual snoring, nocturnal gasping/ 
+snorting, and sleepiness) than do children with lower AHIs (11). An 
+AHI level , 5 was chosen to identify a control group with “minimal” 
+or no SDB. To minimize misclassification, subjects with AHI levels 
+between 5 and 10 were not included in analyses in which SDB was the 
+outcome variable (n 5 35). 
+
+Statistical Analyses 
+
+Comparisons of the distribution of demographic and risk factors according 
+to group membership (either index/control family or SDB 
+present/absent) were made with unpaired t tests (continuous variables), 
+with p values adjusted for unequal variances when appropriate, 
+or chi square analyses (dichotomous outcomes). The tables present 
+continuous variables as means 6 standard deviations (SDs) or as me
+
+
+dians and the interquartile values (for non-normally distributed values). 
+The p values for AHI and BMI were based on analyses of their 
+natural logarithms, the distributions of which approximated normality. 
+To account for the use of data on family members, in which outcomes 
+may be correlated, a generalized linear model for correlated 
+data was implemented using Generalized Estimating Equations (Proc 
+Genmod, SAS PC 6.11; SAS Institute, Cary, NC) This method models 
+the effects of covariates on marginal response probabilities using an 
+appropriate link function (the logistic for binary data) (12). In these 
+models, the family unit was considered the unit of clustering; additionally, 
+an indicator variable was included to account for differences 
+in recruitment sources (index family or control). 
+
+RESULTS 
+
+The distributions of physical and demographic characteristics 
+and of risk factors in the study population are shown in Table 
+1 for children recruited as members of index families and 
+neighborhood control subjects. Approximately one half of the 
+sample was female. Twenty-seven percent of the sample was 
+African-American, reflecting the racial makeup of the greater 
+Cleveland area. The majority of the remaining children were 
+white (the others consisted of three Hispanics, one Asian, and 
+14 “others”). Almost 13% of children had had a history of 
+doctor-confirmed asthma and 5% reported persistent wheeze, 
+percentages consistent with prevalence estimates for children 
+of similar age and racial makeup (13). Subjects from the neighborhood 
+control group and index families did not differ with 
+respect to age, sex, or asthma prevalence. The frequency of 
+obesity and sinus problems was greater in subjects from index 
+families. SDB, based on an AHI of > 10, was observed in 
+1.6% of children from neighborhood control families, and in 
+8.4% of children from index families. The former is consistent 
+with estimates of SDB based on two-sampling procedures 
+from general population samples (14, 15). The latter is consistent 
+with the 3- to 4-fold excess risk of SDB in members of 
+families identified by a proband with SDB, as we have reported 
+previously (16). Of the children with SDB, sleep apnea 
+had been diagnosed in only two prior to study participation 
+(i.e., the majority of children were found to have SDB as a 
+result of their family’s study participation.) No child had obvi-
+
+TABLE 1 
+
+
+POPULATION CHARACTERISTICS OF CHILDREN , 18 yr 
+OF AGE, RELATIVES OF CONTROL SUBJECTS, 
+AND AFFECTED PROBANDS* 
+
+
+Relatives of Relatives of 
+Control Subjects Affected Probands 
+(n 5 126) (n 5 273) p Value 
+
+Female, % 53.2 50.9 NS‡ 
+African American, % 19.1 30.4 0.017 
+Age, yr 10.7 6 3.9 11.1 6 4.3 NS‡ 
+BMI, kg/m2 18.5 (16.9–21.8) 19.9 (16.4–24.0) 0.047† 
+Obese (BMI . 28), % 4.8 11.7 0.031 
+History of asthma, % 13.5 11.4 NS‡ 
+Occasional wheeze, % 19.1 19.8 NS‡ 
+Persistent wheeze, % 5.6 4.8 NS‡ 
+Sinus problems, % 13.9 23.4 0.030 
+Chronic Bronchitis, % 8.1 9.5 NS‡ 
+AHI, events/h 1.37 (0.7–2.8) 1.77 (0.7–3.6) NS‡† 
+AHI . 5, % 10.3 17.2 0.073 
+AHI . 10, % 1.6 8.4 0.009 
+
+Definition of abbreviations: AHI 5 apnea/hypopnea index; BMI 5 body mass index. 
+
+* Values of continuous variables are expressed as means 6 SD, or as medians (interquartile 
+ranges) for non-normally distributed variables. See text for defnition of disease/ 
+symptoms. 
+† Based on log-transformed values. 
+‡ Not significant; p . 0.10. 
+
+Redline, Tishler, Schluchter, et al.: Risk Factors for Sleep Apnea in Children 
+
+TABLE 2 
+
+
+DEMOGRAPHIC AND ANTHROPOMETRIC FEATURES 
+ACCORDING TO SLEEP-DISORDERED BREATHING* 
+
+
+AHI , 5 AHI . 10 
+(n 5 339) (n 5 25) p Value 
+Female, % 57.5 48.0 NS‡ 
+African American, % 23.6 56.0 0.001 
+Age, yr 10.8 6 4.2 10.5 6 3.6 NS 
+BMI, kg/m2 18.8 (16.4–22.6) 22.6 (17.7–28.8) 0.011† 
+Obese (BMI . 28), % 6.7 28.0 0.001 
+Neck circumference, cm 29.8 6 4.0 33.3 6 4.6 0.006 
+Related to an Index Proband, % 66.7 92.0 0.009 
+
+For definition of abbreviations, see Table 1. 
+
+* Values of continuous variables are expressed as means 6 SD, or as medians (interquartile 
+ranges) for non-normally distributed variables. 
+† Based on log-transformed values. 
+‡ Not significant; p . 0.10. 
+ous facial or congenital anomalies, other than one child with 
+Down’s syndrome. 
+
+A comparison of demographic and anthropometric factors 
+in groups without and with moderate SDB (AHI , 5 and > 10) 
+is shown in Table 2. Groups did not differ in their sexual 
+makeup. A larger proportion of children with moderate SDB 
+than without SDB were African-American (56 versus 24%, 
+p 5 0.001). Children with SDB also had greater BMIs and had 
+larger neck circumferences than did children without SDB. A 
+majority of children with SDB were from families with another 
+affected member. Age did not differ between affected 
+and unaffected groups. 
+
+The distribution of upper and lower respiratory conditions 
+in children with and without SDB is shown in Table 3. Children 
+with SDB significantly more frequently reported or were 
+reported to have had: usual cough, occasional wheeze, persistent 
+wheeze, sinus problems, and doctor-diagnosed asthma. 
+FEV1 and FVC levels, which were technically acceptable for 
+only 163 children (mean age, 11.6 yr), tended to be lower in 
+the group with SDB, but these differences were not statistically 
+significant. 
+
+Although obesity and sinus and respiratory problems were 
+related to SDB, obesity was not significantly associated with 
+either sinus problems (20% of nonobese children were reported 
+to have sinus problems as compared with 25% of obese 
+
+TABLE 3 
+
+
+DISTRIBUTION OF UPPER AND LOWER RESPIRATORY PROBLEMS 
+AND PULMONARY FUNCTION ACCORDING TO 
+SLEEP-DISORDERED BREATHING 
+
+
+AHI , 5 AHI . 10 
+(n 5 339)(n 5 25) p Value 
+
+Chronic bronchitis, % 8.5 17.4 NS† 
+Cough, %‡ 23.1 77.8 0.001 
+Occasional wheeze, % 17.4 44.0 0.001 
+Persistent wheeze, % 4.4 16.0 0.012 
+Sinus problems,% 19.1 50.0 0.001 
+Hay fever, % 15.2 27.3 NS 
+Asthma, % 11.8 28.0 0.019 
+Bronchitis, % 7.9 17.4 NS 
+FEV1, % pred§ 95.2 6 17.0 89.3 6 15.3 NS 
+FVC, % pred§ 98.2 6 15.4 93.8 6 12.6 NS 
+For definition of abbreviations, see Table 1. 
+* Continuous variables expressed as means 6 SD. 
+† Not significant (p . 0.10). 
+‡ Data only available for children < 13 yr. 
+§ Based on 163 subjects with acceptable spirometry. 
+
+children) or to asthma/wheeze (e.g., 5% of nonobese children 
+had persistent wheeze compared with 3% of obese children). 
+
+The results of the analyses that adjusted for the familial 
+correlations within the data and also for recruitment sources 
+(neighborhood control or index family) are presented in Table 
+
+4. Significant associations exist between SDB and obesity, African 
+American race, sinus problems, wheeze (occasional or 
+persistent), cough, and doctor-diagnosed asthma. Obese children 
+(defined by a BMI . 28) were four to five times more 
+likely to have SDB than were nonobese children, and African 
+Americans were approximately three and a half times more 
+likely to have SDB than were other children. After additionally 
+adjusting for obesity and African American race, significant 
+relationships between SDB and respiratory symptoms 
+and illnesses persisted. The strongest relationship was between 
+SDB and usual cough; however, this symptom could be 
+assessed only in children , 13 yr of age (the version of the 
+questionnaire for older subjects did not contain this question). 
+Persistent wheeze more strongly predicted SDB than occasional 
+wheeze (adjusted odds ratio, 7.45 versus 3.29 for persistent 
+and occasional wheeze, respectively). Children with doctor-
+diagnosed asthma were estimated to be at an almost 4-fold 
+increased risk for SDB than were nonasthmatic children. A 
+history of sinus problems also increased risk of SDB approximately 
+five fold. Age did not significantly predict SDB. 
+Although sinus problems and asthma may occur in the 
+same individual (17), a significant association between these 
+two conditions was not seen in our data (sinus problems were 
+reported by 27% of children with asthma and by 19% of the 
+nonasthmatics; p . 0.25). To evaluate the extent to which 
+upper (sinus) as compared with lower (asthma/wheeze) respiratory 
+problems contributed to an excess risk of SDB, we 
+assessed the extent to which each condition independently 
+predicted SDB using a model that included obesity, race, recruitment 
+source, sinus problems, and persistent wheeze as covariates, 
+and SDB as the outcome. In this model, the adjusted 
+odds ratio for sinus problems was 5.21 (95% confidence interval 
+[CI], 1.66 to 16.12), and for persistent wheeze it was 8.76 
+(95% CI, 1.28 to 60.27), suggesting that each condition independently 
+predicted SDB. 
+
+The relationship of race to SDB, independent of obesity is 
+provided in Table 4 (second line, third and fourth columns). 
+The relationship of race to SDB persisted when additionally 
+considering the effects of asthma (odds ratio, adjusted for obesity 
+and asthma, 3.49), sinus problems (obesity- and sinus-
+
+TABLE 4 
+
+
+ODDS RATIOS, RELATING DEMOGRAPHIC FACTORS AND UPPER 
+AND LOWER RESPIRATORY PROBLEMS TO 
+SLEEP-DISORDERED BREATHING* 
+
+
+Unadjusted Adjusted for Race and Obesity 
+
+Odds Odds 
+Ratio 95% CI Ratio 95% CI 
+
+Obesity (BMI . 28) 4.59 1.58–13.33 4.69† 1.59–14.15 
+African American 3.49 1.56–8.32 3.59† 1.50–8.58 
+Sinus problems 3.41 1.32–9.68 5.10 1.78–15.18 
+Occasional wheeze 3.64 1.51–8.79 3.29 1.24–8.94 
+Persistent wheeze 4.71 1.30–16.76 7.45 2.03–27.39 
+Cough 10.52 3.28–33.68 8.83 2.29–34.05 
+History of asthma 3.22 1.39–7.54 3.83 1.39–10.55 
+
+
+Definition of abbreviations: CI 5 confidence interval. For other definitions, see Table 1. 
+
+* All values adjusted for recruitment source (control or index family). Analyses also 
+account for clustered family data (see STATISTICAL METHODS). 
+† Values adjusted for obesity or African American race. 
+
+1530 AMERICAN JOURNAL OF RESPIRATORY AND CRITICAL CARE MEDICINE VOL 159 1999 
+
+adjusted odds ratio, 6.23), and persistent wheeze (obesity- and 
+wheeze-adjusted odds ratio, 3.81). 
+
+We also assessed whether a relationship between SDB and 
+respiratory symptoms could be explained by current maternal 
+(passive) smoke exposure. Forty-three percent of the mothers 
+of children with SDB reported smoking at least one cigarette a 
+day during the previous month as compared with 26% of the 
+mothers of children without SDB. After adjusting for recruitment 
+source, race, and obesity, and accounting for the clustered 
+family data, no relationship between SDB and passive 
+smoking was suggested (odds ratio, 1.02; 95% CI, 0.89 to 2.80). 
+
+Because there is uncertainty regarding the optimal cutoff 
+values of BMI that identify obesity in children, analyses also 
+were repeated for BMI as a continuous variable. This demonstrated 
+that for each increase of 1 kg/m2 of BMI above the 
+mean, risk of SDB increased by 12%. Use of BMI, rather than 
+obesity defined as a binary variable, did not alter the results of 
+the multiple adjusted logistic regression analyses presented in 
+Table 4. 
+
+Because the identification of hypopneas from the sleep 
+records was dependent on observing a reduction in oxygen 
+saturation with changes in breathing amplitude (from the 
+thermistor or impedance channels), we assessed whether the 
+higher AHIs in the asthmatic as compared with the nonasthmatic 
+children could have resulted from differences in their 
+levels of oxygen saturation. No differences were noted between 
+the asthmatic and the nonasthmatic subjects in baseline 
+oxygen saturation (97.7 6 1.3 versus 97.5 6 1.7, p 5 0.51 for 
+asthmatics and nonasthmatics, respectively) or for average 
+saturation with hypopneas/apneas (94.6 6 1.9 versus 94.8 6 
+2.1, p 5 0.58). 
+
+DISCUSSION 
+
+Although recent epidemiologic studies have helped define the 
+prevalence and risk factors for SDB in adults, relatively little 
+is known regarding the distribution of SDB and risk factors 
+for SDB in pediatric populations. The majority of reports of 
+SDB in children are of patients referred for clinical evaluation, 
+often because of profound sleepiness, behavioral problems, 
+or cor pulmonale (18–22). Case series of symptomatic 
+children emphasize the importance of adenotonsillar hypertrophy, 
+nasal obstruction, facial anomalies, micrognathia, neuromuscular 
+disease, or certain inherited syndromes as risk factors 
+for SDB (20). These data, however, are likely biased by 
+the selection processes that influence referral of symptomatic 
+children for evaluation. In the current study, we were able to 
+exploit the relatively high prevalence of SDB in family members 
+of affected probands to study risk factors for SDB in a 
+large sample of children with a wide range of apneic activity, 
+the majority of whom were not referred for clinical evaluation. 
+The findings from this sample derived from an urban community 
+in the United States show that children and adolescents 
+
+, 18 yr of age at increased risk for SDB include children who 
+are obese, African Americans, and children with both upper 
+and lower respiratory conditions. 
+Susceptibility to SDB relates to the propensity for repetitive 
+upper airway collapse. In any given person, this is determined 
+by anatomic and neuromuscular factors that influence upper 
+airway size and/or function. In adults, the strongest risk factors 
+for SDB are male sex and obesity (23, 24). This study has demonstrated 
+that, in children, sex does not significantly influence 
+SDB risk. This is consistent with previous epidemiologic data 
+that suggest no differences in snoring between boys and girls 
+(15). Lack of a gender effect suggests that the sex differences 
+seen in adults may be mediated by sex hormones (and their in
+
+
+fluence on respiratory control and/or body fat distribution), 
+which likely play a smaller role in prepubertal children. 
+
+This study does demonstrate a significant association between 
+obesity, as measured by the BMI, and increased neck 
+circumference, with SDB. However, the magnitude of the effect 
+is approximately one-half that which has been previously 
+reported for adults (odds ratios approximately 5 compared 
+with 10 to 12 in adults) (24, 25). A lesser effect of obesity in 
+children may relate to relatively lower levels of obesity observed 
+generally in children than in adults, or because obese 
+children may be relatively “protected” because of other factors 
+such as ventilatory control mechanisms. 
+
+We previously reported increased SDB in African Americans 
+as compared with whites, an effect that was most pronounced 
+in the age group , 25 yr. In the current report, 
+focused on children , 18 yr, we estimate that African Americans 
+are approximately 3.5 times more likely to have SDB than 
+a racial group consisting predominantly of white individuals. 
+This effect is independent of both obesity and the respiratory 
+risk factors described below. It is possible that some of the excess 
+risk might be related to adenotonsillar hypertrophy, 
+which is difficult to objectively quantify. Although we have attempted 
+to systematically evaluate adenotonsillar hypertrophy 
+from physical examination, we have been unable to validate 
+its quantification, and, thus, chose not to report these 
+data here. It is also possible that racial differences result from 
+sociocultural differences in parental behaviors and the home 
+environment that influence the sleep patterns of children, such 
+as cosleeping (26). 
+
+A focus of this report was to examine the relationship between 
+upper and lower respiratory problems and SDB. We 
+hypothesized that exposures or pathophysiologic processes 
+that promote nasopharyngeal or airway inflammation influence 
+SDB susceptibility. Data from an epidemiologic study 
+from the United Kingdom indicated that the frequency of 
+snoring was increased in asthmatics as compared with nonasthmatic 
+subjects; this relationship was significant among adults 
+
+, 40 yr of age (27). Larsson and colleagues (28) in Sweden 
+found an increased prevalence of symptoms of SDB (snoring 
+and apneas) in adults with chronic bronchitis when compared 
+with a reference population. The Swedish study also reported 
+an increased prevalence of snoring and apnea in subjects who 
+reported wheezing and dyspnea. In children, questionnaire 
+surveys have pointed out significant relationships of snoring 
+with asthma and bronchitis (29, 30), and with allergic rhinitis 
+and passive smoking (14, 29). Odds ratios, relating asthma and 
+cough in snorers versus nonsnorers ranged from 2 to 3 (29). 
+With the use of objective monitoring of breathing during sleep, 
+we confirmed a significant association between upper and 
+lower respiratory symptoms and asthma with SDB and demonstrated 
+that these associations were independent of sex, 
+obesity, family history, and race. Furthermore, with multivariate 
+modeling, we were able to quantify the extent to which 
+risk was attributable to upper versus lower respiratory problems. 
+Our data suggest that symptoms of lower respiratory 
+problems (wheeze or doctor-confirmed asthma) and a history 
+of sinus problems both independently increase risk of SDB. 
+Furthermore, risk of SDB in association with lower respiratory 
+problems appears “dose-dependent,” in that children with 
+persistent wheeze appear to be at greater risk than children 
+with “occasional” wheeze. Additionally, these associations do 
+not appear to be due to confounding by active maternal smoking. 
+There are a number of potential pathophysiologic processes 
+that could account for the relationship of upper and 
+lower respiratory conditions with SDB. The association between 
+sinus problems and SDB may relate to increased upper 
+
+
+Redline, Tishler, Schluchter, et al.: Risk Factors for Sleep Apnea in Children 
+
+airway resistance often found in children with inflamed or abnormal 
+upper airways (31, 32). An increased upper airway resistance 
+may lead to the generation of negative inspiratory 
+pressure and intraluminal collapse, promoting hypopneas or 
+apneas (32). 
+
+The association of SDB with lower respiratory problems is 
+probably more complex, and the direction of the predominant 
+causal pathway is unclear. It is possible that SDB may cause or 
+exacerbate airway hyperresponsiveness. With SDB, increased 
+negative intrathoracic pressure is generated, which may promote 
+gastroesophageal reflux, and, in turn, cause vagal stimulation 
+and bronchoconstriction (33). Intrathoracic pressure 
+swings and/or hypoxia also may increase cholinergic tone (potentiating 
+bronchoconstriction) independent of esophageal re-
+flux (34, 35). SDB may produce abnormalities in upper airway 
+muscles and mucosa that may alter oropharyngeal reflexes, 
+which potentiates bronchoconstriction (34, 35). A causative 
+association between SDB and asthma is suggested by two 
+studies that demonstrated improved asthma control in asthmatics 
+with SDB or loud snoring that were treated with nasal 
+continuous positive airway pressure (34, 36). The reverse 
+causal pathway (asthma causing or exacerbating SDB) also is 
+possible. Asthmatics frequently experience sleep disruption 
+because of nocturnal bronchoconstriction (37, 38). Experimental 
+sleep restriction has been reported to increase the frequency 
+of apneas in snorers (39), possibly because of adverse 
+effects of sleep deprivation on respiratory control. Finally, 
+asthma and SDB may be linked because of common risk factors 
+that promote airway inflammation and/or disturb neuromuscular 
+control of breathing. The patency of the upper airway 
+and overall bronchomotor tone may be influenced by 
+common sleep-state-specific or circadian-rhythm-specific influences. 
+Alterations in both bronchomotor tone and respiratory 
+muscle function occur in REM sleep (37, 40), which also 
+is the time when apneas are often the most pronounced. 
+
+It is possible that children with SDB with an affected family 
+member may differ from children in whom the disorder occurs 
+in a “nonfamilial” form. The relative impact of the risk factors 
+discussed in this report are likely different for children with 
+congenital anomalies, severe underlying comorbidities, and 
+neuromuscular diseases. Because SDB occurs more frequently 
+as a familial than as a sporadic disorder (2), and because family 
+history is a significant risk factor for SDB in children (odds 
+ratio, 4 to 5) (11), the data from this study should be broadly 
+generalizable to the majority of children in the community 
+with elevated AHI levels. 
+
+The measurement of the AHI in this study was based on a 
+simple approach for collecting six channels of data in an unattended 
+setting. This approach has been used extensively in epidemiologic 
+studies to provide reliable estimates of the AHI 
+that, in adults, correlates excellently with the AHI determined 
+by conventional polysomnography (7). The optimal recording 
+approach for sleep studies of children is an area of controversy. 
+It is possible that the sometimes subtle changes in 
+breathing pattern, in particular, periods of hypoventilation, 
+that occur in children with SDB be identified best with inductance 
+plethysmography and measurement of carbon dioxide 
+(41). Recognizing that children may not desaturate as markedly 
+as adults, we used a 2.5% level of desaturation rather 
+than the 4% used in many adult studies (42) to help identify 
+hypopneas. We also identified hypopneas on the basis of changes 
+in the amplitude of either the impedance or the thermistor signal, 
+an approach that may increase the sensitivity compared 
+with use of a single channel to identify breathing changes. We 
+previously demonstrated that this approach for monitoring 
+and scoring successfully distinguishes children with and with
+
+
+out SDB symptoms (11). Additionally, in our analyses, we did 
+not use clinical criteria for identifying abnormality (which are 
+variable across centers and specific to the recording apparatus). 
+Rather, we maximized the contrast between children 
+with and without “exposure” to SDB by creating two groups 
+of children with clearly different AHI levels. A level of 10 
+likely identifies children with at least moderate levels of SDB. 
+A level of , 5, however, may include some children, who, if 
+symptomatic, might be considered to have some degree of 
+SDB. Redefining affection status differently, using a cutoff 
+level of , 1 to define a normal population, and a level of . 5 
+as an abnormal level, resulted in generally similar but somewhat 
+less significant associations between SDB and the risk 
+factors under consideration (e.g., odds ratios of 2.2 for wheeze, 
+
+2.3 for race, and 6.1 for obesity). We also used a 10-s duration 
+criterion to identify obstructed breathing events. This may differ 
+from what is done in some pediatric sleep laboratories. It is 
+possible that different recording approaches and SDB definitions 
+may have identified a slightly different population of “affected” 
+children. However, it seems unlikely that alternative 
+definitions would result in qualitative differences in the findings 
+of this study. 
+Both the prevalence and the clinical significance of SDB to 
+general health and development in children are poorly understood. 
+We observed a frequency of SDB in our control sample 
+of children of 1.6%. The results of the studies of Gislason and 
+Benediktsdottir (15) and Ali and colleagues (43), which focused 
+on small samples of children with multiple symptoms 
+drawn from their larger population-based samples, also indicate 
+that the minimum prevalence of SDB is in the range of 1 
+to 3%. Clinical case series and limited epidemiologic data suggest 
+that children with untreated SDB experience substantial 
+morbidity. Even mild forms of SDB may be important in children, 
+who may be particularly susceptible to adverse effects of 
+sleep disruption and gas exchange abnormalities that may 
+negatively impact growth and development. The findings from 
+this study identify several risk factors for SDB in children, 
+highlighting risk associated with obesity, African American 
+race, and respiratory problems. Further understanding how 
+these risk factors negatively impact upper airway patency may 
+aid in elucidating the pathogenesis of SDB and optimizing 
+treatment strategies. 
+
+References 
+
+1. Young, T., M. Palta, J. Dempsey, J. Skatrud, S. Weber, and S. Bader. 
+1993. The occurrence of sleep disordered breathing in middle-aged 
+adults. N. Engl. J. Med. 328:1230–1235. 
+2. Redline, S., P. V. Tishler, T. D. Tosteson, et al. 1995. The familial aggregation 
+of obstructive sleep apnea. Am. J. Respir. Crit. Care Med. 151: 
+682–687. 
+3. Redline, S., P. V. Tishler, M. Hans, T. D. Tosteson, K. P. Strohl, and K. 
+Spry. 1997. Racial differences in sleep disordered breathing in African 
+Americans and Caucasians. Am. J. Respir. Crit. Care Med. 155:186–192. 
+4. Kump, K., C. Whalen, P. Tishler, et al. 1994. Assessment of the validity 
+and utility of a sleep symptom questionnaire in a community sample. 
+Am. J. Respir. Crit. Care Med. 150:735–741. 
+5. Ferris, B. G. 1978. Epidemiologic Standardization Project. Am. Rev. Respir. 
+Dis. 118:1–88. 
+6. Crapo, R. O., A. H. Morris, R. M. Gardner. 1981. Reference spirometric 
+values using techniques and equipment that meet the ATS recommendations. 
+Am. Rev. Respir. Dis. 123:659–664. 
+7. Redline, S., T. Tosteson, M. A. Boucher, and R. P. Millman. 1991. Measurement 
+of sleep-related breathing disturbance in epidemiologic 
+studies: assessment of the validity and reproducibility of a portable 
+monitoring device. Chest 100:1281–1286. 
+8. Whitaker, R. C., J. A. Wright, M. S. Pepe, K. D. Seidel, and W. H. Dietz. 
+1997. Predicting obesity in young adulthood from childhood and prenatal 
+obesity. N. Engl. J. Med. 337:869–873. 
+9. Knudson, R. J., M. D. Lebowitz, C. J. Holberg, and B. Burrows. 1983. 
+
+1532 AMERICAN JOURNAL OF RESPIRATORY AND CRITICAL CARE MEDICINE VOL 159 1999 
+
+Changes in the normal maximal expiratory flow-volume curve with 
+growth and aging. Am. Rev. Respir. Dis. 127:725–734. 
+
+10. Redline, S., and M. Sanders. 1997. Hypopnea, a floating metric: implications 
+for prevalence, morbidity estimates, and case finding. Sleep 20: 
+1209–1217. 
+11. Redline, S., P. Tishler, J. Aylor, K. Clark, C. Burant, and J. Winters. 
+1997. Prevalence and risk factors for sleep disordered breathing in 
+children (abstract). Am. J. Respir. Crit. Care Med. 155:A843. 
+12. Liang, K. Y., and S. L. Zeger. 1986. Longitudinal data analysis using generalized 
+linear models. Biometrika 73:13–22. 
+13. Weitzman, M., S. L. Gortmaker, A. M. Sobol, and J. M. Perrin. 1992. Recent 
+trends in the prevalence and severity of childhood asthma. 
+J.A.M.A. 268:2673–2677. 
+14. Ali, N. J., D. Pitson, and J. R. Stradling. 1994. Natural history of snoring 
+and related behaviour problems between the ages of 4 and 7-years. 
+Arch. Dis. Child 71:74–76. 
+15. Gislason, T., and B. Benediktsdottir. 1995. Snoring, apneic episodes, and 
+nocturnal hypoxemia among children 6 months to 6-years-old. Chest 
+107:963–966. 
+16. Redline, S., T. Tosteson, P. Tishler, M. Carskadon, and R. Millman. 
+1992. Familial aggregation of symptoms of sleep related breathing disorders. 
+Am. Rev. Respir. Dis. 145:440–444. 
+17. Weiss, S. T., I. B. Tager, A. Munoz, and F. E. Speizer. 1985. The relationship 
+of respiratory infections in early childhood to the occurrence 
+of increased levels of bronchial responsiveness and atopy. Am. Rev. 
+Respir. Dis. 131:573–578. 
+18. Guilleminault, C., R. Korobkin, and R. Winkle. 1981. A review of 50 
+children with obstructive sleep apnea syndrome (OSAS). Lung 159: 
+275–287. 
+19. Guilleminault, C., F. Eldrige, and F. B. Simmons. 1976. Sleep apnea in 
+eight children. Pediatrics 58:23. 
+20. Brouillette, R. T., S. K. Fernbach, and C. E. Hunt. 1982. Obstructive 
+sleep apnea in infants and children. J. Pediatr. 100:31. 
+21. Lind, M. G., and B. P. Lundell. 1982. Tonsillar hyperplasia in children: a 
+cause of obstructive sleep apneas, CO2 retention, and retarded growth. 
+Arch. Otolaryngol. 108:650. 
+22. Guilleminault, C., and R. Stoohs. 1990. Obstructive sleep apnea syndrome 
+in children. Pediatrician 17:46. 
+23. Redline, S., M. Hans, and P. Krejcki. 1994. Differences in the age distribution 
+and risk factors for sleep disordered breathing in blacks and 
+whites. Am. J. Respir. Crit. Care Med. 149:576. 
+24. Guilleminault, C., and W. C. Dement. 1978. Sleep apnea syndromes and 
+related disorders. In R. L. Williams and I. Katacan, editors. Sleep Disorders: 
+Diagnosis and Treatment. Wiley, New York. 
+25. Redline, S., K. Kump, P. V. Tishler, I. Browner, and V. Ferrette. 1994. 
+Gender differences in sleep disordered breathing in a community-
+based sample. Am. J. Respir. Crit. Care Med. 149:722–726. 
+26. Schachter, F. F., M. L. Fuchs, P. E. Bijur, and R. K. Stone. 1989. Cosleeping 
+and sleep problems in Hispanic-American urban young children. 
+Pediatrics 84:522–530. 
+
+27. Fitzpatrick, M. F., K. Martin, E. Fossey, C. M. Shapiro, R. A. Elton, and 
+N. J. Douglas. 1993. Snoring, asthma and sleep disturbance in Britain: 
+a community-based survey. Eur. Respir. J. 6:531–535. 
+28. Larsson, L.–G., B. Lundback, A.-C. Jonsson, M. Lindstrom, and E. Jonsson. 
+1997. Symptoms related to snoring and sleep apnea in subjects 
+with chronic bronchitis: report from the Obstructive Lung Disease in 
+Northern Sweden Study. Respir. Med. 91:5–12. 
+29. Corbo, G. M., F. Fuciarelli, and A. Foresi. 1989. Snoring in children: association 
+with respiratory symptoms and passive smoking. Br. Med. J. 
+299:1491. 
+30. Teculescu, D. B., I. Caillier, P. Perrin, E. Rebstock, and A. Rauch. 1992. 
+Snoring in French preschool children. Pediatr. Pulmonol. 13:239–244. 
+31. McColley, S. A., J. L. Carroll, and S. Curtis. 1994. High prevalence of allergy 
+in pediatric sleep disordered breathing (abstract). Am. J. Respir. 
+Crit. Care Med. 149(Pt. 2):A884. 
+32. Atkins, M., V. Taskar, N. Clayton, P. Stone, and A. Woodcock. 1994. 
+Nasal resistance in obstructive sleep apnea. Chest 105:1133–1135. 
+33. Buts, J. P., C. Barudi, and D. Moulin. 1986. Prevalence and treatment of 
+silent gastro-oesophageal reflux in children with recurrent respiratory 
+disorders. Eur. J. Pediatr. 145:396. 
+34. Guilleminault, C., M. A. Quera-Salva, N. Powell, et al. 1988. Nocturnal 
+asthma: snoring, small pharynx and nasal CPAP. Eur. Respir. J. 1:902– 
+907. 
+35. Guilleminault, C., A. Tilkian, K. Lehrman, L. Forno, and W. C. Dement. 
+1977. Sleep apnea syndrome: states of sleep and autonomic dysfunction. 
+J. Neurol. Neurosurg. Psychiatry 40:718–725. 
+36. Chan, C. S., A. J. Woolcock, and C. E. Sullivan. 1988. Nocturnal asthma: 
+role of snoring and obstructive sleep apnea. Am. Rev. Respir. Dis. 137: 
+1502–1504. 
+37. Shapiro, C. M., J. R. Catterall, I. Montgomery, G. M. Raab, and N. J. 
+Douglas. 1986. Do asthmatics suffer bronchoconstriction during rapid 
+eye movement sleep? Br. Med. J. 292:1161–1164. 
+38. Klink, M., and S. F. Quan. 1987. Prevalence of reported sleep disturbances 
+in a general adult population and their relationship to obstructive 
+airways diseases. Chest 91:540–546. 
+39. Levine, B., T. A. Roehrs, E. Stepanski, F. Zorick, and T. Roth. 1987. 
+Fragmenting sleep diminishes its recuperative value. Sleep 10:590–599. 
+40. Hendricks, J. C., R. J. Kovalski, and L. R. Kline. 1991. Phasic respiratory 
+muscle patterns and sleep-disordered breathing during rapid eye movement 
+sleep in the English bulldog. Am. Rev. Respir. Dis. 144: 1112– 
+1120. 
+41. Loughlin, G. M., R. T. Brouillette, L. J. Brooke, et al. 1996. Standards 
+and indications for cardiopulmonary sleep studies in children. Am. J. 
+Respir. Crit. Care Med. 153:866–878. 
+42. Moser, N. J., B. A. Phillips, D. T. R. Berry, and L. Harbison. 1994. What 
+is hypopnea, anyway? Chest 105:426–428. 
+43. Ali, N. J., D. J. Pitson, and J. R. Stradling. 1993. Snoring, sleep disturbance, 
+and behaviour in 4–5-year-olds. Arch. Dis. Child 68:360–366. 
+

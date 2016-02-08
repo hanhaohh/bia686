@@ -1,0 +1,906 @@
+Journal of Internal Medicine 2003; 253: 536–543 
+
+Low sleep quality and daytime sleepiness in obese patients 
+without obstructive sleep apnoea syndrome 
+
+O. RESTA 1, M.P.FOSCHINOBARBARO 2,P.BONFITTO 2,T.GILIBERTI 1,A.DEPALO 1, 
+N. PANNACCIULLI 3 & G. DE PERGOLA 3 
+From the 1Respiratory Pathophysiology, Department of Clinical Methodology and Medical–Surgical Technologies, University of Bari, School of 
+Medicine, Bari, Italy; 2Respiratory Disease Institute, University of Foggia, School of Medicine, Foggia, Italy; and 3Internal Medicine, Endocrinology, 
+and Metabolic Diseases, Department of Emergency and Organ Transplantation, University of Bari, Bari, Italy 
+
+Abstract. Resta O, Foschino-Barbaro MP, Bonfitto P, 
+Giliberti T, Depalo A, Pannacciulli N, De Pergola G 
+(Respiratory Pathophysiology, University of Bari, 
+School of Medicine, Bari, Italy; University of Foggia, 
+School of Medicine, Foggia, Italy; and Internal 
+Medicine, Endocrinology, and Metabolic Diseases, 
+University of Bari, Bari, Italy). Low sleep quality and 
+daytime sleepiness in obese patients without 
+obstructive sleep apnoea syndrome. J Intern Med 
+2003; 253: 536–543. 
+
+Objectives. To evaluate sleep quality, sleep-related 
+symptoms, and degree of excessive daytime 
+sleepiness (EDS) in severe obesity, independently of 
+obstructive sleep apnoea syndrome (OSAS). 
+Design. A cross-sectional study. 
+Setting. Primary-care setting. 
+Subjects, main outcome measures. Anthropometric 
+parameters, respiratory function data and sleep 
+related symptoms were evaluated in 78 severely 
+obese patients (aged 16–75 years) without OSAS 
+and in 40 healthy sex-and age-matched normal 
+weight subjects, who underwent a full-night 
+polysomnography. 
+Results. Obese patients and control subjects had 
+similar sleep latency and rapid eye movement (REM) 
+
+latency, but they showed lower percentage of REM 
+(P < 0.01) and sleep efficiency (P < 0.05) than 
+controls. All sleep-related symptoms (observed or 
+reported apnoea, awakenings, choking and 
+unrefreshing sleep) were significantly more 
+frequent in obese patients than in control subjects. 
+Loud snoring was present in 46.7% of the obese 
+patients and in 8.1% of the control individuals 
+(P < 0.01). Excess daytime sleepiness was reported 
+by 34.7% of the obese patients and by 2.7% of the 
+normal weight subjects (P < 0.01). The Epworth 
+Sleepiness Scale (ESS) was higher in the obese group 
+than in the control group (P < 0.01), whereas 
+arousals were not different between the two groups. 
+Conclusions. This study clearly shows that severe 
+obesity, even in the absence of OSAS, is associated 
+with sleep-related disorders and EDS. All these 
+alterations may be partly responsible for a lower 
+quality of life, a higher prevalence of medical 
+complications, an increased risk of occupational 
+injury, and both social and family problems 
+characterizing obese patients, independently of the 
+presence of OSAS. 
+
+Keywords: excessive daytime sleepiness, severe 
+obesity, sleep quality, sleep-related symptoms. 
+
+Introduction 
+
+It has been well established that the prevalence of 
+overweight and obesity is progressively increasing in 
+USA and in all civilized countries [1, 2]. The 
+importance of this finding derives from the fact that 
+body fatness, and visceral obesity in particular, is 
+associated with adverse health effects, including 
+
+hypertension, coronary heart disease, stroke, insulin 
+resistance, type 2 diabetes, osteoarthritis, and psychological 
+problems [2]. Respiratory complications 
+of obesity tend to be less evident and incorporate 
+reduced exercise capacity, hypoxaemia and hypo-
+ventilation during sleep. The most common respiratory 
+disturbance is the development of upper 
+airway obstruction during sleep, which can progress 
+
+. 
+2003 Blackwell Publishing Ltd 
+
+SLEEP QUALITY IN OBESITY 537 
+
+to frank obstructive sleep apnoea syndrome (OSAS). 
+A previous study performed in patients with severe 
+obesity [mean body mass index (BMI) > 42.5] has 
+shown that more than 50% of patients without 
+reported sleep-related disorders had OSAS [respiratory 
+disturbance index (RDI) ‡ 
+10 h)1] [3]. Daytime 
+sleepiness and fatigue is a frequent complaint of 
+obese patients and it is worth noting that patients 
+with daytime sleepiness have lower quality of life, a 
+higher prevalence of medical complications, and 
+greater than twofold higher risk of sustaining an 
+occupational injury [4]. Moreover, excessive daytime 
+sleepiness (EDS) has been related to several social and 
+family problems [5]. Little is known about the sleep 
+pattern and the sleep-related symptoms in obese 
+people who do not demonstrate sleep apnoea and, at 
+the best of our knowledge, the only study which 
+examined this issue, found that obese people without 
+OSAS (or other sleep-related breathing disorders) 
+often report daytime sleepiness and fatigue [6]. 
+
+The aim of this paper was to study the sleep 
+quality and the sleep-related symptoms, including 
+the degree of daytime sleepiness, in 78 patients with 
+severe obesity but free from OSAS, who were 
+consecutively referred for the treatment of obesity, 
+and in 40 healthy normal-weight subjects, matched 
+for age and sex. 
+
+Patients and methods 
+
+Subjects 
+
+A total of 161 obese subjects (BMI ‡ 
+30), 57 men and 
+104 women aged 16–75 years, were consecutively 
+enrolled at the Outpatient Clinic for Obesity, Section 
+of Internal Medicine, Endocrinology, and Metabolic 
+Diseases, Department of Emergency and Organ 
+Transplantation, School of Medicine, University of 
+Bari, Bari, Italy, over a period of 4 years. Noteworthy, 
+none of these patients had been in a ‘Sleep Centre’ or 
+spontaneously reported sleep-related symptoms. 
+Forty voluntary subjects, physicians, and students 
+without sleep-related symptoms or other pathologies, 
+six men and 34 women with BMI < 27, aged 
+20–70 years, were enrolled as control subjects. The 
+study was approved by the local Ethical Committee, 
+and all subjects gave their informed consent. 
+
+Exclusion criteria were: previous diagnosis of sleep 
+disorders (inadequate time in bed, insomnia, narcolepsy, 
+idiopathic hypersomnolence, shift work, sleep 
+
+apnoea/hypopnoea syndrome, periodic limb movement 
+disorders, etc.) or spontaneously complaining 
+of sleep disorders. We also excluded all patients who 
+could not sleep in supine position or did not reach 
+the rapid eye movement (REM) sleep stage during 
+the polysomnography or had a total sleep time 
+(TST) < 3 h per night. Moreover, the 161 obese 
+patients enrolled into the study had no evidence of 
+endocrinological or neuromuscular diseases, psychiatric 
+disorders, overt cardiopulmonary diseases, 
+airway obstruction (FEV1/FVC < 70%), daytime 
+hypoventilation, anatomic maxillo-mandibular skeletal 
+abnormalities, ear or nose pathology, alcohol 
+abuse, or any kind of hypnotic drug. 
+
+Anthropometric parameters 
+
+Central fat accumulation was evaluated by the waist 
+circumference, measured midway between the lower 
+rib margin and the superior anterior iliac spine. Hip 
+circumference was evaluated at the widest circumference 
+overt the greater trochanter. The waist-to-hip 
+circumference ratio (WHR) was also calculated. Neck 
+circumference was measured at the level of the 
+cricothyroid membrane. Blood pressure was recorded 
+using a mercury sphygmomanometer with an appropriate 
+cuff size; the mean level of three measurements 
+performed on different days was used. 
+
+Respiratory function data 
+
+A flow volume spirometry was performed with the 
+patient in the sitting position using a pneumotachograph 
+spyrometer connected to a microcomputer 
+system (PK Morgan Ltd, Gillingham, Kent, UK). 
+Predicted equations for pulmonary function tests 
+were from Vilijanen [7]. 
+
+Forced expiratory volume in 1 s (FEV1) and forced 
+vital capacity (FVC) were measured, and the FEV1/ 
+FVC ratio was calculated. Functional residual capacity 
+(FRC), residual volume (RV) and total lung 
+capacity (TLC) were measured by the helium equilibration 
+method, by using a pulmonary function 
+laboratory 2400¢ 
+(Sensor Medics, Bilthoven, The 
+Netherlands). The mean of three different determinations 
+was recorded for all the above parameters. 
+
+Arterial blood samples for blood gas analysis 
+were drawn (brachial or radial artery) after at least 
+3 min of rest in the supine position. Arterial blood 
+PCO2,PO2, pH and base excess were analysed with 
+
+. 
+2003 Blackwell Publishing Ltd Journal of Internal Medicine 253: 536–543 
+
+538 O. RESTA et al. 
+
+an automatic acid–base analyser (ABL 30 Radiometer; 
+Instrumentation Laboratory, Copenhagen, 
+Denmark). 
+
+All the measurements were performed in the 
+evening before the sleep study. 
+
+Measurement of sleep-related symptoms 
+
+All subjects (obese and healthy) were evaluated by a 
+modified version of the Sleep and Healthy questionnaire 
+[8]. As self-reported sleepiness is known to 
+underestimate the physiological state of sleepiness 
+[9], the questionnaire was answered under the 
+supervision of a trained interviewer and in 
+the presence of the patient’s partner, if any. The 
+questionnaire focused on the snoring, the daytime 
+sleepiness and the sleep quality, and the items were: 
+1 ‘Has your snoring ever been so loud that it has 
+disturbed others?’ [loud snoring (LS)]. 
+2 ‘Over the last month, have you experienced sleepiness 
+during the day or during your normal working 
+hours?’ (excessive daytime sleepiness: (EDS)]; in particular, 
+EDS was defined as the propensity for dozing or 
+falling asleep in spite of the will of remaining awake. 
+
+The frequency of snoring and daytime sleepiness 
+was also quantified [patient score (PS)], and these 
+symptoms were scored as follows: no, never ¼ 
+0; 
+sometimes (one to two times per week) ¼ 
+1; often 
+(three to four times per week) ¼ 
+2; almost always or 
+always (five to seven times per week) ¼ 
+3. 
+
+The classical Epworth Sleepiness Scale (ESS) [10], 
+a simple method validated in both healthy subjects 
+and in patients with different sleep disorders, was 
+also used to study EDS in our patients. 
+
+Finally, all subjects and their partners were also 
+asked: 
+1 Has someone observed if you stop breathing 
+during the night? (observed or reported apnoea). 
+2 Do you wake up during the night? (observed or 
+reported awakenings). 
+3 Have you noticed choking during the night? 
+(observed or reported choking). 
+4 When you wake up in the morning, do you feel 
+that you have not got enough rest during the night? 
+(unrefreshing sleep). 
+
+Polysomnographic data 
+
+All subjects were evaluated in the sleep laboratory of 
+the Respiratory Disease Insitute, University of Bari, 
+
+School of Medicine and were monitored continuously 
+for 8 h using a 12-channel polysomnograph 
+(Vitalog HMS 5000; Vitalog Monitoring Inc., Redwood 
+City, CA, USA). Polysomnography was performed 
+after a night of adaptation at the Hospital. 
+Electroencephalographic, electrooculographic and 
+chin electromyographic recordings were obtained 
+with surface electrodes according to standard methods 
+[11]. 
+
+Airflow was monitored by thermocouples placed 
+at the nose and at the mouth. Abdominal and 
+ribcage movements were assessed by respiratory 
+inductive plethysmography with recording of paradoxical 
+breathing. 
+
+Whole-night recordings of haemoglobin oxygen 
+saturation were obtained by finger pulse oximetry. 
+Snoring sounds were recorded with a microphone 
+attached to the neck along with electrocardiogram 
+and sleeping position. 
+
+Respiratory events (apnoea or hypopnoea) were 
+defined as a cessation or a reduction by two-third 
+times of airflow and/or abdominal ribcage movements 
+lasting at least 10 s and associated with a 
+2.5% decrease in oxygen saturation. 
+
+As most of the events (>85%) were obstructive 
+(characterized by increasing ventilatory effort and 
+paradoxical breathing), no distinction was made 
+between the specific patterns of each apnoea analysis. 
+
+
+The total number of the respiratory events was 
+divided by the TST to obtain the RDI. The TST was 
+defined as the time spent in the bed, excluding the 
+sleep latency (SL) and the wake time after the onset 
+of sleep (total wake time). 
+
+The TSTSaO2 less than 90%, defined as the 
+percentage of the TST with oxyhaemoglobin saturation 
+less than 90%, was also calculated. 
+
+To simplify the analysis, sleep was divided into 
+non-REM (NREM) sleep and REM sleep; both were 
+expressed as percentage of the TST. Sleep efficiency 
+(SE) was defined as the ratio between the TST and 
+the time spent in the bed. Finally, we recorded SL 
+and REM latency (L/REM). Electroencephalogram 
+(EEG) arousals were detected as a rapid increase in 
+EEG frequency lasting >3 s and <15 s and characterized 
+by alpha activity and, during REM sleep, by 
+an increase in muscle tone [12]. Total number of 
+arousals was divided by TST to obtain arousal index 
+(AI). Polysomnographic data were recorded according 
+to standard criteria [11]. 
+
+. 
+2003 Blackwell Publishing Ltd Journal of Internal Medicine 253: 536–543 
+
+SLEEP QUALITY IN OBESITY 539 
+
+Statistical analysis 
+
+Descriptive statistics were used to summarize subject 
+characteristics. Comparison between groups was 
+performed by the Student’s t-test for continuous 
+variables (age, anthropometric parameters, polysomnographic 
+data and ESS). Pearson’s chi-square 
+test was used for discrete variables (sex, comparison 
+between the groups in relation to sleep-related 
+symptoms, snoring and daytime sleepiness). A value 
+of P < 0.05 was considered statistically significant. 
+Linear correlations of ESS with age, BMI, neck 
+circumference and RDI were also determined in the 
+group of obese patients without OSAS. All these 
+parameters were normally distributed. The differences 
+of anthropometric data, polysomnographic 
+findings and arousal index between normal-weight 
+subjects and non-OSAS obese patients according to 
+sex (Table 3), and the relationship between the 
+frequency of snoring and the daytime sleepiness 
+(evaluated by the ESS) in non-OSAS obese group 
+(Table 4) were evaluated by the anova test. 
+
+Results 
+
+Anthropometric data and polysomnographic findings 
+
+Table 1 shows anthropometric data and polysomnographic 
+findings of obese patients with (OSAS 
+subjects) and without OSAS (non-OSAS subjects). 
+Noteworthy, although patients with OSAS had a 
+lower SL and percentage of REM sleep than non-
+OSAS subjects, percentage of SE and L/REM were 
+
+similar both in OSAS and non-OSAS. Arousal Index 
+(AI) was higher in OSAS than in non-OSAS subjects. 
+
+Table 2 shows the differences in anthropometric 
+data, polysomnographic findings, and arousal index 
+between normal-weight subjects and obese patients 
+without OSAS (non-OSAS). 
+
+Control subjects had lower BMI, neck circumference 
+and WHR than non-OSAS patients, whereas 
+values of RDI and TST less than 90% were similar to 
+non-OSAS group. Sleep latency and L/REM were 
+similar in the two groups, whereas both the 
+percentage of REM sleep and the SE were lower in 
+non-OSAS patients than in healthy subjects. 
+
+Table 3 shows the differences in anthropometric 
+data, polysomnographic findings and arousal index 
+between normal-weight subjects, and obese patients 
+without OSAS (non-OSAS), with each of the two 
+groups divided by sex. The results were similar to 
+those obtained without evaluating the effect of sex. 
+
+Sleep-related symptoms 
+
+All these sleep-related symptoms were more frequent 
+amongst patients of the non-OSAS group. In particular 
+(observed or reported) apnoea was present in 
+17% of the non-OSAS patients and in 2.5% of the 
+control subjects; choking was present in 25% of the 
+non-OSAS patients and in 1.0% of the control 
+subjects; awakenings were present in 50% of the 
+non-OSAS patients and in 3.0% of the control 
+subjects; unrefreshing sleep was present in 50% of 
+the non-OSAS patients and in 9.0% of the control 
+subjects (Fig. 1). 
+
+Table 1 Anthropometric data, 
+polysomnographic findings and OSAS (n ¼ 
+83) Non-OSAS (n ¼ 
+78) P-value 
+arousal index of obese subjects with 
+(OSAS) and without OSAS (non-
+OSAS) 
+Male/female 
+Age (years) 
+BMI (kg m)2) 
+43 M/40 F 
+47.6 ± 13 
+45 ± 8.5 
+14 M/64 F 
+35 ± 15 
+39.7 ± 5.95 
+<0.001 
+<0.001 
+<0.001 
+Neck circumference (cm) 45 ± 4 40.6 ± 4.25 <0.001 
+WHR 1.06 ± 0.16 0.95 ± 0.9 <0.05 
+RDI h)1 32.23 ± 21.8 3.87 ± 2.9 <0.001 
+TSTSaO2 < 90% 27.28 ± 29.74 0.7 ± 1.85 <0.001 
+Sleep latency (min) 13 ± 33.9 18 ± 14 <0.01 
+REM sleep percentage 12 ± 3 15 ± 0.6 <0.05 
+REM latency (min) 106 ± 58.6 113 ± 30 NS 
+Sleep efficiency 67 ± 2.4 70 ± 20 NS 
+Arousal index 39.5 ± 21.8 11.3 ± 5.0 <0.01 
+
+BMI ¼ 
+body mass index; WHR ¼ 
+waist-to-hip ratio; RDI h)1 ¼ 
+respiratory disturbance index per 
+hour; TST ¼ 
+total sleep time; REM ¼ 
+rapid eyes movement. 
+
+. 
+2003 Blackwell Publishing Ltd Journal of Internal Medicine 253: 536–543 
+
+540 O. RESTA et al. 
+
+Normal weight 
+(n ¼ 
+40) 
+Non-OSAS 
+(n ¼ 
+78) P-value 
+Table 2 Differences of anthropometric 
+data and polysomnographic 
+findings between normal-weight 
+Male/female 
+Age (years) 
+6 M/34 F 
+38.0 ± 13.06 
+14 M/64 F 
+35 ± 15 
+NS 
+NS 
+subjects and obese patients without 
+OSAS (non-OSAS) 
+BMI (kg m)2) 22.83 ± 2.44 39.7 ± 5.95 <0.001 
+Neck circumference (cm) 35.5 ± 3.7 40.6 ± 4.25 <0.001 
+WHR 0.83 ± 0.3 0.95 ± 0.9 <0.001 
+RDI h)1 2.0 ± 1.0 3.87 ± 2.9 NS 
+TSTSaO2 < 90% 0.0 0.7 ± 1.85 NS 
+Sleep latency (min) 20 ± 3 18 ± 14 NS 
+REM sleep (%) 21 ± 2 15 ± 0.6 <0.01 
+REM latency (min) 105 ± 7 113 ± 30 NS 
+Sleep efficiency 84 ± 5.7 70 ± 20 <0.05 
+Arousal index 10.8 ± 5.2 11.3 ± 5.0 NS 
+
+BMI ¼ 
+body mass index; WHR ¼ 
+waist-to-hip ratio; RDI h)1 ¼ 
+respiratory disturbance index per 
+hour; TST ¼ 
+total sleep time; REM ¼ 
+rapid eye movement. 
+
+Table 3 Differences of anthropometric data, polysomnographic findings and arousal index between normal weight (men and women) 
+subjects and obese patients without OSAS (non-OSAS) (men and women), according to sex 
+
+Normal-weight Non-OSAS 
+Men (n ¼ 
+6) Women (n ¼ 
+3) Men(n ¼ 
+14) Women (n ¼ 
+14) P-value 
+
+Age (years) 39.0 ± 10.39 37.8 ± 13.6 37.3 ± 13.39 34.6 ± 15.47 NS 
+BMI (kg m)2) 23.0 ± 1.89 22.8 ± 2.56 40.0 ± 5.39 39.7 ± 6.09 <0.001 
+Neck circumference (cm) 35.5 ± 4.81 35.5 ± 3.67 41.1 ± 4.21 40.5 ± 4.26 <0.001 
+WHR 0.83 ± 0.08 0.83 ± 0.27 1.01 ± 0.43 0.94 ± 0.86 <0.001 
+RDI h)1 1.83 ± 0.98 2.03 ± 1.06 4.21 ± 1.89 3.79 ± 3.13 NS 
+TSTSaO2 < 90% 0.0 0.0 1.25 ± 1.50 0.58 ± 1.92 NS 
+Sleep latency (min) 20.2 ± 2.28 20.1 ± 3.15 17.7 ± 12.63 18.1 ± 14.38 NS 
+REM sleep (%) 21.2 ± 1.41 21.1 ± 2.17 14.9 ± 0.26 15.0 ± 0.66 <0.001 
+REM latency (min) 106.0 ± 5.48 104.9 ± 7.32 110.5 ± 27.76 113.6 ± 30.49 NS 
+Sleep efficiency 84.67 ± 7.77 84.3 ± 5.44 64.7 ± 25.12 71.6 ± 18.28 <0.001 
+Arousal index 10.95 ± 5.44 10.8 ± 4.95 10.8 ± 4.27 11.4 ± 5.16 NS 
+
+BMI ¼ 
+body mass index; WHR ¼ 
+waist-to-hip ratio; RDI h)1 ¼ 
+respiratory disturbance index per hour; TST ¼ 
+total sleep time; 
+REM ¼ 
+rapid eye movement. 
+
+Snoring 
+
+Loud snoring was present in 46.7% of obese subjects 
+without apnoea and in 8.1% of control subjects 
+(Fig. 2). Similarly, patient score was higher in obese 
+non-OSAS as compared with normal weight subjects 
+
+(1.5 vs. 0.6, P < 0.05). 
+Daytime sleepiness 
+
+An EDS was reported by 34.7% of the obese non-
+OSAS and by one subject (2.7%) of the control group 
+(P < 0.01). When the Epworth Sleepiness Scale was 
+considered (Fig. 3), the value was 7.7 ± 4.6 in obese 
+patients without OSAS and 2.7 ± 2.0 in healthy 
+subjects (P < 0.001). 
+
+Interestingly, no significant correlation was found 
+between ESS score and age (r ¼ 
+0.21), BMI 
+(r ¼ 
+0.23), neck circumference (r ¼ 
+0.21), RDI 
+(r ¼ 
+0.19), and AI (r ¼ 
+0.19) in the obese non-
+OSAS group. In the latter group, correlations 
+between ESS score and sleep variables were not 
+significant (data not shown). However, amongst 
+these patients, those reporting loud snoring had 
+higher ESS score than those who did not have this 
+symptom (7.67 ± 4.5 vs. 4.18 ± 2.86, P ¼ 
+0.019). 
+Moreover, when the relationship between the frequency 
+of snoring and the daytime sleepiness 
+(evaluated by the ESS) was studied in the non-OSAS 
+obese group by the anova test (Table 4), ESS score 
+increased progressively with the severity of reported 
+snoring (P ¼ 
+0.0169). 
+
+. 
+2003 Blackwell Publishing Ltd Journal of Internal Medicine 253: 536–543 
+
+60 
+50 
+40 
+30 
+20 
+Fig. 1 Percentage of positive 
+answers to the question about loud 
+snoring. 
+0 
+10 
+
+50 
+45 
+40 
+35 
+30 
+25 
+20 
+15 
+10 
+
+Fig. 2 Loud snoring in obese 
+
+5 
+
+non-OSAS patients and in control 
+subjects. 0 
+
+Discussion 
+
+The main finding of this study, performed by using 
+polysomnographic examination, is that obese subjects, 
+even in the absence of OSAS, have significant 
+sleep disturbances, such as a higher SL, a lower 
+percentage of REM sleep, and a lower SE. Interestingly, 
+our data show that obese patients without 
+OSAS are similar in terms of percentage of SE and 
+L/REM to obese patients with OSAS, thus suggesting 
+that obesity per se is associated to sleep alterations. 
+Similar results have been reported in a group of 
+morbidly obese patients by Vgontzas et al., who did 
+not investigate the influence of sex on sleep quality 
+[6]. Our sample of non-OSAS obese patients was 
+represented by women (mainly) and men, but the 
+differences between normal-weight and non-OSAS 
+obese groups concerning the sleep quality was not 
+influenced by sex. 
+
+SLEEP QUALITY IN OBESITY 541 
+
+Sleep related complaints 
+
+Reported apnoea Choking Frequent awakenings Unrefreshing sleep 
+Control group 
+Non OSAS group 
+P < 0.001 
+P < 0.001 
+P < 0.001 
+P < 0.001 
+P < 0.01 
+
+
+Non OSAS 
+
+group 
+
+Control group 
+
+Obese patients without OSAS had more frequently 
+choking, awakenings, unrefreshing sleep and loud 
+snoring than normal-weight subjects, thus confirming 
+the findings of Vgontzas et al. [6], who showed 
+that obese people without OSAS have fragmented 
+sleep and a worse quality of sleep as compared with 
+nonobese subjects, matched for sex and age. Noteworthy, 
+snoring per se is suspected to be a risk factor 
+for insulin resistance, hypertension, diabetes and 
+cardiovascular risk, and sleep-disordered breathing 
+has been suggested to be a component of syndrome 
+X [13]. 
+
+Another important finding of our study is that 
+about 35% of obese patients without OSAS have 
+EDS. This is an important point, as patients with 
+daytime sleepiness have a lower quality of life, a 
+higher prevalence of medical complications, and a 
+greater than twofold higher risk of sustaining an 
+occupational injury [4]. EDS is a complaint that has 
+
+. 
+2003 Blackwell Publishing Ltd Journal of Internal Medicine 253: 536–543 
+
+recently aroused a large amount of interest, because 
+of its relationship to several social and family problems 
+[5]. The prevalence rate of EDS in our patients is 
+hard to compare with that of other studies, because of 
+the obvious difficulty to define the EDS as ‘excessive’. 
+The prevalence of EDS varies widely in the studies, 
+and it ranges between 0.3 and 13.3% in adults [14]. 
+However, it has been found that obesity (as well as 
+respiratory symptoms, gender and age) is related to 
+the risk of developing daytime sleepiness [15]. In our 
+study, we defined EDS as the propensity for dozing or 
+falling asleep in spite of the will for remaining awake; 
+moreover, according to a modified version of the Sleep 
+and Health questionnaire [8], we quantified the 
+frequency of these symptoms (patient score). In 
+addition, we used the Epworth Sleepiness Scale, a 
+simple and validated method which has been tested 
+previously in both healthy subjects and patients with 
+several kinds of sleep disorders [10]. 
+Most of our results confirm those of Vgontzas et al. 
+in obese patients without OSAS [6]. To the best of our 
+knowledge, the above study is the only one reporting 
+data about daytime sleepiness in obese subjects. These 
+authors, who used the multiple SL test, found that 
+57% of obese patients without sleep apnoea complained 
+of daytime sleepiness, more frequently than 
+nonobese subjects. Vgontzas et al. did not measure 
+arousals and AI in their patients. We measured this 
+parameter, but AI was not different between normal 
+weight and non-OSAS obese patients and it was not 
+associated with ESS in non-OSAS obese patients, thus 
+suggesting that low SE in non-OSAS obese patients is 
+not due to arousals. 
+Our results strongly suggest that a simple interview 
+about snoring history may be useful and sufficient to 
+obtain an indirect information on the sleepiness of the 
+obese patient. Therefore, from a clinical point of view, 
+our data reinforce the importance of investigating the 
+sleep disturbances and the daytime sleepiness in obese 
+patients, even in those without OSAS. In fact, they 
+usually underestimate their symptoms and are not 
+used to complain spontaneously of their sleep-related 
+symptoms and/or their daytime fatigue and sleepiness; 
+moreover, they rarely address their clinical 
+problems to a sleep centre. Therefore, physicians 
+expert in obesity treatment should be educated to 
+investigate and to recognize the sleep-related disturbances 
+and the daytime sleepiness and to collaborate 
+with experts in these problems, and vice versa. 
+The pathophysiological mechanism of the sleep 
+disturbance in obese patients without OSAS, and of 
+EDS in particular, is not clear. The mechanical effects 
+of obesity may well play an important role in 
+determining sleep disturbances but, unfortunately, 
+there is no clear-cut evidence to support this hypothesis. 
+Psychological distress is common in obese 
+patients [16–18]; however, the possibility that the 
+sleep pattern of obese patients reflects a condition of 
+psychological distress has been apparently excluded 
+by some authors [19]. As obese patients may have a 
+condition of hyperarousability during the night and 
+hypoarousability during the day [6], another explanation 
+may be that daytime sleepiness and nocturnal 
+disturbances are manifestations of endocrinological 
+and/or metabolic circadian abnormalities. Noteworthy, 
+plasma levels of inflammatory cytokines [tumour 
+necrosis factor-a (TNF-a) and interleukin-6 (IL-6)] are 
+elevated in subjects with EDS and, interestingly, the 
+levels of these cytokines are higher in obese than in 
+normal-weight healthy subjects [20]. Therefore, 
+these substances might be responsible for sleep 
+disturbances by acting in the brain. Lastly, it may 
+Table 4 Relationship between the frequency of snoring and the 
+daytime sleepiness evaluated by the Epworth Sleepiness Scale 
+(ESS) in non-OSAS obese group 
+Reported snoring ESS 
+Never (n ¼ 42) 4.18 ± 2.86 
+Sometimes (n ¼ 10) 6.00 ± 4.90 
+Often (n ¼ 14) 7.25 ± 3.69 
+Always (n ¼ 42) 9.16 ± 4.18 
+0
+2
+4
+6
+8 
+10 
+Patient score 
+Control 
+group 
+Non OSAS 
+group 
+P < 0.001 
+Fig. 3 Epworth Sleepiness Scale (ESS) patients score. 
+ 2003 Blackwell Publishing Ltd Journal of Internal Medicine 253: 536–543 
+542 O. RESTA et al.
+
+SLEEP QUALITY IN OBESITY 543 
+
+well be that loud snoring (with associated partial 
+awakenings), present in about 50% of our obese 
+patients without OSAS, is the key-factor for the 
+disruption of sleep architecture and, therefore, for 
+EDS. However, two studies concerning snoring and 
+sleep patterns reported increased wakefulness but no 
+change in sleep architecture in snorers [21,22]. The 
+present study shows that obese patients without 
+OSAS had higher ESS score if they were habitual 
+snorers, and this finding is in line with the results of 
+Klink et al. [15], who found that snoring was a 
+significant risk factor for EDS. However, Vgontzas 
+et al. [6] found no correlation between sleep disturbance 
+and snoring. The main difference between the 
+present study and that of Vgontzas is that this author 
+examined the relationship between polysomnographic 
+data and sleepiness, whereas we tested the association 
+between reported snoring and ESS. We do not 
+have a clear explanation for the difference between 
+the above studies but, at the moment, it cannot be 
+excluded that snoring per se may have significant 
+effects in determining daytime sleepiness. 
+
+In conclusion, severely obese patients free from 
+OSAS are characterized by sleep-related disorders, 
+such as a lower percentage of REM sleep, a lower SE, 
+and more frequent choking, awakenings, unrefreshing 
+sleep, and loud snoring. Moreover, most of these 
+patients report EDS. Therefore, as all these changes 
+may have an important impact on the quality of life 
+and on the public safety, and it is quite rare that obese 
+patients report sleep-related complaints or refer 
+spontaneously to a sleep centre, we would like to 
+suggest that physicians should include a short sleep-
+history in the clinical assessment of obese patients. 
+
+Conflict of interest statement 
+
+No conflict of interest was declared. 
+
+References 
+
+1 
+Kuczmarski RJ, Flegal DM, Campbell SM, Johnson CL. 
+
+Increasing prevalence of overweight among US adults. JAMA 
+
+1994; 272: 205–11. 
+
+2 
+Bjorntorp P. Obesity: a chorinic disease with alarming pre
+
+
+valence and consequences. J Intern Med 1998; 244: 267–9. 
+
+3 
+Resta O, Foschino Barbaro MP et al. Sleep-related breathing 
+
+disorders, loud snoring and excessive daytime sleepiness in 
+
+obese subjects. Int J Obes 2001; 25: 1–7. 
+
+4 
+Melamed S, Oksenberg A. Excessive daytime sleepiness and 
+
+risk of occupational injuries in non-shift daytime workers. 
+
+Sleep 2002; 25: 315–22. 
+
+5 
+Johns M. Rethinking the assessment of sleepiness. Sleep Med 
+Rev 1998; 2: 3–15. 
+
+6 
+Vgontzas AN, Bixler EO, Tan TL, Kantner D, Martin LF, 
+Kales A. Obesity without sleep apnea is associated with daytime 
+sleepiness. Arch Intern Med 1998; 158: 1333–7. 
+
+7 
+Vilijanen AA, Halttunen PK, Kreus KE, Vilijanen BC. Spirometric 
+studies in non-smoking, healthy adults. Scand J Clin 
+Lab Invest 1982; 42 (Suppl. 1159): 5–20. 
+
+8 
+Kump K, Whalen C, Tishler PV et al. Assessment of the 
+validity and the utility of a sleep-symptom questionnaire. Am 
+J Respir Crit Care Med 1994; 150: 735–41. 
+
+9 
+Thorpy MJ. The clinical use of the Multiple Sleep Latency Test: 
+the Standards of Practice Committee of the American Sleep 
+Disorders Association. Sleep 1992; 15: 268–76. 
+
+10 
+Johns MW. Sleepiness in different situations measured by the 
+Epworth sleepiness scale. Sleep 1994; 17: 703–10. 
+
+11 
+Rechtschaffen A, Kales A. A manual of standardized terminology, 
+techniques and scoring system for sleep stage of human 
+subjects. NIH Publication No: 204. US Government Printing 
+Office, Washington, DC, 1968. 
+
+12 
+ASDA. EEG arousals: scoring rules and examples. Sleep 1992; 
+
+15: 174–84. 
+13 
+Coughlin S, Calverley P, Wilding J. Sleep disordered breathing: 
+a new component of symdrome X? Obesity Rev 2001; 2: 
+267–72. 
+
+14 
+Schmidt-Nowara WW, Wiggins CL et al. Sleepiness in an 
+adult population. prevalence, validity, and correlates. In: 
+Peter JH, Penzel T, Podszus T, von Wichert P, eds. Sleep and 
+Health Risk. Berlin: Springer-Verlag, 1991; 78–83. 
+
+15 
+Klink ME, Dodge R, Quan SF. The relation of sleep complaints 
+to respiratory symptoms in a general population. Chest 1994; 
+
+105: 151–4. 
+16 
+Rosmond R, Bjorntorp P. Psychosocial and socio-economic 
+factors in women and their relationship to obesity and 
+regional body fat distribution. Int J Obes Relat Metab Disord 
+1999; 23: 138–45. 
+
+17 
+Bjorntorp P, Rosmond R. Hypothalamic origin of the metabolic 
+syndrome X. Ann NY Acad Sci 1999; 892: 297–307. 
+
+18 
+Rosmond R, Bagheri F, Holm G, Bjorntorp P. Relationships 
+between personality disorders and anthropometry, hormones and 
+metabolism in women. J Endocrinol Invest 2001; 24: 159–65. 
+
+19 
+Vgontzas AN, Tan TL, Bixler EO, Martin LF, Shubert D, 
+Kales A. Sleep apnea and sleep disruption in obese patients. 
+Arch Intern Med 1994; 154: 1705–11. 
+
+20 
+Vgontzas AN, Papanicolaou DA, Bixler EO, Kales A, Tyson K, 
+Chrousos GP. Elevation of plasma cytokines in disorders of 
+excessive daytime sleepiness: role of sleep disturbance and 
+obesity. J Clin Endocrinol Metab 1997; 82: 1313–6. 
+
+21 
+Guilleminault C, Stoohs R, Duncan S, Snoring I. Daytime 
+sleepiness in regular heavy snorers. Chest 1991; 99: 40–8. 
+22 Hoffstein V, Mateika JK, Mateika S. Snoring and sleep architecture. 
+Am Rev Respir Dis 1991; 143: 92–6. 
+
+Received 16 July 2002; revision received 3 December 2002; 
+accepted 29 January 2003. 
+
+Correspondence: Giovanni De Pergola, Internal Medicine, Endocrinology, 
+and Metabolic Diseases, Department of Emergency and 
+Organ Transplantation, University of Bari, P.zza G. Cesare 11, 
+70124 Bari, Italy (fax: +39-080-5240558; e-mail: g.depergola@ 
+endo.uniba.it). 
+
+. 
+2003 Blackwell Publishing Ltd Journal of Internal Medicine 253: 536–543 
+

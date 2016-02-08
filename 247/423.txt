@@ -1,0 +1,2230 @@
+Adherence to and Effectiveness of Positive Airway Pressure Therapy in Children 
+With Obstructive Sleep Apnea 
+
+
+Carole L. Marcus, Gerald Rosen, Sally L. Davidson Ward, Ann C. Halbower, Laura 
+Sterni, Janita Lutz, Pamela J. Stading, Daisy Bolduc and Nancy Gordon 
+Pediatrics 2006;117;e442-e451 
+DOI: 10.1542/peds.2005-1634 
+
+
+The online version of this article, along with updated information and services, is 
+located on the World Wide Web at: 
+
+
+http://www.pediatrics.org/cgi/content/full/117/3/e442 
+
+
+PEDIATRICS is the official journal of the American Academy of Pediatrics. A monthly 
+publication, it has been published continuously since 1948. PEDIATRICS is owned, published, 
+and trademarked by the American Academy of Pediatrics, 141 Northwest Point Boulevard, Elk 
+Grove Village, Illinois, 60007. Copyright © 2006 by the American Academy of Pediatrics. All 
+rights reserved. Print ISSN: 0031-4005. Online ISSN: 1098-4275. 
+
+
+Downloaded from www.pediatrics.org at Amer Acad of Pediatrics on March 5, 2009 
+
+
+ARTICLE 
+
+
+Adherence 
+to 
+and 
+Effectiveness 
+of 
+Positive 
+Airway 
+Pressure 
+Therapy 
+in 
+Children 
+With 
+Obstructive 
+Sleep 
+Apnea 
+
+
+Carole 
+L. 
+Marcus, 
+MBBCha, 
+Gerald 
+Rosen, 
+MDb, 
+Sally 
+L. 
+Davidson 
+Ward, 
+MDc, 
+Ann 
+C. 
+Halbower, 
+MDd, 
+Laura 
+Sterni, 
+MDd, 
+Janita 
+Lutz, 
+RPsgTd, 
+Pamela 
+J. 
+Stading, 
+BSN, 
+MPHb, 
+Daisy 
+Bolduc, 
+BA, 
+RPFT, 
+MBAc, 
+Nancy 
+Gordon, 
+MSe 
+
+
+aDivision 
+of 
+Pulmonary 
+Medicine 
+and 
+Sleep 
+Center, 
+The 
+Children’s 
+Hospital 
+of 
+Philadelphia, 
+University 
+of 
+Pennsylvania 
+School 
+of 
+Medicine, 
+Philadelphia, 
+Pennsylvania; 
+bUniversity 
+of 
+Minnesota 
+School 
+of 
+Medicine, 
+Children’s 
+Hospitals 
+and 
+Clinics 
+of 
+Minnesota, 
+Pediatric 
+Sleep 
+Disorders 
+Program, 
+St 
+Paul, 
+Minnesota; 
+cDivision 
+of 
+Pediatric 
+Pulmonology, 
+Childrens 
+Hospital 
+Los 
+Angeles, 
+Keck 
+School 
+of 
+Medicine, 
+University 
+of 
+Southern 
+California, 
+Los 
+Angeles, 
+California; 
+dThe 
+Eudowood 
+Division 
+of 
+Pediatric 
+Respiratory 
+Sciences, 
+Johns 
+Hopkins 
+University, 
+Baltimore, 
+Maryland; 
+eGordon 
+& 
+Associates, 
+Berkeley, 
+California 
+
+
+Financial 
+Disclosure: 
+Nancy 
+Gordon 
+is 
+a 
+paid 
+consultant 
+for 
+ResMed. 
+
+
+ABSTRACT 
+
+
+OBJECTIVES. 
+Positive airway pressure therapy (PAP) is frequently used to treat children 
+who have obstructive sleep apnea syndrome and do not respond to adeno
+
+
+www.pediatrics.org/cgi/doi/10.1542/
+
+tonsillectomy. However, no studies have evaluated objectively adherence to PAP 
+
+peds.2005-1634
+
+in children, and few studies have evaluated objectively the effectiveness of PAP. 
+
+doi:10.1542/peds.2005-1634
+
+The objective of this study was to determine adherence and effectiveness of PAP 
+
+Key 
+Words 
+
+
+(both continuous [CPAP] and bilevel [BPAP] pressure) in children with obstruc-CPAP, 
+BPAP, 
+noninvasive 
+ventilation, 
+tive apnea. pediatrics, 
+sleep-disordered 
+breathing 
+
+
+Abbreviations 
+
+
+METHODS. 
+A prospective, multicenter study was performed of children who were 
+BP—blood 
+pressure 
+OSAS—obstructivesleep 
+apnea 
+syndrome 
+
+
+randomly assigned in a double-blind manner to 6 months of CPAP versus BPAP. 
+
+CPAP—continuous 
+positive 
+airway 
+
+
+Adherence was measured objectively using the equipment’s computerized output. 
+pressure 
+
+
+Effectiveness was evaluated using polysomnography. 
+PAP—positive 
+airway 
+pressure 
+
+
+FDA—Food 
+and 
+Drug 
+Administration 
+
+
+BPAP—bilevelpositive 
+airwaypressure 
+
+
+RESULTS. 
+Twenty-nine children were studied. Approximately one third of children 
+
+AHI—apnea 
+hypopnea 
+index 
+
+
+dropped out before 6 months. Of the 21 children for whom 6-month adherence 
+
+SaO2—arterial 
+oxygen 
+saturation 
+data could be downloaded, the mean nightly use was 5.3 . 
+2.5 (SD) hours. PSG—polysomnography 
+
+
+TST—total 
+sleep 
+time 
+
+
+Parental assessment of PAP use considerably overestimated actual use. PAP was 
+
+EPAP—expiratory 
+airway 
+pressure 
+
+
+highly effective, with a reduction in the apnea hypopnea index from 27 . 
+32 to 3 
+
+Accepted 
+for 
+publication 
+Aug 
+29, 
+2005 
+
+
+. 
+5/hour, and an improvement in arterial oxygen saturation nadir from 77 . 
+17% 
+
+Address 
+correspondence 
+to 
+Carole 
+L. 
+Marcus, 
+
+
+to 89 . 
+6%. Results were similar for children who received CPAP versus BPAP. 
+MBBCh, 
+Children’s 
+Hospital 
+of 
+Philadelphia, 
+Pulmonary 
+Division, 
+5th 
+Floor 
+Wood, 
+34th 
+& 
+
+
+Children also had a subjective improvement in daytime sleepiness. 
+
+Civic 
+Center 
+Boulevard, 
+Philadelphia, 
+PA 
+19104. 
+E-mail: 
+marcus@email.chop.edu 
+
+
+CONCLUSIONS. 
+Both CPAP and BPAP are highly efficacious in pediatric obstructive 
+
+PEDIATRICS 
+(ISSN 
+Numbers: 
+Print, 
+0031-4005; 
+apnea. However, treatment with PAP is associated with a high dropout rate, and Online, 
+1098-4275). 
+Copyright 
+© 
+2006 
+by 
+the 
+
+
+American 
+Academy 
+of 
+Pediatrics 
+
+
+even in the adherent children, nightly use is suboptimal considering the long sleep 
+hours in children. 
+
+e442 
+MARCUS, 
+et 
+al 
+
+
+Downloaded from www.pediatrics.org at Amer Acad of Pediatrics on March 5, 2009 
+
+
+T
+T
+HE OBSTRUCTIVE SLEEP apnea syndrome (OSAS) affects 
+2% of children.1 The pathogenesis of childhood 
+OSAS is multifactorial. Contributing factors include 
+anatomic narrowing (as a result of both soft tissue 
+and craniofacial structure) and abnormal upper airway 
+neuromotor control.2 In most children with OSAS, the 
+primary factor that leads to the upper airway obstruction 
+is adenotonsillar hypertrophy, and OSAS can be treated 
+effectively with tonsillectomy and adenoidectomy.3 
+However, in a small number of children in whom additional 
+anatomic factors (including obesity) or abnormal 
+upper airway neuromotor tone is the predominant cause 
+for OSAS, OSAS persists postoperatively.4 In these children, 
+continuous positive airway pressure (CPAP) is 
+usually used as the second line of treatment.5 
+
+Although home CPAP use has been reported in 300 
+children of all ages,5–7 it is not yet approved by the Food 
+and Drug Administration (FDA) for use in children who 
+weigh 30 kg. Furthermore, few studies have evaluated 
+the effectiveness of positive airway pressure (PAP) therapy 
+in children, and no prospective studies have evaluated 
+objective measures of adherence in the pediatric age 
+group. We therefore conducted a multicenter, prospective 
+study of PAP therapy in children with OSAS. The 
+objectives of this study were to assess objectively adherence 
+to and effectiveness of PAP in children. In addition, 
+we sought in a randomized, double-blinded manner to 
+compare the adherence to and effectiveness of CPAP 
+versus bilevel pressure (BPAP) in children with OSAS. 
+We hypothesized that effectiveness would be similar but 
+adherence would be improved with BPAP compared 
+with CPAP, as a result of the lower airway pressure 
+during exhalation, resulting in increased patient comfort. 
+This study was previously reported in abstract 
+form.8 
+
+METHODS 
+
+
+The study was a prospective, multicenter study performed 
+at 3 pediatric sleep centers (Johns Hopkins Hospital, 
+Children’s Hospitals and Clinics of Minnesota and 
+Childrens Hospital Los Angeles). Children who had 
+OSAS and whose surgical treatment failed or who were 
+not considered surgical candidates (because of either 
+minimal adenotonsillar tissue or surgical contraindications) 
+were eligible for entry. Patients were randomly 
+assigned in a double-blind manner to either CPAP or 
+BPAP. They underwent a baseline polysomnogram, followed 
+by a PAP titration polysomnogram. A repeat polysomnogram 
+was performed on PAP after 6 months of 
+therapy. Adherence was assessed with a computerized 
+usage meter. Changes in weight, height, BMI, and blood 
+pressure (BP) were assessed. In addition, subjective assessments 
+were obtained from the parents. 
+
+Written informed consent was obtained from the patients’ 
+parent/legal guardian. In addition, assent was 
+obtained from children who were older than 5 years. 
+
+The study was approved by the Institutional Review 
+Board at each of the participating institutions and was 
+conducted under an Institutional Review Board–approved 
+investigational device exemption. 
+
+Study 
+Group 
+
+
+Patients who were aged 2 to 16 years, had newly diagnosed 
+OSAS, and were candidates for PAP were eligible 
+for the study. Children who were younger than 2 years 
+and those with Down syndrome were excluded from the 
+study because the standard of care at 1 of the participating 
+centers was to provide formal behavioral therapy for 
+these patients to enhance adherence.9 Patients with 
+pathologic central apnea or chronic respiratory failure 
+were excluded because they would require BPAP. Patients 
+who had received previous PAP treatment were 
+excluded. All patients received standard medical care 
+from a pediatric, board-certified sleep specialist, including 
+therapy for treatable risk factors for OSAS, before 
+study enrollment. 
+
+OSAS was diagnosed according to pediatric standards.
+10 Patients had to meet at least 1 of the following 
+criteria: (1) obstructive apnea hypopnea index (AHI) 
+5/hour (hypopnea defined as a 50% decrease in 
+airflow of any duration associated with 4% desaturation 
+and/or arousal; obstructive apneas scored if 2 respiratory 
+cycles in duration); (2) arterial oxygen saturation 
+(SaO2) nadir 85%, (3) peak end-tidal PCO2 55 mm 
+Hg, or (4) SaO2 92% for 10% of total sleep time (TST) 
+and end-tidal PCO2 50 mm Hg for 10% TST. In addition, 
+patients had to have at least 1 of the following 
+symptoms or signs: (1) snoring and difficulty breathing 
+during sleep, (2) failure to thrive (weight 5th percentile 
+for age), (3) pulmonary hypertension, (4) excessive 
+daytime sleepiness (school-aged children), or (5) symptoms 
+of attention-deficit/hyperactivity disorder or other 
+behavioral problems (school-aged children). 
+
+Baseline 
+Assessment 
+
+
+Patients underwent baseline polysomnography (PSG) as 
+part of their clinical assessment, according to standard 
+pediatric recommendations.10–12 Height, weight, and 
+awake BP were measured. Care was taken to follow 
+pediatric guidelines and use appropriately sized BP cuffs 
+when measuring the BP.13 A standardized questionnaire 
+regarding symptoms was administered to the caregivers. 
+
+Subjective 
+Assessment 
+
+
+During a standardized interview, parents were asked to 
+assess subjectively their child’s degree of sleepiness, temperament, 
+and school performance. Some questions had 
+a yes/no response, and others rated frequency of events 
+(eg, never, once a week, 2–3 times a week, 3 times a 
+week). Questions regarding sleepiness included the general 
+question of whether the child was sleepy, as well as 
+more specific questions to assess the frequency of the 
+
+PEDIATRICS 
+Volume 
+117, 
+Number 
+3, 
+March 
+2006 
+e443 
+
+
+Downloaded from www.pediatrics.org at Amer Acad of Pediatrics on March 5, 2009 
+
+
+child’s falling asleep while watching television, at school 
+(for children older than kindergarten level), and when 
+active. The frequency of snoring, labored breathing at 
+night, and enuresis (for children 6 years of age) was 
+assessed. Yes/no questions included questions as to 
+whether the child was irritable, was hyperactive, had 
+age-appropriate behavior, and had delayed development. 
+For school-aged children, parents were asked to 
+rate the child’s school performance as “above average 
+(mainly A’s and B’s),” “average (mainly C’s),” or “below 
+average (mainly D’s and F’s).” 
+
+Institution 
+of 
+PAP 
+Therapy 
+
+
+Children were given a mask and headgear without the 
+PAP unit to practice wearing for 2 weeks while awake to 
+help them habituate to the system. Each family also 
+received a standardized behavioral instruction sheet.9 
+After 2 weeks, the patient underwent an overnight laboratory 
+titration study to determine the optimal pressure 
+required. A standardized protocol that was based on 
+previous clinical pediatric experience was used. The goal 
+of the titration polysomnogram was to eliminate all obstructive 
+apneas, desaturation, and hypercapnia at a 
+level of pressure tolerated by the patient without excessive 
+awakenings. The minimal CPAP/expiratory pressure 
+(EPAP) that was provided by the study equipment was 3 
+cm H2O. For patients who were randomly assigned to 
+CPAP, PAP was started at 3 cm H2O and was increased to 
+4cmH2O and then increased further in 2-cm H2O 
+increments as needed. For patients who were randomly 
+assigned to BPAP, the aim was to keep a 6-cm H2O 
+difference between inspiratory and expiratory pressures. 
+The patient was started on 4/3 (minimum) cm H2O; 
+pressure then was increased by 2-cm H2O increments to 
+6/3, 8/3, 10/4, 12/6, 14/8, 16/10 cm H2O, etc. Supplemental 
+oxygen was added when the patient desaturated 
+persistently to 92% in the absence of apnea, paradoxical 
+breathing, or snoring. 
+
+After the titration study, the patient was provided 
+with a VPAP II ST-A (ResMed, San Diego, CA) PAP 
+machine, mask, headgear, and humidifier, free of 
+charge, and the family was instructed on its use. This 
+machine can provide either CPAP or BPAP. The patient, 
+the patient’s family, and all study physicians and coordinators 
+were blinded as to the mode of therapy. Because 
+patients and their families were nai¨ve to the use of 
+PAP and had not experienced either CPAP or BPAP 
+treatment in the past, it was not anticipated that they 
+would guess which modality they were receiving. By 
+necessity, the sleep technician was unblinded; however, 
+the technician followed a strict protocol. Randomization 
+was performed using a randomization table generated by 
+the study sponsor, and numbered slips in envelopes 
+were provided for each patient. The sleep technician set 
+the equipment to the randomized mode during the titration 
+polysomnogram. For preservation of blinding, 
+
+the machine control panel and display were covered. 
+Because few pediatric masks are available in the United 
+States, a variety of masks were used to provide the best 
+fit. For maximization of comfort and, hence, adherence, 
+all patients were provided with a heated humidifier, and 
+a 20-minute pressure ramp was used at sleep onset and 
+after awakenings. After the sleep study, patients took the 
+equipment home and were instructed to use it during all 
+hours of sleep. 
+
+Follow-up 
+
+
+Patients received a follow-up telephone call after 48 
+hours and again after 1 week of PAP use. They then were 
+seen in clinic every other month and received a telephone 
+call on alternate months when they were not 
+being seen. During clinic visits, the patient was assessed 
+clinically; a standardized questionnaire regarding symptoms 
+of OSAS, as well as side effects of positive pressure 
+use, was administered; weight, height, and BP were 
+measured; the equipment was inspected; and the usage 
+meter was downloaded. During telephone calls, a standardized 
+verbal questionnaire was administered regarding 
+subjective symptoms as well as potential PAP problems 
+and side effects. Side effects were assessed and 
+treated at the discretion of the sleep specialist as per 
+standard clinical practice (eg, prescribing nasal steroids 
+for nasal congestion). After 6 months, a repeat polysomnogram 
+was performed on current PAP settings; and 
+height, weight, BP, and subjective complaints were reevaluated. 
+
+
+Patients who did not return for follow-up received 
+telephone calls followed by letters. Patients who did not 
+return their equipment also received registered letters. 
+
+Assessment 
+of 
+Adherence 
+
+
+Objective adherence was obtained by downloading the 
+equipment at each clinic visit. Poor adherence was defined 
+arbitrarily as use of PAP for an average of 3 
+hours/night. Patients with poor adherence received appropriate 
+counseling and troubleshooting as per standard 
+clinical practice. The protocol called for patients 
+who were nonadherent at the 3-month evaluation to be 
+switched to the alternative mode of therapy, with a 
+repeat titration sleep study to ensure adequate ventilation. 
+In practice, only 1 patient was switched to the other 
+arm of the study, because most nonadherent patients 
+were also not adherent with repeat visits. Patients who 
+were lost to follow-up were assumed to be nonadherent. 
+
+Statistical 
+Analysis 
+
+
+The primary objectives in this study were to determine 
+adherence to and effectiveness of PAP, both CPAP and 
+BPAP, in children with OSAS. The main outcome measurements 
+were mean nightly hours of use and AHI. For 
+continuous variables, such as age, values are given as 
+means . 
+SDs. 
+
+e444 
+MARCUS, 
+et 
+al 
+
+
+Downloaded from www.pediatrics.org at Amer Acad of Pediatrics on March 5, 2009 
+
+
+For categorical variables, such as gender, the proportion 
+of patients in each category is presented. Differences 
+between the 2 modes (BPAP vs CPAP) for demographics 
+(gender, race, and age) and baseline characteristics 
+(height, weight, BP, and reason for OSA) were compared 
+using the independent t 
+test or 2 test where 
+appropriate. These same types of analyses were done to 
+determine differences in the adherent versus nonadherent 
+groups. Differences between initial visit and end visit 
+(5 month or 6 month) for outcome variables were assessed 
+using paired t 
+tests, 2 test, or Pearson correlation 
+coefficients. Statistical significance required P 
+. 
+.05. 
+
+During the interim analyses, comparisons between 
+modes were performed by 2-way analysis of variance 
+with daily and monthly usage as a within-subjects factor 
+and with mode as a between-subjects factor. There did 
+not seem to be any differences between the BPAP and 
+CPAP modes, so future analyses used combined data 
+(CPAP . 
+BPAP). 
+
+Data that were collected in this study were documented 
+on case report forms. A Code of Federal Regulations 
+Part 11 compliant database system was created 
+using Microsoft Access 97 software (Redmond, WA) for 
+computer entry and verification of the data collected on 
+the case report forms. All computations of results were 
+
+TABLE 
+1 
+Study 
+Group 
+Characteristics 
+at 
+Baseline 
+
+
+generated using SAS software (Version 8.2; SAS Institute, 
+Cary, NC). 
+
+RESULTS 
+
+
+Study 
+Group 
+
+
+Thirty children were enrolled. One patient who was 
+randomly assigned to BPAP was excluded later because 
+it was unclear whether his equipment was used or not, 
+because there was a technical problem with the usage 
+meter as a result of electricity surges in the home. Thus, 
+the results from 29 patients are included in this article. 
+Sixteen patient were randomly assigned to BPAP, and 13 
+were assigned to CPAP. Seven children weighed 30 kg, 
+the FDA cutoff for PAP use. Study group details are 
+shown in Table 1. OSAS was attributed to obesity in two 
+thirds of the patients; 11 children weighed 100 kg 
+(range: 12–171 kg). 
+
+For the CPAP group, the mean pressure used was 8 . 
+3cmH2O (range: 4–12). For the BPAP group, the mean 
+inspiratory pressure was 11 . 
+4cmH2O (range: 4–16), 
+and the mean EPAP was 5 . 
+3cmH2O (range: 3–10). 
+
+Patient follow-up is shown in Fig 1. Nineteen patients 
+completed all aspects of the protocol. Seven patients 
+dropped out between 1 and 5 months of the study; 
+
+BPAP 
+CPAP 
+t/2 
+(DF) 
+P 
+(n 
+. 
+16) 
+(n 
+. 
+13) 
+
+
+Age, 
+y 
+Mean 
+. 
+SD 
+10 
+. 
+4 
+11 
+. 
+4 
+t 
+. 
+0.91 
+(27) 
+.37 
+Range 
+2–16 
+4–15 
+
+
+Boys, 
+n 
+(%) 
+13 
+(81) 
+8 
+(62) 
+2 
+. 
+1.40 
+(1) 
+.24 
+
+
+Race, 
+n 
+(%) 
+.54 
+Black 
+7 
+(44) 
+8 
+(62) 
+2 
+. 
+2.18 
+(3) 
+White 
+6 
+(38) 
+4 
+(31) 
+Asian 
+2 
+(13) 
+0 
+(0) 
+Hispanic 
+1 
+(6) 
+1 
+(8) 
+
+
+Diagnosis, 
+n 
+(%) 
+.71 
+Obesitya 
+12 
+(75) 
+7 
+(54) 
+2 
+. 
+2.13 
+(4) 
+Idiopathic 
+status 
+postadenotonsillectomy 
+2 
+(13) 
+3 
+(23) 
+Craniofacial 
+anomalyb 
+1 
+(6) 
+2 
+(15) 
+Otherc 
+1 
+(6) 
+1 
+(8) 
+
+
+Height, 
+cm 
+Mean 
+. 
+SD 
+138 
+. 
+28 
+152 
+. 
+26 
+t 
+. 
+1.40 
+(27) 
+.17 
+z 
+score 
+0.15 
+. 
+2.13 
+0.63 
+. 
+1.62 
+t 
+. 
+1.09 
+(27) 
+.29 
+
+
+Weight, 
+kg 
+Mean 
+. 
+SD 
+68 
+. 
+44 
+87 
+. 
+53 
+t 
+. 
+1.06 
+(27) 
+.30 
+z 
+score 
+1.84 
+. 
+1.78 
+2.34 
+. 
+1.51 
+t 
+. 
+0.81 
+(27) 
+.42 
+
+
+BMI, 
+kg/m2 
+Mean 
+. 
+SD 
+31.2 
+. 
+11.7 
+33.8 
+. 
+13.7 
+t 
+. 
+0.56 
+(27) 
+.58 
+z 
+score 
+2.00 
+. 
+1.15 
+2.19 
+. 
+1.01 
+t 
+. 
+0.48 
+(27) 
+.63 
+
+
+Systolic 
+BP 
+95th 
+percentile, 
+n 
+(%)d 
+5 
+(31) 
+5 
+(42) 
+2 
+. 
+0.32 
+(1) 
+.57 
+Diastolic 
+BP 
+. 
+95th 
+percentile, 
+n 
+(%)d 
+1 
+(6) 
+1 
+(8) 
+2 
+. 
+0.04 
+(1) 
+.83 
+
+
+There 
+were 
+no 
+significant 
+differences 
+in 
+any 
+of 
+the 
+parameters 
+between 
+the 
+2 
+groups. 
+DF 
+indicates 
+degrees 
+of 
+freedom. 
+a 
+One 
+obese 
+patient 
+also 
+had 
+achondroplasia 
+but 
+was 
+classified 
+primarily 
+as 
+obese 
+because 
+he 
+presented 
+only 
+at 
+16 
+years 
+of 
+age, 
+and 
+his 
+BMI 
+was 
+
+
+3 
+z 
+scores. 
+Another 
+obese 
+child 
+had 
+congenital 
+adrenal 
+hyperplasia. 
+b 
+Treacher-Collins 
+syndrome; 
+Towne-Brock 
+syndrome; 
+Stickler 
+syndrome 
+c 
+One 
+Hurler 
+syndrome; 
+1 
+status 
+postrenal 
+transplantation, 
+reason 
+for 
+OSAS 
+unclear. 
+d 
+BP 
+data 
+were 
+unavailable 
+for 
+1 
+patient. 
+PEDIATRICS 
+Volume 
+117, 
+Number 
+3, 
+March 
+2006 
+e445 
+
+
+Downloaded from www.pediatrics.org at Amer Acad of Pediatrics on March 5, 2009 
+
+
+FIGURE 
+1 
+
+
+Flow 
+diagram 
+of 
+patient 
+enrollment 
+and 
+follow-up. 
+
+
+
+therefore, 6-month data were unavailable. Two patients 
+had 6-month downloads but no PSG, and 1 had 
+6-month PSG but no download. There were no significant 
+differences in baseline polysomnographic parameters 
+between patients who completed the study and 
+those who dropped out. 
+
+Adherence 
+
+
+Patients were classified as nonadherent when mean use 
+was 3 hours/night, despite counseling and troubleshooting. 
+In addition, patients who did not return for 
+follow-up visits (despite frequent telephone calls and 
+reminder letters) were classified as nonadherent; it was 
+assumed that these patients were not using the equipment. 
+Of the 8 patients who did not have 6-month 
+downloads, 2 had 0 follow-up after initially receiving 
+their equipment, despite concerted efforts to contact 
+them. Of the remaining 6 patients, 4 used their machine 
+for a mean of 1 hour/night in the month before dropping 
+out, and 1 patient used it for 0, 2, and 5 hours, 
+respectively, for the 3 months before he dropped out. 
+Thus, it seems as though all of these dropouts were 
+nonadherent. The last child was an exception, using the 
+equipment for 4 to 7 hours/night for 5 months. After 
+month 5, the child was placed out of the family and 
+could not be located for follow-up. For the purpose of 
+analysis, this patient was classified as nonadherent. 
+
+Mean nightly use is shown in Fig 2. Figure 2A shows 
+the group mean hour use per month for all patients for 
+whom hour meter readings were obtained; Fig 2B shows 
+the hour use for all patients, assuming 0 hours for those 
+for whom a download could not be obtained. At month 
+6, the mean nightly use for patients for whom downloads 
+could be obtained was 5.3 . 
+2.5 hours. The mean 
+nightly use for all 29 patients, assuming that those who 
+did not return to have their equipment downloaded 
+were using the machines for 0 hours/night, was 3.8 . 
+
+
+3.3 hours. Interindividual use was variable, with 3 children 
+using their equipment for 9 to 10 hours/night. 
+Among those who used the equipment for 3 hours a 
+night, PAP use increased from month 1 to month 6 (P 
+. 
+.008). 
+There was no difference in use between patients who 
+were using CPAP and BPAP (Fig 2), although the study 
+was not powered to detect a difference between the 2 
+
+groups. It was assumed that a difference of 1 hour of use 
+per night between the 2 treatment groups would be 
+clinically significant. On the basis of an acceptable difference 
+of 1 hour and an SD of 2.45 (the pooled SD), a 
+sample size of 63 patients per group would have been 
+required to provide a power of 80% at the 95% confidence 
+level; this sample size was not practical for the 
+current study. 
+
+There was no significant difference in age, gender, 
+race, severity of OSAS (based on AHI, arousal index, and 
+SaO2 nadir), subjective symptoms (eg, sleepiness, enuresis, 
+hyperactivity, irritability, school performance), mode 
+of PAP, pressure level, or indication for PAP (obesity vs 
+all other indications) between those who were nonadherent 
+and those who were adherent. 
+
+Subjectively, parents were asked to estimate how 
+many hours per night their child used the PAP. At the 
+5-month telephone call, 18 parents gave an estimated 
+duration of use and had their equipment downloaded. 
+Parents stated that their child used the PAP a mean of 7.6 
+
+. 
+2.6 hours/night, whereas actual adherence, as determined 
+by the usage meter, was 5.8 . 
+2.4 hours (P 
+. 
+.001). However, 78% of parents admitted that their child 
+did not use the machine every night. It was frequently 
+volunteered that the machine was not used during 
+weekends or vacations. 
+Effectiveness 
+
+
+PSG on PAP after 6 months of treatment was compared 
+with baseline PSG for the 20 patients who returned for 
+6-month PSG. Of those who did not return for 6-month 
+PSG, 2 were totally lost to follow-up, with no downloads 
+available; 3 were adherent with their equipment before 
+dropout; and 4 were nonadherent. 
+
+Polysomnographic parameters at baseline (while 
+breathing spontaneously) and after 6 months (while on 
+PAP) are shown in Table 2 for the 20 patients who 
+returned for the 6-month study. Because there were no 
+differences in any parameter between CPAP and BPAP, 
+combined data are shown. There was no significant 
+change in sleep architecture (sleep efficiency and sleep 
+stage distribution) on treatment. However, major improvements 
+were shown in respiratory parameters, with 
+highly significant improvements in both the AHI (P 
+. 
+.003; Fig 3) and the SaO2 nadir (P 
+. 
+.001). At baseline, 
+
+e446 
+MARCUS, 
+et 
+al 
+
+
+Downloaded from www.pediatrics.org at Amer Acad of Pediatrics on March 5, 2009 
+
+
+FIGURE 
+2 
+
+
+The 
+mean 
+(SD) 
+nightly 
+use 
+is 
+shown 
+for 
+patients 
+who 
+received 
+CPAP 
+(E) 
+and 
+BPAP 
+(F). 
+A, 
+Data 
+are 
+shown 
+only 
+for 
+patients 
+for 
+whom 
+downloads 
+could 
+be 
+obtained. 
+The 
+numbers 
+above 
+each 
+data 
+point 
+reflect 
+the 
+number 
+of 
+patients 
+who 
+were 
+using 
+BPAP 
+and 
+for 
+whom 
+downloads 
+could 
+be 
+obtained 
+at 
+that 
+time 
+point, 
+over 
+the 
+number 
+of 
+patients 
+who 
+initially 
+were 
+enrolled. 
+The 
+numbers 
+below 
+each 
+data 
+point 
+are 
+the 
+corresponding 
+values 
+for 
+patients 
+who 
+were 
+using 
+CPAP. 
+B, 
+Data 
+for 
+all 
+patients, 
+assuming 
+0 
+usage 
+for 
+those 
+for 
+whom 
+downloads 
+could 
+not 
+be 
+obtained. 
+The 
+tables 
+show 
+the 
+t 
+values, 
+P 
+values, 
+and 
+degrees 
+of 
+freedom 
+for 
+CPAP 
+versus 
+BPAP. 
+
+
+
+the AHI ranged from 3 to 115/hour, with 8 patients hour. Two patients had a moderate increase in AHI; 1 
+having an AHI 15/hour. On PAP, the AHI ranged from from 8/hour to 12/hour, and the other from 12/hour to 
+0 to 17/hour, with only 1 patient having an AHI 15/ 17/hour. The reasons for this were unclear, but possibil-
+
+PEDIATRICS 
+Volume 
+117, 
+Number 
+3, 
+March 
+2006 
+e447 
+
+
+Downloaded from www.pediatrics.org at Amer Acad of Pediatrics on March 5, 2009 
+
+
+TABLE 
+2 
+Polysomnographic 
+Parameters 
+Baseline 
+On 
+PAP 
+t 
+(DF) 
+P 
+Sleep 
+efficiency, 
+% 
+87 
+. 
+8 
+85 
+. 
+12 
+1.05 
+(19) 
+.31 
+Arousal 
+index, 
+n/h 
+17 
+. 
+23 
+7 
+. 
+2 
+1.85 
+(18) 
+.08 
+Rapid 
+eye 
+movement 
+sleep, 
+%TST 
+20 
+. 
+6 
+21 
+. 
+7 
+0.65 
+(17) 
+.52 
+Stage 
+1, 
+%TST 
+6 
+. 
+5 
+9 
+. 
+23 
+0.47 
+(17) 
+.64 
+Stage 
+2, 
+%TST 
+51 
+. 
+17 
+53 
+. 
+9 
+0.32 
+(17) 
+.75 
+Slow 
+wave 
+sleep, 
+%TST 
+23 
+. 
+14 
+23 
+. 
+10 
+0.05 
+(17) 
+.96 
+AHI, 
+n/h 
+27 
+. 
+32 
+3 
+. 
+5 
+3.44 
+(19) 
+.003 
+Central 
+apnea 
+index, 
+n/h 
+1 
+. 
+1 
+1 
+. 
+2 
+0.53 
+(19) 
+.60 
+Mean 
+SaO2,% 
+95 
+. 
+6 
+97 
+. 
+2 
+1.87 
+(18) 
+.08 
+SaO2 
+nadir, 
+% 
+77 
+. 
+17 
+89 
+. 
+6 
+3.82 
+(19) 
+.001 
+Mean 
+end-tidal 
+CO2 
+(mm 
+Hg) 
+43 
+. 
+5 
+44 
+. 
+5 
+0.67 
+(14) 
+.52 
+Peak 
+end-tidal 
+CO2 
+(mm 
+Hg) 
+54 
+. 
+4 
+53 
+. 
+5 
+0.59 
+(15) 
+.56 
+
+
+Polysomnographic 
+parameters 
+at 
+baseline 
+and 
+on 
+PAP, 
+after 
+6 
+months 
+of 
+home 
+PAP, 
+are 
+shown 
+for 
+the 
+20 
+patients 
+who 
+returned 
+for 
+the 
+6-month 
+polysomnogram. 
+All 
+data 
+are 
+displayed 
+as 
+mean 
+. 
+SD. 
+Accurate 
+sleep 
+staging 
+could 
+not 
+be 
+obtained 
+in 
+2 
+children 
+with 
+developmental 
+delay/neurologic 
+abnormalities. 
+There 
+was 
+a 
+highly 
+significant 
+improvement 
+in 
+the 
+AHI 
+and 
+SaO2 
+nadir 
+on 
+treatment 
+and 
+a 
+trend 
+for 
+an 
+improvement 
+in 
+the 
+arousal 
+index 
+and 
+mean 
+SaO2. 
+
+
+ities include reduced TST during PSG for the first patient 
+(216 minutes at baseline and 311 minutes at 6 months), 
+which may have resulted in an inaccurate representation 
+of the true AHI, and weight gain in the second 
+patient (from 106 kg to 112 kg). 
+
+Growth 
+
+
+At baseline, most patients were of normal height (Table 
+1) but were overweight. The patients as a whole had a 
+mean BMI z 
+score of 2.1 . 
+1.1. No patient had a weight 
+or BMI z 
+score 1. Two patients had a height z 
+score 
+
+2, but both were obese, and the short stature was 
+most likely related to their underlying disease (achondroplasia; 
+renal transplant) rather than their OSAS. Six-
+month growth data were available for 20 patients. 
+Growth parameters did not change significantly after 6 
+months of PAP. Only 1 obese patient lost weight (a 
+1.6-kg reduction from a baseline weight of 159 kg). 
+BP 
+
+
+Baseline BP data were available for 28 patients. At baseline, 
+36% of patients had a systolic BP 95th percentile 
+for age, gender, and height; and 43% had a systolic BP 
+
+90th percentile. Seven percent had a diastolic BP 
+95th percentile, and 11% had a diastolic BP 90th 
+percentile. Some but not all of these patient were obese, 
+and 1 patient with systolic hypertension had a renal 
+transplant and a longstanding history of hypertension on 
+treatment. Six-month follow-up BP values were available 
+for 18 patients. There was no significant difference 
+in any of the BP parameters at 6 months. 
+Subjective 
+Outcomes 
+
+
+After 6 months, there was a significant improvement in 
+subjective parental assessment of sleepiness. This included 
+an improvement in the number of children who 
+were reported to be sleepy (P 
+. 
+.03), falling asleep while 
+
+watching television (P 
+. 
+.004), and falling asleep at 
+school (P 
+. 
+.007). Of note, at study entry, 58% of 
+school-aged children were reported to fall asleep at 
+school at least once a week, compared with only 6% 
+after 6 months of PAP. However, there was no significant 
+subjective improvement in age-appropriate behavior, 
+delayed development, irritability, hyperactivity, enuresis, 
+or reported school performance. 
+
+At baseline, 100% of parents reported that their children 
+snored most nights (3 nights a week). After 6 
+months of PAP, there was a significant improvement in 
+reported snoring on PAP (P 
+. 
+.0001): 11% reported 
+snoring most nights, 26% reported snoring some nights 
+(3 nights a week), and 63% reported no snoring. Similarly, 
+there was an improvement in those who were 
+reported to have difficulty breathing during sleep. At 
+baseline, 62% of patients were reported to have frequent 
+difficulty breathing during sleep, 34% had occasional 
+difficulty breathing, and 3% were not observed to have 
+difficulty breathing; at 6 months, the corresponding values 
+were 5%, 16%, and 79% (P 
+. 
+.0001). 
+
+Side 
+Effects 
+and 
+Technical 
+Problems 
+
+
+Side effects and equipment problems were assessed by 
+telephone interview soon after PAP was initiated (ie, at 
+48 hours) and after long-term use (5 months). After 48 
+hours of use, 14% of families complained of problems 
+with the equipment (eg, equipment kept shutting off; 
+confusion regarding setup) and 21% complained of 
+problems with the mask (eg, “bubble” buckling, mask 
+leaks). After 5 months, 10% of families complained of 
+equipment problems (eg, tubing worn out) and 10% 
+complained of occasional mask problems, primarily 
+leaks. One of these families stated that the child had 
+“pink eye,” which may have been secondary to the mask 
+leak. 
+
+Despite the use of heated humidification, nasal symptoms 
+were common, occurring in 17% of patients at 48 
+hours and 38% of patients at 5 months. Nasal symptoms 
+included congestion, rhinorrhea, and 2 cases of recurrent 
+epistaxis. Of note, nasal symptoms at 5 months 
+were significantly more common in those who were 
+using CPAP than in those who were using BPAP (P 
+. 
+.02), although there was no difference between the 2 
+groups at 48 hours (P 
+. 
+.31). 
+
+Other side effects were rare. At 48 hours, 3% of 
+families noted skin erythema related to the mask; and at 
+5 months, 10% noted erythema. However, in all cases, 
+the erythema was only occasional and was transient in 
+nature. One patient complained of acne in the mask 
+distribution and 1 of irritation beneath the nose. 
+
+DISCUSSION 
+
+
+Although not approved by the FDA, the use of PAP in 
+the pediatric population is increasing.5–7,14–17 Nevertheless, 
+few studies have evaluated its effectiveness in chil
+
+
+e448 
+MARCUS, 
+et 
+al 
+
+
+Downloaded from www.pediatrics.org at Amer Acad of Pediatrics on March 5, 2009 
+
+
+FIGURE 
+3 
+
+
+The 
+AHI 
+at 
+baseline 
+and 
+on 
+PAP 
+after 
+6 
+months 
+of 
+therapy 
+is 
+shown 
+for 
+the 
+20 
+adherent 
+patients. 
+There 
+was 
+a 
+significant 
+decrease 
+in 
+AHI 
+on 
+PAP 
+(P 
+. 
+.003, 
+t 
+. 
+3.44, 
+degrees 
+of 
+freedom 
+. 
+19). 
+
+
+dren, and no other prospective studies have evaluated 
+objectively adherence in children. 
+
+Adherence 
+
+
+The most important finding in this study was the relatively 
+poor adherence. First, 8 patients dropped out of 
+the study without providing final downloads. Two 
+dropped out immediately, and no follow-up was obtained; 
+it is unlikely that these patients used the equipment. 
+Of the remaining dropouts, all but 1 had very low 
+nightly use of their equipment before dropping out. The 
+remaining child was placed out of the home and lost to 
+follow-up. Thus, it is reasonable to assume that all but 1 
+of the dropouts stopped using their equipment. This is 
+despite the fact that all patients received intensive support 
+at a level greater than typically provided in the 
+clinical situation. This support included the use of free 
+equipment, including a ramp option and heated humidification, 
+and frequent telephonic and clinic follow-up, 
+where problems and side effects were addressed by pediatric 
+sleep specialists. Second, those who continued to 
+use the equipment used it only for a mean of 5.3 hours/ 
+night. Although this is very similar to adherence rates in 
+adults,18–21 children sleep longer than adults and thus 
+would require longer PAP use. For the age range of 2 to 
+16 years, children sleep an average of 8 hours/night.22 
+
+In this study, we arbitrarily chose a cutoff of 3 hours 
+of use a night to define adherence to evaluate the potential 
+predictors of adherence. Clearly, 3 hours of use is 
+suboptimal. However, as no previous studies have documented 
+objective PAP use in children, we chose a low 
+number that would clearly separate those who were 
+using the equipment little if at all from those who were 
+using it more consistently. There were no trends suggesting 
+that a different cutoff point would yield different 
+results. 
+
+Previous studies in children have reported relatively 
+
+
+good rates of subjective adherence on the basis of parental 
+report.5,15 However, in this study, there was a marked 
+discrepancy between parents’ report of PAP use and 
+objective adherence. Thus, it is important to monitor 
+adherence objectively. 
+
+We found no difference in adherence or effectiveness 
+between the two modes of pressure delivery. It should 
+be noted that this study was not powered to detect a 
+statistically significant difference. Nevertheless, there 
+was no indication of a trend toward a difference in any 
+of the parameters, although the mean CPAP pressures (8 
+cm H2O) were higher than the mean EPAP pressures (5 
+cm H2O). In adults, adherence has been shown to be 
+similar between CPAP and BPAP use.21 Nasal side effects 
+after chronic use were more common in those who were 
+using CPAP than BPAP. Future, larger studies to evaluate 
+the difference in adherence between the 2 modes are 
+required. 
+
+Two thirds of the patients in this study required PAP 
+because of obesity. The prevalence of obesity is increasing 
+rapidly in children and adolescents and is currently 
+15%.23 Whereas in previous years OSAS in most children 
+was related to adenotonsillar hypertrophy, it is now 
+frequently related to obesity.24 A significant number of 
+children were extremely obese. Although not evaluated 
+in this study, it is possible that these children had low 
+self-esteem and other psychosocial issues related to their 
+obesity that had an impact on their adherence with 
+PAP.25 
+
+Effectiveness 
+
+
+Both CPAP and BPAP were highly effective at treating 
+OSAS, as documented by the polysomnographic results. 
+This is in agreement with several other studies that were 
+performed in infants16,17 and older children.7,26,27 
+
+No changes were seen in growth. This is in contrast to 
+a large number of studies that demonstrated increased 
+
+PEDIATRICS 
+Volume 
+117, 
+Number 
+3, 
+March 
+2006 
+e449 
+
+
+Downloaded from www.pediatrics.org at Amer Acad of Pediatrics on March 5, 2009 
+
+
+weight and height after treatment of OSAS by tonsillectomy 
+and adenoidectomy.28–30 The difference between 
+the current studies and the surgical studies is probably 
+related to differences in the population. Most patients in 
+our study had OSAS related to obesity rather than adenotonsillar 
+hypertrophy, and the only 2 short patients 
+(height z 
+score 2 SD) had underlying diseases (achondroplasia, 
+renal transplant) in which height would not 
+be expected to improve. Unlike a previous report that 
+evaluated the response to surgical treatment of OSAS,31 
+the current study did not find an increase in obesity after 
+PAP treatment. 
+
+A surprisingly large proportion of patients had systolic 
+hypertension before institution of PAP. BP did not improve 
+during this study. It is likely that the hypertension 
+was attributable to obesity rather than OSAS, especially 
+because diastolic hypertension may be more common 
+than systolic hypertension in children with OSAS.32 
+
+Subjectively, parents noted an improvement in snoring 
+and nocturnal breathing and an improvement in all 
+parameters of daytime sleepiness, although they did not 
+note any changes in temperament, hyperactivity, or 
+school performance. Side effects were minor, although 
+nasal symptoms were frequent. 
+
+Midfacial hypoplasia has been reported as a side effect 
+of PAP in children, although it is probably rare.33,34 We 
+did not see any instances of this in the current study, but 
+this may have been because infants were excluded from 
+the study and because the study duration (6 months) 
+may have been too short for this development to occur. 
+
+Limitations 
+
+
+The main limitation of this study was the high dropout 
+rate. However, we posit that the dropouts, with the 
+exception of 1 child who was placed out of the home, 
+actually reflect nonadherence and thus are part of the 
+outcome data for this study. 
+
+This study did not include an untreated control group. 
+Theoretically, therefore, the study results (especially the 
+subjective results) may have been attributable to a placebo 
+effect. However, we consider it unlikely that all of 
+the observed changes were attributable to a placebo 
+effect because of the highly significant improvement in 
+objective measurements such as the polysomnographic 
+parameters. Previous studies that evaluated the effects of 
+placebo (sham CPAP) in adults showed that placebo may 
+cause a slight improvement in subjective measures such 
+as quality-of-life parameters35 but does not result in an 
+improvement in measures of sleep-disordered breath
+
+
+ing.35,36 
+
+CONCLUSION 
+
+
+We have shown that PAP treatment is effective in children 
+with OSAS. However, adherence is an important 
+issue. We found a high dropout rate and a suboptimal 
+nightly usage in those who did not drop out. This is in 
+
+contrast to previous pediatric studies that did not use 
+objective adherence monitoring and contradicts parental 
+reports regarding PAP use. We recommend that objective 
+adherence monitoring be performed in all children 
+who require PAP. Additional research is needed to develop 
+methods to improve adherence in children who 
+require PAP and to develop other treatment alternatives 
+for children who do not respond to tonsillectomy and 
+adenoidectomy and are unable to tolerate CPAP. 
+
+ACKNOWLEDGMENTS 
+
+
+This study was supported by ResMed Corp. 
+
+We thank all of the children and their families for 
+enthusiastic participation in this study. We thank the 
+sleep technologists for dedication and professionalism 
+and Karen Clark, RRT, and Laurie Karamessinis, RPFT, 
+for assistance with the study. We also thank ResMed for 
+their financial support. 
+
+REFERENCES 
+
+
+1. Redline S, Tishler PV, Schluchter M, Aylor J, Clark K, Graham 
+G. Risk factors for sleep-disordered breathing in children. Associations 
+with obesity, race, and respiratory problems. Am 
+J 
+Respir 
+Crit 
+Care 
+Med. 
+1999;159:1527–1532 
+2. Marcus CL, Katz ES, Lutz J, Black CA, Galster P, Carson KA. 
+Upper airway dynamic responses in children with the obstructive 
+sleep apnea syndrome. Pediatr 
+Res. 
+2005;57:99–107 
+3. Schechter MS. Technical report: diagnosis and management of 
+childhood obstructive sleep apnea syndrome. Pediatrics. 
+2002; 
+109(4). Available at: www.pediatrics.org/cgi/content/full/109/ 
+4/e69 
+4. Suen JS, Arnold JE, Brooks LJ. Adenotonsillectomy for treatment 
+of obstructive sleep apnea in children. Arch 
+Otolaryngol 
+Head 
+Neck 
+Surg. 
+1995;121:525–530 
+5. Marcus CL, Ward SL, Mallory GB, et al. Use of nasal continuous 
+positive airway pressure as treatment of childhood obstructive 
+sleep apnea. J 
+Pediatr. 
+1995;127:88–94 
+6. Guilleminault C, Pelayo R, Clerk A, Leger D, Bocian RC. Home 
+nasal continuous positive airway pressure in infants with sleep-
+disordered breathing. J 
+Pediatr. 
+1995;127:905–912 
+7. Waters KA, Everett FM, Bruderer JW, Sullivan CE. Obstructive 
+sleep apnea: the use of nasal CPAP in 80 children. Am 
+J 
+Respir 
+Crit 
+Care 
+Med. 
+1995;152:780–785 
+8. Marcus CL, Davidson Ward SL, Lutz JM, Bolduc DB, Rosen G. 
+Compliance with CPAP vs bilevel pressure in children. Am 
+J 
+Respir 
+Crit 
+Care 
+Med. 
+2004;169:A732 
+9. Koontz KL, Slifer KJ, Cataldo MD, Marcus CL. Improving 
+pediatric compliance with positive airway pressure therapy: the 
+impact of behavioral intervention. Sleep. 
+2003;26:1010–1015 
+10. Rechtschaffen A, Kales A. A 
+Manual 
+of 
+Standardized 
+Terminology: 
+Techniques 
+and 
+Scoring 
+Systems 
+for 
+Sleep 
+Stages 
+of 
+Human 
+Subjects. 
+Bethesda, MD: NINDB Neurological Information Network; 
+1968 
+11. American Thoracic Society. Standards and indications for cardiopulmonary 
+sleep studies in children. Am 
+J 
+Respir 
+Crit 
+Care 
+Med. 
+1996;153:866–878 
+12. American Sleep Disorders Association. EEG arousals: scoring 
+rules and examples. Sleep. 
+1992;15:173–184 
+13. National High Blood Pressure Education Program Working 
+Group on High Blood Pressure in Children and Adolescents. 
+The fourth report on the diagnosis, evaluation, and treatment 
+of high blood pressure in children and adolescents. Pediatrics. 
+2004;114(suppl 4th Report):555–576 
+e450 
+MARCUS, 
+et 
+al 
+
+
+Downloaded from www.pediatrics.org at Amer Acad of Pediatrics on March 5, 2009 
+
+
+14. Rains JC. Treatment of obstructive sleep apnea in pediatric 
+patients. Clin 
+Pediatr. 
+1995;34:535–541 
+15. Massa F, Gonsalez S, Laverty A, Wallis C, Lane R. The use of 
+nasal continuous positive airway pressure to treat obstructive 
+sleep apnoea. Arch 
+Dis 
+Child. 
+2002;87:438–443 
+16. McNamara F, Sullivan CE. Obstructive sleep apnea in infants 
+and its management with nasal continuous positive airway 
+pressure. Chest. 
+1999;116:10–16 
+17. Downey R III, Perkin RM, MacQuarrie J. Nasal continuous 
+positive airway pressure use in children with obstructive sleep 
+apnea younger than 2 years of age. Chest. 
+2000;117:1608–1612 
+18. Kribbs NB, Pack AI, Kline LR, et al. Objective measurement of 
+patterns of nasal CPAP use by patients with obstructive sleep 
+apnea. Am 
+Rev 
+Respir 
+Dis. 
+1993;147:887–895 
+19. Reeves-Hoche MK, Meck R, Zwillich CW. Nasal CPAP: 
+an 
+objective evaluation of patient compliance. Am 
+J 
+Respir 
+Crit 
+Care 
+Med. 
+1994;149:149–154 
+20. Krieger J, Kurtz D, Petiau C, Sforza E, Trautmann D. Long-
+term compliance with CPAP therapy in obstructive sleep apnea 
+patients and in snorers. Sleep. 
+1996;19(suppl):S136–S433 
+21. Reeves-Hoche MK, Hudgel DW, Meck R, Witteman R, Ross A, 
+Zwillich CW. Continuous versus bilevel positive airway pressure 
+for obstructive sleep apnea. Am 
+J 
+Respir 
+Crit 
+Care 
+Med. 
+1995;151:443–449 
+22. Iglowstein I, Jenni OG, Molinari L, Largo RH. Sleep duration 
+from infancy to adolescence: reference values and generational 
+trends. Pediatrics. 
+2003;111:302–307 
+23. Ogden CL, Flegal KM, Carroll MD, Johnson CL. Prevalence and 
+trends in overweight among US children and adolescents, 
+1999–2000. JAMA. 
+2002;288:1728–1732 
+24. Kelly A, Marcus CL. Childhood obesity, inflammation, and 
+apnea: what is the future for our children? Am 
+J 
+Respir 
+Crit 
+Care 
+Med. 
+2005;171:202–203 
+25. Banis HT, Varni JW, Wallander JL, et al. Psychological and 
+social adjustment of obese children and their families. Child 
+Care 
+Health 
+Dev. 
+1988;14:157–173 
+26. Guilleminault C, Nino-Murcia G, Heldt G, Baldwin R, Hutchinson 
+D. Alternative treatment to tracheostomy in obstructive 
+sleep apnea syndrome: nasal continuous positive airway pressure 
+in young children. Pediatrics. 
+1986;78:797–802 
+27. Palombini L, Pelayo R, Guilleminault C. Efficacy of automated 
+continuous positive airway pressure in children with sleep-
+related breathing disorders in an attended setting. Pediatrics. 
+2004;113(5). Available at: www.pediatrics.org/cgi/content/ 
+full/113/5/e412 
+28. Marcus CL, Carroll JL, Koerner CB, Hamer A, Lutz J, Loughlin 
+GM. Determinants of growth in children with the obstructive 
+sleep apnea syndrome. J 
+Pediatr. 
+1994;125:556–562 
+29. Bar A, Tarasiuk A, Segev Y, Phillip M, Tal A. The effect of 
+adenotonsillectomy on serum insulin-like growth factor-I and 
+growth in children with obstructive sleep apnea syndrome. 
+J 
+Pediatr. 
+1999;135:76–80 
+30. Williams EF III, Woo P, Miller R, Kellman RM. The effects of 
+adenotonsillectomy on growth in young children. Otolaryngol 
+Head 
+Neck 
+Surg. 
+1991;104:509–516 
+31. Soultan Z, Wadowski S, Rao M, Kravath RE. Effect of treating 
+obstructive sleep apnea by tonsillectomy and/or adenoidectomy 
+on obesity in children. Arch 
+Pediatr 
+Adolesc 
+Med. 
+1999;153: 
+33–37 
+32. Marcus CL, Greene MG, Carroll JL. Blood pressure in children 
+with obstructive sleep apnea. Am 
+J 
+Respir 
+Crit 
+Care 
+Med. 
+1998; 
+157:1098–1103 
+33. Li KK, Riley RW, Guilleminault C. An unreported risk in the 
+use of home nasal continuous positive airway pressure and 
+home nasal ventilation in children: mid-face hypoplasia. Chest. 
+2000;117:916–918 
+34. Marcus CL. Ventilator management of abnormal breathing 
+during sleep: continuous positive airway pressure (CPAP) and 
+nocturnal noninvasive intermittent positive pressure ventilation. 
+In: Loughlin GM, Carroll JL, Marcus CL, eds. Sleep 
+and 
+Breathing 
+in 
+Children—A 
+Developmental 
+Approach. New York, NY: 
+Marcel Dekker; 2000:97–812 
+35. Marshall NS, Neill AM, Campbell AJ, Sheppard DS. Randomised 
+controlled crossover trial of humidified continuous positive 
+airway pressure in mild obstructive sleep apnoea. Thorax. 
+2005;60:427–432 
+36. Henke KG, Grady JJ, Kuna ST. Effect of nasal continuous 
+positive airway pressure on neuropsychological function in 
+sleep apnea-hypopnea syndrome. A randomized, placebo-
+controlled trial. Am 
+J 
+Respir 
+Crit 
+Care 
+Med. 
+2001;163:911–917 
+PEDIATRICS 
+Volume 
+117, 
+Number 
+3, 
+March 
+2006 
+e451 
+
+
+Downloaded from www.pediatrics.org at Amer Acad of Pediatrics on March 5, 2009 
+
+
+Adherence to and Effectiveness of Positive Airway Pressure Therapy in Children 
+With Obstructive Sleep Apnea 
+
+
+Carole L. Marcus, Gerald Rosen, Sally L. Davidson Ward, Ann C. Halbower, Laura 
+Sterni, Janita Lutz, Pamela J. Stading, Daisy Bolduc and Nancy Gordon 
+Pediatrics 2006;117;e442-e451 
+
+
+DOI: 10.1542/peds.2005-1634 
+& Services 
+Updated Information 
+http://www.pediatrics.org/cgi/content/full/117/3/e442 
+including high-resolution figures, can be found at: 
+References 
+http://www.pediatrics.org/cgi/content/full/117/3/e442#BIBL 
+at: 
+This article cites 30 articles, 17 of which you can access for free 
+Citations 
+es 
+http://www.pediatrics.org/cgi/content/full/117/3/e442#otherarticl 
+This article has been cited by 2 HighWire-hosted articles: 
+Subspecialty Collections 
+http://www.pediatrics.org/cgi/collection/respiratory_tract 
+Respiratory Tract 
+following collection(s): 
+This article, along with others on similar topics, appears in the 
+Permissions & Licensing 
+http://www.pediatrics.org/misc/Permissions.shtml 
+tables) or in its entirety can be found online at: 
+Information about reproducing this article in parts (figures, 
+Reprints 
+http://www.pediatrics.org/misc/reprints.shtml 
+Information about ordering reprints can be found online: 
+
+
+Downloaded from www.pediatrics.org at Amer Acad of Pediatrics on March 5, 2009 
+
+

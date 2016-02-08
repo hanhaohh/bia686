@@ -1,0 +1,979 @@
+Nocturnal Pulse Oximetry as an Abbreviated Testing Modality for Pediatric 
+Obstructive Sleep Apnea 
+
+
+Robert T. Brouillette, Angela Morielli, Andra Leimanis, Karen A. Waters, Rina 
+Luciano and Francine M. Ducharme 
+Pediatrics 2000;105;405-412 
+DOI: 10.1542/peds.105.2.405 
+
+
+The online version of this article, along with updated information and services, is 
+
+
+located on the World Wide Web at: 
+
+
+http://www.pediatrics.org/cgi/content/full/105/2/405 
+
+
+PEDIATRICS is the official journal of the American Academy of Pediatrics. A monthly 
+publication, it has been published continuously since 1948. PEDIATRICS is owned, published, 
+and trademarked by the American Academy of Pediatrics, 141 Northwest Point Boulevard, Elk 
+Grove Village, Illinois, 60007. Copyright © 2000 by the American Academy of Pediatrics. All 
+rights reserved. Print ISSN: 0031-4005. Online ISSN: 1098-4275. 
+
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+Nocturnal Pulse Oximetry as an Abbreviated Testing Modality for 
+Pediatric Obstructive Sleep Apnea 
+
+
+Robert T. Brouillette, MD*; Angela Morielli, MBA, RPSGT*; Andra Leimanis, BSc* 
+Karen A. Waters, MBBS, PhD‡; Rina Luciano, RRT*; and Francine M. Ducharme, MD* 
+
+
+ABSTRACT. Objective. To determine the utility of 
+pulse oximetry for diagnosis of obstructive sleep apnea 
+(OSA) in children. 
+
+Methods. We performed a cross-sectional study of 349 
+patients referred to a pediatric sleep laboratory for possible 
+OSA. A mixed/obstructive apnea/hypopnea index 
+(MOAHI) greater than or equal to 1 on nocturnal polysomnography 
+(PSG) defined OSA. A sleep laboratory 
+physician read nocturnal oximetry trend and event 
+graphs, blinded to clinical and polysomnographic results. 
+Likelihood ratios were used to determine the 
+change in probability of having OSA before and after 
+oximetry results were known. 
+
+Results. Of 349 patients, 210 (60%) had OSA as defined 
+polysomnographically. Oximetry trend graphs 
+were classified as positive for OSA in 93 and negative or 
+inconclusive in 256 patients. Of the 93 oximetry results 
+read as positive, PSG confirmed OSA in 90 patients. A 
+positive oximetry trend graph had a likelihood ratio of 
+19.4, increasing the probability of having OSA from 60% 
+to 97%. The median MOAHI of children with a positive 
+oximetry result was 16.4 (7.5, 30.2). The 3 false-positive 
+oximetry results were all in the subgroup of 92 children 
+who had diagnoses other than adenotonsillar hypertrophy 
+that might have affected breathing during sleep. A 
+negative or inconclusive oximetry result had a likelihood 
+ratio of .58, decreasing the probability of having OSA 
+from 60% to 47%. Interobserver reliability for oximetry 
+readings was very good to excellent (k. 
+.80). 
+
+Conclusions. In the setting of a child suspected of 
+having OSA, a positive nocturnal oximetry trend graph 
+has at least a 97% positive predictive value. Oximetry 
+could: 1) be the definitive diagnostic test for straightforward 
+OSA attributable to adenotonsillar hypertrophy in 
+children older than 12 months of age, or 2) quickly and 
+inexpensively identify children with a history suggesting 
+sleep-disordered breathing who would require PSG to 
+elucidate the type and severity. A negative oximetry result 
+cannot be used to rule out OSA. Pediatrics 2000;105: 
+405–412. predictive value of tests, polysomnography, 
+likelihood ratio, sleep apnea syndromes, questionnaire, 
+sleep. 
+
+ABBREVIATIONS. OSA, obstructive sleep apnea; PSG, polysomnography; 
+Sao2, hemoglobin saturation; MOAHI, mixed/obstruc-
+
+From the *Department of Pediatrics, Montreal Children’s Hospital, McGill 
+University, Montreal, Canada; and the ‡Department of Respiratory Medicine, 
+New Children’s Hospital, University of Sydney, Sydney, Australia. 
+Received for publication Mar 19, 1999; accepted Jul 22, 1999. 
+Reprint requests to (R.T.B.) Montreal Children’s Hospital, 2300 Tupper St, 
+Montreal, Quebec, Canada H3H 1P3. E-mail: robert.brouillette@muhc. 
+mcgill.ca 
+PEDIATRICS (ISSN 0031 4005). Copyright © 2000 by the American Academy 
+of Pediatrics. 
+
+
+tive apnea/hypopnea index; REM, rapid eye movement. 
+
+O
+O
+bstructive sleep apnea (OSA) in children is a 
+disorder of breathing during sleep characterized 
+by upper airway obstruction that disturbs 
+sleep and disrupts normal respiratory gas exchange.
+1–3 Sequelae of OSA, including growth failure, 
+cor pulmonale, and developmental delay, are 
+thought to be attributable to sleep disturbance and 
+repetitive hypoxemia.1,4,2 Ali et al5 estimated the 
+prevalence of OSA in 4-to 5-year-old children at .7%, 
+whereas 7% to 9% of children have simple snoring, a 
+milder form of sleep-related upper-airway obstruction.
+5–7 Usually, pediatric OSA is attributable to adenotonsillar 
+hypertrophy. 
+
+The most accurate and comprehensive method of 
+diagnosing OSA is nocturnal polysomnography 
+(PSG).3 Unfortunately, such testing is expensive and 
+time-consuming. Thus, an abbreviated testing modality 
+would be very helpful. We originally proposed 
+that parental responses to questions about 
+snoring, difficulty breathing during sleep, and observed 
+obstructive apnea might distinguish normal 
+children from those with OSA.8 However, several 
+subsequent studies indicated that questionnaire responses 
+could not reliably distinguish children with 
+OSA from those with simple snoring.9–12 
+
+Pediatric OSA sometimes, but not always, results 
+in dips in hemoglobin saturation (Sao2). In adults 
+being evaluated for OSA, apparently conflicting results 
+on the usefulness of pulse oximetry have been 
+reported.13,14 For adults with a low pretest probability 
+of OSA, a negative oximetry result may be sufficient 
+to exclude the diagnosis; for adults with a high pretest 
+probability of OSA, a positive oximetry result 
+may be sufficient to confirm the diagnosis of OSA.15 
+The accuracy of nocturnal pulse oximetry compared 
+with PSG for diagnosing pediatric OSA has not been 
+evaluated. 
+
+Since 1993, when patients were referred to our 
+pediatric sleep laboratory, we have: 1) had the 
+parents complete a questionnaire, 2) performed 
+nocturnal PSG, and 3) printed the pulse oximetry 
+trend and event graphics that summarize nocturnal 
+oxygenation status.8,16,17 The purpose of the 
+current report is to assess, from this large series of 
+referrals to our pediatric sleep laboratory, the potential 
+utility of nocturnal pulse oximetry for diagnosing 
+pediatric OSA. A secondary aim was to 
+
+PEDIATRICS Vol. 105 No. 2 February 2000 405
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+determine the accuracy of questionnaire data for 
+diagnosing OSA. 
+
+METHODS 
+
+Study Design 
+
+We conducted a cross-sectional study of all children referred to 
+the sleep laboratory of the Montreal Children’s Hospital for evaluation 
+of possible (OSA). Between January, 1993 and April 1998, 
+there were a total of 552 patients evaluated. Of these, 349 were 
+referred for nocturnal PSG to evaluate OSA, were between 6 
+months and 18 years of age, and had complete data available. 
+Subjects who had lung disease, neuromuscular disorders, diagnoses 
+associated with central apnea or central hypoventilation, 
+and those who were not specifically referred for possible OSA 
+were excluded (Table 1). 
+
+For each patient, data included a parental questionnaire, polysomnographic 
+results, and simultaneously obtained pulse oximetry 
+trend and event graphics. To define OSA for this study, we 
+chose an objective measure, the polysomnographically determined 
+mixed/obstructive apnea/hypopnea index (MOAHI) 
+greater than or equal to 1 event per hour.3,18,19 Children with 
+MOAHI values ,1 were considered to be normal or to have 
+simple snoring.9 A sleep laboratory physician (R.T.B. or K.W.), 
+blinded to both clinical information and polysomnographic results, 
+read the oximetry graphs.16 Each oximetry was classified as 
+negative, inconclusive, or positive and was compared with the 
+polysomnographic diagnosis. 
+
+Questionnaire and OSA Score 
+
+Before polysomnographic testing, the parents of each subject 
+completed a questionnaire.8 Questions included those about sleep, 
+breathing during sleep, medical diagnoses, and previous surgery, 
+including adenotonsillectomy. An additional question was added 
+regarding degree of parental concern about breathing during 
+sleep. From the questionnaire responses, our previously described 
+OSA score was calculated using responses to 3 questions: 1) difficulty 
+breathing during sleep, 2) obstructive apnea observed by 
+parents, and 3) frequency of snoring during sleep.8 
+
+PSG 
+
+Overnight PSG was performed at home (7 channels) or in the 
+sleep laboratory (14–21 channels). These home and laboratory 
+recordings provide equivalent assessments of sleep/wakefulness, 
+apnea/hypopnea indexes, and movement/arousals.17,20,21 At 
+home, the cardiorespiratory recording consisted of electrocardiogram, 
+pulse rate, Sao2, pulse wave form, and calibrated respiratory 
+inductive plethysmography (thoracic, abdominal, and sum 
+channels).17 In the laboratory, nocturnal 14-to 21-channel polysomnographic 
+recordings included the home study channels plus 
+5 channels for sleep staging: central and occipital electroencephalograms, 
+right and left electrooculogram, and submental electro-
+
+TABLE 1. Patients Referred to the Sleep Laboratory Who 
+Were Excluded From the Present Series (n . 
+203) 
+
+Reasons Number 
+
+Spina bifida, myelomeningocele, Chiari I or II 83 
+
+malformation 
+Age ,6mo 34 
+Chronic lung disease/bronchopulmonary 20 
+
+dysplasia/supplemental oxygen treatment 
+Stridor/laryngomalacia 12 
+Myopathy/myotonic dystrophy 10 
+Neurofibromatosis 4 
+Gastroesophageal reflux 4 
+Suspected central hypoventilation 4 
+Other syndromes 4 
+Achondroplasia 3 
+Meduloblastoma 2 
+Insomnia 1 
+Cyanosis during sleep and wakefulness 1 
+Post cleft palate repair 1 
+Polysomnographic data not available 14 
+Questionnaire data unavailable 6 
+
+myogram. Oral/nasal airflow, transcutaneous oxygen, and end-
+tidal carbon dioxide measurement were always included; 
+intercostal, abdominal and arm electromyograms were sometimes 
+included. Signals were acquired directly onto a computerized 
+polysomnograph (Ultrasom, Nicolet, Madison, WI) in the sleep 
+laboratory or transferred from a portable computer after the home 
+studies. Computerized audiovisual recordings and analysis for 
+sleep/wake and movement/arousals were used in both set
+
+
+tings.17,20,21 
+
+Polysomnographic outcomes included apnea, hypopnea, and 
+desaturation indexes, total sleep time, and sleep efficiency—the 
+percentage of time spent asleep from sleep onset until morning 
+wakening.3 Sleep versus wakefulness was scored as previously 
+described.20 Hemoglobin desaturation events were defined as a 4% 
+or greater decrease in Sao2. Apnea was defined as an 80% or 
+greater decrease in amplitude, for 1 or more breaths, on the 
+respiratory inductive plethysmographic sum channel. Mixed and 
+obstructive apneas were considered significant regardless of duration. 
+Hypopnea was defined as a 50% to 80% decrease in the 
+amplitude of the plethysmographic sum associated with a decrease 
+in Sao2 of 4% or greater. The MOAHI and the hemoglobin 
+desaturation index were calculated as the number of events per 
+hour of sleep. 
+
+Pulse Oximetry: Methods and Classification 
+
+Sao2 was recorded during PSG using a Nellcor, N-200 pulse 
+oximeter set to use 2-to 3-second averaging (mode 2). In the 
+morning, trend and event graphics were printed (Fig 1).16 Trend 
+graphs present 12-hour summaries of Sao2 and pulse rate. Event 
+graphs present more detailed information on Sao2, pulse rate, and 
+pulse amplitude. We have previously demonstrated the usefulness 
+of event graphs to discriminate true hemoglobin desaturation 
+from artifacts secondary to movement or a low pulse signal.16 In 
+pediatric OSA, obstructive apneas and hypopneas occur more in 
+rapid eye movement (REM) than non-rapid eye movement 
+sleep20,22; desaturation events, therefore, cluster during REM sleep 
+periods. For purposes of this study, a sleep laboratory physician 
+
+(K.A.W. or R.T.B.) classified each oximetry as positive, negative, or 
+inconclusive using the following definitions and criteria: 1) A 
+desaturation was defined as a decrease in Sao2 of 4% or more; 2) 
+A cluster of desaturations was defined as 5 or more desaturations 
+occurring in a 10-to 30-minute period; 3) On the oximetry trend 
+graphs, periods of relative tachycardia, usually 10 to 25 beats per 
+minute, at the beginning and end of nocturnal pulse oximetry, and 
+periods of relative tachycardia and increased heart rate variability 
+exceeding 30 minutes were regarded as wakeful time and not 
+considered; 4) Event graphs for Sao2 were used to distinguish true 
+desaturations from movement artifacts and low signal amplitude 
+artifacts using a method we have termed pulse amplitude modulation 
+range16; 5) A positive oximetry trend graph had 3 or more 
+desaturation clusters and at least 3 desaturations to ,90%19;6)A 
+negative oximetry trend graph had no desaturation clusters and 
+no desaturations to ,90%; and 7) An inconclusive oximetry trend 
+graph was 1 that did not meet the criteria for positive or negative. 
+Data Analysis 
+
+Our objective was to determine the accuracy with which pulse 
+oximetry graphs and the OSA score identify OSA. We used the 
+likelihood ratio approach that indicates by how much a diagnostic 
+test result will raise or lower the pretest probability of a target 
+disorder.23,24 Pretest probability of having OSA was taken as the 
+percentage of patients referred for OSA who were polysomnographically 
+proven to have OSA. Likelihood ratios were used to 
+calculate posttest probabilities of having OSA based on the OSA 
+score (positive, negative, or inconclusive) and on pulse oximetry 
+(positive or negative/inconclusive). The data were first analyzed 
+for all patients and then subgroup analyses were performed for 
+patients with and without diagnoses other than adenotonsillar 
+hypertrophy that might have affected breathing during sleep. 
+
+Statistical analyses were conducted using SPSS and SigmaStat 
+programs (SPSS Inc, Chicago, IL). For normally distributed data, 
+results were expressed as the mean . 
+standard deviation. For data 
+that was not normally distributed, results were expressed as median 
+(interquartile ranges). 
+
+406 PULSE OXIMETRY FOR OBSTRUCTIVE SLEEP APNEA
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+Fig 1. These 4 Sao2 trend graphs are examples of 
+negative, positive, and inconclusive interpretations. 
+For simplicity, pulse rate trend graphs, 
+which normally accompany the Sao2 trend graphs, 
+have been omitted. A, this oximetry trend graph 
+was interpreted as negative. The child had no evidence 
+of OSA. Note that there is no evidence of 
+saturation dips to ,90% and there are no clusters 
+of desaturation. B and C, these 2 oximetry trend 
+graphs were interpreted as positive based on clusters 
+of desaturations and the fact that several de-
+saturations decreased to ,90%. Both patients had 
+polysomnographically diagnosed OSA. D, this 
+oximetry trend graph was judged inconclusive. 
+Note that there are several clusters of desaturation 
+events, but only 1 single desaturation event to 
+
+,90% Sao2. The patient did not have OSA based 
+on PSG. 
+Interobserver Reliability of Oximetry 
+
+One hundred oximetries were selected randomly and independently 
+classified as negative, positive, or inconclusive by 2 pediatric 
+sleep laboratory technicians (A.M. and R.L.) and a sleep 
+laboratory physician (R.T.B.). Thus, there were 3 sets of 100 possible 
+agreements. The . 
+statistic was used to estimate the level of 
+agreement beyond that expected by chance.25 
+
+RESULTS 
+
+The study group of 349 subjects consisted of 218 
+(62%) boys and 131 girls. Median age was 4.5 (2.9, 
+7.1) years. There were 10 patients 6 to 11 months of 
+age, 36 patients 12 to 23 months of age, 185 patients 
+2 to 5 years of age, 75 patients 6 to 9 years of age, and 
+43 patients 10 to 17 years of age. Ninety-two patients 
+had medical diagnoses other than adenotonsillar hypertrophy 
+that could have had an influence on 
+breathing during sleep (Table 2). 
+
+Polysomnographic Results 
+
+Total sleep time averaged 8.1 . 
+1.4 hours and 
+sleep efficiency averaged 89 . 
+10%. Of the studies, 
+260 were performed in the home and 89 were performed 
+in the laboratory. The median MOAHI was 
+
+2.0 (.3, 9.6). Considering a MOAHI greater than or 
+equal to 1 as abnormal, 210 (60.2%) children had 
+OSA and 139 (39.8%) were considered to have simple 
+snoring or normal breathing during sleep. The median 
+desaturation index was 2.4 (.7, 7.5). The desatu-
+TABLE 2. Subjects With Medical Diagnoses Other Than Adenotonsillar 
+Hypertrophy That Might Affect Breathing During 
+Sleep (Complex Cases) 
+
+Asthma 24 
+After tonsillectomy and/or adenoidectomy 15 
+Obesity 10 
+Genetic 
+
+Down syndrome 6 
+
+Other syndromes 9 
+Neurologic 
+
+Epilepsy/seizures 9 
+
+Developmental delay 7 
+
+Others 7 
+Cardiac 
+
+Congenital heart disease 9 
+
+Systemic/pulmonary hypertension 1 
+Craniofacial 6 
+Renal failure 2 
+Sickle cell anemia 2 
+Scoliosis 1 
+*Total number of patients 92 
+
+* Sixteen subjects are included in more than 1 category. One 
+subject is included in 3 categories. 
+ration index was highly correlated with the MOAHI: 
+MOAHI . 
+.8 (desaturation index) . 
+1.3 (r2 . 
+.78; P . 
+.001; Fig 2). 
+
+Questionnaire as an Abbreviated Testing Modality 
+
+As reported previously, snoring, difficulty breathing, 
+obstructive apneas seen by parents, and degree 
+
+ARTICLES 407
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+Fig 2. This figure shows the MOAHI versus the desaturation 
+index for 349 children referred for possible obstructive apnea. The 
+MOAHI and the desaturation index were highly correlated. How-
+ever, some patients had repetitive desaturations without apnea 
+and others had repetitive apneas without desaturation. 
+
+
+of parental concern were more common in patients 
+found to have OSA than in those found to have 
+simple snoring or normal breathing during sleep 
+(Table 3). However, these individual symptoms and 
+the OSA score, which integrates several of these individual 
+symptoms, were only moderately helpful in 
+changing the diagnostic probability of OSA.8–12,26,27 
+Likelihood ratios for OSA scores ,21 (predicted no 
+OSA), 21 to 3.5 (inconclusive), and .3.5 (predicted 
+to have OSA) were .617, .906, and 1.81, respectively 
+(Table 3). Considering the pretest probability of having 
+OSA as 60%, posttest probabilities were 44%, 
+58%, and 73%, respectively (Fig 3A). 
+
+Pulse Oximetry as an Abbreviated Testing Modality 
+
+Interobserver agreements among the 3 readers for 
+pulse oximetry classification as positive versus in-
+conclusive/negative were 91%, 90%, and 85%. . 
+analysis results showed that this level of agreement 
+was excellent: .80 (95% confidence interval: .66-.88).25 
+
+The pulse oximetry trend and events graphs were 
+classified as positive in 93, negative in 95, and inconclusive 
+in 161. Of 93 oximetries read as positive, PSG 
+confirmed OSA in 90 patients; therefore, the positive 
+predictive value of oximetry was 97% (90/93). The 
+median MOAHI in subjects with a positive oximetry 
+classification was 16.4 (7.5, 30.2; Fig 4). 
+
+Test properties of pulse oximetry graphs for OSA 
+are summarized in Table 4; inconclusive and negative 
+pulse oximetry classifications were collapsed, as 
+the results were similar. A positive pulse oximetry 
+had a likelihood ratio of 19.4, which increased the 
+probability of having OSA from 60% to 97% (Fig 3B). 
+A negative or inconclusive pulse oximetry had a 
+likelihood ratio of .58, which lowered the probability 
+of having OSA from 60% to 47% (Fig 3B). 
+
+According to our study design, 3 of 93 pulse oximetry 
+readings were considered false-positive, ie, correlated 
+with a MOAHI ,1 event per hour as documented 
+by inlaboratory PSG. One 22-month-old 
+child with asthma and adenotonsillar hypertrophy 
+had a MOAHI of .6/hour. However, his PSG was 
+read as compatible with mild OSA, based on paradoxical 
+chest and abdominal movement present for 
+11% of total sleep time, snoring, and obstructive 
+hypopneas that were not associated with a 4% de-
+saturation. One 15-month-old boy with sickle cell 
+anemia had a desaturation index of 6.6/hour. De-
+saturations occurred against a low baseline satura-
+
+TABLE 3. Test Properties of Questionnaire Responses and of the OSA Score for Diagnosis of OSA. Posttest Probabilities Assume a 
+Pretest Probability of 60% 
+
+Variables OSA by PSG Likelihood Posttest 
+Yes No 
+Ratio Probability (%) 
+n . 
+210 n . 
+139 
+Number Proportion Number Proportion 
+Snoring (nights/wk) 
+0 15 .071 28 .201 .353 28 
+1–2 4 .019 9 .065 .292 27 
+3–4 14 .067 9 .065 1.031 69 
+5–7 177 .843 93 .669 1.260 65 
+Difficulty breathing (nights/wk) 
+0 57 .271 52 .374 .725 52 
+1–2 9 .043 9 .065 .662 49 
+3–4 26 .124 25 .180 .689 50 
+5–7 118 .562 53 .381 1.475 65 
+Witnessed obstructive apneas 
+Yes 130 .611 59 .424 1.460 65 
+No 80 .381 80 .576 .661 49 
+Parental concern* 
+Less than very concerned 78 .379 73 .533 .711 55 
+Very concerned 128 .621 64 .467 1.330 65 
+OSA score 
+,21 42 .200 45 .324 .617 44 
+21 to 3.5 89 .423 65 .467 .906 58 
+.3.5 79 .376 29 .208 1.81 73 
+
+* Parental concern: very concerned was defined as a parental belief that something needed to be done or that the child’s life could be in 
+danger. 
+408 PULSE OXIMETRY FOR OBSTRUCTIVE SLEEP APNEA
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+Fig 3. A, this nomogram shows the pretest probability (60%), likelihood ratios, and posttest probabilities for OSA scores predicting OSA 
+(positive), inconclusive, or predicting no OSA (negative). Nomogram adapted from Fagan and Joescheke et al.24 B, this nomogram shows 
+the pretest probability (60%), likelihood ratios and posttest probabilities for pulse oximetries interpreted as positive and for those read as 
+inconclusive/negative. Nomogram adapted from Fagan and Joeschke et al.24 
+
+tion of 93% to 94%, occurred during REM sleep, and 
+were not related to apneas or hypopneas. Another 
+81/2-year-old boy was suspected of having Prader-
+Willi syndrome, although cytogenetic testing was 
+normal for the 15q11–13 deletion. Although his polysomnographic 
+study revealed a high central apnea/ 
+hypopnea index (20/hour), he had loud breathing 
+and used accessory muscles of respiration suggesting 
+a degree of airway obstruction. There was marked 
+clinical and polysomnographic improvement after 
+an adenotonsillectomy. 
+
+Subgroup Analyses 
+
+One hundred sixty-five of the 257 patients with 
+only adenotonsillar hypertrophy to explain their 
+sleep-disordered breathing had OSA (pretest probability: 
+64%). In this group, oximetry had no false-
+positive results and correctly identified 71 of 165 
+patients with OSA. A positive oximetry result had a 
+likelihood ratio of 43, giving a posttest probability of 
+99% of having OSA. A negative or inconclusive 
+oximetry result had a likelihood ratio of .576, giving 
+a posttest probability of 58% of having OSA. 
+
+Forty-five of the 92 patients with medical diagnoses 
+other than adenotonsillar hypertrophy had 
+OSA (pretest probability: 49%). In this group, oximetry 
+had 3 false-positive results and correctly identified 
+19 of 45 patients with OSA. A positive oximetry 
+result had a likelihood ratio of 6.60, giving a posttest 
+
+probability of 87% of having OSA. A negative or 
+inconclusive oximetry result had a likelihood ratio of 
+.618, giving a posttest probability of 39% of having 
+OSA. 
+
+DISCUSSION 
+
+Among children who were referred to a pediatric 
+sleep laboratory for possible OSA, a positive pulse 
+oximetry result increased the probability of a patient 
+having OSA from 60% to 97% (Fig 3B). Furthermore, 
+the median MOAHI of patients with a positive pulse 
+oximetry result was 16 events per hour and 90% of 
+these patients had a MOAHI greater than 2.5 events 
+per hour. A negative or inconclusive oximetry trend 
+graph did not rule out OSA; indeed, referred children 
+with negative pulse oximetry results had a 47% 
+probability of having OSA on PSG (Fig 3B). Clearly, 
+some children can have obstructive apneas without 
+accompanying desaturations. The close relation between 
+MOAHI and desaturation index suggests that 
+pediatric OSA with desaturation events can be considered 
+a more severe disorder than OSA without 
+desaturations.28 
+
+We report on the potential usefulness of pulse 
+oximetry in a group of children at high risk for 
+OSA, ie, those referred to a pediatric sleep laboratory 
+for evaluation of this disorder. We took the 
+pretest probability of OSA as 60%, the incidence of 
+OSA in this series. Readers having children with a 
+
+ARTICLES 409
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+Fig 4. This box plot graph shows the distribution of MOAHI, 
+based on the interpretations of oximetry trend and event graphs. 
+Note that a positive oximetry interpretation corresponded to an 
+elevated MOAHI in all but 3 cases. In the positive pulse oximetry 
+group, 90% of patients had a MOAHI above 2.5 events/hour. The 
+box plots show the median, 25th, and 75th percentiles; whiskers 
+show the 10th and 90th percentiles; outliers are indicated by open 
+circles. 
+
+different pretest probability of having OSA could 
+use Fig 3B to calculate posttest probabilities given 
+a positive oximetry result (likelihood ratio: 19.6) or 
+a negative/inconclusive oximetry result (likelihood 
+ratio: .58). 
+
+Several groups have reported on the use of pulse 
+oximetry for children having adenotonsillectomy. 
+However, none of these groups have compared the 
+diagnostic accuracy of pulse oximetry to nocturnal 
+PSG, the accepted standard for diagnosis of OSA.3 
+Van Someren et al29 reported that 15 of 44 children 
+undergoing adenotonsillectomy had hypoxemia the 
+night before the operation. Stradling et al30 studied 
+61 snoring children who were having adenotonsillectomy 
+primarily for recurrent tonsillitis; they found a 
+decrease in the desaturation index from 3.6 to 1.5 
+events per hour after the operation. Vavrina,31 using 
+a computerized oximetry analysis, found that 25% of 
+children undergoing tonsillectomy and adenoidectomy 
+showed a characteristic pattern of repeated 
+oxygen desaturations during sleep. 
+
+Two studies have linked OSA, desaturation 
+events, and sleep disturbance to daytime behavioral 
+performance using psychometric testing or school 
+performance. Ali et al32 found that sleep disturbance, 
+daytime behavior, and vigilance improved after adenotonsillectomy 
+in a group of children who averaged 
+2.9 desaturation events per hour preoperatively. 
+Gozal33 found that low-achieving first grade 
+
+students with symptoms of OSA and a mean of 5 
+desaturations per hour during sleep improved their 
+school performance after having adenotonsillectomy. 
+The median desaturation index and MOAHI 
+of our positive pulse oximetry group were 3 to 5 
+times greater than the desaturation index of the 
+groups reported by Gozal and Ali, respectively. 
+Thus, children identified by pulse oximetry testing 
+are likely to have clinically significant disease severity. 
+
+
+Pulse oximetry has been suggested in lieu of PSG 
+for other patient populations. In children with myelomeningocele, 
+Waters et al34 found that oximetry 
+was useful for preliminary testing, detecting all cases 
+of moderate to severe sleep-disordered breathing. 
+However, their patients with a positive oximetry 
+required PSG to clarify the type of sleep disordered 
+breathing: central apnea, obstructive apnea, or central 
+hypoventilation. In adults being tested for OSA, 
+pulse oximetry has performed well for detecting individuals 
+with severe OSA (high apnea/hypopnea 
+indexes).35,36,13 However, Epstein and Dorlac14 found 
+that pulse oximetry, as a screening test for adult 
+OSA, was not cost-effective and misdiagnosed a significant 
+number of patients with treatable sleep disorders. 
+Adults too may have significant sleep disturbance 
+from OSA without desaturation.37 
+
+Care is required before nocturnal pulse oximetry is 
+implemented as a testing modality for pediatric 
+OSA. The accuracy of oximetry as an abbreviated test 
+for OSA depends on the patient population, technician 
+and physician experience, methodologic details, 
+and oximeter brands. In this series, we were careful 
+to exclude infants and patients who might have had 
+central apnea, hypoventilation, and pulmonary and 
+neuromuscular diseases that might have nonobstructive 
+causes for hypoxemia. Too few patients ,1 year 
+of age were evaluated to allow firm conclusions for 
+young infants. For this study, sleep laboratory technicians 
+applied the pulse oximeter probes either in 
+the sleep laboratory or in the child’s home. In practice, 
+parents would have to come to the hospital, 
+learn to apply the oximeter, set it up at home, and 
+return the machine after study completion. Since 
+completion of this study, we have attempted home 
+pulse oximetry in 33 children, 10 of whom were 
+referred for possible OSA. In each case, a usable 
+oximetry trend graph was obtained. 
+
+Different brands of oximeters possess different 
+performance properties. Averaging times and motion 
+artifact rejection algorithms affect displayed 
+Sao2 and vary across brands and even across modes 
+in the same model. Because movement artifact can 
+cause false decreases in saturation, any proposed 
+
+TABLE 4. Test Properties of Pulse Oximetry for OSA. Posttest Probabilities Assume a Pretest Probability of 60% 
+
+Oximetry Result OSA by PSG Likelihood Ratio Posttest Probability 
+Yes 
+n . 
+210 
+No 
+n . 
+139 
+Number Proportion Number Proportion 
+Positive 90 90/210 (.428) 3 3/139 (.022) 19.4 (.428/.022) 97% 
+Inconclusive or negative 120 120/210 (571 ) 136 136/139 (.978) .58 (.571/.978) 47% 
+410 PULSE OXIMETRY FOR OBSTRUCTIVE SLEEP APNEADownloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+technique must be able to distinguish true desaturations 
+from movement artifact.16 The most accurate 
+method to distinguish true from false desaturations 
+is to have the pulse wave form available; alternatively, 
+a strong, stable pulse amplitude signal before 
+and during desaturation events can be used.16 New 
+oximeters are now available with the ability to read 
+Sao2 even during motion such as that occurring at 
+apnea termination.38 
+
+How could pulse oximetry be used for pediatric 
+OSA? Most children suspected of having OSA have 
+adenotonsillar hypertrophy and sleep-related signs 
+and symptoms of airway obstruction but are otherwise 
+well. In this group, a positive oximetry trend 
+graph increases the probability of having OSA to 
+nearly 100%. For these children no additional testing 
+should be needed before adenotonsillectomy. However, 
+careful perioperative monitoring, including 
+postoperative, inhospital observation is recommend
+
+
+ed.39,40 
+
+A negative or inconclusive oximetry result 
+would require a subsequent PSG to definitively rule 
+out OSA. 
+
+Although a complete cost–benefit analysis is beyond 
+the scope of this article, abbreviated testing 
+with oximetry might be economical in certain circumstances. 
+Equipment and supplies cost less for the 
+simpler oximetry testing. In our experience, technician 
+time is ,2 hours for oximetry versus at least 16 
+hours for standard PSG. Physician interpretation 
+time is similarly reduced. 
+
+For those children with disorders other than adenotonsillar 
+hypertrophy that might affect breathing 
+during sleep, pulse oximetry could be used to 
+quickly and inexpensively determine whether PSG is 
+needed urgently to determine the type and severity 
+of sleep-disordered breathing.41,42 Oximetry screening 
+might also be particularly useful in geographical 
+areas where pediatric PSG is not readily available. 
+Pulse oximeters are widely available and easy to 
+apply. We have found that reading graphical trend 
+and event summaries is very fast (,2 minutes per 
+study in the current series). 
+
+Several studies have found that parental responses 
+to questions about their child’s breathing during 
+sleep are too inaccurate to rule in or rule out OSA.9 
+The OSA score, which integrates responses to questions 
+about snoring, difficulty breathing, and observed 
+apneas, has not been able to accurately distinguish 
+between children with OSA and those with 
+simple snoring. The data summarized in Table 3 and 
+Fig 3A do demonstrate, however, that children with 
+a more dramatic history for OSA are more likely to 
+have OSA than those who are less symptomatic. 
+
+ACKNOWLEDGMENTS 
+
+This work was supported by The Hospital for Sick Children 
+Foundation, the Canadian Foundation for the Study of Infant 
+Deaths, Jeremy Rill Center for Sudden Infant Death Syndrome and 
+Respiratory Control Disorders, and the Montreal Children’s Hospital, 
+McGill University Research Institute. Dr Waters was funded 
+by a fellowship from the Canadian Lung Association/Medical 
+Research Council of Canada. 
+
+REFERENCES 
+
+1. Guilleminault C, Korobkin R, Winkle R. A review of 50 children with 
+obstructive sleep apnea syndrome. Lung. 1981;159:275–287 
+2. Brouillette RT, Fernbach SK, Hunt CE. Obstructive sleep apnea in 
+infants and children. J Pediatr. 1982;100:31–40 
+3. Loughlin GM, Brouillette RT, Brooks LJ, et al. American Thoracic Society. 
+Standards and indications for cardiopulmonary sleep studies in 
+children. Am J Respir Crit Care Med. 1996;153:866 –878 
+4. Menashe V, Farrehi F, Miller M. Hypoventilation and cor pulmonale 
+due to chronic upper airway obstruction. J Pediatr. 1965;67:198–203 
+5. Ali NJ, Pitson DJ, Stradling JR. Snoring, sleep disturbance, and behaviour 
+in 4–5 year olds. Arch Dis Child. 1993;68:360–366 
+6. Corbo GM, Fuciarelli F, Foresi A, De Benedetto F. Snoring in children: 
+association with respiratory symptoms and passive smoking. Br Med J. 
+1989;299:1491–1494. Erratum appears in Br Med J. 1990;300:226 
+7. Teculescu DB, Caillier I, Perrin P, Rebstock E, Rauch A. Snoring in 
+French preschool children. Pediatr Pulmonol. 1992;13:239–244 
+8. Brouillette RT, Hanson D, David R, et al. A diagnostic approach to 
+suspected obstructive sleep apnea in children. J Pediatr. 1984;105:10–14 
+9. Carroll JL, McColley SA, Marcus CL, Curtis S, Loughlin GM. Inability of 
+clinical history to distinguish primary snoring from obstructive sleep 
+apnea syndrome in children. Chest. 1995;108:610 –618 
+10. Suen JS, Arnold JE, Brooks LJ. Adenotonsillectomy for treatment of 
+obstructive sleep apnea in children. Arch Otolaryngol Head Neck Surg. 
+1995;121:525–530 
+11. Wang RC, Elkins TP, Keech D, Wauquier A, Hubbard D. Accuracy of 
+clinical evaluation in pediatric obstructive sleep apnea. Otolaryngol Head 
+Neck Surg. 1998;118:69–73 
+12. Goldstein NA, Sculerati N, Walsleben JA, Bhatia N, Friedman DM, 
+Rapoport DM. Clinical diagnosis of pediatric obstructive sleep apnea 
+validated by polysomnography. Otolaryngol Head Neck Surg. 1994;111: 
+611–617 
+13. Williams AJ, Yu G, Santiago S, Stein M. Screening for sleep apnea using 
+pulse oximetry and a clinical score. Chest. 1991;100:631–635 
+14. Epstein LJ, Dorlac GR. Cost-effectiveness analysis of nocturnal oximetry 
+as a method of screening for sleep apnea-hypopnea syndrome. Chest. 
+1998;113:97–103 
+15. Pack AI. Simplifying the diagnosis of obstructive sleep apnea. 
+Ann 
+Intern Med 1993;119:528–529. Editorial 
+16. Lafontaine VM, Ducharme FM, Brouillette RT. Pulse oximetry: accuracy 
+of methods of interpreting graphic summaries. Pediatr Pulmonol. 1996; 
+21:121–131 
+17. Jacob SV, Morielli A, Mograss MA, Ducharme FM, Schloss MD, Brouillette 
+RT. Home testing for pediatric obstructive sleep apnea syndrome 
+secondary to adenotonsillar hypertrophy. Pediatr Pulmonol. 1995;20: 
+241–252 
+18. Marcus CL, Omlin KJ, Basinki DJ, et al. Normal polysomnographic 
+values for children and adolescents. Am Rev Respir Dis. 1992;146: 
+1235–1239 
+19. Poets CF, Stebbens VA, Samuels MP, Southall DP. Oxygen saturation 
+and breathing patterns in children. Pediatrics. 1993;92:686 –690 
+20. Morielli A, Ladan S, Ducharme FM, Brouillette RT. Can sleep and 
+wakefulness be distinguished in children by cardiorespiratory and videotape 
+recordings? Chest. 1996;109:680 –687 
+21. Mograss MA, Ducharme FM, Brouillette RT. Movement/arousals: description, 
+classification, and relationship to sleep apnea in children. 
+Am J Respir Crit Care Med. 1994;150:1690–1696 
+22. McNamara F, Issa FG, Sullivan CE. Arousal pattern following central 
+and obstructive breathing abnormalities in infants and children. J Appl 
+Physiol. 1996;81:2651–2657 
+23. Jaeschke R, Guyatt GH, Sackett DL. Users’ guides to the medical literature. 
+III. How to use an article about a diagnostic test. B. What are the 
+results and will they help me in caring for my patients? JAMA. 1994; 
+271:703–707 
+24. Fagan TJ. Letter. Nomogram for Bayes theorem. N Engl J Med. 1975;293: 
+257 
+25. Rosner B. Fundamentals of Biostatistics. 4th ed. Belmont, CA: Duxbury 
+Press; 1995:423 
+26. Leach J, Olson J, Hermann J, Manning S. Polysomnographic and clinical 
+findings in children with obstructive sleep apnea. Arch Otolaryngol Head 
+Neck Surg. 1992;118:741–744 
+27. Sanchez-Armengol A, Capote-Gil F, Cano-Gomez S, Ayerbe-Garcia R, 
+Delgado-Moreno F, Castillo-Gomez J. Polysomnographic studies in 
+children with adenotonsillar hypertrophy and suspected obstructive 
+sleep apnea. Pediatr Pulmonol. 1996;22:101–105 
+28. Brouillette RT, Waters K. Oxygen therapy for pediatric obstructive sleep 
+ARTICLES 411
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+apnea syndrome. How safe? How effective? Am J Respir Crit Care Med. 
+1996;153:1–2. Editorial 
+
+29. van Someren V, Hibbert J, Stothers JK, Kyme MC, Morrison GA. Identification 
+of hypoxaemia in children having tonsillectomy and adenoidectomy. 
+Clin Otolaryngol. 1990;15:263–271 
+30. Stradling JR, Thomas G, Warley AR, Williams P, Freeland A. Effect of 
+adenotonsillectomy on nocturnal hypoxaemia, sleep disturbance, and 
+symptoms in snoring children. Lancet. 1990;335:249–253 
+31. Vavrina J. Computer assisted pulse oximetry for detecting children with 
+obstructive sleep apnea syndrome. Int J Pediatr Otorhinolaryngol. 1995; 
+33:239–248 
+32. Ali NJ, Pitson D, Stradling JR. Sleep disordered breathing: effects of 
+adenotonsillectomy on behaviour and psychological functioning. Eur 
+J Pediatr. 1996;155:56 –62 
+33. Gozal D. Sleep-disordered breathing and school performance in children. 
+Pediatrics. 1998;102:616 –620 
+34. Waters KA, Forbes P, Morielli A, et al. Sleep-disordered breathing in 
+children with myelomeningocele. J Pediatr. 1998;132:672–681 
+35. Levy P, Pepin JL, Deschaux-Blanc C, Paramelle B, Brambilla C. Accuracy 
+of oximetry for detection of respiratory disturbances in sleep apnea 
+syndrome. Chest. 1996;109:395–399 
+36. Series F, Marc I, Cormier Y, La Forge J. Utility of nocturnal home 
+oximetry for case finding in patients with suspected sleep apnea hypopnea 
+syndrome. Ann Intern Med. 1993;119:449 –453 
+
+37. Guilleminault C, Stoohs R, Clerk A, Simmons J, Labanowski M. From 
+obstructive sleep apnea syndrome to upper airway resistance 
+syndrome: consistency of daytime sleepiness. Sleep. 1992;15:S13–S16. 
+Supplement 
+38. Barker SJ, Shah NK. The effects of motion on the performance of pulse 
+oximeters in volunteers. Anesthesiology. 1997;86:101–108. Revised publication 
+39. Rosen GM, Muckle RP, Mahowald MW, Goding GS, Ullevig C. Postoperative 
+respiratory compromise in children with obstructive sleep 
+apnea syndrome: can it be anticipated? Pediatrics. 1994;93:784–788 
+40. McColley SA, April MM, Carroll JL, Naclerio RM, Loughlin GM. Respiratory 
+compromise after adenotonsillectomy in children with obstructive 
+sleep apnea. Arch Otolaryngol Head Neck Surg. 1992;118: 
+940–943 
+41. Redline S, Tishler PV, Schluchter M, Aylor J, Clark K, Graham G. Risk 
+factors for sleep-disordered breathing in children: associations with 
+obesity, race, and respiratory problems. Am J Respir Crit Care Med. 
+1999;159:1527–1532 
+42. Loughlin GM. Obstructive sleep apnea in children. Adv Pediatr. 1992; 
+39:307–336 
+INCOME INEQUALITY AND MORTALITY 
+
+The observed associations in the United States at the state level between income 
+inequality and mortality cannot be entirely or substantially explained as statistical 
+artefacts of an underlying individual level relation between income and mortality. 
+There remains an important association between income inequality and mortality 
+at the state level over and above anything that could be accounted for by any 
+statistical artefact. This result reinforces the need to consider a broad range of 
+factors, including the social milieu, as fundamental determinants of health. 
+
+Wolfson M, Kaplan G, Lynch J. Relation between income inequality and mortality: empirical demonstration. 
+Br Med J. 1999;319:953–957 
+
+Submitted by Student 
+
+412 PULSE OXIMETRY FOR OBSTRUCTIVE SLEEP APNEA
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+Nocturnal Pulse Oximetry as an Abbreviated Testing Modality for Pediatric 
+Obstructive Sleep Apnea 
+
+
+Robert T. Brouillette, Angela Morielli, Andra Leimanis, Karen A. Waters, Rina 
+Luciano and Francine M. Ducharme 
+Pediatrics 2000;105;405-412 
+
+
+DOI: 10.1542/peds.105.2.405 
+& Services 
+Updated Information 
+http://www.pediatrics.org/cgi/content/full/105/2/405 
+including high-resolution figures, can be found at: 
+References 
+http://www.pediatrics.org/cgi/content/full/105/2/405#BIBL 
+at: 
+This article cites 36 articles, 15 of which you can access for free 
+Citations 
+s 
+http://www.pediatrics.org/cgi/content/full/105/2/405#otherarticle 
+This article has been cited by 30 HighWire-hosted articles: 
+Subspecialty Collections 
+http://www.pediatrics.org/cgi/collection/respiratory_tract 
+Respiratory Tract 
+following collection(s): 
+This article, along with others on similar topics, appears in the 
+Permissions & Licensing 
+http://www.pediatrics.org/misc/Permissions.shtml 
+tables) or in its entirety can be found online at: 
+Information about reproducing this article in parts (figures, 
+Reprints 
+http://www.pediatrics.org/misc/reprints.shtml 
+Information about ordering reprints can be found online: 
+
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+

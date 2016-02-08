@@ -1,0 +1,921 @@
+PEDIATRIC SLEEP 
+Hyperactivity and Polysomnographic Findings in Children Evaluated for 
+Sleep-Disordered Breathing 
+
+Ronald D. Chervin MD, MS, and Kristen Hedger Archbold RN, PhD 
+
+Sleep Disorders Center, Department of Neurology, University of Michigan, Ann Arbor, Michigan, U.S.A 
+
+Study Objectives: Children with sleep-disordered breathing (SDB) or 
+periodic leg movements during sleep (PLMS) often have hyperactive 
+behavior that improves when the sleep disorder is treated. Some children 
+with SDB also have PLMS. To determine what polysomnographic features 
+of SDB might be associated with hyperactive behavior, we studied 
+behavior, SDB, and PLMS in a series of patients. 
+Design: Prospective and observational 
+Setting: University-based sleep disorders laboratory 
+Subjects: Children (n=113) aged 2 to 18 years, referred for suspected 
+SDB 
+Interventions: Parents completed the hyperactivity index of the Connors’ 
+Parental Rating Scale, and results were converted to age-adjusted t-
+scores. Children underwent laboratory-based polysomnography, with 
+esophageal pressure monitoring when requested (n=19) by referring 
+physicians. 
+Results: Children with SDB (n=59) showed high hyperactivity scores 
+(mean 59.5±18.3 SD, 95% C.I. [54.7, 64.2]) but these scores were no 
+
+INTRODUCTION 
+
+CHILDREN WITH OBSTRUCTIVE SLEEP-DISORDERED 
+BREATHING (SDB), IN THE FORM OF OBSTRUCTIVE 
+SLEEP APNEA OR UPPER AIRWAY RESISTANCE SYNDROME, 
+are reported to have inattentive, hyperactive, and 
+aggressive behavior.1-3 Some pediatric patients arrive at sleep 
+centers already diagnosed with attention-deficit/hyperactivity 
+disorder (ADHD) and treated with methylphenidate; once SDB 
+is diagnosed and treated, behavior improves and stimulants 
+sometimes can be discontinued.2,4,5 The frequency with which 
+ADHD and SDB occur together, in the community, remains 
+unknown, but ADHD affects more than 5% of children,6 undiagnosed 
+SDB affects at least 1% to 3%,7,8 and surveys about symptoms 
+of the two conditions suggest that the comorbidity may be 
+relevant to a substantial minority of children with hyperactive 
+behavior.9 
+
+The mechanism by which SDB may contribute to hyperactive 
+behavior is unknown. Children deprived of sufficient amounts of 
+sleep or adequate quality of sleep may fidget, spring out of 
+chairs, shift attention, and create excitement in an effort to 
+remain awake and learn. Sleep disruption is implicated as a 
+cause of hyperactivity in SDB by observations that other sleep 
+disorders, such as periodic limb movement disorder (PLMD)10-12 
+
+Accepted for publication December 2000 
+
+Address correspondence to: Ronald D. Chervin MD, MS, Michael S. Aldrich 
+Sleep Disorders Laboratory, University Hospital 8D8702, Box 0117, 1500 E. 
+Medical Center Dr., Ann Arbor, MI 48109-0117; Tel: (734) 647-9064; 
+Fax: (734) 647-9065; E-mail: chervin@umich.edu 
+
+
+SLEEP, Vol. 24, No. 3, 2001 313 
+
+higher than those of children without SDB (59.0±15.1, [54.8, 63.1]). 
+Hyperactivity showed no significant associations with the rate of apneas 
+and hypopneas, minimum oxygen saturation, or most negative 
+esophageal pressure (p>0.10), but was associated with the presence of 5 
+or more PLMS per hour (p=0.02). The rate of PLMS showed a linear 
+association with hyperactivity among those subjects with SDB (p = 0.002), 
+but no association among those subjects without SDB (p = 0.64). 
+Conclusions: These findings suggest that hyperactive behavior is common 
+among children referred for suspected SDB, regardless of the presence 
+or severity of SDB. Current observations cannot prove causality, but 
+they are consistent with the hypothesis that PLMS may contribute to 
+hyperactivity and SDB may act as an effect modifier. 
+Key words: Sleep-disordered breathing; obstructive sleep apnea; upper 
+airway resistance syndrome; polysomnography; hyperactivity; attentiondeficit/
+hyperactivity disorder; ADHD; periodic leg movements; periodic 
+limb movement disorder; children 
+
+and narcolepsy,13,14 also are associated with hyperactive behavior. 
+As in SDB, treatment of PLMD or narcolepsy often leads to 
+behavioral improvement.15,16 In contrast to children, adults with 
+SDB most often complain of excessive daytime sleepiness.17 
+Once again, however, the mechanism by which SDB causes daytime 
+symptoms is unclear: both hypoxemia and the frequency of 
+apneic events—presumably a reflection of the severity of sleep 
+disruption—are independently associated with objective measures 
+of sleepiness, but the magnitudes of these associations are 
+not large.18 Analogous studies in children, to compare behavioral 
+outcomes with polysomnographic measures of SDB, have not 
+been performed. 
+
+Finally, the argument that SDB actually causes hyperactive 
+behavior in children, by any mechanism, remains far from 
+proven. Few studies have used validated behavioral measures to 
+document largely anecdotal observations. Clinical series have 
+not included behavioral data on children referred to sleep centers 
+but not found to have SDB. Hyperactive children may be 
+referred for sleep studies more frequently than others because 
+they frequently have disturbed sleep.19-22 No double-blind, single-
+blind, placebo controlled, or randomized treatment trials 
+have documented improvement in hyperactivity as a result of 
+treatment for SDB. 
+
+If SDB does cause hyperactivity in children, an association 
+between levels of hyperactivity and polysomnographic measures 
+of SDB would be expected. We used the well-validated hyperactivity 
+index of the Connors’ Parental Rating Scale23,24 to assess 
+hyperactivity in a series of children evaluated for suspected SDB, 
+and then examined what polysomnographic measures of SDB 
+were most closely and independently associated with hyperactiv-
+
+Children and Sleep-Disordered Breathing—Chervin et al 
+
+
+ity. As PLMD is common in SDB, at least among adults, we also 
+tested for associations between the frequency of periodic leg 
+movements during sleep and levels of hyperactivity. 
+
+METHODS 
+
+Subjects 
+
+Children were included in this prospective, observational, 
+Institutional Review Board-approved study if the parents or 
+guardians signed an informed consent, subjects 10 years of age or 
+older signed an assent, and subjects met the following criteria: 1) 
+referral to our sleep laboratory for a full night of nocturnal 
+polysomnography between August 23, 1996 and March 29, 2000 
+to assess for suspected SDB; 2) age 2.0 to 18.0 years; 3) hyperactivity 
+scale completed by a parent or guardian at the time of 
+polysomnography; 4) no tracheostomy normally open during 
+sleep; and 5) no concurrent cognitive, physical, or medical disability, 
+as reported by the parent on a laboratory questionnaire, 
+that would be likely to preclude interpretation of the hyperactivity 
+score. The questionnaire included a medical history; list of 
+current medications; specific inquiry about any physician-suspected 
+or diagnosed psychological, psychiatric, emotional, and 
+behavioral problems; and an immediate family history for behavioral 
+or psychiatric problems. To avoid creation of a sample with 
+little resemblance to that seen in clinical practice, subjects were 
+still included if they were diagnosed with sleep disorders other 
+than SDB, or with behavioral problems judged unlikely to prevent 
+behaviors addressed by the hyperactivity measure described 
+below. A total of 113 patients met criteria and were included in 
+this study. 
+
+Measures 
+
+Hyperactive behavior was assessed with the hyperactivity 
+index of the commonly-used Connors’ Parental Rating Scale.23,24 
+Raw scores were converted to age-adjusted t-scores, which range 
+from 0 to 100 and average 50 in population samples. Conversion 
+was based on standard age-appropriate data from children aged 3 
+through 17 years; data for the three to five-year-old group were 
+used, as an approximation, for study subjects who were 2.0 to 2.9 
+years old. The Connors’ Scale is not used to establish a diagnosis 
+of attention-deficit/hyperactivity disorder, but the hyperactivity 
+index t-scores provide a widely recognized measure of behavior 
+in which either one s.d. above the population mean (score=60) 
+or two SD’s (score=70) is used to define an abnormally hyperactive 
+group. 
+
+Nocturnal polysomnography included four electroencephalographic 
+leads (C3-A2, C4-A1, O1-A2, O2-A1 of the 10-20 international 
+electrode placement system), 2 electro-oculographic 
+leads (right and left outer canthi), chin and bilateral anterior tibialis 
+surface electromyograms, 2 electrocardiographic leads, 
+nasal and oral airflow (thermocouples), thoracic and abdominal 
+excursion (piezoelectric strain gauges), and finger oximetry. In a 
+minority of cases (n=19), and at the referring physician’s request, 
+esophageal pressure was monitored with a water-filled catheter25 
+that does not have significant adverse effects on children’s 
+sleep.26 Sleep stages were scored in 30-second epochs according 
+to standard criteria27 by technologists who, after an extensive 
+training program, had correctly scored at least 90% of epochs in 
+
+a set of reliability records. 
+
+An apnea was defined as 10 or more seconds of complete airflow 
+cessation during sleep, regardless of any change in oxygen 
+saturation. An hypopnea was defined as a 10-second reduction in 
+airflow, chest excursion, or abdominal excursion that led to either 
+a 4% or greater oxyhemoglobin desaturation, an arousal, or an 
+awakening. Some pediatric sleep laboratories now score apneas 
+or hypopneas that are less than 10 seconds long, in part because 
+normal respiratory rates can be considerably higher in young 
+children than in adults. However, this justification would not 
+apply well to the older children and teenagers included in our 
+sample. We suspect that in the current study, esophageal pressure 
+monitoring allowed identification of subtle SRBDs in some of 
+the younger children for whom shorter apneic event criteria 
+might otherwise have been important. 
+
+For this study, we classified subjects as having SDB if they 
+had a rate of apneas and hypopneas (apnea/hypopnea index, or 
+AHI) that was at least five per hour of sleep, or if their peak negative 
+end-inspiratory esophageal pressure was -20 cm of water or 
+more negative. These criteria were chosen to provide internally 
+uniform limits that would be reasonably applicable to our wide 
+range of subject ages, and with the realization that better cutoffs 
+are difficult to define at present in the absence of the necessary 
+outcome-based, age-stratified studies.28 Although one frequently 
+cited study of 50 normal children found an apnea index of 1 or 
+more to be unusual,29 this study did not define what rate of apneas 
+causes adverse outcomes and did not address the role of hypopneas, 
+which at least in adults appear to have outcome-related significance 
+comparable to that of apneas.18,30 We chose to include 
+hypopneas in our criterion for OSA, and we used an AHI threshold 
+of 5 instead of an apnea index of 1. 
+
+Although esophageal pressures in excess of -20 cm of water 
+do not define upper airway resistance syndrome, no widely 
+accepted alternative definition is available. One frequently referenced 
+publication described the syndrome as a combination of 
+excessive daytime sleepiness and gradually worsening pressures 
+that lead to frequent arousals,31 but published data have not 1) 
+defined a minimum required rate of arousals above that seen in 
+normal adult sleep,32 2) established a criterion pressure that distinguishes 
+abnormal vs. normal pressures, 3) indicated what proportion 
+of an abnormal record must exhibit abnormal pressures, 
+or 4) established what length of recording, prior to an arousal, 
+should exhibit continuously worsening pressures in order to 
+attribute the arousal to increased breathing effort. Furthermore, 
+some publications33,34 and our own experience have suggested 
+that some patients have excessively negative pressures without 
+frequent arousals but still experience improvement in symptoms 
+after upper airway obstruction is relieved. As a criterion for 
+inclusion in the current SDB group when OSA was absent, we 
+therefore adopted a simple, objective, but somewhat conservative 
+criterion: a minimum esophageal pressure of -20 cm of water.35 
+This cut-off level is twice the limit considered to be pathological 
+by some researchers.31 
+
+Arousal frequency was not scored in these studies, and 
+Multiple Sleep Latency Tests (MSLTs) were not generally administered, 
+but surrogate measures for sleep disruption and sleepiness 
+were available, namely sleep efficiency (total sleep time 
+divided by time in bed) and nocturnal sleep latency. At least 
+among adults, the nocturnal sleep latency is the best nocturnal 
+correlate of MSLT results.36 
+
+SLEEP, Vol. 24, No. 3, 2001 314 Children and Sleep-Disordered Breathing—Chervin et al 
+
+
+Table 1—Subject characteristics * 
+Variable All Subjects 
+(n = 113) 
+Subjects with SDB 
+(n = 59) 
+Subjects without SDB 
+(n = 54) 
+Age (years) 9.9 ± 4.0 9.6 ± 3.7 10.1 ±4.4 
+No. Male (%) 73 (65) 39 (66) 34 (63) 
+AHI 8.1 ± 12.2 13.4 ± 15.1 2.4 ±1.3 † 
+No. With OSA (%) 49 (43) 49 (83) 0 (0) † 
+Minimum O2 (%) 88.9 ± 8.8 86.0 ± 11.0 92.2 ± 3.0 † 
+Most Negative Pes 
+(cm of water) ** -32.3 ± 17.2 -36.6 ± 16.9 -16.0 ± 1.8 † 
+No. With High Upper Airway 
+Resistance (%) *** 14 (74) 14 (93) 0 (0) † 
+PLMI 4.9 ± 10.7 4.1 ± 7.1 5.8 ±13.6 
+No. With PLMD (%) 29 (26) 16 (27) 13 (24) 
+Sleep Efficiency 85.7 ± 11.7 85.3 ± 11.1 86.1 ± 12.4 
+Sleep Latency (min) 18.2 ± 29.3 16.7 ± 17.8 19.9 ± 38.3 
+Hyperactivity Index T-score 59.2 ± 16.8 59.5 ± 18.3 59.0 ± 15.1 
+No. Hyperactive (%) **** 27 (24) 15 (25) 12 (22) 
+No. With History of ADHD (%) 20 (18) 13 (22) 7 (13) 
+No. With Stimulant Use (%) 20 (18) 13 (22) 7 (13) 
+
+* AHI = apnea/hypopnea index, minimum O2 = minimum oxygen saturation, Pes = esophageal pressure, PLMI = periodic leg movement 
+index, OSA = obstructive sleep apnea, PLMD = periodic limb movement disorder, ADHD = attention-deficit/hyperactivity disorder 
+** N = 19 subjects, 15 with SDB and 4 without SDB 
+*** Among the subjects whose esophageal pressure was monitored 
+**** Hyperactivity index t-score >70. 
+† p<0.05, for difference between subjects with and without SDB, by t-test for continuous data or chi-square test for dichotomous data 
+Periodic leg movements during sleep (PLMS) were scored RESULTS 
+
+when they met criteria for duration (0.5 to 5 seconds), periodici
+
+
+ty (5 to 120 seconds between each movement), and number (at Subjects 
+
+least 3 in a row). For this study, PLMD was considered present 
+
+Subjects’ ages ranged from 2.8 to 18.0 years; only one child 
+
+when the rate of leg movements per hour of sleep (periodic limb 
+
+was less than three years old, and the mean age was 9.9±4.0 years
+
+movement index, PLMI) was at least 5;10,37 previous work has 
+
+(Table 1). Seventy-three (65%) of the subjects were male. Forty-
+
+shown that this level of periodic leg movements is rare in normal 
+
+nine subjects (43%) had OSA and an additional 10 subjects (9% 
+
+children.12 
+
+of all subjects) had high upper airway resistance in the absence of 
+OSA. As expected, in comparison to the 54 subjects without
+
+Analysis 
+
+SDB, the 59 with SDB showed higher rates of apneas and hypopneas, 
+lower minimum oxygen saturation, and more negative
+
+Results were summarized as means ± SD or by frequencies. 
+
+esophageal pressures. The two groups showed no statistically
+
+Simple and multiple linear regression models were used to test 
+
+significant differences in age, sex, PLMI, sleep efficiency, or 
+
+for associations between hyperactivity scores as outcomes, 
+
+sleep latency (Table 1). At the time of polysomnography, most 
+
+explanatory variables derived from polysomnography, and age 
+
+(n=40) subjects without SDB as defined in this study were
+
+and sex. Associations were tested first in the entire group of sub-
+
+thought to have primary snoring, potentially subtle SDB despite
+
+jects, and then among those with and without SDB, separately, 
+
+negative findings, or no sleep disorder. Other subjects without
+
+because mechanisms that underlie hyperactivity in children with 
+
+SDB received clinical diagnostic impressions of symptomatic
+
+SDB may differ from those in children without SDB. The high 
+
+PLMS or restless legs syndrome (n=7), parasomnias (n=2),
+
+frequency of hyperactivity among children virtually assures that 
+
+delayed sleep phase syndrome (n=2), mild central sleep apnea
+
+even if SDB contributes to this behavior in some study subjects, 
+
+(n=1), unspecified insomnia (n=1), and subtle SDB vs. narcolep
+
+
+others without SDB may have the behavior for other reasons, and 
+
+sy (n=1). All diagnostic impressions were those of board-certi
+
+
+their data could then obscure the association of interest among 
+
+fied sleep specialists whose practices included children, but iden
+
+
+children with SDB. All analyses were performed with SAS,® 
+
+tification of symptomatic PLMS and restless legs syndrome can
+
+version 6.12 (SAS Institute Inc., Cary, NC). In tests of statistical 
+
+be particularly challenging in children and these two diagnoses
+
+significance, the level was set at 0.05. 
+
+were not based strictly on a specific set of research criteria. 
+
+A total of 20 subjects had received a diagnosis of ADHD or 
+were thought to have hyperactive behavior by their physicians, 
+and 24 subjects had behavioral or psychiatric problems of other 
+kinds, including anxiety disorders (n=3), bipolar disorder (n=3), 
+
+SLEEP, Vol. 24, No. 3, 2001 315 Children and Sleep-Disordered Breathing—Chervin et al 
+
+
+Table 2—All subjects (n = 113): Simple linear regressions of hyperactivity scores on each listed variable * 
+
+Variable 
+AHI 
+ß 
+ßß 
+-0.01 
+s.e. 
+0.13 
+F 
+0.006 
+p-value 
+0.937 
+R2 
+0.000 
+Minimum O2 (%) 0.16 0.18 0.743 0.391 0.007 
+Most Negative Pes (cm of water) 0.04 0.32 0.015 0.904 0.001 
+OSA ** -1.62 3.19 0.256 0.614 0.002 
+PLMI 0.18 0.15 1.442 0.232 0.013 
+PLMD ** 8.10 3.54 5.224 0.024 0.045 
+Sleep Efficiency 0.08 0.14 0.352 0.554 0.003 
+Sleep Latency (min) 0.05 0.05 0.770 0.382 0.007 
+Age (years) 0.30 0.39 0.585 0.446 0.005 
+Male Sex 7.73 3.23 5.736 0.018 0.049 
+History of ADHD 15.83 3.87 16.76 < 0.001 0.131 
+Stimulant Use 10.85 4.02 7.286 0.008 0.062 
+
+* AHI = apnea/hypopnea index, minimum O2 = minimum oxygen saturation, Pes = esophageal pressure, PLMI = periodic leg movement index, OSA = 
+obstructive sleep apnea, PLMD = periodic limb movement disorder 
+** Present = 1, vs. absent = 0 
+and conditions that were described rather than labeled by parents 
+(n=18). Neurological problems were reported in 29 children, 
+most of whom had seizures (n=15) or headaches (n=5). Family 
+histories were notable for ADHD (n=6 relatives of five children) 
+and other learning or psychiatric problems (n=10 problems in 
+nine relatives). Sixty-one children regularly took medications, 
+the most common of which included stimulants (n=20 children), 
+antiepileptics (n=15), antidepressants (n=10), neuroleptics (n=3), 
+inhalers (n=4), antihistamines (n=6), diuretics (n=4), calcium 
+channel blockers (n=3), and beta blockers (n=5). Among the 27 
+children with hyperactivity scores more than 2 SDs above normal, 
+9 were treated with stimulants and 18 were not. The proportion 
+of hyperactive children who were treated with stimulants 
+was identical among those with and without SDB (5 of 15 children 
+and 4 of 12 children, respectively). Within the hyperactive 
+group, nine children with SDB and five children without SDB 
+took no stimulant or other psychoactive medication. 
+
+Correlates of Hyperactivity 
+
+The mean hyperactivity index t-score showed a statistically 
+significant elevation from normal (50), at 59.2 ± 16.8 (95% C.I. 
+[56.1, 62.3]). The mean scores were no different between subjects 
+with and without SDB. Hyperactivity scores > 2 SDs above 
+population means were somewhat more frequent among SDB 
+subjects compared to non-SDB subjects (Table 1), but the difference 
+was not statistically significant (.2=0.16, p=0.69). Similar 
+results were obtained for a history of attention-deficit/hyperactivity 
+disorder and for current stimulant use. 
+
+Regression of hyperactivity scores on AHI, minimum oxygen 
+saturation, most negative esophageal pressure, PLMI, sleep efficiency, 
+sleep latency, age, or sex showed no significant associations 
+except that hyperactivity was associated with male sex (R2 
+= 0.049, p = 0.02, Table 2). Regression of hyperactivity scores 
+on SDB (presence vs. absence) also showed no significant association. 
+Among the 29 children with PLMI =5, PLMI still 
+showed no association with hyperactivity (R2 = 0.000, p = 0.690, 
+not shown in Table 2). Among these children, 11 (38%) had 
+hyperactivity scores more than 2 SDs above normal, whereas 
+among the 84 children with PLMI < 5, 16 (19%) had hyperactiv
+
+
+ity scores in this range. Regression of hyperactivity scores on 
+PLMD (PLMI = 5 vs. PLMI < 5) within the entire sample suggested 
+that although a linear (“dose-dependent”) relationship 
+with PLMI had not been found, the presence of PLMD was associated, 
+on average, with an 8-point higher hyperactivity score 
+(R2=0.045, p=0.02, Table 2). When male sex was added to the 
+model, PLMD was still associated with higher hyperactivity 
+scores (Part R2=0.034, p=0.047). For comparison, Table 2 also 
+shows the strength of the associations between hyperactivity 
+scores and two expected correlates: history of attentiondeficit/
+hyperactivity disorder and stimulant use. Controlling for 
+stimulant use caused essentially no change in the strengths of the 
+associations between hyperactivity and AHI, minimum oxygen 
+saturation, most negative esophageal pressure, SDB, PLMI, or 
+PLMD. 
+
+To help exclude the possibility that the above analyses failed 
+to detect a non-linear association, subjects were categorized 
+based on AHI into four groups of similar size, but regression of 
+hyperactivity on these categories still failed to reveal a significant 
+association. A quadratic model of AHI also showed no significant 
+association. Similar negative results were obtained with categorical 
+and quadratic models of minimum oxygen saturation 
+and esophageal pressure. 
+
+Children With SDB 
+
+Among the 59 children who had SDB, hyperactivity again 
+showed no association with AHI, minimum oxygen saturation, 
+most negative Pes (n = 15), sleep efficiency, or sleep latency 
+(Table 3). However, hyperactivity was significantly associated 
+with PLMI, PLMD, older age, and male sex. On average, an 
+increase in the PLMI of 1 movement per hour was associated 
+with a 1-point increase on the hyperactivity scale T-score 
+(R2=0.159, p=0.002), and the presence of PLMD was associated 
+with a 13-point increase in the hyperactivity score (R2=0.099, 
+p=0.015; Figure 1A). In a multiple regression that adjusted for 
+age and male sex, hyperactivity retained a significant association 
+with PLMI (Part R2 = 0.098, p = 0.010). 
+
+SLEEP, Vol. 24, No. 3, 2001 316 Children and Sleep-Disordered Breathing—Chervin et al 
+
+
+Table 3—Subjects with SDB (n=59): Simple linear regressions of hyperactivity scores on each listed variable * 
+
+Variable 
+AHI 
+ß 
+ßß 
+-0.04 
+s.e. 
+0.16 
+F 
+0.052 
+p-value 
+0.820 
+R2 
+0.001 
+Minimum O2 (%) 0.27 0.22 1.562 0.217 0.027 
+Most Negative Pes (cm of water) 0.05 0.41 0.016 0.901 0.001 
+OSA ** -6.79 6.33 1.153 0.288 0.020 
+PLMI 1.03 0.31 10.778 0.002 0.159 
+PLMD ** 12.84 5.12 6.289 0.015 0.099 
+Sleep Efficiency 0.03 0.22 0.018 0.893 0.000 
+Sleep Latency (min) 0.16 0.13 1.500 0.226 0.026 
+Age (years) 1.27 0.63 4.033 0.049 0.066 
+Male Sex 10.68 4.86 4.819 0.032 0.078 
+
+* AHI = apnea/hypopnea index, minimum O2 = minimum oxygen saturation, Pes = esophageal pressure, PLMI = periodic leg movement index, OSA = 
+obstructive sleep apnea, PLMD = periodic limb movement disorder 
+** Present = 1, vs. absent = 0 
+Children Without SDB 
+
+Among the 54 children who did not have SDB, hyperactivity 
+showed no significant association with AHI, minimum oxygen 
+saturation, most negative Pes (but n=4), sleep efficiency, sleep 
+latency, age, male sex, PLMI, or PLMD (all p>0.10, Figure 1B). 
+The association between hyperactivity and PLMI remained 
+insignificant when two possible outliers with PLMI> 60 were 
+removed from the analysis (F=1.037, p=0.3134, R2=0.020). 
+
+An interaction model for all subjects (n=113) verified that 
+SDB (as measured by AHI) was a statistically significant effect 
+modifier in the relationship between hyperactivity and PLMI 
+(Part R2=0.086, p=0.002 for the interaction term): increased 
+
+A 
+
+100 
+
+80 
+
+PLMI was associated with increased hyperactivity among subjects 
+with higher AHI but not among those with lower AHI 
+(Figure 1). Adjustment for age and sex did not change this result 
+appreciably (Part R2=0.075, p=0.003). In an analogous interaction 
+model for minimum oxygen saturation and PLMI, the interaction 
+term showed a trend toward significance (Part R2=0.034, 
+p=0.052), even after adjustment for age and sex (Part R2=0.032, 
+p=0.056). 
+
+DISCUSSION 
+
+This study of children with suspected SDB suggests that age-
+adjusted hyperactivity scores are high among children with 
+
+B 
+
+100 
+
+80 
+
+HIT
+
+HIT 
+
+60 60 
+
+40 40 
+
+0 2040 60 0 2040 60 
+PLMI
+
+PLMI 
+
+Figure 1—Effect modification by sleep-disordered breathing (SDB). When SDB was present (A), higher periodic leg movement indices (PLMI) were associated with 
+higher hyperactivity index t-scores (HIT), but when SDB was absent (B), no such association existed. 
+
+SLEEP, Vol. 24, No. 3, 2001 317 Children and Sleep-Disordered Breathing—Chervin et al 
+
+
+polysomnographically-confirmed SDB, but no higher than 
+among children without SDB. Levels of hyperactivity were not 
+associated with measures of SDB severity, but were associated 
+with the presence of PLMS. Upon more detailed analysis, the 
+association between hyperactivity and PLMS derived entirely 
+from the results of the children who had SDB; no such association 
+could be detected among children without SDB. More 
+severe SDB, as measured by AHI, linearly increased the strength 
+of the association between PLMS and hyperactivity. These 
+results—which to the authors’ knowledge represent the first 
+quantitative behavioral and polysomnographic comparisons in 
+children – are surprising in several respects. Conclusions that 
+can be drawn from correlative data in a clinical sample have several 
+notable limitations, but the findings may have important 
+implications for the hypothesis that inadequate sleep, common to 
+several types of sleep disorders, contributes to hyperactivity in 
+children. 
+
+The high level of hyperactivity in subjects not found to have 
+SDB was unexpected. Previous clinical series that described 
+hyperactive behavior in children with polysomnographicallyconfirmed 
+SDB did not discuss referred children who did not 
+have SDB.1,2 In one study, 11 snoring children without SDB 
+showed similar hyperactivity scores to those of 12 children with 
+SDB, but the assessment for SDB relied primarily on oximetry 
+and video data.4 
+
+Another unexpected observation was the extent to which 
+PLMD, in this sample of children studied for suspected SDB, 
+was associated with hyperactivity. However, this result is consistent 
+with previous studies, among different samples of children, 
+that suggest a strong association between PLMD and 
+ADHD,10,12,42 especially when PLMD is severe.11 In a consecutive 
+series of children with attention-deficit/hyperactivity disorder, 
+26% were identified by parental report as having periodic leg 
+movements, studied with polysomnography, and confirmed to 
+have PLMIs > 5.12 
+
+Although the current data showed no direct association 
+between SDB and hyperactivity, SDB did appear to be an important 
+effect modifier43 of the association between PLMS and 
+hyperactivity: among subjects with SDB, but not those without 
+SDB, PLMI showed a dose-dependent association with hyperactivity. 
+This previously unreported finding was not hypothesized 
+prior to the study, and therefore requires future confirmation. If 
+verifiable, the finding may have implications for mechanisms 
+that underlie reports of associations between sleep disorders and 
+hyperactivity. 
+
+Our study also has several limitations that stem from techniques 
+used and subjects enrolled. First, some of our subjects 
+who did not have SDB had other sleep-related diagnoses, and all 
+were referred for sleep-related symptoms. Many of the subjects 
+had psychiatric problems, neurological problems (especially 
+seizures), and medication regimens for which we could not control. 
+The complexity of this patient population may reflect, in 
+part, the location of our sleep laboratory in a neurology department 
+of a large tertiary referral center. In addition, despite use of 
+both age-appropriate T-scores and statistical adjustment for age 
+effects, the broad age range included in this study suggests that 
+hyperactivity, even as measured on a single instrument, is likely 
+to represent somewhat different constructs at the two ends of the 
+age spectrum. 
+
+Second, SDB may have remained undetected in some cases by 
+
+the methods and criteria used in this study. In adults, the AHI is 
+not strongly correlated with objective measures of sleepiness,36,38 
+and in children, upper airway resistance syndrome (with AHIs 
+close to zero) and OSA reportedly are associated with similar frequencies 
+of hyperactivity.1,2 These observations suggest that the 
+measure of SDB severity most relevant to behavioral outcomes 
+may not be the AHI we calculated. In young children, a shorter 
+criterion for apnea and hypopnea length,39 commensurate with 
+increased respiratory rates, may produce a more relevant AHI. 
+Furthermore, airflow monitoring with nasal pressure cannulae 
+are now advocated in adults to increase sensitivity for hypopneas.
+40 Failure to detect subtle hypopneas in some patients may 
+have allowed some hypopneas to be scored as PLMS, as the two 
+phenomena sometimes can be difficult to distinguish. Future 
+studies that incorporate more sensitive measures of SDB might 
+allow currently undetected relationships to emerge between SDB, 
+PLMS, and behavior. 
+
+On the other hand, no outcome-based studies have yet demonstrated 
+the advantage of shorter criteria for apneas and hypopneas,
+41 and no studies of nasal pressure in children, who are often 
+mouth-breathers, have been published. Even if sub-optimal in 
+younger children, the AHI derived from 10-second events and 
+thermocouple recordings would still be expected to show high (if 
+imperfect) correlations with the AHI derived from other criteria 
+or equipment. Finally, in a subsample of 19 children in the current 
+study, even a gold-standard assessment of respiratory 
+effort—esophageal pressure monitoring—failed to show any 
+association with hyperactivity. These observations support the 
+validity of our central finding that levels of hyperactivity were 
+not associated with SDB severity. 
+
+Figure 2 shows several potential mechanisms that could theoretically 
+explain associations between sleep disorders and 
+hyperactive behavior in children. In model A, SDB, PLMS, and 
+other sleep disorders contribute to hyperactive behavior, perhaps 
+through intervening variables such as sleep disruption or deprivation. 
+Our current data, which show no association between 
+SDB and hyperactivity, make the hypothesis that SDB contributes 
+directly to the abnormal behavior less tenable. In addition, 
+the lack of association between hyperactivity and either 
+sleep efficiency or nocturnal sleep latency—though not optimal 
+measures of sleep disruption and sleepiness—fail to support the 
+idea that sleep disruption or sleepiness acts as an intervening 
+variable. In model B, a third, as yet unidentified variable causes 
+both PLMS and hyperactive behavior. Neurological disorders, 
+antiepileptic agents, and other medications—all of which were 
+common in our clinical sample—may affect sleep and behavior, 
+and could potentially explain comorbidity of PLMS and hyperactive 
+behavior. Correlative data such as ours cannot distinguish 
+models A and B. However, model B is difficult to reconcile with 
+reports that other sleep disorders besides PLMS are associated 
+with hyperactive behavior; that experimental sleep deprivation, 
+inadequate sleep, or sleepiness can lead to such behavior; and 
+that treatment for a wide range of sleep disorders leads to behavioral 
+improvement.2,16,44-46 
+
+In models C and D, PLMS are hypothesized to contribute to 
+hyperactive behavior or hyperactive behavior is hypothesized to 
+produce PLMS, but in each case SDB or other sleep disorders are 
+shown as effect modifiers, as suggested by our data for SDB. 
+Only model C, however, is consistent with past reports which 
+suggest that treatment for sleep disorders ameliorates hyperactiv-
+
+SLEEP, Vol. 24, No. 3, 2001 318 Children and Sleep-Disordered Breathing—Chervin et al 
+
+
+A. SDB 
+Hyperactive Behavior 
+PLMS 
+
+
+Hyperactive Behavior 
+Sleep Disorders 
+
+
+Hyperactive Behavior 
+
+B. Hyperactive Behavior 
+Third Variable 
+PLMS 
+
+
+C. SDB, Other Sleep Disorders 
+PLMS 
+
+Hyperactive Behavior 
+
+D. SDB, Other Sleep Disorders 
+PLMS 
+
+Hyperactive Behavior 
+
+Figure 2—Several hypothetical models that could explain associations between 
+sleep disorders and hyperactivity in children are shown. In Model A, various 
+sleep disorders can contribute to hyperactive behavior, perhaps through an intervening 
+variable such as sleep disruption. In Model B, a third variable (i.e., some 
+as yet unidentified factor) produces both hyperactive behavior and PLMS. In 
+Model C, PLMS contribute to hyperactive behavior; SDB and perhaps other disorders 
+that disrupt sleep act as effect modifiers and permit the effect of PLMS on 
+behavior to be expressed. In Model D, hyperactive behavior leads to PLMS, and 
+other sleep disorders again act as effect modifiers. Data from the current study 
+arestudy, in combination with those from previous reports, are more consistent 
+with Models C and D, but notD than with A or B. SDB = sleep-disordered breathing; 
+PLMS = periodic leg movements during sleep. 
+
+ity. The designs of these studies have prevented firm conclusions, 
+but we speculate that future data on these important issues 
+will support model C. 
+
+Our findings have several important implications for clinical 
+practice and research. The results of this study suggest that SDB 
+is not a direct cause of hyperactivity in children, though its presence 
+may modify a relationship between PLMS and daytime 
+behavior. Clinicians who find PLMS and SDB on a polysomnogram 
+often dismiss the PLMS as an incidental finding, and treat 
+only the SDB. Our findings raise the possibility that treatment of 
+either problem could improve a child’s daytime behavior. 
+However, our study was observational in design; and associations 
+cannot establish causality. Future research should endeavor to 
+clarify the central neurophysiology of PLMS and hyperactive 
+behavior, to further examine the possibility that PLMS contribute 
+to hyperactive behavior, and to explain the behavioral effects of 
+nocturnal sleep disruption. 
+
+ACKNOWLEDGMENTS 
+
+Submitted by NINDS (K02-NS02009). The authors wish to 
+thank Judy Wiebelhaus, RPSGT, for technical assistance with 
+these studies. 
+
+REFERENCES 
+
+1. Guilleminault C, Korobkin R, Winkle R. A review of 50 children 
+with obstructive sleep apnea syndrome. Lung 1981;159:275-87. 
+2. Guilleminault C, Winkle R, Korobkin R, Simmons B. Children and 
+nocturnal snoring—evaluation of the effects of sleep related respiratory 
+resistive load and daytime functioning. Eur J Pediatr 1982;139:165-71. 
+3. Hansen DE, Vandenberg B. Neuropsychological features and differential 
+diagnosis of sleep apnea syndrome in children. Journal of 
+Clinical Child Psychology 1997;26:304-10. 
+4. Ali NJ, Pitson D, Stradling JR. Sleep disordered breathing: effects 
+of adenotonsillectomy on behaviour and psychological functioning. Eur 
+J Pediatr 1996;155:56-62. 
+5. Goldstein NA, Post JC, Rosenfeld RM, Campbell TF. Impact of 
+tonsillectomy and adenoidectomy on child behavior. Arch Otolaryngol 
+Head Neck Surg 2000;126:494-8. 
+6. Szatmari P. The epidemiology of attention-deficit hyperactivity disorder. 
+Child Adolesc Psychiatr Clin North Am 1992;1:361-71. 
+7. Ali NJ, Pitson DJ, Stradling JR. Snoring, sleep disturbance, and 
+behaviour in 4-5 year olds. Arch Dis Child 1993;68:360-6. 
+8. Gislason T, Benediktsdottir B. Snoring, apneic episodes, and nocturnal 
+hypoxemia among children 6 months to 6 years old. An epidemiologic 
+study of lower limit of prevalence. Chest 1995;107:963-6. 
+9. Chervin RD, Dillon JE, Bassetti C, Ganoczy DA, Pituch KJ. 
+Symptoms of sleep disorders, inattention, and hyperactivity in children. 
+Sleep 1997;20:1185-92. 
+10. Picchietti DL, Walters AS. Restless legs syndrome and periodic 
+limb movement disorder in children and adolescents: comorbidity with 
+attention-deficit hyperactivity disorder. Child Adolesc Psychiatr Clin 
+North Am 1996;5:729-40. 
+11. Picchietti DL, Walters AS. Moderate to severe periodic limb movement 
+disorder in childhood and adolescence. Sleep 1999;22:297-300. 
+12. Picchietti DL, England SJ, Walters AS, Willis K, Verrico T. Periodic 
+limb movement disorder and restless legs syndrome in children with 
+attention-deficit-hyperactivity disorder. Journal of Child Neurology 
+1998;13:588-94. 
+13. Guilleminault C, Pelayo R. Narcolepsy in prepubertal children. 
+Annals of Neurology 1998;43:135-42. 
+14. Dahl RE, Holttum J, Trubnick L. A clinical picture of child and adolescent 
+narcolepsy. Journal of the American Academy of Child & 
+Adolescent Psychiatry 1994;33:834-41. 
+15. Walters AS, Mandelbaum DE, Lewin DS, Kugler S, England SJ, 
+Miller M. Dopaminergic therapy in children with restless legs/periodic 
+limb movements in sleep and ADHD. Pediatr Neurol 2000;22:182-6. 
+16. Dahl RE. Narcolepsy in children and adolescents. Child Adolesc 
+Psychiatr Clin North Am 1996;5:649-59. 
+17. Chervin RD, Guilleminault C. Obstructive sleep apnea and related 
+disorders. Neurologic Clinics 1996;14:583-609. 
+18. Chervin RD, Aldrich MS. Characteristics of apneas and hypopneas 
+during sleep and relation to excessive daytime sleepiness. Sleep 
+1998;21:799-806. 
+19. Ring A, Stein D, Barak Y, Teicher A, Hadjez J, Elizur A, Weizman 
+A. Sleep disturbances in children with attention-deficit/hyperactivity 
+disorder: a comparative study with healthy siblings. Journal of Learning 
+Disabilities 1998;31:572-8. 
+20. Owens JA, Maxim R, Nobile C, McGuinn M, Msall M. Parental 
+and self-report of sleep in children with attention-deficit/hyperactivity 
+disorder. Arch Pediatr Adolesc Med 2000;154:549-55. 
+21. Kaplan BJ, McNicol J, Conte RA, Moghadam HK. Sleep disturbance 
+in preschool-aged hyperactive and nonhyperactive children. 
+Pediatrics 1987;80:839-44. 
+22. Corkum P, Tannock R, Moldofsky H. Sleep disturbances in children 
+with attention-deficit/hyperactivity disorder. Journal of the American 
+Academy of Child & Adolescent Psychiatry 1998;37:637-46. 
+23. Connors CK. A teacher rating scale for use in drug studies with 
+children. Am J Psychol 1969;126:884-8. 
+24. Conners CK, Barkley RA. Rating scales and checklists for child 
+psychopharmacology. Psychopharmacology Bulletin 1985;21:809-68. 
+25. Asher MI, Coates AL, Collinge JM, Milic-Emili J . Measurement of 
+pleural pressure in neonates. J Appl Physiol 1982;52:491-4. 
+26. Chervin RD, Aldrich MS. Effects of esophageal pressure monitoring 
+on sleep architecture. Am J Resp Crit Care Med 1997;156:881-5. 
+27. Rechtschaffen A, Kales A. A manual of standardized terminology, 
+SLEEP, Vol. 24, No. 3, 2001 319 Children and Sleep-Disordered Breathing—Chervin et al 
+
+
+techniques and scoring system for sleep stages of human subjects. Los 
+Angeles, CA: Brain Information Service/Brain Research Institute, 
+UCLA, 1968. 
+
+28. Greene MG, Carroll JL. Consequences of sleep-disordered breathing 
+in childhood. Current Opinion In Pulmonary Medicine 1997;3:45663. 
+29. Marcus CL, Omlin KJ, Basinski DJ, Bailey SL, Rachal AB, Von 
+Pechmann WS, Keens TG, Davidson-Ward SL. Normal polysomnographic 
+values for children and adolescents. Am Rev Respir Dis 
+1992;146:1235-9. 
+30. Gould GA, Whyte KF, Rhind GB, Airlie MA, Catterall JR, Shapiro 
+CM, Douglas NJ. The sleep hypopnea syndrome. Am Rev Respir Dis 
+1988;137:895-8. 
+31. Guilleminault C, Stoohs R, Clerk A, Cetel M, Maistros P. A cause 
+of excessive daytime sleepiness: the upper airway resistance syndrome. 
+Chest 1993;104:781-7. 
+32. Mathur R, Douglas NJ. Frequency of EEG arousals from nocturnal 
+sleep in normal subjects. Sleep 1995;18:330-3. 
+33. Guilleminault C, Stoohs R, Clerk A, Simmons J, Labanowski M. 
+Excessive daytime somnolence in women with abnormal respiratory 
+efforts during sleep. Sleep 1993;16:S137-S138. 
+34. Guilleminault C, Stoohs R, Kim Y, Chervin R, Black J, Clerk A. 
+Upper airway sleep-disordered breathing in women. Ann Intern Med 
+1995;122:493-501. 
+35. Chervin RD, Hedger KM, Dillon JE, Pituch KJ. Pediatric Sleep 
+Questionnaire (PSQ): validity and reliability of scales for sleep-disordered 
+breathing, snoring, sleepiness, and behavioral problems. Sleep 
+Med 2000;1:21-32. 
+36. Chervin RD, Kraemer HC, Guilleminault C. Correlates of sleep 
+latency on the multiple sleep latency test in a clinical population. 
+Electroencephalogr Clin Neurophysiol 1995;95:147-53. 
+37. American Sleep Disorders Association. International classification 
+of sleep disorders, revised: diagnostic and coding manual. Rochester, 
+MN: American Sleep Disorders Association, 1997. 
+38. Chervin RD, Aldrich MS. The relation between MSLT findings and 
+the frequency of apneic events in REM and NREM sleep. Chest 
+1998;113:980-4. 
+39. American Thoracic Society: Medical Section of the American Lung 
+Association. Standards and indications for cardiopulmonary sleep studies 
+in children. Am J Resp Crit Care Med 1996;153:866-78. 
+40. American Academy of Sleep Medicine Task Force. Sleep-related 
+breathing disorders in adults: recommendations for syndrome definition 
+and measurement techniques in clinical research. Sleep 1999;22:667-89. 
+41. American Thoracic Society. Cardiorespiratory sleep studies in children: 
+establishment of normative data and polysomnographic predictors 
+of morbidity. Am J Resp Crit Care Med 1999;160:1381-7. 
+42. Picchietti DL, Underwood DJ, Farris WA, Walters AS, Shah MM, 
+Dahl RE, Trubnick LJ, Bertocci MA, Wagner M, Hening WA. Further 
+studies on periodic limb movement disorder and restless legs syndrome 
+in children with attention-deficit hyperactivity disorder. Movement 
+Disorders 1999;14:1000-7. 
+43. Hennekens CH, Buring JE. Epidemiology in medicine. Boston, 
+MA: Little, Brown and Company, 1987. 
+44. Randazzo AC, Muehlbach MJ, Schweitzer PK, Walsh JK. 
+Cognitive function following acute sleep restriction in children ages 1014. 
+Sleep 1998;21:861-8. 
+45. Dahl RE. The impact of inadequate sleep on children’s daytime 
+cognitive function. Seminars in Pediatric Neurology 1996;3:44-50. 
+46. Dahl RE, Pelham WE, Wierson M. The role of sleep disturbances 
+in attention deficit disorder symptoms: a case study. J Pediatr Psychol 
+1991;16:229-39. 
+SLEEP, Vol. 24, No. 3, 2001 320 Children and Sleep-Disordered Breathing—Chervin et al 
+
+

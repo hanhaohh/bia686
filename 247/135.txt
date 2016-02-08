@@ -1,0 +1,980 @@
+Pediatric Pulmonology 42:374–379 (2007) 
+
+Nocturnal Body Position in Sleeping Children With 
+and Without Obstructive Sleep Apnea 
+
+1 1,2 1
+
+Ehab Dayyat, MD, Muna M.A. Maarafeya, MD, Oscar Sans Capdevila, MD, 
+Leila Kheirandish-Gozal, MD,1 Hawley E. Montgomery-Downs, PhD,3 and David Gozal, MD1* 
+
+Summary. Objectives: 
+To 
+assess 
+whether 
+body 
+position 
+during 
+sleep 
+differs 
+among 
+children 
+with 
+obstructive 
+sleep 
+apnea 
+(OSAS) 
+and 
+controls, 
+and 
+to 
+assess 
+the 
+effects 
+of 
+body 
+position, 
+obesity, 
+and 
+tonsillar 
+size 
+on 
+respiratory 
+disturbance. 
+Four 
+hundred 
+and 
+thirty 
+consecutive 
+children 
+with 
+polysomnographically 
+demonstrated 
+OSAS. 
+And 
+185 
+age-, 
+gender-, 
+and 
+ethnically 
+matched 
+children 
+(Controls) 
+were 
+compared. 
+The 
+effect 
+of 
+sleep 
+body 
+position 
+on 
+respiratory 
+disturbance 
+was 
+examined 
+in 
+OSAS, 
+and 
+also 
+in 
+relation 
+to 
+obesity 
+and 
+tonsillar 
+size. 
+Children 
+with 
+OSAS 
+spent 
+more 
+time 
+in 
+the 
+supine 
+position 
+than 
+Controls 
+(P 
+< 
+0.01), 
+with 
+less 
+time 
+spent 
+in 
+the 
+side 
+position 
+(P 
+< 
+0.005). 
+Obstructive 
+apnea 
+and 
+hypopnea 
+index 
+(AHI) 
+was 
+similar 
+in 
+the 
+three 
+sleep-
+related 
+positions, 
+but 
+apnea 
+index 
+(AI) 
+was 
+significantly 
+greater 
+(4.6 
+. 
+0.7/hr 
+TST) 
+in 
+the 
+supine 
+position 
+than 
+in 
+the 
+side 
+position 
+(2.7 
+. 
+0.3/hr 
+TST; 
+P 
+< 
+0.001) 
+or 
+prone 
+position 
+(3.3 
+. 
+0.5/hr 
+TST; 
+P 
+< 
+0.01). 
+Tonsillar 
+size 
+was 
+not 
+a 
+contributing 
+factor 
+to 
+positional 
+differences 
+in 
+AI 
+or 
+AHI. 
+Obese 
+OSAS 
+children 
+had 
+increased 
+prone 
+position 
+(20.4 
+. 
+2.0%TST 
+vs. 
+non-obese: 
+10.9 
+. 
+2.5%TST; 
+P 
+< 
+0.05), 
+and 
+displayed 
+increased 
+AHI 
+and 
+AI 
+while 
+supine. 
+Non-obese 
+OSAS 
+increased 
+AHI 
+in 
+prone 
+or 
+side 
+positions 
+compared 
+to 
+supine 
+(P 
+< 
+0.01), 
+with 
+no 
+significant 
+differences 
+in 
+position-
+dependent 
+AI. 
+Children 
+with 
+OSAS 
+spend 
+more 
+time 
+sleeping 
+supine 
+and 
+less 
+time 
+on 
+the 
+side. 
+Obese 
+children 
+with 
+OSAS 
+are 
+more 
+likely 
+to 
+sleep 
+prone, 
+suggesting 
+that 
+this 
+position 
+may 
+promote 
+upper 
+airway 
+patency 
+in 
+the 
+presence 
+of 
+obesity. 
+Although 
+tonsillar 
+size 
+is 
+not 
+associated 
+with 
+positional 
+differences 
+in 
+breathing, 
+the 
+presence 
+or 
+absence 
+of 
+obesity 
+markedly 
+modifies 
+the 
+effect 
+of 
+body 
+position 
+on 
+respiratory 
+disturbance. 
+Pediatr Pulmonol. 
+2007; 42:374–379. . 
+2007 
+Wiley-Liss, 
+Inc. 
+
+
+Key words: tonsils and adenoids; body position; sleep disordered breathing; sleep; 
+obesity. 
+
+INTRODUCTION 
+
+Obstructive sleep apnea syndrome (OSAS) is a highly 
+prevalent condition across the lifespan that is characterized 
+by episodic partial or complete upper airway obstruc-1Kosair Children’s Hospital Sleep Medicine and Apnea Center, Department 
+of Pediatrics, University of Louisville, Louisville, Kentucky. 
+
+tion during sleep, and affects approximately 1–3% of 
+children.1 The pathophysiological mechanisms mediating 
+
+2Hamad Medical Corporation, Doha, Qatar. 
+OSA in children are not yet fully delineated and are likely 
+to involve multiple contributions from anatomical, 3Department of Psychology, West Virginia University, Morgantown, 
+neuromuscular, and immunological elements.2 There is Virginia. 
+evidence to the presence of substantial night-to-night 
+
+Ehab Dayyat and Muna M.A. Maarafeya contributed equally to the work. 
+
+variability in the severity and frequency of respiratory 
+disturbances, suggesting that body position may play a 
+
+Grant sponsor: The National Institutes of Health; Grant numbers: HLrole.
+3,4 Indeed, the supine position is consistently 65270, F32 HL-074591. 
+associated with increased severity of the respiratory 
+*Correspondence to: David Gozal, MD, Kosair Children’s Hospital
+
+disturbance during sleep in adults with OSA,5 such that 
+
+Research Institute, University of Louisville School of Medicine, 570 S. 
+
+the respiratory disturbance index (RDI) has been reported 
+
+Preston Street, Suite 204, Louisville, KY 40202. 
+as 40–50% lower when adult patients with OSA lie on 
+
+E-mail: david.gozal@louisville.edu 
+their side compared to supine.5–14 
+In children however, substantial discrepancies have Received 18 October 2006; Revised 11 December 2006; Accepted 12 
+December 2006. 
+
+emerged from the several studies conducted thus far on 
+body position and respiratory disturbance during sleep. 
+
+DOI 10.1002/ppul.20590 
+For example, two separate studies showed that body 
+
+Published online 12 March 2007 in Wiley InterScience 
+position did not influence the frequency or severity of (www.interscience.wiley.com). 
+
+. 
+2007 Wiley-Liss, Inc. 
+
+respiratory events during sleep in children.15,16 In 
+contrast, children younger than 3 years of age being 
+evaluated for snoring had higher obstructive apnea 
+hypopnea index (AHI) in the supine position.17 Furthermore, 
+when Cuhadaroglu et al.18 evaluated the effect of 
+body position on the frequency of obstructive respiratory 
+events among 55 children with ages ranging between 3 and 
+9 years, their findings suggested that the supine position 
+was associated with improved AHI compared to the side 
+position in children with adenoid hypertrophy, but without 
+tonsillar hypertrophy. In contrast, children with adenotonsillar 
+hypertrophy breathed worse when they slept in 
+the supine position, thereby suggesting that body position 
+and anatomical factors such as tonsillar size may interact 
+and affect overall disease severity.18 Nevertheless, the 
+overall conflicting findings reported heretofore in snoring 
+children, and the discrepancies between the findings 
+emanating from studies in children and those of adult 
+populations suggested that the relatively small number of 
+patients thus far assessed and potential preferential 
+selection of body positions during sleep that reduce the 
+risk for upper airway obstruction and that could skew 
+polysomnographic findings, could have contributed to the 
+a priori disparate findings. Therefore, we conducted 
+the present study to test several related hypotheses, 
+namely (i) that children with OSA may preferentially 
+adopt the supine position compared to non-snoring 
+children if indeed such position is associated with a 
+reduced risk for upper airway obstruction as suggested by 
+some of the previous studies; (ii) that children with OSA, 
+the supine position will not affect the overall obstructive 
+respiratory disturbance except if obesity is concurrently 
+present; (iii) that the size of tonsils and the sleep position 
+do not interact to modify the severity of OSA in children. 
+To examine these issues, we conducted a retrospective 
+examination of polysomnographic findings in a large 
+cohort of children with OSA who were diagnosed in our 
+pediatric sleep center and also included an age-and gender 
+matched population of healthy children recruited from the 
+community. 
+
+SUBJECTS AND METHODS 
+
+The study was approved by the institutional review 
+board and the committee for the protection of Human 
+Subjects at the University of Louisville and at Kosair 
+Children’s Hospital. The study population included 
+all children between 1 and 18 years of age, evaluated 
+with an overnight polysomnographic evaluation (PSG) 
+from October 2001 till September 2005 for suspected 
+sleep-disordered-breathing (SDB) whose overnight polysomnographic 
+studies revealed a diagnosis of OSAS. The 
+clinical characteristics of these 430 OSAS patients were 
+documented from their clinic charts. Data extracted from 
+the sleep studies and clinical charts included age, gender, 
+
+Sleep Position in Pediatric OSAS 375 
+
+height, weight, ethnicity, and estimates of tonsillar size. 
+Mean tonsillar size was assessed by visual inspection and 
+scored on a scale of 0 (no enlargement) to 4 (kissing 
+tonsils).19 Of note, children were excluded if they had any 
+known chronic medical conditions, or suffered from any 
+genetic or craniofacial syndromes. 
+
+The diagnostic criteria for OSAS used in our study 
+included an apnea index (AI) greater than 2/hr TST, and/or 
+an obstructive apnea-hypopnea index greater than 5/hr 
+TSTwith a nadir oxygen saturationvalue of at least <92%. 
+Central and mixed apnea were not included in the 
+repiratory disturbance indices and were not further 
+analyzed due to their overall small contribution to the 
+respiratory disturbance index. However, central AI was 
+
+0.77 . 
+0.07/hr TST, and mixed AI was 0.27 . 
+0.03/hr 
+TST. 
+As control subjects, we included 185 non-snoring 
+children participating in a large community-based study in 
+Louisville, KY. This community-based cohort was agegender-
+ethnically matched with the patient cohort, and 
+their overnight PSG were within normal limits.20 
+
+Polysomnographic Evaluation 
+
+All subjects reported to the Sleep Laboratory around 
+
+7:30 pm, and the sleep studies began around 9:00– 
+9:30 pm. The following parameters were measured: chest 
+and abdominal wall movement by respiratory impedance 
+or inductance plethysmography, heart rate by ECG; air 
+flow with a sidestream end-tidal capnograph (PETCO2; 
+BCI SC-300, Menomonee Falls, WI) which also provided 
+breath-by-breath assessment of end-tidal carbon dioxide 
+levels, nasal pressure, and an oral-nasal airflow thermistor. 
+Arterial oxygen saturation (SpO2) was assessed by 
+pulse oximetry (Nellcor N 100; Nellcor, Inc., Hayward, 
+CA), with simultaneously recorded pulse waveform. 
+Bilateral electro-oculogram (EOG), eight channels of 
+electroencephalogram (EEG), chin and anterior tibial 
+electromyograms (EMG), and analog output from a 
+body position sensor (Braebon Medical Corporation, 
+Ogsdenburg, NY) were also monitored. All measures 
+were digitized using a commercially available computerized 
+PSG system (MedCare Diagnostics, Buffalo, NY). 
+Tracheal sound was monitored with a microphone sensor 
+(Sleepmate, Midlothian, VA) and digital time-synchronized 
+video images were collected. The sleep technician 
+followed patient behavior and confirmed sleep position by 
+the infra-red camera inside the room. All the studies were 
+initially scored by a certified technician and were then 
+reviewed by physicians experienced in pediatric polysomnography. 
+The scorer had no prior knowledge of the 
+physical examination findings in the upper airways of the 
+children. Sleep architecture was assessed by standard 
+techniques.21 The proportion of time spent in each sleep 
+stage was expressed as percentage of total sleep time 
+
+376 Dayyat et al. 
+
+(%TST). Central, obstructive and mixed apneic events TABLE 1— Demographic Characteristics of 430 Children 
+were counted. Obstructive apnea was defined as the with OSA and 185 Controls 
+absence of airflow with continued chest wall and OSAS Controls P-value 
+abdominal movement for duration of at least two 
+breaths.20,22 Hypopneas were defined as a decrease in 
+oronasal flow of 50% with a corresponding decrease in 
+SpO2 of 4% and/or arousal.20 The obstructive apnea/ 
+Age (years) (range) 6.5 . 
+0.2 (1–17) 6.3 . 
+0.4 (1–17) NS 
+Gender (% female) 40.3 40.5 NS 
+African American (%) 37 37 NS 
+BMI (kg/m2) 22.5 . 
+0.5 19.5 . 
+0.3 <0.0001 
+hypopnea index (AHI) was defined as the number of % Obese 47.4 8.2 <0.0001 
+apneas and hypopneas per hour of TST. The obstructive AI 
+was defined as the number of apneas per hour of TST. 
+NS, not significant. 
+The mean oxygen saturation, as measured by pulse 
+oximetry (SpO2) in the presence of a pulse waveform more time in the supine position (42.0 . 
+39.0%TST) 
+signal void of motion artifact, and the nadir SpO2 were compared to healthy children (33.4 . 
+25.6%TST; 
+recorded. In addition, the AI and AHI were computed for P 
+¼ 
+0.006; Table 3). In contrast, OSAS patients were less 
+time spent in the supine, side, and prone position for each likely to sleep on their side (42.5 . 
+35.4%TST vs. 
+child. 53.1 . 
+24.4%TST; P 
+< 
+0.0005), with no differences being 
+found in the percentage of time spent in the prone position 
+Body 
+Mass 
+Index 
+among the two groups (16.0 . 
+42.7%TST in OSAS vs. 
+BMI was calculated and also expressed as relative BMI 
+(relBMI), using the following formula: (BMI/BMI of the 
+50th percentile for age and gender) . 
+100, based on 
+13.5 . 
+16.9%TST in CO; P-not significant). There were 
+no differences in body position in either OSAS or CO 
+children in relation to age, gender or ethnicity. 
+standardized percentile curves.23 Obesity was defined as 
+BMI greater than the 95th percentile for gender and age. 
+Effect of Body Position on Respiratory 
+Data Analysis 
+Disturbance in OSAS Children 
+Data are presented as means . 
+SEM unless otherwise 
+indicated. All analyses were conducted using SPSS 
+software (version 11.5; SPPS, Inc., Chicago, IL). 
+Comparisons of demographics according to group assignment 
+were made with independent t 
+tests or analysis of 
+variance (ANOVA) followed by post-hoc 
+comparisons, 
+with P 
+values adjusted for unequal variances when 
+appropriate (Levene’s test for equality of variances), or 
+The mean AHI was 10.5 . 
+0.5/hr TST and the mean 
+obstructive AI was 3.7 . 
+0.3/hr TST for the 430 children 
+with OSAS. There were no significant differences in AHI 
+among the three sleep-related positions for the whole 
+cohort. However, AI in the supine position was significantly 
+greater (4.6 . 
+0.7/hr TST) when compared to 
+either AI in the side position (2.7 . 
+0.3/hr TST; P 
+< 
+0.001) 
+or the AI in the prone position (3.3 . 
+0.5/hr TST; 
+chi square (w 
+2) analyses with Fisher’s Exact Test 
+(dichotomous outcomes) when appropriate. All P-values 
+TABLE 2— Polysomnographic Findings in 430 Children 
+With OSAS and 185 Controls 
+reported are two-tailed with statistical significance set at 
+<0.05. OSAS Controls 
+(n ¼ 
+430) (n ¼ 
+185) P-value 
+RESULTS TST (min) 453.7 . 
+9.1 465.2 . 
+12.5 NS 
+Children With OSAS Versus Controls 
+Sleep efficiency (%) 88.6 . 
+0.5 90.3 . 
+0.6 NS 
+Stage 1 (%) 9.0 . 
+0.3 7.0 . 
+0.5 NS 
+Data were extracted for 430 children with a PSG 
+diagnosis of OSAS and 185 age-, gender-and ethnicity-
+Stage 2 (%) 43.1 . 
+0.8 39.7 . 
+1.1 <0.01 
+Slow wave sleep (%) 23.8 . 
+0.4 26.2 . 
+0.6 <0.01 
+REM sleep (%) 17.0 . 
+0.4 19.7 . 
+0.6 <0.01 
+matched controls (CO). The demographic characteristics AHI (/hr TST) 10.5 . 
+0.5 0.1 . 
+0.0 <0.000001 
+of these two groups are shown in Table 1. In general, Obstructive Apnea 3.7 . 
+0.3 0.0 . 
+0.0 <0.000001 
+OSAS children had higher BMI and were more likely to be 
+obese. Table 2 depicts the polysomnographic findings for 
+both OSAS and CO children. The percentage time spent in 
+Index (/hr TST) 
+SpO2 nadir (%) 82.1 . 
+0.6 94.2 . 
+0.2 <0.00001 
+SpO2 mean (%) 93.0 . 
+0.2 97.3 . 
+0.1 <0.0001 
+Mean EtCO2 (mmHg) 46.2 . 
+0.3 39.5 . 
+0.4 <0.0001 
+slow wave sleep and REM sleep was reduced in OSAS Total arousal index 14.5 . 
+0.7 9.7 . 
+0.5 <0.0001 
+children compared to controls. Furthermore, in addition to (/hr TST) 
+marked differences in obstructive AHI, OSAS children Respiratory arousal 6.6 . 
+0.4 0.1 . 
+0.1 <0.00001 
+had more severe hypoxemia, alveolar hypoventilation and index (/hr TST) 
+sleep fragmentation (as evidenced by higher total and All data are shown as mean . 
+SEM; NS, not significant; AHI, 
+respiratory arousal indices). OSAS children spent obstructive apnea-hypopnea index. 
+
+
+Sleep Position in Pediatric OSAS 377 
+
+TABLE 3— Percentage of Total Sleep Time Spent in Supine, 
+Prone and Side Positions by 430 Children With OSAS and 
+185 Matched Control Children 
+
+OSAS Controls P-value 
+Supine sleep (%TST) 42.0 . 
+39.0 33.4 . 
+25.6 0.006 
+Side sleep (%TST) 42.5 . 
+35.4 53.1 . 
+24.4 0.0002 
+Prone sleep % (%TST) 16.0 . 
+42.7 13.5 . 
+16.9 NS 
+
+P 
+< 
+0.01). There were no differences in AHI as a function 
+of body position across white Caucasian or African 
+American children. Similarly, gender did not affect the 
+effect of body position on the severity of respiratory 
+disturbance. 
+
+Sleep Position in OSAS Children: Effect of Obesity 
+
+Among the 430 children with OSAS, 204 (47.4%) 
+fulfilled the relative BMI > 
+95% criteria of obesity. When 
+sleeping position frequencies were compared between 
+obese and non-obese OSAS patients, obese children with 
+OSAS were more likely to adopt the prone position 
+
+(20.4 . 
+2.0%TST) during sleep when compared to non-
+obese children with OSAS (10.9 . 
+2.5%TST; P 
+< 
+0.005). 
+The increased proportion of sleep time spent in prone 
+position in obese children occurred in conjunction with 
+a reciprocal decrease in the side position sleep 
+(37.0 . 
+2.4%TST vs. 46.5 . 
+2.8%TST; P 
+< 
+0.01). There 
+were no significant differences in the overall %TST spent 
+in supine position (42.0 . 
+2.0%TST and 43.1 . 
+2.6%TST 
+for obese and non-obese respectively). 
+Effect of Body Position on Respiratory 
+Disturbance in Obese and Non-Obese 
+OSAS Children 
+
+Two hundred and four obese children with OSAS and 
+203 non-obese children with OSAS whose mean AHI and 
+AI were matched were identified to examine the effect of 
+obesity on position-dependent effect on respiratory 
+
+disturbances. The overall mean AHI and AI according to 
+body position during sleep in obese and non-obese 
+children is shown in Figure 1. Obese children displayed 
+increased AHI and AI in the supine position compared to 
+non-obese children (P 
+< 
+0.001). Conversely, non-obese 
+OSAS patients showed increased AHI in both the side and 
+prone positions when compared to the AHI in the supine 
+position (P 
+< 
+0.01). There were no differences in AI 
+among all three body positions during sleep among non-
+obese OSAS children. Stated differently, obese children 
+had near doubling of their AI and AHI from prone to 
+supine positions and such effect was absent in non-obese 
+children. Furthermore, using a general linear model 
+analysis, we found no evidence to support an effect of 
+age on the sleep position related effects on AHI among 
+obese children. Indeed, the effect of body position on 
+sleep-related respiratory disturbances remained 
+unchanged across the age spectrum. 
+
+Effect of Tonsillar Size on Respiratory 
+Disturbance in Relation to Sleeping Position 
+
+Categorical assignment of the OSAS cohort into five 
+groups based on tonsillar size failed to reveal any 
+significant differences in either AHI or AI as a function 
+of body position during sleep. For example, among 
+children with size four tonsils, AHI was similar in all 
+three positions; similarly, children with size two tonsils, 
+no differences emerged in the supine, prone, or side 
+positions. Of note, in children with size 0 tonsils, the 
+supine position was associated with higher AHI and AI 
+compared to either side or prone. However, this effect 
+disappeared when adjusted for BMI, because this latter 
+group included a large majority of obese children (86%). 
+
+DISCUSSION 
+
+In this study, we initially examined the distribution 
+of body position during sleep in children with OSAS and 
+age-, gender-and ethnically-matched controls. Our findings 
+indicate that children with OSAS spend increasing 
+
+
+Fig. 1. Effect of body position on respiratory disturbance indices in 204 obese (filled columns) 
+and 203 non-obese (open columns) children with OSAS. 
+
+
+378 Dayyat et al. 
+
+proportions of their sleep in the supine position and less 
+time in the side position compared to healthy children. 
+However, the presence of obesity markedly modifies the 
+overall distribution of body position through the night, 
+with obese children with OSAS spending increasing 
+proportions of their sleep in the prone position compared 
+to non-obese children. These latter findings suggest that 
+the prone position may promote upper airway patency in 
+the presence of obesity. 
+
+Before we address the significance of our findings, some 
+methodological issues require comment. The retrospective 
+nature of this study precludes the application of very 
+stringent methodologies for measurements of tonsillar 
+size and other observer dependent measures such as 
+scoring of polysomnographic respiratory disturbances 
+(considering that multiple scorers performed such tasks). 
+We should mention however, that in regards to the latter 
+potential limitation, the interscorer variability in the sleep 
+laboratory is monitored periodically and amounts to less 
+than 5%, such that interscorer variability contribution was 
+minimal at most. We could not accurately determine the 
+extent of adenoidal growth and relied on radiological 
+reports whenever available. Because of the relatively 
+inaccurate nature of such assessments, we opted not to 
+include them in our analyses. Furthermore, we were not 
+able to incorporate measures of nasal flow limitation and/ 
+or ascertain the presence of concomitant rhinitis. 
+
+The cumulative evidence thus far published on the 
+distribution of body position during sleep in children and 
+its effects on respiratory disturbance failed to incorporate 
+a pre-emptive comparison of potentially different preferences 
+of body position during sleep among children 
+with OSAS and those adopted by healthy matched 
+controls. Therefore, to the best of our knowledge this is 
+the first study to show that children who suffer from OSAS 
+are more likely to adopt the supine position during sleep 
+when compared to normal children. These findings are in 
+agreement with Pereira et al.17 and Cuhadaroglu et al.18 
+who reported in much smaller cohorts of children with 
+OSAS that the supine position is highly prevalent 
+throughout the night. In contrast with such findings 
+however, we identified a clear predilection for an 
+increased proportion of total sleep duration to be spent 
+in the prone position in obese children with OSAS, a 
+finding that suggests that the supine or side positions may 
+be operative as a risk factor for more severe respiratory 
+disturbance when obesity and OSAS co-exist in children, 
+and that such effect appears to be independent of age. This 
+assumption was further confirmed upon examination of 
+the severity of respiratory disturbance during sleep in 
+relation to position in obese and non-obese children with 
+OSAS. Thus, while the supine and side positions are 
+adopted during the vast majority of sleep duration in 
+OSAS and control children, modifications in the distribution 
+of sleep positions from one night to another could 
+
+clearly alter the magnitude of respiratory disturbance in 
+OSAS children, and therefore either aggravate the severity 
+(in case more percentage of sleep time occurred in the 
+supine position) or reduce the severity of sleep-disordered 
+breathing (if the prone position was adopted). This would 
+be particularly the case for the obstructive apneic events, 
+because our data support the notion that in otherwise 
+normal children with OSAS, the supine position adversely 
+affects the frequency of complete upper airway obstructions, 
+but does not appear to modify the overall magnitude 
+of the respiratory disturbance. Notwithstanding the 
+relatively sizable, albeit clinically irrelevant inter-night 
+variability observed in respiratory disturbance among 
+pediatric patients with OSAS,3,4 our study would clearly 
+justify giving consideration to the overall positional 
+distribution through the night during clinical interpretation 
+of polysomnographic studies in children. More 
+specifically, if the prone or side positions were overrepresented 
+in any particular study with borderline 
+findings in respiratory disturbance, an increased index of 
+suspicion to the potential presence of more severe OSAS 
+than actually revealed by the sleep study should be 
+applied. Another consideration that may need to be 
+incorporated in future studies is whether body position 
+distribution during sleep differs between sleep recorded in 
+the home versus sleep recorded in the sleep laboratory, 
+because this may have implications for severity estimates 
+of sleep disordered breathing based on our current 
+findings. 
+
+In a previous study, Goh et al.24 reported that the overall 
+sleep architecture is preserved in children with OSAS. The 
+current study partially challenges this concept considering 
+the subtle alterations in sleep architecture that emerged in 
+our cohort. Based on other work from our laboratory using 
+smaller numbers of participants, we surmise that the small, 
+albeit statistically significant, reflect small effects on sleep 
+architecture that are identifiable only when large cohorts 
+such as reported herein are studied25,26 
+
+In a previous study, the severity of AHI was reduced in 
+the supine position.16 Our findings clearly do not support 
+such a contention because the AHI was not different in any 
+given position. However, the AI was clearly worse in the 
+supine position similar to previous findings in adults,10-14 
+and this effect was also reported by a subsequent pediatric 
+study.18 We believe that the partitioning of our cohort into 
+obese and non-obese children may shed some light into the 
+discrepant conclusions reached thus far by the various 
+pediatric studies. Indeed, for non-obese and obese 
+children with OSAS with similar AHI, the supine position 
+was clearly worse for the obese children, although the 
+OAHI was lower in the supine position for the non-obese 
+children (Fig. 1). Thus, it is likely that the inconsistent 
+findings across pediatric studies may simply represent the 
+underlying disparities in the representation of children 
+with or without obesity in the various studies. This 
+
+
+contention is further supported by the rather strikingly 
+similar conclusions recently reported in adults with 
+OSAS.27 
+
+In contradistinction with a previous study,19 we did not 
+identify body position-tonsillar size relationships that 
+modified respiratory disturbance in our cohort. Indeed, 
+Cuhadaroglu et al. showed that when tonsils are 
+hypertrophic, the severity of breathing patterns is 
+worsened by the supine position.19 It is unclear whether 
+their findings merely reflected the contribution of obesity, 
+as shown by our analyses among those children with no 
+evidence of tonsillar hypertrophy in whom the positional 
+differences in AHI were primarily accounted by BMI 
+rather than tonsillar size. Notwithstanding such considerations, 
+it is clear that similar to adults, gravity is indeed a 
+major contributor to upper airway patency, particularly 
+when obesity is present. 
+
+In summary, differences in the distribution of body 
+position across the night emerge among children with 
+OSAS compared to healthy children. Moreover, obese 
+children with OSAS are more likely to adopt the prone 
+position, suggesting that this position may promote upper 
+airway patency in the presence of obesity. Although 
+tonsillar size is not associated with positional differences 
+in breathing disturbance, the presence or absence of 
+obesity markedly modifies the frequency of upper airway 
+obstructive events. 
+
+ACKNOWLEDGMENTS 
+
+This study was supported by the National Institutes of 
+Health (grant HL-65270), The Children’s Foundation 
+Endowment for Sleep Research, and the Commonwealth 
+of Kentucky Challenge for Excellence Trust Fund. 
+Dr Maarafeya was supported by a fellowship grant from 
+Hamad Medical Corporation. Dr. Montgomery-Downs 
+was supported by National Institutes of Health (grants F32 
+HL-074591). DG serves on the national speaker bureau for 
+Merck Company; LK is the recipient of an investigator-
+initiated grant by Astra-Zeneca. 
+
+REFERENCES 
+
+1. Gozal D, Kheirandish L. Disorders of breathing during sleep. In: 
+Chernick V, Boat T, Wilmott R, Bush A, editors. Kendig’s 
+disorders of the respiratory tract in children. Burlingham, MA: 
+Elsevier Ltd; 2006. pp 1046–1070. 
+2. Arens R, Marcus CL. Pathophysiology of upper airway obstruction: 
+A developmental perspective. Sleep 2004;27:997–1019. 
+3. Li AM, Wing YK, Cheung A, Chan D, Ho C, Hui S, Fok TF. Is a 
+2-night polysomnographic study necessary in childhood sleep-
+related disordered breathing? Chest 2004;126:1467–1472. 
+4. Katz ES, Greene MG, Carson KA, Galster P, 
+Loughlin GM, 
+Carroll J, Marcus CL. Night-to-night variability of polysomnography 
+in children with suspected obstructive sleep apnea. J 
+Pediatr 2002;140:589–594. 
+5. Cartwright RD. Effect of sleep position on sleep apnea severity. 
+Sleep 1984;7:110–114. 
+Sleep Position in Pediatric OSAS 379 
+
+6. Lerner 
+SA, Cecil WT. The effect of sleeping posture on 
+obstructive sleep apnea (Abstract). Chest 1984;86:327. 
+7. Phillips BA, Okeson J, Paesani D, Gilmore R. Effect on sleep 
+position on sleep apnea and parafunctional activity. Chest 
+1986;90:424–429. 
+8. Lloyd SR. The sleep position effect in sleep apnea as a continuous 
+variable. Sleep Res 1988;17:A14 (abstract). 
+9. Miki H, Hida W, Kikuchi Y, Takishima T. Effect of sleep position on 
+obstructive sleep apnea. Tohuku J Exp Med 1988;156:143–149. 
+10. Neill AM, Angus SM, Sajkov D, McEvoy RD. Effects of sleep 
+posture on upper airway stability in patients with obstructive sleep 
+apnea. Am J Respir Crit Care Med 1997;155:199–204. 
+11. Martin SE, Marshall I, Douglas NJ. The effect of posture 
+on 
+airway caliber with the sleep-apnea/hypopnea syndrome. Am 
+J Respir Crit Care Med 1995;152:721–724. 
+12. Oksenberg A, Silverberg DS. The effect of body posture on sleep-
+related breathing disorders: facts and therapeutic implications. 
+Sleep Med Rev 1998;2:139–162. 
+13. Bahammam AS, Tate R, Manfreda J, Kryger MH. Upper airway 
+resistance syndrome: Effect of nasal dilation, sleep stage, and 
+sleep position. Sleep 1999;22:592–598. 
+14. Penzel T, Moller M, Becker HF, Knaack L, Peter JH. Effect of 
+sleep position and sleep stage on the collapsibility of the upper 
+airways in patients with sleep apnea. Sleep 2001;24:90–95. 
+15. Orr WC, Stahl ML, Duke J, McCaffree MA, Toubas P, Mattice C, 
+Krous HF. Effect of sleep state and position on the incidence of 
+obstructive and central apnea in infants. Pediatrics 1985;75:832– 
+835. 
+16. Fernandes do Prado LB, Li X, Thompson R, Marcus CL. Body 
+position and obstructive sleep apnea in children. Sleep 2002; 
+25:66–71. 
+17. Pereira KD, Roebuck JC, Howell L. The effect of body position 
+on sleep apnea in children younger than 3 years. Arch 
+Otolaryngol Head Neck Surg 2005;131:1014–1016. 
+18. Cuhadaroglu C, Keles N, Erdamar B, Aydemir N, Yucel E, Oguz 
+F, Deger K. Body position and obstructive sleep apnea. Pediatr 
+Pulmonol 2003;36:335–338. 
+19. Brodsky L. Modern assessment of tonsils and adenoids. Pediatr 
+Clin North Am 1989;36:1551–1569. 
+20. Montgomery-Downs HE, O’Brien LM, Gulliver TE, Gozal D. 
+Polysomnographic characteristics in normal preschool and early 
+school-age children. Pediatrics 2006;117:741–753. 
+21. Rechtschaffen A, Kales A. A manual of standardized terminology, 
+techniques and scoring systems for sleep stages of human 
+subject. Washington DC: National Institutes of Health; 1968. Pul. 
+No. 204. 
+22. American 
+Thoracic Society. Standards and indications for 
+cardiopulmonary sleep studies in children. Am J Respir Crit 
+Care Med 1996;153:866–878. 
+23. Hammer LD, Kraemer HC, Wilson DM, Ritter PL, Dornbusch 
+SM. Standardized percentile curves of body mass index for 
+children and adolescents. AJDC 1991;145:259–263. 
+24. Goh DY, Galster P, Marcus CL. Sleep architecture and respiratory 
+disturbances in children with obstructive sleep apnea. Am 
+J Respir Crit Care Med 2000;162:682–686. 
+25. O’Brien LM, Mervis CB, Holbrook CR, Bruner JL, Smith NH, 
+McNally N, McClimment MC, Gozal D. Neurobehavioral 
+correlates of sleep disordered breathing in children. J Sleep Res 
+2004;13:165–172. 
+26. Montgomery-Downs HE, Crabtree VM, Gozal D. Cognition sleep 
+and respiration in at-risk children treated for obstructive sleep 
+apnea. Eur J Resp Dis 2005;25:336–342. 
+27. Akita S, Anraku K, Tanaka K, Yano H, Hirano A. Posture of 
+patients with sleep apnea during sleep. Acta Otolaryngol Suppl 
+2003; 41–45. 
+

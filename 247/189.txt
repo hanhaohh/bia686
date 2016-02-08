@@ -1,0 +1,609 @@
+Eur Respir J 2004; 23: 250–254 
+DOI: 10.1183/09031936.03.00022003 
+Printed in UK – all rights reserved 
+
+Copyright #ERS Journals Ltd 2004 
+European Respiratory Journal 
+ISSN 0903-1936 
+
+Effects of sex on sleep-disordered breathing in adolescents 
+
+
+´ 
+
+M.A. Fuentes-Pradera*,A.Sa´nchez-Armengol*, F. Capote-Gil*, E. Quintana-Gallego*, 
+C. Carmona-Bernal*, J. Polo}, F. Delgado-Moreno#, J. Castillo-Go´mez* 
+Effects of sex on sleep-disordered breathing in adolescents. M.A. Fuentes-Pradera, 
+A´
+.Sa´nchez-Armengol, F. Capote-Gil, E. Quintana-Gallego, C. Carmona-Bernal, 
+
+J. Polo, F. Delgado-Moreno, J. Castillo-Go´mez. #ERS Journals Ltd 2004. 
+ABSTRACT: This study was conducted to determine the influence of puberty on 
+features of sleep-disordered breathing (SDB) in adolescents. 
+
+The study was performed in a general population sample of 226 adolescents of both 
+sexes (aged 11–19 yrs) recruited from the secondary school population of the city of 
+Seville, Spain. Subjects were divided into two groups: 1) postpubertal, i.e. females who 
+had undergone menarche and males in whom axillary hair development or peak height 
+velocity had occurred w1 yr before the study; and 2) peripubertal, i.e. females who had 
+not undergone menarche and males who had not developed axillary hair nor reached 
+peak height velocity, or subjects in whom these pubertal changes had appeared v1yr 
+before the study. All subjects answered a questionnaire on SDB and underwent 
+overnight cardiorespiratory polygraphy. 
+
+There were 50 males and 40 females (mean¡SD age 13.5¡1.2 yrs) in the peripubertal 
+group, and 54 males and 82 females (age 16.3¡1.7 yrs) in the postpubertal group. 
+Males exhibited significantly higher neck circumference/height index and waist/hip 
+index than females in both the peripubertal and postpubertal groups. In the postpubertal 
+group, snoring and polygraphic alterations (respiratory events and oximetric 
+parameters) were significantly more frequent in males than in females. Postpubertal 
+adolescents showed sex differences in clinical and polygraphic parameters that were not 
+observed at earlier pubertal stages. 
+
+These findings support the influence of sex hormones on sex differences in sleep-
+disordered breathing. 
+Eur Respir J 2004; 23: 250–254. 
+
+*Medical-Surgical Unit of Respiratory Diseases 
+and #Service of Otorhinolaryngology, 
+Virgen del Roci´o University Hospital, and 
+
+}
+
+Dept of Statistics, Seville University, Seville, 
+Spain. 
+
+Correspondence: M.A. Fuentes-Pradera, Unidad 
+Me´dico Quiru´rgica de Enfermedades Respiratorias, 
+Hospital Universitario Virgen del 
+Roci´o, Manuel Siurot s/n, E-41013 Sevilla, 
+Spain. 
+Fax: 34 955 012199 
+E-mail: mangeles2001@jazzfree.com 
+
+Keywords: Adolescence 
+cardiorespiratory polygraphy 
+sleep-disordered breathing 
+
+Received: February 27 2003 
+Accepted after revision: September 4 2003 
+
+This study was supported by grants 38/96 and 
+247/97 from the Health Services (Government 
+of Andalusia, Seville, Spain) and the 
+RESPIRA Research Network (RTIC 03/11), 
+Health Institute "Carlos III", Madrid, Spain. 
+
+Sleep-disordered breathing (SDB) includes a broad range of 
+symptoms, from slight snoring to severe cases of obstructive 
+sleep apnoea syndrome. Population-based studies have linked 
+even mild SDB among adults with a higher number of traffic 
+accidents, cardiovascular disease and other adverse health 
+outcomes [1–3]. SDB has been assumed to be a condition 
+associated primarily with males. In clinical samples, the ratio 
+of males to females for prevalence of SDB has been 
+considered to be y10:1 [4, 5]. In general population samples, 
+it has been shown that sleep apnoea occurs more frequently 
+than assumed in females. Most estimates of the male/female 
+ratio in the general public are in the region of 2:1 or 3:1 [6–8]. 
+The reason for this sexual disparity is not fully understood; 
+however, it has been suggested that the risk factors and 
+mechanisms for the development of SDB, particularly in both 
+the structure and function of the upper airway, may differ 
+between males and females [9–13]. Sex hormones have also 
+been thought to influence the development of obstructive 
+sleep apnoea. It has been shown that menopause is a risk 
+factor for SDB and that hormone replacement therapy 
+modifies this risk [14]. Conversely, treatment with testosterone 
+has been reported to cause obstructive sleep apnoea in 
+males [15]. In addition, a case of a nonobese female with 
+clinically significant obstructive sleep apnoea and a benign 
+testosterone-producing ovarian tumour that resolved after 
+successful removal of the tumour, along with normalisation of 
+testosterone levels, has been reported [16]. 
+
+SDB in childhood has clinical, diagnostic and therapeutic 
+characteristics that are different from those found in adults 
+[17]; however, sex differences in the prevalence of SDB in 
+the paediatric age group have not been observed [18, 19]. 
+Alterations in upper airway morphology at puberty may play 
+a significant role in the development of SDB in early 
+adulthood [20]. In the adolescent population, however, there 
+is little information regarding the prevalence and clinical 
+expression of SDB [21]. The present study was, therefore, 
+performed to determine the influence of puberty on clinical, 
+anthropometric and polygraphic features related to SDB in a 
+general population sample of adolescents recruited from the 
+secondary school population of the city of Seville, Spain. 
+
+Methods 
+
+A cross-sectional study was carried out in a general 
+population sample of 226 adolescents of both sexes aged 
+11–19 yrs. In order to obtain a representative sample of the 
+general population of adolescents, a full official directory of 
+the 220 public and private secondary schools in the city of 
+Seville, Spain, was obtained. A total of 32 schools were 
+chosen randomly using a table of aleatory numbers. In each 
+school, all the subjects from the same classroom were 
+contacted. No inclusion or exclusion criteria based on the 
+absence or presence of previous or underlying diseases were 
+
+
+SLEEP-RELATED BREATHING DISORDERS IN ADOLESCENTS 
+
+established. The study was approved by the science and 
+education department of the autonomous government of 
+Andalusia. Written informed consent was obtained from 
+adolescents who voluntarily agreed to take part and from 
+their parents or legal guardians. The study included the 
+administration of a questionnaire for the investigation of 
+SDB symptoms, measurement of anthropometric parameters 
+and overnight home polygraphy. 
+
+The questionnaire consisted of 82 items (grouped into 
+demographics, salient features of family and personal history, 
+school performance, and nocturnal and daytime symptoms 
+suggestive of SDB), the details of which have been previously 
+described [21]. Symptoms were assessed according to a frequency 
+scale that included the following answers: "unknown", 
+"never", "rarely" 
+(f1 event?week-1), "sometimes" 
+(2 events? 
+week-1), and "often" 
+(o3 events?week-1). Snorers answered 
+"sometimes" 
+or "often" 
+for the question on snoring. Habitual 
+snoring was defined as snoring on w3 days?week-1. Other 
+symptoms, such as reported sleep apnoeas (stoppage of 
+breathing during sleep observed by parents) were assessed 
+using the same frequency scale and excessive daytime 
+sleepiness according to a three-degree scale: slight, moderate 
+and severe. Anthropometric measurements included weight, 
+height, and neck, waist and hip circumference, as previously 
+described [21]. The body mass index (BMI), defined as the 
+weight in kilograms divided by height squared in metres, and 
+the neck circumference-to-height and waist-to-hip perimeter 
+
+-2
+
+ratios were calculated. Subjects with a BMI of o28 kg?m 
+were considered obese. 
+
+Subjects were divided into two groups: 1) postpubertal, i.e. 
+females who had undergone menarche and males in whom 
+axillary hair development or peak height velocity had 
+occurred w1 yr before the study; and 2) peripubertal, i.e. 
+females who had not undergone menarche and males who had 
+not developed axillary hair nor reached peak height velocity, 
+or subjects in whom these pubertal changes had appeared 
+v1 yr before the study. 
+
+In all subjects, overnight home polygraphy was performed 
+using a portable ambulatory device (Apnoescreen II; Erich 
+Jaeger Gmbh & CoKg, Wu¨rzburg, Germany), with continuous 
+monitoring of oronasal airflow (thermistor), chest and 
+abdominal respiratory movements (thoracic and abdominal 
+belts), arterial oxygen saturation (Sa,O2; digital pulse oximetry), 
+cardiac frequency (digital probe), electrocardiography, 
+body position (mercury sensor) and actigraphy (wristband 
+with activity sensor). Analysis was carried out manually. The 
+following parameters were assessed: respiratory events, defined 
+as a decrease in oronasal airflow below a fixed threshold 
+(established as a flow whose intensity corresponds to 35 bytes 
+on the computer graphic scale) for o5 s; oxygen desaturation, 
+defined as a drop in Sa,O2 of o4% for o8 s; and cardiac 
+events, defined as a change in cardiac frequency of o10 beats? 
+min-1 for o10 s. Cardiac events were considered to be related 
+to respiratory events and/or desaturations if they occurred 
+simultaneously. Variables analysed were total recording (sleep) 
+time (TRT), TRT in the supine position (TRTsup), respiratory 
+disturbance index (RDI; respiratory events per hour), RDI 
+during TRTsup (RDIsup), oxygen desaturation index (ODI) 
+(number of oxygen desaturations per hour), and total number 
+of cardiac events concurrent with respiratory events and/or 
+oxygen desaturation. 
+
+Statistical analysis 
+
+All results are expressed as mean¡SD. The unpaired two-
+tailed t-test was used for comparison of quantitative variables 
+and the Chi-squared test (with Fisher9s exact test when 
+
+necessary) for comparison of categorical variables between 
+peripubertal and postpubertal adolescents. Analysis of covariance 
+(ANCOVA) was used to compare RDI (independent 
+variable) between males and females in the postpubertal 
+group after adjusting for age, BMI and waist/hip index. 
+Significance was set at pv0.05. 
+
+Results 
+
+The target population was made up of 933 subjects, of 
+whom 394 (42.2%) refused to participate in the study. Of the 
+remaining 539, 313 (33.5%) refused to undergo overnight 
+polygraphy but completed a few items of the questionnaire. 
+Thus the study population comprised 226 (24.2%) subjects. 
+There were no differences between the 313 unincluded subjects 
+and the 226 adolescents included in male/female ratio 
+(149/164 versus 104/122), age (14.5¡2.2 versus 14.9¡2.0 yrs), 
+or frequency of snoring (18.4 versus 26.5%), witnessed apnoeas 
+
+(4.1 versus 3.1%) or sleepiness (33.8 versus 30.1%). 
+Of the 226 included adolescents, aged 14.9¡2.0 yrs, 104 
+were male and 122 were female; 19¡8.4% were obese. At 
+menarche and at onset of development of secondary sexual 
+characteristics, females and males were aged 11.8¡1.1 and 
+13¡1.3 yrs, respectively. Sixty subjects were classified as 
+snorers and 35 as habitual snorers. The frequency distribution 
+of anthropometric, clinical and polygraphic variables in the 
+study population is shown in table 1. 
+
+Sex differences in the peripubertal group 
+
+The peripubertal group included 90 subjects, 55.5% male 
+and 43.4% female, aged 13.5¡1.2 and 13.1¡0.8 yrs, respectively. 
+Menarche or development of secondary sexual 
+characteristics had not occurred in 30 of the adolescents, 
+whereas, in the remaining 60, these changes had occurred 
+within the year prior to the study. There were no differences 
+between males and females in anthropometric, clinical and 
+polygraphic variables, except for significantly higher neck 
+
+Table 1. – Frequency distribution of anthropometric, clinical 
+and polygraphic variables in 226 adolescents 
+
+Anthropometric parameters 
+Age yrs 14.9¡2.0 
+BMI kg?m-2 21.8¡3.6 
+Obesity n (%) 19 (8.4) 
+Neck circumference/height index 0.19¡0.02 
+Waist/hip index 0.78¡0.07 
+
+Salient symptoms 
+Snoring n (%) 60 (26.5) 
+Habitual snoring n (%) 35 (15.6) 
+Reported sleep apnoeas n (%) 7 (3.1) 
+Excessive daytime sleepiness n (%) 68 (30.1) 
+
+Polygraphic findings 
+TRT min 539.2¡67.7 
+TRTsup min 297.2¡118.2 
+Baseline Sa,O2 % 97¡
+0.6 
+Sa,O2 nadir % 89.4¡4.3 
+TRT at Sa,O2 of v90% 0.15¡0.63 
+ODI 1.55¡1.97 
+RDI 2.38¡1.87 
+Cardiac events# 15.9¡11.4 
+
+Data are presented as mean¡SD. BMI: body mass index; TRT: total 
+recording time; TRTsup: TRT in the supine position; Sa,O2: arterial 
+oxygen saturation; ODI: oxygen desaturation index; RDI: respiratory 
+disturbance index. #: concurrent with respiratory event and/or oxygen 
+desaturation. 
+
+
+M.A. FUENTES-PRADERA ET AL. 
+circumference/height index and waist/hip index in males compared 
+to females, and excessive daytime sleepiness in females 
+compared to males (table 2). The frequency of excessive 
+daytime sleepiness was significantly higher in the postpubertal 
+group than in the peripubertal group (37 versus 20%, p=0.04). 
+
+Sex differences in the postpubertal group 
+
+The postpubertal group included 136 subjects, 39.7% male 
+and 60.3% female, aged 16.3¡1.7 and 15.6¡1.9 yrs, respectively. 
+The study was carried out 3.3¡1.1 yrs after axillary 
+hair development and peak height velocity in males, and 
+4.1¡1.9 yrs after menarche in females (range 2–8 yrs). With 
+regard to anthropometric variables, males compared to females 
+exhibited significantly higher neck circumference/height index 
+and waist/hip index (table 2). Conversely, the frequency of 
+snoring was significantly higher in males, whereas headache 
+was significantly higher in females. Results of cardiorespiratory 
+polygraphy showed significant differences in favour of 
+males, i.e. higher RDI, RDIsup, ODI and number of cardiac 
+events and lower baseline Sa,O2 and Sa,O2 nadir (table 2). On 
+ANCOVA, differences between males and females in RDI 
+remained after controlling for age (p=0.019) and BMI 
+(p=0.045). However, after adjusting for waist/hip index, sex 
+differences in RDI were not observed. 
+
+Discussion 
+
+The present results indicate that, in adolescents at advanced 
+stages of sexual maturation, there are differences between 
+males and females in the frequency of some symptoms related 
+to SDB, such as snoring, as well as in the frequency and 
+severity of cardiorespiratory polygraphy alterations. These 
+features were not found among adolescents who were in an 
+early phase of puberty. 
+
+It is well known that the clinical and polysomnographic 
+
+characteristics of SDB are different in the various stages 
+of life. In childhood, the mean prevalence of SDB is y2%, 
+without sex differences. In adulthood, population-based studies 
+showed a prevalence of SDB that was higher in males than in 
+females, particularly in the 30–60-yr stratum [22]. Some 
+authors have recently shown an increase in the prevalence of 
+SDB in females after the menopause. Since the mid-1980s, 
+there has been progressive interest shown in the scientific 
+literature regarding the effect of sex hormones on SDB, 
+although results of early studies based on small study series 
+were unclear [23, 24]. Recently, BIXLER et al. [14] provided 
+epidemiological evidence for a lower prevalence of SDB in 
+postmenopausal females using hormone replecement therapy 
+than in nonusers. Studies in the elderly population revealed a 
+high frequency of SDB, and it has been shown that sex 
+differences in the prevalence of SDB decrease as age increases 
+[6]. These findings support a protective effect of female sex 
+hormones on some of the pathogenetic factors related to 
+SDB. Conversely, increased testosterone levels have been 
+associated with exacerbation or occurrence of obstructive 
+sleep apnoea in a few adult male and female cases [15, 16]. It 
+has been speculated that testosterone may influence neuromuscular 
+control of the upper airway and the central pattern 
+of body fat distribution that have been related to SDB in 
+adulthood. 
+
+In contrast to the evidence of the effect of age and sex on 
+SDB in adult population groups, in the adolescent population, 
+as far as the present authors are aware, the influence of 
+sex hormones on sex differences in SDB has not been 
+examined previously. With regard to methodological aspects, 
+the strengths of the study include the participation of a 
+general population sample of 226 adolescents aged 11–19 yrs 
+and performance of overnight polygraphy in all subjects. For 
+logistical purposes and to avoid refusals related to blood 
+sample testing, arbitrary clinical criteria were used to classify 
+subjects into the peripubertal and postpubertal groups 
+[25-28], rather than serum hormone levels. This is a limitation 
+of the study and should be taken into account in interpreting 
+
+Table 2. – Differences between males and females in the frequency distribution of anthropometric, clinical and polygraphic 
+variables in the peripubertal and postpubertal adolescent groups 
+
+Peripubertal Postpubertal 
+Males Females p-value Males Females p-value 
+Subjects n 50 40 54 82 
+Anthropometric parameters 
+Age yrs 13.5¡1.2 13.1¡0.8 NS 16.3¡1.7 15.6¡1.9 0.01 
+BMI kg?m -2 21.3¡3.8 21.9¡3.9 NS 22.6¡3.5 21.6¡3.3 NS 
+Obesity n (%) 3 (6.1) 4 (10.0) NS 6 (11.1) 6 (7.3) NS 
+Neck circumference/height index 0.20¡0.01 0.19¡0.003 0.01 0.20¡0.01 0.19¡0.01 0.001 
+Waist/hip index 0.85¡0.06 0.76¡0.05 0.000 0.80¡0.06 0.73¡0.04 0.000 
+Salient symptoms 
+Habitual snoring n (%) 8 (16.0) 7 (17.5) NS 12 (22.2) 8 (9.9) 0.04 
+Reported sleep apnoeas n (%) 1 (2.3) 4 (12.5) NS 1 (2.8) 1 (2.0) NS 
+Excessive daytime sleepiness n (%) 6 (12) 12 (30) 0.03 20 (37) 30 (37) NS 
+Polygraphic findings 
+TRT min 549.3¡50.4 541.7¡59.0 NS 554.2¡73.3 522.1¡73.7 NS 
+Baseline Sa,O2 % 96.8¡0.7 97.1¡0.7 NS 96.9¡0.7 97.1¡0.6 0.05 
+Sa,O2 nadir % 88.9¡3.6 89.0¡3.7 NS 88.5¡3.6 90.4¡5.3 0.02 
+TRT at Sa,O2 of v90% 0.11¡0.25 0.08¡0.21 NS 0.17¡0.40 0.19¡0.97 NS 
+ODI 1.56¡2.27 1.67¡2.00 NS 1.96¡1.86 1.21¡1.77 0.02 
+RDI 2.69¡1.69 2.34¡1.58 NS 2.74¡1.90 1.98¡1.95 0.03 
+RDIsup 4.88¡2.97 4.51¡3.82 NS 7.13¡6.46 4.30¡4.86 0.008 
+Cardiac events# 18.80¡14.60 18.27¡12.00 NS 17.84¡9.50 11.82¡8.50 0.000 
+
+Data are presented as mean¡SD. BMI: body mass index; TRT: total recording time; Sa,O2: arterial oxygen saturation; ODI: oxygen desaturation 
+index; RDI: respiratory disturbance index; RDIsup: RDI in the supine position; NS: nonsignificant. #: concurrent with respiratory event and/or 
+oxygen desaturation. 
+
+
+SLEEP-RELATED BREATHING DISORDERS IN ADOLESCENTS 
+
+the results. Another methodological aspect that should be 
+emphasised is that, rather than employing nasal prongs or an 
+intraoesophageal catheter to monitor airflow, a thermistor 
+was used. This does not invalidate the differences that were 
+found in respiratory events between the two groups, although 
+it is possible that some respiratory events associated with flow 
+limitation might not have been detected. 
+
+Of the adolescents,y15% were considered habitual snorers. 
+This figure is similar to that reported by others for paediatric 
+groups and student populations [18, 19, 29, 30]. Sex differences 
+in the peripubertal group were not observed, but the 
+frequency of habitual snorers was significantly higher among 
+males than among females in the postpubertal group. These 
+results may indicate that well-established clinical differences 
+in adult subjects become evident at puberty. The frequency of 
+daytime hypersomnolence was significantly higher in females 
+than in males in the peripubertal group, whereas sex differences 
+in excessive daytime sleepiness in the postpubertal 
+group were not found. However, it is known that the cause of 
+daytime hypersomnolence in adolescents is multifactorial [31, 
+32]. Adolescence delays the "sleep-on" 
+setting in the biological 
+clock with a trend towards going to bed and waking up late, 
+which cannot be accomplished within the scholarly timetable, 
+and results in a cumulative sleep debt, leading to adolescent 
+daytime sleepiness. 
+
+Data regarding respiratory pattern in general population 
+samples of adolescents are lacking, and, in most series, broader 
+age ranges are included, subjects are selected according to 
+certain characteristics, such as obesity, or polygraphy is only 
+carried out on a subset of the participants [33, 34]. Sex 
+differences in the peripubertal group regarding polygraphic 
+alterations were not observed. However, a higher number of 
+respiratory events on polygraphy were observed in postpubertal 
+males than females. The same trend was observed for 
+oximetric parameters. Sex differences in polygraphic alterations 
+in the postpubertal group were not due to age or BMI, 
+but differences disappeared after adjusting for waist/hip 
+index, which indicates that body fat distribution, assessed 
+by the waist-to-hip ratio, may have had an effect on the 
+results obtained. However, it seems likely that, in adolescents 
+in advanced stages of pubertal development, other anatomical 
+factors, such as craniofacial alterations or nasal obstruction, 
+which could be present from childhood, or functional ones, 
+may account for the lower pharyngeal collapsibility among 
+females. 
+
+In summary, postpubertal adolescents showed sex differences 
+in clinical and polygraphic parameters related to sleep-
+disordered breathing that were not observed at earlier 
+pubertal stages. These findings, which need to be confirmed 
+in longitudinal studies, support the influence of sex hormones 
+on sex differences in sleep-disordered breathing that seem to 
+become apparent at the time of sexual maturation. 
+
+Acknowledgements. The authors would like to 
+thank M. Pulido for editing the manuscript and 
+editorial assistance. 
+
+References 
+
+1. 
+Masa JF, Rubio M, Findley LJ. Habitually sleepy drivers 
+have a high frequency of automobile crashes associated with 
+respiratory disorders during sleep. Am J Respir Crit Care 
+Med 2000; 162: 1407–1412. 
+2. 
+Nieto FJ, Young TB, Lind BK. Association of sleep-
+disordered breathing, sleep apnea, and hypertension in a 
+large community-based study: Sleep Heart Health Study. 
+JAMA 2000; 283: 1829–1836. 
+3. 
+Peppard P, Young T, Palta M, Skatrud J. Prospective study 
+of the association between sleep-disordered breathing and 
+hypertension. N Engl J Med 2000; 342: 1378–1384. 
+4. 
+Block AJ, Boysen PG, Wynne JW, Hunt LA. Sleep apnea, 
+hypopnea, and oxygen desaturation in normal subjects.N 
+Engl J Med 1979; 300: 513–517. 
+5. 
+Guilleminault C, Quera-Salva MA, Partinen M, Jamieson A. 
+Women and the obstructive sleep apnea syndrome. Chest 
+1988; 93: 104–109. 
+6. 
+Bixler EO, Vgontzas AN, Ten Have T, Tyson K, Kales A. 
+Effects of age on sleep apnoea in men: I. Prevalence and 
+severity. Am J Respir Crit Care Med 1998; 157: 144–148. 
+7. 
+Young T, Palta M, Dempsey J, Skatrud J, Weber S, Badr S. 
+The occurrence of sleep-disordered breathing among middle-
+aged adults. N Engl J Med 1993; 328: 1230–1235. 
+8. 
+Dura´n J, Esnaola S, Rubio R, Iztueta A. Obstructive sleep 
+apnea-hypopnea and related clinical features in a population-
+based sample of subjects aged 30 to 70 yr. Am J Respir 
+Crit Care Med 2001; 163: 685–689. 
+9. 
+Chervin RD. Sleepiness, fatigue, tiredness, and lack of 
+energy in obstructive sleep apnea. Chest 2000; 118: 372–379. 
+10. 
+Young T, Hutton R, Finn L, Badr S, Palta M. The gender 
+bias in sleep apnea diagnosis. Are women missed because 
+they have different symptoms? Arch Intern Med 1996; 156: 
+2445–2451. 
+11. 
+Mohsenin V. Gender differences in the expression of sleep-
+disordered breathing. Role of upper airway dimensions. 
+Chest 2001; 120: 1442–1447. 
+12. 
+Pillar G, Malhotra A, Fogel R, Beauregard J, Schnall R, 
+White D. Airway mechanics and ventilation in response to 
+resistive loading during sleep: influence of gender.Am J 
+Respir Crit Care Med 2000; 162: 1627–1632. 
+13. 
+Popovic R, White D. Upper airway muscle activity in normal 
+women: influence of hormonal status. J Appl Physiol 1998; 
+84: 1055–1062. 
+14. 
+Bixler EO, Vgontzas AN, Lin HM, et al. Prevalence of sleep-
+disordered breathing in women. Effects of gender.AmJ 
+Respir Crit Care Med 2001; 163: 608–613. 
+15. 
+Dexter DD, Dovre EJ. Obstructive sleep apnea due to 
+endogenous testosterone production in a woman. Mayo Clin 
+Proc 1998; 73: 246–248. 
+16. 
+Cistulli PA, Grunstein RR, Sullivan CE. Effect of testosterone 
+administration on upper airway collapsibility during 
+sleep. Am J Respir Crit Care Med 1994; 149: 530–532. 
+17. 
+Rosen C, D9Andrea L, Haddad G. Adult criteria for 
+obstructive sleep apnea do not identify children with serious 
+obstruction. Am Rev Respir Dis 1992; 146: 1231–1234. 
+18. 
+Teculescu D, Caillier I, Perrin P, Rebstock E, Rauch A. 
+Snoring in French preschool children. Pediatr Pulmonol 
+1992; 13: 239–244. 
+19. 
+Gaultier C. Obstructive sleep apnea in infants and children: 
+established facts and unsettled issues. Thorax 1995; 50: 1204– 
+1210. 
+20. 
+Guilleminault C, Partinen M, Praud JP, Quera-Salva MA, 
+Powell N, Riley R. Morphometric facial changes and 
+obstructive sleep apnea in adolescents. J Pediatrics 1989; 
+114: 997–999. 
+21. 
+Sa´nchez-Armengol A, Fuentes-Pradera MA, Capote-Gil F, 
+et al. Sleep-related breathing disorders in adolescents aged 12 
+to 16 years. Clinical and polygraphic findings. Chest 2001; 
+119: 1393–1400. 
+22. 
+Young T, Peppard PE, Gottlieb DJ. Epidemiology of 
+obstructive sleep apnea. A population health perspective. 
+Am J Respir Crit Care Med 2002; 165: 1217–1239. 
+23. 
+Cistulli PA, Barnes DJ, Grunstein RR, Sullivan CE. Effect 
+of short-term hormone replacement in the treatment of 
+obstructive sleep apnoea in postmenopausal women. Thorax 
+1994; 49: 699–702. 
+24. 
+Pickett CK, Regensteiner JG, Woodard WD, Hagerman 
+DD, Weil JV, Moore LG. Progestin and estrogen reduce 
+sleep-disordered breathing in postmenopausal women. J Appl 
+Physiol 1989; 66: 1656–1661. 
+
+M.A. FUENTES-PRADERA ET AL. 
+25. 
+Cortes Blanco A, Ferrandez Longas A, Mayayo Dehesa E, 
+Labarta Aizpun JI. Valores de referencia de FSH, LH, 
+testosterona total, testosterona libre, 17-b-estradiol y SHBG 
+en nin˜os sanos zaragozanos. An Esp Pediatr 1999; 51: 159–166. 
+26. 
+Guvenc H, Guvenc M, Berki R. Serum gonadotropins and 
+estradiol levels in Turkish pubertal girls. Indian J Pediatr 
+1990; 57: 421–423. 
+27. 
+Kulik-Rechberger B, Rechberger T. Leptin as a trigger for 
+puberty in girls. Ginekol Pol 2001; 72: 535–540. 
+28. 
+Fechner PY. Gender differences in puberty. J Adolesc Health 
+2002; 30: 4 Suppl. 1, 44–48. 
+29. 
+Redline S, Tishler PV, Schluchter M, Aylor J, Clark K, 
+Graham G. Risk factors for sleep-disordered breathing in 
+children. Associations with obesity, race, and respiratory 
+problems. Am J Respir Crit Care Med 1999; 159: 1527–1532. 
+30. 
+Hui D, Chan J, Ho A, Choy D, Lai C, Leng R. Prevalence of 
+snoring and sleep-disordered breathing in a student population. 
+Chest 1999; 116: 1530–1536. 
+31. 
+Carskadon M, Vieira C, Acebo C. Association between 
+puberty and delayed phase preference. Sleep 1993; 16: 258– 
+262. 
+32. 
+Gau SF, Soong WT. Sleep problems of junior high school 
+students in Taipei. Sleep 1995; 18: 667–673. 
+33. 
+Acebo C, Millman RP, Rosenberg C, Cavallo A, Carskadon 
+M. Sleep, breathing, and cephalometrics in older children 
+and young adults. Part I – Normative values. Chest 1996; 
+109: 664–672. 
+34. 
+Marcus C, Omlin K, Basinki D, et al. Normal polysomnographic 
+values for children and adolescents. Am Rev Respir 
+Dis 1992; 146: 1235–1239. 
+

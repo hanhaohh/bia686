@@ -1,0 +1,2157 @@
+Leukotriene 
+Modifier 
+Therapy 
+for 
+Mild 
+Sleep-disordered 
+Breathing 
+in 
+Children 
+
+
+Aviv 
+D. 
+Goldbart, 
+Julie 
+L. 
+Goldman, 
+Maria 
+C. 
+Veling, 
+and 
+David 
+Gozal 
+
+
+Kosair 
+Children’s 
+Hospital 
+Research 
+Institute, 
+Department 
+of 
+Pediatrics; 
+Division 
+of 
+Ear, 
+Nose, 
+and 
+Throat, 
+Department 
+of 
+Surgery; 
+and 
+Department 
+of 
+Pharmacology 
+and 
+Toxicology, 
+University 
+of 
+Louisville, 
+Louisville, 
+Kentucky 
+
+
+Background: 
+Children 
+with 
+mild 
+sleep-disordered 
+breathing 
+(SDB), 
+who 
+may 
+not 
+be 
+recommended 
+for 
+adenotonsillectomy, 
+frequently 
+exhibit 
+neurocognitive 
+and 
+behavioral 
+morbidity, 
+and 
+may 
+benefit 
+from 
+alternative 
+therapeutic 
+interventions, 
+such 
+as 
+leukotriene 
+modifier 
+therapy. 
+Methods: 
+Twenty-four 
+children 
+with 
+SDB 
+completed 
+an 
+open-label 
+intervention 
+study 
+for 
+16 
+weeks 
+with 
+daily 
+montelukast 
+therapy. 
+Sleep 
+studies 
+and 
+adenoid 
+size 
+estimates 
+from 
+lateral 
+X-ray 
+films 
+of 
+the 
+neck 
+were 
+obtained 
+before 
+and 
+after 
+treatment. 
+In 
+a 
+parallel 
+study, 
+adenoid 
+and 
+tonsillar 
+tissues 
+from 
+children 
+with 
+obstructive 
+sleep 
+apnea 
+or 
+recurrent 
+throat 
+infections 
+were 
+subjected 
+to 
+quantitative 
+polymerase 
+chain 
+reaction, 
+immunohistochemistry, 
+and 
+Western 
+blotting 
+for 
+gene 
+and 
+protein 
+expression 
+of 
+leukotriene 
+receptors 
+LT1-R 
+and 
+LT2-R, 
+and 
+for 
+concentrations 
+of 
+LTB4 
+and 
+LTC4/D4/E4. 
+Results: 
+Montelukast 
+treatment 
+induced 
+significant 
+reductions 
+in 
+adenoid 
+size 
+and 
+respiratory-related 
+sleep 
+disturbances, 
+which 
+were 
+absent 
+in 
+16 
+children 
+with 
+SDB 
+who 
+did 
+not 
+receive 
+treatment. 
+LT1-R 
+and 
+LT2-R 
+mRNA 
+was 
+similarly 
+abundant 
+in 
+adenoid 
+tissues, 
+but 
+increased 
+LT1-R 
+and 
+LT2-R 
+protein 
+expression 
+and 
+higher 
+levels 
+of 
+LTB4 
+and 
+LTC4/D4/E4 
+emerged 
+in 
+children 
+with 
+obstructive 
+sleep 
+apnea. 
+Conclusions: 
+Oral 
+therapy 
+with 
+a 
+leukotriene 
+modifier 
+appears 
+to 
+be 
+associated 
+with 
+improved 
+breathing 
+during 
+sleep. 
+Double-blind, 
+placebo-controlled 
+trials 
+will 
+be 
+needed 
+to 
+corroborate 
+current 
+findings 
+and 
+solidly 
+establish 
+antiinflammatory 
+strategies, 
+such 
+as 
+leukotriene 
+modifiers,as 
+therapeutic 
+alternatives 
+in 
+children 
+with 
+SDB 
+too 
+mild 
+to 
+justify 
+referral 
+for 
+adenotonsillectomy. 
+
+
+Keywords: 
+leukotriene 
+receptors; 
+lymphoid 
+hyperplasia; 
+sleep 
+apnea; 
+adenotonsillectomy; 
+tonsils 
+
+
+Obstructive sleep apnea (SA) is a common and highly prevalent 
+disorder in the pediatric age range, affecting 2 to 3% of all 
+children (1). This disorder is usually due, at least in part, to 
+adenotonsillar hypertrophy (2, 3). If left untreated, SA can result 
+in serious morbidity, primarily affecting neurobehavioral and 
+cardiovascular systems (4–11). Thus, adenotonsillectomy (T&A) 
+is currently the most common treatment for children with SA 
+(12). However, although definitive polysomnographic criteria 
+are not available, T&A is usually reserved for children whose 
+respiratory disturbance (apnea–hypopnea index [AHI]) during 
+sleep exceeds 5 events/hour of sleep. Although most clinicians 
+agree that snoring children with an AHI of less than 1 event/ 
+hour of sleep do not require any intervention, there is presently 
+no consensus on the appropriate management of children with 
+
+(Received 
+in 
+original 
+form 
+August 
+16, 
+2004; 
+accepted 
+in 
+final 
+form 
+May 
+2, 
+2005) 
+
+
+Supported 
+by 
+grants 
+from 
+the 
+National 
+Institutes 
+of 
+Health 
+HL62570, 
+HL63912, 
+HL69932, 
+and 
+by 
+the 
+Commonwealth 
+of 
+Kentucky 
+Challenge 
+for 
+Excellence 
+Trust 
+Fund 
+(D.G.). 
+
+
+Correspondence 
+and 
+requests 
+for 
+reprints 
+should 
+be 
+addressed 
+to 
+David 
+Gozal, 
+M.D., 
+Kosair 
+Children’s 
+Hospital 
+Research 
+Institute, 
+University 
+of 
+Louisville, 
+570 
+South 
+Preston 
+Street, 
+Suite 
+321, 
+Louisville, 
+KY 
+40202. 
+E-mail: 
+david.gozal@louisville.edu 
+
+
+Am 
+J 
+Respir 
+Crit 
+Care 
+Med 
+Vol 
+172. 
+pp 
+364–370, 
+2005 
+Originally 
+Published 
+in 
+Press 
+as 
+DOI: 
+10.1164/rccm.200408-1064OC 
+on 
+May 
+5, 
+2005 
+Internet 
+address: 
+www.atsjournals.org 
+
+
+an AHI of more than 1 but less than 5 events/hour of sleep, 
+even if such children are at risk for associated morbidity (13). 
+
+Nonsurgical antiinflammatory approaches have been cautiously 
+advocated for SA in children (14, 15). Indeed, nasal 
+and oropharyngeal mucosal inflammation are present in adult 
+patients with obstructive sleep apnea syndrome (16–19), and 
+C-reactive protein, a systemic marker for inflammation, was 
+recently reported to be increased in the serum of children with 
+SA, and to correlate with the severity of their respiratory disturbance 
+during sleep (20). Thus, systemic antiinflammatory agents 
+with safe therapeutic profiles for use in children with sleep-
+disordered breathing (SDB) could serve as an alternative intervention 
+to T&A. 
+
+Montelukast is an orally bioavailable cysteinyl leukotriene 
+(LT) receptor antagonist that is effective, safe, well tolerated, 
+and approved by the U.S. Food and Drug Administration for 
+preventive therapy for the inflammatory component in asthma 
+and allergic rhinitis in children 2 years and older (21–24), with 
+no demonstrable development of tolerance in long-term studies 
+(25, 26). We have recently found that the cloned human cysteinyl 
+LT receptors 1 and 2 (LT1-R, LT2-R) (27, 28) have increased 
+expression in the tonsillar tissues of children with SA (29). On 
+the basis of such findings, we compared the relative abundance 
+of LTs and their receptors in the lymphoid tissue of children 
+with or without SDB, and furthermore investigated the effects 
+of a 16-week course of montelukast on sleep and airway patency 
+in children with mild SDB. 
+
+METHODS 
+
+
+Patients 
+
+
+The study was approved by the University of Louisville Human Research 
+Committee, and informed consent was obtained from the legal 
+caretaker of each participant. Assent was also obtained from children 
+if they were older than 6 years. 
+
+Open-label 
+treatment 
+with 
+montelukast. 
+Twenty-four consecutive patients 
+evaluated for SDB in the Kosair Children’s Hospital Sleep Medicine 
+and Apnea Center who fulfilled inclusion criteria were recruited 
+to the study, and these patients completed a 16-week treatment with 
+daily montelukast. As control subjects, 16 additional children fulfilling 
+the same inclusion criteria, and who were not offered this therapeutic 
+modality while receiving care from other attending physicians at the 
+sleep center, were identified and recruited to the study. 
+
+Criteria for inclusion included the following: children older than 2 
+and younger than 10 years who were habitual snorers (reported to 
+snore by parents . 
+4 nights/week), who were found to have an obstructive 
+AHI of more than 1 but less than 5 events/hour of sleep in an 
+overnight polysomnographic evaluation, and in whom a lateral neck 
+X-ray film was obtained as part of their clinical evaluation. Exclusion 
+criteria included the following: craniofacial, neuromuscular, syndromic, 
+or defined genetic abnormalities; current or previous use of montelukast; 
+acute upper respiratory tract infection; use of any corticosteroids 
+or antibiotics in the 4 weeks preceding the initial sleep study; and T&A 
+in the past. 
+
+Oral montelukast therapy consisted of the daily administration of 
+a 4-mg chewable tablet (Singulair; Merck, Whitehouse Station, NJ) for 
+children younger than 6 years, and a 5-mg tablet for children 6 years 
+and older. Parents were instructed to give the tablet at bedtime. Parents 
+
+
+Goldbart, 
+Goldman, 
+Veling, 
+et 
+al.: 
+Leukotriene 
+Modifier 
+Therapy 
+for 
+Mild 
+SDB 
+
+
+were contacted weekly by the investigators to determine compliance, and 
+to follow-up on potential side effects. On completion of the 16-week 
+course, patients underwent a second overnight sleep study and lateral 
+neck X-ray. 
+
+Lateral 
+Neck 
+X-Rays 
+
+
+For assessment of airway patency, lateral neck X-rays were performed 
+using standard techniques in the radiology department of the hospital. 
+The neck was extended and the patient was instructed to breathe 
+through the nose. The adenoidal/nasopharyngeal ratio was measured 
+according to the method of Fujioka and colleagues (30) by two of the 
+present investigators (A.D.G. and D.G.), who were blinded to the 
+polygraphic findings of the subjects. 
+
+Overnight 
+Polysomnography 
+
+
+All children participating in the study were studied twice using polysomnography, 
+once before inclusion in the study and at the end of 
+the 16-week intervention period. Sleep studies were performed in a 
+dedicated quiet, dark room. No sleep deprivation or sedation was used. 
+Children were studied for at least 8 hours in a quiet, darkened room 
+with an ambient temperature of 24C in the company of one of their 
+parents. The following parameters were measured: chest and abdominal 
+wall movement by respiratory impedance or inductance plethysmography 
+and heart rate by ECG. Airflow was monitored with a side-
+stream end-tidal capnograph, which also provides breath-by-breath 
+assessment of end-tidal carbon dioxide levels (Pryon, Menomonee Falls, 
+WI), as well as a nasal pressure transducer (Braebon, Carp, ON, Canada) 
+and an oronasal thermistor. SaO2 was assessed by pulse oximetry 
+(Nellcor N100; Nellcor, Inc., Hayward, CA), with simultaneous recording 
+of the pulse waveform. The bilateral electro-oculogram, eight 
+channels of EEG, chin and bilateral anterior tibial and forearm EMG, 
+and analog output from a body position sensor were also monitored. 
+All measures were digitized using a commercially available polysomnographic 
+system (Rembrandt; MedCare Diagnostics, Amsterdam, The 
+Netherlands). Tracheal sounds were monitored with a microphone sensor, 
+and a digital time-synchronized video recording was performed. 
+
+Analysis of the polysomnogram was performed using standard techniques 
+by an experienced sleep technologist who was not aware that 
+the sleep studies belonged to study participants. In brief, sleep staging 
+was assessed using standard criteria (31). The obstructive AHI was 
+defined as the number of apneas and hypopneas per hour of total sleep 
+time, and obstructive apnea was defined as the absence of airflow with 
+continued chest wall and abdominal movement for a duration of at 
+least two breaths (32, 33). Hypopneas were defined as a decrease in 
+nasal flow of 50% or more with a corresponding decrease in SpO2 of 
+4% or more and/or arousal (32). The mean SpO2 together with SpO2 
+nadir were determined. Arousals were defined as recommended by the 
+American Sleep Disorders Association Task Force report (34) and 
+include respiratory-related (occurring immediately after an apnea, hypopnea, 
+or snore), technician-induced, and spontaneous arousals. 
+Arousals were expressed as the total number of arousals per hour of 
+sleep time (ARtotI). In addition, as a surrogate measure for sleepiness, 
+the recently developed sleep pressure score (35) was calculated for each 
+subject’s polysomnographic record as follows: sleep pressure score . 
+RAI/ARtotI . 
+(1 . 
+SAI/ARtotI), where RAI represents the respiratory-
+related arousal index and SAI the spontaneous arousal index. A sleep 
+pressure score of 0.25 or more was used as the threshold for evidence 
+of increased sleepiness (35, 36). 
+
+Adenotonsillar 
+Tissue 
+Collection 
+
+
+Because adenotonsillar tissue cannot be obtained from normal children 
+for obvious ethical reasons, a cohort different from the one described 
+above and consisting of consecutive children undergoing T&A for either 
+SA or recurrent infectious tonsillitis (RI) were identified before surgery 
+and recruited to the study. The diagnosis of obstructive sleep apnea 
+syndrome was established by standard overnight polysomnography in 
+the sleep laboratory, and required the presence of an AHI of more 
+than 5 events/hour of sleep (12). Patients referred for RI were selected 
+on the basis of a history of at least five tonsillar infections in less than 
+6 months; because the absence of any symptoms suggestive of SA 
+essentially negates the presence of this condition (37), the patients were 
+not evaluated by an overnight polysomnogram, since our questionnaire-
+
+based evaluation is highly sensitive and specific in ruling out SDB in 
+children (37). For inclusion, children with RI were required to have 
+received their last dose of antibiotic therapy 6 weeks or longer from 
+the day of surgery. Children with known asthma, allergic rhinitis, or 
+history of allergies, and/or those having received corticosteroid or LT 
+modifier therapy within 1 year from surgery were excluded. Both palatine 
+tonsils and adenoids were removed by a pediatric ear, nose, and 
+throat specialist; a portion of each tonsil was snap-frozen in liquid 
+nitrogen and stored at 80C. Another portion of each tonsil was fixed 
+in 4% formalin, cryoprotected with 30% sucrose, and kept at 4C. 
+Adenoids were randomly assigned to be kept either in formalin or at 
+80C. All samples were numbered and coded by one of the research 
+coordinators and were subsequently assayed by one of the authors 
+(A.D.G.), who was blinded to the specific diagnosis of each of the 
+samples. 
+
+Quantitative 
+(Real-Time) 
+Polymerase 
+Chain 
+Reaction 
+
+
+Total RNA was prepared from adenoid or tonsillar tissues using Trizol reagent 
+(Invitrogen, Carlsbad, CA) following the manufacturer’s instructions. 
+Isolated total RNA was quantified using a spectrophotometer (Beckman 
+DU-530, Fullerton, CA). Aliquots of total RNA (1 g) were reverse-
+transcribed using random primers and Superscript II-Reverse Transcriptase 
+(Invitrogen) according to the manufacturer’s protocol. cDNA 
+equivalent to 20 ng of total RNA was subjected to real-time polymerase 
+chain reaction analysis (MX4000; Stratagene, La Jolla, CA) following 
+the manufacturer’s protocol. Polymerase chain reaction primers 
+(Invitrogen) and Taqman probes (Biosearch Technologies, Novato, 
+CA) for LTR-1, LTR-2 and -actin were designed by Beacon Designer 
+
+2.0 software (Premier Biosoft International, Palo Alto, CA). The primer 
+and probe for LTR-1 were as follows: forward primer, 5-TTATGTTCA 
+CAAAGGCATTTGG-3; reverse primer, 5-GCTCATGGCTGTCT 
+AAAGAA-3; Taqman probe, 5-FAM-GGTGACTTCTTGTGCCGC 
+CTC-BHQ-1-3. The primer and probe for LTR-2 were as follows: forward 
+primer, 5-ACTATATTGCCTTGGTGGTGGG-3; reverse primer, 
+5-ATGATGGTGGTCAGTGCCTTC-3; Taqman probe, 5-(FAM)TGTGAGAAACCCGCAGCCCCGA-(
+BHQ-1)-3; and for -actin: 
+forward primer, 5-GACTACCTCATGAAGATCCTCACC-3; reverse 
+primer, 5-TCTCCTTAATGTCAC GCACGATT-3; Taqman probe, 
+5-FAM-CGGCTACAGCTTCACCACCACGG-BHQ-1-3. Each reaction 
+(25 l) contained 2.5 l reaction buffer (10), 6 mM MgCl2,0.2 M 
+dNTP, 0.6 M each primer, 0.25 l SureStar Taq DNA polymerase 
+(Cerestar, Cedar Rapids, IA), and 2 l cDNA dilutions. The cycling 
+conditions consisted of one cycle at 95C for 10 minutes and 40 two-
+segment cycles (95C for 30 seconds and 55C for 60 seconds). Standard 
+curves for target gene (LTR-1 or LTR-2) and the housekeeping gene 
+(-actin) were performed for each assay. Briefly, 10-fold serial dilutions 
+of control cDNA were amplified by the MX-4000 polymerase chain 
+reaction machine (Stratagene). The CT value (initial amplification cycle) 
+of each standard dilution was plotted against standard cDNA copy 
+numbers. On the basis of the standard curves for each gene, the sample 
+cDNA copy number was calculated according to the sample CT value. 
+Finally, each of the calculated copy numbers for either LTR-1 or LTR-2 
+was normalized against the corresponding -actin copy numbers, and 
+are therefore expressed as ratios of the gene of interest and corresponding 
+-actin value. Standard curves and polymerase chain reaction results 
+were analyzed using MX-4000 software (Stratagene). 
+Immunohistochemistry 
+
+
+Coronal sections (30 m) of both tonsil and adenoid tissues were initially 
+incubated in 0.3% H2O2 for 30 minutes, washed several times in 
+phosphate-buffered saline (PBS), and blocked with a PBS/0.4% Triton 
+X-100/0.5% Tyramide Signal Amplification (Perkin Elmer Life Sciences, 
+Boston, MA) blocking reagent/10% normal goat serum (Vector 
+Laboratories, Burlingame, CA) for 1 hour. Sections were then serially 
+incubated with LTR-1 antibody (1:1500; Cayman Chemical, Ann Arbor, 
+MI) at 4C for 24 hours, and then washed in PBS six times for 5 minutes 
+each wash. Sections were then incubated at room temperature for 1 
+hour in biotinylated antirabbit antibody (1:600; Vectastain Elite ABC 
+kit; Vector Laboratories) in a PBS/0.5% Tyramide Signal Amplification 
+blocking reagent /10% goat serum solution. After three 5-minute washes, 
+sections were incubated at room temperature with streptavidin–horseradish 
+peroxidase diluted 1:100 in PBS/0.5% Tyramide Signal Amplifi
+
+
+
+366 
+AMERICAN 
+JOURNAL 
+OF 
+RESPIRATORY 
+AND 
+CRITICAL 
+CARE 
+MEDICINE 
+VOL 
+172 
+2005 
+
+
+cation blocking reagent. Subsequently, the sections were incubated with 
+tetramethyl rhodamine tyramide (red) diluted 1:50 in amplification 
+diluent (Perkin Elmer Life Sciences) for 2 minutes. Sections were processed 
+the same way again and subsequently incubated with serum 
+raised against myeloperoxidase (1:1000; Labvision, Fremont, CA) at 
+4C for 24 hours, followed by a biotinylated antirabbit antibody (1:600; 
+Vectastain Elite ABC kit; Vector Laboratories), and by fluorescein 
+tyramide reagent (green) diluted 1:50 for 3 minutes. Sections were then 
+washed in PBS, and mounted onto glass slides. Negative controls were 
+prepared by either omitting the primary or the secondary antibodies 
+for either of the primary antibodies. Sections were prepared from seven 
+sets of tonsils and of adenoids from either SA or RI groups, and were 
+visualized using a fluorescent microscope by an investigator who was 
+blinded to the sample source. 
+
+Western 
+Blotting 
+
+
+Tonsils and adenoids were homogenized in a lysis buffer (50 mM Tris, 
+pH 7.5, 0.4% NP-40, 10% glycerol, 150 mM NaCl, 10 mg/ml aprotinin, 
+20 mg/ml leupeptin, 10 mM ethylenediaminetetraacetic acid, 1 mM 
+sodium orthovanadate, 100 mM sodium fluoride), and the protein concentration 
+was determined using the Bradford method (Bio-Rad DC, 
+Hercules, CA). Samples (40 g protein) were resolved on 12% sodium 
+dodecyl sulfate-polyacrylamide gels using electrophoresis (Novex/ 
+Invitrogen, Carlsbad, CA) for 120 minutes at 120 V, and electroblotted 
+onto 0.2-m nitrocellulose membranes for 90 minutes at 30 V. Membranes 
+were blocked with 5% nonfat dry milk in total buffered saline-T 
+(total buffered saline . 
+0.05% Tween 20), and were then incubated 
+overnight at 4C with primary antibodies recognizing the human LT1-R 
+(1:500; Cayman Chemical), or the LT2-R (1:500; Cayman Chemical), 
+and later with anti–-actin (1:20,000; Sigma, St. Louis, MO), both diluted 
+in 5% milk. Lanes were also incubated with a mixture of the 
+primary antibody and the receptor-blocking peptide (1:2 ratio) to establish 
+a competition assay. Membranes were washed with TBS-T, and 
+incubated with either horseradish peroxidase–linked antirabbit or anti-
+mouse antibodies (for LT receptors and -actin, respectively). Proteins 
+were visualized by enhanced chemiluminescence (Amersham, Piscataway, 
+NJ). The intensities of the bands corresponding to the protein of interest 
+were quantified using scanning densitometry, expressed as the ratio of the 
+density corresponding to the protein of interest and corresponding -actin, 
+and compared using t 
+tests or analysis of variance as appropriate. 
+
+LT 
+Concentrations 
+
+
+All adenoid and tonsillar tissue specimens (n . 
+20 for SA group, n . 
+9 
+for RI group) were processed as described by Bachert and colleagues 
+(38). In brief, tissues were weighed, and 1 ml of 0.9% NaCl solution 
+was added per 0.1 g of tissue. Tissues were then homogenized with a 
+mechanical homogenizer at 5,000 rpm for 5 minutes (Tissue-Tearor; 
+BioSpec Products, Inc., Bartlesville, OK). After homogenization, suspensions 
+were centrifuged at 3,000 rpm for 10 minutes at 4C, and 
+supernatants were separated and stored at 80C. All supernatants 
+were assayed for LTs LTC4/D4/E4 (cysteinyl LTs) and LTB4 by means 
+of a specific immunoassay (enzyme-linked immunoassay) kit with commercially 
+available kits (LTC4/D4/E4: Cayman Chemical; LTB4: Amersham 
+Biosciences). All samples were loaded in duplicates and assayed 
+at two dilutions, and plate reader absorbance results were analyzed 
+with a four-parameter logistic curve fit. The intraassay and interassay 
+variability for LTB4 and LTC4/D4/E4 assays was less than 10%. The 
+specificity of LTB4 and LTC4/D4/E4 assays was 100% (except for 
+LTB4, which was 67%). The detection limit of the assays was 6.2 pg/ml 
+for LTB4 and 7.8 pg/ml for LTC4/D4/E4. 
+
+Statistical 
+Analysis 
+
+
+Results are presented as means . 
+SD, unless stated otherwise. All 
+numeric data were subjected to statistical analyses using either t 
+tests 
+or analysis of variance procedures followed by Newman-Keuls post 
+hoc 
+tests, as appropriate. A two-tailed p value of less than 0.05 was considered 
+statistically significant. 
+
+RESULTS 
+
+
+Montelukast 
+Treatment 
+
+
+A total of 13 boys and 11 girls completed the montelukast treatment 
+arm of the study. Their mean age was 5.4 . 
+2.0 years 
+
+(range, 2.5–10 years); their body mass index was 19.5 . 
+0.9 kg/m2; 
+and 62.5% were white and 37.5% African American. The adenoidal/
+nasopharyngeal ratio (Figure 1) significantly decreased from 
+
+0.76 . 
+0.03 to 0.56 . 
+0.03 (p . 
+0.001) after 16 weeks of montelukast 
+treatment. For sleep-related variables, the obstructive AHI 
+and apnea index significantly decreased with treatment (Table 
+1). Although ARtotI did not decrease significantly (16.87 . 
+1.52 to 14.4 . 
+1.26, p . 
+not significant), RAI was significantly 
+improved (7.15 . 
+0.79 to 3.01 . 
+0.33, p . 
+0.001; Table 1), as 
+was the sleep pressure score (0.25 . 
+0.02 to 0.12 . 
+0.02, p . 
+0.0016; Table 1). No significant changes occurred in total sleep 
+time, mean sleep latency, sleep efficiency, number of awakenings, 
+or in the mean and nadir saturation values recorded during sleep. 
+However, improvements in peak end-tidal carbon dioxide levels 
+were observed after montelukast (Table 1). No significant 
+changes emerged in the distribution of sleep stages except for 
+a decrease in the percentage of time spent in stage 1 non-REM 
+sleep. There were no adverse drug reactions reported throughout 
+the study, with excellent compliance and no attrition. In contrast, 
+with such findings, children who received no therapy displayed 
+no significant changes in any of the anatomic and polysomnographic 
+measures during the 16-week period (Table 1). 
+Adenotonsillar 
+Tissue 
+Assessments 
+
+
+Adenoid and tonsillar tissues were obtained from 38 children 
+(20 SA and 18 RI). The mean age for this cohort was 5.2 . 
+
+
+2.8 years (range, 2–10 years; 21 males; 67% white/33% African 
+American). LT1-R and LT2-R mRNA was present in all 16 
+adenoids studied. However, no significant differences in gene 
+expression emerged between the SA and the RI groups for either 
+LT1-R (n . 
+8/group; 0.41 . 
+0.13 in SA vs. 0.31 . 
+0.07 in RI, 
+p . 
+not significant) or LT2-R (n . 
+8/group; 0.008 . 
+0.003 in 
+SA vs. 0.017 . 
+0.013 in RI, p . 
+not significant). 
+LT1-R immunoreactivity was abundantly expressed in the 
+adenoidal and tonsillar epithelial layers and within the extra 
+follicular area in the tonsillar parenchyma. Clusters of LT1-R 
+positively labeled cells were also present within blood vessels. 
+No staining for LT1-R was detected in the tonsillar germinal 
+centers (Figure 2). In contrast, only a restricted number of cells 
+primarily constrained to the epithelial layer expressed the LT1-R 
+in the tonsils obtained from patients with RI (Figure 2). Colabeling 
+with a myeloperoxidase antibody (for identification of 
+neutrophils and eosinophils) was primarily observed within 
+LT1-R–expressing cells in the patients with SA (Figure 2). Immunoblots 
+of adenoidal lysates for LT1-R detected a protein with 
+the appropriate molecular weight of approximately 38 kD (Figure 
+3), which was further confirmed by a competition assay with the 
+immunogenic peptide. LT1-R expression in both adenoids and 
+tonsils was significantly higher in the SA group compared with 
+the RI group (n . 
+8; 0.97 . 
+0.11 in SA vs. 0.66 . 
+0.05 in RI, 
+p . 
+0.05; Figure 3). The LT2-R antibody detected a protein 
+with a predicted molecular weight of approximately 59 kD (also 
+confirmed with blocking peptide), and as with LT1-R, LT2-R 
+expression was significantly higher in both adenoids and tonsils 
+of patients with SA compared with RI group (n . 
+8; 1.20 . 
+
+
+0.15 in SA vs. 0.82 . 
+0.06 in RI, p . 
+0.05; Figure 3). Furthermore, 
+the relative abundance of LT1-R and LT2-R was higher in adenoid 
+tissues compared with tonsillar tissues in patients with SA 
+(n . 
+8/group, p . 
+0.02). 
+LT concentration assays revealed higher levels in the SA 
+group for both LTB4 and LTC4/D4/E4, in comparison to children 
+with RI. Indeed, patients with SA (n . 
+19) had higher LTC4/ 
+D4/E4 concentrations (398.3 . 
+50.5 pg/ml in SA vs. 206.1 . 
+
+
+51.7 pg/ml in RI, p . 
+0.03; Figure 4, left 
+panel), and also higher 
+LTB4 concentrations (815.7 . 
+61.8 pg/ml in SA vs. 538.2 . 
+91.5 pg/ml in RI, p . 
+0.02; Figure 4, right 
+panel). 
+
+Goldbart, 
+Goldman, 
+Veling, 
+et 
+al.: 
+Leukotriene 
+Modifier 
+Therapy 
+for 
+Mild 
+SDB 
+
+
+
+DISCUSSION 
+
+
+This study shows that a 16-week course of an orally administered 
+LT receptor antagonist is associated with significant improvements 
+in upper airway patency and in the severity of SDB, and 
+that these improvements fail to occur when no treatment is 
+administered. Furthermore, in a different set of children, we 
+show that enhanced expression of LT receptors and elevated 
+concentrations of LTs are present in the upper airway lymphoid 
+tissues of pediatric patients with SDB compared with those with 
+recurrent tonsillitis, and propose that such differences could 
+underlie the favorable response to LT modifier therapy. 
+
+The conceptual premises under which therapy for SDB in 
+children is based are not yet well defined. Indeed, although it 
+has become increasingly apparent that SDB is associated with 
+substantial morbidities, particularly affecting cognitive, behav-
+
+Figure 
+1. 
+Lateral 
+neck 
+soft 
+X-ray 
+in 
+a 
+6-year-old 
+patient 
+with 
+mild 
+sleep-
+disordered 
+breathing 
+before 
+(Pre) 
+and 
+after 
+(Post) 
+16-week 
+course 
+of 
+montelukast. 
+Increased 
+upper 
+airway 
+diameter 
+and 
+recession 
+of 
+adenoid 
+tissue 
+are 
+apparent 
+in 
+the 
+posttreatment 
+radiograph. 
+Arrows:A,adenoid; 
+P, 
+pharynx. 
+
+
+ioral, and cardiovascular functions (5, 7, 8, 11, 13), the thresholds 
+of disease severity that delineate the cost–benefit ratios for T&A, 
+the primary line of treatment for pediatric SDB, are currently 
+unknown. Thus, the recently published empirically based consensus 
+guidelines that were developed for the treatment of SDB 
+in children (12) do not mention any specific polysomnographic 
+measures as firmly established criteria for T&A referral. As such, 
+different pediatric sleep centers have adopted quite disparate 
+obstructive AHI cut-off values for surgical treatment. Notwithstanding 
+such uncertainties, when an AHI of greater than 5 
+is present in snoring symptomatic children, this AHI value is 
+consistently considered as a condition requiring T&A. Similarly, 
+when an AHI of less than 1 is found during overnight sleep 
+studies, patients are uniformly considered as having primary 
+snoring and will not be viewed as candidates for any specific 
+
+TABLE 
+1. 
+DEMOGRAPHIC 
+AND 
+POLYSOMNOGRAPHIC 
+CHARACTERISTICS 
+IN 
+40 
+CHILDREN 
+WITH 
+MILD 
+SLEEP-DISORDERED 
+BREATHING 
+WHO 
+WERE 
+EITHER 
+TREATED 
+WITH 
+MONTELUKAST 
+OR 
+RECEIVED 
+NO 
+THERAPY 
+AT 
+DIAGNOSIS 
+AND 
+AT 
+FOLLOW-UP 
+
+
+Montelukast 
+(n 
+. 
+24) 
+No 
+Treatment 
+(n 
+. 
+16) 
+Pre 
+Post 
+p 
+Value 
+Pre 
+Post 
+p 
+Value 
+Age, 
+yr 
+5.39 
+. 
+2.0 
+NS 
+5.7 
+. 
+1.8 
+NS 
+Sex, 
+M/F 
+11/ 
+13 
+7/9 
+Race, 
+W/AA 
+15 
+W/ 
+9 
+AA 
+11 
+W/5 
+AA 
+BMI, 
+kg/m2 
+19.6 
+. 
+0.9 
+19.7 
+. 
+0.9 
+NS 
+19.8 
+. 
+0.8 
+19.8 
+. 
+0.9 
+NS 
+A/N 
+ratio* 
+0.76 
+. 
+0.03 
+0.56 
+. 
+0.03 
+. 
+0.001 
+0.78 
+. 
+0.04 
+0.79 
+. 
+0.04 
+NS 
+Arousal 
+index, 
+total/hr 
+TST* 
+16.9 
+. 
+1.5 
+14.4 
+. 
+1.3 
+NS 
+15.7 
+. 
+2.0 
+18.6 
+. 
+2.0 
+. 
+0.02 
+Arousal 
+index, 
+resp. 
+hr/TST* 
+7.2 
+. 
+0.8 
+3.0 
+. 
+0.3 
+. 
+0.001 
+9.4 
+. 
+0.7 
+12.8 
+. 
+1.3 
+. 
+0.03 
+Sleep 
+pressure 
+score* 
+0.25 
+. 
+0.02 
+0.12 
+. 
+0.02 
+0.0016 
+0.26 
+. 
+0.03 
+0.32 
+. 
+0.04 
+. 
+0.01 
+Apnea 
+index, 
+hr 
+TST* 
+1.2 
+. 
+0.2 
+0.8 
+. 
+0.1 
+0.036 
+1.2 
+. 
+0.2 
+2.0 
+. 
+0.2 
+. 
+0.04 
+Obstructive 
+AHI, 
+hr 
+TST* 
+3.0 
+. 
+0.22 
+2.0 
+. 
+0.3 
+0.017 
+3.2 
+. 
+0.2 
+4.1 
+. 
+0.4 
+. 
+0.03 
+TST, 
+hr 
+8.33 
+. 
+0.28 
+8.46 
+. 
+0.16 
+NS 
+8.28 
+. 
+0.24 
+8.37 
+. 
+0.23 
+NS 
+Mean 
+sleep 
+latency, 
+min 
+13.7 
+. 
+1.6 
+18.8 
+. 
+2.5 
+NS 
+14.8 
+. 
+1.8 
+15.1 
+. 
+1.9 
+NS 
+Sleep 
+efficiency, 
+% 
+87.3 
+. 
+6.5 
+89.0 
+. 
+4.9 
+NS 
+88.0 
+. 
+5.9 
+89.6 
+. 
+5.6 
+NS 
+Minimal 
+SaO2 
+90.3 
+. 
+3.1 
+90.5 
+. 
+3.0 
+NS 
+90.4 
+. 
+2.9 
+89.0 
+. 
+4.9 
+NS 
+Mean 
+saturation 
+96.4 
+. 
+1.7 
+96.1 
+. 
+1.9 
+NS 
+96.2 
+. 
+2.1 
+95.7 
+. 
+2.7 
+NS 
+Mean 
+PETCO2 
+45.2 
+. 
+0.7 
+44.1 
+. 
+0.6 
+NS 
+45.8 
+. 
+0.8 
+46.1 
+. 
+1.0 
+NS 
+Peak 
+PETCO2 
+58.1 
+. 
+1.4 
+53.4 
+. 
+1.1 
+. 
+0.002 
+57.4 
+. 
+1.3 
+59.0 
+. 
+1.5 
+NS 
+Awakenings 
+7.8 
+. 
+5.4 
+7.3 
+. 
+4.2 
+NS 
+7.7 
+. 
+4.4 
+8.8 
+. 
+4.9 
+NS 
+Wake, 
+%TST 
+4.1 
+. 
+1.0 
+3.5 
+. 
+1.0 
+NS 
+4.2 
+. 
+0.9 
+4.1 
+. 
+1.2 
+NS 
+Stage 
+1, 
+%TST 
+12.1 
+. 
+1.1 
+8.0 
+. 
+1.0 
+0.008 
+12.5 
+. 
+1.4 
+13.7 
+. 
+1.4 
+NS 
+Stage 
+2, 
+%TST 
+41.1 
+. 
+2.0 
+41.3 
+. 
+1.8 
+NS 
+43.3 
+. 
+2.8 
+45.3 
+. 
+2.5 
+NS 
+Stage 
+3 
+. 
+4, 
+%TST 
+24.0 
+. 
+1.7 
+24.8 
+. 
+1.2 
+NS 
+22.1 
+. 
+2.1 
+19.1 
+. 
+2.7 
+NS 
+Stage 
+REM, 
+%TST* 
+19.0 
+. 
+1.0 
+20.5 
+. 
+1.0 
+NS 
+20.0 
+. 
+1.3 
+17.5 
+. 
+14 
+. 
+0.04 
+
+
+Definition 
+of 
+abbreviations: 
+A/N 
+. 
+adenoidal/nasopharyngeal; 
+AHI 
+. 
+apnea–hypopnea 
+index; 
+BMI 
+. 
+body 
+mass 
+index; 
+M/F 
+. 
+male/female; 
+NS 
+. 
+not 
+significant 
+for 
+montelukast 
+versus 
+no-treatment 
+groups; 
+PETCO2 
+. 
+end-tidal 
+CO2 
+pressure; 
+resp 
+. 
+respiratory; 
+TST 
+. 
+total 
+sleep 
+time; 
+W/AA 
+. 
+white/African 
+American. 
+
+
+* 
+Montelukast 
+versus 
+no 
+treatment, 
+p 
+. 
+0.01. 
+
+368 
+AMERICAN 
+JOURNAL 
+OF 
+RESPIRATORY 
+AND 
+CRITICAL 
+CARE 
+MEDICINE 
+VOL 
+172 
+2005 
+
+
+Figure 
+2. 
+Left 
+upper 
+panel: 
+Representative 
+immunoblots 
+of 
+leukotriene 
+1 
+receptor 
+(LT1-R; 
+detected 
+at 
+38.5 
+kD) 
+and 
+-actin 
+in 
+adenoids 
+and 
+tonsils 
+from 
+patients 
+with 
+obstructive 
+sleep 
+apnea 
+(SA) 
+and 
+recurrent 
+tonsillitis 
+(RI). 
+BP 
+indicates 
+blocking 
+peptide 
+for 
+competition 
+assay 
+and 
+M 
+indicates 
+molecular 
+marker. 
+Left 
+lower 
+panel: 
+Mean 
+LT1-R/-actin 
+demonstrate 
+significantly 
+higher 
+LT1-R 
+expression 
+in 
+adenoid 
+tissues 
+of 
+patients 
+with 
+SA 
+(n 
+. 
+8) 
+compared 
+with 
+RI 
+(n 
+. 
+8; 
+p 
+. 
+0.04). 
+Right 
+upper 
+panel: 
+Representative 
+immunoblots 
+of 
+LT2-R 
+(detected 
+at 
+59 
+kD) 
+and 
+-actin 
+in 
+adenoids 
+and 
+tonsils 
+from 
+patients 
+with 
+SA 
+and 
+RI. 
+Right 
+lower 
+panel: 
+Mean 
+LT2-R/-actin 
+
+
+demonstrate 
+significantly 
+higher 
+LT2-R 
+expression 
+in 
+adenoid 
+tissues 
+of 
+patients 
+with 
+SA 
+(n 
+. 
+8) 
+compared 
+with 
+RI 
+(n 
+. 
+8; 
+p 
+. 
+0.02). 
+
+
+treatment. However, substantial debate exists when an AHI of 
+more than 1 but less than 5 is present in symptomatic children 
+referred for evaluation of snoring (39). In this clinical setting, 
+the mortality and morbidity of T&A need to be weighed against 
+SDB-associated consequences, and the lack of evidence-based 
+analyses makes this task particularly arduous. Therefore, although 
+some professionals will opt for the surgical approach, 
+others will withhold any intervention. Such considerations have 
+led to the search for nonsurgical therapeutic alternatives. Sys
+
+
+temic steroids were initially explored, but failed to yield any 
+substantial benefits (40). In contrast, topical intranasal application 
+of high-potency corticosteroids revealed significant improvements 
+in AHI and oxygenation in a cohort of children with 
+SDB (AHI . 
+5) (14). Unfortunately, this latter study did not 
+examine the role of topical steroids in children with mild SDB 
+(1 . 
+AHI . 
+5), even if the expression pattern of glucocorticoid 
+receptors suggests a favorable therapeutic profile for adenotonsillar 
+tissue in children with SDB (41). 
+
+Figure 
+3. 
+Double-label 
+immunohistochemistry 
+for 
+LT1-R 
+and 
+myeloperoxidase 
+(MPO) 
+in 
+tonsils 
+obtained 
+from 
+patients 
+with 
+SA 
+and 
+RI 
+reveals 
+the 
+enhanced 
+immunoreactivity 
+of 
+LT1-R 
+in 
+SA. 
+In 
+addition, 
+a 
+higher 
+abundance 
+of 
+LT1-R/MPO 
+coexpression 
+is 
+apparent 
+in 
+the 
+patient 
+with 
+SA. 
+Similar 
+findingswere 
+detected 
+infive 
+setsof 
+tonsils 
+from 
+patients 
+with 
+SA 
+and 
+RI. 
+
+
+
+
+Goldbart, 
+Goldman, 
+Veling, 
+et 
+al.: 
+Leukotriene 
+Modifier 
+Therapy 
+for 
+Mild 
+SDB 
+
+
+
+The current study opens a new therapeutic modality for symptomatic 
+pediatric patients with mild SDB. Indeed, we have now 
+confirmed and further expanded on the enhanced expression 
+levels of LT receptors in the upper lymphoid tissues of patients 
+with SA (29). Furthermore, we now show that LT concentrations 
+in such tissues are also increased, indicating that an active inflammatory 
+process is present in the upper airway of these children, 
+and that the coordinated increase in LT production and 
+receptor expression may underlie signaling pathways leading to 
+proliferation and hyperplasia of the lymphoid tissue in these 
+children. Thus, if these biological processes are indeed pathophysiologically 
+relevant to the increased size of adenotonsillar 
+tissue, treatment with LT receptor blockers should abrogate the 
+proliferative signals, and thereby lead to progressive reductions 
+in overall lymphoid tissue volume within the upper airway, thus 
+ameliorating the respiratory disturbances during sleep (42). 
+
+Montelukast, a selective LT1-R blocker, is now a widely used 
+and safe pharmacologic option in the treatment of asthma and 
+allergic rhinitis in children. The recent cloning of the human 
+genes for LT1-R (27) and LT2-R (28), and the subsequent generation 
+of antibodies to their cognate proteins, enabled us to explore 
+the differential expression patterns of these receptors in 
+upper airway lymphoid tissues (29). We found that the expression 
+of LT receptors is higher in patients with SDB. Furthermore, 
+we describe how LT1-R is primarily expressed in myeloperoxidase-
+positive cells within upper airway lymphoid tissues in children 
+with SDB. The rather selective and peripheral location of 
+LT1-R in relation to germinal centers within the tonsils suggests 
+that either LT1-R expression occurred during late stages of maturation 
+of lymphoid tissue or, as proposed by others, LT1-R–positive 
+cells may have migrated from the vasculature to occupy 
+their sites within the tonsils (43). Notwithstanding such considerations, 
+the overarching concept emanating from this study supports 
+the existence of a chronic inflammatory process in children 
+with SDB. Indeed, C-reactive protein serum levels, an important 
+systemic marker for inflammation, may be elevated in both children 
+and adults with SA (20, 44, 45), even though this finding 
+may not be consistently observed (46). Such elevations of 
+C-reactive protein suggest that systemic processes may either 
+initiate or maintain the localized inflammatory process and associated 
+proliferative signaling within upper airway lymphoid tissues. 
+In addition, inflammatory changes in the upper airway 
+mucosa elicited by the recurrent vibratory mechanical stress of 
+snoring could also contribute to the upregulation of LT receptor 
+expression, and to the accelerated growth of the adenotonsillar 
+tissues. Some corroboration to the slow, albeit progressive nature 
+of these processes is exemplified by the relatively small, albeit 
+significant increases in respiratory disturbance during sleep in 
+the cohort of historical control children who received no treatment. 
+In contrast, we observed statistically significant improvements 
+in airway patency, as documented by the substantial 
+
+Figure 
+4. 
+Left 
+panel: 
+Individual 
+and 
+mean 
+LTC4/ 
+D4/E4 
+concentrations 
+(pg/ml) 
+in 
+adenotonsillar 
+tissues 
+obtained 
+from 
+children 
+with 
+SA 
+(n 
+. 
+19) 
+were 
+significantly 
+higher 
+compared 
+with 
+upper 
+airway 
+lymphoid 
+tissues 
+from 
+patients 
+with 
+RI 
+(n 
+. 
+7; 
+*p 
+. 
+0.03). 
+Right 
+panel: 
+Individual 
+and 
+mean 
+LTB4 
+concentrations 
+(pg/ml) 
+in 
+adenotonsillar 
+tissues 
+obtained 
+from 
+children 
+with 
+SA 
+(n 
+. 
+20) 
+were 
+significantly 
+higher 
+compared 
+with 
+those 
+found 
+in 
+RI 
+(n 
+. 
+9; 
+p 
+. 
+0.02). 
+
+
+changes in the adenoidal/nasopharyngeal ratio and by the parallel 
+small but significant reductions in respiratory-related sleep 
+disturbances, after a 16-week course of oral montelukast therapy. 
+It is likely that, based on the LT2-R expression patterns found 
+herein and the modifying role that LT2-R has on LT1-R function 
+(47), implementation of combined therapy using both LT1-R 
+and LT2-R blockers may be even more effective in reducing the 
+size of lymphoid tissue in children with SDB. Although it is 
+evident that randomized double-blind, placebo-controlled trials 
+are needed to confirm our current findings, and further define 
+the optimal duration of therapy and improved delineation of the 
+patient population most likely to benefit from LT1-R antagonist 
+therapy, the present study clearly establishes the beneficial role 
+of montelukast therapy as a nonsurgical alternative for symptomatic 
+children with mild SDB. 
+
+In summary, we have delineated the expression of LT receptor 
+and LT levels in the upper airway lymphoid tissue of children 
+with SDB. Although double-blind, placebo-controlled trials are 
+clearly needed to corroborate our findings, the use of LT receptor 
+antagonists emerges as a potential therapeutic consideration in 
+children with mild SDB. 
+
+Conflict 
+of 
+Interest 
+Statement 
+: 
+None 
+of 
+the 
+authors 
+have 
+a 
+financial 
+relationship 
+with 
+a 
+commercial 
+entity 
+that 
+has 
+an 
+interest 
+in 
+the 
+subject 
+of 
+this 
+manuscript. 
+
+
+Acknowledgment: 
+The 
+authors 
+thank 
+Kenneth 
+R. 
+Brittian 
+for 
+technical 
+assistance 
+in 
+the 
+immunohistochemical 
+stainings. 
+
+
+References 
+
+
+1. Kaditis AG, Finder J, Alexopoulos EI, Starantzis K, Tanou K, Gampeta 
+S, Agorogiannis E, Christodoulou S, Pantazidou A, Gourgoulianis 
+K, et 
+al. 
+Sleep-disordered breathing in 3,680 Greek children. Pediatr 
+Pulmonol 
+2004;37:499–509. 
+2. Arens R, McDonough JM, Corbin AM, Rubin NK, Carroll ME, Pack 
+AI, Liu J, Udupa JK. Upper airway size analysis by magnetic resonance 
+imaging of children with obstructive sleep apnea syndrome. Am 
+J 
+Respir 
+Crit 
+Care 
+Med 
+2003;167:65–70. 
+3. Rosen CL. Racial differences in the diagnosis of childhood obstructive 
+sleep apnea (OSA). Am 
+J 
+Respir 
+Crit 
+Care 
+Med 
+1998;157:A535. 
+4. Frank Y, Kravath RE, Pollak CP, Weitzman ED. Obstructive sleep apnea 
+and its therapy: clinical and polysomnographic manifestations. Pediatrics 
+1983;71:737–742. 
+5. Tal A, Leiberman A, Margulis G, Sofer S. Ventricular dysfunction in 
+children with obstructive sleep apnea: radionuclide assessment. Pediatr 
+Pulmonol 
+1988;4:139–143. 
+6. Brouillette RT, Fernbach SK, Hunt CE. Obstructive sleep apnea in infants 
+and children. J 
+Pediatr 
+1982;100:31–40. 
+7. Marcus CL, Greene MG, Carroll JL. Blood pressure in children with 
+obstructive sleep apnea. Am 
+J 
+Respir 
+Crit 
+Care 
+Med 
+1998;157:1098– 
+1103. 
+8. Gozal D. Sleep-disordered breathing and school performance in children. 
+Pediatrics 
+1998;102:616–620. 
+9. Guilleminault C, Winkle R, Korobkin R, Simmons B. Children and 
+nocturnal snoring-evaluation of the effects of sleep related respiratory 
+resistive load and daytime functioning. Eur 
+J 
+Pediatr 
+1982;139:165–171. 
+
+370 
+AMERICAN 
+JOURNAL 
+OF 
+RESPIRATORY 
+AND 
+CRITICAL 
+CARE 
+MEDICINE 
+VOL 
+172 
+2005 
+
+
+10. Owens J, Opipari L, Nobile C, Spirito A. Sleep and daytime behavioral 
+sleep disorders. Pediatrics 
+1998;102:1178–1184. 
+11. O’Brien LM, Gozal D. Behavioral and neurocognitive implications of 
+snoring and obstructive sleep apnea in children: facts and theory. 
+Paediatr 
+Respir 
+Rev 
+2002;3:3–9. 
+12. Schechter MS. Section on Pediatric Pulmonology, Subcommittee on Obstructive 
+Sleep Apnea Syndrome. Technical report: diagnosis and management 
+of childhood obstructive sleep apnea syndrome. Pediatrics 
+2002;109:e69. 
+13. O’Brien LM, Mervis CB, Holbrook CR, Bruner JL, Klaus CJ, Rutherford 
+J, Raffield TJ, Gozal D. Neurobehavioral implications of habitual 
+snoring in children. Pediatrics 
+2004;114:44–49. 
+14. Brouillette RT, Manoukian JJ, Ducharme FM, Oudjhane K, Earle LG, 
+Ladan S, Morielli A. Efficacy of fluticasone nasal spray for pediatric 
+obstructive sleep apnea. J 
+Pediatr 
+2001;138:838–844. 
+15. Marcus CL. Nasal steroids as treatment for obstructive sleep apnea: don’t 
+throw away the scalpel yet. J 
+Pediatr 
+2001;138:795–797. 
+16. Rubinstein I. Nasal inflammation is present in patients with obstructive 
+sleep apnea. Laryngoscope 
+1995;105:175–177. 
+17. Sekosan M, Zakkar M, Wenig B, Olopade CO, Rubinstein I. Inflammation 
+in the uvula mucosa with obstructive sleep apnea. Laryngoscope 
+1996;106:1018–1020. 
+18. Olopade CO, Christon JA, Zakkar M, Hua C, Swedler WI, Scheff PA, 
+Rubinstein I. Exhaled pentane and nitric oxide levels in patients with 
+obstructive sleep apnea. Chest 
+1997;111:1500–1504. 
+19. Boyd JH, Petrof BJ, Hamid Q, Fraser R, Kimoff RJ. Upper airway 
+muscle inflammation and denervation changes in obstructive sleep 
+apnea. Am 
+J 
+Respir 
+Crit 
+Care 
+Med 
+2004;170:541–546. 
+20. Tauman R, Ivanenko A, O’Brien LM, Gozal D. Plasma C-reactive protein 
+levels among children with sleep-disordered breathing. Pediatrics 
+2004;113:564–569. 
+21. Singulair. Manufacturer’s prescribing information. Whitehouse Station, 
+NJ: Merck & Co, Inc.; 1999. 
+22. Becker A. Clinical evidence with montelukast in the management of 
+chronic childhood asthma. Drugs 
+2000;59(Suppl 1):29–34. 
+23. Storms W, Michele TM, Knorr B, Noonan G, Shapiro G, Zhang J, 
+Shingo S, Reiss TF. Clinical safety and tolerability of montelukast, a 
+leukotriene receptor antagonist, in controlled clinical trials in patients 
+aged . 
+or . 
+6 years. Clin 
+Exp 
+Allergy 
+2001;31:77–87. 
+24. Knorr B, Franchi LM, Bisgaard H, Vermeulen JH, LeSouef P, Santanello 
+N, Michele TM, Reiss TF, Nguyen HH, Bratton DL. Montelukast, a 
+leukotriene receptor antagonist, for the treatment of persistent asthma 
+in children aged 2–5 years. Pediatrics 
+2001;108:e48. 
+25. Knorr B, Matz J, Bernstein JA, Nguyen H, Seidenberg BC, Reiss TF, 
+Becker A. Montelukast for chronic asthma in 6–14 year old children: 
+a randomized double blind trial. JAMA 
+1998;279:1181–1186. 
+26. Villaran C, O’Neill SJ, Helbling A, van Noord JA, Lee TH, Chuchalin 
+AG, Langley SJ, Gunawardena KA, Suskovic S, Laurenzi M, et 
+al. 
+Montelukast versus salmeterol in patients with asthma and exercise 
+induces bronchoconstriction. J 
+Allergy 
+Clin 
+Immunol 
+1999;104:547– 
+553. 
+27. Lynch KR, O’Neill GP, Liu Q, Im DS, Sawyer N, Metters KM, Coulombe 
+N, Abramovitz M, Figueroa DJ, Zeng Z, et 
+al. 
+Characterization of the 
+human cysteinyl leukotriene CysLT1 receptor. Nature 
+1999;399:789– 
+793. 
+28. Heise CE, O’Dowd BF, Figueroa DJ, Sawyer N, Nguyen T, Im DS, Stocco 
+R, Bellefeuille JN, Abramovitz M, Cheng R, et 
+al. 
+Characterization of 
+the human cysteinyl leukotriene 2 receptor. J 
+Biol 
+Chem 
+2000;275: 
+30531–30536. 
+29. Goldbart AD, Goldman GL, Li RC, Brittian KR, Tauman R, Gozal D. 
+Differential expression of cysteinyl leukotriene receptors 1 and 2 in 
+tonsils of children with obstructive sleep apnea and recurrent infection. 
+Chest 
+2004;126:13–18. 
+
+30. Fujioka M, Young LW, Girdany BR. Radiographic evaluation of adenoidal 
+size in children: adenoidal-nasopharyngeal ratio. AJR 
+Am 
+J 
+Roentgenol 
+1979;133:401–404. 
+31. Rechtschaffen A, Kales A. A 
+manual of standardized terminology, 
+techniques and scoring systems for sleep stages of human subject. 
+Washington DC: National Institutes of Health; 1968. Publication No. 
+204. 
+32. American Thoracic Society. Standards and indications for cardiopulmonary 
+sleep studies in children. Am 
+J 
+Respir 
+Crit 
+Care 
+Med 
+1996;153: 
+866–878. 
+33. Marcus CL, Omlin KJ, Basinki DJ, Bailey SL, Rachal AB, Von Pechmann 
+WS, Keens TG, Ward SL. Normal polysomnographic values for children 
+and adolescents. Am 
+Rev 
+Respir 
+Dis 
+1992;156:1235–1239. 
+34. Sleep Disorders Atlas Task Force. EEG arousals: scoring and rules and 
+examples. Sleep 
+1992;15:173–184. 
+35. Tauman R, O’Brien LM, Holbrook CR, Gozal D. Sleep pressure score: 
+a new index of sleep disruption in snoring children. Sleep 
+2004;27:274– 
+278. 
+36. O’Brien LM, Tauman R, Gozal D. Sleep pressure correlates of cognitive 
+and behavioral morbidity in snoring children. Sleep 
+2004;27:279–282. 
+37. Montgomery-Downs HE, O’Brien LM, Holbrook CR, Gozal D. Snoring 
+and sleep-disordered breathing in young children: subjective and objective 
+correlates. Sleep 
+2004;27:87–94. 
+38. Bachert C, Gevaert P, Holtappels G, Johansson SG, van Cauwenberge 
+P. Total and specific IgE in nasal polyps is related to local eosinophilic 
+inflammation. J 
+Allergy 
+Clin 
+Immunol 
+2001;107:607–614. 
+39. Goodwin JL, Kaemingk KL, Fregosi RF, Rosen GM, Morgan WJ, Sherrill 
+DL, Quan SF. Clinical outcomes associated with sleep-disordered 
+breathing in Caucasian and Hispanic children–the Tucson Children’s 
+Assessment of Sleep Apnea study (TuCASA). Sleep 
+2003;26:587–591. 
+40. Al-Ghamdi SA, Manoukian JJ, Morielli A, Oudjhane K, Ducharme FM, 
+Brouillette RT. Do systemic corticosteroids effectively treat obstructive 
+sleep apnea secondary to adenotonsillar hypertrophy? Laryngoscope 
+1997;107:1382–1387. 
+41. Goldbart AD, Veling MC, Goldman JL, Li RC, Brittian KR, Gozal D. 
+Glucocorticoid receptor subunit expression in adenotonsillar tissue of 
+children with obstructive sleep apnea. Pediatr 
+Res 
+2004;57:232–236. 
+42. Brooks LJ, Stephens BM, Bacevice AM. Adenoid size is related to severity 
+but not the number of episodes of obstructive apnea in children. 
+J 
+Pediatr 
+1998;132:682–686. 
+43. Ebenfelt A, Ivarsson M. Neutrophil migration in tonsils. J 
+Anat 
+2001; 
+198:497–500. 
+44. Shamsuzzaman AS, Winnicki M, Lanfranchi P, Wolk R, Kara T, Accurso 
+V, Somers VK. Elevated C-reactive protein in patients with obstructive 
+sleep apnea. Circulation 
+2002;105:2462–2464. 
+45. Larkin EK, Rosen CL, Kirchner HL, Storfer-Isser A, Emancipator JL, 
+Johnson NL, Zambito AM, Tracy RP, Jenny NS, Redline S. Variation 
+of C-reactive protein levels in adolescents: association with sleep-
+disordered breathing and sleep duration. Circulation 
+2005;111:1978– 
+1984. 
+46. Kaditis AG, Alexopoulos EI, Kalampouka E, Kostadima E, Germenis 
+A, Zintzaras E, Gourgoulianis K. Morning levels of C-reactive protein 
+in children with obstructive sleep-disordered breathing. Am 
+J 
+Respir 
+Crit 
+Care 
+Med 
+2005;171:282–286. 
+47. Figueroa DJ, Borish L, Baramki D, Philip G, Austin CP, Evans JF. 
+Expression of cysteinyl leukotriene synthetic and signaling proteins 
+in inflammatory cells in active seasonal allergic rhinitis. Clin 
+Exp 
+Allergy 
+2003;33:1380–1388. 
+

@@ -1,0 +1,1035 @@
+Efficacy of fluticasone nasal spray for pediatric 
+obstructive sleep apnea 
+
+Efficacy of fluticasone nasal spray for pediatric 
+obstructive sleep apnea 
+, 
+Kamaldine Oudjhane, MD, Lois G. Earle, RRT, Sylvia Ladan, RRT, and Angela Morielli, RPSGT, MBA 
+
+
+Objective: We tested the hypothesis that a 6-week course of a nasal glucocorticoid 
+spray would decrease the severity of obstructive sleep apnea in 
+children with adenotonsillar hypertrophy. 
+
+Study design: We conducted a randomized, triple-blind, placebo-
+controlled, parallel-group trial of nasal fluticasone propionate versus 
+placebo in 25 children aged 1 to 10 years with obstructive sleep apnea 
+proven on polysomnography. The primary outcome was the change from 
+baseline in the frequency of mixed and obstructive apneas and hypopneas. 
+
+Results: Thirteen children received fluticasone, and 12 received placebo. 
+The mixed/obstructive apnea/hypopnea index decreased from 10.7 ± 2.6 
+(SE) to 5.8 ± 2.2 in the fluticasone group but increased from 10.9 ± 2.3 to 
+
+13.1 ± 3.6 in the placebo group, P = .04. The mixed/obstructive apnea/ 
+hypopnea index decreased in 12 of 13 subjects treated with fluticasone 
+versus 6 of 12 treated with placebo, P = .03. The frequencies of hemoglobin 
+desaturation and respiratory movement/arousals also decreased more in the 
+fluticasone group. Changes from baseline in tonsillar size, adenoidal size, 
+and symptom score were not significantly different between groups. 
+Conclusion: Nasal fluticasone decreased the frequency of mixed and obstructive 
+apneas and hypopneas, suggesting that topical corticosteroids may 
+be helpful in ameliorating pediatric obstructive sleep apnea. (J Pediatr 
+
+2001;138:838-44) 
+
+In children, obstructive sleep apnea is 
+most often associated with adenotonsillar 
+hypertrophy. The prevalence of 
+pediatric OSA has been estimated at 
+1% and occurs most frequently in children 
+between 2 and 6 years old, when 
+the adenoids and tonsils are largest 
+
+relative to the pharyngeal space.1-3 
+Chronic sleep-related airway obstruction 
+results in repetitive hypoxemia 
+and sleep disturbance that can cause 
+neurocognitive disturbance, growth 
+failure, and cor pulmonale.4-7 Pediatric 
+OSA is usually managed with adeno-
+
+From the Departments of Pediatrics, Otolaryngology, and Radiology, McGill University/Montreal Children’s Hospital, 
+Montreal, Quebec, Canada. 
+
+Supported by The Hospital for Sick Children Foundation and GlaxoWellcome. 
+
+
+Submitted for publication June 27, 2000; revisions received Sept 15, 2000, and Jan 11, 2001; 
+accepted Jan 17, 2001. 
+Reprint requests: Robert T. Brouillette, MD, Montreal Children’s Hospital, 2300 Tupper St, 
+
+
+Montreal, Quebec, Canada H3H 1P3. 
+Copyright © 2001 by Mosby, Inc. 
+0022-3476/2001/$35.00 + 0 9/21/114474 
+doi:10.1067/mpd.2001.114474 
+
+
+tonsillectomy, but such surgical therapy 
+is expensive, painful, and sometimes 
+associated with complications, including 
+bleeding and perioperative respiratory 
+compromise.8-12 
+
+See editorial, p 795. 
+
+It is generally accepted that corticosteroids 
+are not useful in the management 
+of pediatric OSA.13 We previously 
+determined that a 5-day course of 
+systemic prednisone therapy was ineffective 
+in reducing the severity of pediatric 
+OSA.14 By contrast, Demain and 
+Goetz15 showed that topical nasal corticosteroids 
+over a 24-week treatment 
+reduced adenoidal size and improved 
+symptoms of nasal airway obstruction.
+15 However, these investigators did 
+not study children <5 years old, nor did 
+they evaluate the efficacy for OSA. In 
+a preliminary open-label pilot study of 
+nasal fluticasone in 7 children with 
+OSA, with the use of the same protocol 
+described for this study, we found a decrease 
+in the mixed/obstructive apnea/ 
+hypopnea index from 11.3 ± 3.6 to 4.9 ± 
+
+3.2 (P = .06). Six of 7 children had a decrease 
+in the mixed/obstructive apnea/ 
+hypopnea index after 6 weeks of fluticasone 
+treatment. 
+OSA Obstructive sleep apnea 
+
+We therefore designed a randomized, 
+triple-blind, placebo-controlled, parallel-
+group trial to test the hypothesis 
+that topical nasal corticosteroids would 
+decrease the severity of pediatric OSA. 
+The primary outcome was the change 
+from baseline in the frequency of mixed 
+
+
+THE JOURNAL OF PEDIATRICS 
+VOLUME 138, NUMBER 6 
+
+THE JOURNAL OF PEDIATRICS 
+VOLUME 138, NUMBER 6 
+
+METHODS 
+
+Study Subjects 
+
+The study was approved by the Institutional 
+Review Board of the Montreal 
+Children’s Hospital. The study subjects 
+were children between 1 and 10 years 
+old who were referred from otolaryngologists 
+and met the following 3 inclusion 
+criteria: (1) adenoidal hypertrophy, 
+assessed on radiography as an adenoidal/
+nasopharyngeal ratio >0.516,17 or 
+2+ or 3+ tonsillar hypertrophy assessed 
+on clinical evaluation, (2) signs and 
+symptoms of OSA including loud snoring, 
+difficulty breathing, OSA witnessed 
+by parents, parental concern 
+about breathing during sleep, or restless 
+sleep,18 and (3) a mixed/obstructive 
+apnea/hypopnea index >1 proven by 
+laboratory or home polysomnography.
+13,19,20 Children were enrolled between 
+November 1997 and October 
+1999. Informed consent was obtained 
+from the parents of each child, and assent 
+was obtained from children >6 
+years old. 
+
+Children were excluded if they had 
+any of the following: craniofacial abnormalities, 
+genetic abnormalities including 
+Down syndrome, neurologic 
+disease, acute upper respiratory infection, 
+severe OSA requiring urgent 
+surgery, 4+ tonsillar hypertrophy, exposure 
+to varicella, or use of any corticosteroids 
+or antibiotics within the 
+past 3 weeks. 
+
+Study Protocol 
+
+Randomization was performed from 
+a table of random numbers. Subjects 
+were allocated to treatment groups 
+with simple randomization in blocks of 
+
+4. The study drug was dispensed by a 
+pharmacist to an investigator, who 
+then demonstrated the use of the medication 
+to the subjects and parents. 
+Parents were contacted weekly by an 
+investigator to determine whether the 
+study drug was being given and 
+whether any complications had occurred. 
+Only the study pharmacist was 
+aware of the group assignment. Sleep 
+laboratory personnel, subjects, parents, 
+and physicians were all blinded to 
+group assignment until the entire study 
+was completed and analyzed. 
+
+Fluticasone propionate (Flonase, 
+GlaxoWellcome) and placebo were 
+provided in identical containers by the 
+drug manufacturer. The appearance 
+and smell of the fluticasone and placebo 
+were indistinguishable. Each fluticasone 
+spray delivered 50 µg of active 
+drug. The study drug was given as one 
+spray per nostril twice daily for the 
+first week and once daily for the subsequent 
+5 weeks. These doses were chosen 
+because they have been found to 
+be safe and effective for children with 
+allergic rhinitis.21 A 6-week course of 
+treatment was chosen because in our 
+hospital, the usual waiting time for 
+adenotonsillectomy was 8 to 12 weeks. 
+Thus participation in the study would 
+not delay institution of standard therapy. 
+After the post-study evaluations 
+were completed, the parents and otolaryngologist, 
+who remained blinded to 
+the treatment group, were free to 
+choose nasal fluticasone, adenotonsillectomy, 
+or conservative follow-up. 
+
+Outcome Measures 
+
+Each subject had a polysomnographic, 
+clinical, and radiographic 
+assessment at baseline and after 6 
+weeks on treatment. The primary 
+outcome measure was the change in 
+the frequency of mixed and obstructive 
+apneas and hypopneas during 
+sleep from baseline until after the treatment 
+protocol. Secondary outcomes 
+included changes in the following measures: 
+the frequency of hemoglobin 
+desaturations, the frequency of movement/
+arousals terminating apneas 
+and hypopneas, adenoidal size and 
+minimal nasopharyngeal airway size 
+measured with radiography, tonsillar 
+size measured at clinical evaluation, 
+and symptom score as assessed by the 
+parents.16-20 
+
+BROUILLETTE ET AL 
+
+Specific Measurement 
+Techniques 
+
+POLYSOMNOGRAPHY. Each child underwent 
+polysomnography to document 
+the severity of OSA and to evaluate 
+the response to study drug 
+treatment. Whenever possible, studies 
+were performed in the child’s home. 
+The portable recording system comprised 
+cardiorespiratory and video 
+recordings and was designed to quantitate 
+the essential diagnostic elements 
+of OSA: the frequencies (number per 
+hour of sleep) of mixed and obstructive 
+apneas and hypopneas, hemoglobin 
+desaturation (=4%), and movement/ 
+arousals terminating apneas and hypopneas; 
+sleep versus wakefulness; 
+sleep position; and snoring.20,22-25 Obstructive 
+apnea was defined as an 80% 
+or greater decrease in amplitude on the 
+respiratory inductive plethysmography 
+summation channel of at least 3 seconds’ 
+duration; hypopnea was defined 
+as a 50% to 80% decrease in amplitude 
+of the summation channel accompanied 
+by a decrease in saturation of 4% 
+
+19,20
+
+or more.
+
+In the home, equipment was set up 
+by a technician at the child’s usual bedtime 
+and was retrieved the next morning. 
+The cardiorespiratory recording 
+consisted of an electrocardiogram, 
+pulse rate, SaO2, pulse waveform, and 
+thoracic and abdominal excursions and 
+their sum obtained from a respiratory 
+inductive plethysmograph. The signals 
+were recorded on a portable computer 
+and later transferred to a computerized 
+polysomnograph in the sleep laboratory. 
+Audiovisual recordings were made 
+under infrared lighting and provided 
+complementary information about 
+snoring and the subjects’ movement 
+and position. Videotape recordings 
+were time-matched to the cardiorespiratory 
+recordings and analyzed on a 
+computerized movement detection system 
+(SleepVision, Martinex, Montreal, 
+Quebec).22 
+
+In-laboratory polysomnographic studies 
+were performed when the child 
+lived far from the hospital or in a home 
+
+
+BROUILLETTE ET AL THE JOURNAL OF PEDIATRICS 
+JUNE 2001 
+
+BROUILLETTE ET AL THE JOURNAL OF PEDIATRICS 
+JUNE 2001 
+groups* 
+ney rank sum test was used to compare 
+non-normally distributed variables
+
+Fluticasone Placebo 
+
+across treatments.
+
+Characteristic (n = 13) (n = 12) 
+
+A sample size of 26 subjects per group 
+
+Age (y) 4.2 ± 0.7 3.4 ± 0.3 was initially estimated based on an 
+
+Sex (M/F) 5/8 9/3 alpha error of 0.05, a baseline mixed/ 
+
+No. with allergic rhinitis 3 1 obstructive apnea/hypopnea index of 
+
+No. of days on which study drug was given 44 ± 1 45 ± 1 12.4/h, with an SD of 7.7, and a poten
+
+
+Mixed/obstructive apnea/hypopnea index (No./h) 10.7 ± 2.6 11.0 ± 2.3 tially, clinically important decrease 
+
+Desaturation index (No./h) 7.0 ± 2.0 5.6 ± 2.0 in mixed/obstructive apnea/hypopnea 
+
+Sleep time with paradoxical movement of chest 17.4 ± 2.7 14.5 ± 3.7 index of 50%. 
+
+and abdomen (%) Because of slow recruitment of sub-
+
+Respiratory movement/arousal index (No./h) 6.1 ± 1.9 4.1 ± 0.8 jects, because funding had expired, 
+
+Respiratory rate (breaths/min) 18 ± 1 18 ± 1 and because local clinicians were more 
+
+Heart rate (beats/min) 89 ± 2 98 ± 4 frequently using nasal steroids for po
+
+
+SaO2 mean (%) 97.6 ± 0.3 98.1 ± 0.3 tential subjects, a statistician per
+
+
+SaO2 minimum (%) 85.9 ± 1.7 86.6 ± 1.2 formed an analysis after 25 subjects 
+
+Sleep efficiency (%) 92.1 ± 1.1 90.3 ± 1.7 
+
+had been recruited. The statistician 
+Adenoidal/nasopharyngeal ratio 0.76 ± 0.03 0.79 ± 0.03 
+
+knew that there were 2 groups but was 
+Minimal airway size (mm) 2.9 ± 1.3 1.1 ± 0.5 
+
+blinded to which group was placebo 
+Tonsillar size (1+/2+/3+) 3/6/4 2/5/5 
+
+and which treatment was used (triple-
+Symptom score 2.6 (–1.0, 4.0) 2.6 (–0.3, 2.6) 
+
+blind method). This analysis showed a 
+
+*Values are reported as mean ± SE or, if data were not normally distributed, as median 
+(interquartile range). There were no significant differences between the 2 groups. 
+
+with an ungrounded electrical system. 
+These studies included the same 
+recording channels obtained for home 
+polysomnography plus transcutaneous 
+and end-tidal CO2, an oronasal thermistor, 
+electroencephalograms, electrooculogram, 
+and chin elecromyogram.20 
+For each child the polysomnography 
+setting remained the same before and 
+after fluticasone or placebo treatment. 
+
+OTHER MEASUREMENTS. Lateral neck 
+radiographs were taken as described 
+previously for adenotonsillar hypertrophy 
+measurement in children with 
+OSA syndrome.3,16 The study radiologist 
+(K.O.), blinded to treatment assignment, 
+interpreted the radiographs 
+and made measurements of the adenoidal/
+nasopharyngeal ratio and the diameter 
+(in millimeters) of the nasopharyngeal 
+airway at its narrowest point.16 
+
+An otolaryngologist blinded to treatment 
+assignment performed a physical 
+examination. Tonsillar size was graded 
+from 0 to 4+.17 The grading was based 
+
+on the proportion of the distance between 
+the anterior tonsillar pillars that 
+was taken up by the tonsillar tissue: 0, 
+tonsils not extending beyond the pillars; 
+1+, 0% to 25%; 2+, 25% to 50%; 
+3+, 50% to 75%; and 4+, 75% to 100%. 
+
+An interviewer administered a questionnaire 
+based on an earlier study18; 
+the questionnaire asks a battery of 
+questions relating to signs and symptoms 
+of OSA and other general health 
+questions. A symptom score (“OSA 
+score”; range, –3.83 to 3.97) derived 
+from parental responses to questions 
+about snoring, difficulty breathing, 
+and obstructive apnea was calculated 
+and used to assess the clinical response 
+to study drug treatment. 
+
+Statistics 
+
+Results were expressed as the mean 
+± SEM or as the median, interquartile 
+range, as indicated. To assess treatment 
+effectiveness, the unpaired t test 
+and Fisher’s exact test were used for 
+normally distributed and ordinal vari
+
+
+statistically significant and clinically 
+important difference between groups 
+in the primary outcome measure and 
+in 3 important secondary outcomes. 
+Therefore the study was terminated, 
+and the results are reported here. 
+
+RESULTS 
+
+A total of 278 patients underwent 
+polysomnography during the study period. 
+A total of 234 were excluded for 
+the following reasons: mixed/obstructive 
+apnea hypopnea index <1 (74), age 
+<1 year old (8), age >10 years old (10), 
+myelomeningocele (29), severe OSA 
+requiring prompt surgery (10), use of 
+steroids (13), bronchopulmonary dysplasia 
+and other respiratory disorders 
+(11), craniofacial abnormalities (11), 
+neuromuscular and neurologic disorders 
+(31), other genetic and medical 
+disorders (15), use of antibiotics (5), 
+tonsillar size 4+ (2), central hypoventilation 
+syndrome (5), postadenotonsillectomy 
+(4), child lived out of the 
+province (4), and gastroesophageal re-
+flux (2). A total of 44 subjects were eligible 
+for recruitment, 25 of whom con
+
+
+
+THE JOURNAL OF PEDIATRICS 
+VOLUME 138, NUMBER 6 
+
+THE JOURNAL OF PEDIATRICS 
+VOLUME 138, NUMBER 6 
+teen 
+subjects were randomized to fluticasone 
+and 12 to placebo. There were 
+no significant differences between 
+study participants and those who refused 
+participation for age, sex, or 
+most baseline polysomnographic measures. 
+There was a trend toward a 
+lower mixed/obstructive apnea/hypopnea 
+index in the refusal group than in 
+the participant group, 6.3 ± 1.2 versus 
+
+10.8 ± 1.7 events per hour, respectively, 
+P = .06. 
+The baseline characteristics of children 
+allocated to the fluticasone and 
+placebo groups were similar (Table I). 
+Home polysomnography was used for 
+12 of 13 subjects in the fluticasone 
+group and 10 of 12 subjects in the placebo 
+group. Mixed/obstructive apnea/hypopnea 
+indexes ranged from 1.9 to 37.0 
+events per hour of sleep, and mean values 
+for the 2 groups were comparable. 
+
+Compliance with prescribed dosing 
+was excellent in both groups, with parents 
+reporting that 96% ± 1% and 92% 
+± 3% of doses were given in the fluticasone 
+and placebo groups, respectively. 
+Differences in container weights indicated 
+that 116 ± 9 versus 111 ± 10 
+sprays were dispensed for the fluticasone 
+and placebo groups, respectively; 
+the protocol called for 98 sprays per 
+subject. The only complication possibly 
+related to topical nasal treatment 
+was a nosebleed in 1 subject in the 
+placebo group. 
+
+Polysomnographic Outcomes 
+
+Changes in polysomnographic, adenotonsillar 
+hypertrophy, and clinical 
+outcomes are summarized in Table II. 
+The mixed/obstructive apnea/hypopnea 
+index decreased by 5.0 ± 1.0 events 
+per hour in the fluticasone group but 
+increased by 2.2 ± 3.3 events per hour 
+in the placebo group, P = .04 (Fig 1). 
+The mixed/obstructive apnea/hypopnea 
+index decreased in 12 of 13 subjects 
+in the fluticasone group but in 
+only 6 of 12 subjects in the placebo 
+group, P = .03. The frequency of hemoglobin 
+desaturation decreased more in 
+
+BROUILLETTE ET AL 
+
+Table II. Changes in polysomnographic indexes,adenotonsillar hypertrophy,minimal 
+nasal airway size, and symptom score in children receiving either fluticasone or placebo* 
+
+Fluticasone Placebo 
+Characteristic (n = 13) (n = 12) P value† 
+Mixed/obstructive apnea/hypopnea index 
+No. per hour –5.0 ± 1.0 2.2 ± 3.3 .04 
+No. with a decrease from baseline 12 6 .03 
+Desaturation index (No./h) –4.1 ± 1.3 –0.3 ± 1.0 .03 
+Respiratory movement/arousal index (No./h) –3.4 ± 1.1 –0.2 ± 1.1 .05 
+Sleep time with paradoxical movement of –6.1 ± 2.6 0.5 ± 4.5 .29 
+chest and abdomen (%) 
+Respiratory rate (breaths/min) 0.8 ± 0.6 –0.5 ± 0.6 .12 
+Heart rate (beats/min) –0.9 ± 2.1 –6.7 ± 3.5 .16 
+SaO2 mean (%) 0.6 ± 0.4 0.1 ± 0.4 .35 
+SaO2 minimum (%) –2.5 ± 1.7 –1.3 ± 1.0 .55 
+Sleep efficiency (%) -0.2 ± 1.1 3.3 ± 1.6 .08 
+Adenoidal/nasopharyngeal ratio –0.03 ± 0.01 –0.05 ± 0.02 .46 
+Minimal airway size (mm) 1.3 ± 0.5 1.9 ± 0.8 .51 
+Tonsillar size (increase/no change/decrease) 1/4 /8 1/7/4 .24 
+
+Symptom score –4.3 (0.0, -7.4) –1.4 (0.0, -4.3) .30 
+
+*Values given as mean ± SE or, if data were not normally distributed, as median (interquartile range). 
+
+†P values are for comparison of the changes from baseline in each characteristic between the 
+fluticasone group and the placebo group. 
+
+the fluticasone group than in the placebo 
+group, P = .03 (Fig 2). The frequency 
+of movement/arousals terminating 
+apneas and hypopneas decreased more 
+in the fluticasone group than in the 
+placebo group, P = .05. During the 
+treatment period, 5 of 13 subjects in 
+the fluticasone group and 2 of 12 subjects 
+in the placebo group received antibiotics 
+for otitis media (6) or sinusitis 
+(1), P = .20; with stepwise multiple regression, 
+antibiotic use did not affect 
+group differences for the previously 
+described outcomes. Changes in respiratory 
+rate, heart rate, lowest hemoglobin 
+saturation, percentage of sleep time 
+with paradoxical movement of the 
+chest and abdomen, and sleep efficiency 
+were not statistically significant. 
+
+Other Outcomes 
+
+Differences across groups for radiographic 
+and clinical outcomes were 
+not statistically significant (Table II). 
+Tonsillar size decreased in 62% of subjects 
+in the fluticasone group and in 
+33% of subjects in the placebo group, 
+
+P = .24. The OSA symptom score decreased 
+in 69% of the subjects in the 
+fluticasone group and in 50% of the 
+placebo group, P = .43. 
+
+Follow-up 
+
+Post-study treatment choices did not 
+differ significantly by study group. 
+Parents and the otolaryngologist decided 
+to proceed to adenotonsillectomy 
+after study completion for 46% of the 
+subjects in the fluticasone group and 
+for 75% of the subjects in the placebo 
+group. Open-label treatment with 
+nasal fluticasone propionate was chosen 
+after study completion by parents 
+of 62% and 33% of the fluticasone 
+group and placebo group, respectively. 
+
+DISCUSSION 
+
+This study investigated the effect of 
+nasal corticosteroids on OSA in children. 
+We found that a 6-week course 
+of nasal fluticasone decreased the 
+severity of pediatric OSA, as demon
+
+
+
+BROUILLETTE ET AL 
+
+BROUILLETTE ET AL 
+structive 
+airway events, hemoglobin 
+desaturation episodes, and movement/
+arousals terminating apneas and 
+hypopneas. The frequency of obstructive 
+airway events decreased in 12 of 
+13 subjects treated with fluticasone. 
+This study did not demonstrate statis-
+
+Fig 1. Mixed/obstructive apnea/hypopnea index decreased from 10.7 ± 2.6 to 5.8 ± 2.2 (SE) in flu-
+ticasone group but increased from 10.9 ± 2.3 to 13.1 ± 3.6 in placebo group, P = .04. 
+
+
+tically significant reductions in adenotonsillar 
+hypertrophy or the symptom 
+score. However, parental reports may 
+not be a sensitive marker for severity 
+of OSA, because several previous 
+studies have shown that parents are 
+not able to differentiate reliably between 
+OSA and simple snoring.26 
+
+THE JOURNAL OF PEDIATRICS 
+JUNE 2001 
+
+The pathogenesis of OSA is thought 
+to involve both anatomic and neuromuscular 
+factors that predispose to inspiratory 
+collapse of the pharyngeal airway.13 
+Marcus13 has shown that pharyngeal 
+airway closing pressure is higher in children 
+with OSA than in a control group. 
+The importance of neuromuscular maintenance 
+of upper airway patency is supported 
+by animal models and clinical 
+studies and by the clustering of obstructive 
+events in rapid eye movement sleep, 
+when pharyngeal muscular tone decreases.
+23,27,28 The importance of the 
+anatomic component is supported by the 
+generally beneficial response to adenotonsillectomy.
+4,5,29 Furthermore, Isono 
+et al30 showed that the difference in closing 
+pressure of the pharyngeal airway 
+between children with and without 
+OSA is maintained during anesthesia 
+and muscular paralysis. 
+
+Topical nasal steroids most likely affect 
+the anatomic component by decreasing 
+inspiratory upper airway resistance 
+at the nasal, adenoidal, or 
+tonsillar levels. McColley et al31 
+demonstrated a high prevalence of allergic 
+rhinitis in children with OSA. 
+However, in patients with rhinitis, 
+snoring and other nasal symptoms improved 
+in both allergic and nonallergic 
+children treated with nasal beclomethasone.
+15 Corticosteroids, by 
+their lympholytic or anti-inflammatory 
+effects, might reduce adenotonsillar hypertrophy. 
+Demain and Goetz15 found 
+that the adenoidal to choanal ratio, as 
+assessed by rhinoscopy, decreased by 
+29% over a 24-week treatment course. 
+Because our study used a shorter treatment 
+duration and assessed the adenoids 
+by lateral neck radiographs, it remains 
+possible that nasal steroids 
+reduced the severity of pediatric OSA 
+by diminishing adenoidal tissue. The 
+possibility that nasal steroids might reduce 
+tonsillar size had not been previously 
+tested. Although tonsillar size 
+decreased in 62% of subjects in the fluticasone 
+group, the sample size in this 
+study was too small to demonstrate a 
+statistically significant effect. 
+
+Fig 2. Frequency of desaturation events decreased from 7.0 ± 2.0 to 2.9 ± 1.1 in fluticasone group 
+and decreased from 5.6 ± 2.0 to 5.4 ± 2.4 in placebo group, P = .03. 
+
+
+
+THE JOURNAL OF PEDIATRICS 
+VOLUME 138, NUMBER 6 
+
+THE JOURNAL OF PEDIATRICS 
+VOLUME 138, NUMBER 6 
+sillectomy. 
+Most of our polysomnography 
+studies were performed in a home 
+setting without airflow, CO2 measurement, 
+or sleep state staging. Because 
+our study was a blinded, randomized, 
+controlled trial, there is no reason to 
+suspect that group differences are due 
+to these measurement limitations. Furthermore 
+we have shown that our technique 
+of home polysomnography 
+results in equivalent apnea and desaturation 
+indexes and improved sleep efficiency 
+compared with conventional 
+laboratory polysomnography.20 
+
+Our study was not designed to compare 
+nasal corticosteroids with adenotonsillectomy 
+or to determine the optimal 
+drug, dose, or duration for 
+treatment. This study does not prove 
+that pediatric OSA can be cured by 
+nasal corticosteroid treatment. We 
+chose doses of 200 µg/d for the first 
+week and 100 µg/d for the next 5 
+weeks. In a study using 336 µg/d of 
+nasal beclomethasone for 8 weeks followed 
+by 168 µg/d for 16 additional 
+weeks, both adenoidal size and symptom 
+score continued to decrease over 
+the 24-week treatment period.15 It 
+therefore seems likely that the optimal 
+duration of treatment for pediatric 
+OSA is longer than the 6-week period 
+used in our study. Whether corticosteroid-
+induced improvements in OSA 
+frequency, adenoidal size, and symptoms 
+are maintained after the treatment 
+is discontinued is unknown. 
+
+The possibility of managing pediatric 
+OSA with topical nasal steroids is an 
+attractive one, because this treatment 
+has been found safe for children and 
+adults with seasonal and perennial 
+rhinitis.21,32-34 If topical corticosteroids 
+are used for a prolonged peri
+
+
+od, however, careful monitoring for 
+side effects may be necessary. Systemic 
+effects on growth, bone metabolism, 
+and the adrenocortical axis are potentially 
+important problems but seem unlikely 
+for three reasons. First, the low 
+daily doses needed, 100 to 200 µg/d of 
+fluticasone, are below those found to 
+have systemic side effects.35,36 Second, 
+because the area of nasal mucosa is 
+much less than the area of pulmonary 
+mucosa, topical nasal corticosteroids 
+result in much less systemic absorption 
+than when corticosteroids are inhaled 
+to manage asthma.37 Less than 2% 
+of nasal fluticasone becomes systemically 
+available.38 Third, newer topical 
+steroids such as fluticasone are poorly 
+absorbed after being swallowed and are 
+rapidly metabolized in the liver, thereby 
+decreasing systemic availability.39 
+
+This trial suggests that topical nasal 
+corticosteroids may reduce the severity 
+of pediatric OSA. With these positive 
+findings, further work will be required 
+to replicate the current results, 
+to demonstrate the mechanism by 
+which topical corticosteroids ameliorate 
+obstructive apnea, and to establish 
+the place of corticosteroids within the 
+therapeutic armamentarium. For children 
+with obstruction too mild to justify 
+surgery, topical corticosteroid treatment 
+may prove to be the treatment of 
+choice. For others, as in this protocol, 
+nasal corticosteroids may provide 
+some relief until adenotonsillectomy 
+can be performed. Significant cost savings 
+would accrue if it could be shown 
+that nasal corticosteroid treatment 
+could substitute for many of the 
+300,000 adenotonsillectomies performed 
+in the United States and Canada 
+yearly.40 Long-term follow-up will 
+be required to determine whether improvements 
+are maintained after nasal 
+corticosteroids are discontinued. 
+
+REFERENCES 
+
+1. 
+Ali NJ, Pitson DJ, Stradling JR. 
+Snoring, sleep disturbance, and behaviour 
+in 4-5 year olds. Arch Dis Child 
+1993;68:360-6. 
+BROUILLETTE ET AL 
+
+2. 
+Gislason T, Benediktsdottir B. Snoring, 
+apneic episodes, and nocturnal hypoxemia 
+among children 6 months to 6 
+years old. An epidemiologic study of 
+lower limit of prevalence. Chest 1995; 
+107:963-6. 
+3. 
+Fujioka M, Young LW, Girdany BR. 
+Radiographic evaluation of adenoidal 
+size in children: adenoidal-nasopharyngeal 
+ratio. Am J Roentgenol 1979; 
+133:401-4. 
+4. 
+Guilleminault C, Korobkin R, Winkle 
+R. A review of 50 children with obstructive 
+sleep apnea syndrome. Lung 
+1981;159:275-87. 
+5. 
+Brouillette RT, Fernbach SK, Hunt 
+CE. Obstructive sleep apnea in infants 
+and children. J Pediatr 1982;100:3140. 
+6. 
+Menashe V, Farrehi F, Miller M. Hypoventilation 
+and cor pulmonale due to 
+chronic upper airway obstruction. J 
+Pediatr 1965;67:198-203. 
+7. 
+Gozal D. Sleep-disordered breathing 
+and school performance in children. 
+Pediatrics 1998;102:616-20. 
+8. 
+Pratt LW. Tonsillectomy and adenoidectomy: 
+mortality and morbidity. 
+Trans Am Acad Ophthalmol Otolaryngol 
+1970;74:1146-54. 
+9. 
+Paradise JL, Bluestone CD, Bachman 
+RZ, Colborn DK, Bernard BS, Taylor 
+FH, et al. Efficacy of tonsillectomy for 
+recurrent throat infection in severely affected 
+children. Results of parallel randomized 
+and nonrandomized clinical 
+trials. N Engl J Med 1984;310:674-83. 
+10. 
+Crysdale WS, Russel D. Complications 
+of tonsillectomy and adenoidectomy 
+in 9409 children observed 
+overnight. CMAJ 1986;135:1139-42. 
+11. 
+McColley SA, April MM, Carroll JL, 
+Naclerio RM, Loughlin GM. Respiratory 
+compromise after adenotonsillectomy 
+in children with obstructive sleep 
+apnea. Arch Otolaryngol Head Neck 
+Surg 1992;118:940-3. 
+12. 
+Rosen GM, Muckle RP, Mahowald 
+MW, Goding GS, Ullevig C. Postoperative 
+respiratory compromise in children 
+with obstructive sleep apnea 
+syndrome: can it be anticipated? Pediatrics 
+1994;93:784-8. 
+13. 
+Marcus CL. Management of obstructive 
+sleep apnea in childhood. Curr 
+Opin Pulm Med 1997;3:464-9. 
+14. 
+Al-Ghamdi SA, Manoukian JJ, 
+Morielli A, Oudjhane K, Ducharme 
+FM, Brouillette RT. Do systemic corticosteroids 
+effectively treat obstructive 
+sleep apnea secondary to adenotonsillar 
+hypertrophy? Laryngoscope 1997; 
+107:1382-7. 
+
+BROUILLETTE ET AL 
+
+BROUILLETTE ET AL 
+Demain JG, Goetz DW. Pediatric adenoidal 
+hypertrophy and nasal airway 
+obstruction: reduction with aqueous 
+nasal beclomethasone. Pediatrics 1995; 
+95:355-64. 
+16. 
+Fernbach SK, Brouillette RT, Riggs 
+TW, Hunt CE. Radiologic evaluation 
+of adenoids and tonsils in children with 
+obstructive sleep apnea: plain films and 
+fluoroscopy. Pediatr Radiol 1983;13: 
+258-65. 
+17. Brodsky L. Modern assessment of tonsils 
+and adenoids. Pediatr Clin North 
+Am 1989;36:1551-69. 
+18. 
+Brouillette RT, Hanson D, David R, 
+Klemka L, Szatkowski A, Fernbach S, 
+et al. A diagnostic approach to suspected 
+obstructive sleep apnea in children. 
+J Pediatr 1984;105:10-4. 
+19. 
+Loughlin GM, Brouillette RT, Brooks 
+LJ, Carroll JL, Chipps BE, England 
+SJ, et al. American Thoracic Society. 
+Standards and indications for cardiopulmonary 
+sleep studies in children. Am J 
+Respir Crit Care Med 1996;153:866-78. 
+20. 
+Jacob SV, Morielli A, Mograss MA, 
+Ducharme FM, Schloss MD, Brouillette 
+RT. Home testing for pediatric 
+obstructive sleep apnea syndrome secondary 
+to adenotonsillar hypertrophy. 
+Pediatr Pulmonol 1995;20:241-52. 
+21. 
+Fluticasone Propionate Collaborative 
+Pediatric Working Group. Treatment 
+of seasonal allergic rhinitis with once-
+daily intranasal fluticasone propionate 
+therapy in children. J Pediatr 1994; 
+125:628-34. 
+22. 
+Brouillette RT, Jacob SV, Morielli A, 
+Mograss M, Lafontaine V, Ducharme 
+F, et al. There’s no place like home: 
+evaluation of obstructive sleep apnea 
+in the child’s home. Pediatr Pulmonol 
+Suppl 1995;11:86-8. 
+23. 
+Morielli A, Ladan S, Ducharme FM, 
+Brouillette RT. Can sleep and wakefulness 
+be distinguished in children by 
+cardiorespiratory and videotape 
+recordings? Chest 1996;109:680-7. 
+
+24. 
+Mograss MA, Ducharme FM, Brouillette 
+RT. Movement/arousals. Description, 
+classification, and relationship to 
+sleep apnea in children. Am J Respir 
+Crit Care Med 1994;150:1690-6. 
+25. Brouillette RT, Morielli A, Leimanis A, 
+Waters KA, Luciano R, Ducharme 
+FM. Nocturnal pulse oximetry as an 
+abbreviated testing modality for pediatric 
+obstructive sleep apnea. Pediatrics 
+2000;105:405-12. 
+26. Carroll JL, McColley SA, Marcus CL, 
+Curtis S, Loughlin GM. Inability of 
+clinical history to distinguish primary 
+snoring from obstructive sleep apnea 
+syndrome in children. Chest 1995;108: 
+610-8. 
+27. 
+Brouillette RT, Thach BT. A neuromuscular 
+mechanism maintaining extrathoracic 
+airway patency. J Appl 
+Physiol 1979;46:772-9. 
+28. 
+Remmers JE, DeGroot WJ, Sauerland 
+EK, Anch AM. Pathogenesis of 
+upper airway occlusion during sleep. J 
+Appl Physiol 1978;44:931-8. 
+29. Suen JS, Arnold JE, Brooks LJ. Adenotonsillectomy 
+for treatment of obstructive 
+sleep apnea in children. Arch 
+Otolaryngol Head Neck Surg 1995; 
+121:525-30. 
+30. Isono S, Shimada A, Utsugi M, Konno 
+A, Nishino T. Comparison of static mechanical 
+properties of the passive pharynx 
+between normal children and children 
+with sleep-disordered breathing. 
+Am J Respir Crit Care Med 1998;157: 
+1204-12. 
+31. 
+McColley SA, Carroll JL, Curtis S, 
+Loughlin GM, Sampson HA. High 
+prevalence of allergic sensitization in 
+children with habitual snoring and obstructive 
+sleep apnea. Chest 1997;111: 
+170-3. 
+32. 
+Meltzer EO, Berger WE, Berkowitz 
+THE JOURNAL OF PEDIATRICS 
+JUNE 2001 
+
+RB, Bronsky EA, Dvorin DJ, Finn 
+AF, et al. A dose-ranging study of 
+mometasone furoate aqueous nasal 
+spray in children with seasonal allergic 
+rhinitis. J Allergy Clin Immunol 1999; 
+104:107-14. 
+
+33. 
+Vargas R, Dockhorn RJ, Findlay SR, 
+Korenblat PE, Field EA, Kral KM. Effect 
+of fluticasone propionate aqueous 
+nasal spray versus oral prednisone on 
+the hypothalamic-pituitary-adrenal 
+axis. J Allergy Clin Immunol 1998; 
+102:191-7. 
+34. 
+Agertoft L, Pederson S. Short-term 
+lower leg growth rate in children with 
+rhinitis treated with intranasal mometasone 
+furoate and budesonide. J Allergy 
+Clin Immunol 1999;104:948-52. 
+35. Ferguson AC, Spier S, Manjra A, Versteegh 
+FGA, Mark S, Zhang P. Efficacy 
+and safety of high-dose inhaled 
+steroids in children with asthma: a 
+comparison of fluticasone propionate 
+with budesonide. J Pediatr 1999;134: 
+422-7. 
+36. Lipworth BJ. Systemic adverse effects 
+of inhaled corticosteroid therapy: a 
+systematic review and meta-analysis. 
+Arch Intern Med 1999;159:941-55. 
+37. 
+Barnes PJ, Pederson S. Efficacy and 
+safety of inhaled corticosteroids in 
+asthma. Am Rev Respir Dis 1993;148: 
+S1-26. 
+38. McDowall JE, Mackie AE, Ventresca 
+GP, Bye A. Pharmacokinetics and 
+bioavailability of intranasal fluticasone 
+in humans. Clin Drug Invest 1997;14: 
+44-52. 
+39. Harding SM. The human pharmacology 
+of fluticasone propionate. Respir 
+Med 1990;84(Suppl A):25-9. 
+40. Paradise JL. Bluestone CD, Stool SE, 
+Kenna MA, editors. Pediatric otolaryngology. 
+3rd ed. Tonsillectomy and 
+adenoidectomy. Philadelphia: WB 
+Saunders Co; 1996; p. 1054-65. 
+

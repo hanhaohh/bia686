@@ -1,0 +1,691 @@
+Anesthesiology 2004; 100:806–10 © 2004 American Society of Anesthesiologists, Inc. Lippincott Williams & Wilkins, Inc. 
+
+Recurrent Hypoxemia in Young Children with Obstructive 
+Sleep Apnea Is Associated with Reduced Opioid 
+Requirement for Analgesia 
+
+Karen A. Brown, M.D.,* André Laferrière, B.A.,† Immanuela Ravé Moss, M.D., Ph.D.‡ 
+
+Background: Obstructive sleep apnea (OSA) in children is includes analgesia, and morphine remains a commonly 
+often associated with recurrent hypoxemia during sleep. In 
+
+prescribed parenteral analgesic drug. 
+
+developing animals, central opioid neuropeptide content is 
+
+Several studies have described respiratory morbidity 
+
+high, and opioid receptors are up-regulated after recurrent hyp
+
+
+expressed by oxygen desaturation after adenotonsillec
+
+
+oxia. The authors hypothesized that children with recurrent 
+hypoxemia due to OSA might have altered central opioid func-tomy for OSA.5–7 Although the clinical impression has 
+tionality that could affect their responsiveness to opioid drugs. been that such desaturation is more frequently observed 
+Using a retrospective database, we assessed the relation of age in those children who are given morphine, to date, no 
+and preoperative oxygen saturation to the cumulative postop
+
+
+correlation between these variables has been found.5 
+
+erative morphine dose administered for analgesia in children 
+
+Recently, we have reported that respiratory difficulties 
+
+with OSA undergoing adenotonsillectomy. 
+
+occurred with accepted morphine dosage and decreased 
+
+Methods: Inclusion criteria were (1) adenotonsillectomy for 
+OSA; (2) no concomitant pathology; (3) intraoperative admin-within the time frame of morphine action.8 This suggests 
+istration of short-acting opioid drugs; (4) endotracheal extuba-an increased sensitivity to morphine in children with a 
+tion on awakening in the operating room; and (5) morphine as history of OSA, for which no mechanism has so far been 
+the parenteral, postoperative analgesic. 
+
+proposed. 
+
+Results: Forty-six children (16 girls) fulfilled the inclusion 
+
+In developing animals, exposure to recurrent intermit-
+
+criteria. Age and preoperative arterial oxygen saturation (SaO2) 
+
+tent hypoxia, such as occurs with OSA, increases the 
+
+nadir, either individually (P . 
+0.023, P . 
+0.0003, respectively) 
+
+number of -opioid receptors in the brainstem.9 Such a 
+
+or in combination (P . 
+0.00009), exhibited a significant correlation 
+to the morphine dose required for analgesia. Four of mechanism might enhance central opioid functionality. 
+these children, aged 26.5 . 
+13.2 months, with a preoperative We have therefore hypothesized that children with 
+SaO2 nadir of 70.3 . 
+12.9%, did not require any postoperative recurrent hypoxemia due to OSA might have an altered 
+morphine for analgesia at all. 
+
+central opioid function that could affect their respon-
+
+Conclusions: The authors speculate that the reduced mor
+
+
+siveness to opioid drugs such as morphine. To test this 
+
+phine requirement for analgesia in children displaying oxygen 
+
+hypothesis, we have correlated the age and preoperative 
+
+desaturation associated with severe OSA may be related to their 
+young age and to an up-regulation of central opioid receptors oxygen saturation in children with OSA who underwent 
+consequent to recurrent hypoxemia. In evaluating OSA in chil-adenotonsillectomy to the cumulative postoperative 
+dren, preoperative determination of the SaO2 nadir is important dose of morphine required for analgesia, using a retrofor 
+predicting the postoperative opioid dosage required for 
+
+spective database in accordance with strictly defined 
+
+analgesia. 
+
+inclusion and exclusion criteria. 
+
+ADENOTONSILLECTOMY is a commonly performed surgical 
+procedure for obstructive sleep apnea (OSA) in Materials and Methods 
+children. Such OSA is often associated with recurrent 
+
+This study included children with documented OSA 
+
+hypoxemia during sleep.1–5 Postoperative management 
+
+who underwent adenotonsillectomy. The children were 
+selected from a 2001–2002 retrospective database comprising 
+comprehensive information pertaining to the 
+
+This article is featured in “This Month in Anesthesiology.” 
+
+preoperative assessment and to the intraoperative and 
+
+. 
+Please see this issue of ANESTHESIOLOGY, page 5A. 
+postoperative management for each child. The study 
+received institutional approval and did not require informed 
+consent. 
+
+* Associate Professor, Division of Pediatric Anesthesia, † Research Assistant, 
+Department of Pediatrics, ‡ Professor, Departments of Pediatrics and Physiology, 
+McGill University. Preoperative Evaluation 
+Received from the Division of Pediatric Anesthesia, Departments of Pediatrics The preoperative evaluation to establish the diagnosis 
+and Physiology, McGill University; McGill University Health Centre/Montreal 
+
+of OSA required a history consistent with OSA and (1) an 
+
+Children’s Hospital; McGill University Health Centre Research Institute, Montreal, 
+Quebec, Canada. Submitted for publication April 23, 2003. Accepted for abnormal preoperative sleep study defined as an obstrucpublication 
+September 24, 2003. Supported by the Canadian Institutes of Health 
+
+tive apnea/hypopnea index greater than 1 event/h;
+
+Research, Ottawa, Canada (Dr. Moss). 
+
+and/or (2) an abnormal overnight oximetry study docu-
+
+Address correspondence to Dr. Brown: Division of Pediatric Anesthesia, 
+McGill University Health Centre/The Montreal Children’s Hospital, 2300 Tupper menting at least three clusters of desaturation less than 
+Street, Room C-1118, Montreal, Quebec H3H 1P3, Canada. Address electronic 
+
+92%.1,8 Three tests, the details of which have been re-
+
+mail to: roula.cacolyris@muhc.mcgill.ca. Individual article reprints may be purchased 
+through the Journal Web site, www.anesthesiology.org. ported,5,10–13 were used to establish this diagnosis: (1) 
+
+
+Anesthesiology, V 100, No 4, Apr 2004 806 
+
+
+
+HYPOXEMIA AND YOUTH INCREASE MORPHINE SENSITIVITY 
+
+polysomnography, performed in the sleep laboratory; 
+
+(2) a cardiorespiratory sleep study performed in the 
+child’s home; and/or (3) overnight oximetry, performed 
+in the hospital or in the child’s home. Of the many 
+variables recorded, the current work focuses on the 
+nadir oxygen saturation (SaO2 nadir). The SaO2 nadir was 
+validated by visual inspection of a computerized data 
+record and was defined as the minimal hemoglobin oxygen 
+saturation, regardless of its duration. A validated 
+SaO2 nadir was also determined from the event graphs 
+obtained from oximetry studies.11,14 
+Anesthetic Management 
+
+Children were included in this study if they had no 
+pathology other than OSA. No child was premedicated. 
+All children had general anesthesia for their adenotonsillectomy, 
+tracheal intubation with assisted ventilation, 
+short-acting opioids during the induction of anesthesia, 
+nitrous oxide with isoflurane or sevoflurane throughout 
+anesthesia, tracheal extubation on awakening from anesthesia 
+in the operating room, and the use of morphine 
+as the parenteral, postoperative analgesic. The intravenous 
+opioid administered during surgery was fentanyl or 
+sufentanil (duration of action . 
+30 min15). The doses of 
+these drugs were expressed as morphine equivalents, 
+such that 0.001 mg fentanyl and 0.0001 mg sufentanil 
+were equipotent to 0.1 mg morphine.15 Adjunct medications 
+given intraoperatively that may have influenced 
+postoperative morphine dosing included acetaminophen, 
+ketorolac, ketamine, and dexamethasone.16–19 
+Postoperative pain was treated in accordance with a 
+physician-prescribed morphine dose, which was repeated 
+at 10-min intervals resulting in a cumulative postoperative 
+morphine dose necessary to achieve a Children’s 
+Hospital of Eastern Ontario Pain Score of 6 (i.e., 
+cessation of crying, moaning, grimacing, restlessness, 
+and verbal reports of pain) or subjective comfort (denying 
+pain).20 
+
+Statistical Analysis 
+
+The anthropomorphic characteristics of the patients 
+and all other data were described as mean . 
+SD. The 
+normality of the distribution of each variable was tested 
+with the Shapiro-Wilk W test. The potential effect of the 
+adjunct medications in their various combinations on the 
+morphine dose was tested with one-way analysis of variance. 
+The potential influence of the intraoperative morphine 
+equivalent on the cumulative postoperative morphine 
+dose was tested using regression analysis. 
+
+The relation of the predictor variables, namely, age, 
+preoperative SaO2 nadir, intraoperative morphine equivalent, 
+acetaminophen, ketorolac, ketamine, and dexamethasone, 
+to the morphine dose was examined by 
+multiple regression as well as a backward stepwise multiple 
+regression procedure (Statistica, version 6; StatSoft, 
+Inc., Tulsa, OK). Age, preoperative SaO2 nadir, intraop-
+
+Table 1. Patients (n . 
+46, 16 Girls), Surgery, and Drug Dosing 
+Characteristics 
+
+Variable Mean . 
+SD n 
+Age, months 43.3 . 
+18.6 46 
+Weight, kg 16.3 . 
+4.7 46 
+Preoperative SaO2 nadir, % 83.0 . 
+9.7 46 
+Preoperative apnea/hypopnea index, 12.8 . 
+9.3 21 
+events/h 
+Surgery time of day, h 10:13 . 
+2.3 46 
+Duration of surgery, min 40.7 . 
+10.2 46 
+Intraoperative morphine equivalents, 0.16 . 
+0.09 46 
+mg/kg intravenous 
+Intraoperative acetaminophen, mg/kg p.r. 36.0 . 
+6.5 42 
+Intraoperative ketorolac, mg/kg 0.64 . 
+0.42 6 
+intravenous 
+Intraoperative ketamine, mg/kg 0.16 . 
+0.05 12 
+intravenous 
+Intraoperative dexamethasone, mg/kg 0.32 . 
+0.15 25 
+intravenous 
+Postoperative morphine, mg/kg 0.09 . 
+0.04 42 
+intravenous 
+End-anesthesia to morphine analgesia 16.9 . 
+25.0 42 
+interval, min 
+
+p.r. . 
+per rectum; SaO2 . 
+arterial oxygen saturation. 
+erative morphine equivalents, and the cumulative postoperative 
+morphine dose were treated as continuous 
+variables. The adjunct drugs acetaminophen, ketorolac, 
+and ketamine were treated as categorical variables (in 
+which 1 denoted that the drug had been given and 0 
+denoted that it had not) because they were administered 
+at fixed doses and not all patients received all drugs. The 
+dose of the adjunct drug dexamethasone was treated as 
+a continuous variable. Significance was defined at P . 
+
+
+0.05 throughout. 
+Results 
+
+Forty-six (16 girls) out of the 102 consecutive children 
+who underwent adenotonsillectomy between November 
+2001 and December 2002 met the inclusion criteria 
+set for the current study. The diagnosis of OSA was made 
+by oximetry alone (n . 
+25), by a combination of oximetry 
+and sleep studies (n . 
+17), or, in those children 
+who displayed near normal oxygen saturation, from the 
+apnea/hypopnea index (8.0 . 
+6.0 events/h; n . 
+4). 
+
+The anthropomorphic characteristics of the children 
+included in this study as well as data related to their 
+surgery, the intraoperative fentanyl (n . 
+34) or sufentanil 
+(n . 
+12) regimen (expressed as morphine equivalents), 
+the adjunct medication regimen, and cumulative 
+postoperative morphine dosing are presented in table 1. 
+Age and the apnea/hypopnea index were the only variables 
+that displayed a normal distribution. The adjunct 
+medications used intraoperatively in various combinations 
+did not influence the corresponding morphine 
+doses required for analgesia (table 2). There was no 
+
+Anesthesiology, V 100, No 4, Apr 2004 
+
+
+
+BROWN ET AL. 
+
+Table 2. Adjunct Medication Combinations and the 
+Corresponding Cumulative Postoperative Morphine Doses 
+
+Morphine Dose 
+(Mean . 
+SD), 
+Adjunct Medication Combination mg/kg n 
+Acetaminophen 0.10 . 
+0.04 18 
+Acetaminophen, dexamethasone, and 0.08 . 
+0.03 10 
+ketamine 
+Acetaminophen and dexamethasone 0.08 . 
+0.04 9 
+Acetaminophen, dexamethasone, and 0.12 . 
+0.04 3 
+ketoralac 
+Nil 0.02 . 
+0.03 2 
+Acetaminophen and ketorolac 0.08 1 
+Dexamethasone and ketamine 0.09 1 
+Dexamethasone and ketorolac 0.04 1 
+Acetaminophen, dexamethasone, ketoralac, 0 1 
+and ketamine 
+
+One-way analysis of variance revealed no influence of the adjunct medication 
+combinations on the cumulative postoperative morphine dosage (F3,36 . 
+1.782, P . 
+0.168). The number of the patients included in the analysis of 
+variance was 40 instead of the total 46 because the group receiving no 
+adjunct medications (2 children) and the groups with n . 
+1 (4 children) were 
+excluded from the analysis. 
+
+correlation between age or preoperative SaO2 nadir and 
+either the intraoperative opioid or the physician-prescribed 
+morphine dose. There was no correlation between 
+the administered intraoperative opioid dose and 
+the physician-prescribed morphine dose (0.05 . 
+0.02 
+mg/kg). In addition, there was no correlation between 
+the administered intraoperative opioid and the cumulative 
+postoperative morphine dose (fig. 1). 
+
+There was no significant correlation among the predictor 
+variables. Multiple regression indicated an overall 
+significant relation between the seven predictor variables 
+and the cumulative postoperative morphine dose 
+
+
+Fig. 1. Intraoperative opioid (in morphine equivalents) does not 
+correlate with the cumulative postoperative morphine dose. 
+The regression between the two variables is defined by the 
+following equation: 
+
+Cumulative Postoperative Morphine . 
+
+
+0.0335 · Intraoperative Morphine Equivalent . 
+0.092. 
+
+R . 
+0.0759; R2 . 
+0.0058; P . 
+0.616. 
+
+
+Fig. 2. Age (months) and preoperative arterial oxygen saturation 
+(SaO2) nadir (%) are significantly correlated with the cumulative 
+postoperative morphine dose (mg/kg) required for 
+analgesia after adenotonsillectomy. The correlation of each 
+variable with the cumulative postoperative morphine dose is 
+shown in the two-dimensional plots (A and B), and the correlation 
+of the combined variables with the cumulative postoperative 
+morphine dose is shown in a three-dimensional scatter 
+plot (C). Estimates for each child are depicted with a filled 
+circle. The magnitude of the cumulative postoperative morphine 
+dose in the three-dimensional scatter plot is depicted by 
+the height of the stem supporting each circle. The less than 46 
+observed points are due to superimposed data. The regression 
+describing the relation among the three variables is defined by 
+the following equation: 
+
+Cumulative Postoperative Morphine (mg/kg) 
+
+. 
+0.0007 · Age (months) . 
+0.0021 · Sao2 Nadir (%) 0.1138. 
+
+For statistical details, please consult the text. 
+
+required for analgesia (F7,38 . 
+4.313, P . 
+0.001; R2 . 
+0.443). Using partial correlations within the multiple 
+regression analysis, this significant relation was not accounted 
+for by either the adjunct medications or the 
+intraoperative opioid regimen. By contrast, age and preoperative 
+SaO2 nadir exhibited a significant correlation to 
+the cumulative postoperative morphine dose (r 2 . 
+0.083, P . 
+0.044; r2 . 
+0.154, P . 
+0.001, respectively). 
+A backward stepwise deletion of each predictor variable 
+within the multiple regression procedure retained the 
+significant correlation of age and preoperative SaO2 nadir, 
+either individually (r 2 . 
+0.112, P . 
+0.023; r 2 . 
+0.261, P . 
+0.0003, respectively) or in combination (r 2 . 
+0.352, F2,43 . 
+11.670, P . 
+0.00009), with the cumulative 
+postoperative morphine dose (fig. 2). The regression 
+
+Anesthesiology, V 100, No 4, Apr 2004 
+
+
+
+HYPOXEMIA AND YOUTH INCREASE MORPHINE SENSITIVITY 
+
+Table 3. Details of Four Children Who Did Not Require Postoperative Morphine for Analgesia 
+
+Age, SaO2 Intraoperative Morphine Equivalent 
+Patient months Nadir, % Opioid Drug Dose, mg/kg Adjunct Medication Postoperative Course 
+1 25 55 Fentanyl 0.32 Nil No pain, drowsy 
+2 25 70 Fentanyl 0.08 Acetaminophen No pain 
+3 44 74 Sufentanil 0.08 Acetaminophen No pain 
+Ketorolac Desaturation 
+Ketamine 
+Dexamethasone 
+4 12 84 Fentanyl 0.09 Acetaminophen No pain 
+Dexamethasone 
+
+SaO2 . 
+arterial oxygen saturation. 
+
+describing the relation among the three variables is defined 
+by the following equation: 
+
+Cumulative Postoperative Morphine (mg/kg) . 
+
+
+0.0007 . 
+Age (months) . 
+
+
+0.0021 . 
+SaO2 nadir (%) . 
+0.1138 
+
+(Standard Error of Estimate . 
+0.342). 
+
+From figure 2, it is evident that young age and low 
+preoperative oxygen saturation were associated with a 
+lower required cumulative postoperative morphine 
+dose. Included in this figure are four children, detailed in 
+table 3, whose age was 26.5 . 
+13.2 months and preoperative 
+SaO2 nadir was 70.3 . 
+12.9%, who did not require 
+any postoperative morphine for analgesia. 
+
+Discussion 
+
+The specific question that we have attempted to answer 
+in the current work has been whether recurrent 
+hypoxemia, such as occurs in OSA,1–5 alters sensitivity to 
+opioid analgesics. Because of the nature of this question, 
+we adhered to strict criteria in the selection of the 
+patient population. First, we eliminated all patients who 
+had concomitant disease, including asthma. Second, in 
+striving to study a homogeneous patient population, we 
+restricted our analysis to those who underwent adenotonsillectomy. 
+Third, we limited our patient population 
+at surgery to those who had received short-acting opioids 
+on induction of anesthesia. It is because of these 
+strict inclusion criteria that the number of children included 
+in this study was reduced from the total of 102 
+consecutive patients to 46. 
+
+The lack of morphine-sparing effects usually attributed 
+to the adjunct medications16–19 may be explained by the 
+following considerations: (1) ketorolac and ketamine 
+were given only to a minority of the children; (2) dexamethasone 
+was used at a lower dose than that reported 
+to have a morphine-sparing effect19; and (3) the narrow 
+dose range of acetaminophen administered to the majority 
+of the children precluded the demonstration of a 
+morphine-sparing effect. 
+
+There was no evidence that a child’s age or the severity 
+
+of oxygen desaturation biased the intraoperative opioid 
+regimen, nor was there any evidence for bias in the 
+physicians’ prescription or in the nurses’ administration 
+of postoperative morphine. 
+
+The lack of correlation between the short-acting opioids 
+used intraoperatively and the cumulative postoperative 
+morphine dose (fig. 1) can be explained by the 
+brief duration of action of fentanyl and sufentanil15,21 
+and by the time interval between their intraoperative 
+administration and the postoperative requirement for 
+analgesia (table 1). 
+
+The striking finding of this study, that the cumulative 
+postoperative dose of morphine required for analgesia 
+was significantly correlated to both the child’s age and 
+preoperative oxygen saturation, has led us to propose 
+that these variables might be associated in some causal 
+and mechanistic fashion. Whereas, obviously, it is impossible 
+at this point to report molecular brain mechanisms 
+in these children, an analogy with findings in animal 
+models may be useful. Before such an analogy is made, 
+however, the appropriateness of the animal model must 
+be established. From this point of view, postnatal swine 
+seem to be optimal models because their stage of brain 
+development at birth seems to simulate that in full-term 
+infants,22 and their postnatal maturation in autonomic 
+functions, such as sleep–wake and respiratory and cardiovascular 
+behaviors, follows patterns similar to those 
+in infants and children, albeit on a shortened time 
+scale.23,24 
+
+In the chronically instrumented and unsedated piglet 
+model, recurrent daily exposure to intermittent hypoxia 
+has been shown to increase the binding of a specific 
+agonist to -opioid receptors in several brainstem regions.
+9 Such increased binding can be caused either by 
+an increased affinity between the agonist and the receptor 
+that might prolong the association between the two 
+or by an increase in the number of receptors. Because 
+there was no change in receptor affinity,9 this increase in 
+binding density can be attributed to an increase in the 
+number of membrane-bound -opioid receptors. Such 
+an increase may reduce the dose of an exogenous opioid 
+required to accomplish a specific physiologic effect. 
+Whereas in the above-mentioned study only respiratory-
+
+Anesthesiology, V 100, No 4, Apr 2004 
+
+
+
+BROWN ET AL. 
+
+related -opioid receptors were studied, it is not unreasonable 
+to suggest that pain-related -opioid receptors 
+might behave in a similar fashion. Therefore, a hypoxiainduced 
+increased number of pain-related -opioid receptors 
+in children with severe OSA might explain a 
+heightened sensitivity to postoperative morphine given 
+for analgesia. 
+
+The correlation between age and cumulative postoperative 
+morphine dosage cannot be explained by an 
+age-related change in the density of -opioid receptors 
+because these do not increase over the age range studied 
+either in pigs or in humans.25,26 This correlation may be 
+explained, however, by the ontogeny of opioid neuropeptides 
+in the brain. In the same piglet model, we 
+have shown in respiratory-related brain regions that the 
+content of the opioid peptide . 
+endorphin, which displays 
+a preferred -opioid activity, and methionine-enkephalin, 
+with both -and -opioid activity, is highest at 
+birth, decreasing with postnatal age.27 By extending the 
+analogy of neuropeptide ontogeny to the current study 
+and assuming similar ontogeny in pain-related brain regions, 
+it is attractive to speculate that a higher level of 
+endogenous ligands might reduce the amount of exogenous 
+agonist required for a given physiologic effect. In 
+extending this rationale to the current study, a relatively 
+higher endogenous -opioid content in the younger children 
+might have contributed to the lower required morphine 
+dose independently of preoperative oxygen 
+saturation. 
+
+The clinical relevance of our findings lies in the high 
+incidence of respiratory complications reported in children 
+with severe OSA after postoperative morphine administration.
+8 Whereas the underlying mechanism of 
+such complications is as yet unknown, it seems reasonable 
+to speculate that at least some of those were related 
+to the postoperative opioid regimen. If opioid requirement 
+is lowered by youth and oxygen desaturation, as 
+our study has shown, a normally recommended morphine 
+dose for analgesia may be excessive for young 
+children with severe OSA, thus producing respiratory 
+depression. Whereas the current study lacks sufficient 
+power to reliably report on the relation between age, 
+preoperative oxygen desaturation, morphine dosing, 
+and postoperative respiratory complications, a prospective 
+study on such a relation is under way. The findings 
+of the current study emphasize the importance of preoperative 
+testing for oxygen desaturation in children 
+with OSA to identify a subpopulation of children who 
+have an increased sensitivity to opioid drugs. 
+
+The authors thank Roula Cacolyris (Administrative Coordinator, Division of 
+Pediatric Anesthesia, Montreal Children’s Hospital, Montreal, Quebec, Canada) 
+for help in the preparation of the manuscript. 
+
+Anesthesiology, V 100, No 4, Apr 2004 
+
+References 
+
+1. Marcus CL, Omlin KJ, Basinski DJ, Bailey SL, Rachal AB, Von Pechmann WS, 
+Keens TG, Davidson Ward SL: Normal polysomnographic values for children and 
+adolescents. Am Rev Respir Dis 1992; 146:1235–9 
+2. Waters KA, McBrien F, Stewart P, Hinder M, Wharton S: Effects of OSA, 
+inhalational anesthesia, and fentanyl on the airway and ventilation of children. 
+J Appl Physiol 2002; 92:1987–94 
+3. Helfaer MA, McColley SA, Pyzik PL, Tunkel DE, Nichols DG, Baroody FM, 
+April MM, Maxwell LG, Loughlin GM: Polysomnography after adenotonsillectomy 
+in mild pediatric obstructive sleep apnea. Crit Care Med 1996; 24:1323–7 
+4. Katz ES, Greene MG, Carson KA, Galster P, Loughlin GM, Carroll J, Marcus 
+CL: Night-to-night variability of polysomnography in children with suspected 
+obstructive sleep apnea. J Pediatr 2002; 140:589 –94 
+5. Wilson K, Lakheeram I, Morielli A, Brouillette RT, Brown K: Can assessment 
+for obstructive sleep apnea help predict postadenotonsillectomy respiratory 
+complications? ANESTHESIOLOGY 2002; 96:313–22 
+6. Rosen GM, Muckle RP, Mahowald MW, Goding GS, Ullevig C: Postoperative 
+respiratory compromise in children with obstructive sleep apnea syndrome: Can 
+it be anticipated? Pediatrics 1994; 93:784 –8 
+7. McColley SA, April MM, Carroll JL, Naclerio RM, Loughlin GM: Respiratory 
+compromise after adenotonsillectomy in children with obstructive sleep apnea. 
+Arch Otolaryngol Head Neck Surg 1992; 118:940 –3 
+8. Brown K, Morin I, Hickey C, Manoukian JJ, Nixon GM, Brouillette RT: 
+Urgent adenotonsillectomy: An analysis of risk factors associated with postoperative 
+respiratory morbidity. ANESTHESIOLOGY 2003; 99:586 –95 
+9. Moss IR, Laferrière A: Central neuropeptide systems and respiratory control 
+during development. Respir Physiol Neurobiol 2002; 131:15–27 
+10. Jacob SV, Morielli A, Mograss MA, Ducharme FM, Schloss MD, Brouillette 
+RT: Home testing for pediatric obstructive sleep apnea syndrome secondary to 
+adenotonsillar hypertrophy. Pediatr Pulmonol 1995; 20:241–52 
+11. Brouillette RT, Morielli A, Leimanis A, Waters KA, Luciano R, Ducharme 
+FM: Nocturnal pulse oximetry as an abbreviated testing modality for pediatric 
+obstructive sleep apnea. Pediatrics 2000; 105:405–12 
+12. Waters KA, Forbes P, Morielli A, Hum C, O’Gorman A, Vernet O, Davis G, 
+Tewfik TL, Ducharme FM, Brouillette RT: Sleep disordered breathing in children 
+with myelomeningocele. J Pediatr 1998; 132:672–81 
+13. Morielli A, Ladan S, Ducharme FM, Brouillette RT: Can sleep and wakefulness 
+be distinguished in children by cardiorespiratory and videotape recordings? 
+Chest 1996; 109:680 –7 
+14. Lafontaine VM, Ducharme FM, Brouillette RT: Pulse oximetry: Accuracy of 
+methods of interpreting graphic summaries. Pediatr Pulmonol 1996; 21:121–31 
+15. Tobias JD: Pain management for the critically ill child in the pediatric 
+intensive care unit, Pain in Infants, Children, and Adolescents, 2nd edition. Edited 
+by Schechter NL, Berde CB, Yaster M. Philadelphia, Lippincott Williams & 
+Wilkins, 2003, pp 807–40 
+16. Mather SJ, Peutrell JM: Postoperative morphine requirements, nausea and 
+vomiting following anaesthesia for tonsillectomy: Comparison of intravenous 
+morphine and non-opioid analgesic techniques. Paed Anesth 1995; 5:185–8 
+17. Korpela R, Korvenoja P, Meretoja OA: Morphine-sparing effect of acetaminophen 
+in pediatric day-case surgery. ANESTHESIOLOGY 1999; 91:442–7 
+18. Suzuki M, Tsueda K, Lansing PS, Tolan MM, Fuhrman TM, Ignacio CI, 
+Sheppard RA: Small-dose ketamine enhances morphine-induced analgesia after 
+outpatient surgery. Anesth Analg 1999; 89:98 –103 
+19. Elhakim M, Ali NM, Rashed I, Riad MK, Refat M: Dexamethasone reduces 
+postoperative vomiting and pain after pediatric tonsillectomy. Can J Anaesth 
+2003; 50:392–7 
+20. McGrath PJ, Johnson G, Goodman JT, Schillinger J, Dunn J, Chapman J-A: 
+CHEOPS: A behavioral scale for rating postoperative pain in children, Advances 
+in Pain Research and Therapy, 9th edition. Edited by Fields HL, Dubner R, 
+Cervero F. New York, Raven Press, 1985, pp 395–402 
+21. Yaster M, Kost-Byerly S, Maxwell LG: Opioid agonists and antagonists, Pain 
+in Infants, Children, and Adolescents, 2nd edition. Edited by Schechter NL, Berde 
+CB, Yaster M. Philadelphia, Lippincott Williams & Wilkins, 2003, pp 181–224 
+22. Dobbing J: The later development of the brain and its vulnerability, 
+Scientific Foundations of Paediatrics. Edited by Davis JA, Dobbing J. Baltimore, 
+University Park Press, 1982, pp 744 –59 
+23. Gootman PM: Cardiovascular system, Biology of the Domestic Pig. Edited 
+by Pond WG, Mersmann HJ. Ithaca, Cornell University Press, 2001, pp 533–59 
+24. Moss IR: Maturation of respiratory control in the behaving mammal. Respir 
+Physiol Neurobiol 2002; 132:131–44 
+25. Laferrière A, Liu J-K, Moss IR: -and -Opioid receptor densities in 
+respiratory-related brainstem regions of neonatal swine. Developmental Brain 
+Res 1999; 112:1–9 
+26. Kinney HC, Ottoson CK, White WF: Three-dimensional distribution of 
+3H-naloxone binding to opiate receptors in the human fetal and infant brainstem. 
+J Comp Neurol 1990; 291:55–78 
+27. Zhang C, Moss IR: Age-related -, -and -opioid ligands in respiratory-
+related brain regions of piglets: Effect of prenatal cocaine. Brain Res Dev Brain 
+Res 1995; 87:188 –93 
+

@@ -1,0 +1,1016 @@
+PEDIATRICS 
+Adenotonsillectomy Improves Neurocognitive Function in Children with 
+Obstructive Sleep Apnea Syndrome 
+
+Bat-Chen Friedman, MD1; Ayelet Hendeles-Amitai, BA2; Ely Kozminsky, PhD2; Alberto Leiberman, MD3; Michael Friger, PhD4; Ariel Tarasiuk, PhD5; Asher Tal, MD1 
+
+1Department of Pediatrics B, 2Department of Education, 3Department of Otolaryngology, 4Department of Epidemiology, Faculty of Health Sciences, 
+5Sleep-Wake Disorders Unit, Soroka University Medical Center, Ben-Gurion University of the Negev, Beer-Sheva, Israel 
+
+Objective: To evaluate neurocognitive functions of children with obstructive 
+sleep apnea syndrome (OSAS), before and after adenotonsillectomy, 
+compared with healthy controls. 
+Design: Prospective study. 
+Patients and Methods: Thirty-nine children with OSAS aged 5 to 9 years 
+(mean age, 6.8 ± 0.2 years) and 20 healthy children (mean age, 7.4 ± 1.4 
+years) who served as controls, underwent a battery of neurocognitive 
+tests containing process-oriented intelligence scales. Twenty-seven children 
+in the OSAS group underwent follow-up neurocognitive testing 6 to 
+10 months after adenotonsillectomy. Fourteen children in the control 
+group were also reevaluated 6 to 10 months after the first evaluation. 
+Results: Children with OSAS had lower scores compared with healthy 
+children in some Kaufman Assessment Battery for Children (K-ABC) sub-
+tests and in the general scale Mental Processing Composite, indicating 
+impaired neurocognitive function. No correlation was found between neurocognitive 
+performance and OSAS severity. Six to 10 months after adenotonsillectomy, 
+the children with OSAS demonstrated significant 
+
+improvement in sleep characteristics, as well as in daytime behavior. Their 
+neurocognitive performance improved considerably, reaching the level of 
+the control group in the subtests Gestalt Closure, Triangles, Word Order, 
+and the Matrix analogies, as well as in the K-ABC general scales, 
+Sequential and Simultaneous Processing scales, and the Mental 
+Processing Composite scale. The magnitude of the change expressed as 
+effect sizes showed medium and large improvements in all 3 general 
+scales of the K-ABC tests. 
+Conclusions: Neurocognitive function is impaired in otherwise healthy 
+children with OSAS. Most functions improve to the level of the control 
+group, indicating that the impaired neurocognitive functions are mostly 
+reversible, at least 3 to 10 months following adenotonsillectomy. 
+Key Words: Sleep apnea, neurocognitive function, adenoids and tonsils. 
+Citation: Friedman BC; Hendeles-Amitai A; Kozminsky E et al. Adenotonsillectomy 
+improves neurocognitive function in children with obstructive 
+sleep apnea syndrome. SLEEP 2003;26(8):999-1005. 
+
+INTRODUCTION 
+resolved,8 suggests that the neurocognitive deficits may be only partially 
+reversible after treatment.
+
+OBSTRUCTIVE SLEEP APNEA SYNDROME (OSAS) IS A COM-
+
+Although awareness of the deleterious effect of OSAS on neurocog-
+
+MON PEDIATRIC DISORDER AFFECTING UP TO 2% OF CHIL
+
+
+nitive function is well established, only a few prospective pediatric stud-
+
+DREN AGED 2 TO 8 YEARS.1 Sleep of children with OSAS is charac
+
+
+ies have examined neurocognitive functions before and after treat
+
+
+terized by frequent apneas and hypopneas, intermittent hypoxemia, and 
+
+ment.7,11,12 The purpose of the present study was first to evaluate specif
+
+
+sleep fragmentation due to numerous arousals and awakenings. In chil
+
+
+ic neurocognitive functions of children with OSAS compared with
+
+dren, OSAS may result in significant clinical consequences, including 
+
+healthy controls and then to evaluate the effect of adenotonsillectomy on 
+
+growth retardation,2 right and left ventricular dysfunction,3,4 and behav
+
+
+the neurocognitive functions of these children.
+
+ior and learning problems.5-8 There is increasing evidence to support an 
+association between OSAS and attention-deficit/hyperactivity disorder 
+
+METHODS
+
+(ADHD).6 Previous studies have shown a nearly 3-fold increase in 
+behavior and attention abnormalities in children with sleep-disordered Subjects and Study Design 
+breathing.6,9-11 There is also increasing evidence that children with 
+
+Children aged 5 to 9 years known to have OSAS who were candidates
+
+OSAS suffer from impairment of neurocognitive functions.7,8,12 
+
+for adenotonsillectomy because of sleep-disordered breathing, were
+
+Adenotonsillar hypertrophy is the most common cause of OSAS in 
+
+recruited to the study from the pediatric sleep laboratory and from the
+
+otherwise healthy children. Adenotonsillectomy results in significant 
+
+pediatric otolaryngology outpatient clinic of the Soroka University
+
+improvement in clinical as well as polysomnographic parameters.13-15 
+
+Medical Center. Children were consecutively recruited if they were 
+
+Behavior problems and quality of life tend to improve after adenotonsil
+
+
+between 5 and 9 years of age and spoke fluent Hebrew because the avail
+
+
+lectomy and resolution of the sleep-disordered breathing.11,16 
+
+able neurocognitive tests are validated for Hebrew and this age group.
+
+Improvement in learning and behavior has been reported following 
+
+Children with chronic lung diseases, neuromuscular or heart diseases, as
+
+treatment of OSAS in children.7,11,16,17 However, the report that young 
+
+well as children with ADHD or other diagnosed psychiatric or develop-
+
+children who snore frequently and loudly during sleep are at greater risk 
+
+mental disorders were excluded from the study. Healthy children 
+
+for poor academic performance in later years, even well after snoring has 
+
+matched by age, sex, and socioeconomic status were recruited from the 
+same education institutes as a control group. Sleep-disordered breathing 
+was excluded in the control group by sleep questionnaires (controls did
+
+Disclosure Statement 
+
+not undergo polysomnography). After their parents signed informed 
+
+Supported by Grant No. 89914102 from the Chief Scientist, Ministry of Health, 
+
+consent, all children underwent a series of neurocognitive tests that were
+
+Israel. 
+
+presented to them at home by a trained psychologist, and their parents
+
+Submitted for publication May 2003 
+
+filled out a sleep questionnaire. Those children who underwent adeno-
+
+Accepted for publication September 2003 
+
+tonsillectomy were reevaluated 6 to 10 months after the operation, using
+
+Address correspondence to: Asher Tal, MD, Department of Pediatrics B, Soroka 
+
+the same set of neurocognitive tests (Figure 1). Since previous exposure
+
+University Medical Center, Faculty of Health Sciences, Ben-Gurion University of 
+
+to neurocognitive tests can improve the way a person functions in the
+
+the Negev, PO Box 151, Beer-Sheva 84101, Israel; Tel: 972-8-640-0656 or 972
+
+
+test-retest,18 children (of both the OSAS and control groups) were eval
+
+
+64-600-554; Fax: 972-8-628-7163; E-mail: ashik@bgumail.bgu.ac.il 
+SLEEP, Vol. 26, No. 8, 2003 999 Neurocognitive Function in Sleep Apnea—Friedman et al 
+
+
+uated twice in order to cancel this learning effect. The institution’s ethics 
+committee approved the study protocol. 
+
+Sleep Questionnaire 
+
+A subjective report about sleep characteristics was obtained using a 
+questionnaire that was filled out by the parents at the first meeting and 
+again at the second meeting, 6 to 10 months later. The questionnaire consisted 
+of a total of 26 questions about the sleep behavior of the child. We 
+chose questions based on questionnaires used in previous studies.6,7,19 
+The parents were asked to rank the occurrence of several sleep characteristics 
+on a scale of 0 to 4: 0-never, 1-seldom, 2-sometimes, 3-often, 4almost 
+every night. The other part of the questionnaire included questions 
+about socioeconomic status, general health, and daytime behavior 
+of the child (Appendix). 
+
+Neurocognitive Assessment 
+
+All subjects were tested at their homes between the hours of 2:00 PM 
+and 6:00 PM by qualified testers. The testers were not involved in the 
+process of treatment and recruitment of the children, were blinded to the 
+child’s diagnosis (OSAS or control), but were not fully blinded to the 
+repeated test because the same tester performed both evaluations for 
+each child. The chosen battery was based on the Kaufman Assessment 
+Battery for Children (K-ABC). The K-ABC is the only intelligence test 
+that has valid norms for Israeli children20 between the ages of 3 to 13 
+years, namely, is appropriate for the range of the subjects’ ages. In addition, 
+the test is child oriented with colorful and game-like materials, 
+which aid in maintaining rapport with the children. 
+
+The K-ABC intelligence scales are process oriented; they focus on 
+whether the stimuli are manipulated 1 at a time or simultaneously, 
+regardless of item content.20,21 The test contains 3 scales: 2 scales of 
+mental processing—sequential and simultaneous—and an achievement 
+scale. Each scale contains several tests. The present research battery 
+included only the Mental-processing Scales that measure problem solving 
+in novel situations. The Achievement Scale was excluded because it 
+intends to assess factual knowledge and skills and not pure cognitive 
+functioning. In addition, the manual of the K-ABC enables the exclusion 
+of 1 test of each scale while maintaining a valid score. In order to shorten 
+the assessment duration, we excluded 1 subtest of each scale. 
+
+The Sequential Processing Scale represents tasks (subtests) in which 
+problems are solved by arranging the input in sequential or serial order. 
+All of these tasks measure short-term memory characteristics. This scale 
+includes subtests: (1) Number Recall, which measures the child’s ability 
+to repeat, in sequence, a series of numbers spoken by the examiner. This 
+task measures automatic auditory-vocal memory and (2) Word Order, 
+which measures the child’s ability to point to silhouettes of common 
+objects in the same order as those objects were named by the examiner. 
+
+Figure 1—Study protocol of the evaluation (sleep questionnaires and cognitive functions) 
+and treatment stages. In 26 of the 39 children with obstructive sleep apnea syndrome 
+(OSAS), the first diagnostic evaluation included polysomnography. T&A refers to adenotonsillectomy. 
+SLEEP, Vol. 26, No. 8, 2003 1000 
+
+
+For school-aged children, Word Order measures this recall ability both 
+with and without an interference task. This task assesses several skills: 
+auditory-visual integration, auditory-motor memory, and retention without 
+rehearsal. 
+
+The Simultaneous Processing Scale represents the subtests in which 
+input has to be integrated and synthesized simultaneously to produce the 
+appropriate solution. It includes 4 subtests: (1) Gestalt Closure measures 
+the child’s ability to “fill in the gaps” in a partially completed drawing 
+and to name or describe that drawing. This task measures the following 
+skills: perceptual closure, perceptual inference, and conversion of 
+abstract stimuli into a concrete object; (2) Triangles measures the child’s 
+ability to assemble several identical rubber triangles to match a picture 
+of an abstract design; this task measures nonverbal concept formation; 
+
+(3) Matrix Analogies measures the child’s ability to select the picture or 
+design that best completes a 2-by-2 visual analogy; this task assesses 
+analytic thinking; and (4) Spatial Memory measures the child’s ability to 
+recall the location of pictures arranged randomly on a page; this task 
+assesses immediate recall and spatial localization. 
+Mental Processing Composite is a combination of the Sequential and 
+Simultaneous Processing Scales and is intended as the measure of total 
+intelligence in the assessment battery. The K-ABC provides individual 
+scores for each subtest, total scores for both Sequential and 
+Simultaneous Processing Scales, and a score that combines both, the 
+Mental Processing Composite. 
+
+Verbal Intelligence was assessed using the Vocabulary subtest from 
+the Wechsler Intelligence Scale for Children (WISC-R 95).22 The 
+Vocabulary subtest consists of 25 words arranged in order of increasing 
+difficulty. The child is asked to explain orally the meaning of each word. 
+The task reflects the ability to learn and accumulate information and provides 
+an estimate of intellectual capacity. Performance on this subtest is 
+stable over time and relatively resistant to neurologic deficit and psychologic 
+disturbance.22 Vocabulary is the most reliable subtest (r = .86) 
+in the verbal scale of the WISC-R95.22 
+
+Polysomnography 
+
+The polysomnography (PSG) study was performed using a computerized 
+commercially available sleep-monitoring system (SensorMedics 
+Inc, Yorba Linda, Calif, USA) and streamed through to an optical disk 
+for later analysis. The PSG was performed as previously described.2 
+
+Scoring 
+
+Scoring was done by a trained technician and reviewed by a trained 
+polysomnographer. Sleep-wake and sleep stages were scored according 
+to Rechtschaffen and Kales criteria.23 Arousals and awakenings were 
+scored using the American Sleep Disorders Association criteria24 with 
+appropriate modifications for children.25 The arousal index was calculated 
+as the number of arousals per hour of sleep. 
+
+Obstructive apneic and hypopneic events were scored according to the 
+recommended pediatric criteria of the American Thoracic Society.26 
+Obstructive apnea was defined as paradoxical breathing for at least 2 respiratory 
+cycles with complete cessation of nasal airflow (airflow reduction 
+of at least 80%). A hypopnea was scored when the paradoxical 
+breathing was accompanied by a reduction of at least 50% in airflow, 
+resulting in either an arousal or in oxygen desaturation of at least 4%. 
+The respiratory disturbance index (RDI) was calculated as the number of 
+respiratory events (apneas + hypopneas) per hour of sleep. The oxygen 
+saturation variables included mean and nadir SaO2 and the desaturation 
+index (the number of desaturation events [SaO2 decrease of at least 4%] 
+per hour of sleep). The diagnosis of OSAS was based on a history of 
+snoring, difficulty in breathing during sleep, and apnea witnessed by parents 
+in children with obvious hypertrophied adenoids and tonsils with an 
+RDI of at least 1 per hour. When the clinical diagnosis of OSAS was 
+obvious (sleep questionnaire and physical diagnosis) and associated with 
+kissing tonsils, PSG was not done. The need for adenotonsillectomy was 
+determined by the pediatric otolaryngologist (AL) based on both clinical 
+
+Neurocognitive Function in Sleep Apnea—Friedman et al 
+
+
+and polysomnographic data.15 All children were followed after adenotonsillectomy 
+in our outpatient clinic, but PSGs were not repeated after 
+the operation as part of this study. 
+
+Statistical Analysis 
+
+Parametric tests were used when appropriate (for normally distributed 
+variables): group t-test, paired t-test, and analysis of variance. 
+Correlations were made using the Pearson Correlation Coefficient Test. 
+For nonnormally distributed variables, we used nonparametric tests: 
+Wilcoxon Signed Rank Test, Mann Whitney U-Test, and Spearman 
+Correlation Coefficient. Data analysis was performed using SPSS 
+(SPSS, Inc., Chicago, Ill). 
+
+Table 1—Sleep characteristics* of children with obstructive sleep 
+
+apnea syndrome and control subjects 
+Sleep characteristic OSAS Control P value 
+n = 39 n = 20 
+Difficulties at bedtime 0 (0 – 4) 0 (0 – 2) .24 
+Restless sleep 3 (0 – 4) 1 (0 – 3) .0003 
+Child wakes up at night 2 (0 – 4) 1 (0 – 2) 0.003 
+Child sits in bed during sleep 1 (0 – 4) 0 (0 – 0) .0009 
+Child sleeps with his mouth open 4 (0 – 4) 0 (0 – 4) .0001 
+Child sweats during sleep 1 (0 – 1) 0 (0 – 2) .02 
+Snoring 3.5 (0 –4) 0 (0 – 1) .0000 
+Child snores at least half of the sleep time 3 (0 – 4) 0 (0 – 1) .0000 
+Breathing difficulties during sleep 3 (0 – 4) 0 (0 – 1) .0000 
+Apneas observed by the parents 2 (0 – 4) 0 (0 – 0) .0000 
+Difficulties waking up in the morning 3 (0 – 4) 1 (0 – 4) .02 
+Child complains of being tired when wakes up 2 (0 – 4) 1 (0 – 4) .004 
+Childs complains of being tired in the afternoon 1 (0 – 4) 0 (0 – 2) .002 
+Daytime tiredness/sleepiness 1 (0 – 4) 0 (0 – 2) .0001 
+
+*Data are presented as the median (range) of occurrence on a 5-point scale (0, never ; 1, 
+seldom; 2, sometimes; 3, often; 4, almost every night), obtained by sleep questionnaires 
+before treatment. (Mann-Whitney U test). OSAS refers to obstructive sleep apnea syndrome. 
+
+
+Table 2—Neurocognitive functions* before treatment in children with 
+obstructive sleep apnea syndrome and in healthy controls. 
+
+Cognitive test OSAS Control P value 
+n = 39 n = 20 
+Vocabulary 10.4 ± 2.9 10.6 ± 2.3 .70 
+Gestalt closure 11.4 ± 2.6 11.0 ± 2.9 .76 
+Number recall 11.4 ± 2.6 12.0 ± 3.1 .80 
+Triangles 9.3 ± 2.9 10.2 ± 2.3 .70 
+Word order 10.1 ± 2.7 11.5 ± 1.7 .02 
+Matrix analogies 9.7 ± 3.4 11.5 ± 2.4 .02 
+Spatial memory 10.4 ± 2.5 11.3 ± 2.1 .60 
+Sequential Processing Scale 104.6 ± 14.4 111.9 ± 15.4 .08 
+Simultaneous± Processing Scale 101.7 ± 12.6 106.9 ± 9.3 .09 
+Mental Processing Composite 102.9 ± 12.9 109.9 ± 9.4 .02 
+
+*Data are presented as mean ± SD. OSAS refers to obstructive sleep apnea syndrome. 
+
+The magnitude of the changes in cognitive scores after adenotonsillectomy 
+was calculated as the effect sizes and relative difference. Effect 
+sizes are calculated by taking the difference between the means before 
+and after treatment and dividing it by the standard deviation of the same 
+measure before treatment. Effect sizes are used to translate the beforeand-
+after changes in a 1-group situation into a standard unit of measurement 
+that will provide a clearer understanding of health-status results.27 
+Cohen28 defined an effect size of 0.20 as small, 0.50 as moderate, and 
+
+0.80 or greater as large. The relative difference is calculated by dividing 
+the difference between the pretreatment and posttreatment scores by the 
+pretreatment score. 
+RESULTS 
+
+Subjects 
+
+Between September 2000 and June 2002, 41 children with OSAS 
+aged 5 to 9 years and 20 control children (10 boys and 10 girls, mean age 
+
+7.4 ± 1.4 years) underwent neurocognitive testing. Two children were 
+excluded from the OSAS group because their cognitive test results were 
+more than 3 SD above the mean. Thus, 39 children with OSAS (25 boys 
+and 14 girls; mean age, 6.8 ± 0.2 years) comprised the study group 
+(Figure 1). Twenty-seven of the 39 children with OSAS had a follow-up 
+neurocognitive evaluation, including questionnaires and cognitive testing, 
+6 to 10 months after adenotonsillectomy. Twelve children were not 
+reevaluated; 9 of the 39 children with OSAS did not undergo adenotonsillectomy 
+(5 according to the otolaryngologist’s decision, 4 due to 
+parental decisions), and 3 others did not return for the follow-up neurocognitive 
+evaluation. Fourteen of the 20 children in the control group 
+were also reevaluated using the same cognitive tests 6 to 10 months after 
+the first evaluation (time controls). 
+There were no significant differences between the 27 children who 
+comprised the study group and the 12 who did not repeat the neurocognitive 
+evaluation, with regard to their history according to the questionnaires, 
+the baseline polysomnographic data, and the neurocognitive tests 
+obtained at baseline. 
+
+There were no significant differences between the OSAS group (n = 
+39) and the control group (n = 20) in socioeconomic or health status, 
+except for a higher prevalence of allergic rhinitis, asthma, and a tendency 
+to use symptom-relieving medication in the OSAS group. There were 
+no significant differences between the groups in number of hospitalizations, 
+family history of snoring, and parents who smoked. 
+
+Of the 39 children with OSAS, 26 had undergone PSG as part of the 
+initial evaluation. Their mean RDI was 6.5 ± 4.3 (range: 1.0-20.3); their 
+mean arousal index was 19 ± 6 (range: 11.9-25.2), and their mean desaturation 
+index was 0.6 ± 0.7 (range: 0-2.7). The 9 children who did not 
+undergo adenotonsillectomy had a lower RDI (4.3 ± 2.6; range: 1.5-7.6) 
+as compared with the 17 other children who did undergo adenotonsillectomy 
+(7.5 ± 5, range: 1-20.3). 
+
+Sleep Questionnaire
+
+Table 3—Neurocognitive function* in children with obstructive sleep apnea syndrome who 
+
+As seen in Table 1, the children with OSAS had 
+
+underwent adenotonsillectomy and controls 
+
+Cognitive test OSAS 
+(n = 27) 
+Before 
+Vocabulary 10.3 ± 2.7 
+Gestalt closure 11.5 ± 2.0 
+Number recall 11.2 ± 2.7 
+Triangles 9.2 ±3.0 
+Word order 9.8 ± 2.9 
+Matrix analogies 9.8 ± 3.1 
+Spatial memory 10.4 ± 2.6 
+Sequential Processing Scale 102.8 ± 15.6 
+
+Simultaneous Processing Scale 101.4 ± 12.1 
+Mental Processing Composite 102.1 ± 13.6 
+
+
+significantly higher scores on the sleep question-
+Control naire, as compared to healthy controls, in bedtime 
+After P value 
+(n = 14) 
+First Second P value difficulties, restless and fragmented sleep, tendency 
+to breathe with open mouth, and tendency to sweat 
+10.8 ± 2.6 .147 10.9 ± 2.4 11.3 ± 1.3 .38 during sleep. Snoring, breathing difficulties, and 
+13.1 ± 1.9 
+11.2 ± 2.8 
+10.9 ± 3.2 
+11.6 ± 3.1 
+.001 
+.90 
+.02 
+.001 
+11.4 ± 2.6 
+12.1 ± 2.9 
+10.3 ± 3.9 
+11.7 ± 1.7 
+11.6 ± 2.3 
+12.3 ± 2.7 
+11.0 ± 2.7 
+11.6 ± 2.1 
+.61 
+.69 
+.28 
+.90 
+episodes of apnea were significantly more prevalent 
+in the OSAS group, as were difficulties in waking 
+up and reports of daytime sleepiness. 
+11.4 ± 2.1 .012 11.1 ± 1.9 12.6 ±1.9 .26 Parents reported that children with OSAS had11.7 ±2.6 
+109.3 ± 19 
+113.8 ± 14 
+.046 
+.03 
+.001 
+11.8 ±1.8 
+112.8 ± 14.9 
+108.3 ±10.2 
+11.9 ±1.3 
+112.9 ±15.5 
+113.0 ± 10.6 
+.80 
+.98 
+.025 
+significantly more attention and concentration difficulties, 
+restlessness, and a tendency to act impul113.2 
+± 14 .001 113.3 ± 9.7 115.6 ± 10.4 .035 sively and carelessly. 
+Comparison of the responses to the question-
+
+Data are presented as mean ± SD before and after adenotonsillectomy in the OSAS (obstructive sleep apnea syndrome) 
+
+naires before and 6 to 10 months after adenotonsil
+
+
+group and for baseline and repeated testing in the control group. 
+
+SLEEP, Vol. 26, No. 8, 2003 1001 Neurocognitive Function in Sleep Apnea—Friedman et al 
+
+
+lectomy revealed significant improvement in sleep characteristics, as 
+reflected in questions concerning restless sleep (the score decreased 
+from a median of 3 [range: 0-4] to 1 [range: 0-1], P< .01); breathing difficulties 
+(from 3 [range: 0-4] to 1 [range: 0-4], P< .001); snoring (from 
+
+3.5 [range: 1-4) to 1 [range: 0-4], P< .001); and apneas during sleep 
+(from 2 [range: 0-4] to 0 [range: 0-2], p < .005). There were no significant 
+changes in reports of bedtime and wake-up problems and of daytime 
+sleepiness. Improvement in the child’s behavior during the day was 
+shown in reports of restlessness (0.08) and tendency to be easily distracted 
+(0.07). 
+Neurocognitive Assessment 
+
+Children with OSAS showed impaired neurocognitive 
+performance compared with 
+healthy children (Table 2). As compared with 
+those of controls, the scores of children with 
+OSAS were significantly lower in the K-ABC 
+in the subtests Word Order (P< .02) and Matrix 
+Analogies (P< .02) and in the general scale of 
+Mental Processing Composite (P< .02). The 
+trend of poorer neurocognitive performance 
+was shown in most of the other K-ABC subtests 
+(Table 2). There was no significant difference 
+between the groups in the Vocabulary test of the 
+WISC-R95. 
+
+There was no correlation between neurocognitive 
+performance and OSAS severity (represented 
+by RDI or SaO2) or indexes of sleep 
+fragmentation (number of arousals and awakenings) 
+(Spearman correlation coefficient). 
+
+Effect of Adenotonsillectomy 
+
+Six to 10 months after adenotonsillectomy, 
+children with OSAS demonstrated significant 
+improvement in neurocognitive performance 
+(Table 3). The mean scores improved significantly 
+in the OSAS group in the subtests 
+Gestalt Closure (P< .001), Triangles (P< .02), 
+Word Order (P < .001) and Matrix Analogies (P 
+< .02). None of these subtests changed significantly 
+in the control group. All 3 K-ABC general 
+scales showed significant improvement 
+after adenotonsillectomy (Table 3): Sequential 
+Processing Scale (102.8 ± 15.6 to 109.3 ± 19, P 
+< .03), Simultaneous Processing Scale (101.4 ± 
+
+12.1 to 113.8 ± 14, P < .001), and the Mental 
+Processing Composite, a score that sums up all 
+the K-ABC subtests, (102.1 ± 13.6 to 113.2 ± 
+14, P< .001). Figure 2 shows the individual 
+change between scores of the K-ABC scales 
+before and after adenotonsillectomy in 27 children 
+with OSAS and 14 controls. 
+In order to compare the magnitude of the 
+change in neurocognitive functions after adenotonsillectomy 
+in the OSAS group, and in the 
+second evaluation in the control group, we calculated 
+the effect size and relative difference of 
+the neurocognitive tests (Table 4). 
+Improvement expressed as effect size of 0.2 
+was documented in the OSAS group in all but 1 
+of the K-ABC subtests. In 3 of the subtests 
+(Gestalt Closure, Triangles and Word Order), 
+the effect size was > 0.50, indicating moderate 
+and more-meaningful change. The changes in 
+scores in the control group were small in the 
+
+subtests Triangles, and Matrix Analogies (effect size of 0.24 and 0.44, 
+respectively). In the remaining subtests, the change over time in the control 
+group was not significant (Table 4). The scores of the general scales 
+improved significantly in the OSAS group, with large effect size for the 
+Simultaneous Processing Scale (1.0) and Mental Processing Composite 
+(0.86), and moderate effect size for the Sequential Processing Scale 
+(0.44). Two of the general K-ABC scales also improved significantly in 
+the control group, but the changes were smaller (effect size 0.38 and 0.33 
+for Simultaneous Mental Processing and Mental Processing Composite, 
+respectively). The relative difference of the changes for these 2 general 
+scales was significantly higher in the OSAS group as compared with the 
+normal controls (P< .01). 
+
+Figure 2—Individual data of the 3 Kaufman Assessment Battery for Children general scales in the obstructive sleep apnea 
+syndrome (OSAS) group (n = 27) (before [pre] and after [post] adenotonsillectomy), and the control group (n = 14) (first [1st] 
+at baseline, second [2nd] 6-10 months later). Mean ± SD scores are given for each group. 2a: data for Sequential Processing 
+Scale; 2b: data for Simultaneous Processing Scale; 2c: data for Mental Processing Scale. *P < .001; **P< .03 
+SLEEP, Vol. 26, No. 8, 2003 1002 Neurocognitive Function in Sleep Apnea—Friedman et al 
+
+
+
+DISCUSSION 
+
+The results of the present study confirm previous reports indicating 
+impaired neurocognitive functions in children with OSAS. The results 
+also show that treatment with adenotonsillectomy significantly improves 
+most neurocognitive functions, at least in mild to moderate OSAS, when 
+measured several months following therapy. The magnitude of the 
+improvement was significantly higher in children with OSAS as compared 
+with normal children who were followed as a control group. The 
+finding that the mean scores of the cognitive tests of the OSAS group 
+after adenotonsillectomy did not differ from the healthy controls indicates 
+that the impairment in neurocognitive functions was mostly 
+reversible, at least by 6 to 10 months following adenotonsillectomy. The 
+children with OSAS were otherwise healthy children who had hypertrophied 
+adenoids and tonsils with mild to moderate OSAS. Several months 
+after their children’s adenotonsillectomy, parents reported significant 
+improvements in their children’s sleep characteristics, as well as a tendency 
+to improve behavior parameters, such as restlessness (P = .08) and 
+the ability to maintain attention (P = .07). 
+
+Neurocognitive Functions 
+
+This study evaluated specific neurocognitive functions. The chosen 
+test battery enabled examination of the cognitive-processing style 
+among children suffering from OSAS. Performance in the K-ABC test 
+reflects the ability of a child to obtain academic achievements.20 
+
+When choosing the tests, we had in mind that, in adults, the most frequently 
+reported impaired neurocognitive functions in patients with 
+OSAS were verbal and visual short-term memory, attention capacity, 
+problem-solving strategies, and general intelligence.29-32 Adults with 
+OSAS display performance difficulties in assignments that require attention 
+or immediate and delayed recall of verbal and visual information.
+29,33 Other findings include impairments in high cognitive functions 
+such as problem solving, executive functions, and sequential thinking 
+and deficits in learning abilities.29,30,33,34 
+
+Gozal7 has noted a link between sleep-disordered breathing and poor 
+academic achievement, reporting a high prevalence of OSAS among 
+first-graders in the lowest tenth percentile of their class, and an improvement 
+in their school performance after adenotonsillectomy. Our study 
+confirms that children with OSAS are at risk to be underachievers. We 
+found significant differences between children with OSAS and a control 
+group in cognitive tests that have been shown to correlate with academic 
+functioning at school. Children with OSAS showed significantly poorer 
+performance in the Matrix Analogies test. This particular test has been 
+shown to correlate highly with school grades20,21 and requires analytic 
+thinking, an essential factor in academic functioning. This subtest 
+requires functions such as auditory-visual integration and auditory-
+motor memory. Poor performance in this test indicates a short attention 
+span.19,20 The fact that children with OSAS show a lower function in the 
+Mental Processing Composite suggests that they do not process infor-
+
+Table 4—Effect size and relative difference of neurocognitive change from baseline 
+
+lectomy improves breathing during sleep and cures OSAS
+
+in controls and before and after adenotonsillectomy in children with obstructive sleep 
+
+apnea syndrome 
+
+Cognitive Test Effect size Relative difference 
+OSAS Controls OSAS Controls 
+Vocabulary 0.19 0.15 0.072 0.075 
+Gestalt closure 0.62 0.08 0.155 0.032 
+Number recall 0.015 0.056 0.038 0.023 
+Triangles 0.59 0.24 0.294 0.117 
+Word order 0.68 -0.02 0.250 0.010 
+Matrix analogies 0.46 0.44 0.28 0.166 
+Spatial memory 0.48 0.05 0.20 0.036 
+Sequential Processing Scale 0.44 0.005 0.07 0.004 
+Simultaneous Processing Scale 1.00 0.38 0.129 0.046 
+Mental Processing Composite 0.86 0.33 0.112 0.04 
+OSAS refers to obstructive sleep apnea syndrome. 
+SLEEP, Vol. 26, No. 8, 2003 1003 
+
+mation efficiently, thereby lowering their learning abilities and academic 
+performance. Our findings cannot rule out the possibility of partial 
+irreversible damage to academic function even after treatment.8 The 
+impaired neurocognitive function found here can cause a cumulative 
+deficit in academic achievements that may be detected only later in life. 
+It can also cause an academic gap between the child and his or her classmates 
+that requires time and effort to reduce. 
+
+There was no significant difference between the 2 groups in the 
+Vocabulary test. Findings in adults with OSAS are variable. Some studies 
+reported lower function in this task as a result of sleep apnea,34 while 
+others did not.29 Vocabulary reflects the child’s experiences and education 
+environment and is alleged to be insensitive to neurologic changes 
+in the brain.18 Functioning in this test reflects the continuous impact of 
+the environment. The process of learning and accumulating information 
+starts in infancy and is prolonged.21 This may explain why the test is 
+resistant to possible neurologic impairment. 
+
+Intermittent hypoxemia and disruption of sleep architecture are the 
+main physiologic features of OSAS. Their relative contribution to the 
+neurocognitive deficits is still unclear. Several studies in adults found a 
+correlation between blood-gas measurements and neurocognitive performance.
+29,31,33 The degree of nocturnal hypoxemia showed a positive correlation 
+with the severity of neurocognitive impairment in tests measuring 
+attention, problem solving, and short-term recall.29 Deficits of neurocognitive 
+executive functions related to the prefrontal area in the cortex 
+failed to improve significantly after treatment, suggesting irreversible 
+anoxic disruption.30,31,35 Sleep disruption without hypoxemia 
+may also cause impairment in cognitive functioning.32,36 It is likely that 
+both hypoxemia and sleep fragmentation act synergistically in introducing 
+neurocognitive dysfunction. Recently, Beebe and Gozal37 presented 
+a theoretic model suggesting that restorative processes that occur during 
+sleep, as well as functional homeostasis of the cortex, may be disrupted 
+as a consequence of both hypoxemia and sleep fragmentation. In the present 
+study, we did not find any correlation between measures of oxygen 
+saturation (mean nocturnal SaO2, nadir SaO2, desaturation index), sleep 
+disruption (number of arousals and awakenings per hour), or OSAS 
+severity (represented by RDI) and the neurocognitive scores. Most children 
+in the present study had mild to moderate OSAS without evidence 
+of significant hypoxemia during sleep. 
+
+The relatively small number in the control group presents a limitation 
+of the study. It was difficult to recruit healthy children from the same 
+school and socioeconomic status; however, we believe the statistical differences 
+we found are still valid. In addition, the relatively small number 
+(n = 26) of children with PSG data and the variety of neurocognitive 
+variables limited the analysis, and a larger-scale study may be needed in 
+order to evaluate the relationship between the different sleep characteristics 
+and neurocognitive impairments. The fact that PSG was not repeated 
+after adenotonsillectomy may represent another relative limitation of 
+this study; however, we have focused on neurocognitive function. A 
+repeat PSG could be useful to identify the sleep characteristics that are 
+relevant to the improvement or nonimprovement in neurocognitive 
+function. However, the fact that adenotonsil
+
+
+in more than 80% of children is well documented.15-17 
+
+The Effect of Adenotonsillectomy 
+
+P value 
+Previous reports have shown an improvement in symp
+
+
+.95 toms and nocturnal hypoxemia,15,16 improved right ventric.
+03 
+
+ular function,3 improved respiratory disturbance as mea
+
+
+.81 
+
+.25 sured by PSG,17 improvement in growth factors,2 and 
+.013 improvement in behavior and quality of life19 following 
+.34 
+
+adenotonsillectomy. Little is known about specific neu
+
+
+.15 
+
+rocognitive function following adenotonsillectomy. Gozal 
+
+.10 
+.01 and Pope8 suggested that the learning problems might be 
+.01 only partially reversible. In the present study, neurocognitive 
+function significantly improved following adenoton-
+
+Neurocognitive Function in Sleep Apnea—Friedman et al 
+
+
+sillectomy. As seen in Table 4, the effect size of the change in neurocognitive 
+function indicates moderate and large improvement in most 
+tests.28 The general score of the Mental Processing Composite showed a 
+significantly large improvement after adenotonsillectomy (effect size of 
+0.86). An improvement of 11 points of IQ in the Mental Processing 
+Composite following adenotonsillectomy is a very substantial change. 
+This change enables the children to reach their original abilities and fulfill 
+their cognitive potential. The relative difference in scores was significantly 
+higher in children with OSAS as compared with the controls 
+(Table 4). These findings demonstrate a significant improvement in the 
+ability to process stimuli in sequential and simultaneous manners. 
+Cognitive factors such as perceptual closure, inference, and organization 
+improved significantly after adenotonsillectomy. In addition, visual and 
+auditory short-term memory, as well as the ability to solve problems and 
+to think analytically improved. These findings suggest that OSAS is a 
+reversible disruptive factor to the neurocognitive function of children, at 
+least in the short term (6 to 9 months after therapy). Theoretically, adenotonsillectomy 
+could have affected neurocognitive performance secondary 
+to improved hearing, not necessarily improved sleep characteristics. 
+
+
+Additional longer-term studies, starting in children at a younger age, 
+are needed in order to explore the mechanism of the neurocognitive dysfunction 
+in children with OSAS, its relationship with OSAS severity, 
+and the long-term consequences of sleep-disordered breathing in 
+younger-age children. 
+
+In summary, the present study confirms an impaired neurocognitive 
+function in otherwise healthy children with mild to moderate OSAS due 
+to hypertrophied adenoids and tonsils. Six to 10 months following adenotonsillectomy, 
+most impaired functions improved to the level of the 
+control group, indicating that the impaired neurocognitive functions are 
+fully reversible. 
+
+REFERENCES 
+
+1. 
+Ali NJ, Pitson DJ, Stradling JR, Snoring, sleep disturbance, and behavior in 4-5 year 
+olds. Arch Dis Child 1993;68:360-6. 
+2. 
+Bar A, Tarasiuk A, Segev Y, Phillip M, Tal A. The effect of adenotonsillectomy on serum 
+insulin-like growth factor-I and growth in children with obstructive sleep apnea syndrome. 
+J Pediatr 1999;135:76-80. 
+3. 
+Tal A, Leiberman A, Margulis G, Sofer S. Ventricular dysfunction in children with 
+obstructive sleep apnea: radionucleide assessment. Pediatr Pulmonol 1988;4:139-43. 
+4. 
+Amin RS, Kimball TR, Bean JA, et al. Left ventricular hypertrophy and abnormal ventricular 
+geometry in children and adolescents with obstructive sleep apnea. Am J Respir 
+Crit Care Med 2002;165:1395-9. 
+5. 
+Guilleminault C, Korobkin R, Winkle R. A review of 50 children with obstructive sleep 
+apnea syndrome. Lung 1981;159:275-87. 
+6. 
+Chervin RD, Dillon JE, Bassetti C, Ganoczy DA, Pituch KJ. Symptoms of sleep disorders, 
+inattention, and hyperactivity in children. Sleep 1997;20:1185-92. 
+7. 
+Gozal D. Sleep-disordered breathing and school performance in children. Pediatrics 
+1998;102:616-20. 
+8. 
+Gozal D, Pope DW Jr. Snoring during early childhood and academic performance at 
+ages thirteen to fourteen years. Pediatrics 2001;107:1394-9. 
+9. 
+Owens J, Opipari L, Nobile C, Spirito A. Sleep and daytime behavior in children with 
+obstructive sleep apnea and behavioral sleep disorders. Pediatrics 1998;102:1178-84. 
+10. 
+Rosen CL. Clinical features of obstructive sleep apnea hypoventilation syndrome in otherwise 
+healthy children. Pediatr Pulmonol 1999;27:403-9. 
+11. 
+Bulden S, Lushington K, Kennedy D, Martin J, Dawson D. Behavior and neurocognitive 
+performance in children aged 5-10 years who snored compared to controls. J Clin 
+Exp Neuropsychol 2000;22:494-8. 
+12. 
+Ali NJ, Pitson D, Stradling JR. Sleep disordered breathing: effects of adenotonsillectomy 
+on behavior and psychological functioning. Eur J Pediatr 1996;155:56-62. 
+13. 
+Goldstein NA, Post JC, Rosenfeld RM, Campbell TF. Impact of tonsillectomy and adenoidectomy 
+on child behavior. Arch Otolaryngol Head Neck Surg 2000;126:494-8. 
+14. 
+Harvey JM, O’Callaghan MJ, Wales PD, Harris MA, Masters IB. Six month follow-up 
+of children with obstructive sleep apnea. J Pediatr Child Health 1999;35:136-9. 
+15. 
+Tal A, Bar A, Leiberman A, Tarasiuk A. Changes in sleep characteristics following adenotonsillectomy 
+in children with obstructive sleep apnea syndrome. Chest 
+2003;124:948-53. 
+16. 
+Stradling JR, Thomas G, Warely ARH, Williams P, Freeland A. Effect of adenotonsillectomy 
+on nocturnal hypoxemia, sleep disturbance, and symptoms in snoring children. 
+Lancet 1990;335:249-53. 
+17. 
+Suen JS, Arnold JE, Brooks LJ. Adenotonsillectomy for treatment of obstructive sleep 
+apnea in children. Arch Otolaryngol Head Neck Surg 1995;121:525-30. 
+18. 
+Miller E. Some basic principals of neuropsychological assessment. In:Crawford RJ, 
+Parker DM. McKinnley WW, eds. A Handbook of Neuropsychological Assessment. 
+Hillsdale: Lawrence Erlbaum Associates Ltd; 1992:15-9. 
+19. 
+Goldstein NA, Fatima M, Campbell TF, Rosenfeld RM. Child behavior and quality of 
+life before and after tonsillectomy and adenoidectomy. Arch Otolaryngol Head Neck 
+Surg 2002;128:770-5. 
+20. 
+Kaufman SA, Kaufman NL. Kaufman Assessment Battery for Children-Israeli Version. 
+Interpretive Manual. Jerusalem: Ministry of Education, Culture & Sports; 1996. 
+21. 
+Kahan S. Wechsler Intelligence Scale for Children-Revised 95-Manual. Jerusalem: 
+Ministry of Education, Culture and Sport; 1998. 
+22. 
+Kaufmn SA. Intelligence Testing with the WISC-R. New York: Wiley Interscience; 
+1979. 
+23. 
+Rechtschaffen A, Kales A. A manual of standardized terminology: techniques and scoring 
+system for sleep stage of human subjects. US Public Health Service, 1968. NIH 
+Publication No. 204. 
+24. 
+EEG arousals: scoring rules and examples: a preliminary report from the Sleep Disorders 
+Atlas Task Force of the American Sleep Disorders Association. Sleep 1992;15:173-84. 
+25. 
+Mograss MA, Ducharme FM, Brouillette RT. Movements/arousals. description, classification, 
+and relationship to sleep apnea in children. Am J Respir Crit Care Med 
+1994;15:1690-6. 
+26. 
+Standards and indications for cardiopulmonary sleep studies in children. American 
+Thoracic Society. Am J Respir Crit Care Med 1996;153:866-78. 
+27. 
+Kazis LE, Anderson JJ, Meenan RF. Effect sizes for interpreting changes in health status. 
+Med Care 1989;27(3Suppl):S178-89. 
+28. 
+Cohen J. Statistical power analysis for the behavioral sciences. New York: Academic 
+Press; 1977:8. 
+29. 
+Findley L, Barth JT, Powers DC, Wilhoit SC, Boyed DG, Scratt PM. Cognitive impairment 
+in patients with obstructive sleep apnea and associated hypoxemia. Chest 
+1986;90:686-90. 
+30. 
+Naegele B, Pepin JL, Levy P, Bonnet C, Pellat J, Feuerstein C. Cognitive executive dysfunction 
+in patients with obstructive sleep apnea syndrome after CPAP treatment. Sleep 
+1998;21:392-7. 
+31. 
+Bedard MA, Montplaisir J, Malo J, Richer F, Rouleau I. Persistent neuropsychological 
+deficits and vigilance impairment in sleep apnea syndrome after treatment with continuous 
+positive airway pressure (CPAP). J Clin Exp Neuropsychol 1993;15:330-41. 
+32. 
+Englman HM, Kingshott RN, Martin SE, Douglas NJ. Cognitive function in the sleep 
+apnea/hypopnea syndrome (SAHS). Sleep 2000;23(Suppl 4):S102-8. 
+33. 
+Naegele B, Thouvad V, Pepin JL, et al. Deficits of cognitive executive functions in 
+patients with sleep apnea syndrome. Sleep 1995;18:43-52. 
+34. 
+Rhodes SK, Shimoda KC, Waid LR, et al. Neurocognitive deficits in morbidly obese 
+children with obstructive sleep apnea. J Pediatr 1995;127:741-4. 
+35. 
+Feuerstein C, Naegele B, Pepin JL, Levy P, Frontal lobe-related cognitive functions in 
+patients with sleep apnea syndrome before and after treatment. Acta Neurol Belg 
+1997;97(2):96-107. 
+36. 
+Martin SE, Engelman HM, Dery IJ, Douglas NJ. The effect of sleep fragmentation on 
+daytime function. Am J Respir Crit Care Med 1996;153:1328-32. 
+37. 
+Beebe DW, Gozal D. Obstructive sleep apnea and the prefrontal cortex: towards a comprehensive 
+model linking nocturnal upper airway obstruction to daytime cognitive and 
+behavioral deficits. J Sleep Res 2002;11:1-16. 
+APPENDIX 
+
+The Sleep Questionnaire 
+
+Child’s demographic information 
+
+Name & ID 
+Address 
+Telephone number 
+Date of birth 
+Gender 
+Number of siblings 
+Number of persons sharing the child’s room 
+
+Parent’s demographic information 
+
+Father’s Profession 
+Father’s Ethnicity 
+Mother’s Profession 
+Mother’s Ethnicity 
+
+Family (first degree members) information 
+
+Smoking (Yes/No) 
+Snoring (Yes/No) 
+Asthma or chronic lung disease (Yes/No) 
+
+
+Child’s Medical Problems 
+
+Medications 
+Allergies 
+Adenoids and/or tonsils removed (Yes/No) 
+Asthma (Yes/No) 
+Frequent colds (Yes/No) 
+
+
+SLEEP, Vol. 26, No. 8, 2003 
+1004 Neurocognitive Function in Sleep Apnea—Friedman et al 
+
+
+Constant runny nose (Yes/No) 
+Cardiac disease (Yes/No) 
+Arthritis (Yes/No) 
+Does your child have a diagnosed behavioral problem (Yes/No) 
+
+
+The following questions can be answered by “never”, “seldom”, “sometimes” 
+“often” or “almost always” (score of 0,1,2,3,4, respectively). 
+
+Does your child go to bed unwillingly? 
+Does your child express fear or worries before going to bed? 
+Does your child complain about difficulties going to sleep? 
+Does your child complain of difficulties falling asleep at night? 
+Does it take more than 30 minutes for your child to fall asleep at night? 
+Is your child a restless sleeper? 
+Does your child wake up at night? 
+Does your child get up to go to the bathroom during the night? 
+While asleep, does your child ever sit up in bed? 
+Is your child a mouth-breather during sleep? 
+Is your child a daytime mouth-breather? 
+Does your child have nightmares? 
+Does your child have problems with bed wetting? 
+Does your child sweat more than usual during sleep? 
+Have you observed him/her sleepwalking? 
+Does your child snore during sleep? 
+Does he snore during at least half of the night? 
+Does your child have difficulties breathing during sleep? 
+Do you ever shake your child to make him/her breathe again when 
+asleep? 
+Does your child stop breathing during sleep? 
+Is your child easy to wake up in the morning? 
+Is your child sleepy when he/she wakes up in the morning? 
+Is your child sleepy during the daytime? 
+Does your child complain about tiredness/sleepiness in the afternoon? 
+How long does your child sleep at night? 
+At what time does your child go to bed? 
+How long does your child sleep during the day? 
+
+
+When answering the next six questions, please use “not at all”, “sometimes” 
+or “very much.” 
+
+Does the behavior described in each sentence characterize your child? : 
+He/she has difficulties concentrating during school activities. 
+He/she has difficulties in maintaining attention on one task for a long 
+time. 
+He/she has a tendency to act carelessly and not notice details. 
+He/she is easily distracted from his/her activities (by noise, etc.). 
+He/she is restless, jumpy. 
+Many times he/she acts impulsively. 
+
+
+SLEEP, Vol. 26, No. 8, 2003 1005 Neurocognitive Function in Sleep Apnea—Friedman et al 
+
+

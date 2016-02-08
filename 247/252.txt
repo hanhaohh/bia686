@@ -1,0 +1,701 @@
+BEHAVIORAL SLEEP MEDICINE, 3(1), 4–17 
+Copyright © 2005, Lawrence Erlbaum Associates, Inc. 
+
+Health-Related Quality of Life Among 
+Children Presenting to a Pediatric Sleep 
+Disorders Clinic 
+
+
+Chantelle N. Hart 
+
+Department of Child and Family Psychiatry 
+Rhode Island Hospital and Brown Medical School 
+
+
+Tonya M. Palermo 
+
+Department of Anesthesiology and Peri-Operative Medicine 
+Oregon Health and Sciences University 
+
+
+Carol L. Rosen 
+
+Department of Pediatrics 
+Case University School of Medicine 
+
+
+The present study is a retrospective review of a clinical database that assessed the association 
+between childhood sleep disturbances and health-related quality of life 
+(HRQOL). The sample consists of 80 caretakers of children ages 5 to 18 years referred 
+to a pediatric sleep disorders clinic. Caretakers completed the Child Health Questionnaire—
+Parent Form (CHQ-PF50) and the Children’s Sleep Habits Questionnaire 
+(CSHQ). Compared toanormative sample, caretakers of children with a sleep disorder 
+reported poorer scores on the CHQ-PF50. Caretaker reports of HRQOL did not differ 
+across sleep diagnostic groups, and scores on the CSHQ were not associated with 
+scores onthe CHQ-PF50. Results suggest that childrenwith sleepdisturbances experience 
+a variety of HRQOL decrements that may benefit from intervention. 
+
+Approximately one fourth of all school-aged children and adolescents have sleep 
+difficulties (Archbold, Pituch, Panahi, & Chervin, 2002; Ohayon, Roberts, Zulley, 
+Smirne, & Priest, 2000; Owens, Spirito, McGuinn, & Nobile, 2000) with an in-
+
+Requests for reprints should be sent to Chantelle Hart, Department of Child and Family Psychiatry, 
+Rhode Island Hospital and Brown Medical School, 593 Eddy Street, CORO West, Suite 204, Providence, 
+RI 02903. E-mail: chantelle_hart@brown.edu 
+
+
+HEALTH-RELATED QUALITY OF LIFE 
+
+creased prevalence of sleep problems among children who have comorbid developmental 
+disorders (i.e., pervasive developmental disorder, mental retardation; 
+Richdale, Francis, Gavidia-Payne, & Cotton, 2000; Schreck & Mulick, 2000). 
+However, despite their high prevalence, little is known regarding whether sleep 
+difficulties are associated with children’s health-related quality of life (HRQOL), 
+which can be defined as an individual’s subjective sense of well-being and functioning 
+within physical, emotional, and social domains (Jenkins, 1992; Levi & 
+Drotar, 1999). HRQOL is important to assess in children with sleep disturbances 
+for several reasons, including its potentially influential role in ensuring that children’s 
+health care needs are met (Guyatt, 1993; Schor, 1998). Furthermore, measures 
+of HRQOL can be used as tools to help parents and providers weigh the risks 
+and benefits of treating a particular sleep disturbance such as sleep disordered 
+breathing (SDB; de Serres et al., 2002). Finally, the success of a particular treatment 
+can be measured by how it impacts children’s HRQOL (i.e., by assessing 
+HRQOL both prior to and following treatment) and can inform decisions regarding 
+treatment effectiveness (de Serres et al., 2002), which provides a greater rationale 
+to third-party payers with respect to the importance of treating sleep disturbances 
+in children. 
+
+Although few studies have evaluated the association between sleep problems 
+and HRQOL, a number of investigations have found that sleep disturbances are associated 
+with impaired daytime functioning. For example, parent report of decreased 
+sleep duration in younger children is associated with an increase in parent 
+report of behavior problems and the presence of a comorbid psychiatric diagnosis 
+(Lavigne et al., 1999). Furthermore, self-reported sleep disturbances in adolescents 
+are associated with increased self-report of depressed mood and feeling 
+tense, moody, and irritable, as well as feeling less alert and energetic (Kirmil-Gray, 
+Eagleston, Gibson, & Thoreson, 1984; Wolfson & Carskadon, 1998). In their survey 
+study, Wolfson and Carskadon also found that adolescents with lower grades 
+in school (Cs–Fs) reported getting less sleep and going to bed later than adolescents 
+who received better grades (As and Bs). 
+
+In addition to the more general sleep complaints, specific sleep diagnoses and 
+symptoms such as snoring, SDB, and narcolepsy are also associated with poorer 
+daytime functioning. For example, narcolepsy in children and adolescents is associated 
+with self-reported feelings of embarrassment and lowered self-worth, 
+poorer academic achievement, and avoidant behaviors (i.e., avoiding social situations; 
+Broughton & Broughton, 1994). In addition, parent report of children’s 
+snoring is associated with daytime attention problems, hyperactivity, daytime 
+sleepiness, and lowered memory and intelligence scores (Ali, Pitson, & 
+Stradling, 1993; Blunden, Lushington, Kennedy, Martin, & Dawson, 2000; 
+Chervin et al., 2002; Chervin, Dillon, Bassetti, Ganoczy, & Pituch, 1997). There 
+is also evidence that habitual snoring (i.e., the presence of snoring at baseline 
+and 2 years later) increases the likelihood of daytime sleepiness and hyperactiv
+
+
+
+HART, PALERMO, ROSEN 
+
+ity in children (Ali, Pitson, & Stradling, 1994) and that comorbid behavioral 
+sleep diagnoses (e.g., sleep onset association disorder) heighten the negative impact 
+of SDB on children’s daytime behavior problems (Owens, Opipari, Nobile, 
+& Spirito, 1998). Given all of the research that suggests that poorer sleep (i.e., 
+decreased sleep duration or specific sleep disorders) is associated with decrements 
+in daytime functioning, it can be argued that assessing the association of 
+sleep difficulties and children’s global functioning (as measured by HRQOL) is 
+warranted. 
+
+Thus far, to our knowledge, three investigations have assessed the association 
+between HRQOL and sleep difficulties; all of these studies evaluated this association 
+within the context of SDB or adenotonsillar disease (de Serres et al., 2002; 
+Rosen, Palermo, Larkin, & Redline, 2002; Stewart et al., 2000). Rosen and colleagues 
+(2002) found that SDB was associated with parent report of decreased 
+overall physical health and increased reports of bodily pain in children. An additional 
+investigation found that as compared to a healthy normative sample, parents 
+of children with adenotonsillar disease reported poorer perceptions of their children’s 
+general health and poorer physical functioning as well as greater physical 
+and emotional/behavioral limitations, increased bodily pain, and more behavior 
+problems. Furthermore, differences were found between the healthy normative 
+sample and children with adenotonsillar disease regarding its impact on parent’s 
+emotions and time, family activities, and family functioning with parents of children 
+with adenotonsillar disease reporting more difficulties in each HRQOL domain 
+(Stewart et al., 2000). And finally, one investigation found that 
+adenotonsillectomy produced significant improvements in HRQOL of children 
+with SDB (de Serres et al., 2002). 
+
+Other than these few studies that focused on SDB/adenotonsillar disease, to 
+our knowledge, no investigations have assessed the association of a broader 
+range of childhood sleep difficulties with child and family HRQOL. Specifically, 
+no investigations have assessed whether there are any differences in HRQOL for 
+children with different sleep diagnoses. Moreover, to our knowledge, no pediatric 
+studies have assessed the relationship between a range of specific sleep behaviors 
+(e.g., frequent night wakings, parasomnias, snoring) and children’s 
+HRQOL. 
+
+On the basis of previous research findings, the aims of the present study were to 
+determine the following: (a) whether children coming to a pediatric sleep disorders 
+clinic would have poorer HRQOL compared to a normative sample of children; (b) 
+whether there are any differences in HRQOL in children with either a behavioral 
+sleep diagnosis (e.g., sleep onset association disorder), a biological/physiological 
+sleep diagnosis (e.g., obstructive sleep apnea; OSA), or a combined sleep diagnosis 
+(i.e., those given both a behavioral and a biological/physiological sleep diagnosis); 
+and (c) what specific reported sleep behaviors (e.g., SDB, night wakings) are 
+associated with HRQOL. 
+
+
+HEALTH-RELATED QUALITY OF LIFE 
+
+METHOD 
+
+Sample 
+
+Participants in the current investigation include a convenience sample of 80 consecutive 
+caretakers of children with completed data who came to a pediatric 
+sleep disorders clinic at an academic children’s hospital in the Midwest. Between 
+January 2000 and June 2002, 152 children 5 to 18 years old came to the 
+sleep disorders clinic. Two children were excluded from analysis because the 
+caregiver-reported sleep complaint was considered to represent normal behavior. 
+Eighty caretakers (53.3%) of children coming to the clinic had completed all 
+caretaker report forms and were therefore included in the final analytic sample. 
+Caretakers who accompanied the child to the appointment were predominantly 
+female (93.8%) and ranged in age from 21 to 63 years (M = 41.2, SD = 7.9). 
+Caretakers classified themselves as primarily Caucasian (77.5%), as having at 
+least a high school education (96.2%), as working at least part-time (62.5%), and 
+as primarily married (68.8%). 
+
+Children in the current investigation were predominantly male (62.5%) and 
+Caucasian (75.0%), ranging in age from 5 to 18 years old (M = 11.2, SD = 3.8). 
+Fifty-eight percent of the sample had a medical comorbidity (e.g., obesity, pulmonary 
+or neurologic diseases). Primary and secondary sleep diagnoses for the sample 
+are presented in Table 1. As can be seen in the table, 30 children (37.5%) had a 
+
+TABLE 1 
+
+Primary and Secondary Sleep Diagnoses for Pediatric Sleep Clinic 
+
+Sample 
+
+Primary Sleep Secondary Sleep 
+Diagnosisa Diagnosisb 
+
+Variables n % n % 
+
+Behavioral 
+Sleep-onset association disorder 6 7.5 1 1.3 
+Limit-setting sleep disorder 2 2.5 7 8.8 
+Psychophysiological insomnia 6 7.5 1 1.3 
+Inadequate sleep hygiene 16 20.0 11 13.8 
+
+Biological/physiological 
+Obstructive sleep apnea syndrome—sleep disordered breathing 27 33.8 1 1.3 
+Narcolepsy 3 3.8 0 0.0 
+Restless legs syndrome—periodic limb movement disorder 3 3.8 0 0.0 
+Parasomnia 5 6.3 1 1.3 
+Delayed sleep-phase syndrome 10 12.5 3 3.8 
+Excessive daytime sleepiness 2 2.5 2 2.5 
+
+Note. (N = 80). Fifty-three pediatric patients (66.3%) did not have a secondary sleep diagnosis. 
+a(N = 80). b(n = 27). 
+
+
+HART, PALERMO, ROSEN 
+
+primary behavioral sleep diagnosis, and 50 children (62.5%) had a primary biological/
+physiological diagnosis. Twenty-seven children (33.8%) were also diagnosed 
+with a secondary sleep disorder. For analytic purposes, sleep diagnoses were 
+coded into three categories: behavioral sleep disorders, biological/physiological 
+sleep disorders, and combined (i.e., a child assigned both a behavioral and a biological 
+sleep diagnosis). Table 2 presents characteristics of each of the three sleep 
+diagnostic groups. As can be seen in the table, groups were comparable across 
+child’s gender, age, and medical comorbidity. They differed on child’s racial category 
+with the combined and behavioral sleep groups consisting of more Caucasian 
+children than the biological/physiological group. Diagnostic groups were similar 
+across parental education and marital status. 
+
+Normative sample. Children within the present study were compared to a 
+normative sample on the Child Health Questionnaire—Parent Form 
+(CHQ-PF50; see later description of measure) in order to compare HRQOL between 
+children with sleep problems and a healthy comparison group. As described 
+in the manual for the CHQ-PF50, this normative sample is representative 
+of the general U.S. population on age, sex, and ethnicity (Landgraf, Abetz, & 
+Ware, 1996). The normative sample of children (N = 391) was predominantly 
+male (54.5%) and Caucasian (83.5%), ranging in age from 5 to 18 years old (M 
+= 11.5, SD = 3.7; Landgraf et al., 1996). Seventeen percent of the sample had a 
+medical comorbidity (e.g., asthma, epilepsy, orthopaedic problem). Normative 
+data for the CHQ-PF50 were gathered as part of the National Survey of Functional 
+Health Status, which was a cross-sectional survey that included the 
+CHQ-PF50. More detailed information regarding the sampling strategy can be 
+found within the manual (Landgraf et al., 1996). 
+
+TABLE 2 
+Characteristics of the Pediatric Sleep Diagnostic Groups 
+
+
+Behavioral Biological Combined 
+Groupa Groupb Groupc 
+Characteristic n % n % n % 
+Male gender 13 50 27 73.0 10 58.8 
+Caucasian race 21 80.8 23 62.2 16 94.1* 
+Age: M (SD) 10.7 (3.7) 11.5 (4.1) 11.5 (3.5) 
+Medical comorbidity 13 50.0 23 62.2 11 64.7 
+Married caretakers 17 65.4 25 67.6 13 76.5 
+Caretakers who completed college 14 53.8 17 45.9 7 41.2 
+
+a(n = 26). b(n = 37). c(n = 17). 
+*p < .05. 
+
+
+HEALTH-RELATED QUALITY OF LIFE 
+
+Measures 
+
+Demographic variables. General demographic variables were gathered at 
+intake, including child’s age, gender, ethnicity, and medical comorbidity. Caretaker 
+demographic data were also collected, including caretaker age, gender, ethnicity, 
+marital status, education, and employment status. 
+
+HRQOL. HRQOL was assessed with the CHQ-PF50, a widely used parent report 
+measure of children’s physical, emotional, and social functional status and 
+well-being (Landgraf et al., 1996). The CHQ-PF50 consists of 50 items and 12 
+subscales as well as two summary scores for physical and psychosocial health. 
+Subscale scores are scaled from 0 (worst health) to 100 (best health); summary 
+scores are computed from differentially weighted subscale scores and are transformedintot 
+scoreswithameanof50.Extensivedataregardingthedevelopment,reliability, 
+and validity of the measure for boys and girls of different ages and cultures 
+and with parents of differing levels of education and marital and work status are 
+available in the manual (Landgraf et al., 1996). Previous studies have demonstrated 
+goodinternalconsistencyforthephysicalandpsychosocialsummaryscores(a 
+=.84 
+to .97) in normativeandchronicillnesssamples;thealpha forsubscalescoresranged 
+from.56to.98inbothsamples(Landgrafetal.,1996).TheCHQ-PF50hasalsodemonstrated 
+good concurrent, convergent, and discriminant validity (Landgraf et al., 
+1996). Within the present sample, the internal consistency (alpha) for the physical 
+and psychosocial summary scores was .83. Internal consistencies (alphas) for the 
+subscale scores in the present sample were as follows: Physical Functioning, .76; 
+Role/Social Limitations—Emotional Behavior, .94; Role/Social Limitations—
+Physical Functioning, .95; Bodily Pain, .91; Behavior, .74; Mental Health, 
+.81; Self Esteem, .87; General Health, .67; Parental Impact—Emotional, .60; Parental 
+Impact—Time, .67; and Family Activities, .91. The family cohesion subscale is a 
+one-item scale, so internal consistency could not be estimated. 
+
+Sleep disturbances. The Children’s Sleep Habits Questionnaire (CSHQ) is 
+a 45-item, retrospective, parent-report measure designed to examine the sleep behaviors 
+of school-aged children (Owens, Spirito, & McGuinn, 2000). It yields a total 
+score and eight conceptually grouped subscale scores, including bedtime resistance, 
+sleep onset delay, sleep duration, sleep anxiety, night wakings, parasomnias, 
+SDB, and daytime sleepiness. Parents rate the frequency of sleep behaviors for a 
+“typical” week on a 3-point scale: “usually” (5–7 times per week), “sometimes” 
+(2–4 times per week), or “rarely” (0–1 times per week). Higher scores on the measure 
+indicate greater sleep disturbance. The total score and subscale scores for the 
+CSHQ demonstrated adequate internal consistency in a sleep clinic sample (a 
+= 
+.78 for total score; a 
+= .56 to .93 for subscales). Test–retest reliability for the 
+CSHQ subscales (i.e., Pearson’s correlations and Spearman’s rank order correla
+
+
+
+10 HART, PALERMO, ROSEN 
+
+tions) ranged from .62 to .79 in a community sample. Validity of the CSHQ was 
+supported by the instrument’s ability to differentiate between a clinical and community 
+sample and by the significantly higher scores of children with behavioral, 
+parasomnia, and SDB diagnoses on their respective subscales on the CSHQ (i.e., 
+the behavioral group scored higher than the parasomnia or SDB groups on the bedtime 
+resistance subscale). Internal consistency (alpha) in the present study for the 
+total sleep disturbance score was .68. Internal consistencies (alphas) for the 
+subscale scores in the present sample were as follows: bedtime resistance, .78; 
+sleep duration, .72; sleep anxiety, .68; night wakings, .58; parasomnias, .60; SDB, 
+.81; and daytime sleepiness, .63. 
+
+Sleep diagnosis. A multidisciplinary sleep clinic staff evaluated children 
+and made primary and secondary sleep diagnoses using the revised International 
+Classification of Sleep Disorders (ICSD) criteria (American Sleep Disorders Association, 
+1996). Diagnoses of OSA were confirmed by polysomnography. Four 
+children who came to the sleep clinic with excessive daytime sleepiness did not 
+meet full ICSD criteria for their primary (n = 2) or secondary (n = 2) sleep diagnosis, 
+although treatment was provided. Thus, it should be noted that the current sample 
+consists of both clinical and subclinical cases. 
+
+Procedure 
+
+The present study is a retrospective review of a clinical database that included routine 
+clinical screening data, the CHQ-PF50 and the CSHQ. Prior to the initial sleep 
+clinic visit, caretakers were asked to complete a series of questionnaires including 
+the CSHQ, the CHQ-PF50, questions about general health, and a sleep diary. Upon 
+arrival at the sleep clinic, the questionnaires were reviewed and caretakers and 
+children were interviewed and assessed by a multidisciplinary team consisting of a 
+pediatric pulmonologist/sleep medicine specialist and a pediatric psychologist, as 
+well as trainees and fellows in behavioral pediatrics and psychology. If a child was 
+suspected of having a diagnosis of OSA, referral was made for an overnight sleep 
+study to confirm the diagnosis. This study proposal underwent an expedited review 
+process from the Institutional Review Board, it was considered exempt from a full 
+review, and parent consent was waived because it was a retrospective review of 
+pre-existing de-identified clinical data collected from adults. 
+
+Data Analysis 
+
+All statistical analyses were run using the Statistical Software Package for the Social 
+Sciences (SPSS), 10th edition. Analysis of variance (ANOVA), phi tests, and 
+eta tests were used to compare sleep diagnostic groups across demographic variables. 
+One-sample t tests were used to compare the sleep clinic sample to pub
+
+
+
+HEALTH-RELATED QUALITY OF LIFE 11 
+
+lished normative values for the validation sample of the CHQ-PF50. Separate 
+ANOVAs were conducted to determine whether sleep diagnostic groups differed 
+on the subscale summary scores of the CHQ-PF50. Bivariate correlations 
+(Spearman’s correlation coefficient for the Sleep Onset Delay Subscale and 
+Pearson’s product–moment correlation coefficient for the remaining subscales of 
+the CSHQ) were calculated to assess the relationship between specific sleep behaviors 
+(i.e., CSHQ subscales) and children’s HRQOL (i.e., the psychosocial and 
+physical summary scores on the CHQ-PF50). 
+
+Except for the analyses comparing sleep diagnostic groups across demographic 
+variables (p < .05 was used to determine statistical significance), separate 
+ANOVAs (rather than multivariate ANOVA) with a Bonferroni-based correction 
+were chosen for analyses, based on recommendations by Jaccard and 
+Guilamo-Ramos (2002). Bonferroni-based corrections were used within each 
+hypothesis and were computed as follows (Jaccard & Guilamo-Ramos, 2002). 
+Within each set of analyses for a given hypothesis, probability values for each 
+contrast were obtained and ranked from smallest to largest. The smallest probability 
+value was evaluated against an alpha level of .05/k (where k equals the total 
+number of comparisons made to test a given hypothesis). The next smallest 
+probability value was evaluated against an alpha value of .05/ (k -1) and so on 
+until the final analysis was evaluated against an alpha value of .05. However, 
+once a statistically nonsignificant value was observed, all remaining comparisons 
+were considered nonsignificant (Jaccard & Guilamo-Ramos, 2002). 
+
+In the present study the following significance levels were used as the starting 
+probabilityvaluesfordeterminingsignificancewithineachgroupofanalyses.ComparisonofthesleepclinicsampletothepublishednormsontheCHQ-
+PF50, p<.004; 
+comparison between sleep diagnostic groups on the CHQ-PF50, p < .004; association 
+oftheCSHQsubscaleswith CHQ-PF50 subscaleandsummary scores, p <.003; 
+and comparison of children with and without medical comorbidities, p < .004. 
+
+RESULTS 
+
+Comparison of the Clinical Sample to Published Normative 
+Values on the CHQ-PF50 
+
+Scores for the sleep clinic sample were compared using one-sample t tests to the 
+published national norms for healthy children on the CHQ-PF50 (see Table 3). The 
+sleep clinic sample scored significantly lower than the published norms on all 
+subscales and summary scores, except for the family cohesion subscale. The largest 
+effects were found when comparing the sleep clinic and normative samples on 
+the parent impact—emotional subscale (d = 1.50), the family activities subscale (d 
+= 1.00), and the psychosocial summary score (d = 0.96). All remaining significant 
+comparisons had moderate effect sizes (d = 0.43 to 0.75). 
+
+
+12 HART, PALERMO, ROSEN 
+TABLE 3 
+Means and Standard Deviations for the Sleep Clinic Sample and the 
+Published Normative Values for the Child Health Questionnaire—Parent 
+Form Subscale and Summary Scores 
+Sleep Clinic Samplea Published Normative Valuesb 
+Measure M SD M SD d 
+Physical Functioning 83.2 21.3* 96.1 13.9 0.61 
+Role/Social–Physical 79.6 32.2* 93.6 18.6 0.43 
+General Health Perceptions 58.4 23.1* 73.0 17.3 0.63 
+Bodily Pain 68.0 29.1* 81.7 19.0 0.47 
+Family Activities 63.5 26.3* 89.7 18.6 1.00 
+Role/Social–Emotional/Behavioral 68.4 34.9* 92.5 18.6 0.69 
+Parental Impact—Time 69.3 27.6* 87.8 19.9 0.67 
+Parental Impact—Emotional 45.2 23.4* 80.3 19.1 1.50 
+Self Esteem 67.0 22.5* 79.8 17.5 0.57 
+Mental Health 68.5 15.8* 78.5 13.2 0.63 
+Behavior 59.7 21.3* 75.6 16.7 0.75 
+Family Cohesion 65.7 27.0 72.3 21.6 0.24 
+Physical Summary 44.2 13.2* 53.0 8.8 0.67 
+Psychosocial Summary 39.9 11.8* 51.2 9.1 0.96 
+
+a(n = 80). b(n = 391). 
+*p < .001. 
+
+
+Comparison of the Sleep Diagnostic Groups on the 
+CHQ-PF50 
+
+Results of the analyses of covariance (controlling child race) showed that the three 
+sleep diagnostic groups (i.e., behavioral, biological/physiological, and combined) 
+did not differ on the CHQ-PF50 subscales. 
+
+Association Between Parent-Reported Sleep Behaviors 
+and Parent-Reported HRQOL 
+
+Bivariate correlations were calculated to determine the association between specific 
+sleep behaviors and the psychosocial and physical summary scores on the 
+CHQ-PF50. However, there were no associations between the CSHQ subscales 
+and the CHQ-PF50 psychosocial and physical summary scores. 
+
+Comparison of Children With and Without Medical 
+Comorbidities on HRQOL 
+
+To further elucidate the association between sleep problems and HRQOL, independent 
+samples t tests were conducted to compare children who had both a sleep di
+
+
+
+HEALTH-RELATED QUALITY OF LIFE 13 
+
+agnosis and a medical comorbidity to children who had only a sleep diagnosis. Results 
+showed that children with and without medical comorbidities differed on the 
+CHQ-PF50forcaretakerreportofgeneralhealthperceptions(M =50.40, SD =23.02 
+vs. M =69.24, SD =18.55),t(76)=3.87, p<.001,andimpactoncaretakers’time(M = 
+61.98, SD = 30.57 vs. M = 79.51, SD = 18.74), t(74) = 3.11, p = .003, with caretakers 
+of children who also had a medical comorbidity reporting lower scores. 
+
+DISCUSSION 
+
+Findings from the current investigation suggest that children with sleep disorders 
+may have poorer HRQOL than healthy children. As compared to published normative 
+data, caretakers of children with sleep diagnoses reported significantly poorer 
+functioning across HRQOL domains (with the exception of the family cohesion 
+subscaleontheCHQ-PF50). Ofparticular interest in thepresentstudywerethelarge 
+effects found for the impact on family activities, emotional impact on parents, and 
+children’s overall psychosocial functioning with parents of children with sleep disturbances 
+reporting much greater decrements in functioning across these domains. 
+Given the impact of sleep disturbances on children’s mood and daytime behavior 
+(Kirmil-Gray et al., 1984; Lavigne et al., 1999), it is understandable that there would 
+be a large effect for children’s psychosocial functioning and thus on the emotional 
+impact on parents. The impact on family activities, however, is less clear. It may be 
+thatthebroadimpact ofsleepdifficultieson psychosocial functioning alongwith the 
+negative daytime consequences of sleep difficulties (i.e., increased daytime sleepiness) 
+are associated with decreased time for family activities. 
+
+The negative association between sleep difficulties and HRQOL found in the 
+present investigation is consistent with previous studies conducted with children 
+with OSA–adenotonsillar disease (de Serres et al., 2002; Rosen et al., 2002; Stewart 
+et al., 2000). Specifically, these findings are similar to Stewart and colleagues’ 
+(2000) investigation, which found similar discrepancies in HRQOL between children 
+with adenotonsillar disease and a healthy normative sample. In addition to the 
+similarities between the present investigation and other HRQOL studies of children 
+with sleep disturbances, the findings from the present investigation are consistent 
+with studies conducted with children with chronic health conditions. For 
+example, Friedlander, Larkin, Rosen, Palermo, and Redline (2003) found that 
+when compared to a normative weight sample, parents of children with obesity 
+were more likely to report decreased overall psychosocial functioning and increased 
+emotional impact on parents. What is particularly interesting is that the effects 
+found in Friedlander and colleagues’ investigation were small to moderate in 
+size as compared to the moderate to large effects found within the present investigation. 
+Thus, sleep disturbances may be associated with similar or even greater 
+decrements in HRQOL as compared with chronic health conditions. 
+
+
+14 HART, PALERMO, ROSEN 
+
+Our findings further demonstrate that irrespective of the sleep diagnosis, caretakers 
+did not differ in their report of HRQOL scores. This finding is noteworthy 
+for two reasons. First, the few pediatric investigations that have assessed the relationship 
+between sleep difficulties and HRQOL focused on SDB (de Serres et al., 
+2002; Rosen et al., 2002; Stewart et al., 2000). Thus, this study is the first to show 
+that caretakers of children with a wide range of sleep diagnoses provide similar reports 
+of their children’s HRQOL. It also supports the need to evaluate HRQOL regardless 
+of etiology of the sleep problem. Second, findings also suggest that rather 
+than having a specific impact on one area of HRQOL (e.g., physical health), sleep 
+difficulties may broadly impact children’s social, emotional, and physical functioning. 
+This finding is interesting given that one might expect that sleep diagnoses 
+would be domain-specific in terms of their association with HRQOL. For example, 
+it could be hypothesized that behavioral sleep disturbances would have a greater 
+association with behavioral and emotional domains of HRQOL such as family cohesion 
+and the emotional impact on caretakers, as these sleep disturbances entail 
+considerable involvement of caretakers to help children settle for sleep. 
+
+The fact that no differences were found between sleep diagnostic groups is not 
+consistent with a previous investigation that assessed the association between biologically 
+based and behaviorally based sleep disorders and daytime functioning. 
+Owens and colleagues (1998) found that a comorbid behavioral sleep diagnosis 
+heightened the negative association between SDB and daytime behavior problems. 
+One potential explanation for this discrepancy may be that whereas Owens and 
+colleagues (1998) assessed daytime behavior problems as measured via the 
+Eyberg Child Behavior Inventory, the present study evaluated broader constructs 
+of functioning as measured by an HRQOL instrument. Thus, the differences found 
+may be attributable to the measures used or the domains assessed. 
+
+In addition to sleep diagnoses, the present study evaluated the association between 
+specific sleep behaviors as measured by the subscales on the CSHQ and the 
+summary scores on the CHQ-PF50. No significant associations were found, despite 
+previous findings showing an association between sleep duration and daytime 
+functioning (Kirmil-Gray et al., 1984; Lavigne et al., 1999; Wolfson & 
+Carskadon, 1998). Perhaps a stronger association between sleep duration and 
+HRQOL would have been found if more accurate measures of sleep duration (e.g., 
+actigraphy) were gathered. It is also possible that the summary scores on the 
+CHQ-PF50 were too global to capture any specific impact that sleep behaviors 
+have on functioning (e.g., impact on mood). 
+
+Additional analyses were conducted to compare children with a sleep diagnosis 
+who did and did not have a comorbid medical condition on HRQOL. Results 
+showed that caretakers of children with medical comorbidities reported poorer 
+HRQOL in terms of parents’ perceptions of their children’s health and limitations 
+in time available for parents’ personal needs due to their children’s health. These 
+findings confirm clinical experience and previous research with children with 
+
+
+HEALTH-RELATED QUALITY OF LIFE 15 
+
+medical conditions in which the additional health limitations may increase time required 
+of caretakers to help in the management of the chronic medical condition 
+(e.g., Drotar & Ievers, 1994; Kuhthau et al., 1998). 
+
+Findings from this investigation should be considered in light of some limitations. 
+First, sleep behaviors were assessed using a caregiver report measure (CSHQ) 
+rather than an objective measure of children’s sleep. Polysomnography may be a 
+more objective assessment of children’s true sleep architecture (i.e., quality of sleep 
+as measured by both fragmentation of sleep and the distribution of sleep across sleep 
+stages), which may more accurately explain what specific sleep behaviors are related 
+to children’s HRQOL. Furthermore, the present investigation did not include 
+information regarding severity or duration of children’s sleep problems, which may 
+shed some light on why sleep problems are negatively impacting HRQOL. Thus, future 
+investigations would benefit from more detailed information regarding children’s 
+sleep disturbances, including the length of time that the sleep difficulties have 
+been present as well as how severe the sleep difficulties are. Future investigations 
+would also be strengthened by the use of a local control group rather than comparing 
+children with sleep difficulties to published national normative data. 
+
+In addition to limitations in how sleep was measured, it should be noted that the 
+CHQ-PF50 measures caregivers’ perceptions of children’s HRQOL, rather than 
+child-reported HRQOL. To obtain a more comprehensive picture of children’s 
+HRQOL, future investigations would benefit from the use of multiple informants. 
+
+Finally, there are some limitations in terms of the sample’s characteristics. 
+The present sample is a relatively small convenience sample (N = 80) of families 
+who were referred to a pediatric sleep disorders clinic, which was limited further 
+by incomplete data decreasing the sample size and power for certain analyses. 
+Given that caretakers were referred to the clinic and that the sample is relatively 
+small and homogeneous, generalizability of the present findings to other populations 
+(i.e., more diverse community samples) may be limited. Furthermore, 
+given that caretakers were coming to a sleep disorders clinic for help with managing 
+their child’s sleep disturbance, caretakers may have been biased in their 
+reporting of children’s HRQOL in that they may have been more inclined to report 
+greater decrements in functioning. 
+
+Despite the aforementioned limitations, the present investigation, to our knowledge, 
+is the first to explore the relationship between sleep and HRQOL across 
+sleep diagnoses. Furthermore, the present investigation delineated the association 
+between sleep disorders and HRQOL in a clinical sample as compared to a normative 
+sample of children and demonstrated that regardless of behavioral or biological 
+bases, caretakers of children with sleep disorders report similar HRQOL. 
+
+Taken together, these findings have several clinical implications. First, they 
+highlight the need for routine assessment of HRQOL in all children presenting to a 
+pediatric sleep disorders clinic. Data suggest that children with sleep difficulties 
+may be at heightened risk for limitations in daily functioning and HRQOL across 
+
+
+16 HART, PALERMO, ROSEN 
+
+psychosocial and physical domains. Of particular importance may be the association 
+of sleep difficulties with children’s psychosocial functioning as well as the potential 
+impact of sleep disturbances on parents’ emotional well-being. Second, 
+findings from the present investigation support the importance of having a 
+multidisciplinary sleep team available to address potential physical and 
+psychosocial limitations. Although sleep difficulties can be conceptualized as primarily 
+either biologically or behaviorally based, their association with daytime 
+functioning seems to cut across psychosocial and physical domains. 
+
+REFERENCES 
+
+Ali, N. J., Pitson, D., & Stradling, J. R. (1993). Snoring, sleep disturbance, and behaviour in 4–5 year 
+olds. Archives of Disease in Childhood, 68, 360–366. 
+Ali, N. J., Pitson, D., & Stradling, J. R. (1994). Natural history of snoring and related behaviour problems 
+between the ages of 4 and 7 years. Archives of Disease in Childhood, 71, 74–76. 
+
+American Sleep Disorders Association. (1996). ICSD-International Classification of Sleep Disorders, 
+revised: Diagnostic and coding manual. Rochester, MN: American Sleep Disorders Association. 
+Archbold, K. H., Pituch, K. J., Panahi, P., & Chervin, R. D. (2002). Symptoms of sleep disturbances 
+
+among children at two general pediatric clinics. Journal of Pediatrics, 104, 97–102. 
+
+Blunden, S., Lushington, K., Kennedy, D., Martin, J., & Dawson, D. (2000). Behavior and 
+neurocognitive performance in children aged 5–10 years who snore compared to controls. Journal of 
+Clinical and Experimental Neuropsychology, 22, 554–568. 
+
+Broughton, W. A. & Broughton, R. J. (1994). Psychosocial impact of narcolepsy. Sleep, 17, S45–S49. 
+
+Chervin, R. D., Archbold, K. H., Dillon, J. E., Panahi, P., Pituch, K. J., Dahl, R. E., & Guilleminault, C. 
+(2002). Inattention, hyperactivity, and symptoms of sleep-disordered breathing. Pediatrics, 109, 
+449–456. 
+
+Chervin, R. D., Dillon, J. E., Bassetti, C., Ganoczy, D. A., & Pituch, K. J. (1997). Symptoms of sleep 
+disorders, inattention, and hyperactivity in children. Sleep, 20, 1185–1192. 
+
+de Serres, L. M., Derkay, C., Sie, K., Biavati, M., Jones, J., Tunkel, D., et al. (2002). Impact of 
+adenotonsillectomy on quality of life in children with obstructive sleep disorders. Archives of Otolaryngology 
+Head and Neck Surgery, 128, 489–496. 
+
+Drotar, D., & Ievers, C. (1994). Preliminary report: Age differences in parent and child responsibilities 
+for management of cystic fibrosis and insulin-dependent diabetes mellitus. Journal of Developmental 
+and Behavioral Pediatrics, 15, 367–374. 
+
+Friedlander, S. L., Larkin, E. K., Rosen, C. L., Palermo, T. M., & Redline, S. (2003). Decreased quality 
+of life is associated with obesity in school-aged children. Archives of Pediatrics and Adolescent Medicine, 
+157, 1206–1211. 
+
+Guyatt, G. H. (1993). The philosophy of health-related quality of life translation. Quality of Life Research, 
+2, 461–465. 
+
+Jaccard, J., & Guilamo-Ramos, V. (2002). Analysis of variance frameworks in clinical child and adolescent 
+psychology: Issues and recommendations. Journal of Clinical Child and Adolescent Psychiatry, 
+31, 130–146. 
+
+Jenkins, C. D. (1992). Assessment of outcomes of health intervention. Social Science and Medicine, 
+35, 367–375. 
+
+Kirmil-Gray, K., Eagleston, J. R., Gibson, E., & Thoreson, C. E. (1984). Sleep disturbance in adolescence: 
+Sleep quality, sleep habits, beliefs about sleep, and daytime functioning. Journal of Youth and 
+Adolescence, 13, 375–384. 
+
+
+HEALTH-RELATED QUALITY OF LIFE 17 
+
+Kuhthau, K., Walker, D. K., Perrin, J. M., Bauman, L., Gortmaker, S. L., Newacheck, P. W., & Stein, R. 
+
+E. K. (1998). Assessing managed care for children with chronic conditions. Health Affairs, 17, 
+42–52. 
+Landgraf, J. M., Abetz, L., & Ware, J. E. (1996). Child Health Questionnaire (CHQ): A user’s manual. 
+Boston: The Health Institute, New England Medical Center. 
+Lavigne, J. V., Arend, R., Rosenbaum, D., Smith, A., Weissbluth, M., Binns, H. J., & Christoffel, K. K. 
+(1999). Sleep and behavior problems among preschoolers. Journal of Developmental and Behavioral 
+Pediatrics, 20, 164–169. 
+
+Levi, R. B., & Drotar, D. (1999). Health-related quality of life in childhood cancer: Discrepancy in parent–
+child reports. International Journal of Cancer, 12, 58–64. 
+
+Ohayon, M. M., Roberts, R. E., Zulley, J., Smirne, S., & Priest, R.G. (2000). Prevalence and patterns of 
+problematic sleep among older adolescents. Journal of the American Academy of Child and Adolescent 
+Psychiatry, 39, 1549–1556. 
+
+Owens, J. A., Opipari, L., Nobile, C., & Spirito, A. (1998). Sleep and daytime behavior in children with 
+obstructive sleep apnea and behavioral sleep disorders. Pediatrics, 102, 1178–1184. 
+
+Owens, J. A., Spirito, A., & McGuinn, M. (2000). The Children’s Sleep Habits Questionnaire (CSHQ): 
+Psychometric properties of a survey instrument for school-aged children. Sleep, 23, 1043–1051. 
+Owens, J. A., Spirito, A., McGuinn, M., & Nobile, C. (2000). Sleep habits and sleep disturbance in ele
+
+
+mentary school-age children. Journal of Developmental and Behavioral Pediatrics, 21, 27–36. 
+
+Richdale, A., Francis, A., Gavidia-Payne, S., & Cotton, S. (2000). Stress, behaviour, and sleep problems 
+in children with an intellectual disability. Journal of Intellectual & Developmental Disability, 
+25, 147–161. 
+
+Rosen, C. L., Palermo, T. M., Larkin, E. K., & Redline, S. (2002). Health-related quality of life and 
+sleep disordered breathing in children. Sleep, 25, 648–654. 
+
+Schor, E. L. (1998). Children’s health and the assessment of health-related quality of life. In D. Drotar 
+(Ed.), Measuring health related quality of life in children and adolescents: Implications for research 
+and practice (pp. 25–37). Mahwah, NJ: Lawrence Erlbaum Associates, Inc. 
+
+Schreck, K. A., & Mulick, J. A. (2000). Parental report of sleep problems in children with autism. Journal 
+of Autism and Developmental Disorders, 30, 127–135. 
+
+Stewart, M. G., Friedman, E. M., Sulek, M., Hulka, G. F., Kuppersmith, R. B., Harrill, W. C., & 
+Bautista, M.H. (2000). Quality of life and health status in pediatric tonsil and adenoid disease. Archives 
+of Otolaryngology Head Neck Surgery, 126, 45–48. 
+
+Wolfson, A. R., & Carskadon, M. A. (1998). Sleep schedules and daytime functioning in adolescents. 
+Child Development, 69, 875–887. 
+
+

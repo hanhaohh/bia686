@@ -1,0 +1,999 @@
+Cephalometric Assessment of Snoring and 
+Nonsnoring Children *
+
+Randall Kulnis, Suchitra Nelson, Kingman Strohl and Mark Hans 
+
+Chest 2000;118;596-603 
+DOI 10.1378/chest.118.3.596 
+
+The online version of this article, along with updated information 
+and services can be found online on the World Wide Web at: 
+
+http://www.chestjournal.org/content/118/3/596.full.html 
+
+CHEST is the official journal of the American College of ChestPhysicians. It has been published monthly since 1935. Copyright 2007 
+by the American College of Chest Physicians, 3300 Dundee Road, 
+Northbrook IL 60062. All rights reserved. No part of this article or PDF 
+may be reproduced or distributed without the prior written permission 
+of the copyright holder. 
+(http://www.chestjournal.org/misc/reprints.shtml) ISSN:0012-3692 
+
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2000 American College of Chest Physicians 
+
+
+
+Cephalometric 
+Assessment 
+of 
+Snoring 
+and 
+Nonsnoring 
+Children* 
+
+
+Randall Kulnis, DMD, MSD†; Suchitra Nelson, PhD; 
+Kingman Strohl, MD, FCCP; and Mark Hans, DDS, MSD 
+
+Study objective: To determine the differences in craniofacial cephalometric variables between 
+snoring and nonsnoring children. 
+Design: Cross-sectional. 
+Setting: Case Western Reserve University Dental School, Department of Orthodontics, and local 
+Cleveland orthodontic private practices. 
+Patients: Twenty-eight snoring and 28 nonsnoring children between the ages of 7 years and 14 
+years. Nonsnoring subjects were matched to snoring subjects by age, sex, and ethnicity (mean 
+[. 
+SD] age, 10 . 
+2 years; 82% white, 64% female). 
+Interventions: None. 
+Measurements: Snoring was assessed using a sleep behavior questionnaire administered to 
+parents or guardians. The cephalometric radiographs of the study subjects were traced by a 
+single investigator, and 1 angular measurement and 11 linear measurements of hard and soft 
+tissues were recorded. The paired Student’s t test was used to analyze the cephalometric data. 
+Results: Snoring children manifest a significantly narrower anterior-posterior dimension of the 
+pharynx at the superior and most narrow widths. Snoring children also had a greater length from 
+the hyoid to the mandibular plane. 
+Conclusions: Snoring children appear to present craniofacial factors that differ from those of 
+nonsnoring children. (CHEST 2000; 118:596–603) 
+
+Key words: cephalometry; children; snoring 
+
+Abbreviations: A–PNS . 
+anterior-posterior length of the maxilla measured from A-point to the posterior nasal spine; 
+BMI . 
+body mass index; Go–Gn . 
+effective length of the body of the mandible measured from gonion to gnathion; 
+H–MP . 
+hyoid to mandibular plane; MCF . 
+middle cranial fossa; N–PAS . 
+width of the pharyngeal airway at its most 
+narrow point inferior to the PNS and superior to gonion; OPA . 
+oropharyngeal airway; OSAHS . 
+obstructive sleep 
+apnea-hypopnea syndrome; PM . 
+boundary that separates the anterior cranial fossa and nasomaxillary complex from the 
+middle cranial fossa and pharynx; PNS . 
+posterior nasal spine; S–N . 
+linear measurement from sella turcica to nasion; 
+S–PAS . 
+width of the pharyngeal airway at the most posterior-superior point on the soft palate; TL . 
+tongue length; 
+VAL . 
+vertical airway length measured from the PNS to the base of the epiglottis 
+
+S
+S
+noring was once considered to be harmless,1 but 
+now is suggested to be indicative of a significant 
+clinical problem such as obstructive sleep apnea
+
+
+*From the Departments of Community Dentistry (Dr. Nelson) 
+and Orthodontics (Dr. Hans and Kulnis), School of Dentistry, 
+and the Division of Pulmonary and Critical Care Medicine (Dr. 
+Strohl), Department of Medicine, Case Western Reserve University, 
+Cleveland, OH. 
+
+†Current affiliation: Branch Dental Clinic, Department of Orthodontics, 
+Sigonella, Italy. 
+Supported by the CWRU Orthodontic Alumni Endowment 
+Fund. 
+The views expressed in this article are those of the authors and do 
+not reflect the official policy or position of the Department of the 
+Navy, Department of Defense, or the US Government. 
+Manuscript received June 18, 1999; revision accepted April 11, 
+2000. 
+Correspondence to: Suchitra Nelson, PhD, Department of Community 
+Dentistry, School of Dentistry, Case Western Reserve 
+University, 10900 Euclid Ave, Cleveland, OH 44106-4905; 
+e-mail: ssn2@po.cwru.edu 
+
+hypopnea syndrome (OSAHS), whose medical consequences 
+range from no physical debilitation to 
+failure to thrive.2,3 It is estimated that as many as 
+70% of adults with OSAHS snored during childhood.
+4 Those with OSAHS are at increased risk for 
+hypertension, cardiovascular disease, cerebrovascular 
+disease, and impaired function caused by sleepiness.
+4–8 
+
+Epidemiologic studies of habitual snoring in children 
+suggests a prevalence of between 7% and 12%.9 –12 
+Snoring children are reportedly mouth breathers11,13 
+or restless sleepers,9 –11 have excessive daytime sleepiness,
+9,10 are hyperactive,9,10 have poorer hearing,11 
+and present with previous adenoidectomy and enlarged 
+tonsils.14 Although snoring has been reported 
+to be a common finding in children with symptomatic 
+OSAHS,14 –18 only a subgroup of habitually 
+snoring children have OSAHS.13 
+
+Clinical 
+Investigations
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2000 American College of Chest Physicians 
+
+
+
+Genetic and environmental factors influence snoring, 
+and many studies support an anatomic origin.
+19,20 Palatal flutter has been reported to be the 
+most important cause of snoring.21 In situations of 
+airway obstruction, the blockage is often located at 
+the level of the soft palate, but has also been identified 
+elsewhere within the entire extent of the pharynx.21–23 
+
+Several studies have used cephalometrics to examine 
+for anatomic differences in snoring and apneic 
+subjects.19,24–28 Most frequently, cephalometric radiographs 
+of adults with apnea were compared with 
+radiographs of nonapneic adults. The tendency was 
+for apneic adults to have an increased hyoid to 
+mandibular plane (H–MP) distance, longer soft palates, 
+a diminished sagittal cranial base dimension, 
+and narrower posterior airways. Few studies have 
+investigated differences in cephalometric factors in 
+children. A Japanese study29 found that children with 
+apnea had an inferiorly positioned hyoid. In the most 
+severe apneics, the children presented with enlarged 
+adenoids and narrow airways. An Italian study30 
+reported that habitually snoring children with apnea 
+and adenotonsillar hypertrophy had increased craniomandibular 
+intermaxillar, lower and upper gonial 
+angles with a retroposition, and posterior rotation of 
+the mandible (high-angle face), and a reduction in the 
+nasal posterior airway space because of enlarged 
+adenoids. Most previous reports have used a sample 
+of children suspected of having OSAHS, who were 
+referred to either the Sleep Disorders Center or the 
+otolaryngology department. However, there have 
+been no reported cephalometric studies in children 
+with and without habitual snoring conducted in 
+settings such as the orthodontic environment in 
+which predominately healthy children with dental 
+malocclusions are seen at fairly regular intervals. We 
+speculate that such a population affords the feasibility 
+of studying children when they are healthy, presumably 
+before disease development, and as an impetus for 
+future investigations. 
+
+The purpose of the present study was to determine 
+the differences in craniofacial factors between 
+habitual snoring and nonsnoring children from an 
+orthodontic population, using measurements made 
+from cephalometric radiographs. 
+
+Materials and Methods 
+
+Study Sample 
+
+The study sample was derived by a two-step process: (1) The 
+first step included screening for children (ages 7 to 14 years) with 
+sleep and behavior problems from a population seeking pretreatment 
+orthodontic evaluation at the School of Dentistry, and from 
+12 orthodontic private practices in Cleveland, OH. Children who 
+had been treated before this initial examination by means of 
+
+either orthodontics or dentofacial orthopedics were excluded 
+from the study. This study was approved by the Institutional 
+Review Board of the university. The parents or guardians were 
+asked to sign a consent form and then complete a demographic 
+and sleep behavior questionnaire on behalf of their children. The 
+sleep behavior questionnaire was adapted from a previous study9 
+and was administered to parents or guardians of the children for 
+a 10-month period. The questionnaire consisted of 11 Likert-type 
+scale (never, rarely, sometimes, often) and 7 yes/no questions, 
+and has been validated and shown to be reliable in assessing the 
+sleep problems of the child. For the purposes of this study, only 
+the responses to snoring and age at onset of snoring were used. 
+
+(2) The second step included identifying from the screening 
+questionnaire those children who snored often, with a volume 
+ranging from moderate to very loud. The snoring children 
+(experimental group) were then matched to a control group of 
+nonsnoring children on the basis of age, sex, and ethnicity. The 
+nonsnorers were those children whose parents or guardians had 
+indicated on the questionnaire as having never snored. A total of 
+31 snoring and 31 nonsnoring children were identified through 
+this process. The pretreatment records of each subject were 
+reviewed to ensure that the child was healthy and free of serious 
+medical problems. Subjects with documented craniofacial anomalies 
+such as cleft lip and palate were excluded. Pretreatment 
+cephalometric radiographs that are part of initial records were 
+examined for diagnostic quality and to ensure that all critical 
+landmarks were included within the boundaries of the image (eg, 
+hyoid). 
+Data Collection 
+
+Demographic Data: The subject’s sex and ethnicity were 
+documented from the dental records. The height and weight 
+information was obtained from the parents and was recorded for 
+each subject in inches and pounds. The body mass index (BMI) 
+was then calculated for each subject (weight in kilograms/height 
+[meters squared]). 
+
+Cephalometric Data: The nasion rest on the cephalometer 
+used to expose the cephalometric radiographs was measured to 
+assist in determining the magnification of the radiographic 
+images. All linear measurements were adjusted for their respective 
+level of magnification. The cephalometric radiographs of the 
+subjects were traced and a total of 11 linear and 1 angular 
+measurements were recorded by a single investigator (R.K.). 
+
+Figure 1 illustrates the following five conventional hard-tissue 
+linear measurements and the mandibular plane: the linear measurement 
+from sella turcica to nasion (S–N); the linear measurement 
+from basion to nasion; the anterior-posterior length of the 
+maxilla measured from A-point to the posterior nasal spine 
+(A–PNS); the effective length of the body of the mandible 
+measured from gonion to gnathion (Go–Gn); and H–MP (measured 
+from the most inferior border of the mandible to menton). 
+
+Figure 2 illustrates six soft-tissue linear measurements and the 
+occlusal and B-point to gonion reference planes. The measurements 
+include the length of the soft palate; the vertical airway length 
+measured from the posterior nasal spine (PNS) to the base of the 
+epiglottis (VAL); tongue length (TL) measured from the base of 
+the epiglottis to the most anterior point of the tongue that touches 
+the lingual surface of the mandibular incisors; the width of the 
+pharyngeal airway at the most posterior-superior point on the soft 
+palate (S–PAS), measured parallel to the functional occlusal plane 
+from the posterior-superior palate to the superior posterior pharyngeal 
+wall; the width of the pharyngeal airway at the level of the plane 
+from B-point to gonion measured from the inferior posterior 
+pharyngeal wall to the most anterior point in the airway on the 
+tongue; and the width of the pharyngeal airway at its most narrow 
+
+CHEST 
+/ 
+118/3/ 
+SEPTEMBER, 
+2000 
+597
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2000 American College of Chest Physicians 
+
+
+
+Figure 1. Hard-tissue linear measurements and the mandibular plane. Cephalometric landmarks: 
+S . 
+sella turcica; A . 
+A-point, subspinale; Ba . 
+basion; H . 
+hyoidale; Me . 
+menton; Go . 
+gonion; 
+MIB . 
+inferior border of the mandible; N . 
+nasion; Gn . 
+gnathion. 
+
+point inferior to the PNS and superior to gonion (N–PAS). It was 
+measured from the posterior pharyngeal wall at the narrowest point 
+to the most anterior point in the airway on the soft palate, parallel to 
+the plane from B-point to gonion. 
+
+Figure 3 demonstrates the measure called middle cranial fossa 
+(MCF) alignment, which is taken from the counterpart analysis of 
+Enlow et al.31 The alignment of the subject’s MCF is compared 
+with a neutral position found at 40.3°. The PM is the boundary 
+that separates the anterior cranial fossa and nasomaxillary complex 
+from the middle cranial fossa and pharynx. The PM vertical 
+(patient’s PM) is a line from the averaged intersections of the 
+great wings of the sphenoid and anterior cranial floor, extending 
+to the averaged lowermost points of the pterygomaxillary fissure. 
+A subject with a vertical PM located anterior to the neutral 
+position has a forward alignment of the MCF and a protrusively 
+positioned maxilla. The opposite is true for a vertical PM located 
+behind the neutral PM. 
+
+Errors in landmark identification were estimated by examining 
+duplicate tracings of 12 of the cephalometric radiographs (19%). 
+Intraclass correlation coefficients32 were computed to examine 
+the reliability of landmark identification. Intraexaminer reliability 
+for the 12 cephalometric variables ranged from 0.75 to 0.99. 
+
+Statistical Analysis 
+
+The independent variables measured on a continuous scale 
+included 12 anatomic variables derived from cephalometric 
+
+radiographs, age, and BMI. Sex was used as a dichotomous 
+variable. Means and SDs were calculated for all continuous 
+variables. Paired Student’s t tests were used to test for equality of 
+means between snoring and nonsnoring children. A p value 
+. 
+0.004 using Bonferroni’s correction (. 
+of 0.05 divided by the 
+total number of variables [0.05/12 . 
+0.004]) was used to determine 
+statistical significance. All computations were performed 
+using the Statistical Package for the Social Sciences (SPSS-PC. 
+for Windows; SPSS; Chicago, IL). 
+
+Results 
+
+A total of 228 parents and guardians completed 
+the sleep behavior questionnaire. The parents and 
+guardians were given the option of selecting from the 
+following five choices when asked whether their 
+child snored: never, rarely, sometimes, often, and 
+unsure. Approximately 16% of the children snored 
+often, 20% sometimes, 31% rarely, 32% had never 
+snored, and 1% were unsure. Thirty-six children 
+snored often. However, from a pool of 74 subjects 
+who had never snored, it was only possible to 
+accurately match 31 pairs for age, sex, and ethnicity. 
+
+Clinical 
+Investigations
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2000 American College of Chest Physicians 
+
+
+
+Figure 2. Soft-tissue linear measurements and the occlusal and B-point–Go reference planes. 
+Cephalometric landmarks: B . 
+B-point, supramentale; Eb . 
+base of the epiglottis; Mo . 
+molar; 
+P . 
+palate, the most inferior tip of the soft palate; PhwI . 
+inferior posterior pharyngeal wall; 
+PhwN . 
+posterior pharyngeal wall at narrowest point; PhwS . 
+superior posterior pharyngeal wall; 
+PreM . 
+premolar; Psp . 
+posterior-superior palate, the most posterior-superior point of the soft palate; 
+STBi . 
+most anterior point in the airway on the tongue; STBn . 
+most anterior point in the airway on 
+the soft palate; Tt . 
+tip of the tongue. Lines indicate the following measurements: VAL . 
+PNS to Eb; 
+TL . 
+Eb to Tt; S–PAS . 
+PhwS to Psp; N–PAS . 
+PhwN to STBn; I–PAS . 
+PhwI to STBi. 
+
+Furthermore, we had to eliminate three experimental 
+children who had adenotonsillectomy before 
+seeking orthodontic care, because of concerns about 
+the treatment’s effect on soft-tissue measurements. 
+Hence, the three control children who were matched 
+to these experimental children were also eliminated 
+from the analyses. 
+
+The 56 subjects who constituted the study sample 
+were 64% female, 82% white, with a mean age of 
+10 . 
+2 years (range, 7 to 14 years). Tonsils and 
+adenoids were present in all subjects. The BMI was 
+significantly (p . 
+0.038) greater in the snoring group 
+
+(20.4 . 
+4.6) compared with the nonsnoring group 
+(17.9 . 
+3.4). The average age of onset of snoring was 
+34.6 . 
+30 months with a range from birth to 9 years. 
+Comparison of means for the 12 cephalometric 
+variables between the snoring and nonsnoring sub
+
+
+jects are presented in Table 1. The variables presenting 
+the most significant difference (p . 
+0.004) between 
+the groups included H–MP, N–PAS, and 
+S–PAS. The measures of VAL, A–PNS, S–N, and 
+Go–Gn demonstrated a trend toward significance 
+(p . 
+0.05) between the snoring and nonsnoring 
+groups. 
+
+Discussion 
+
+The present study included subjects between the 
+ages of 7 years and 14 years, because that was the age 
+range of most children presenting for orthodontic 
+treatment. Only 36 of 228 subjects (16%) surveyed 
+answered “often” to the snoring question. This percentage 
+is slightly higher than the previously reported 
+
+CHEST 
+/ 
+118/3/ 
+SEPTEMBER, 
+2000 
+599
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2000 American College of Chest Physicians 
+
+
+
+Figure 3. MCF component of the counterpart analysis. This diagram demonstrates the effect of a 
+rotational alignment of a subject’s own cranial base (patient’s PM) compared with the neutral position 
+(neutral PM). A neutral PM (or MCF) is an internal angle of 40.3°. When the patient’s PM is anterior 
+to the neutral PM, as shown here, there is forward alignment of the MCF and protrusive maxilla or 
+retrusive mandible. When the patient’s PM is posterior to the neutral PM, there is backward alignment 
+of the MCF and retrusive maxilla or protrusive mandible. Ar . 
+articulare; Se . 
+sphenoethmoidal 
+junction; Ptm . 
+pterygomaxillary fissure; Pt’s . 
+patient’s. 
+
+snoring prevalence of 7% to 12% in children.9 –12 One 
+reason for the above-average percentage of snoring 
+children in our study might be attributed to selection 
+bias introduced by an orthodontic practice in gathering 
+the experimental subjects. This private office 
+completed sleep behavior questionnaires on snoring 
+subjects only. The total contribution to the study 
+from that practice consisted of two experimental 
+subjects. Subjects from the dental school clinic and 
+the other private practices were recruited randomly 
+according to the selection criteria. 
+
+The average age at onset of snoring in the present 
+study was somewhat higher than the results of 
+Brouillette et al in 1982.16 They examined . 
+70 
+infants and children with OSAHS and found that the 
+mean age at onset of breathing difficulties, including 
+snoring, was 14 . 
+12 months. Most of the subjects in 
+their study were . 
+5 years of age. Our study cannot 
+
+be compared directly to the study by Brouillette et 
+al16 because of the fact that their sample comprised 
+young and apneic children. However, indications are 
+that snoring and breathing difficulties can start early 
+in children. 
+
+BMI was observed to be significantly greater in 
+snoring children than in nonsnoring children in the 
+present study. We did not directly measure the 
+height and weight of our subjects, but had to depend 
+on the recall of this information from the parents. 
+Whether the parents recalled this information correctly 
+is subject to uncertainty. However, our results 
+are contrary to other studies that have reported that 
+snoring and apneic children may in fact be underweight 
+or underdeveloped.16,33 In another study of 
+children, no significant differences in obesity were 
+found between primary snoring and apneic children.
+13 This finding could have been influenced by 
+
+Clinical 
+Investigations
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2000 American College of Chest Physicians 
+
+
+
+Table 1—Comparison of Means of Cephalometric Variables Between Snoring and Nonsnoring Subjects* 
+
+Variables Snoring Subjects Nonsnoring Subjects p Value 
+H–MP 16.73 . 
+4.05 12.96 . 
+5.27 0.002† 
+P–PNS 30.79 . 
+4.25 29.90 . 
+3.72 0.421 
+VAL 58.36 . 
+6.77 55.32 . 
+7.43 0.042 
+Ba–N 98.26 . 
+6.45 99.92 . 
+5.72 0.201 
+S–N 65.12 . 
+3.48 67.12 . 
+4.47 0.024 
+A–PNS 43.36 . 
+3.25 45.21 . 
+3.05 0.011 
+TL 70.63 . 
+6.03 69.98 . 
+6.22 0.720 
+S–PAS 7.72 . 
+3.76 11.99 . 
+3.94 0.001† 
+I–PAS 12.12 . 
+3.05 11.68 . 
+2.99 0.651 
+N–PAS 4.84 . 
+2.78 8.00 . 
+2.53 0.000† 
+Go–Gn 66.21 . 
+5.17 69.34 . 
+5.62 0.014 
+MCF 20.049 . 
+3.29 0.723 . 
+2.43 0.310 
+
+*Values given as mean . 
+SD, unless otherwise indicated. Ba–N . 
+linear measurement from basion to nasion; P–PNS . 
+length of soft palate; 
+I–PAS . 
+width of pharyngeal airway at level of the plane from B-point to Go. 
+
+†Significant at p . 
+0.004. 
+the lack of a nonsnoring group for comparison. In 
+addition, there are conflicting reports from the adult 
+literature, inasmuch as some studies have found 
+BMI to be significantly increased in snoring and 
+apneic populations,24 –26,28 whereas others have 
+found BMI to be of no significance in adults.27,34 
+
+We chose 12 cephalometric variables based on 
+their importance as reported in the literature35 and 
+our previous studies.36,37 In comparing the means of 
+these 12 cephalometric measurements, three variables 
+demonstrated statistical significance. H–MP 
+distance was significantly longer in snoring children. 
+The normative values for H–MP distance for normal 
+healthy children (ages 10 to 17 years) with no sleep 
+problems ranged between 14.8 mm and 15.9 mm.38 
+Although our sample of children were younger, the 
+snorers had a larger vertical distance (17 mm) than 
+the normal values. Apneic children have also been 
+found to have an increased H–MP distance.29 In 
+studies of apneic adults, the H–MP distance was 
+consistently associated with OSAHS.35 In a recent 
+study,39 the relationship between oropharyngeal airway 
+(OPA) and hyoid position has been described as 
+when the mandibular body lengthens, the attachments 
+of the genioglossus and geniohyoid muscles 
+move forward away from the oropharynx, thus increasing 
+the OPA. Also, this study strongly supports 
+an association between a short mandible and small 
+OPA in the context of OSAHS. Also, in our present 
+study, we found the snoring children to have a strong 
+tendency toward a smaller mandibular length compared 
+with that of nonsnorers. Whether children 
+with only primary snoring and no apnea, but with 
+smaller mandibular length and inferiorly positioned 
+hyoid, eventually develop OSAHS in later years is an 
+area worth investigating with longitudinal studies. 
+
+Two of the three measures of pharyngeal width 
+(S–PAS and N–PAS) also showed statistical signifi
+
+
+cance in the present study. Previous studies have also 
+found significant reduction in posterior airway space 
+in apneic children, and attributed the narrowing of 
+the airway to tonsil and adenoid hypertrophy, and 
+anatomic abnormalities.16,29,39 In the present study, a 
+greater proportion of the parents of snoring subjects 
+were told by the physician that the children had 
+enlarged adenoids (38% vs 7%) and tonsillar hypertrophy 
+(32% vs 13%). This may in part have contributed 
+to the pharyngeal narrowing in the snoring 
+children. However, caution has to be exercised with 
+the reporting of the adenotonsillar hypertrophy, as a 
+clinician did not conduct intraoral examinations on 
+these children at the time of this study. Furthermore, 
+we could not analyze the results separately for 
+those with and without adenotonsillar hypertrophy 
+because our sample sizes were small; therefore, 
+stratification would have meant less precise results. 
+
+The present study found an increase in the VAL, 
+and a shortened maxilla (A–PNS) and cranial base 
+(S–N) in snoring subjects. Pae et al40 suggest that an 
+extended airway results in narrowing and turbulent 
+airflow. Others have observed neck extension to act 
+favorably on nasorespiratory function.41,42 The fact 
+that snorers had a shortened maxilla (A–PNS) and 
+cranial base (S–N) may suggest a narrowing in the 
+sagittal dimension. In a recent study of habitually 
+snoring and apneic children, the authors suggest that 
+retroposition of the mandible was not essential to the 
+development of upper-airway obstruction, but rather 
+contributed by posterior crossbites caused by a 
+reduced growth of the maxilla after continuous oral 
+breathing, and anterior open-bite with lip incompetence, 
+owing to a forward tongue position.30 Studies 
+in adults have also demonstrated a significant reduction 
+in the sagittal dimension of the anterior cranial 
+base in apneics,19 a reduction in cranial base and 
+mandible in snorers, and a shorter maxilla in apne-
+
+CHEST 
+/ 
+118/3/ 
+SEPTEMBER, 
+2000 
+601
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2000 American College of Chest Physicians 
+
+
+
+ics.25 These studies suggest that habitual snorers 
+might have an anatomic predisposition to airway 
+obstruction. 
+
+A limitation of the present study is that we did not 
+evaluate the children with polysomnography to determine 
+the degree of respiratory disturbances during 
+sleep. Therefore, some of the snoring children 
+may have had apneas. But according to a previous 
+study, only a subgroup of habitually snoring children 
+have apneas.13 We speculate that many of our children 
+may have been just primary snorers, especially 
+because the children were healthy and were not 
+referred to us because of suspected OSAHS. Although 
+this cross-sectional study is limited in helping 
+us understand whether anatomic variation exists 
+from childhood, our data suggest that there are 
+craniofacial factors that may be different between 
+snoring and nonsnoring children. Approximately 
+90% of the growth of the craniofacial skeleton is 
+obtained by the age of 12 years, and 60% by the age 
+of 4 years.43 Inasmuch as the average age of the 
+present study population was 10 years, we can 
+assume that facial growth and development might 
+have already been modified, especially in the presence 
+of airway obstruction early in life. Therefore, 
+future studies should consider studying children before 
+the age of 4 years to understand whether craniofacial 
+factors precede the development of OSAHS. 
+
+Other methodologic limitations of the study include 
+the following: 
+
+1. Sample size 
+was limited by the number of 
+experimental subjects that met the criteria of 
+the study. As with most studies, a larger 
+sample may have demonstrated greater precision 
+of the results. Also, selection bias could 
+have affected the study results, inasmuch as 
+only subjects seeking orthodontic treatment 
+were included. Our subjects were undergoing 
+orthodontic treatment for the correction of 
+dental anomalies. We excluded children with 
+craniofacial anomalies, and therefore craniofacial 
+factors that do differ between our sample 
+and children who do not seek orthodontic 
+treatment are probably minimal. However, it 
+is also more prevalent for middle and higher 
+socioeconomic groups to seek orthodontic 
+treatment than the lower-income groups. 
+Therefore, generalization to a larger population 
+is still limited. 
+2. The cephalometric radiographs used in the 
+study came from multiple sources. The radiographs 
+were all exposed on cephalometers 
+incorporating ear rods and nasion rests to 
+approximate the Frankfort horizontal plane 
+parallel to the floor. Although radiographic 
+quality could be controlled, head position was 
+not controlled for during exposure. A prior 
+study44 had noted that a change from natural 
+head position to a 20° extension resulted in a 
+change in hyoid position and increased cross-
+sectional dimension of the retroglossal pharynx. 
+Future studies should control for the 
+head position. 
+
+3. Owing to uncontrolled upper-airway muscle 
+activities, the measurements of posterior airway 
+space may not always be reliable. Many of 
+the soft-tissue points used in this study are 
+subject to variation in landmark identification, 
+but repeat measurements indicated that the 
+reproducibility of these variables were good. 
+4. The 
+use of cephalometric radiographs provides 
+only a static two-dimensional image in 
+the sagittal plane. Inferences to three-dimensional 
+anatomic structures cannot be made 
+based solely on the cephalometric image. Additionally 
+there could be differences between 
+upright and supine radiographs. Findings by 
+our group36 indicated that upright evaluation 
+provided the same information as supine, and 
+that group differences in airway morphology 
+can be detected using standard cephalometric 
+radiography in the upright position. 
+Conclusion 
+
+The value of the cephalometric radiograph in the 
+study of the head and neck and associated pathologies 
+is unsurpassed. It is widely accessible and 
+relatively inexpensive in comparison to alternative 
+imaging procedures. Information obtained from 
+cephalometric assessment has been invaluable in a 
+great number of studies in airway pathology, including 
+snoring and sleep apnea. 
+
+Our data indicate that there are craniofacial differences 
+between snoring and nonsnoring children. 
+Longitudinal studies of habitually snoring children 
+without apnea could demonstrate whether craniofacial 
+modification is an effect of airway obstruction or 
+genetically determined, and whether these children 
+do eventually develop OSAHS in the ensuing years. 
+
+References 
+
+1 Kleitman N. Sleep and wakefulness. Chicago, IL: University 
+of Chicago Press, 1963 
+
+2 Loughlin GM. Obstructive sleep apnea in children. In: 
+Barnes LA, ed. Advances in pediatrics. St. Louis, MO: 
+Mosby-Year Book, 1992; 39:307–336 
+
+3 Marcus CL, Carroll JL, Koerner CB, et al. Determinants of 
+growth in children with obstructive sleep apnea syndrome. 
+J Pediatr 1994; 125:556–562 
+
+Clinical 
+Investigations
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2000 American College of Chest Physicians 
+
+
+
+4 Guilleminault C, Dement WC. Sleep apnea syndromes and 
+related sleep disorders. In: Williams R, Karacan I, eds. Sleep 
+disorders: diagnosis and treatment. New York, NY: AR Liss, 
+1978; 13–16 
+
+5 Koskenvuo M, Partinen M, Sarna S, et al. Snoring as a risk 
+factor for hypertension and angina pectoris. Lancet 1985; 
+1:893–895 
+
+6 Hoffstein V, Mateika S. Cardiac arrhythmia, snoring, and 
+sleep apnea. Chest 1994; 106:466–471 
+7 Ulfberg J, Carter N, Talback M, et al. Headache, snoring and 
+sleep apnea. J Neurol 1996; 243:621–625 
+
+8 Young T, Finn L, Hla KM, et al. Hypertension in sleep 
+disordered breathing: snoring as part of a dose-response 
+relationship between sleep-disordered breathing and blood 
+pressure. Sleep 1996; 19(10 Suppl):S202–S205 
+
+9 Ali NJ, Pitson DJ, Stradling JR. Snoring, sleep disturbance, 
+and behavior in 4–5 year olds. Arch Dis Child 1993; 68:360 – 
+366 
+
+10 Ali NJ, Pitson DJ, Stradling JR. Natural history of snoring and 
+related behavior problems between the ages of 4 and 7 years. 
+Arch Dis Child 1994; 71:74 –76 
+
+11 Owen GO, Canter RJ, Robinson A. Snoring, apnea and ENT 
+symptoms in the paediatric community. Clin Otolaryngol 
+1996; 21:130 –134 
+
+12 Corbo GM, Fuciarelli F, Foresi A, et al. Snoring in children: 
+association with respiratory symptoms and passive smoking. 
+BMJ 1989; 299:1491–1494 
+
+13 Carroll JL, McColley SA, Marcus CL, et al. Inability of 
+clinical history to distinguish primary snoring from obstructive 
+sleep apnea syndrome in children. Chest 1995; 108:610 – 
+618 
+
+14 Nieminen P, Tolonen U, Lopponen H, et al. Snoring children: 
+factors predicting sleep apnea. Acta Otolaryngol Suppl 
+1997; 529:190–194 
+
+15 Westbrook PR. The chronically snoring child: an acoustic 
+annoyance or cause for concern [editorial]? Mayo Clin Proc 
+1983; 58:399 
+
+16 Brouillette RT, Fernbach SK, Hunt CE. Obstructive sleep 
+apnea in infants and children. J Pediatr 1982; 100:31–40 
+
+17 Gastaut H, Tassinari CA, Duron B. Polygraphic study of the 
+episodic diurnal and nocturnal (hypnic and respiratory) manifestations 
+of Pickwick syndrome. Brain Res 1966; 2:167–186 
+
+18 Lugaresi E, Coccagna G, Cirignotta F. Snoring and its clinical 
+implications. In: Guilleminault C, Dement W, eds. Sleep 
+apnea syndromes. New York, NY: AR Liss, 1978; 13–21 
+
+19 Bacon WH, Turlot JC, Krieger J, et al. Cephalometric 
+evaluation of pharyngeal obstructive factors in patients with 
+sleep apneas syndrome. Angle Orthod 1990; 60:115–122 
+
+20 Isono S, Remmers JE, Tanaka A, et al. Static properties of the 
+passive pharynx in sleep apnea. Sleep 1996; 19(10 Suppl): 
+S175–S177 
+
+21 Ellis PDM, Williams JEF, Shneerson JM. Surgical relief of 
+snoring due to palatal flutter: a preliminary report. Ann R 
+Coll Surg Engl 1993; 75:286–290 
+
+22 Croft CB, Pringle M. Sleep nasendoscopy: a technique of 
+assessment in snoring and obstructive sleep apnea. Clin 
+Otolaryngol 1991; 16:504–509 
+
+23 Lugaresi E, Cirignotta F, Montagna P. Snoring: pathogenesis, 
+clinical and therapeutic aspects. In: Kryger MH, Roth T, 
+Dement WC, eds. Principles and practice of sleep medicine. 
+Philadelphia, PA: WB Saunders, 1989; 494 –500 
+
+24 Nelson S, Hans M. Contribution of craniofacial risk factors in 
+increasing apneic activity among obese and nonobese habitual 
+snorers. Chest 1997; 111:154–162 
+
+25 Zucconi M, Ferini-Strambi L, Palazzi S, et al. Craniofacial 
+cephalometric evaluation of habitual snorers with and without 
+obstructive sleep apnea. Otolaryngol Head Neck Surg 1993; 
+109:1007–1013 
+
+26 Zucconi M, Ferini-Strambi L, Palazzi S, et al. Habitual 
+snoring with and without obstructive sleep apnoea: the 
+importance of cephalometric variables. Thorax 1992; 47:157– 
+161 
+
+27 Maltais F, Carrier G, Cormier Y, et al. Cephalometric 
+measurements in snorers, non-snorers, and patients with 
+sleep apnea. Thorax 1991; 46:419 – 423 
+
+28 Partinen M, Guilleminault C, Quera-Salva MA, et al. Obstructive 
+sleep apnea and cephalometric roentgenograms: the 
+role of anatomic upper airway abnormalities in the definition 
+of abnormal breathing during sleep. Chest 1988; 93:1199– 
+1205 
+
+29 Shintani T, Asakura K, Kataura A. Obstructive sleep apnea in 
+children. Adv Otorhinolaryngol 1992; 47:267–270 
+
+30 Zucconi M, Caprioglio A, Calori G, et. al. Craniofacial 
+modifications in children with habitual snoring and obstructive 
+sleep apnoea: a case-control study. Eur Respir J 1999; 
+13:411–417 
+
+31 Enlow DH, Kuroda T, Lewis AB. The morphological and 
+morphogenetic basis for craniofacial form and pattern. Angle 
+Orthod 1971; 41:161–188 
+
+32 Snedecor GW, Cochran WG. Statistical methods. 7th ed. 
+Ames, IA: Iowa State University Press, 1980; 243–244 
+
+33 Guilleminault C, Winkle R, Korobkin R, et al. Children and 
+nocturnal snoring: evaluation of effects of sleep related 
+respiratory resistance load and daytime functioning. Eur 
+J Pediatr 1982; 139:165–171 
+
+34 Olson LG, King MT, Hensley MJ, et al. A community study 
+of snoring and sleep-disordered breathing: health outcomes. 
+Am J Respir Crit Care Med 1995; 152:717–720 
+
+35 Miles PG, Vig PS, Weyant RJ, et. al. Craniofacial structure 
+and obstructive sleep apnea syndrome: a qualitative analysis 
+and meta analysis of the literature. Am J Orthod Dentofacial 
+Orthop 1996; 109:163–172 
+
+36 Pracharktam N, Hans MG, Strohl KP, et. al. Upright and 
+supine cephalometric evaluation of obstructive sleep apnea 
+syndrome and snoring subjects. Angle Orthod 1994; 64:63–74 
+
+37 Pracharktam N, Nelson S, Hans MG, et. al. Cephalometric 
+assessment in obstructive sleep apnea. Am J Orthod Dentofacial 
+Orthop 1996; 109:410 – 419 
+
+38 Acebo C, Millman RP, Rosenberg C, et. al. Sleep, breathing, 
+and cephalometrics in older children and young adults: Part I. 
+Normative values. Chest 1996; 109:664–672 
+
+39 Trenouth MJ, Timms DJ. Relationship of the functional 
+oropharynx to craniofacial morphology. Angle Orthod 1999; 
+69:419– 423 
+
+40 Pae EK, Kuhlberg A, Nanda R. Role of pharyngeal length in 
+patients with a lack of overbite. Am J Orthod Dentofacial 
+Orthop 1997; 112:179 –186 
+
+41 Schwartz AR, Rowley JA, Thut DC, et al. Structural basis for 
+alterations in upper airway collapsibility. Sleep 1996; 19(10 
+Suppl):S184–S188 
+
+42 Huggare JAV, Laine-Alava MT. Nasorespiratory function and 
+head posture. Am J Orthod Dentofacial Orthop 1997; 112: 
+507–511 
+
+43 Krogman WM. Forty years of growth research and orthodontics. 
+Am J Orthod Dentofacial Orthop 1973; 63:357–365 
+
+44 Hellsing E. Changes in the pharyngeal airway in relation to 
+extension of the neck. Eur J Orthod 1989; 11:359 –365 
+
+CHEST 
+/ 
+118/3/ 
+SEPTEMBER, 
+2000 
+603
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2000 American College of Chest Physicians 
+
+
+
+Cephalometric Assessment of Snoring and Nonsnoring Children* 
+
+Randall Kulnis, Suchitra Nelson, Kingman Strohl and Mark Hans 
+Chest 2000;118; 596-603 
+DOI 10.1378/chest.118.3.596 
+
+
+This information is current as of February 20, 2009 
+
+& Services 
+Updated Information 
+http://www.chestjournal.org/content/118/3/596.full.html 
+high-resolution figures, can be found at: 
+Updated Information and services, including 
+References 
+tml#ref-list-1 
+http://www.chestjournal.org/content/118/3/596.full.h 
+accessed free at: 
+This article cites 31 articles, 10 of which can be 
+Open Access 
+option 
+Freely available online through CHEST open access 
+Permissions & Licensing 
+http://chestjournal.org/misc/reprints.shtml 
+(figures, tables) or in its entirety can be found online at: 
+Information about reproducing this article in parts 
+Reprints 
+http://chestjournal.org/misc/reprints.shtml 
+Information about ordering reprints can be found online: 
+Email alerting service 
+online article. 
+article. sign up in the box at the top right corner of the 
+Receive free email alerts when new articles cit this 
+format 
+Images in PowerPoint 
+format. See any online article figure for directions. 
+downloaded for teaching purposes in PowerPoint slide 
+Figures that appear in CHEST articles can be
+
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2000 American College of Chest Physicians 
+
+
+

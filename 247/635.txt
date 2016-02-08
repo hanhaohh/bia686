@@ -1,0 +1,923 @@
+Pediatric 
+Pulmonology 
+39:251–256 
+(2005) 
+
+
+Prevalence 
+of 
+Obstructive 
+Sleep 
+Apnea 
+Syndrome 
+and 
+Associated 
+Symptoms 
+in 
+3–11-Year-Old 
+Turkish 
+Children 
+
+
+123 
+3
+
+Ayhan 
+Sogut, 
+MD, 
+Remzi 
+Altin, 
+MD, 
+Lokman 
+Uzun, 
+MD, 
+* 
+Mehmet 
+Birol 
+Ugur, 
+MD, 
+
+
+112 
+4
+
+Nazan 
+Tomac, 
+MD, 
+Ceyda 
+Acun, 
+MD, 
+Levent 
+Kart, 
+MD, 
+and 
+Gunay 
+Can, 
+MD 
+
+
+Summary. 
+Our objective was to investigate the prevalence of sleep-disordered breathing (SDB) 
+and obstructive sleep apnea syndrome (OSAS) in 3–11-year-old Turkish children. A cross-
+sectional study was conducted in Zonguldak, northwestern Turkey. Symptomatic children were 
+identified by using a self-administered questionnaire and were classified into three groups: 
+nonsnorers, occasional snorers, and habitual snorers. All habitual snoring children were invited to 
+undergo polysomnography (PSG). Nine hundred fifty-four children (79.5%) were nonsnorers, 205 
+(17.2%) were occasional snorers, and 39 (3.3%) were habitual snorers. There was no significant 
+relationship between gender and habitual snoring (male, 3.4%; female, 3.1%; P 
+> 
+0.05; odds ratio 
+(OR), 1.13; 95% confidence interval (CI), 0.59–2.14). There was a statistically significant relationship 
+between habitual snoring and allergic rhinitis (OR, 4.23; 95% CI, 2.14–8.35). Four children 
+who snored every night, and who had apnea spells and/or troubled sleep, underwent adenoidectomy 
+and/or tonsillectomy before polysomnographic evaluation because of clinical detoriation. 
+Twenty-eight of 39 children with habitual snoringparticipated in PSG evaluation.PSGrevealed that 
+11 children (0.9% of the total population) had OSAS. When 4 operated children were added to 
+these 28 children, we found the minimum prevalence of OSAS to be 1.3% in our studygroup. There 
+was a significant correlation between OSAS and troubled sleeping (P 
+< 
+0.001; OR, 4.37; 95% CI, 
+1.33–14.3). We found the prevalence of habitual snoring to be 3.3% in Turkish children by using 
+self-administered questionnaires. Allergic rhinitiswas significantlycorrelated with habitual snoring. 
+Minimum estimated prevalence of OSAS was found to be 1.3%. Pediatr 
+Pulmonol. 
+2005; 
+39: 
+251–256. 
+. 
+2005 Wiley-Liss, Inc. 
+
+Key 
+words: 
+obstructive 
+sleep 
+apnea; 
+polysomnography; 
+snoring; 
+prevalence; 
+allergic 
+rhinitis; 
+oral 
+breathing; 
+troubled 
+sleeping; 
+apnea 
+spells. 
+
+
+INTRODUCTION 
+tors in different communities and ethnic groups. OSAS 
+prevalence varies from 0.69–2.9% in children.3,6–8 In 
+
+The term ‘‘sleep-disordered breathing’’ (SDB) in child-
+
+contrast, prevalence of habitual snoring ranges from 
+
+hood has been used to describe a spectrum of sleep –11 
+
+3.2–12.1%.3,6
+
+abnormalities ranging from primary snoring to upper 
+
+To our knowledge, there is no previous report on the 
+
+airway resistance syndrome, to obstructive sleep apnea-
+
+prevalence of SDB and OSAS in Turkish children. We 
+
+hypopnea syndrome (OSAS).1 OSAS in children is a 
+disorder of breathing during sleep characterized by pro
+
+
+1Department of Pediatrics, School of Medicine, Zonguldak Karaelmas 
+longed partial upper airway obstruction and/or inter-University, Zonguldak, Turkey. 
+mittent complete obstruction (obstructive apnea) that 
+2Department of Pulmonary Medicine, School of Medicine, Zonguldak 
+
+disrupts normal ventilation during sleep and normal sleep 
+
+2 
+Karaelmas University, Zonguldak, Turkey. 
+
+patterns.Nearly all children affected by OSAS snore, 
+and so it is necessary to distinguish primary snoring from 
+
+3Department of Otorhinolaryngology and Head and Neck Surgery, School 
+obstructive sleep apnea syndrome.3 Symptoms of OSAS of Medicine, Zonguldak Karaelmas University, Zonguldak, Turkey. 
+include habitual (nightly) snoring (often with intermittent 
+4Department of Public Health, Istanbul University School of Medicine of 
+
+pauses, snorts, or gasps), disturbed sleep, and daytime 
+
+Cerrahpasa, Istanbul, Turkey. 
+
+neurobehavioral problems. Complications include beha
+
+
+vioral problems, failure to thrive, and cor pulmonale, *Correspondence to: Lokman Uzun, M.D., P.K. 143, Zonguldak 67000, 
+particularly in severe cases.4 
+Turkey. E-mail: luzun99@yahoo.com 
+OSAS occurs in children of all ages, from neonates to 
+Received 21 May 2004; Revised 29 September 2004; Accepted 2 October 
+
+adolescents. It is thought to be most common in preschool
+
+
+2004. 
+
+aged children, when the tonsils and adenoids are largest 
+in relation to underlying airway size.5 Sleep-disordered DOI 10.1002/ppul.20179 
+breathing may have different prevalence and risk fac-Published online in Wiley InterScience (www.interscience.wiley.com). 
+
+. 
+2005 
+Wiley-Liss, 
+Inc. 
+
+252 
+Sogut 
+et 
+al. 
+
+
+therefore conducted a cross-sectional study to investigate 
+the prevalence of SDB and OSAS in 3–11-year-old 
+Turkish children. 
+
+MATERIALS 
+AND 
+METHODS 
+
+
+Study 
+Sample 
+
+
+The province of Zonguldak, which is situated in 
+northwestern Turkey, has a population of 104,500. In 
+total, 9,246 schoolchildren are 3–11 years old in this 
+province, making up 8.8% of the total population 
+(672 children in nursery schools and 8,574 in primary 
+schools). A cross-sectional study was carried out in order 
+to find out the OSAS prevalence. 
+
+We calculated that 695 children must be entered into 
+the study in order to ensure an estimate of OSAS 
+prevalence of 2 (previous estimates of OSAS range from 
+0.69–2.9%),3,6–11 with a precision of 1% and a confidence 
+level of 95%. Selection of subjects was based on the 
+school, classroom, and age data of the province, which 
+were obtained from the Ministry of Education. The 
+student population was stratified by schools and by year of 
+course; in each stratum, classes were randomly selected 
+and students in each class were enrolled. The number of 
+classes selected in each stratum was proportional to the 
+size of the stratum. 
+
+The study was carried out in two steps. First, 
+symptomatic children were identified by using a self-
+administered questionnaire, and were classified into 
+three groups: nonsnorers, occasional snorers, and habitual 
+snorers, according to parents’ answers. Second, all habitually 
+snoring children were invited to undergo polysomnography 
+in the sleep laboratory of our hospital. An 
+OSAS diagnosis was made when the apnea-hypopnea 
+index of the child was greater than 3, in accordance with 
+previous studies.3,8 
+
+Parental 
+Questionnaire 
+
+
+The study questionnaire was previously described in a 
+report on OSAS prevalence in children.3 The survey 
+questionnaire included 31 questions which were arranged 
+either as yes-no or multiple-choice questions. In order 
+to facilitate parents’ understanding of the questions, a 
+document which explained OSAS and associated symptoms 
+(including snoring and witnessed apnea spells) was 
+added to the survey questionnaire. Survey questionnaires 
+were distributed to children by classroom teachers, and 
+were then filled out at home by parents. 
+
+The questions were about sleep patterns, sleep problems, 
+and sociodemographic data (age, gender, class, 
+smoking status in the family and during pregnancy, school 
+performance, and behavioral disturbances). Questions 
+about sleep-related problems included: ‘‘Do you see your 
+child cease breathing during sleep? Do you see that your 
+
+child has difficulty breathing during sleep? Do you get 
+anxious about the way your child breathes during sleep?’’ 
+Medications previously given to the child, chronic illnesses 
+diagnosed by a physician (e.g., asthma, epilepsy), 
+and the presence of symptoms that could be related to 
+breathing disorders (troubled sleep, enuresis, nocturnal 
+sweating, oral breathing, or daily sleepiness) were questioned. 
+Allergic rhinitis was defined according to the 
+response to the following questions: ‘‘Does your child 
+suffer from a) intermittent nasal obstruction, b) nasal 
+discharge, c) repetitive sneezing, or d) nasal itching? Has 
+your child been previously diagnosed as having allergic 
+rhinitis by a physician?’’ A child was classified as having 
+allergic rhinitis when there was a previous diagnosis 
+and at least two of the aforementioned symptoms were 
+present. Anuntaseree et al. used a similar method to 
+identify children with allergic rhinitis in Thai school-aged 
+children.6 
+
+In the sleep section, questions were intended to score 
+the severity of sleep-related symptoms according to a 4point 
+scale. A child with a score of 3 (always: equal to or 
+more than 3 times a week) was defined as a habitual snorer, 
+with 2 (sometimes: twice a week) as an occasional snorer, 
+and with 1 (seldom: equal to or less than once a week) or 
+0 (never) as a nonsnorer. 
+
+Sleep 
+Study 
+
+
+In the second phase of the study, children with habitual 
+snoring were further evaluated by using polysomnography 
+(PSG) in order to identify those with OSAS. 
+
+All children were free of upper respiratory infections at 
+time of PSG. Twenty-eight children underwent overnight 
+PSG (Compumedics E-series, 44 channels) 1 hr before 
+their usual bedtime. Sixteen parameters were recorded. Six 
+electroencephalographic leads (bilateral frontal, central, 
+and occipital), bilateral electro-oculographic leads, and 
+submental electromyographic leads were applied. These 
+surface leads were used to measure stages of sleep, including 
+time spent in rapid eye movement (REM) sleep. 
+Motion of the chest wall and abdomen were measured by 
+respiratory inductance plethysmography. Airflow from 
+the nose and mouth was measured with thermocouples. 
+Oxyhemoglobin saturation was measured by pulse oximetry. 
+Body motion was recorded with pretibial electromyographic 
+leads. Cardiac rhythm was monitored with 
+standard electrocardiographic leads. 
+
+Obstructive apnea was defined as absent airflow in the 
+presence of respiratory effort for at least two respiratory 
+cycle times, accompanied by at least a 4% decrease in 
+arterial oxygen saturation.3 Hypopnea was defined as a 
+50% reduction in airflow with synchronous chest wall and 
+abdominal motion for at least two respiratory cycle times, 
+resulting in either arousal or oxyhemoglobin desaturation 
+of at least 4%.3 The type, number, and duration of 
+
+
+respiratory events were noted, as well as the median 
+and minimum oxyhemoglobin saturation. The apnea/ 
+hypopnea index (AHI) was calculated as (number of obstructive 
+apnea events plus number of obstructive hypopnea 
+events) per hour of sleep time. The cutoff value of 
+AHI to diagnose OSAS was selected as >3 in previous 
+studies.3,8 We also used this value, and children with an 
+apnea/hypopnea index >3 received a diagnosis of OSAS. 
+
+Weight and height data of children who underwent 
+polysomnography were recorded. Body mass index (BMI) 
+was computed by dividing weight (in kilograms) by height 
+squared (in meters). Childhood obesity was defined as a 
+BMI at or above the 85th percentile for age and sex.12 
+
+Statistics 
+
+
+The prevalence of symptoms in the three categories of 
+snoring was compared by w 
+2 test (or Fisher’s exact test as 
+appropriate). The Mann-Whitney U-test was used to compare 
+age data of children with and without OSAS. The 
+relationship between presence of symptoms and OSAS 
+was investigated by Fisher’s exact test, and the odds 
+ratio (OR) was calculated. Univariate and logistic regression 
+analysis was used for further analysis on correlation 
+of symptoms and OSAS. Mean BMI values of 
+children with and without OSAS were compared by using 
+an independent-samples t-test. P 
+< 
+0.05 was considered 
+significant. 
+
+Ethical 
+Approval 
+
+
+This study was approved by the Ethics Committee of the 
+Zonguldak Karaelmas University School of Medicine. 
+Written informed consent was taken from parents of 
+children who underwent polysomnography. 
+
+RESULTS 
+
+
+Study questionnaires were distributed to 1,344 children: 
+691 (51.4%) were female, and 653 (48.6%) were male. 
+Two hundred seventy-eight children (20.7%) were in 
+nursery schools, and 1,066 children (79.3%) were in primary 
+schools. Of 1,344 questionnaires, 1,215 (90.4%) 
+were returned. Seventeen questionnaires were excluded 
+from analysis, as they were incomplete. Thus, data from 
+1,198 (89.1%) children were gathered for final analysis. 
+One hundred ninety-seven (16.4%) children attended 
+nursery school, and 1,001 children (83.6%) attended primary 
+school. Children were mainly aged 8–10 years. The 
+mean (. 
+SD) age of children was 8.1 . 
+1.9 years (range, 
+3–11 years). Six hundred sixteen of the children (51.4%) 
+were female, and 582 (48.6%) were male. The female-tomale 
+ratio was 1.06:1. 
+
+According to the questionnaires, 39 children (3.3%) 
+were classified as habitual snorers, 205 children (17.2%) 
+as occasional snorers, and 954 children (79.5%) as 
+nonsnorers. There was no significant relationship between 
+
+OSAS 
+in 
+Turkish 
+Children 
+253 
+
+
+gender and habitual snoring (male, 3.4%; female, 3.1%; 
+P 
+> 
+0.05; OR, 1.13; 95% confidence interval (CI), 0.59– 
+2.14). Age distribution of habitual snorers according to sex 
+is shown in Figure 1. 
+
+Symptoms of witnessed apnea spells, troubled sleep, 
+nocturnal sweating, enuresis, and oral breathing were 
+significantly more common in habitual snorers and occasional 
+snorers compared to nonsnorers (P 
+< 
+0.001). 
+Daytime sleepiness and poor school achievement were 
+significantly more common in only occasional snorers 
+compared to nonsnorers (P 
+< 
+0.001 and P 
+< 
+0.01, respectively; 
+Table 1). 
+
+Table 2 shows the association of snoring with predisposing 
+factors. There was a significant association 
+between snoring and allergic rhinitis, with an OR of 4.23 
+(95% CI, 2.14–8.35). Although parental smoking and 
+asthma were more common in habitual snorers than non-
+snorers, the relationship of snoring with parental smoking, 
+smoking in pregnancy, or asthma was not statistically 
+significant (P 
+> 
+0.05). 
+
+Polysomnographic 
+Data 
+
+
+There were 39 children with habitual snoring. Parents 
+of 7 children with habitual snoring refused further investigation. 
+Four children who snored every night, and 
+who had witnessed apnea spells and/or troubled sleep, 
+underwent adenoidectomy and/or tonsillectomy before 
+polysomnographic evaluation because of clinical detoration. 
+Twenty-eight children with habitual snoring underwent 
+polysomnographic evaluation in the sleep laboratory 
+
+Fig.1.Agedistributioninchildrenwithhabitualsnoring(y-axisrepresentspercentageofchildreninthatagegroup).
+
+
+
+254 
+Sogut 
+et 
+al. 
+TABLE 
+1— 
+Distribution 
+of 
+Sleep 
+Related 
+Symptoms 
+According 
+to 
+Snoring 
+Categories1 
+
+
+OS vs. NSO 
+
+HS vs. NSO 
+NSO (%) OS (%) HS (%) OR 95% CI 
+
+OR 95% CI 
+
+Apnea 1.3 11.2 28.2 9.92 4.84–20.29 30.83 12.53–75.87 
+Troubled sleep 8.3 25.4 61.5 3.76 2.54–5.55 17.72 8.93–35.15 
+Enuresis 9.2 25.4 30.8 3.34 2.27–4.90 4.37 2.14–8.93 
+Nocturnal sweating 34.6 57.1 59.0 2.51 1.84–3.41 2.71 1.41–5.21 
+Oral breathing 56.8 81.5 89.7 3.34 2.29–4.86 5.16 2.00–13.33 
+Daily sleepiness 40.0 51.7 41.0 1.63 1.18–2.17 1.04 0.54–1.99 
+Poor school achievement 2.5 7.3 7.7 3.05 1.57–5.94 3.22 0.92–11.22 
+
+1OR, odds ratio; CI, confidence interval; NSO, nonsnorers; OS, occasional snorers; HS, habitual snorers. 
+
+of our hospital. Twenty-eight children (18 male, 10 female; 
+mean age . 
+SD, 8.2 . 
+1.7; age range, 4–12 years) underwent 
+PSG. The mean total sleep time was 434 . 
+71.5 min. 
+AHI was in the range of 0–38.5 per hour of sleep time. 
+The lowest oxygen saturation was between 64–94%. 
+Oxygen desaturation index was between 0–21. Population 
+characteristics and the details of the PSG recordings 
+are presented in Table 3. 
+
+OSAS diagnosis was made when the apnea-hypopnea 
+index was greater than 3. Polysomnographic evaluation 
+revealed that 11 (0.9%) of 28 children with habitual 
+snoring had OSAS. When 4 children who underwent 
+adenoidectomy and/or tonsillectomy before polysomnographic 
+evaluation were added to these 11 children, we 
+found the minimum estimated prevalence of OSAS to be 
+1.3% in our study group (95% CI, 0.8–1.8). 
+
+There were 15 children with OSAS (M/F, 7/8; mean 
+age . 
+SD, 8.17 . 
+1.69) and 1,176 children without OSAS 
+(M/F, 573/603; mean age . 
+SD, 8.14 . 
+1.88). There was 
+no statistically significant difference between children 
+with OSAS and without OSAS regarding gender or 
+age (P 
+¼ 
+0.874 and P 
+¼ 
+0.786, respectively). Among 
+15 children with OSAS, age distribution was as follows: 
+7 were 6 years old, 5 were 9 years old, 1 was 10 years old, 
+and 2 were 11 years old. 
+
+We found that witnessed apnea spells, troubled sleep, 
+and oral breathing were significantly more common in 
+children with OSAS than without OSAS according to 
+univariate analysis (P 
+¼ 
+0.002, P 
+< 
+0.001, and P 
+¼ 
+0.001, 
+
+TABLE 
+2— 
+Association 
+of 
+Snoring 
+With 
+Predisposing 
+Factors1 
+
+
+Nonsnorers 
+Habitual 
+snorers 
+Factor n % n % OR 95% CI 
+Allergic rhinitis 
+Parental smoking 
+Asthma 
+Smoking in pregnancy 
+306 
+516 
+36 
+97 
+32.1 
+54.1 
+3.8 
+10.2 
+26 
+26 
+4 
+7 
+66.7 
+66.7 
+10.3 
+17.9 
+4.23 
+1.69 
+2.91 
+1.93 
+2.14–8.35 
+0.86–3.32 
+0.98–8.64 
+0.83–4.49 
+
+1OR, odds ratio; CI, confidence interval; n, number of children. 
+
+respectively; Table 4). The differences were not significant 
+for other symptoms. Further analysis by logistic regression 
+showed a significant correlation between OSAS 
+and troubled sleep (OR, 4.37; 95% CI, 1.33–14.3). 
+Logistic regression analysis did not show a significant 
+correlation between OSAS and witnessed apnea spells or 
+oral breathing (OR, 3.26; 95% CI, 0.83–12.7; and OR, 
+5.71; 95% CI, 0.73–44.7, respectively; Table 4). 
+
+Mean BMI . 
+SD of all 28 children who underwent PSG 
+was found to be 17.4 . 
+3.3 (range,10–23.1),while that of 
+11 children with OSAS and 17 without OSAS were 17.0 . 
+
+
+3.3 (range, 13.5–22.9) and 17.6 . 
+3.4 (range, 10–23.1), 
+respectively. There was no significant difference between 
+children with and without OSAS regarding BMI 
+(P 
+¼ 
+0.64). Four children with OSAS and 7 without OSAS 
+were found to have childhood obesity. 
+DISCUSSION 
+
+
+There are no data available on the prevalence of 
+sleep-disordered breathing and obstructive sleep apnea 
+
+TABLE 
+3— 
+Population 
+Characteristics 
+and 
+Polysomnographic 
+Results1 
+
+
+With OSAS Without OSAS 
+
+n 11 17 
+Age (year) 5 . 
+3 6 . 
+2 
+Male, n (%) 7 (63.6) 11 (64.7) 
+Female, n (%) 4 (36.4) 6 (35.3) 
+Total recording time (min) 419 . 
+72 453 . 
+85 
+Total sleep time (min) 366 . 
+31 378 . 
+46 
+Sleep efficiency (%) 81 . 
+6 88 . 
+13 
+Arousal index (n/h) 13 . 
+4 5 . 
+2 
+Stage 1 (%TST) 4 . 
+2 5 . 
+3 
+Stage 2 (%TST) 55 . 
+9 51 . 
+9 
+Slow-wave sleep (%TST) 19 . 
+8 26 . 
+8 
+Rapid eye movement sleep (%TST) 22 . 
+6 19 . 
+6 
+Apnea index (n/h TST) 10.5 . 
+13 1.1 . 
+1 
+ODI 8.9 . 
+6 1.3 . 
+1 
+SaO2 lowest (%) 80.8 . 
+10 93 . 
+1 
+
+1All data displayed as mean . 
+SD unless otherwise specified. OSAS, 
+obstructive sleep apnea syndrome; REM, rapid eye movement; 
+TST, total sleep time; ODI, oxygen desaturation index; SaO2, oxygen 
+saturation. 
+
+
+OSAS 
+in 
+Turkish 
+Children 
+255 
+
+
+TABLE 
+4— 
+Symptoms 
+of 
+Children 
+with 
+OSAS 
+and 
+without 
+OSAS1 
+
+
+Univariate 
+
+Multivariate 
+Without With 
+
+OSAS (%) OSAS (%) OR 95% CI 
+
+P2 
+
+OR 95% CI 
+
+Apnea 3.3 26.7 0.002 10.60 3.23–34.78 3.26 0.83–12.7 
+Troubled sleep 12.0 53.3 <0.001 8.38 2.99–23.48 4.37 1.33–14.3 
+Enuresis 12.4 26.7 0.109 2.56 0.80–8.16 
+Nocturnal sweating 39.0 53.3 0.293 1.78 0.64–4.95 
+Oral breathing 64.4 100.0 0.001 8.80 1.15–67.17 5.71 0.73–44.7 
+Daily sleepiness 42.0 46.7 0.795 1.20 0.43–3.35 
+Passive smoking 55.4 73.3 0.197 2.21 0.70–7.00 
+Smoking in pregnancy 9.8 13.3 0.652 1.41 0.31–6.36 
+Poor school achievement 3.4 13.3 0.069 4.36 0.95–20.01 
+
+1Without OSAS, n ¼ 
+1,176; with OSAS, n ¼ 
+15. 
+2Chi-square or Fisher’s exact test as appropriate. 
+
+syndrome in Turkish children. We found that the prevalence 
+of habitual snoring in 3–11-year-old children was 
+3.3% in our study sample. There is only a limited number 
+of studies about the epidemiology of SDB and OSAS in 
+children. In these studies, the reported prevalence of 
+habitual snoring in childrenvaried from 3.2–12.1%.3,6–11 
+Prevalence rates may change according to study design, 
+study population characteristics such as age and sex, and 
+the description of habitual snoring. 
+
+Corbo et al.13 investigated the prevalence of habitual 
+snoring in 9–15-year-old children. They reported that 
+habitual snoring was more common in boys than girls. 
+They suggested that the increased levels of testosterone in 
+boys after puberty, which has an apnea-promoting effect, 
+can increase the prevalence of snoring in boys. Kaditis 
+et al.1 similarly found that snoring every night was more 
+frequent in males. Other studies did not report such a 
+difference in prevalence rates for boys and girls.6,7,9,14 
+We found nearly equal prevalence rates of habitual snoring 
+for boys and girls. 
+
+Allergic rhinitis leads to nasal obstruction due to nasal 
+mucosal edema and mucus secretion. Nasal obstruction, in 
+turn, results in upper airway obstruction. More recent 
+studies reported a significant correlation between allergic 
+rhinitis and snoring.7,10,14 Another study in adolescents 
+showed that the primary predictors of snoring were increased 
+body weight, presence of factors resulting in decreased 
+nasal patency (such as rhinitis, septum deviation, 
+and other causes of nasal obstruction), and factors resulting 
+in pharyngeal airway narrowing (such as tonsillary 
+hypertrophy or adenoidectomy without tonsillectomy).13 
+We also found a significant correlation between snoring 
+and allergic rhinitis in our study. 
+
+Smoking is claimed to result in obstruction and collapse 
+of the pharyngeal airway by provoking pharyngeal 
+inflammation and mucosal edema, and thus increases the 
+risk of snoring.9,15 It was shown that active smoking is 
+a risk factor for habitual snoring in adults.16,17 Similar 
+results were reported for young students.18,19 Passive 
+
+parental smoking was reported to be a risk factor for 
+snoring in children.1,9,13 Corbo et al.9 reported on a significant 
+dose-effect type of correlation between prevalence 
+of habitual snoring and number of cigarettes smoked 
+by parents. Other studies failed to demonstrate such a 
+relationship.6,8 In our study, although parents of children 
+with habitual snoring had a higher incidence of smoking, 
+the difference was not significant. 
+
+A history of asthma was associated with sleep-
+disordered breathing in some studies,20 while others did 
+not detect such a relationship.9 Similarly, we found no significant 
+correlation between habitual snoring and asthma. 
+
+OSAS prevalence varies from 0.69–2.9% in 
+children.3,6–8 In contrast to those for adults, diagnostic 
+criteria for OSAS in children are heterogeneous. Additionally, 
+differences between studies regarding age and 
+techniques used for diagnosis lead to wide variation in the 
+reported prevalence rates. Unfortunately, there are no 
+age-adjusted normalized data regarding apnea-hypopnea 
+indices in children. Several studies used different cutoff 
+values of AHI to diagnose OSAS. Ali et al.7 found 
+the OSAS prevalence to be 0.7% for 4–5-year-old 
+children without using polysomnography. Gislason and 
+Benediktsdottir8 and Brunetti et al.3 selected values of 
+AHI >3 as the cutoff to diagnose OSAS, and reported a 
+prevalence rate of 2.9% in 0.5–6-year-old children and 
+1.8% in 3–11-year-old children. Anuntaseree et al.6 
+selected a cutoff value >1 and found the prevalence rate 
+to be 0.69% in 6–13-year-old children. In this study, we 
+used values of AHI >3 as the cutoff to diagnose OSAS. 
+Polysomnographic evaluation revealed that 11 (0.9% of 
+the total population) of 28 children with habitual snoring 
+had OSAS. Four children underwent adenoidectomy 
+and/or tonsillectomy before polysomnographic evaluation 
+because of clinical detoriation. These children had 
+symptoms of snoring every night, witnessed apnea spells, 
+and/or troubled sleep, which were reported as risk 
+factors in previous studies.3,21,22 When they were added 
+to the polysomnographically verified OSAS cases, we 
+
+
+256 
+Sogut 
+et 
+al. 
+
+
+found the prevalence of OSAS to be 1.3% in our study 
+group. In this study, there was no statistically significant 
+difference between children with and without OSAS 
+regarding sex, in agreement with previous studies.20,21 
+
+Although in adult obstructive sleep apnea, obesity is 
+the single most important predictive factor, we found no 
+significant difference regarding BMI between children 
+with and without OSAS. This may be due to the small 
+sample size, as only 28 children underwent PSG in our 
+study. One limitation of our study was that we did not 
+perform PSG on the occasionally snoring children. This 
+limited the negative predictive value of our study, because 
+it is possible that we missed significant sleep apnea in this 
+intermittent snoring group, especially if these children 
+were obese. Other limitations included the small number 
+of sleep studies and the use of habitual snoring as a screening 
+tool in selecting children to undergo polysomnography. 
+Although snoring is the most common symptom 
+of OSAS, the absence of parentally reported snoring does 
+not always exclude the possibility of OSAS.1 This may 
+have led to underestimation of the prevalence of OSAS in 
+our study. 
+
+Some symptoms in children were reported to be risk 
+factors for OSAS in recent studies. According to 
+Nieminen et al.,22 apneic episodes every night detected 
+by parents comprise the most important single risk factor 
+for OSAS. In Nieminen et al.,22 the other risk factors 
+among night-time symptoms were constant snoring and 
+restless sleep. Snoring every night was reported to be 
+an important risk factor in identifying OSAS in children 
+by Chau et al.21 In the same study, restlessness, daytime 
+sleepiness, and enuresis were not found to be related to 
+OSAS. Brunetti et al.3 reported that snoring, troubled 
+sleep, nocturnal sweating, and oral breathing were positively 
+correlated with OSAS. They also reported that passive 
+smoking and smoking in pregnancy played a pivotal 
+role in augmenting the possibility of developing OSAS. 
+We found that troubled sleep was significantly correlated 
+with OSAS. We did not detect any significant correlation 
+between OSAS and passive smoking or smoking in 
+pregnancy. 
+
+In conclusion, we found the prevalence of habitual 
+snoring to be 3.3% in Turkish children by using self-
+administered questionnaires. Allergic rhinitis was significantly 
+correlated with habitual snoring. The minimum 
+estimated prevalence of OSAS was found to be 1.3%. 
+There was a significant correlation between OSAS and 
+troubled sleeping. 
+
+REFERENCES 
+
+
+1. Kaditis AG, Finder J, Alexopoulos EI, Starantzis K, Tanou K, 
+Gampeta S, Agorogiannis E, Christodoulou S, Pantazidou A, 
+Gourgoulianis K, Molyvdas PA. Sleep-disordered breathing in 
+3,680 Greek children. Pediatr Pulmonol 2004;37:499–509. 
+2. American Thoracic Society. Standards and indications for cardiopulmonary 
+sleep studies in children. Am J Respir Crit Care Med 
+1996;153:866–878. 
+3. Brunetti L, Rana S, Lospalluti ML, Pietrafesa A, Francavilla R, 
+Fanelli M, Armenio L. Prevalence of obstructive sleep apnea 
+syndrome in a cohort of 1,207 children of southern Italy. Chest 
+2001;120:1930–1935. 
+4. American Academy of Pediatrics. Clinical practice guideline: 
+diagnosis and management of childhood obstructive sleep apnea 
+syndrome. Pediatrics 2002;109:704–712. 
+5. Jeans WD, Fernando DC, Maw AR, Leighton BC. A longitudinal 
+study of the growth of the nasopharynx and its contents in normal 
+children. Br J Radiol 1981;54:117–121. 
+6. Anuntaseree W, 
+Rookkapan K, Kuasirikul S, Thongsuksai P. 
+Snoring and obstructive sleep apnea in Thai school-age children: 
+prevalence and predisposing factors. Pediatr Pulmonol 2001;32: 
+222–227. 
+7. Ali NJ, Pitson DJ, Stradling JR. Snoring, sleep disturbance, and 
+behaviour in 4–5 year olds. Arch Dis Child 1993;68:360–366. 
+8. Gislason T, 
+Benediktsdottir B. Snoring, apneic episodes, and 
+nocturnal hypoxemia among children 6 months to 6 years old. 
+Chest 1995;107:963–966. 
+9. Corbo GM, Fuciarelli F, 
+Foresi A, Benedetto FD. Snoring in 
+children: association with respiratory symptoms and passive 
+smoking. Br Med J [Clin Res] 1989;299:1491–1494. 
+10. Hultcrantz E, Lofstrand-Tidestrom B, Ahlquist-Rastad J. The 
+epidemiology of sleep related breathing disorder in children. Int J 
+Pediatr Otorhinolaryngol [Suppl] 1995;32:63–66. 
+11. Ferreira 
+AM, Clemente V, Gozal D, Gomes A, Pissarra C, 
+Cesar H, Coelho I, Silva CF, Azevedo MH. Snoring in Portuguese 
+primary school children. Pediatrics 2000;106:64. 
+12. Whitaker RC, Wright JA, Pepe MS, Seidel KD, Dietz WH. Predicting 
+obesity in young adulthood from childhood and parental 
+obesity. N Engl J Med 1997;337:869–873. 
+13. Corbo GM, Forastiere F, 
+Agabiti N, Pistelli R, Dell’Orco V, 
+Perucci CA, Valente S. Snoring in 9-to 15-year-old children: risk 
+factors and clinical relevance. Pediatrics 2001;108:1149–1154. 
+14. Teculescu DB, Caillier I, Perrin P, Rebstock E, Rauch A. Snoring 
+in French preschool children. Pediatr Pulmonol 1992;13: 
+239–244. 
+15. Bloom JW, Kaltenborn WT, Quan SF. Risk factors in a general 
+population for snoring. Importance of cigarette smoking and 
+obesity. Chest 1988;93:678–683. 
+16. Stradling JR, Cosby JH. Predictors and prevalence of obstructive 
+sleep apnea and snoring in 1001 middle aged men. Thorax 1991; 
+46:85–90. 
+17. Lindberg E, Taube A, Janson C, Gislason T, Sva¨rdsudd K, Boman 
+G. A 10-year follow-up of snoring in men. Chest 1998;114:1048– 
+1055. 
+18. Shin C, Joo SJ, Kim JK, Kim T. 
+Prevalence and correlates 
+of habitual snoring in high school students. Chest 2003;124: 
+1709–1715. 
+19. Delasnerie-Laupretre N, 
+Patois E, Valatx JL, Kauffmann F, 
+Alperovitch A. Sleep, snoring and smoking in high school 
+students. J Sleep Res 1993;2:138–142. 
+20. Redline S, Tishler PV, Schluchter M, Aylor J, Clark K, Graham G. 
+Risk factors for sleep-disordered breathing in children: association 
+with obesity, race, and respiratory problems. Am J Respir 
+Crit Care Med 1999;159:1527–1532. 
+21. Chau KW, Ng DKK, Kwok CK, Chow PY, Ho JC. Clinical risk 
+factors for obstructive sleep apnoea in children. Singapore Med J 
+2003;44:570–573. 
+22. Nieminen P, Tolonen U, Lo¨ppo¨nen H, Lo¨ppo¨nen T, Luotonen J, 
+Jokinen K. Snoring children: factors predicting sleep apnea. Acta 
+Otolaryngol [Suppl] (Stockh) 1997;529:190–194. 
+

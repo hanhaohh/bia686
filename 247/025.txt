@@ -1,0 +1,1070 @@
+Original Article 
+
+
+Keywords 
+
+behavioural scales, children, 
+habitual snoring, 
+hyperactivity, inattention 
+
+
+Correspondence: 
+Ayse Rodopman Arman, MD, 
+Cemil Topuzlu Cad. Kazim 
+Lakay Sok, Sumer Apt. No:18/ 
+10, 34726 Ciftehavuzlar 
+Istanbul, Turkey 
+E-mail: 
+aarman@marmara.edu.tr 
+
+
+Symptoms of inattention and 
+hyperactivity in children with 
+habitual snoring: evidence from a 
+community-based study in Istanbul 
+
+A. R. Arman,* R. Ersu,† D. Save,‡ B. Karadag,† G. Karaman,* 
+K. Karabekiroglu,* F. Karakoc,† E. Dagli† and M. Berkem* 
+*Marmara University Child Psychiatry Department 
+
+†Marmara University Paediatric Respiratory Division, and 
+‡Marmara University Public Health Department, Marmara University, Altunizade, Istanbul, Turkey 
+Accepted for publication 24 May 2005 
+
+Abstract 
+
+Background Neurobehavioural symptoms of inattention and hyperactivity are common in children 
+with sleep-disordered breathing (SDB). Prevalence rates of habitual snoring and attention deficit 
+hyperactivity disorder (ADHD) are very similar and both have a substantial negative effect on 
+children’s behavioural health. 
+Objective We examined the differences for subjective attentional and hyperactivity measures 
+reported by parents and teachers among primary school children with habitual snoring and age- and 
+sex-matched controls in a community-based case-control study in Istanbul. 
+Methods In 2002, a survey was carried out to determine the prevalence of snoring in 2147 primary 
+school children. After one year, in 2003, 151 children with habitual snoring and 302 controls from this 
+survey were studied with parental SDB questionnaire, Conners’ Parent (Conners-P) and Teacher Scales, 
+and an inattention hyperactivity scale (IHS). Exclusion criteria included history of ADHD diagnosis, 
+controls who started to snore and habitual snorers (HS) who no longer snored in this follow-up study. 
+Results Ninety-six HS and 190 control subjects (mean age: 9.4 ± 1.3) were evaluated. HS had 
+significantly more symptoms of hyperactivity (Conners-ADHD index) (P: 0.033), attentional (P: 0.019), 
+and conduct and oppositional defiant in subscales (P: 0.001) of Conners-P and IHS-Parents. A pooled 
+score of Conners-P ADHD Index > 60 and IHS-Parent score > 1.25 showed considerable difference in 
+HS when compared with controls (5.1% vs. 1.4%) (P < 0.0001). Daytime hyperactivity and excessive 
+daytime sleepiness reported by parents correlated with scores of Conners-P and IHS-P (P < 0.01). 
+Teachers’ observations showed significant correlations with learning disability and the level of 
+academic performance in HS (P < 0.01). Other behavioural parameters related to SDB were not 
+significantly correlated with teachers’ ADHD ratings in HS. 
+Conclusion Increased rates of moderate hyperactivity as well as conduct and oppositional defiant 
+symptoms in HS reported by the parents might reflect a negative impact on overall neurobehavioural 
+health.The teachers’ scores yielded no significant results among HS and controls.This may be caused 
+by the limitation due to shared method variance.The negative effect of crowded classes on teachers’ 
+evaluations must be also taken into consideration. After exclusion of a diagnosis of ADHD in children 
+
+© 2005 Blackwell Publishing Ltd 
+
+
+708 A.R. Arman et al. 
+
+presenting with hyperactivity and inattention, children with habitual snoring with prominent scores 
+of behavioural measures should be considered as candidates for further assessment by a sleep 
+
+specialist. 
+
+Introduction 
+
+Frequent snoring is a common condition in prepubertal 
+children affecting approximately 4.9–12% 
+of all children of this age (Ferreira et al. 2000; 
+Brunetti et al. 2001; Ersu et al. 2004; Kaditis et al. 
+2004). Children who snore but do not fulfil the 
+criteria for obstructive sleep apnoea (OSA) are 
+considered to have primary snoring, i.e. habitual 
+snoring (O’Brien et al. 2004) which might indicate 
+the presence of increased upper airway resistance 
+without alterations in alveolar oxygenation (Praud 
+2004). Clinical sleep studies report that behavioural 
+problems that resemble attention deficit 
+hyperactivity disorder (ADHD) are common 
+among children with sleep-disordered breathing 
+(SDB) problems (Chervin et al. 2002; O’Brien et al. 
+2003). 
+
+Increased work of breathing, sleep fragmentation 
+and intermittent hypoxaemia in SDB are the 
+possible contributing factors for the alterations in 
+the neurochemical substrate of the prefrontal cortex 
+that may result in executive dysfunction (Beebe 
+& Gozal 2002; O’Brien & Gozal 2002). 
+
+ADHD is the most frequently encountered paediatric 
+neurodevelopmental disorder with the 
+prevalence of 3–12% (Dulcan 1997; Scahill & 
+Schwab-Stone 2000), and in some occasions unrecognized 
+medical conditions underlie the problematic 
+behaviour, including SDB (Accardo 1999; 
+Gozal et al. 2004). SDB can lead to ADHD-like 
+symptoms in home recognized by parents 
+(Gottlieb et al. 2003; O’Brien et al. 2003) or school 
+settings described by teachers (Gozal 1998; Urschitz 
+et al. 2003) that can be misperceived and 
+potentially delay the diagnosis of both SDB and 
+related psychiatric morbidity. 
+
+Diagnostic and Statistical Manual of Mental Disorders, 
+fourth edition (DSM-IV) category C symptoms 
+of ADHD diagnostic criteria entail that the 
+symptoms must be present in both home and 
+
+school environment (APA 1994). However, studies 
+that evaluate ADHD in relation to SDB are conducted 
+either using parent or teacher assessments 
+(O’Brien & Gozal 2002; Schechter 2002). Thus, 
+there is a strong need for an evaluation of the 
+symptoms of ADHD in habitual snorers (HS) in 
+both home and school settings at the same time. 
+
+The aim of our study was to examine the differences 
+for hyperactivity and attentional measures 
+between primary school children with habitual 
+snoring, and age- and sex-matched controls in a 
+community-based case-control study. 
+
+Methods 
+
+Study population 
+
+Approval by the Regional Director of Education 
+that serves as the Institute of Human Subject Protection 
+Committee for the schools in Istanbul was 
+obtained prior to the study. In May 2002, a survey 
+was carried out to determine the prevalence of HS 
+and related diurnal symptoms in 2147 primary 
+school children in Istanbul (Ersu et al. 2004). 
+Multistage randomized sampling was used for the 
+determination of 72 schools out of nine districts. 
+Those districts were randomly chosen from 32 
+school districts in the city of Istanbul with the population 
+of approximately 12 million people. The 
+prevalence of HS in children aged 5–13 years was 
+estimated to be 7.0% (n = 151) in this study (Ersu 
+et al. 2004). After one year, in May 2003, 151 children 
+with habitual snoring and two age- and sex-
+matched controls (n = 302) for each HS from the 
+initial prevalence study were studied. Exclusion criteria 
+included the history of ADHD diagnosis 
+reported by parents. While ADHD is a behavioural 
+phenotype, it is usually presented with co-morbid 
+conditions such as oppositional defiant, conduct 
+problems and academic difficulties that may 
+resemble the behavioural consequences of habitual 
+snoring. Therefore, children were excluded from 
+
+© 2005 Blackwell Publishing Ltd, Child: Care, Health & Development, 31, 6, 707–717 
+
+
+Inattention and hyperactivity in habitual snoring 709 
+
+both groups to avoid the over-interpretation of any 
+association between snoring and behavioural 
+problems. Controls that started to snore and HS 
+that did not snore any longer are also excluded. 
+
+Measures 
+
+Parental SDB questionnaire 
+
+A 55-item multiple-choice questionnaire formulated 
+according to the Brouillette and colleagues’ 
+(1982, 1984) and Carroll and colleagues’ (1995) 
+guidelines were completed by the parents and provided 
+information regarding sleep habits, nighttime 
+symptoms (total sleep time, sleep latency, 
+presence and frequency of snoring, restless sleep 
+and sleep arousals), and daytime symptoms (sleepiness 
+in different situations, learning disability, 
+school performance and hyperactivity). An envelope 
+containing the questionnaire, the behavioural 
+assessments described below, and a personally 
+addressed letter asking for parental consent were 
+distributed to children at school with the help of 
+their teachers to be filled in by their parents within 
+3 days. Parents reported snoring and other measures 
+on a 4-point scale: 0 (never), 1 (occasionally), 
+2 (often) and 3 (always). Habitual snoring and 
+hyperactivity were considered if they were reported 
+by parents as either ‘often’ or ‘always’ on a 4-point 
+Likert scale in parental SDB questionnaire. The stability 
+of the questionnaire was tested on an independent 
+sample of 65 school-aged children prior to 
+the epidemiological survey (Ersu et al. 2004). 
+
+Behavioural assessments 
+
+Conners’ Parent Rating Scale-48 (CPRS) is a well-
+validated, 48-item instrument that is widely 
+accepted to identify ADHD behavioural problems 
+in children (Conners 1997). The Turkish CPRS validation 
+has been made by Dereboy and colleagues 
+(1998), and yielded six factors such as oppositional, 
+conduct, inattention, hyperactivity, anxious 
+and psychosomatic. 
+
+Conners’ Teacher Rating Scale-28 (CTRS) is a 
+commonly used research and clinical tool for 
+assessing children’s behaviour in the classroom and 
+composed of 28 items (Goyette et al. 1978). The 
+
+validation of Turkish CTRS was conducted by 
+Sener and colleagues (1995), and includes three 
+factors: inattention, hyperactivity/impulsivity and 
+conduct problems. Symptoms are rated by parents 
+or teachers on a 4-point scale and raw scores are 
+converted to age- and sex-adjusted t-scores. Factor 
+totals are standardized with t-scores starting from 
+0 to 100 points with a mean of 50 points and a 
+standard deviation (SD) of 10 points. Scores that 
+exceed this average by 1 SD (10 points) to 2 SD (20 
+points) are commonly considered to reflect hyperactive 
+behaviour. Both instruments contain an 
+ADHD index, composed of 12 most relevant items 
+that show symptomatology consistent with a diagnosis 
+of ADHD (Conners 1999). In this study, both 
+CPRS- and CTRS-ADHD indexes >60 were considered 
+to represent hyperactive behaviour. 
+
+An inattention hyperactivity scale (IHS) is 
+derived from 18 DSM-IV category A symptoms of 
+ADHD diagnostic criteria (APA 1994). The validity 
+of the instrument in the assessment of ADHD 
+behaviour has been well established (Gadow & 
+Sprafkin 1994). Responses are given on a 4-point 
+scale from 0 to 3 (0 = never, 1 = occasionally, 
+2 = often, 3 = always). A mean item response, IHS 
+score, greater than 1.25 was considered to be high 
+in our study. IHS-P score and IHS-T score, respectively, 
+for parents and teachers correspond to mean 
+scores of 12 or more positive (i.e. =2 points for each 
+item on 4-point scale) responses among the 18 
+symptom-items of ADHD. Six symptoms among 
+nine that relate to inattention and six among nine 
+that relate to hyperactive-impulsive behaviour are 
+needed to support the diagnosis of ADHD, combined 
+type in DSM-IV (APA 1994). 
+
+Both Conners’ ADHD index (O’Brien et al. 
+2003) and IHS scores (Chervin et al. 1997, 2002) 
+have been used in previous studies of SDB children. 
+CTRS and IHS-T were filled out by teachers in 
+3 days, and all the survey materials were collected 
+back from the schools by researchers. 
+
+Data analysis 
+
+Statistical analysis was done using a statistical software 
+package (Version 11.0 for Windows; SPSS, 
+Chicago, IL). Comparisons of the demographic 
+factors, SDB questionnaire variables, and behav
+
+
+© 2005 Blackwell Publishing Ltd, Child: Care, Health & Development, 31, 6, 707–717 
+
+
+710 A.R. Arman et al. 
+
+ioural scores of study groups were made with independent 
+t-tests for continuous variables, or Fisher’s 
+exact test for dichotomous variables. Bonferroni 
+corrections were applied to control for multiple 
+comparisons. 
+
+Data were summarized with means and SD 
+unless otherwise indicated. Correlation analyses 
+were performed to evaluate potential relations 
+between behavioural scores and sleep variables in 
+parental SDB questionnaire. Conners’ and IHS 
+Total T scores for parents and teachers were considered 
+to reflect hyperactive behaviour in correlation 
+analyses. The level of significance was set at 
+P < 0.05, unless otherwise stated. 
+
+Results 
+
+Subjects 
+
+Response rate was 85.9%; 306 out of total 453 SDB 
+questionnaires were fully completed, returned and 
+analysed. Forty-eight control children who started 
+to snore on May 2003 and seven HS from prevalence 
+study who did not snore any longer were 
+excluded from their groups. There were 105 HS 
+and 201 healthy controls that never snored in 2003. 
+
+Eight and a half per cent of HS (n = 9) and 5.3% 
+of controls (n = 11) who had a clinical diagnosis of 
+ADHD reported by parents were excluded from 
+both groups. Hence, there were 96 HS and 190 
+controls evaluated for sleep variables and behavioural 
+measures. There were equal amount of girls 
+and boys in both groups and mean age was 
+
+9.4 ± 1.3 (range: 7.1–13.5) for all the participants. 
+Mean ages were similar for both HS and control 
+groups. HS was common in the 7- to 10-year age 
+group (61.5%), and the percentage was lower in the 
+10- to 13-year age group (38.6%). The distribution 
+of HS in girls and boys in different age groups did 
+not differ. Nine school districts consisted of 72 
+schools with different socio-economic levels and 
+ranged from very poor to upscale neighbourhoods. 
+Maternal educational level, occupation and smoking 
+rates were similar in both groups. 
+Table 1 outlines the demographic characteristics 
+of HS and controls. 
+
+Parental SDB questionnaire 
+
+Table 2 shows parental SDB questionnaire findings 
+in both groups. Parental anxiety during child’s 
+sleep was more than three times likely in HS than 
+
+Table 1. Demographic characteristics of 96 habitual snorers (HS) and 190 control subjects 
+
+HS (n =
+==== 
+96) Controls (n =
+==== 
+190) 
+Mean age (years; range) 9.3 ± 1.4 (7.2–13.5) 9.4 ± 1.2 (7.1–13.2) 
+Male gender 54 (56.3%) 107 (56.3%) 
+Maternal educational status 
+Primary school 51 (53.1%) 107 (56.3%) 
+Junior high school 16 (16.7%) 22 (11.6%) 
+Senior high school 23 (24.0%) 28 (14.7%) 
+Collage or higher 6 (6.2%) 7 (3.7%) 
+Missing 0 26 (13.7%) 
+Maternal labour status 
+Housewife (not working) 77 (80.2%) 145 (76.3%) 
+Manual worker* 5 (5.2%) 8 (4.2%) 
+State officer† 8 (8.4%) 17 (9%) 
+Other 2 (2.1%) 4 (2.1%) 
+Missing 4 (4.1%) 16 (8.4%) 
+Maternal smoking 
+Yes 28 (29.2%) 17 (22.7%) 
+No 58 (60.4%) 116 (77.3%) 
+Missing 10 (10.4%) 40 (21.1%) 
+
+*‘Manual worker’: Women who are mostly educated to primary school level and are in a position that needs handwork (i.e. 
+cleaning services, textile industry, tailor assistance, etc.). They may or may not be governmentally insured. 
+
+†‘State officer’: Women who are educated to high school or university level, are usually in office work, and have governmental 
+health insurances (i.e. nurse, doctor, lawyer, teacher, etc.) 
+© 2005 Blackwell Publishing Ltd, Child: Care, Health & Development, 31, 6, 707–717 
+
+
+Inattention and hyperactivity in habitual snoring 711 
+
+Table 2. Parental SDB (sleep-disordered breathing) questionnaire findings in 96 habitual snorers (HS) and 190 control 
+subjects 
+
+HS (n =
+==== 96) Controls (n =
+==== 190) P-value 
+
+Total sleep time (min) 587.07 ± 58.9 590.35 ± 56.6 0.59 
+Sleep latency (min) 15.7 ± 13.4 15.8 ± 13.2 0.88 
+Sleep awakenings (%) 5.4 2.5 0.18 
+Restless sleep (%) 27.4 13.8 0.006* 
+Nocturnal enuresis (%) 6.3 1.2 0.02* 
+Increased parental anxiety during child’s sleep (%) 26.3 7.6 0.000*** 
+Sleepiness score 0.38 ± 0.64 0.17 ± 0.31 0.000*** 
+Daytime sleepiness (%) 
+In public places 8.2 1.7 0.03* 
+While watching television 27.2 9.4 0.001** 
+Daytime hyperactivity (%) 45.3*** 22.2 0.000*** 
+Learning disability (%) 21.1 15.1 0.15 
+Academic performance (% of failed subjects) 3.3 1.8 0.9 
+
+*P < 0.05; **P < 0.001; ***P < 0.0001. 
+
+controls (P < 0.0001). Sleepiness score, mean score 
+of the sum of ‘often’ or ‘always’ answers to the questions 
+such as ‘Does your child feel sleepy in different 
+conditions such as in public places, during 
+watching TV, or playing with friends?’, was twofold 
+higher in HS than controls (P < 0.0001). Particularly, 
+sleepiness during watching TV was significantly 
+increased in HS group (P: 0.001). Parents 
+were asked if their child looked restless, fidgety or 
+hyperactive most of the time during day and 44 of 
+HS children’s mothers answered as either ‘often’ or 
+‘always’ (P < 0.0001). Hyperactivity reported as 
+‘sometimes’ might reflect moderate levels of 
+increased activity during daytime and was reported 
+as 26.4% in HS vs. 12.1% in controls (P: 0.006). 
+Although the rates of learning disability (i.e. 
+reading, writing, and both) did not differ among 
+groups; specific reading disorder was reported as 
+7.8% in HS, in contrast to 3.0% of controls (P: 
+0.054). The answer to the question of ‘What do you 
+think about your child’s academic performance?’ 
+was scored from ‘failure (0)’ to ‘successful (3)’ in a 
+4-point scale. The percentages of results from poor 
+
+(1) to successful (3) did not change among groups. 
+Although school failure was reported nearly twice 
+more in HS, the difference was not significant. 
+Behavioural assessments 
+
+The results of behavioural assessments reported by 
+parents and teachers are shown in Table 3. HS per
+
+
+formed significantly worse than control subjects on 
+several subscales of Conners’ and IHS. Mean t-
+scores were within normal range for both groups. 
+All of the significant differences were in the 
+parental scale scores of hyperactivity, inattention, 
+conduct and oppositional defiant symptoms. The 
+pooled score of CPRS-ADHD index +1 SD and 
+IHS > 1.25 was positive in 5.1% of HS while only 
+1.4% of normal children showed positive scores 
+(P < 0.0001). However, teachers’ pooled scores 
+were high in both groups (10.9% and 9.5% in HS 
+and controls, respectively). 
+
+Relationship between behavioural function and 
+parental SDB questionnaire 
+
+The correlations between the behaviour scores and 
+SDB questionnaire variables in 96 HS subjects are 
+shown in Table 4. Parents’ and teachers’ Conners’ 
+Rating Scales and DSM-IV ADHD criteria (IHS 
+scores) were chosen to reflect hyperactive behaviour. 
+Daytime hyperactivity, learning disability and 
+sleepiness while watching television were significantly 
+correlated with parent scores. Level of academic 
+performance was negatively correlated with 
+all behavioural domains. Teacher ratings showed 
+significant correlations with learning disability 
+(positively) and level of academic performance 
+(negatively). Other variables of SDB outlined in 
+Table 2 did not correlate with hyperactive behaviours 
+reported by teachers. 
+
+© 2005 Blackwell Publishing Ltd, Child: Care, Health & Development, 31, 6, 707–717 
+
+
+712 A.R. Arman et al. 
+
+Table 3. Neurobehavioural assessments in 96 habitual snorers (HS) and 190 control subjects using the Conners’ rating 
+scales and inattention hyperactivity scale (IHS) 
+
+HS (n =
+==== 
+96) Controls (n =
+==== 
+190) P-value 
+Parent scores (mean, SD) 
+CPRS subscales‡ 
+CPRS-hyperactive 52.2 ± 9.5 48.0 ± 9.9 0.65 
+CPRS-inattentive 52.6 ± 10.9 47.8 ± 8.7 0.29 
+CPRS-conduct 53.9 ± 11.7 47.2 ± 7.8 0.001† 
+CPRS-oppositional defiant 53.8 ± 10.4 47.0 ± 8.4 0.001† 
+CPRS-anxiety 51.7 ± 10.8 48.5 ± 9.4 0.290 
+CPRS-psychosomatic 53.2 ± 9.7 48.0 ± 9.4 0.98 
+IHS-P subscales§ 
+IHS-P hyperactive 8.1 ± 6.8 5.4 ± 5.3 0.032 
+IHS-P inattentive 6.2 ± 5.4 3.5 ± 3.7 0.019† 
+CPRS total 53.4 ± 10.8 47.0 ± 8.7 0.047* 
+CPRS-ADHD index 53.1 ± 9.2 47.5 ± 7.3 0.033* 
+CPRS-ADHD index >60 (%) 24.1 6.5 0.000** 
+IHS-P Total 14.3 ± 10.9 8.9 ± 8.1 0.007* 
+IHS-P >1.25 (%) 14.6 3.3 0.002* 
+CPRS-ADHD index >60 and IHS-P >1.25 (%) 5.1 1.4 0.000** 
+Teacher scores (mean, SD) 
+CTRS subscales¶ 50.9 ± 9.1 50.0 ± 16.8 0.70 
+CTRS-hyperactive/impulsive 50.0 ± 9.9 48.8 ± 10.2 0.63 
+CTRS-inattentive 50.9 ± 9.8 49.5 ± 10.6 0.69 
+CTRS-conduct 
+IHS-T subscales§ 6.9 ± 7.3 6.2 ± 7.8 0.56 
+IHS-T hyperactive 7.1 ± 7.1 5.6 ± 6.2 0.18 
+IHS-T inattentive 
+CTRS-total 50.8 ± 9.9 49.3 ± 10.4 0.43 
+CTRS-ADHD index 50.5 ± 8.01 49.4 ± 8.9 0.15 
+CTRS-ADHD index >60 (%) 12.7 12.7 0.58 
+IHS-T Total 14.0 ± 12.8 11.8 ± 12.4 0.77 
+IHS-T >1.25 (%) 20.5 15.0 0.18 
+CTRS-ADHD index >60 and IHS-T >1.25 (%) 10.9 9.5 0.43 
+
+CPRS, Conners’ Parent Rating Scale; CTRS, Conners’ Teacher Rating Scale; CPRS-ADHD index, Inattention and hyperactivity score 
+derived from Conners’ Parent Rating Scales; IHS-P, Inattention hyperactivity score derived from DSM-IV category A symptoms 
+of ADHD diagnostic criteria described by parents; IHS-T, Inattention hyperactivity score derived from DSM-IV category A 
+symptoms of ADHD diagnostic criteria described by teachers. 
+*P < 0.05, **P < 0.0001. 
+
+†Significant results where Bonferroni procedure is applied. 
+Significance levels are set after Bonferroni procedure: 
+‡P : 0.008 for CPRS subscores. 
+§P : 0.025 for IHS-Parent and Teacher subscores. 
+¶P : 0.016 for CTRS subscores. 
+because both parent and teacher well-validated
+
+Discussion 
+
+behavioural instruments are administered simulta-
+The results of this study indicate that behavioural neously in a case-control design. The association 
+symptoms of ADHD are prevalent in children with between problem behaviours and adenotonsillar 
+habitual snoring, when compared with community enlargement in children was noted by Hill (1889). 
+sample of non-snoring control subjects. Even The issue remained unvisited until Guilleminault 
+though the children with a history of ADHD were and colleagues (1982) reported the behavioural 
+excluded from the groups, behavioural scales of and physical consequences of OSA. Since then, sev-
+Conners’ and IHS revealed that hyperactivity and eral studies documented that HS often demon-
+related problems are more likely to be present in strate behaviours that may resemble ADHD 
+HS. This study differs from previous research (Chervin et al. 1997; Blunden et al. 2000) and up 
+
+© 2005 Blackwell Publishing Ltd, Child: Care, Health & Development, 31, 6, 707–717 
+
+
+Table 4. Relationships between hyperactive behaviour based on neurobehavioural measures and parental SDB (sleep-disordered breathing) questionnaire variables in 96 habitual snorers (HS) 
+subjects
+
+Parental SDB questionnaire variables
+
+Behavioural scores
+
+(Total T score) Positive correlation r Negative correlation r No significant correlation r 
+
+Conners-Parent Daytime hyperactivity (0.481**) Level of academic (-0.319**) Sleepiness score 
+(0.225) 
+
+performance 
+Learning disability (0.368**
+) 
+Sleepiness while watching (0.272*
+) 
+
+
+television 
+Nocturnal enuresis (0.254*
+) 
+Sleep awakenings (0.243*
+) 
+
+
+IHS-Parent Daytime hyperactivity (0.451**) Level of academic (-0.525**) Sleep awakenings 
+(0.181) 
+
+performance 
+Learning disability (0.395**) Nocturnal enuresis (0.114) 
+Sleepiness while watching (0.377**) 
+
+television 
+Sleepiness score (0.376**) 
+Conners-Teacher Learning disability (0.344**) Level of academic (-0.339**) Daytime hyperactivity(0.137)
+
+performance 
+Nocturnal enuresis(0.10)
+Sleep awakenings(0.09)
+Sleepiness while watching television(0.076)
+Sleepiness score (0.075) 
+
+IHS-Teacher Learning disability (0.313**) Level of academic (-0.444**) Sleepiness score 
+(0.134)
+
+performance 
+Daytime hyperactivity(0.132)
+Sleepiness while watching television(0.048)
+Nocturnal enuresis(0.01)
+Sleep awakenings (0.002) 
+
+P-values are expressed as *P < 0.05, **P < 0.01. 
+Correlational values are expressed as ‘r’
+.
+Conners-Parent Total T score: Total T scores derived from Conners’ Parent Rating Scales.
+IHS-Parent Total T score: Total T scores of inattention hyperactivity scale derived from DSM-IV category A symptoms of ADHD diagnostic criteria described by parents.
+Conners-Teacher Total T score: Total T scores derived from Conners’ Teacher Rating Scales.
+IHS-teacher Total T score: Total T scores of inattention hyperactivity scale derived from DSM-IV category A symptoms of ADHD diagnostic criteria described by teachers. 
+
+
+Inattention and hyperactivity in habitual snoring 713 
+
+© 2005 Blackwell Publishing Ltd, Child: Care, Health & Development, 31, 6, 707–717 
+
+
+714 A.R. Arman et al. 
+
+to one-third of all children with frequent snoring 
+display significant hyperactivity and inattention 
+(Ali et al. 1993; Chervin et al. 2002). Similarly, 
+habitual snoring was found to be associated with 
+an increased likelihood of hyperactivity in our 
+study (14.6–24.1% and 1.4–6.5% in HS and control 
+subjects, respectively). 
+
+On the contrary, Janusz (1999) and Cooper and 
+colleagues (2004) both reported that the sleep 
+abnormalities of SDB and ADHD had no contributions 
+to one another. They concluded that minimal 
+attentional difficulties demonstrated by 
+children may suggest attention-seeking behaviours 
+rather than ADHD. Although Cooper and colleagues 
+(2004) included polysomnography (PSG) 
+evaluations, both studies consisted of small study 
+populations which may not efficiently show the 
+relationship between ADHD behaviours and SDB. 
+
+Conduct and oppositional problems reported in 
+behavioural scales were notably higher in HS in our 
+study. In a prospective study of 872 children evaluated 
+by parental rating scales, Chervin and colleagues 
+(2003) concluded that bullying and other 
+explicit aggressive behaviours were generally two to 
+three times more frequent among children at high 
+risk for SDB than among remaining children. 
+Studies of children with SDB suggested that inattentive, 
+hyperactive and aggressive behaviour are 
+all essential components of sleep disturbances 
+(Guilleminault et al. 1982). The current hypothesis 
+is that sleep fragmentation resulting from recurrent 
+arousals may result in prefrontal cortex dysfunction 
+at vulnerable periods of brain 
+development, therefore reflecting as executive 
+dysfunction in pre-pubertal children (Beebe & 
+Gozal 2002). ADHD, conduct and oppositional 
+defiant disorders have been found to co-occur in 
+30–50% of cases in both epidemiologic and clinical 
+samples (Biederman et al. 1991). The typical age of 
+onset of both disorders is also pre-pubertal like 
+SDB and ADHD, therefore careful diagnosis of 
+conduct and oppositional defiant disorders may be 
+crucial for timely intervention to prevent social 
+dysfunction (Spencer et al. 1999). 
+
+We emphasized the importance of obtaining 
+teachers’ observations in the methods section for 
+evaluating behavioural symptoms of ADHD, and 
+we expected significant results from teacher scales. 
+
+However, no significant difference was found in 
+behavioural scales at school setting between the 
+two study groups. The guidelines (Dulcan 1997; 
+AAP 2000) suggest that the diagnosis of ADHD 
+must include core symptoms of inattention, hyperactivity 
+and impulsivity in more than one setting 
+to meet DSM-IV criteria (Conners 1999). The 
+validity and reliability measures of Turkish version 
+of CTRS are well established (Sener et al. 1995). On 
+the other hand, the discriminative power of teachers’ 
+ADHD ratings seems to stem from teachers’ 
+opportunity to observe children objectively during 
+class work (Hinsaw 1987). In our study, the rating 
+quality may be negatively effected as the classes 
+were overcrowded (>40 students in a class) and the 
+educational programme was highly loaded. We 
+may speculate that teachers have answered the 
+items rapidly and rated both the HS and control 
+groups with quite high behavioural scores of 
+ADHD. In our study, the rates of hyperactivity 
+reported by teachers (i.e. pooled ADHD scores) 
+were similarly high in both HS (10.9%) and controls 
+(9.5%). These results make contrast to the 
+rates of hyperactivity reported by parents using the 
+similar scales (5.1% for HS, and 1.4% for controls). 
+
+Why teacher data yielded no significant findings 
+while parental ratings were significantly different 
+could be explained due to artefacts resulted from 
+shared method variance. That is to say, the relationship 
+between parent-reported sleep and parent-
+reported behavioural functioning might be a 
+function of common reporter, also called as 
+‘reporter bias’. This effect is quite prominent in 
+correlational analyses where teachers’ scores significantly 
+correlated with only learning disability and 
+level of academic performance in our study. On the 
+contrary, parental behavioural scores were significantly 
+correlated with most of the parent-reported 
+sleep variables. 
+
+Both teachers’ and parents’ behavioural scores 
+were significantly correlated with learning disability 
+and level of academic performance in HS, when 
+correlational analyses were performed. However, 
+we found no differences in academic achievement 
+and overall learning disability between the two 
+groups. One explanation to this might be the percentages 
+of results from poor to successful were 
+similar among groups, except school failure was 
+
+© 2005 Blackwell Publishing Ltd, Child: Care, Health & Development, 31, 6, 707–717 
+
+
+Inattention and hyperactivity in habitual snoring 715 
+
+reported nearly twice more in HS. In contrast, 
+habitual snoring was associated with poor academic 
+performance in Urschitz’s study (Urschitz 
+et al. 2003) of 1144 children. Schooling problems 
+have been repeatedly reported in children with 
+SDB (Gozal 1998; Gozal & Pope 2001), and 
+improvements in learning have been reported 
+following treatment for SDB in children (Gozal 
+1998). Analysing the associations between academic 
+problems and HS were not the primary prospective 
+aim of our study protocol. A more precise 
+evaluation of academic scoring similar to the 
+method of Urschitz and colleagues (2003) might 
+help yield more consistent results. Therefore, our 
+findings on academic problems have a need of 
+verification with further comprehensive cognitive 
+assessments. 
+
+Increased rates of excessive daytime sleepiness 
+were significantly more often in HS when compared 
+with controls. In a cross-sectional study of 
+Melendres and colleagues (2004), both the sleepiness 
+and Conners’ scores were higher in primary 
+school children with suspected SDB in contrast to 
+controls. Daytime sleepiness, hyperactivity and 
+restless sleep were all significantly more common 
+in the HS than in those who never snored in a 
+community-based study (Ali et al. 1994). Restless 
+sleep may contribute to difficulties with attentional 
+focus and can imitate the components of ADHD 
+(Accardo 1999). Children having ADHD symptoms 
+with a medical history of frequent snoring 
+and restless sleep should be candidates for a paediatric 
+respiratory consultation to rule out significant 
+upper airway obstruction. 
+
+A potentially serious consequence of intermittent 
+hypoxia during sleep may involve its long-
+term effects on neuronal function, such as neuronal 
+loss through programmed cell death within pre-
+frontal cortex (Beebe & Gozal 2002). Even in the 
+absence of OSA, snoring is associated with significant 
+deficits in neurobehavioural function in children 
+(Blunden et al. 2000; O’Brien et al. 2004). 
+Recent studies have shown that primary snoring is 
+not as ‘benign’ as was first thought and is associated 
+with cognitive problems, including reduced verbal 
+and total intelligence scores, reduced attention and 
+memory deficits (Kennedy et al. 2004). In our previous 
+study (Ersu et al. 2004), both habitual and 
+
+high-risk snorers had similar high rates of daytime 
+sleepiness and hyperactivity although their physical 
+symptoms such as blue colouring during sleep and 
+observed apnoea were significantly reported in 
+favour of high-risk group. 
+
+Limitations 
+
+Our study mainly relied on parental and teacher 
+reports rather than objectively collected sleep measures 
+such as PSG. Our habitual snoring group 
+most probably include OSA cases, as current evidence 
+suggest up to 12–15% (AAP 2000) HS may 
+indeed be diagnosed as OSA by means of PSG. 
+Overnight PSG is recognized as the gold standard 
+for the diagnosis of OSA (Schechter 2002). On the 
+other hand, Montgomery-Downs and colleagues 
+(2004) concluded that parental-report questionnaires 
+of habitual snoring can be used as substitute 
+predictors of SDB behaviours, provided that careful 
+attention is paid to age and risk states, and aim 
+of screening. 
+
+As discussed earlier, reporter bias has to be mentioned 
+as a limitation in our study. Although we 
+included teacher reports besides parental observations 
+of sleep and behaviour, teacher data did not 
+yield significant results among groups. So the possibility 
+of artefacts due to shared method variance 
+remains. 
+
+When our study subjects are taken into consideration, 
+further face-to-face assessment of HS with 
+the possible ADHD diagnosis would help to illuminate 
+the relationship between habitual snoring 
+and ADHD. 
+
+Conclusions 
+
+Habitual snoring is related to considerable behavioural 
+problems including ADHD symptoms when 
+compared with children who never snored. Cooccurrence 
+of sleep awakenings, excessive daytime 
+sleepiness and hyperactivity in children with habitual 
+snoring should alarm physicians for further 
+medical assessments. After excluding ADHD and 
+any other psychopathology with clinical interview, 
+children with habitual snoring who have elevated 
+scores of Conner’s and IHS should be considered 
+for further evaluation by a sleep specialist. 
+
+© 2005 Blackwell Publishing Ltd, Child: Care, Health & Development, 31, 6, 707–717 
+
+
+716 A.R. Arman et al. 
+
+Acknowledgements 
+
+This study was presented in 16th International 
+Association of Child and Adolescent Psychiatry 
+and Allied Professionals (IACAPAP) Congress, 
+Berlin, 22–26 August 2004. It was supported by 
+International Donald Cohen Young Researchers 
+Fellowship Programme in 16th IACAPAP Congress 
+as a poster presentation. The authors thank to all 
+students, parents and teachers for their participation 
+in this study, and the principals of the schools 
+and Regional Director of Education of Istanbul, 
+who made this study possible by approving and 
+supporting the process. 
+
+References 
+
+Accardo, P. (1999) A rational approach to the medical 
+assessment of the child with attention deficit hyperactivity 
+disorder. Pediatric Clinics of North America, 46, 
+845–856. 
+
+Ali, N. J., Piston, D. J. & Stradling, J. R. (1993) 
+Snoring, sleep disturbance, and behaviour in 4–5 
+year olds. Archives of Disease in Childhood, 68, 
+360–366. 
+
+Ali, N. J., Piston, D. & Stradling, J. R. (1994) Natural 
+history of snoring and related behaviour problems 
+between the ages of 4 and 7 years. Archives of Disease 
+in Childhood, 71, 74–76. 
+
+American Academy of Pediatrics (AAP) (2000) Clinical 
+Practice Guideline: diagnosis and evaluation of the 
+child with attention deficit hyperactivity disorder. 
+Pediatrics, 5, 1158–1170. 
+
+American Psychiatric Association (APA) (1994) Diagnostic 
+and Statistical Manual for Mental Disorders, 4th 
+edn. American Psychiatric Association, Washington, 
+DC, USA. 
+
+Beebe, D. W. & Gozal, D. (2002) Obstructive sleep 
+apnoea and the prefrontal cortex: towards a 
+comprehensive model linking nocturnal upper 
+airway dysfunction to daytime cognitive and 
+behavioural deficits. Journal of Sleep Research, 11, 
+1–16. 
+
+Biederman, J., Newcorn, J. & Sprich, S. (1991) Comorbidity 
+of attention deficit and hyperactivity disorder 
+with conduct, depressive, anxiety, and other disorders. 
+American Journal of Psychiatry, 148, 564–577. 
+
+Blunden, S., Lushington, K., Kennedy, D., Martin, J. & 
+Dawson, D. (2000) Behaviour and neurocognitive performance 
+in children aged 5–10 years who snore compared 
+to controls. Journal of Clinical and Experimental 
+Neuropsychology, 22, 554–568. 
+
+Brouillette, R. T., Fernbach, S. K. & Hunt, C. E. (1982) 
+Obstructive sleep apnea in infants and children. Journal 
+of Pediatrics, 100, 31–40. 
+
+Brouillette, R., Hanson, D., David, R., Klemka, L., 
+Szatkowski, A., Fernbach, S. & Hunt, C. (1984) A diagnostic 
+approach to suspected obstructive sleep apnea 
+in children. Journal of Pediatrics, 105, 10–14. 
+
+Brunetti, L., Rana, S., Lospalluti, M. L., Pietrafesa, A., 
+Francavilla, R., Fanelli, M. & Armenio, L. (2001) Prevalence 
+of obstructive sleep apnoea syndrome in a 
+cohort of 1207 children in Southern Italy. Chest, 120, 
+1930–1935. 
+
+Carroll, J. L., McColley, S. A., Marcus, C. L., Curtis, S. & 
+Loughlin, G. M. (1995) Inability of clinical history to 
+distinguish primary snoring from obstructive sleep 
+apnea syndrome in children. Chest, 108, 610–618. 
+
+Chervin, R. D., Archbold, K. H., Dillon, J. E., Panahi, P., 
+Pituch, K. J., Dahl, R. E. & Guilleminault, C. (2002) 
+Inattention, hyperactivity, and symptoms of sleep-
+disordered breathing. Pediatrics, 109, 449–456. 
+
+Chervin, R. D., Dillon, J. E., Archbold, K. H. & Ruzicka, 
+
+D. L. (2003) Conduct problems and symptoms of 
+sleep disorders in children. Journal of the American 
+Academy of Child and Adolescent Psychiatry, 42, 201– 
+208. 
+Chervin, R. D., Dillon, J. E., Bassetti, C., Ganoczy, D. A. 
+& Pituch, K. J. (1997) Symptoms of sleep disorders, 
+inattention, and hyperactivity in children. Sleep, 20, 
+1185–1192. 
+
+Conners, C. K. (1997) Conners’ Rating Scales- Revised. 
+Multi-Health Systems Publishing, North Tonawada, 
+NY, USA. 
+
+Conners, C. K. (1999) Clinical use of rating scales in 
+diagnosis and treatment of attention deficit hyperactivity 
+disorder. Pediatric Clinics of North America, 46, 
+857–870. 
+
+Cooper, J., Tyler, L., Wallace, I. & Burgess, K. R. (2004) 
+No evidence of sleep apnea in children with attention 
+deficit hyperactivity disorder. Clinical Pediatrics, 43, 
+609–614. 
+
+Dereboy, C., Senol, S. & Sener, S. (1998) Adaptation of 
+Conners’ parent rating scale in Turkish. Proceedings 
+10th National Congress of Psychology, Ankara, 
+Turkey. 
+
+Dulcan, M. (1997) Practice parameters for the assessment 
+and treatment of children, adolescents, and 
+adults with Attention-Deficit/Hyperactivity Disorder. 
+Journal of the American Academy of Child and Adolescent 
+Psychiatry, 36 (Supple.), 85–121. 
+
+Ersu, R., Rodopman Arman, A., Save, D., Karadag, B., 
+Karakoc, F., Berkem, M. & Dagli, E. (2004) Prevalence 
+of snoring and symptoms of sleep-disordered breathing 
+in primary school children in Istanbul. Chest, 126, 
+19–24. 
+
+© 2005 Blackwell Publishing Ltd, Child: Care, Health & Development, 31, 6, 707–717 
+
+
+Inattention and hyperactivity in habitual snoring 717 
+
+Ferreira, A. M., Clemente, V., Gozal, D., Gomes, A., 
+Pissarra, C., Cesar, H., Coelho, I., Silva, C. F. & 
+Azevedo, M. H. (2000) Snoring in Portuguese 
+primary school children. Pediatrics, 106, e64. 
+
+Gadow, K. D. & Sprafkin, J. (1994) Child Symptom 
+Inventory-4. Checkmate Plus, Stony Brook, NY, USA. 
+
+Gottlieb, D. J., Vezina, R. M., Chase, C., Lesko, S. M., 
+Heeren, T. C., Weese-Mayer, D. E., Auerbach, S. H. & 
+Corwin, M. J. (2003) Symptoms of sleep-disordered 
+breathing in 5-year-old children are associated with 
+sleepiness and problem behaviours. Pediatrics, 112, 
+870–877. 
+
+Goyette, C. H., Conners, C. K. & Ulrich, R. F. (1978) 
+Normative data on revised Conners’ parent and 
+teacher rating scales. Journal of Abnormal Child 
+Psychology, 6, 221–236. 
+
+Gozal, D. (1998) Sleep-disordered breathing and school 
+performance in children. Pediatrics, 102, 616–620. 
+
+Gozal, D., O’Brien, L. M. & Row, B. W. (2004) Consequences 
+of snoring and sleep disordered breathing in 
+children. Paediatric Pulmonology, 26 (Suppl.), 166– 
+
+168. 
+Gozal, D. & Pope, D. W. (2001) Snoring during early 
+childhood and academic performance at ages thirteen 
+to fourteen years. Pediatrics, 107, 1394–1399. 
+
+Guilleminault, C., Winkle, R., Korobkin, R. & Simmons, 
+
+B. (1982) Children and nocturnal snoring – evaluation 
+of the effects of sleep related respiratory resistive load 
+and daytime functioning. European Journal of Pediatrics, 
+139, 165–171. 
+Hill, W. (1889) On some causes of backwardness and 
+stupidity in children: and the relief of the symptoms 
+in some instances by nasopharyngeal scarifications. 
+British Medical Journal, 11, 711–712. 
+
+Hinsaw, S. P. (1987) On the distinction between attentional 
+deficit/hyperactivity and conduct problem/ 
+aggression in child psychopathology. Psychiatry Bulletin, 
+101, 443–463. 
+
+Janusz, J. A. (1999) An examination of neuropsychological 
+and behavioural functioning of children who 
+snore. Dissertation Abstracts International: Section B: 
+The Sciences and Engineering, 59, 51–53. 
+
+Kaditis, A. G., Finder, J., Alexopoulos, E. I., Starantzis, 
+K., Tanou, K., Gampeta, S., Agorogiannis, E., 
+Christodoulou, S., Pantazidou, A., Gourgoulianis, K. 
+& Molyvdas, P. A. (2004) Sleep-disordered breathing 
+in 3,680 Greek children. Pediatric Pulmonology, 37, 
+499–509. 
+
+Kennedy, J. D., Blunden, S., Hirte, C., Parsons, D. W., 
+Martin, A. J., Crowe, E., Williams, D., Pamula, A. & 
+
+Lushington, K. (2004) Reduced neurocognition in 
+
+children who snore. Pediatric Pulmonology, 37, 330– 
+
+337. 
+Melendres, M. C., Lutz, J. M., Rubin, E. D. & Marcus, 
+C. L. (2004) Daytime sleepiness and hyperactivity in 
+children with suspected sleep-disordered breathing. 
+Pediatrics, 114, 768–75. 
+Montgomery-Downs, H. E., O’Brien, L. M., Holbrook, 
+
+C. R. & Gozal, D. (2004) Snoring and sleep-disordered 
+breathing in young children: subjective and objective 
+correlates. Sleep, 27, 87–94. 
+O’Brien, L. M. & Gozal, D. (2002) Behavioural and neurocognitive 
+implications of snoring and obstructive 
+sleep apnoea in children: facts and theory. Paediatric 
+Respiratory Reviews, 3, 3–9. 
+
+O’Brien, L. M., Holbrook, C. R., Mervis, C. B., Klaus, 
+
+C. J., Bruner, J. L., Raffield, T. J., Rutherford, J., Mehl, 
+R. C., Wang, M., Tuell, A., Hume, B. C. & Gozal, D. 
+(2003) Sleep and neurobehavioral characteristics of 
+5- to 7-year-old children with parentally reported 
+symptoms of attention deficit hyperactivity disorder. 
+Pediatrics, 111, 554–563. 
+O’Brien, L. M., Mervis, C. B., Holbrook, C. R., Bruner, 
+
+J. L., Klaus, C. J., Rutherford, J., Raffield, T. J. & Gozal, 
+D. (2004) Neurobehavioural implications of habitual 
+snoring in children. Pediatrics, 114, 44–49. 
+Praud, J. P. (2004) Snoring in children: still many questions, 
+only a few answers. Paediatric Pulmonology, 26 
+(Suppl.), 169–171. 
+
+Scahill, L. & Schwab-Stone, M. (2000) Epidemiology of 
+ADHD in school-age children. Child and Adolescent 
+Psychiatry Clinics of North America, 9, 541–555. 
+
+Schechter, M. S. and the Section on Pediatric Pulmonology, 
+Subcommittee on Obstructive Sleep Apnea 
+Syndrome. (2002) Technical report: diagnosis and 
+management of childhood obstructive sleep apnoea 
+syndrome. Pediatrics, 109, 704–712. 
+
+Sener, S., Dereboy, C., Dereboy, I. F. & Sertcan, Y. (1995) 
+Conners’ Teacher Rating Scale Turkish version-I. 
+Turkish Journal of Child and Adolescent Mental Health, 
+2, 131–141. 
+
+Spencer, T., Biederman, J. & Wilens, T. (1999) Attention 
+deficit hyperactivity disorder and comorbidity. Pediatric 
+Clinics of North America, 46, 915–927. 
+
+Urschitz, M. S., Guenther, A., Eggebrecht, E., Wolff, J., 
+Urschitz-Duprat, P. M., Schlaud, M. & Poets, C. F. 
+(2003) Snoring, intermittent hypoxia and academic 
+performance in primary school children. American 
+Journal of Respiratory Critical Care Medicine, 168, 464– 
+
+468. 
+© 2005 Blackwell Publishing Ltd, Child: Care, Health & Development, 31, 6, 707–717 
+
+

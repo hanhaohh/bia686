@@ -1,0 +1,1162 @@
+R. F. Fregosi, S. F. Quan, K. L. Kaemingk, W. J. Morgan, J. L. Goodwin, R. 
+Cabrera and A. Gmitro 
+J Appl Physiol 95:2030-2038, 2003. First published Aug 1, 2003; doi:10.1152/japplphysiol.00293.2003 
+
+You might find this additional information useful... 
+
+This article cites 23 articles, 13 of which you can access free at: 
+
+http://jap.physiology.org/cgi/content/full/95/5/2030#BIBL 
+
+This article has been cited by 10 other HighWire hosted articles, the first 5 are: 
+
+Dental arch morphology in children with sleep-disordered breathing 
+
+K. Pirila-Parkkinen, P. Pirttiniemi, P. Nieminen, U. Tolonen, U. Pelttari and H. Lopponen 
+Eur J Orthod, November 20, 2008; 0 (2008): cjn061v1-cjn061. 
+[Abstract] [Full Text] [PDF] 
+
+Pathophysiology of Pediatric Obstructive Sleep Apnea 
+
+E. S. Katz and C. M. D'Ambrosio 
+Proceedings of the ATS, February 15, 2008; 5 (2): 253-262. 
+[Abstract] [Full Text] [PDF] 
+
+Diagnostic Issues in Pediatric Obstructive Sleep Apnea 
+
+H. Muzumdar and R. Arens 
+Proceedings of the ATS, February 15, 2008; 5 (2): 263-273. 
+[Abstract] [Full Text] [PDF] 
+
+Pediatric Sleep Apnea: Implications of the Epidemic of Childhood Overweight 
+
+C. E. Ievers-Landis and S. Redline 
+Am. J. Respir. Crit. Care Med., March 1, 2007; 175 (5): 436-441. 
+[Abstract] [Full Text] [PDF] 
+
+Pharyngeal critical pressure in children with mild sleep-disordered breathing 
+
+R. F. Fregosi, S. F. Quan, W. L. Morgan, J. L. Goodwin, R. Cabrera, I. Shareif, K. W. Fridel and 
+R. R. Bootzin 
+J Appl Physiol, September 1, 2006; 101 (3): 734-739. 
+[Abstract] [Full Text] [PDF] 
+
+Updated information and services including high-resolution figures, can be found at: 
+
+http://jap.physiology.org/cgi/content/full/95/5/2030 
+
+Additional material and information about Journal of Applied Physiology can be found at: 
+
+http://www.the-aps.org/publications/jappl 
+
+This information is current as of March 4, 2009 . 
+
+Downloaded from jap.physiology.org on March 4, 2009 
+
+Journal of Applied Physiology publishes original papers that deal with diverse areas of research in applied physiology, especially 
+those papers emphasizing adaptive and integrative mechanisms. It is published 12 times a year (monthly) by the American 
+Physiological Society, 9650 Rockville Pike, Bethesda MD 20814-3991. Copyright © 2005 by the American Physiological Society. 
+ISSN: 8750-7587, ESSN: 1522-1601. Visit our website at http://www.the-aps.org/. 
+
+
+J Appl Physiol 95: 2030–2038, 2003. 
+First published August 1, 2003; 10.1152/japplphysiol.00293.2003. 
+
+
+Sleep-disordered breathing, pharyngeal size and soft tissue 
+anatomy in children 
+
+R. F. Fregosi,1 S. F. Quan,2,5 K. L. Kaemingk,3 
+W. J. Morgan,1,3,5 J. L. Goodwin,5 R. Cabrera,1 and A. Gmitro4 
+Departments of 1Physiology, 2Medicine, 3Pediatrics, and 4Radiology, 
+and 5Arizona Respiratory Center, University of Arizona, Tucson, Arizona 85721 
+
+Submitted 20 March 2003; accepted in final form 28 July 2003 
+
+Fregosi, R. F., S. F. Quan, K. L. Kaemingk, W. J. Morgan, 
+J. L. Goodwin, R. Cabrera, and A. Gmitro. Sleep-
+disordered breathing, pharyngeal size, and soft tissue anatomy 
+in children. J Appl Physiol 95: 2030–2038, 2003. First published 
+August 1, 2003; 10.1152/japplphysiol.00293.2003.— 
+We tested the hypothesis that pharyngeal geometry and soft 
+tissue dimensions correlate with the severity of sleep-disordered 
+breathing. Magnetic resonance images of the pharynx 
+were obtained in 18 awake children, 7–12 yr of age, with 
+obstructive apnea-hypopnea index (OAHI) values ranging 
+from 1.81 to 24.2 events/h. Subjects were divided into low-
+OAHI (n . 
+9) and high-OAHI (n . 
+9) groups [2.8 . 
+0.7 and 
+
+13.5 . 
+4.9 (SD) P . 
+0.001]. The OAHI correlated positively 
+with the size of the tonsils (r2 . 
+0.42, P . 
+0.024) and soft 
+palate (r2 . 
+0.33, P . 
+0.049) and inversely with the volume 
+of the oropharyx (r2 . 
+0.42, P . 
+0.038). The narrowest point 
+in the pharyngeal airway was smaller in the high-compared 
+with the low-OAHI group (4.4 . 
+1.2 vs. 6.0 . 
+1.3 mm; P . 
+0.024), and this point was in the retropalatal airway in all 
+but two subjects. The airway cross-sectional area (CSA)airway 
+length relation showed that the high-OAHI group had 
+a narrower retropapatal airway than the low-OAHI group, 
+particularly in the retropalatal region where the soft palate, 
+adenoids, and tonsils overlap (P . 
+0.001). The “retropalatal 
+air space,” which we defined as the ratio of the retropalatal 
+airway CSA to the CSA of the soft palate, correlated inversely 
+with the OAHI (r2 . 
+0.49, P . 
+0.001). We conclude that 7-to 
+12-yr-old children with a narrow retropalatal air space have 
+significantly more apneas and hypopneas during sleep compared 
+with children with relatively unobstructed retropalatal 
+airways. 
+apnea; hypopnea; magnetic resonance imaging; upper airway; 
+obstructive apnea hypopnea index 
+
+THE PREVALENCE OF SLEEP-DISORDERED breathing (SDB) in 
+children is 2% (16). Emerging evidence suggests that, 
+unlike adults, some children with SDB exhibit hyperactivity 
+instead of daytime sleepiness, and they may 
+have poor school performance and/or cognitive abnormalities 
+(10, 13). Given the estimated prevalence of 
+SDB in children and its potential clinical impact, a 
+better understanding of the mechanisms underlying its 
+development is important. 
+
+Both anatomic and neuromuscular control mechanisms 
+appear to contribute to SDB in adults (27), and 
+
+Address for reprint requests and other correspondence: R. F. 
+Fregosi, Dept. of Physiology, Gittings Bldg., The Univ. of Arizona, 
+Tucson, AZ 85721 (E-mail: Fregosi@u.arizona.edu). 
+
+recent studies suggest that this is also true in children 
+(16, 17). However, the relationships among pharyngeal 
+geometry and soft tissue anatomy and the severity of 
+SDB in children are complex and remain incompletely 
+defined. A recent study evaluating pharyngeal geometry 
+and soft tissue anatomy with magnetic resonance 
+(MR) imaging (MRI) in a group of young children (4–5 
+yr old) found that children with SDB had smaller 
+pharyngeal airways and enlarged tonsils, soft palates, 
+and adenoids but no differences in craniofacial bony 
+anatomy compared with controls (5). The subjects studied 
+by Arens et al. (5) had a mean age of 4.8 yr. 
+Although the ratio of pharyngeal soft tissue size to 
+craniofacial dimensions does not change significantly 
+over the first 11 yr (3), subtle abnormalities in craniofacial 
+dimensions, the size of pharyngeal soft tissues, 
+or the ratio of soft tissue structures to craniofacial 
+dimensions may exist in children with SDB. Thus it is 
+important to study the relation between pharyngeal 
+airway size and soft tissue anatomy and the severity of 
+SDB during development. 
+
+Another factor that could confound the interpretation 
+of previous studies is the use of sedation to obtain 
+MRI studies in young children. Because barbiturates 
+depress the activity of upper airway muscles much 
+more than the activity of the diaphragm in both human 
+
+(8) and animal subjects (12), the pharynx of a sedated 
+individual is susceptible to narrowing, because the 
+flaccid pharyngeal muscles may not adequately counterbalance 
+the inspiratory collapsing pressures produced 
+by the diaphragm. This mechanism may lead 
+to overestimation of the degree of airway narrowing 
+on MRI. 
+Accordingly, our major goal was to obtain upper 
+airway MR images from a group of children, aged 7–12 
+yr, with sleep-related respiratory disturbances of varying 
+severity so that we could test the hypothesis that 
+pharyngeal geometry and/or soft tissue dimensions 
+correlates with the severity of SDB. To avoid the potentially 
+confounding influences of sedation, MR images 
+were obtained in awake, nonsedated children. 
+
+The costs of publication of this article were defrayed in part by the 
+payment of page charges. The article must therefore be hereby 
+marked ‘‘advertisement’’ in accordance with 18 U.S.C. Section 1734 
+solely to indicate this fact. 
+
+Downloaded from jap.physiology.org on March 4, 2009 
+
+8750-7587/03 $5.00 Copyright © 2003 the American Physiological Society http://www.jap.org 
+
+
+PHARYNGEAL GEOMETRY AND SLEEP-DISORDERED BREATHING 
+
+2031 
+
+METHODS 
+
+Subjects. All methods used to recruit subjects and to collect 
+the present data set were approved both by the University of 
+Arizona Human Subjects Committee and the Tucson Unified 
+School District Research Committee. In all cases, we obtained 
+written, informed consent from the parents and assent 
+from the children. Eighteen children aged 7–12 yr participated 
+in the present experiments. The subjects were 
+drawn from a pool of Hispanic and Caucasian children participating 
+in the Tucson Children’s Assessment Of Apnea 
+Study (TuCASA), as described in detail previously (9, 10). In 
+an earlier study (unpublished observations), we examined 
+the chemoreceptor responses of 50 children from a sample of 
+
+240 children who previously had an unattended home polysomnogram 
+performed. We chose these 50 subjects by randomly 
+selecting children with RDI values of 5or 5. We 
+recruited the first 25 subjects in each of the two RDI ranges 
+who responded to our request. For the present study, we 
+selected a subset of these 50 children by randomly choosing 
+10 subjects with RDI values of 5 and 10 subjects with 
+values of 5. All 20 of the randomly selected subjects agreed 
+to participate, although one subject from each group failed to 
+show up for their scheduled experiment, leaving us with a 
+final sample of 18 subjects (Table 1). It is important to point 
+out that our subject group is representative of the group as a 
+whole with regard to age and anthropometric distribution, 
+although by design we excluded subjects that had RDI values 
+between 5 and 10. Also note that we corrected the BMI values 
+for age, sex, and ethnicity (21), and we report the resulting 
+body mass index (BMI) percentile values in Table 1. Of the 18 
+subjects selected for study, 4 snored, and 3 of those 4 also had 
+witnessed apnea. Four other subjects had excessive daytime 
+sleepiness, and two of those also snored. All subjects with 
+symptoms were in the high-obstructive apnea-hypopnea 
+(OAHI) group. 
+Polysomnography. Subjects underwent unattended home 
+polysomnography (9) using the Compumedics PS-2 system 
+(Abbotsford, Victoria, Australia). The following signals were 
+obtained: C3/A2 and C4/A1 electroencephalogram, right and 
+left electrooculogram, a bipolar submental electromyogram, 
+
+Table 1. Subject characteristics 
+
+thoracic and abdominal displacement (inductive plethysmography 
+bands), airflow (nasal-oral thermocouple), nasal pressure, 
+electrocardiogram (single bipolar lead), snoring (microphone 
+attached to a vest), body position (Hg gauge sensor), 
+pulse oximetry (Nonin, Plymouth, MN), and ambient light 
+(sensor attached to the vest to detect lights on or off). With 
+the use of Compumedics W-Series Replay (version 2.0, release 
+22), sleep stages were scored according to standard 
+criteria (19). The respiratory disturbance index (RDI) was 
+defined as the number of respiratory events (apneas and 
+hypopneas) per hour of the total sleep time irrespective of 
+any associated oxygen desaturation or arousal. Polysomnograms 
+with 4 h of scorable oximetry were classified as failed 
+studies and were repeated if the participant consented. 
+
+Although the oximeter pulse waveform was not recorded 
+during acquisition of the polysomnography data, the Compumedics 
+data-acquisition software contains artifact-rejection 
+algorithms. These are noted in the computer-assisted scoring. 
+In addition, because the records were hand scored by the 
+technician, the oximetry signal was inspected for evidence of 
+artifact. Desaturation artifact induced by motion is generally 
+easily recognizable and was excluded if it occurred. Apneas 
+were scored if the peak-to-trough amplitude of the airflow 
+signal using the thermistor decreased below at least 25% of 
+the amplitude of “baseline” breathing and if this change 
+lasted for 6 s or two breath cycles. Central apneas were 
+scored if both airflow and thoracoabdominal effort were absent. 
+However, central events that occurred after movement 
+were not included. Obstructive apneas were identified if the 
+airflow signal decreased to below 25% of the “baseline amplitude,” 
+but with continued thoracoabdominal effort. Hypopneas 
+were scored if the magnitude of any ventilation signal 
+decreased below 70% of the baseline amplitude. Although 
+the polysomnographic montage included monitoring of nasal 
+pressure, we elected not to use this parameter to identify 
+SDB events because experience with this technique in children 
+is quite limited. In addition, some children were unable 
+to tolerate wearing the nasal cannula so that scorable data 
+were not available for all of the subjects. 
+
+Downloaded from jap.physiology.org on March 4, 2009 
+
+BMI Total sleep Minimum 
+OAHI Group Age, yr Sex Height, cm BMI Percentile time, h SaO2,% RDI OAHI 
+High 11 M 147.3 16.6 80 8.17 90 10.2 7.10 
+High 12 F 167.6 25.30 92 7.78 83 30.4 24.16 
+High 8 M 134.6 18.90 80 6.95 92 10.4 12.37 
+High 11 M 144.8 17.00 31 8.75 90 12.8 9.83 
+High 10 M 139.7 19.20 80 8.5 87 19.3 16.47 
+High 9 M 144.8 23.80 95 7.43 84 14.7 10.77 
+High 8 F 137.2 16.40 80 8.83 87 14.4 12.00 
+High 10 M 144.8 16.00 22 7.85 90 15.6 13.50 
+High 10 M 149.9 18.10 65 8.92 87 15.8 15.36 
+Low 9 F 132.1 16.30 71 8.83 91 3.2 1.81 
+Low 11 M 142.2 20.00 85 9.47 89 3.2 3.06 
+Low 9 F 134.6 13.40 5 10.1 90 4.9 3.37 
+Low 10 M 129.5 19.50 65 8.93 85 4.2 3.92 
+Low 9 M 147.3 16.50 59 5.23 91 2.7 2.49 
+Low 9 M 134.6 17.40 62 7.3 89 3.7 2.74 
+Low 9 F 134.6 13.60 5 7.15 90 4.5 3.50 
+Low 9 M 142.2 27.60 95 9.03 89 2.4 2.21 
+Low 7 M 124.5 17.90 86 7.8 85 2.5 2.75 
+MeanSD 9.51.2 140.7. 
+9.6 18.53.7 6429 8.2. 
+1.1 88.32.6 9.77.7 8.26.4 
+
+M, male; F, female; SaO2, arterial O2 saturation; BMI, body mass index; RDI, respiratory disturbance index (see text); Total sleep time, 
+sleep time obtained during unattended polysomnography test; OAHI, obstructive apnea-hypopnea index. Minimum SaO2 was that obtained 
+during rapid eye movement sleep, as computed from pulse oximetry during unattended home polysomnography. 
+
+J Appl Physiol • VOL 95 • NOVEMBER 2003 • www.jap.org 
+
+
+PHARYNGEAL GEOMETRY AND SLEEP-DISORDERED BREATHING 
+
+The RDI that we routinely compute includes central apneas 
+as well as obstructive apneas and hypopneas (9, 10). On 
+the basis of the clinical and physiological uncertainty of 
+central apneas in children (16), we subtracted central events 
+from the RDI to derive the OAHI. In our subjects, this index 
+represents primarily hypopneas, because only 13 of the subjects 
+showed frank obstructive events during their sleep 
+study. The number of frank obstructive events ranged from 
+
+0.1 to 0.8 per hour, except for one subject who averaged 7 
+obstructions per hour. 
+Airway imaging. Participants were studied between 9:00 
+AM and 2:00 PM, and they arrived at the MRI facility 1h 
+before the time of their scheduled experiment. Subjects were 
+studied in the supine position in the bore of a General 
+Electric 0.5-T MRI instrument and were imaged with the use 
+of a standard head coil. The instrument error is 0.5 mm, or 
+0.5% when calibrated with a 100-mm phantom. After subjects 
+were positioned in the machine, scout images were 
+obtained to confirm and adjust positioning so that the entire 
+pharynx was clearly visible. Axial images were obtained from 
+just above the orbital cavity to just below the larynx. Sagittal 
+images were obtained from the midline to the ears bilaterally. 
+To highlight the air spaces, longitudinal relaxation time 
+(T1)-weighted axial and sagittal spin-echo images [repetition 
+time (TR) . 
+500 ms; echo time (TE) . 
+11 ms] were obtained 
+in two separate series. To highlight the pharyngeal soft 
+tissues, we then ran a third sequence consisting of transverse 
+relaxation time (T2)-weighted sagittal fast spin-echo images 
+(TR . 
+3,500 ms; effective TE . 
+85 ms, and excitation train 
+length . 
+8). Data and image matrices were 256 . 
+256, the 
+slice thickness was 4 mm with a 1-mm skip, and the field of 
+view was 22 cm in all three sequences. A bandwidth of 10.7 
+kHz and two averages (2 NEX) were used in all three sequences. 
+Each imaging sequence required 4 min to complete, 
+and because the children were not sedated they were 
+instructed to remain perfectly still until the scan was completed. 
+Children could view the investigators through a mirror, 
+and could communicate via headphones and a microphone. 
+The children were allowed a few minutes to move 
+their arms and legs in between each of the three scans. 
+Preliminary studies indicated that the time required to complete 
+these three scans was the maximum tolerable given the 
+age of the children and the rigid requirements for subject 
+compliance. 
+
+Image analysis. Image analysis was performed on an IBM 
+personal computer using SCION image software (formerly 
+NIH Image), which allows manual tracing of regions and 
+structures of interest. This software computes the minimal 
+and maximal pixel values of 16-bit images and uses the 
+result to linearly scale the data to 8 bits. Because air-filled 
+spaces are black on MRI, we used a threshold method to 
+differentiate the oropharyngeal airway from surrounding 
+tissue, as previously described (6). From a representative 
+sample of axial images, we obtained the minimum, the maximum, 
+and the SD of the pixel values from regions of the 
+black space at the outer boundary of the image. The SD of the 
+black space was used as an estimate of noise in the image (6). 
+The average threshold value plus one SD served as the 
+threshold value for differentiating true black space (airway) 
+from surrounding tissue. Bony and soft tissues were analyzed 
+by using standard radiologic landmarks. 
+
+T1-weighted axial slices were used to measure the cross-
+sectional area (CSA) of the tonsils at their widest point, the 
+pharyngeal fat pad CSA, and the intermandibular distance. 
+Midline T1-weighted sagittal slices were used to obtain the 
+CSA of nasopharynx. T2-weighted sagittal images were used 
+to obtain the CSA of the soft palate and adenoids. We ob
+
+
+tained the volume of the oropharynx by measuring the CSA 
+of each relevant axial slice and multiplying the CSA by the 
+slice thickness to obtain a volume for each slice. The volume 
+measures of each sequential slice in a given region were then 
+summed to obtain the regional volume. Each axial slice was 
+separated by a 1-mm “skip,” and we cannot measure the CSA 
+of the skipped regions. Therefore, our estimates of regional 
+volumes will be slightly underestimated. However, because 
+the 1-mm skip was constant in all imaging sequences and in 
+all subjects, the omission of these small skipped slices will 
+not influence relative differences in the volume of the airway 
+or the volume of pharyngeal structures. The volume of the 
+adenoids was obtained by the same method using adjacent, 
+T2-weighted sagittal slices. 
+
+Boundaries defining the oropharynx included the tongue 
+or soft palate anteriorly, the pharyngeal constrictor muscle 
+posteriorly, and the pharyngeal tonsils laterally. A horizontal 
+line extending from the junction of the hard and soft palate to 
+the posterior wall of the pharynx defined the rostral limit of 
+the oropharynx, and the tip of the epiglottis defined the 
+caudal margin (Ref. 18, and see Fig. 1). Nasopharyngeal CSA 
+was estimated from a midline sagittal slice, and defined as 
+the entire airspace rostral to the horizontal line extending 
+from the junction of the hard and soft palate to the posterior 
+pharyngeal wall (Fig. 1). The retropalatal airway was defined 
+as that part of the oropharynx bounded rostrally by a horizontal 
+line extending from the junction of the hard and soft 
+palate to the posterior pharyngeal wall, anteriorly by the 
+body of the soft palate, posteriorly by the posterior pharyngeal 
+wall, and caudally by the tip of the soft palate (i.e., 
+between the top and middle horizontal lines in Fig. 1). Two 
+different individuals who were trained to use the imaging 
+software analyzed the images. It was not possible to obtain 
+measurements of every variable in every subject because in 
+some cases the boundaries of structures of interest could not 
+be clearly defined. This was generally the result of image 
+blurring caused by movement artifact in the nonsedated 
+subjects. 
+
+Data analysis. We first divided the subjects into two 
+groups, one with high (7) and one with low (4) OAHI 
+values (Tables 1 and 2). We used ANOVA (Sigma Stat 3.0) 
+followed by the Student-Neuman-Keuls post hoc procedure to 
+determine which variables were significantly different between 
+the two groups, with a post hoc P value of 0.05 
+considered significant. If a given variable showed a significant 
+group difference, we then examined the relation between 
+that variable and the OAHI (dependent variable) by 
+using linear regression analysis. This allowed us to test the 
+hypothesis that a given variable correlated with the severity 
+of SDB. We used a simple linear regression model followed by 
+ANOVA (Sigma Stat 3.0), with significance defined as a P 
+value of 0.05. We also computed the “retropalatal air 
+space,” which we defined as the ratio of the CSA of the 
+retropalatal airway to the CSA of the soft palate, by using 
+midline sagittal images for analysis. This index provides a 
+simple estimate of the size of the retropalatal airway relative 
+to the size of the adjacent soft palate; values below 1.0 
+indicate that the CSA of the soft palate is larger than the 
+CSA of the retropalatal airway. 
+
+RESULTS 
+
+Pharyngeal geometry and soft tissue dimensions in 
+high-and low-OAHI groups. Table 1 gives anthropometric 
+and relevant polysomnography data for all 18 
+subjects. The subjects with the nine highest and nine 
+lowest OAHI values were placed into two groups (Table 
+
+Downloaded from jap.physiology.org on March 4, 2009 
+
+J Appl Physiol • VOL 95 • NOVEMBER 2003 • www.jap.org 
+
+
+PHARYNGEAL GEOMETRY AND SLEEP-DISORDERED BREATHING 
+
+2033 
+
+Fig. 1. Airway imaging. A: representative 
+longitudinal T1-weighted mid-
+sagittal image showing the landmarks 
+used to define the nasopharyngeal, retropalatal, 
+and oropharyngeal airways 
+(horizontal white lines, from top to bottom). 
+B: longitudinal T1-weighted axial 
+slice through the center of the oropharynx 
+(), showing how the lateral 
+and anteroposterior diameter of each 
+axial slice was determined. 
+2). There were no group differences among age, BMI, 
+and the sleep time and minimum arterial O2 saturation 
+obtained during home polysomnography. We also 
+conducted correlation analyses between each of the 
+variables that we measured and the BMI percentile 
+and failed to find any significant relationships, suggesting 
+that the BMI percentile alone cannot explain 
+variability in the OAHI, pharyngeal airway dimensions, 
+or soft tissue anatomy. The high-OAHI group 
+was significantly taller than the low-OAHI group. 
+However, of all pharyngeal variables measured, only 
+the CSA of the soft palate correlated significantly with 
+height (r2 . 
+0.46, P . 
+0.016, see DISCUSSION). The OAHI 
+and RDI values of the two groups were well separated 
+and significantly different (Table 2). Intermandibular 
+distance averaged 72.5 . 
+3.2 mm in the low-OAHI 
+group and 73.0 . 
+3.4 mm in the high-OAHI group (P . 
+not significant). 
+
+The CSAs of the tonsils and soft palate were significantly 
+larger in the high-compared with the low-
+OAHI group (Table 3, Fig. 2). Although there was a 
+trend toward a larger adenoid volume and pharyngeal 
+fat pad CSA in the high-OAHI group, the differences 
+were not significant (Table 3). The correlation between 
+the OAHI and the CSA of the soft palate and tonsils is 
+shown in Fig. 3. Both tonsil and soft palate CSA cor-
+
+Table 2. Anthropometric and sleep variables from 
+subjects in high-and low-OAHI groups. 
+
+High-OAHI Low-OAHI P Value, 
+Group Group High vs. Low 
+Age, yr 9.9. 
+1.4 9.11.0 0.19 
+Height, cm 145.6. 
+9.6 135.77.1 0.001 
+Weight, kg 36.82. 
+11.4 32.212.3 0.42 
+BMI 19.03. 
+3.3 17.84.5 0.693 
+BMI percentile 69.4. 
+26 59.233 0.47 
+Total sleep time, h 8.1. 
+0.68 8.21.5 0.62 
+Minimum SaO2,% 87.8. 
+3.0 88.82.3 0.97 
+RDI 15.9. 
+6.1 3.50.9 0.001 
+OAHI 13.5. 
+4.9 2.80.7 0.001 
+
+Values are means . 
+SD. 
+
+related significantly with the OAHI, accounting for 44 
+and 39% of the variability in the OAHI, respectively. 
+As shown in Table 3, significant differences between 
+the high-and low-OAHI groups were found for the sum 
+of tonsil and soft palate CSA (P . 
+0.001), tonsil plus 
+adenoid CSA (P . 
+0.016), and the sum of tonsil, adenoid, 
+and soft palate CSA (P . 
+0.005). Correlation 
+analyses of these combined soft tissue masses with the 
+OAHI revealed significance for the sum of the tonsil 
+and soft palate CSA vs. the OAHI (r2 . 
+0.50, P . 
+0.011) 
+but not for the tonsil plus adenoid CSA or for the tonsil 
+plus adenoid plus soft palate CSA. However, we did not 
+have all soft tissue masses in all subjects, resulting in 
+a diminution of our sample size for the latter two 
+measures by seven and six subjects, respectively; this 
+weakened our statistical power (see DISCUSSION). 
+
+We used multiple linear regression analysis to predict 
+the percentage of the variance in the OAHI that 
+could be predicted by knowledge of the size of soft 
+tissue structures. We included in our analysis soft 
+palate, tonsils, adenoids, and fat pad areas, although 
+we were able to use a maximum of three variables in 
+the model, given the available sample size. The CSA of 
+the tonsils and soft palate could explain 74.3% of the 
+variance in OAHI, but addition of fat pad area and/or 
+adenoid area reduced the predictive power. 
+
+Analysis of pharyngeal airway dimensions did not 
+reveal differences in the CSA of the retropalatal or 
+nasopharyngeal air spaces (Table 4) but did show that 
+the volume of the oropharynx was smaller in the high-
+compared with the low-OAHI group (P . 
+0.001). We 
+also found a significant correlation between the OAHI 
+and the oropharyngeal volume (Fig. 4A). This led us to 
+examine other oropharyngeal dimensions, including 
+the oropharyngeal length, the smallest anteroposterior 
+(AP) and lateral diameters, and the elliptical ratio 
+(lateral diameter/AP diameter). We found no group 
+differences for any of these variables. We also determined 
+the smallest oropharyngeal diameter, whether 
+it was in the lateral or AP plane, in each subject. This 
+analysis did show that the narrowest diameter mea-
+
+Downloaded from jap.physiology.org on March 4, 2009 
+
+J Appl Physiol • VOL 95 • NOVEMBER 2003 • www.jap.org 
+
+
+PHARYNGEAL GEOMETRY AND SLEEP-DISORDERED BREATHING 
+Table 3. Comparison of pharyngeal soft tissue dimensions in high-and low-OAHI groups 
+
+P Value, 
+High-OAHI Group Low-OAHI Group High vs. Low 
+Tonsil CSA, mm2 617.1. 
+76.8 (n6) 435.7118.6 (n6) 0.03 
+Soft palate CSA, mm2 321.6. 
+59.7 (n9) 225.540.4 (n9) 0.009 
+Adenoid CSA, mm2 322. 
+91 (n8) 29277 (n. 
+9) 0.25 
+Soft palate . 
+tonsil CSA, mm2 939. 
+128.5 (n6) 637.5129.6 (n6) 0.001 
+Soft palate . 
+adenoid CSA, mm2 644. 
+86 (n8) 517.488.9 (n9) 0.148 
+Tonsil . 
+adenoid CSA, mm2 921.4. 
+135 (n6) 739145 (n. 
+6) 0.016 
+Tonsil . 
+soft palate . 
+adenoid CSA, mm2 1,146.3. 
+288.8 (n6) 941.3161.7 (n6) 0.005 
+Pharyngeal fat pad cross-sectional area, mm2 176.0. 
+59.1 (n7) 151.639.8 (n7) 0.383 
+Adenoid volume, mm3 7,300. 
+2400 (n. 
+8) 5,6001,800 (n9) 0.109 
+
+Values are averages . 
+SD; n, no. of subjects. CSA, cross-sectional area. 
+
+sured at any point in the oropharynx of children with of the epiglottis (see inset in Fig. 5). We then con-
+high OAHI values was significantly smaller than that structed a CSA-length relation for each group, as 
+measured in the group with lower OAHI values (Table shown in Fig. 5. The airway was significantly narrower 
+4; P . 
+0.024). We also found a significant correlation in the region where the soft palate, adenoids, and 
+between this variable and the OAHI (Fig. 4B). The tonsils are maximally overlapped in both high-and 
+narrowest point in the pharynx was located in the low-OAHI groups (P . 
+0.001 for both). In addition, the 
+retropalatal airway in all but two subjects. area-length curves of the low-and high-OAHI groups 
+
+Airway CSA-length relation. To determine the nar-were significantly different (2-way ANOVA, P . 
+0.034). 
+rowest segment of the pharynx, we examined the rela-We then divided the CSA of the retropalatal airway by 
+tion between the CSA of each axial slice of the airway, the CSA of the soft palate and defined this ratio as the 
+extending from 8 mm above the hard palate to the tip retropalatal air space, which is an estimate of the 
+
+Fig. 2. Magnetic resonance images of 
+the upper airway in two 11-yr-old male 
+subjects with relatively high (left) and 
+low (right) obstructive apnea-hypopnea 
+index (OAHI) values. Top: axial 
+images at the point of maximal pharyngeal 
+tonsil cross-sectional area 
+(CSA). Bottom: midline sagittal images. 
+Pharyngeal tonsils (top, axial images), 
+and soft palate and adenoids 
+(bottom, sagittal images) are shaded 
+for ease of differentiation. Note the enlarged 
+tonsils, soft palate, and adenoids 
+in the child with the higher 
+OAHI, as well as the much narrower 
+pharyngeal air space, particularly 
+where the adenoids and soft palate 
+overlap. 
+
+J Appl Physiol • VOL 95 • NOVEMBER 2003 • www.jap.org 
+
+
+Downloaded from jap.physiology.org on March 4, 2009 
+
+
+PHARYNGEAL GEOMETRY AND SLEEP-DISORDERED BREATHING 
+
+2035 
+
+Fig. 4. Line plots showing the relation between oropharyngeal (OP) 
+Fig. 3. Line plots showing the relation between tonsil area and the 
+OAHI (A) and soft palate area and the OAHI (B). Both correlations 
+were statistically significant, with the P value of 0.024 for tonsil area 
+and 0.049 for soft palate area. 
+
+fraction of the retropalatal airway cross section that is 
+occupied by the soft palate. We then used linear regression 
+to examine the relation between the retropalatal 
+air space ratio and the OAHI, as shown in Fig. 6. The 
+correlation was statistically significant (r2 . 
+0.49, P . 
+0.001), indicating that subjects with narrow retropalatal 
+air spaces tend to have higher OAHI values. 
+
+DISCUSSION 
+
+Summary and conclusions. Our main findings are 
+that the severity of SDB correlates significantly with 
+the oropharyngeal volume and the size of the tonsils 
+
+volume and the OAHI (A) and the smallest OP diameter measured 
+either in the lateral or anterioposterior plane (B). Both correlations 
+were statistically significant (P . 
+0.038 for both). 
+
+and soft palate in a population of male and female 
+children 7–12 yr of age; the pharynx of children with 
+high OAHI values is significantly narrower where the 
+adenoids, tonsils, and soft palate overlap; and the 
+OAHI is inversely and significantly related to the size 
+of the retropalatal air space. 
+
+Critique of methods. On the basis of the clinical 
+uncertainty of central apneas in children (16), we subtracted 
+central events from the RDI to derive an “obstructive 
+apnea-hypopnea index,” or OAHI. In our subjects, 
+this index represents primarily hypopneas, because 
+only seven of the subjects showed frank 
+obstructive events during their sleep study. We ac-
+
+Downloaded from jap.physiology.org on March 4, 2009 
+
+Table 4. Pharyngeal airway dimensions in high-and low-OAHI groups 
+
+P Value, 
+High-OAHI Group Low-OAHI Group High vs. Low 
+Retropalatal CSA, mm2 146.432.1 (n9) 213.1. 
+61.8 (n9) 0.82 
+Nasopharyngeal CSA, mm2 2190.88 (n9) 301. 
+1.0 (n9) 0.10 
+Oropharyngeal volume, mm2 3,100490 (n9) 4,300. 
+1,400 (n9) 0.001 
+Oropharyngeal length, mm 28.34.5 (n9) 26.65.1 (n. 
+9) 0.46 
+Smallest oropharyngeal AP diameter, mm 5.1. 
+2.5 (n9) 6.92.2 (n8) 0.29 
+Smallest oropharyngeal lateral diameter, mm 5.7. 
+3.2 (n. 
+9) 6.92.6 (n8) 0.24 
+Elliptical ratio of oropharynx (lateral diameter/AP diameter) 1.10.7 (n. 
+9) 0.670.6 (n9) 0.93 
+Smallest oropharyngeal dimension in any plane, mm 4.41.2 (n9) 6.01.3 (n8) 0.024 
+
+Values are averages . 
+SD; n, no. of subjects. AP, anteroposterior. 
+J Appl Physiol • VOL 95 • NOVEMBER 2003 • www.jap.org 
+
+
+
+PHARYNGEAL GEOMETRY AND SLEEP-DISORDERED BREATHING 
+
+
+Fig. 5. Average airway CSA-airway length relation in high-OAHI 
+(dashed line) and low-OAHI (solid line) groups. AD, adenoid; SP, soft 
+palate; TON, tonsils. Inset, the extent of the pharynx from which 
+4-mm axial slices were taken in each subject; the scale extends from 
+0 to 32 mm. Because some subjects had relatively short pharyngeal 
+airways, the number of subjects fell from 18 to 14 at 28 mm and to 4 
+at 32 mm (discussed in RESULTS). We had data from all 18 subjects for 
+the airway regions of greatest interest (over the range 5–20 mm; see 
+inset). In both groups, the airway was significantly narrower at 
+lengths ranging from 10 to 16 mm (P . 
+0.001), and the curves for the 
+2 groups were also significantly different (P . 
+0.034). 
+
+knowledge that our definition of hypopnea did not 
+incorporate an arousal or desaturation criteria. Although 
+such criteria have been recommended (1), more 
+recent reviews have noted that there is no standard 
+definition of hypopnea in children (2, 22). Recently, our 
+laboratory has demonstrated that, using our present 
+definition, there is an association between RDI and 
+several clinical outcomes in children (11). We also wish 
+to emphasize that the definition of hypopnea employed 
+in this study was used to describe a spectrum of SDB 
+ranging from none or mild to severe and not to implicate 
+a specific value as constituting disease. Thus the 
+precise definition utilized is not important if it provides 
+a relatively consistent description of SDB severity. To 
+demonstrate that this is true in the present study, we 
+have performed a correlation matrix using the hypopnea 
+definition employed in our study and others that 
+required an oxygen desaturation event of 2–4%. These 
+indexes were highly intercorrelated with r . 
+0.82– 
+0.95, indicating that the use of a different event definition 
+would only change the absolute values of the 
+OAHI and would not alter any assessment of relative 
+disease severity in these children. 
+
+We did not have a true control group composed of 
+children with a total absence of respiratory disturbances 
+during sleep. Nevertheless, our decision to classify 
+children with an OAHI was not arbitrary. Data 
+from TuCASA indicate that children with a RDI of 5 
+have a higher prevalence of learning problems and 
+excessive daytime sleepiness (10) as well as an impairment 
+in learning on neurocognitive testing (13). Furthermore, 
+there is little available information on the 
+prevalence of hypopneas in children (16), although our 
+
+average OAHI value for the high-OAHI group (13.5) is 
+slightly higher than that reported by Arens et al. (5) in 
+4-yr-old children with obstructive sleep apnea (OSA). 
+Our low-OAHI group had an average of 2.8 events per 
+hour, which was markedly and significantly lower than 
+the high-OAHI group. Moreover, our subjects had a 
+wide range of OAHI values, and the major goal of the 
+study was to determine the relation between the severity 
+of OSA and pharyngeal airway anatomy. 
+
+We chose not to sedate the subjects for the imaging 
+protocol because of the more profound depression by 
+sedatives of upper airway compared with respiratory 
+pumping muscles in human (8) and animal (12) models. 
+However, the imaging sequences that we used 
+required up to 4 min to complete, and if the child 
+happened to move during this time some or all of the 
+image would be blurred by the motion artifact, reducing 
+the image quality significantly. We spent considerable 
+time explaining the importance of staying still to 
+the children, and we gave them opportunities to move 
+their arms and legs in between each of the imaging 
+sequences. Nevertheless, we do not have anatomic data 
+for every variable in each subject because of motion 
+artifact, and this reduced our sample size and statistical 
+power for some of the measurements (see METHODS). 
+We were willing to accept the smaller sample size for 
+some variables as a trade-off for obtaining data in 
+nonsedated subjects, and we believe that the resulting 
+data set is fairly representative of the target population. 
+
+
+Pharyngeal soft tissue anatomy. We found significant 
+correlations between the OAHI and the size of the soft 
+palate. We also demonstrated that the soft palate relative 
+to the size of the retropalatal airway (the retropalatal 
+air space) is significantly larger in subjects 
+with high OAHI values, leading to a rather strong and 
+statistically significant correlation between the OAHI 
+and the retropalatal air space. Arens et al. (5) also 
+found a significantly larger soft palate CSA in a group 
+of younger children (average age 4 yr) with SDB 
+compared with normal control subjects. The large soft 
+palate in the high-OAHI subjects is consistent with 
+
+
+Fig. 6. Line plot showing the relation between the retropalatal air 
+space (ratio of the CSA of the retropalatal airway to the SP CSA), as 
+a function of the OAHI. The correlation was statistically significant 
+(P . 
+0.001). 
+
+Downloaded from jap.physiology.org on March 4, 2009 
+
+J Appl Physiol • VOL 95 • NOVEMBER 2003 • www.jap.org 
+
+
+PHARYNGEAL GEOMETRY AND SLEEP-DISORDERED BREATHING 
+
+2037 
+
+recent studies in adults with OSA. Thus Malhotra et 
+al. (15) showed that men had significantly larger soft 
+palates than age-and BMI-matched women, and 
+Ciscar et al. (7) also showed that adults with SDB had 
+significantly larger soft palates than disease-free 
+adults. It is of interest that our high-OAHI group was 
+also taller than the low-OAHI group and that of all 
+measured variables the soft palate CSA was the only 
+one that correlated significantly with height. Perhaps 
+rapid growth in general is associated with relatively 
+rapid growth of the soft palate relative to growth of the 
+retropalatal airway. Our measurements of the retropalatal 
+air space and its strong inverse correlation with 
+the OAHI are consistent with this hypothesis. 
+
+We also found a significant correlation between the 
+OAHI and the size of the tonsils but not the adenoids. 
+Although we did show a significant difference in combined 
+tonsil and adenoid CSA in the high-and low-
+OAHI groups, the relation between tonsil plus adenoid 
+CSA and the OAHI was not statistically significant. 
+Arens et al. (5) also measured the difference in combined 
+tonsil plus adenoid volume in their 4-yr-old patients 
+and their age-matched control subjects and 
+found that this value correlated significantly with the 
+apnea-hypopnea index (AHI) (r2 . 
+0.26). Both tonsils 
+and adenoids grow very rapidly between age 4 and 8 yr, 
+with slower growth of craniofacial bony structures (16). 
+As a result, the tonsils and adenoids are large relative 
+to the upper airway, resulting in a narrowed pharynx. 
+The subjects in the study of Arens et al. were at an age 
+where large tonsils and adenoids are expected, so it is 
+remarkable that the subjects with sleep apnea had 
+even larger tonsils and adenoids than the age-matched 
+control subjects (5). This observation underscores the 
+profound importance of pharyngeal soft tissue structures 
+as one of the underlying causes of SDB in children. 
+However, the pharyngeal soft tissue mass that 
+has the most dominant effect on pharyngeal obstruction 
+and the severity of the underlying pathology may 
+change with age. 
+
+We also failed to show a significant correlation between 
+the OAHI and the size of the parapharyngeal fat 
+pad. Arens et al. (5) also failed to show a larger fat pad 
+volume in the SDB group compared with the control 
+group. Thus fatty deposits in the pharyngeal walls do 
+not appear to be a significant problem in most children 
+with SDB, although the size of the pharyngeal fat pad 
+certainly contributes to airway obstruction in adults (7, 
+23–25). The present results extend the work of Arens 
+et al. (5) by demonstrating that the severity of sleep-
+disordered breathing correlates significantly with the 
+size of the tonsils and soft palate, and that this is true 
+across an age spectrum where the size of pharyngeal 
+soft tissues relative to pharyngeal volume normally 
+declines. 
+
+Pharyngeal geometry. The oropharyngeal volume of 
+our high-OAHI subjects was 39% smaller than the 
+volume measured in the low-OAHI group. In addition, 
+oropharyngeal volume correlated significantly with the 
+OAHI. Arens et al. (5) found the pharynx to be 40% 
+smaller in the children with SDB, a difference that is in 
+
+substantial agreement with the present observations. 
+However, they did not find a significant correlation 
+between airway volume and the AHI in their subjects. 
+It is possible that their inclusion of central events in 
+the computation of the AHI weakened the relationship 
+between this index and the pharyngeal anatomy because 
+central apneic events are very common in children 
+with no pharyngeal abnormalities or sleep-related 
+breathing disturbances (16). 
+
+We also measured the narrowest AP and lateral 
+diameter of axial airway slices in all subjects, as well 
+as the ratio of the lateral to AP diameter (the elliptical 
+ratio, an index of airway shape), but found no differences 
+in any of these variables between the high-and 
+low-OAHI subjects. However, we did find that the 
+narrowest airway dimension, measured in either the 
+AP or lateral plane, was significantly smaller in the 
+high-compared with the low-OAHI subjects. We are 
+unaware of similar information in children, and the 
+data on airway shape in adults with OSA are equivocal. 
+Some studies show that the airway is more elliptical 
+in OSA subjects compared with control subjects, 
+with the long axis oriented in the AP plane (14, 20). In 
+contrast, a more recent study failed to show differences 
+in the AP or lateral dimensions of the pharynx between 
+OSA subjects and controls, and the study also suggested 
+that these dimensions may differ depending on 
+whether the subjects are studied while awake or asleep 
+and on whether the measurements are made during 
+inspiration or expiration (7). The present results in 
+awake children show that the oropharyngeal airway of 
+children with high OAHI values tends to be narrower 
+than that observed in low-OAHI subjects, but the relative 
+narrowing in the AP and lateral dimensions appears 
+to be more uniform in children compared with 
+adults. 
+
+Pharyngeal airway CSA-length relation. We found 
+that the high-OAHI group had a significantly narrower 
+pharynx in the region where the soft palate, adenoids, 
+and tonsils overlap. This region is within the classically 
+defined oropharynx [e.g., Gray’s Anatomy (26)] 
+but is often termed the velopharynx, the retropalatal 
+airway, or the transpalatal airway, among other names 
+(18). We have chosen to term this region the retropalatal 
+airway because it corresponds to that segment of 
+the oropharynx located immediately posterior to the 
+soft palate. This appears to be the most common site of 
+obstruction in adults with OSA (18). 
+
+The average CSA-length curves for the two groups 
+were significantly different by ANOVA, which is consistent 
+with our observation of different airway volumes 
+in the two groups (i.e., the area under the CSA-
+length curve is equivalent to airway volume). These 
+observations are in agreement with a more recent 
+study by Arens et al. (4), wherein an advanced imaging 
+technique known as fuzzy connectedness was used. 
+This method allows estimation of the position of the 
+airway centerline. This in turn allows better precision 
+in aligning each axial slice orthogonal to the airway 
+centerline. Although we did not have access to this 
+technology, our results are virtually identical to theirs 
+
+Downloaded from jap.physiology.org on March 4, 2009 
+
+J Appl Physiol • VOL 95 • NOVEMBER 2003 • www.jap.org 
+
+
+PHARYNGEAL GEOMETRY AND SLEEP-DISORDERED BREATHING 
+
+[please compare our Fig. 5 with Figs. 1 and 2 in Arens 
+et al. (4)], except that the adenoids and tonsils occupied 
+a much larger fraction of the pharynx in the subjects of 
+Arens et al. 
+
+In conclusion, the OAHI in children aged 7–12 yr 
+correlates positively with the size of their tonsils and 
+soft palate and inversely with the volume of their 
+oropharynx. We also found that the retropalatal air 
+space is inversely correlated with the OAHI, due 
+mainly to abnormally large soft palates relative to the 
+size of the retropalatal airway. 
+
+The authors thank Elena Antonio, Cortnie Cherry, Jason Quan, 
+Dan Stoker, Veronica Tapia, and Jesse Winer for technical assistance. 
+
+
+DISCLOSURES 
+
+This work was supported by National Heart, Lung, and Blood 
+Institute Grants HL-62373 and HL-51056 and by a grant from the 
+Max and Victoria Dreyfus Foundation. 
+
+REFERENCES 
+
+1. 
+American Thoracic Society. Standards and indications for 
+cardiopulmonary sleep studies in children. Am J Respir Crit 
+Care Med 153: 866–878, 1996. 
+2. 
+American Thoracic Society. Cardiorespiratory sleep studies 
+in children. Establishment of normative data and polysomnographic 
+predictors of morbidity. Am J Respir Crit Care Med 160: 
+1381–1387, 1999. 
+3. 
+Arens R, McDonough JM, Corbin Hernandez ME, Maislin 
+G, Schwab RJ, and Pack AI. Linear dimensions of the upper 
+airway structure during development: assessment by magnetic 
+resonance imaging. Am J Respir Crit Care Med 165: 117–122, 
+2002. 
+4. 
+Arens R, McDonough JM, Corbin AM, Rubin NK, Carroll 
+ME, Pack AI, Liu J, and Udupa JK. Upper airway size 
+analysis by magnetic resonance imaging of children with obstructive 
+sleep apnea syndrome. Am J Respir Crit Care Med 167: 
+65–70, 2002. 
+5. 
+Arens R, McDonough JM, Costarino AT, Mahboubi S, 
+Tayag-Kier CE, Maislin G, Schwab RJ, and Pack AI. Magnetic 
+resonance imaging of the upper airway structure of children 
+with obstructive sleep apnea. Am J Respir Crit Care Med 
+164: 698–703, 2001. 
+6. 
+Brennick MJ, Trouard TP, Gmitro AF, and Fregosi RF. 
+MRI study of pharyngeal airway changes during stimulation of 
+the hypoglossal nerve branches in rats. J Appl Physiol 90: 1373– 
+1384, 2001. 
+7. 
+Ciscar MA, Juan G, Martinez V, Ramon M, Lloret T, 
+Minguez J, Armengot M, Marin J, and Basterra J. Magnetic 
+resonance imaging of the pharynx in OSA patients and healthy 
+subjects. Eur Respir J 17: 79–86, 2001. 
+8. 
+Drummond GB. Influence of thiopentone on upper airway muscles. 
+Br J Anaesth 63: 12–21, 1989. 
+9. 
+Goodwin JL, Enright PL, Kaemingk KL, Rosen GM, Morgan 
+WJ, Fregosi RF, and Quan SF. Feasibility of using unattended 
+polysomnography in children for research—report of the 
+Tucson Children’s Assessment of Sleep Apnea study (TuCASA). 
+Sleep 24: 937–944, 2001. 
+10. 
+Goodwin JL, Enright PL, Morgan WJ, Kaemingk KL, 
+Rosen GM, Fregosi RF, and Quan SF. Correlates of obstructive 
+sleep apnea in 6–12 year old children–the Tucson Children 
+Assessment of Sleep Apnea study (TuCASA). Sleep 25, Suppl: 
+A81–A82, 2002. 
+11. 
+Goodwin JL, Kaemingk KL, Fregosi RF, Rosen GM, Morgan 
+WJ, Sherrill DL, and Quan SF. Clinical outcomes associated 
+with sleep disordered breathing in caucasian and hispanic 
+children–the Tucson Children’s Assessment of Sleep Apnea 
+study (TuCASA). Sleep 26: 587–591, 2003. 
+12. 
+Hwang JC, St John WM, and Bartlett D Jr. Respiratory-
+related hypoglossal nerve activity: influence of anesthetics. 
+J Appl Physiol 55: 785–792, 1983. 
+13. 
+Kaemingk KL, Pasvogel AE, Goodwin JL, Mulvaney SA, 
+Martinez F, Enright PL, Rosen GM, Morgan WJ, Fregosi 
+RF, and Quan SF. Learning and memory in children with sleep 
+disordered Breathing: findings of the Tucson Children’s Assessment 
+of Sleep Apnea (TuCASA) Prospective Cohort Study. J Intern 
+Neuropsychol Soc 9: 1016–1026, 2003. 
+14. 
+Leiter JC. Upper airway shape: is it important in the pathogenesis 
+of obstructive sleep apnea? Am J Respir Crit Care Med 
+53: 894–898, 1996. 
+15. 
+Malhotra A, Huang Y, Fogel RB, Pillar G, Edwards JK, 
+Kikinis R, Loring SH, and White DP. The male predisposition 
+to pharyngeal collapse: importance of airway length. Am J 
+Respir Crit Care Med 66: 1388–1395, 2002. 
+16. 
+Marcus CL. Sleep-disordered breathing in children. Am J Respir 
+Crit Care Med 164: 16–30, 2001. 
+17. 
+Marcus CL, Lutz J, Hamer A, Smith PL, and Schwartz A. 
+Developmental changes in response to subatmospheric pressure 
+loading of the upper airway. J Appl Physiol 87: 626–633, 1999. 
+18. 
+Rama AN, Tekwani SH, and Kushida CA. Sites of obstruction 
+in obstructive sleep apnea. Chest 122: 1139–1147, 2002. 
+19. 
+Rechtshaffen A and Kales A. A Manual of Standardized 
+Terminology: Techniques and Scoring Systems for Sleep Stages 
+of Human Subjects. Los Angeles, CA: UCLA Brain Information 
+Service/Brain Research Institute, 1968. 
+20. 
+Rodenstein DO, Dooms G, Thomas Y, Liistro G, Stanescu 
+DC, Culee C, and Aubert-Tulkens G. Pharyngeal shape and 
+dimensions in healthy subjects, snorers, and patients with obstructive 
+sleep apnoea. Thorax 45: 722–727, 1990. 
+21. 
+Rosner B, Prineas R, Loggie J, and Daniels S. Percentiles 
+for body mass index in U.S. children 5 to 17 years of age. 
+J Pediatr 132: 211–222, 1998. 
+22. 
+Schechter MS. Technical report: diagnosis and management of 
+childhood obstructive sleep apnea syndrome. Pediatrics 109: 
+27–46, 2002. 
+23. 
+Schellenberg JB, Maislin G, and Schwab RJ. Physical findings 
+and the risk for obstructive sleep apnea. The importance of 
+oropharyngeal structures. Am J Respir Crit Care Med 162: 
+740–748, 2000. 
+24. 
+Schwab RJ, Gupta KB, Gefter WB, Metzger LJ, Hoffman 
+EA, and Pack AI. Upper airway and soft tissue anatomy in 
+normal subjects and patients with sleep-disordered breathing. 
+Significance of the lateral pharyngeal walls. Am J Respir Crit 
+Care Med 152: 1673–1689, 1995. 
+25. 
+Tucker WB. Acute effects of palatopharyngoplasty on airway 
+collapsibility. Otolaryngol Head Neck Surg 121: 82–86, 1999. 
+26. 
+Warwick R and Williams PL (Editors). Gray’s Anatomy (35th 
+ed.). Philadelphia, PA: Saunders, 1973, p. 1243–1246. 
+27. 
+Wheatley JR and Amis TC. Mechanical properties of the 
+upper airway. Curr Opin Pulm Med 4: 363–369, 1998. 
+Downloaded from jap.physiology.org on March 4, 2009 
+
+J Appl Physiol • VOL 95 • NOVEMBER 2003 • www.jap.org 
+
+

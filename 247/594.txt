@@ -1,0 +1,1184 @@
+Sleep-Related Breathing Disorders in 
+Adolescents Aged 12 to 16 Years *
+
+Angeles Sánchez-Armengol, María A. Fuentes-Pradera, Francisco 
+Capote-Gil, Emilio García-Díaz, Soledad Cano-Gómez, Carmen 
+Carmona-Bernal and José Castillo-Gómez 
+
+Chest 2001;119;1393-1400 
+DOI 10.1378/chest.119.5.1393 
+
+The online version of this article, along with updated information 
+and services can be found online on the World Wide Web at: 
+
+http://www.chestjournal.org/content/119/5/1393.full.html 
+
+CHEST is the official journal of the American College of ChestPhysicians. It has been published monthly since 1935. Copyright 2007 
+by the American College of Chest Physicians, 3300 Dundee Road, 
+Northbrook IL 60062. All rights reserved. No part of this article or PDF 
+may be reproduced or distributed without the prior written permission 
+of the copyright holder. 
+(http://www.chestjournal.org/misc/reprints.shtml) ISSN:0012-3692 
+
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2001 American College of Chest Physicians 
+
+
+
+Sleep-Related 
+Breathing 
+Disorders 
+in 
+Adolescents 
+Aged 
+12 
+to 
+16 
+Years* 
+Clinical 
+and 
+Polygraphic 
+Findings 
+
+
+Angeles Sa´nchez-Armengol, MD; Mari´a A. Fuentes-Pradera, MD; 
+Francisco Capote-Gil, MD; Emilio Garci´a-Di´az, MD; Soledad Cano-Go´mez, MD; 
+Carmen Carmona-Bernal, MD; and Jose´ Castillo-Go´mez, MD 
+
+
+Study objectives: To determine the frequency, symptoms, and polygraphic features of sleep-
+related breathing disorders (SRBD) in adolescents aged 12 to 16 years. 
+Design: Cross-sectional study. 
+Setting: Randomly selected secondary schools in the city of Seville, Spain. 
+Participants: A general population sample of adolescents (n . 
+101; mean [. 
+SD] age, 13.2 . 
+0.8 
+years). 
+Interventions: An 82-item questionnaire regarding anthropometric data and nocturnal and 
+daytime symptoms suggestive of SRBD was administered. Symptoms were evaluated according to 
+a 4-point frequency scale. Snorers answered “sometimes” or “often” in the question about 
+snoring, and nonsnorers answered “never” or “rarely.” All subjects underwent an overnight 
+cardiorespiratory polygraphy at home. 
+Results: Twenty-nine percent of the subjects were snorers. Excessive daytime sleepiness was 
+present in 14% of subjects, and sleep apnea was present in 3%. Polygraphy showed a respiratory 
+disturbance index > 
+10 in 18 subjects (17.8%), but concurrent symptoms highly suggestive of 
+SRBD were found in only 2 subjects (1.9%). Snorers had higher waist-to-hip ratios and a higher 
+frequency of witnessed apnea or labored breathing as well as higher values of respiratory events 
+as compared with nonsnorers. However, oximetry data were similar in both groups. 
+Conclusions: In a nonselected group of adolescents aged 12 to 16 years, the frequency of 
+symptoms potentially associated with SRBD was similar to that reported for younger children. 
+Snoring was associated with a higher occurrence of other nocturnal symptoms, a more central 
+pattern of body fat distribution, and a higher respiratory disturbance index as compared with 
+nonsnorers. Although polygraphic abnormalities were mild, two cases of probable SRBD were 
+found with a prevalence rate of 1.9%. (CHEST 2001; 119:1393–1400) 
+
+Key words: adolescence; cardiorespiratory polygraphy; sleep-related breathing disorders 
+
+Abbreviations: CT90 . 
+percentage of total recording time with arterial oxygen saturation . 
+90%; ENT . 
+ear, nose, 
+and throat; ODI . 
+oxygen desaturation index; OSA . 
+obstructive sleep apnea; RDI . 
+respiratory disturbance index; 
+RDIa . 
+automatic RDI; RDIm . 
+manual analysis RDI; RDIsp . 
+time in supine position RDI; Sao2 . 
+arterial oxygen 
+saturation; SRBD . 
+sleep-related breathing disorders; TRT . 
+total recording (sleep) time; TRTsp . 
+TRT in the supine 
+position 
+
+C
+C
+linical features of sleep-related breathing disorders 
+(SRBD) have been documented extensively 
+in adults and include a wide range of symptoms, 
+from slight snoring to severe cases of obstructive 
+sleep apnea (OSA) syndrome.1 The relationship be
+
+
+*From the Department of Pneumology, Hospital Universitario 
+Virgen del Roci´o, Sevilla, Spain. 
+Supported by grants 38/96 and 247/97 from Consejeri´a de Salud 
+Junta de Andaluci´a. 
+Manuscript received July 14, 2000; revision accepted November 
+29, 2000. 
+
+
+Correspondence to: Angeles Sa´nchez-Armengol, MD, Department 
+of Pneumology, Hospital Universitario Virgen del Roci´o, Manuel 
+Siurot s/n, E-41013 Sevilla, Spain; e-mail: almar@comcadiz.es 
+
+tween SRBD in adults and certain factors such as 
+age, obesity, some craniofacial alterations, and hormonal 
+disorders, is also well known.2,3 SRBD in 
+childhood have clinical, diagnostic, and therapeutic 
+characteristics that are different from those found in 
+adults.4 In younger children, adenotonsillar hypertrophy 
+is the most frequent leading cause, although 
+obesity, craniofacial malformations, or other anatomic 
+alterations of the upper airway may also play 
+an important etiologic role for SRBD.5 In these two 
+age groups, previous studies6–8 have been conducted, 
+allowing us to know their frequency and 
+clinical characteristics. The polysomnographic fea-
+
+CHEST 
+/ 
+119/5/ 
+MAY, 
+2001 
+1393
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2001 American College of Chest Physicians 
+
+
+
+tures of SRBD in adults and prepubertal children are 
+also reasonably well established.9–11 In the adolescent 
+population, however, as far as we are aware, the 
+prevalence, clinical expression, and polysomnographic 
+features of SRBD have not been previously 
+examined. 
+
+Some of the underlying factors in the development 
+of SRBD in adults, such as obesity or a narrowed 
+upper airway, could be present to a degree in 
+younger subjects. Moreover, during adolescence, sex 
+hormones, testosterone in particular, start to play a 
+significant role in the development of muscular mass 
+in the body, including the pharynx. 
+
+Therefore, by detecting SRBD in adolescents and 
+correcting these disorders whenever possible, the 
+quality of life in these subjects can be improved, and 
+preventive intervention (improving diet habits, correcting 
+hormonal unbalances, or suppressing obstruction 
+via orthodontia or corrective surgery of the 
+upper airway) can be developed toward later manifestations 
+of more severe sleep respiratory disorders. 
+
+To date, there have been no studies of SRBD 
+conducted exclusively in the adolescent age group. 
+This study was therefore performed to determine the 
+frequency, symptoms, and polygraphic features of 
+SRBD in adolescents aged 12 to 16 years recruited 
+from the secondary school population in the city of 
+Seville, Spain. 
+
+Materials and Methods 
+
+Subjects 
+
+Between May 1997 and June 1998, a cross-sectional study was 
+carried out in a sample of adolescents of both genders ranging in 
+age from 12 to 16 years. A total of 12 schools were selected at 
+random using the official directory of public and private secondary 
+schools in the city of Seville, Spain. The study was approved 
+by an institutional review board and by the local education 
+authorities. After a full explanation of the purpose of the study, 
+written informed consent was obtained from those adolescents 
+who voluntarily agreed to take part. Written informed consent 
+from their parents or legal guardians was also obtained. No 
+inclusion or exclusion criteria according to the absence or 
+presence of a history of medical problems or chronic disease were 
+established. The study included the administration of a questionnaire 
+for the investigation of SRBD symptoms and measurement of 
+anthropometric parameters, and an overnight home polygraphy. 
+
+Questionnaire 
+
+The questionnaire consisted of 82 items and was administered 
+by a nurse at the adolescent’s home on the same night as the 
+polygraphic recording. Questions were answered by the subject 
+and by his/her parents or guardians. The following data were 
+recorded: (1) demographics; (2) family history of obesity and ear, 
+nose, and throat (ENT) disorders; (3) personal history of substance 
+abuse, including alcohol consumption and cigarette smoking, 
+past and current medications, obesity, ENT disorders, 
+
+craniofacial anomalies, hypertension, and chronic neurologic, 
+psychiatric, cardiac, or respiratory disease; (4) school performance; 
+and (5) nocturnal and daytime symptoms suggestive of 
+SRBD according to a 4-point frequency scale, from “never” to 
+“rarely” (equal to or less than once a week), “sometimes” (twice 
+a week), or “often” (equal to or more than three times a week). 
+Anthropometric measurements included weight, height (in percentiles), 
+BP, neck circumference (in the standing position at the 
+level of the cricothyroid membrane), waist circumference (at the 
+midpoint between the anterior superior iliac spine and the lower 
+costal arch), hip circumference (at the level of the greater 
+trochanters), and biceps circumference (with the subject standing 
+up, with the arm relaxed and slightly separated from the trunk). 
+The body mass index, defined as the weight in kilograms divided 
+by the square of the height in meters, and the waist-to-hip 
+perimeter ratio were calculated. Subjects weighing . 
+95th percentile 
+of their ideal weight for height and gender were considered 
+obese. Subjects who did not agree to undergo polygraphic 
+recording completed a few items of the questionnaire that 
+included demographics, weight, height, history of ENT disorders, 
+and main SRBD symptoms, ie, snoring, witnessed apneas, and 
+daytime sleepiness. Snorers answered “sometimes” or “often” for 
+the question on snoring, and nonsnorers answered “never” or 
+“rarely.” Stoppage of breathing while sleeping, labored breathing, 
+hyperextended head during sleep, enuresis, and mouth breathing 
+were considered to be present for any answer but “never.” Other 
+symptoms, such as nocturia, restless sleep, awakenings, excessive 
+daytime sleepiness, headache, cognitive impairment, and behavior 
+and temper alterations were considered to be present when 
+subjects answered “sometimes” or “often.” 
+
+Overnight Polygraphy 
+
+The overnight home polygraphy was performed using a portable 
+ambulatory device (Apnoescreen II; Erich Jaeger GmbH & 
+CoKG; Wuerzburg, Germany) with continuous monitoring of 
+oronasal airflow (thermistor), chest and abdominal respiratory 
+movements (thoracic and abdominal belts), arterial oxygen saturation 
+(Sao2; digital pulse oxymetry), heart rate (finger probe), 
+ECG, body position (mercury sensor), and actigraphy (wristband 
+with activity sensor). Tracheal sounds (microphone) were not 
+registered. According to the characteristics of the device, data 
+sampling was performed with a frequency of 128/s, and data were 
+stored in a database every 0.5 s (LabManager V4.05; Erich 
+Jaeger), which allowed the playback of 10-min sleep recordings. 
+Analysis was carried out both automatically and manually. 
+
+The following parameters were assessed: respiratory event, 
+defined as a decrease in oronasal airflow below a fixed threshold 
+(established in a value of flow whose intensity corresponds to 35 
+bytes in the computer graphical scale) during . 
+5 s; oxygen 
+desaturation, defined as a drop . 
+4% in Sao2 during . 
+8s; 
+cardiac event, defined as a change in heart rate of . 
+10 beats/min 
+over . 
+10 s; and awakening, defined as . 
+50% increase in the 
+actigraphy curve. Cardiac events or awakenings were considered 
+to be related to respiratory events and/or desaturations if they 
+occurred simultaneously. Variables analyzed were total recording 
+(sleep) time (TRT); total recording time in the supine position 
+(TRTsp); Sao2 baseline, obtained from the automatic analysis 
+during the first minutes of recording; Sao2 nadir (lowest value 
+during TRT); percentage of TRT with Sao2 . 
+90% (CT90); 
+oxygen desaturation index (ODI), number of oxygen desaturations 
+per hour in the manual analysis; and respiratory disturbance 
+index (RDI): automatic analysis RDI (RDIa), manual analysis 
+RDI (RDIm), and time in the supine position RDI (RDIsp). 
+
+Clinical 
+Investigations
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2001 American College of Chest Physicians 
+
+
+
+Statistical Analysis 
+
+All results are expressed as mean . 
+SD when appropriate. 
+Differences in the frequency of clinical and polygraphic variables 
+between snorers and nonsnorers were analyzed with the x2 test 
+(with Fisher’s Exact Test and Yates correction when necessary) 
+and the unpaired two-tailed t test. 
+
+Results 
+
+Study Population 
+
+Of a total of 327 adolescents interviewed at 
+schools, 136 subjects (42%) refused to participate in 
+the study. Of the remaining 191 subjects, 90 subjects 
+(27.5%) refused to undergo overnight polygraphy 
+and completed a few items of the questionnaire. 
+Therefore, the study population included 101 subjects 
+(43 boys and 58 girls) with a mean age of 
+
+13.2 . 
+0.8 years. Subjects who completed a few 
+items of the questionnaire and subjects included in 
+the study were similar in relation to the following 
+variables: mean age (13.6 . 
+0.7 years vs 13.2 . 
+0.8 
+years), male/female ratio (47/43 vs 43/58), weight 
+(64.6 . 
+20.1 percentile vs 68.3 . 
+27.6 percentile), 
+and frequency of snorers (11% vs 15%), of apnea 
+while sleeping (5.5% vs 3%), and of excessive daytime 
+sleepiness (20% vs 14%). 
+Twenty-three of the 101 adolescents were obese. 
+One subject was unable to answer the question of 
+whether she snored or not. Of the remaining 100 
+subjects, 71 subjects were classified as nonsnorers 
+and 29 as snorers. Fifteen subjects (14.8%) snored 
+“often” and were considered habitual snorers. Anthropometric 
+data, frequency of nocturnal and daytime 
+clinical manifestations suggestive of SRBD, and 
+polygraphic findings are shown in Tables 1 and 2. In 
+18 subjects (17.8%) there was an RDI (RDIm, 
+RDIa, or RDIsp) . 
+10. In 11 of these subjects, the 
+RDIsp was the one . 
+10. In 2 of these 18 patients, 
+the symptoms were suggestive of SRBD (snoring, 
+witnessed sleep apneas, and excessive daytime sleepiness), 
+with a prevalence of SRBD of 1.98%. 
+
+Snorers vs Nonsnorers 
+
+The snorer group included 29 subjects who answered 
+“sometimes” (n . 
+14) or “often” (n . 
+15) to 
+the question about snoring, and the nonsnorer group 
+included 71 subjects who answered “never” (n . 
+62) 
+or “rarely” (n . 
+9). Both groups were similar in 
+relation to mean age, gender, and neck circumference. 
+Snorers showed higher mean weight 
+
+(72.1 . 
+27.1 percentile) and percentage of obese 
+subjects (27.6%) than nonsnorers (weight, 66.6 . 
+28 
+percentile; obese, 21.4%), but differences were not 
+statistically significant. The waist-to-hip ratio was 
+significantly higher among snorers than among non-
+snorers (0.82 . 
+0.07 vs 0.77 . 
+0.006, p . 
+0.002). 
+Table 1—Frequency Distribution of Anthropometric 
+
+Parameters and Symptoms of SRBD in 101 
+Adolescents* 
+
+
+Variables Data 
+
+Anthropometric parameters 
+
+Age, yr 13.2 . 
+0.8 
+12–13 yr 62 
+14–16 yr 39 
+Body mass index, kg/m2 21.2 . 
+3.8 
+Weight, percentile 68.3 . 
+27.6 
+Neck circumference, cm 31.9 . 
+3.6 
+Waist/hip index 0.79 . 
+0.07 
+Obesity present 23 (22.7) 
+
+Nocturnal symptoms 
+Snoring† 29 (28.7) 
+Sleep apneas‡ 3 (2.9) 
+Nocturia† 23 (22.8) 
+Awakenings† 24 (23.7) 
+Enuresis‡ 5 (4.9) 
+Restless sleep† 22 (21.8) 
+Labored breathing‡ 18 (17.9) 
+Hyperextended head‡ 11 (10.9) 
+
+Daytime symptoms 
+Excessive sleepiness† 14 (13.9) 
+Headache† 14 (13.9) 
+Mouth breathing‡ 55 (54.5) 
+Cognitive alteration† 61 (60.3) 
+Attitude alteration† 61 (60.3) 
+Temper alteration† 70 (69.3) 
+
+*Data are presented as mean . 
+SD or No. (%). Neck circumference 
+was measured at the level of the cricothyroid membrane. Weight 
+percentile was calculated according to the corresponding age and 
+gender. Waist/hip index was calculated by dividing the waist circumference 
+by the hip circumference. Obesity is weight . 
+95th weight 
+percentile. 
+
+†Symptoms considered to be present if the subject admitted to 
+having them “sometimes” or “often.” 
+‡Symptoms considered to be present if the subject admitted to 
+having them even if “rarely” so. 
+As shown in Figure 1, nocturnal symptoms suggestive 
+of SRBD, except for enuresis, occurred more 
+frequently in the snorer group, with statistically 
+significant differences in the percentage of subjects 
+with witnessed apneas (10.3% vs 0%, p . 
+0.036), 
+nocturia (37.9% vs 16.9%, p . 
+0.024), sleep with 
+neck extended (24.1% vs 5.6%, p . 
+0.016), and 
+labored breathing (31% vs 12.6%, p . 
+0.019). With 
+respect to daytime symptoms, only cognitive impairment 
+(questions 23, 24, and 25 of the questionnaire 
+[Table 4]) was significantly more frequent in snorers 
+(75.8%) than in nonsnorers (53.5%; p . 
+0.039). The 
+frequency of daytime sleepiness, headache, behavior 
+dysfunction, and temper disorders was similar in 
+both groups (Fig 2). 
+
+Oximetry data (Sao2 baseline, Sao2 nadir, CT90, 
+and ODI) were similar in snorers and in nonsnorers. 
+However, significantly higher values of respiratory 
+events (RDIa, RDIm, and RDIsp) were found 
+
+CHEST 
+/ 
+119/5/ 
+MAY, 
+2001 
+1395
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2001 American College of Chest Physicians 
+
+
+
+Table 2—Polygraphic Findings in 101 Adolescents* 
+
+Parameters 
+Data 
+
+TRT, min 546.3 . 
+59.8 (424–758) 
+TRTsp, % 52.6 . 
+18.4 (19.3–99.5) 
+Sao2 baseline, % 97 . 
+0.6 (96–98) 
+Sao2 nadir, % 89.6 . 
+3.7 (77–95) 
+CT90,% 0.06 . 
+0.1 (0–1) 
+ODI 1.1 . 
+1.3 (0–8.5) 
+RDIm 2.7 . 
+2.4 (0.1–15.2) 
+RDIsp 5.1 . 
+4.8 (0.3–25.5) 
+RDIa 3.8 . 
+2.3 (0–12.5) 
+Total cardiac events, No. 83.7 . 
+41.6 (30–252) 
+
+
+Associated† 18.7 . 
+14.2 (1–87) 
+Total awakenings, No. 14.1 . 
+10.8 (0–52) 
+
+Associated‡ 
+4.4 . 
+4.08 (0–18) 
+
+*Data are presented as mean . 
+SD (range). Sao2 baseline . 
+basal 
+
+Sao2 (from the first recording minutes); Sao2 nadir . 
+lowest value 
+
+of Sao2 obtained during all TRT. 
+
+†Cardiac 
+event concurrent with respiratory event and/or oxygen 
+desaturation. 
+‡Awakening concurrent with respiratory event and/or oxygen desaturation. 
+among snorers. There were more respiratory events 
+during the time spent in supine position (RDIsp) in 
+both groups (Table 3). 
+
+Discussion 
+
+Participation in the study was proposed to 327 
+subjects; 191 accepted (participation rate of 58.4%) 
+and 101 were included (acceptance rate of 30.8%). 
+In two population-based studies12,13 in which only 
+questionnaires were used for assessing the prevalence 
+of snoring and SRBD, response rates of 65% 
+and 97% were obtained. In two other studies6,14 in 
+which polysomnography was performed, acceptance 
+rates of 26.6% and 43% were similar to ours. A 
+selection bias in our study seems unlikely because 
+anthropometric data and frequency of main symptoms 
+suggestive of SRBD showed a similar distribution 
+between subjects who took part in the study and 
+those who did not. 
+
+In this group of 101 adolescents, we found that 
+symptoms potentially associated with SRBD have a 
+similar frequency to the one described for younger 
+children. Snoring is associated with a higher frequency 
+in other nocturnal symptoms and a more 
+central pattern in body fat distribution. Although the 
+oximetric parameters are similar in both groups, 
+snorers have a higher number of respiratory events 
+in polygraphy than nonsnorers do. In the whole 
+group, we found only mild polygraphic abnormalities, 
+but two cases (1.98%) of probable SRBD were 
+detected. 
+
+With regard to methodologic aspects, the use of 
+
+polysomnography in subsets considered at high risk 
+for SRBD according to questionnaire scores6,7 would 
+have been inappropriate in our study since clinical 
+features of SRBD in adolescence are unknown. For 
+this reason, overnight polygraphy was performed in 
+all subjects. The design of the questionnaire was 
+similar to that used in other studies.12,15,16 On the 
+other hand, the tracheal sound recording of the 
+Apnoescreen II polygraph has been technically unreliable 
+in our experience, so that in the present 
+study, as in the study by Corbo et al,17 snoring was 
+assessed from questionnaire answers. This was a 
+limitation of this study, but we think that it is better 
+to assess the frequency of snoring during some 
+months or years by subjective means than to evaluate 
+this symptom during a single night with a technique 
+of doubtful reliability. In fact, the frequency of 
+snoring is usually assessed from questionnaire answers.
+18 Finally, the Apnoescreen II device is a 
+cardiorespiratory polygraph designed for simplified 
+home studies, and data on arousals or upper airway 
+resistance cannot be obtained because neither neurophysiologic 
+parameters nor intraesophageal pressure 
+are recorded. 
+
+It has been shown that snoring is influenced by 
+age. Studies in younger children reported a percentage 
+of snorers between 10% and 15.3%, with 7.3% 
+being habitual snorers.13,19 The prevalence in adults 
+is higher, between 4% and 29% in men and between 
+3% and 14% in women.20 This study shows that the 
+prevalence of snoring in the adolescent group is high 
+(28.7%), although habitual snoring was detected in 
+only 14.8% of subjects. Regarding the frequency of 
+other nocturnal symptoms, it is difficult to compare 
+our findings with results of other studies21–23 in 
+which younger children with suspected OSA were 
+included. Snoring, witnessed apneas, labored breathing, 
+and hyperextended head during sleep are main 
+symptoms reported in children referred for assessment 
+of SRBD.21,23 Besides snoring, unspecific nocturnal 
+symptoms were common in our series, which 
+may be due to many causes other than SRBD. 
+Sleep-related apneas were found in only 2.9% of 
+subjects. This is a much lower percentage than that 
+found in the polysomnographic study of Young et al6 
+in adults, in which 9% of women and 24% of men 
+fulfilled the minimal diagnostic criteria for the sleep 
+apnea syndrome (an apnea-hypopnea score . 
+5). 
+That difference could be in part due to the fact that 
+the majority of the adolescents sleep alone. In 
+relation to daytime symptoms, cognitive impairment 
+(learning disabilities) as well as temper alterations 
+and abnormal behavior were commonly referred by 
+adolescents and by their parents. It is not surprising 
+that parents think that their adolescent sons and 
+daughters show a lack of interest or are bad at paying 
+
+1396 
+Clinical 
+Investigations
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2001 American College of Chest Physicians 
+
+
+
+Figure 1. Frequency of nocturnal symptoms suggestive of SRBD in snorers (n . 
+29) and nonsnorers 
+(n . 
+71). Results given as percentages. 
+
+attention (Table 4). On the other hand, daytime 
+sleepiness was found in 14% of the subjects. It is 
+known that adolescence delays the “sleep-on” setting 
+in the biological clock with a trend to go to bed and 
+to wake up late, which cannot be done with the 
+scholarly timetable, and results in a cumulative sleep 
+debt, leading to adolescent daytime sleepiness.24 
+Daily mean sleep time was 8.5 . 
+0.7 h, which may 
+be insufficient at that age. Most of these subjects 
+cannot take a nap except during the weekend. By 
+contrast, daytime hyperactivity is particularly frequent 
+in younger children with OSA syndrome.25 
+
+Polysomnography is the key diagnostic test for 
+OSA. However, a full overnight polysomnography 
+study is technically difficult and can be performed 
+only by technicians in sleep laboratories. Other 
+simplified methods have been suggested, especially 
+
+for epidemiologic investigations.26 Previous studies16,27 
+of our group have demonstrated the usefulness 
+of polygraphic findings with the Apnoescreen II 
+equipment for reasonably excluding SRBD when 
+results of the test are negative. Respiratory events 
+were quantitated as episodes lasting . 
+5 s instead of 
+
+. 
+10 s accepted for adults,6,9 as we have previously 
+observed that these shorter events can cause desaturations23 
+and that they disappear from the polysomnographic 
+recording after adenotonsillectomy in 
+children with SRBD.28 The clinical significance of 
+short apneas has been also emphasized by others.10 
+Few data are available regarding normal respiratory 
+parameters during sleep in healthy children and 
+adolescents. Marcus et al10 studied 32 nonobese 
+children and 18 teenagers and recommended that 
+more than one obstructive apnea of any length per 
+
+
+Figure 2. Frequency of daytime symptoms suggestive of SRBD in snorers (n . 
+29) and nonsnorers 
+(n . 
+71). Results given as percentages. 
+
+CHEST 
+/ 
+119/5/ 
+MAY, 
+2001 
+1397
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2001 American College of Chest Physicians 
+
+
+
+Table 3—Polygraphic Findings for Snorers and Nonsnorers* 
+
+Parameters Snorers (n . 
+29) Nonsnorers (n . 
+71) p Value 
+TRT, min 543.4 . 
+50.2 548.3 . 
+63.5 NS 
+TRTsp, % 47.3 . 
+18.4 46.8 . 
+17.5 NS 
+Sao2 baseline, % 96.6 . 
+0.5 97.01 . 
+0.6 NS 
+Sao2 nadir, % 89.7 . 
+2.8 89.6 . 
+4 NS 
+CT90,% 0.04 . 
+0.1 0.08 . 
+0.1 NS 
+ODI 1.16 . 
+1.5 1.22 . 
+1.3 NS 
+RDIm 3.83 . 
+3.1 2.22 . 
+1.18 0.014 
+RDIsp 6.97 . 
+5.1 4.37 . 
+4.4 0.012 
+RDIa 5.13 . 
+2.7 3.26 . 
+1.9 0.002 
+Total cardiac events, No. 89.1 . 
+41.8 83.2 . 
+40.8 NS 
+Total awakenings, No. 13.4 . 
+10.8 15 . 
+10.7 NS 
+Associated awakenings, No. 4.03 . 
+4.49 4.73 . 
+3.91 NS 
+
+*Data are presented as mean . 
+SD. NS . 
+no significant difference. See Table 2 for expansion of abbreviations not defined in text. 
+
+hour of sleep should be considered abnormal. In the 
+study of Acebo et al,29 in which 45 healthy and 
+nonobese adolescents were included, normative values 
+for the RDI were 1.3 . 
+1.3 in boys and 1.1 . 
+0.7 
+in girls. In the present study, the mean RDIm 
+
+(2.7 . 
+2.4) was slightly higher, probably because we 
+studied a nonselected population, ie, not restricted to 
+healthy nonobese adolescents, and because children 
+were not included. In agreement with previous 
+observations30 in male adults, supine position worsens 
+respiratory events in our series. Regarding Sao2 
+values, the lowest mean value during TRT was 
+89.6 . 
+3.7%, which is lower than that reported by 
+Marcus et al10 perhaps due to differences in the 
+study populations. Sao2 nadir ranged between 77% 
+and 95%, with values . 
+80% in only two subjects. 
+One of them was a snorer but had a history of 
+asthma, and the other was a nonsnorer with no 
+history of chronic respiratory disease and normal 
+values in ODI and in CT90, so that it may be 
+interpreted as an isolated fall of Sao2. 
+Young et al6 found that 9% of female subjects and 
+24% of male subjects had an RDI . 
+5, but when 
+SRBD was diagnosed according to the apnea-hypopnea 
+index together with daytime hypersomnolence, 
+the prevalence decreased to 2% in women and 4% in 
+men. In our series, 18 of the 101 subjects (17.8%) 
+showed an RDI (RDIm, RDIa or RDIsp) . 
+10, but 
+in only 2 subjects were there clinical features highly 
+suggestive of SRBD (snoring, apnea while sleeping, 
+and excessive daytime sleepiness). Thus, the estimated 
+prevalence of SRBD in our group of adolescents 
+was 1.98%. These results are similar to SRBD 
+prevalence rates of 2.9% in healthy children 6 
+months to 6 years old,31 and between 0.7% and 1.1% 
+in children from 4 to 5 years old.7 
+
+When the groups of snorers and nonsnorers were 
+compared, differences in age in gender were not 
+found. In contrast with adult SRBD with a clear 
+
+predominance of snoring in men, in children there is 
+an equal prevalence of affected boys and girls.7,13,32 
+The fact that 62 of our subjects were . 
+14 years of 
+age could explain the results since sexual development 
+is usually not complete at this age. We also 
+found a tendency for a higher weight percentile, 
+neck circumference, and obesity in the snorer group. 
+Although the difference between both groups did 
+not achieve statistical significance, it is interesting to 
+highlight it because the relationship between these 
+anthropometric parameters and snoring has been 
+previously established in adults.33 With regard to 
+waist-to-hip ratio, snorers had a significantly higher 
+values than nonsnorers, which probably indicates the 
+relationship between central obesity and snoring.34,35 
+In the evaluation of SRBD-associated symptoms, it is 
+important to consider that adolescents usually sleep 
+alone, so nocturnal symptoms can go unnoticed 
+except snoring. Anyway, in agreement with other 
+reports,23,36 symptoms more closely related to 
+SRBD, such as apnea, hyperextended head, or labored 
+breathing while sleeping, were more frequent 
+in snorers than in nonsnorers. The frequency of 
+excessive daytime sleepiness was almost double in 
+snorers than in nonsnorers (20.6% vs 11.2%), although 
+the difference was not statistically significant. 
+This fact probably means that factors other than 
+snoring also influence the level of somnolence, like 
+the degree of delay of the biological clock. In 
+younger children7,37 and adults,1 the frequency of 
+sleepiness was higher in snorers than in nonsnorers. 
+In the present study, cognitive impairment (learning 
+or concentrating problems) was also more frequently 
+found in the snorer group than among nonsnorers, 
+which agrees with the fact that snoring has been 
+associated with a worsening of both the emotional 
+situation and the cognitive sphere.12 
+
+As it has been previously discussed, both groups 
+did not shown differences in any of the oximetry 
+
+1398 
+Clinical 
+Investigations
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2001 American College of Chest Physicians 
+
+
+
+Table 4—Symptomatology Associated With SRBD* 
+
+Symptoms Responses 
+
+Nocturnal 
+
+1 Does he/she snore? 
+Only in supine position? 
+Intensity? 
+
+
+2 Does he/she stop breathing while sleeping? 
+
+3 Has he/she had awakenings at night? 
+With shortness of breath? 
+With whistle? 
+With acidity? 
+
+
+4 Does he/she move his/her arms and legs while asleep? 
+5 Has he/she had nocturnal profuse sweating? 
+6 Has he/she had restless sleep? 
+7 Has he/she had labored breathing while asleep? 
+8 Does he/she have head hyperextended while asleep? 
+9 Does it get worse with respiratory infections? 
+
+
+10 Does he/she get up at night to urinate? 
+
+
+No. of times a night? 
+11 Does he/she unwillingly urinate in bed? 
+12 Is he/she a sleepwalker? 
+13 Does he/she rub teeth while sleeping? 
+14 Has he/she had nightmares? 
+
+
+Daytime 
+15 Does he/she complain about sleepiness? 
+Sleepiness? 
+16 How many hours does he/she sleep per night? 
+
+Does he/she sleep naps? 
+17 If he/she sleeps ,6 h/night, why? 
+18 Has he/she had a headache when getting up or at night? 
+19 Has he/she usually had mouth breathing? 
+20 Has he/she had throat disturbances? 
+
+What kind? 
+21 Is he/she excessively active? 
+22 Does he/she generally show lack of interest? 
+23 Does he/she forget things? 
+24 Is he/she bad at concentrating or paying attention? 
+25 Has he/she had difficulties in learning? 
+26 Has he/she had difficulties in interaction with others? 
+27 Does he/she get angry easily or without reason? 
+28 Has he/she had sudden sleep attacks? 
+29 Has he/she felt paralyzed when waking up? 
+30 Has he/she had hallucinations when waking up? 
+31 Does he/she complaint about sudden loss of strength (legs)? 
+
+Do not know, never, rarely, sometimes, often 
+Yes, no 
+Slight, moderate, high, years ago 
+Do not know, never, rarely, sometimes, often, years ago 
+Do not know, never, rarely, sometimes, often 
+Yes, no 
+Yes, no 
+Yes, no 
+Do not know, never, rarely, sometimes, often 
+Do not know, never, rarely, sometimes, often 
+Do not know, never, rarely, sometimes, often 
+Do not know, rarely, sometimes, often 
+Do not know, never, rarely, sometimes, often 
+Do not know, never, rarely, sometimes, often 
+Do not know, never, rarely, sometimes, often 
+
+Do not know, never, rarely, sometimes, often 
+Do not know, never, rarely, sometimes, often 
+Do not know, never, rarely, sometimes, often 
+Do not know, never, rarely, sometimes, often 
+
+Do not know, never, rarely, sometimes, often, years ago 
+Slight, moderate, severe 
+
+No, yes (No. of hours ; days/week ) 
+
+Do not know, never, rarely, sometimes, often 
+Do not know, never, rarely, sometimes, often 
+Do not know, never, rarely, sometimes, often 
+
+Do not know, no, yes 
+Do not know, no, yes 
+Do not know, never, rarely, sometimes, often 
+Do not know, never, rarely, sometimes, often 
+Do not know, never, rarely, sometimes, often 
+Do not know, never, rarely, sometimes, often 
+Do not know, never, rarely, sometimes, often 
+Do not know, never, rarely, sometimes, often 
+Do not know, never, rarely, sometimes, often 
+Do not know, never, rarely, sometimes, often 
+Do not know, never, rarely, sometimes, often 
+
+*Never . 
+0 times; rarely . 
+once a week or less; sometimes . 
+twice a week; often . 
+three or more times a week; slight sleepiness . 
+in passive 
+situations at home (watch TV, read, study); moderate sleepiness . 
+in passive situations outside their house (cinema, in class); severe 
+
+sleepiness . 
+in active situations (talking, eating, standing up). 
+
+parameters, but snorers had a higher values of RDI 
+indexes. However, even in the snorer group, these 
+values are still within the normal range established 
+by Acebo et al,29 who obtained a mean RDI of 1.3 
+(SD, 1.3), which means that the upper limit would be 
+3.9, and our average RDI for the snorers was 3.8. 
+
+In summary, in a nonselected group of healthy 
+adolescents between 12 years and 16 years old, 
+symptoms potentially associated with SRBD showed 
+a similar frequency to that reported for younger 
+children. Snoring was associated with a higher occurrence 
+of other nocturnal symptoms, a more central 
+pattern of body fat distribution, and a higher 
+
+RDI as compared with nonsnorers. Although polygraphic 
+abnormalities were mild, two cases of probable 
+SRBD were found with a prevalence rate of 
+1.9%. 
+
+ACKNOWLEDGMENT: The authors thank A. Cayuela for 
+statistical assistance and Marta Pulido, MD, for editing the 
+article. 
+
+References 
+
+1 Partinen M, Guilleminault C. Daytime sleepiness and vascular 
+morbidity at seven-years follow-up in obstructive sleep 
+apnea patients. Chest 1990; 97:27–32 
+
+CHEST 
+/ 
+119/5/ 
+MAY, 
+2001 
+1399
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2001 American College of Chest Physicians 
+
+
+
+2 Davies RJO, Ali NJ, Stradling JR. Neck circumference and 
+other clinical features in the diagnosis of the obstructive sleep 
+apnoea syndrome. Thorax 1992; 47:101–105 
+
+3 Guilleminault C. Obstructive sleep apnea. Med Clin North 
+Am 1985; 69:1187–1203 
+
+4 Gaultier C. Obstructive sleep apnoea syndrome in infants and 
+children: established facts and unsettled issues. Thorax 1995; 
+50:1204–1210 
+
+5 Kiely JL, Deegan PC, McNicholas WT. Resolution of sleep 
+apnoea with growth in the Robin sequence. Eur Respir J 
+1998; 12:499 –501 
+
+6 Young T, Palta M, Dempsey J, et al. The occurrence of 
+sleep-disordered breathing among middle-aged adults. 
+N Engl J Med 1993; 328:1230–1235 
+
+7 Ali NJ, Pitson DJ, Stradling JR. Snoring, sleep disturbance, 
+and behavior in 4 –5 years olds. Arch Dis Child 1993; 
+68:360–366 
+
+8 Davies RJO, Stradling JR. The epidemiology of sleep apnoea. 
+Thorax 1996; 51(suppl 2):S65–S70 
+
+9 Diagnostic Classification Steering Committee. International 
+classification of sleep disorders: diagnostic and coding manual. 
+Rochester, MN: American Sleep Disorders Association, 
+1990 
+
+10 Marcus CL, Omlin KJ, Basinki DJ, et al. Normal polysomnographic 
+values for children and adolescents. Am Rev Respir 
+Dis 1992; 146:1235–1239 
+
+11 Rosen CL, D9Andrea L, Haddad G. Adult criteria for obstructive 
+sleep apnea do not identify children with serious 
+obstruction. Am Rev Respir Dis 1992; 146:1231–1234 
+
+12 Ng TP, Seow A, Tan WC. Prevalence of snoring and sleep 
+breathing-related disorders in Chinese, Malay and Indian 
+adults in Singapore. Eur Respir J 1998; 12:198–203 
+
+13 Corbo GM, Fuciarelli F, Foresi A, et al. Snoring in children: 
+association with respiratory symptoms and passive smoking. 
+BMJ 1989; 299:1491–1494 
+
+14 Marcus CL, Hamer AH, Loughlin GM. Natural history of 
+primary snoring in children. Pediatr Pulmonol 1998; 26:6–11 
+
+15 Lindberg E, Janson C, Svardsudd K, et al. Increased mortality 
+among sleepy snorers: a prospective population based study. 
+Thorax 1998; 53:631– 637 
+
+16 Sanchez-Armengol A, Cano-Gomez S, Capote-Gil F, et al. 
+Deteccio´ndelsi´ndrome deapneadelsuen˜o enunapoblacio´n 
+de conductores profesionales. An Med Interna (Madrid) 
+1997; 14:547–553 
+
+17 Corbo GM, Forastieri F, Agabiti N, et al. Snoring in children: 
+is it pathological? An epidemiologic study. [abstract]. Eur 
+Respir J 1999; S30:493S 
+
+18 Hoffstein V. Snoring. Chest 1996; 109:201–222 
+
+19 Teculescu DB, Caillier I, Perrin P, et al. Snoring in French 
+preschool children. Pediatr Pulmonol 1992; 13:239–244 
+
+20 Zamarron C. El ronquido y las enfermedades vasculares. An 
+Med Interna (Madrid) 1998; 15:669 – 671 
+
+21 Silvestri JM, Weese-Mayer DE, Bass MT, et al. Polysomnography 
+in obese children with a history of sleep-associated 
+breathing disorders. Pediatr Pulmonol 1993; 16:124 –129 
+
+22 Wang RC, Elkins TP, Keech D, et al. Accuracy of clinical 
+evaluation in pediatric obstructive sleep apnea. Otolaryngol 
+Head Neck Surg 1998; 118:69 –73 
+
+23 Sanchez-Armengol A, Capote-Gil F, Cano-Gomez S, et al. 
+Polysomnographic studies in children with adenotonsillar 
+hypertrophy and suspected obstructive sleep apnea. Pediatr 
+Pulmonol 1996; 22:101–105 
+
+24 Carskadon MA, Harvey K, Duke P, et al. Pubertal changes in 
+daytime sleepiness. Sleep 1980; 2:453– 460 
+
+25 Guilleminault C, Stoohs R. Obstructive sleep apnea syndrome 
+in children. Pediatrician 1990; 17:46 –51 
+
+26 Douglas NJ. How to reach a diagnosis in patients who may 
+have the sleep apnoea/hypopnoea syndrome. Thorax 1995; 
+50:883–886 
+
+27 Carmona-Bernal C, Garcia-Diaz E, Sanchez-Armengol A, et 
+al. Validez diagno´stica del sistema porta´til Apnoescreen II 
+para el diagno´stico del Si´ndrome de apneas obstructivas del 
+suen˜o (SAOS). Neumosur 1996; 8:2:89–93 
+
+28 Sanchez-Armengol A, Capote-Gil F, Cano-Gomez S, et al. 
+Tratamiento quiru´ rgico de la hipertrofia adenoamigadalar en 
+nin˜ os con trastornos respiratorios durante el suen˜ o: cambios 
+en el patro´n polisomnogra´fico. Arch Bronconeumol 1997; 
+
+33:124 –128 
+29 Acebo C, Millman RP, Rosenberg C, et al. Sleep, breathing, 
+and cephalometrics in older children and young adults: Part 1. 
+Normative values. Chest 1996; 109:664 – 672 
+
+30 Cartwright RD. Effect of sleep position on sleep apnea 
+severity. Sleep 1984; 7:110–114 
+
+31 Gislason T, Benediktsdottir B. Snoring, apneic episodes, and 
+nocturnal hypoxemia among children 6 months to 6 years old. 
+Chest 1995; 107:963–966 
+
+32 Warwick JP, Mason DG. Obstructive sleep apnoea syndrome 
+in children. Anaesthesia 1998; 53:571–579 
+
+33 Stradling JR, Crosby JH. Predictors and prevalence of obstructive 
+sleep apnea and snoring in 1001 middle-aged men. 
+Thorax 1991; 46:85–90 
+
+34 Moreno-Aznar LA, Fleta-Zaragozano J, Mur-de-Frenne L, et 
+al. Distribucio´n de la grasa en nin˜os y adolescentes de ambos 
+sexos. An Esp Pediatr 1998; 49:135–139 
+
+35 Kahn HS, Austin H, Williamson DF, et al. Simple anthropometric 
+indices associated with ischemic heart disease. J Clin 
+Epidemiol 1996; 49:1017–1024 
+
+36 Goldstein NA, Sculerati N, Walsleben A, et al. Clinical 
+diagnosis of pediatric obstructive sleep apnea validated by 
+polysomnography. Otolaryngol Head Neck Surg 1994; 111: 
+611– 617 
+
+37 Ali NJ, Pitson D, Stradling JR. Natural history of snoring and 
+related behavior problems between the ages of 4 and 7 years. 
+Arch Dis Child 1994; 71:74 –76 
+
+1400 
+Clinical 
+Investigations
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2001 American College of Chest Physicians 
+
+
+
+Sleep-Related Breathing Disorders in Adolescents Aged 12 to 16 Years
+
+*
+
+Angeles Sánchez-Armengol, María A. Fuentes-Pradera, Francisco 
+Capote-Gil, Emilio García-Díaz, Soledad Cano-Gómez, Carmen 
+Carmona-Bernal and José Castillo-Gómez 
+Chest 2001;119; 1393-1400 
+DOI 10.1378/chest.119.5.1393 
+
+
+This information is current as of February 20, 2009 
+
+& Services 
+Updated Information 
+http://www.chestjournal.org/content/119/5/1393.full.html 
+high-resolution figures, can be found at: 
+Updated Information and services, including 
+References 
+html#ref-list-1 
+http://www.chestjournal.org/content/119/5/1393.full. 
+accessed free at: 
+This article cites 33 articles, 14 of which can be 
+Citations 
+html#related-urls 
+http://www.chestjournal.org/content/119/5/1393.full. 
+articles: 
+This article has been cited by 4 HighWire-hosted 
+Open Access 
+option 
+Freely available online through CHEST open access 
+Permissions & Licensing 
+http://chestjournal.org/misc/reprints.shtml 
+(figures, tables) or in its entirety can be found online at: 
+Information about reproducing this article in parts 
+Reprints 
+http://chestjournal.org/misc/reprints.shtml 
+Information about ordering reprints can be found online: 
+Email alerting service 
+online article. 
+article. sign up in the box at the top right corner of the 
+Receive free email alerts when new articles cit this 
+format 
+Images in PowerPoint 
+format. See any online article figure for directions. 
+downloaded for teaching purposes in PowerPoint slide 
+Figures that appear in CHEST articles can be
+
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2001 American College of Chest Physicians 
+
+
+

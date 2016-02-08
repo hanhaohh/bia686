@@ -1,0 +1,1423 @@
+BEHAVIORAL SLEEP MEDICINE, 5:147–175, 2007 
+Copyright © Lawrence Erlbaum Associates, Inc. 
+ISSN: 1540-2002 print/1540-2010 online 
+DOI: 10.108/15402000701190671 
+
+Behavioral Training for Increasing 
+Preschool Children’s Adherence 
+With Positive Airway Pressure: 
+A Preliminary Study 
+
+
+Keith J. Slifer 
+
+Department of Behavioral Psychology 
+Kennedy Krieger Institute, and 
+Departments of Psychiatry and Pediatrics 
+Johns Hopkins University School of Medicine 
+
+
+Deborah Kruglak, Ethan Benore, Kimberly Bellipanni, 
+and Lori Falk 
+
+Department of Behavioral Psychology 
+Kennedy Krieger Institute, and 
+Department of Pediatrics 
+Johns Hopkins University School of Medicine 
+
+
+Ann C. Halbower 
+
+Department of Pediatrics 
+Johns Hopkins University School of Medicine 
+
+
+Adrianna Amari and Melissa Beck 
+
+Department of Behavioral Psychology 
+Kennedy Krieger Institute, and 
+Department of Psychiatry and Behavioral Sciences 
+Johns Hopkins University School of Medicine 
+
+
+Correspondence should be addressed to Keith J. Slifer, Department of Behavioral Psychology, 
+Kennedy Krieger Institute, 707 N. Broadway, Baltimore, MD 21205. E-mail: Slifer@ 
+Kennedykrieger.org 
+
+
+148 SLIFER ET AL. 
+
+Behavioral training was implemented to increase adherence with positive airway 
+pressure (PAP) in 4 preschool children. The training employed distraction, counter-
+conditioning, graduated exposure, differential reinforcement, and escape extinction. 
+A non-concurrent multiple baseline experimental design was used to demonstrate 
+program effects. Initially, the children displayed distress and escape–avoidance 
+behavior when PAP was attempted. With training, all 4 children tolerated PAP 
+while sleeping for age appropriate durations. For the 3 children with home follow-
+up data, the parents maintained benefits. The results are discussed in relation to 
+behavior principles, child health, and common barriers to PAP adherence. 
+
+Breathing disorders such as hypoventilation, hypercarbia, obstructive sleep apnea 
+(OSA), and central apnea are more likely to occur in children with developmental 
+disabilities. High-risk groups include children with adenotonsillar 
+hypertrophy, obesity, craniofacial anomalies, muscular dystrophy, cerebral palsy, 
+and some types of genetic disorders (e.g., Down syndrome, Prader–Willi syndrome, 
+etc.) (Carroll, 2003; Jeans, Fernando, Maw, & Leighton, 1981). Breathing 
+problems threaten children’s health, disturb their sleep, and may lead to or 
+exacerbate daytime behavior problems. They also may contribute to neurocognitive 
+impairment and diminished academic performance (American Academy 
+of Pediatrics, 2002; American Thoracic Society, 1996; Blunden, Lushington, 
+& Kennedy, 2001; Gozal, 1998; Halbower & Mahone, 2006). If left untreated, 
+breathing disorders can result in life-threatening complications such as cor pulmonale 
+(hypertrophy of the right ventricle of the heart) or failure to thrive. 
+
+OSA is estimated to occur in 1% to 3% of preschool children and is thought 
+to occur equally among boys and girls (American Thoracic Society, 1996). OSA 
+can be seen from the neonatal period forward, but the peak prevalence is thought 
+to be between 2 and 6 years of age when the tonsils and adenoids are the largest 
+in relation to the underlying airway size (Jeans et al., 1981). Adenotonsillectomy 
+is the first line of treatment for most children with adenotonsillar hypertrophy; 
+however, some children continue to experience symptoms after surgery (Lipton 
+& Gozal, 2003). For the children who do not respond to surgery or those who 
+are not candidates for the surgery (e.g., those who have other predisposing 
+factors for OSA, those with hypoventilation due to lung disease, and those with 
+central hypoventilation), alternative treatments are required. The most frequently 
+recommended alternative treatment option is positive airway pressure (PAP) 
+therapy (American Academy of Pediatrics, 2002). PAP has been demonstrated 
+to be a safe and effective option for children with OSA or other breathing 
+disorders (Marcus et al., 1995). 
+
+There are two major types of PAP devices: continuous PAP (CPAP) and bilevel 
+PAP. CPAP is the continuous delivery of air at constant pressure during 
+both inhalation and exhalation. Bi-level PAP differs from CPAP in that the 
+pressure during exhalation may be set lower than the pressure during inhalation. 
+
+
+BEHAVIORAL TRAINING FOR PAP 149 
+
+Bi-level PAP decreases the work of inhalation without requiring more work 
+during exhalation. Both CPAP and bi-level PAP are effective treatments for 
+OSA (Marcus et al., 2006). However, CPAP is most commonly used to treat 
+OSA, and bi-level PAP is used to help ventilate children with hypoventilation 
+(e.g., due to low lung volumes) or central hypoventilation (e.g., children with 
+brain tumors or Prader–Willi syndrome). Bi-level PAP is used for patients with 
+OSA if it makes them more comfortable than CPAP. 
+
+For either type of PAP to be effective, the patient must breathe through a 
+snug-fitting mask during the hours of sleep. This can be particularly difficult for 
+children with developmental disabilities and for those with anxiety or behavioral 
+problems (Koontz, Slifer, Cataldo, & Marcus, 2003). These children often 
+verbally and physically resist attempts to put on the mask (e.g., head turns, and 
+using hands to cover face or push away the mask). They also may develop conditioned 
+anxiety because the sight, sound, and sensation of PAP are associated 
+with discomfort from the mask, or physiologic arousal from struggling, or both 
+(Koontz et al., 2003). A 1995 study examining the safety and efficacy of CPAP 
+with children found that when CPAP was not effective, it was because of poor 
+adherence in 92% of unsuccessful cases (Marcus et al., 1995). 
+
+Previous studies have demonstrated the utility of behavior analysis and therapy 
+for increasing child adherence and coping with painful or uncomfortable 
+medical procedures such as gynecological exams (Dahlquist, Gil, Kalfus, Blount, 
+& Boyd, 1984), tracheostomy suctioning and care (DeRowe, Fishman, Leor, & 
+Kornecki, 2003; Derrickson, Neef, & Parrish, 1991; Slifer, Babbitt, & Cataldo, 
+1995), self-catheterization (McComas, Lalli, & Benavides, 1999; Neef, Parrish, 
+Hannigan, Page, & Iwata, 1989), neuroimaging (Slifer, Cataldo, Cataldo, 
+Llorente, & Gerson, 1993; Slifer, Koontz, & Cataldo, 2002), radiation therapy 
+(Hawkins, 1991; Slifer, 1996; Slifer, Bucholtz, & Cataldo, 1994), and needle 
+sticks (Dahlquist, 1992; Slifer et al., 1995; Slifer, Eischen, & Busby, 2002; 
+Slifer, Eischen, Tucker, et al., 2002; Slifer, Tucker, & Dahlquist, 2002). 
+
+Only one study has demonstrated behavioral methods for increasing children’s 
+adherence with PAP therapy (Koontz et al., 2003). The clinical outcome 
+data from that study supported the utility of behavior analysis and therapy for 
+improving PAP adherence, thereby facilitating effective clinical management of 
+OSA (Koontz et al., 2003). Although Koontz et al. included some children with 
+developmental disabilities, the children who achieved the greatest increases in 
+mean hours per night of PAP adherence (e.g., >5.0 hr per night) were those reported 
+to have higher levels of estimated cognitive functioning. In only one case 
+was a mean increase in adherence of greater than 5 hr per night achieved by a 
+child with mental retardation. For the one other child with mild mental retardation 
+and the three children with moderate to severe mental retardation, the mean 
+increase in hours of adherence per day ranged from 4.0 to 5.0. The Koontz et al. 
+study also was based on a non-experimental analysis of retrospective clinic data. 
+
+
+150 SLIFER ET AL. 
+
+The purpose of this study was to employ repeated measures and single-
+participant experimental methods to evaluate prospectively the effects of a multi-
+component behavior therapy protocol on the PAP adherence of 4 preschool age 
+children with developmental problems, serious health impairments, and pronounced 
+behavioral distress in response to PAP. 
+
+The dependent measures for the study were (a) the percentage of steps in the 
+PAP task-analysis that were completed during each observed PAP administration, 
+and (b) PAP adherence defined as the number of hours per day that the PAP 
+equipment was worn by the child. It was hypothesized that the implementation 
+of the behavior therapy protocol would significantly increase both the percentage 
+of steps completed and the number of hours per day of PAP for all 4 targeted 
+children. 
+
+The 4 children were selected because their behavioral distress and attempts 
+to escape the PAP mask and equipment were especially challenging. These were 
+children who were referred because of their severe behavioral reaction to the 
+PAP mask and airflow during initial attempts to conduct polysomnography or to 
+initiate PAP therapy. The techniques comprising the behavior therapy protocol 
+included (a) conducting a task analysis of the regimen; (b) providing distraction 
+from uncomfortable sensations using preferred activities; (c) counterconditioning 
+emotional arousal by providing preferred activities to induce a relaxed, positive 
+state; (d) maintaining the child’s positive state while gradually exposing him or 
+her to the steps in the task analysis and the associated sensations; (e) differential 
+reinforcement of partial adherence by providing contingent praise and positive 
+events (mask removal by the therapist after a given interval of child adherence, 
+provision of preferred activities, or prizes); and (f) placing escape–avoidance behavior 
+on extinction (by interrupting, blocking, or redirecting these behaviors). 
+This “package” of procedures is similar to those described by Koontz et al. 
+(2003). The 4 children in this study were young (M 
+age = 
+3.1 years, range = 
+3.25–5.25 years), had developmental delays, and had serious health impairments 
+(e.g., obesity, cor pumale, diabetes, reactive airway disease, lung hypoplasia, status 
+post craniopharyngioma resection). In all 4 cases initial clinical observation 
+indicated that the children did not consistently comply with parental instructions. 
+Three of the 4 children had been admitted to a rehabilitation hospital for medical 
+and behavioral intervention, and the fourth had in-home nursing services 
+to assist with his medical monitoring and care. Only 1 of the children in the 
+Koontz et al. study was as medically compromised (a 3-year-old with chronic 
+heart and lung failure). PAP adherence was not successfully increased for that 
+child because the family did not employ the procedures recommended and did 
+not return for behavior therapy services. The child was listed as deceased in the 
+Koontz et al. report. 
+
+Thus, the purpose of this study was to acquire additional information on 
+the benefits and limitations of behavior therapy for improving PAP adherence 
+
+
+BEHAVIORAL TRAINING FOR PAP 151 
+
+in young, developmentally delayed, and significantly health-impaired children; 
+thereby potentially supplementing the results previously published by Koontz 
+et al. (2003). We present the behavioral conceptualization, case histories, and 
+procedural details for these 4 challenging cases to offer to other practitioners 
+information that might help them successfully address the PAP adherence 
+of their young patients with similar developmental, medical, and behavioral 
+characteristics. 
+
+METHOD 
+
+Participants 
+
+Four children participated in behavioral training to increase adherence with bilevel 
+PAP therapy. Three of the participants were treated during an inpatient 
+rehabilitation stay in an urban pediatric hospital for children with disabilities. 
+The fourth (Ernie) was treated on an outpatient basis at the same hospital. Table 1 
+provides detailed demographic and medical variable data for the 4 children and 
+their families. 
+
+Indigo is a 5-year and 3-month-old African American girl who is diagnosed 
+with central hypoventilation, narcolepsy, diabetes, visual impairment, memory 
+impairment, and labile affect following surgical resection of a craniopharyngioma. 
+Her central hypoventilation had been discovered during her recovery 
+after her surgery. One polysomnography was attempted, but was unsuccessful, 
+prior to the initiation of behavioral training for bi-level PAP adherence. During 
+the first two nights of her inpatient stay, nursing staff had presented the 
+PAP mask and prompted Indigo verbally and manually in an attempt to put the 
+mask in place. Usual nursing care to praise cooperative behavior was provided, 
+but no systematic reinforcement contingency was in effect. Indigo verbally and 
+physically refused the bi-level PAP mask with crying, distress vocalizations, 
+and attempts to block or hit care providers (or both). Her visual impairment, 
+abnormal sleep pattern, developmental status, anticipatory anxiety, and the uncomfortable 
+nature of multiple daily demands (e.g., finger sticks, wheelchair 
+transfers, and physical therapy) appeared to contribute to Indigo’s anticipatory 
+anxiety, behavioral variability, and nonadherence. 
+
+Buzz is a 3-year and 3-month-old morbidly obese African American boy with 
+reactive airway disease, obesity, and borderline insulin resistance. He presented 
+with snoring, paradoxical breathing patterns, restlessness, sleep arousals, nasal 
+congestion, abnormal sleep position, sweating, reflux, drooling, and enuresis. He 
+underwent one polysomnography evaluation prior to the initiation of behavior 
+therapy for bi-level PAP adherence. Sufficient data were obtained to diagnose 
+his breathing problems and to prescribe bi-level PAP. He was admitted to inpatient 
+rehabilitation for adherence training for bi-level PAP and weight reduction. 
+
+
+TABLE 1Child and Family Demographic and Medical Data
+
+PSG on Room Air
+
+Primary
+
+with no PAP With PAP 
+
+BodyPrimaryCaregivingNo. ofAgeWeightPAPCaregivingParent’sOtherNo. of(Years–Kg/PercentileSettingsPETCO2Parent’sYears ofChildrenParentsIncomeChild Month) Race Sex Diagnoses for Age AHI LowSaO2 PETCO2 (cm H2O) AHI LowSaO2 (mmHg) Age Education in Home in Home Level 
+
+Indigo 5–3 AA Girl S/p craniopharyngioma35.9/97th 11.3 71% 61 12/6 0.1 87 65 28 16 One Two Moderate 
+
+resection, central
+
+hypoventilation;
+
+narcolepsy, diabetes,
+
+visual and memory
+
+problems 
+Buzz 3–3 AA Boy Obesity, OSA, RAD,47.4/99th 13.3 71% 64 8/6 4 80 58 28 <12 Two One Low 
+
+borderline insulin
+
+resistance 
+Trevor 3–5 AA Boy Prader–Willi syndrome,36.8/99th Severe OSAa 82% 60 20/10 0.4 88 60 35 12 Four Two Low 
+
+OSA, cor pulmonale,
+
+DD 
+Ernie 3–3 C Boy Renal agenesis, lung12.3/5th Hypo-86% 73 12/4 0.0 93 63 40 12 One Two Moderate 
+
+hypoplasia,ventilation
+
+hypoventilation:0.0 
+
+hypercarbia, vertebral
+
+anomalies, scoliosis,
+
+failure to thrive,
+
+language delay 
+
+Note.AA 
+= 
+African American; AHI 
+= 
+apnea–hypopnea index; C 
+= 
+Caucasian; cm H2O 
+= 
+centimeters of water; Low SaO2 
+= 
+lowest oxygen saturation during PSG; PETCO2 
+= 
+end-tidal carbon dioxide pressure;
+mmHg 
+= 
+millimeters of mercury; OSA 
+= 
+obstructive sleep apnea; PSG 
+= 
+polysomnography; RAD 
+= 
+reactive airway disease; DD 
+= 
+developmental delay; PAP 
+= 
+positive airway pressure.
+
+aDescription from PSG done at referring institution; no specific value available. 
+
+
+BEHAVIORAL TRAINING FOR PAP 153 
+
+After bi-level PAP was prescribed, his mother made no attempt to use bi-level 
+PAP with Buzz prior to his admission to the hospital and the initiation. Prior 
+to the initiation of behavior therapy, the nursing staff made several attempts 
+to administer PAP, and Buzz responded with distress behavior and attempts to 
+physically escape the mask. 
+
+Trevor is a morbidly obese, developmentally delayed 3-year and 5-month-old 
+African American boy who is diagnosed with Prader–Willi syndrome, obesity, 
+cor pulmonale, and developmental delay. He was referred for admission to our 
+pediatric rehabilitation hospital from the pediatric intensive care unit at another 
+hospital where he had been admitted on four different occasions for reactive 
+airway disease and acute respiratory distress. At 2 years of age, his mother 
+reported him to have restless sleep and snoring. Two different attempts were 
+made to conduct polysomnography at the referring hospital. These attempts 
+produced enough data to diagnose OSA and led to a tonsilloadenoidectomy, but 
+this did not resolve the OSA. Consequently, treatment with bi-level PAP was 
+recommended. During one outpatient pediatric pulmonary clinic visit, Trevor’s 
+percentage oxygen saturation level had been measured in the low 80s. When he 
+was admitted to the pediatric intensive care unit, his oxygen saturation levels 
+increased to the mid to upper 90s after 1 or 2 days of bi-level PAP. According 
+to parental report, Trevor refused to comply with bi-level PAP after he was 
+discharged to his home. When attempts were made to apply the bi-level PAP 
+mask, he demonstrated verbal refusal, crying, head turning, blocking attempts 
+to place the mask, and running away. Therefore, Trevor was admitted to our 
+inpatient rehabilitation unit for bi-level PAP adherence training as well as weight 
+reduction. 
+
+Ernie is a 3-year and 3-month-old Caucasian boy who was diagnosed with 
+several medical anomalies at birth including right renal agenesis, right lung hypoplasia, 
+absent right rib and kidney, vertebral anomalies, scoliosis, and failure 
+to thrive. He had hypercarbia due to his lung disease, and he also had delayed 
+expressive language development. His mother received day and evening nursing 
+assistance, and the assigned nurse accompanied Ernie and his mother to outpatient 
+sessions to participate in the behavioral training. According to parent 
+report, Ernie had demonstrated anxious behaviors associated with wearing the 
+bi-level PAP mask during the initial attempt at conducting a sleep study when he 
+reacted with numerous disruptive behaviors (i.e., screaming, crying, and pushing 
+away the mask). Although Ernie also engaged in disruptive behaviors during a 
+second sleep study, enough results were obtained to allow a treatment decision. 
+Ernie’s parents did not attempt to use the mask at night following the sleep study. 
+Therefore they were instructed to seek outpatient behavior therapy services for 
+bi-level PAP adherence training. On initial evaluation for outpatient services, 
+parents reported that Ernie would cry and begin to have a tantrum whenever he 
+
+
+154 SLIFER ET AL. 
+
+saw the bi-level PAP device, so they hid it at home and never used it because 
+they did not want to upset him. 
+
+Setting and Materials 
+
+Master’s level behaviorally trained therapists under the supervision of a pediatric 
+psychologist with expertise in applied behavior analysis treated each of the 
+children. For Indigo, Buzz, and Trevor, all training sessions were conducted in 
+their rehabilitation hospital rooms. For Ernie, who was treated on an outpatient 
+basis, sessions were conducted in clinic room at the same pediatric rehabilitation 
+hospital. 
+
+Measurement 
+
+Adherence with PAP therapy was assessed and recorded using the PAP task 
+analysis published by Koontz et al. (2003), which breaks the behavior required 
+for adherence into an ordered sequence of component steps (see Table 2). Child 
+adherence was scored for each step that the child completed within 10 sec of 
+the verbal prompt, with or without assistance and without escape–avoidance 
+behavior. The percentage of steps of the task analysis during which the child 
+was compliant was calculated as follows: the number of steps with adherence, 
+divided by the total number of steps in the task analysis, multiplied by 100. 
+Adherence data in terms of hours of use were obtained from written records 
+kept by nursing staff, one-to-one behavioral aides or parents. Twenty-four hour 
+data sheets with 1-hr time intervals were completed by inpatient nurses or assigned 
+behavioral rehabilitation assistants (for Indigo, Buzz, and Trevor) or 
+the parent or home nurse (for Ernie). For each time block, whether the child 
+was asleep and wearing the bi-level PAP was recorded. Ernie’s mother also 
+recorded the number of hours cumulated on the time monitor of his bi-level PAP 
+machine. 
+
+During follow-up, Indigo’s mother recorded what time the mask was placed 
+and what time the child fell asleep with the mask on each night. In the morning, 
+she recorded what time the child awakened and whether the mask was still in 
+place when she went to remove it. Similarly, after discharge from the rehabilitation 
+unit, Trevor’s parents recorded the number of hours the PAP was worn and 
+the number (if any) of removals of the mask by the child requiring the parent to 
+replace it. The parents were alerted to mask removals by the monitor alarm on 
+the PAP machine (Indigo, Buzz, and Trevor) or the low oxygen saturation limit 
+alarm on the child’s pulse oximeter (Ernie). The follow-up data were provided 
+to the therapists who made telephone inquiries (daily at first, and then weekly, 
+bi-weekly, and monthly). 
+
+
+BEHAVIORAL TRAINING FOR PAP 155 
+
+TABLE 2 
+Bilevel Positive Airway Pressure (PAP) Task Analysis 
+
+No. 
+Action 
+
+1. 
+The child sits on the bed or stretcher. 
+2. 
+The child cooperates with having the Bilevel PAP cap placed on the back of head. 
+3. 
+The child lies in the supine position on the bed–stretcher. 
+4. 
+The child remains supine and calm while the mask (not attached to the hose or cap) is placed 
+in position on the face for 5 sec. 
+5. 
+The child remains supine and calm while the mask (not attached to the hose or cap) is placed 
+in position on the face for 10 sec. 
+6. 
+The child remains supine and calm while the mask (not attached to the hose or cap) is placed 
+in position on the face for 1 min. 
+7. 
+The child remains supine and calm while one side of the mask is attached to the cap. (Prior 
+to next step, the mask will need to be connected to the tube and the tube will need to be 
+connected to the machine.) 
+8. 
+The child remains supine and calm while the mask (attached to the hose and one side of the 
+cap) is placed in position on the face and while the air is turned on for 3 sec. 
+9. 
+The child remains supine and calm while the mask (attached to the hose and one side of the 
+cap) is placed in position on the face and while the air is turned on for 5 sec. 
+10. 
+The child remains supine and calm while the mask (attached to the hose and one side of the 
+cap) is placed in position on the face and while the air is turned on for 10 sec. 
+11. 
+The child remains supine and calm while the mask (attached to the hose and one side of the 
+cap) is placed in position on the face and while the air is turned on for 1 min. 
+12. 
+The child remains supine and calm while the mask is placed in position on the face and is 
+connected to the cap on both sides for 1 min. 
+13. 
+The child remains supine and calm while the mask (attached to hose and both sides of the 
+cap) is placed in position on the face and while the air is turned on for 1 min. 
+14. 
+The child remains supine and calm while the mask (attached to hose and both sides of the 
+cap) is placed in position on the face and while the air is turned on for 5 min. 
+15. 
+The child remains supine and calm while the mask (attached to hose and both sides of the 
+cap) is placed in position on the face and while the air is turned on for 10 min. 
+16. 
+The child remains supine and calm while the mask (attached to hose and one side of the cap) 
+is placed in position on the face and while the air is turned on for 15 min. 
+Reprinted with permission from: Koontz, K. L., Slifer, K. J., Cataldo, M. D., & Marcus, C. L. 
+(2003). Improving pediatric compliance with positive airway pressure: The impact of behavior 
+intervention. Sleep, 26(8), 1010–1015. 
+
+Assessment of the Fit and Comfort of the PAP Mask 
+
+Before commencing behavioral therapy for PAP adherence, each child was evaluated 
+by a nurse, respiratory therapist, and the behavior therapist to determine if 
+the child’s mask fit properly and if there was evidence of pressure marks on the 
+skin or air leaks into the eyes causing unnecessary discomfort to the child. If so, 
+appropriate modifications were made. For example, for Indigo a petite size “gel 
+mask” was obtained as well as an appropriate spacer, a medium soft cap, and 
+
+
+156 SLIFER ET AL. 
+
+heated humidification of the air from the PAP machine. In addition a machine 
+with a delayed pressure “ramp up” function was employed. Similarly, Buzz was 
+switched to a gel mask, and for Ernie and Trevor several mask options were 
+tried until the respiratory therapist accomplished the most optimal fit possible. 
+
+Behavioral Conceptualization, Terms, and Techniques 
+(See Appendix A for a Glossary of Behavioral Terms) 
+
+To increase adherence with PAP, young children must learn to relax and tolerate 
+the novel and moderately uncomfortable stimulation involved with the regimen. 
+When children experience uncomfortable or aversive stimulation, they instinctively 
+attempt to withdraw from its source, physically escape its proximity, and 
+avoid contact with it in the future. If the experience is intense enough during 
+a single exposure, or repeated frequently enough, the child may develop conditioned 
+autonomic nervous system arousal (a.k.a. conditioned anxiety) when 
+exposed to stimuli (sights, sounds, and smells) that have been associated with 
+the aversive stimulation. They often develop a conditioned avoidance response 
+such that whenever the stimuli associated with aversive stimulation are encountered, 
+the child not only becomes physiologically aroused but also attempts to 
+physically avoid the situation. It is common for children to fall back on a whole 
+class of escape–avoidance motivated behaviors when they perceive an aversive 
+stimulus to be imminent. Such behavior may include crying, running, hitting, 
+kicking, spitting, head turning, pushing away, and so forth. Well-intended caregivers 
+typically respond to these behaviors by attempting to comfort, coax, or 
+reason with the child to obtain adherence. Some caregivers learn to avoid the 
+child’s distress and disruptive behavior by removing or protecting (or both) the 
+child from the threatening situation. This is ordinarily an adaptive parenting response, 
+but it is counterproductive with respect to obtaining child adherence with 
+a medical regimen. In these ways both child and parent behaviors are motivated 
+by their escape–avoidance function. 
+
+Caregivers attempting to implement PAP typically react to child distress by 
+trying to calm the child (lengthy verbal explanations, coaxing, apologies, and 
+expressions of affection) and removing the mask in response to child distress 
+(either temporarily or for the rest of the night). This can inadvertently strengthen 
+the distress and escape–avoidance behavior. With repetition of this parent–child 
+interaction pattern, the child can develop an elaborate and persistent repertoire 
+of distress and disruptive behavior in response to the mask, which defeats the 
+caregiver’s willingness to persist with the regimen. Therefore, the goal of behavioral 
+intervention is to decrease or eliminate the escape–avoidance function of 
+the distress and disruptive behavior, and to positively reinforce approximations 
+of adherence with wearing the mask. 
+
+
+BEHAVIORAL TRAINING FOR PAP 157 
+
+Assessment, Training, and Intervention Procedures 
+
+Baseline—Behavioral and reinforcer assessments. Each child was observed 
+during one or two PAP placement attempts at either naptime or bedtime, 
+and initial adherence data were obtained. During this session, the therapist also 
+obtained information about the child’s favorite activities that might be used to 
+relax, distract, and motivate the child (e.g., snacks, bubbles, videogames, movies, 
+singing, small rewards, etc.). 
+
+The behavioral interventions applied in this study (outlined in Table 3) involve 
+three general procedures: counterconditioning, escape prevention (a.k.a. “escape 
+extinction”), and teaching (a.k.a. “shaping”) cooperative behavior. 
+
+Counterconditioning. Children may cry, scream, block the placement of 
+the mask, or try to escape the procedure—all indicating that the child perceives 
+some aspect of the procedure (usually the fit of the mask or the sensation of the 
+air pressure) as uncomfortable and anxiety inducing. During counterconditioning, 
+the child’s conditioned anxiety is treated by carefully planned, graduated 
+exposure to the mask, equipment, and air pressure while the child participates 
+in a distracting, pleasurable activity. The activity must be one that produces an 
+
+TABLE 3 
+Summary of Behavioral Techniques Employed to Increase Adherence with Positive Airway 
+Pressure (PAP) (See Appendix A for More Explanation) 
+
+
+No. 
+Technique 
+
+1. 
+Positive reinforcement: providing a preferred item or activity contingent on a target behavior 
+one wishes to strengthen. 
+2. 
+Negative reinforcement: removing an aversive or non-preferred item or activity contingent on 
+a target behavior one wishes to strengthen. 
+3. 
+Differential reinforcement: providing a reinforcer in response to behaviors one wishes to increase, 
+but not in response to those one intends to decrease. 
+4. 
+Reinforcer assessment: determining effective consequences for strengthening behavior for a 
+particular individual. 
+5. 
+Task analysis: breaking a complex behavior or task into component steps, presenting them one 
+step at a time, and documenting how many of the steps can be accomplished without formal 
+behavioral intervention. 
+6. 
+Counterconditioning: modifying conditioned anxiety by carefully planned, graduated exposure 
+to the feared or non-preferred stimulus while engaging the patient in a distracting, relaxing, or 
+otherwise pleasurable activity. 
+7. 
+Shaping: using differential reinforcement to teach successive approximations of a target behavior. 
+8. 
+Escape prevention (escape extinction): blocking the patient’s escape from a feared or non-
+preferred stimulus, thereby weakening the escape behavior that has been maintained by negative 
+reinforcement. 
+
+158 SLIFER ET AL. 
+
+emotional state that is incompatible with anxiety (i.e., pleasure and relaxation). 
+Once the child appears relaxed and to be enjoying the activity, gradual exposure 
+to PAP equipment is accomplished by slowly increasing the child’s proximity 
+to the equipment and the duration of contact with the mask, air pressure, and 
+so forth. 
+
+Shaping. As the child experiences reduction of anxiety and exhibits fewer 
+avoidant responses to the procedure through counterconditioning, compliant behaviors 
+can be strengthened using differential reinforcement of successive approximations. 
+Differential reinforcement refers to providing preferred items or 
+events in response to those behaviors to be increased in frequency (e.g., adherence), 
+but not in response to those ones intended to decrease (e.g., pushing away 
+the mask). As the child demonstrates less avoidance and greater adherence, task 
+difficulty or duration (or both) can be gradually increased. Then the child will be 
+able to progress through more steps of the task-analyzed regimen. The achievement 
+of adherence at each level of the task analysis increases the frequency 
+with which the child experiences success without feeling overwhelmed by any 
+discomfort involved. 
+
+During the procedure referred to as escape prevention (escape extinction), 
+caregivers are taught to block or prevent the child’s escape–avoidance by using 
+brief verbal prompting, redirection to a specific activity or task, and if necessary 
+physically blocking escape while gently guiding the child to remain in 
+the situation. The child’s attempts to block or remove the mask must be physically 
+interrupted, and the mask must be immediately replaced every time the 
+child successfully removes it. When teaching a child to adhere to a PAP regimen, 
+escape prevention is used in conjunction with the counterconditioning and 
+differential reinforcement procedures described previously. By blocking escape 
+behavior, the caregiver enables the child to experience each step of the task 
+analysis, whereas also having positive experiences (e.g., distraction, relaxation, 
+and reinforcement). 
+
+Treatment consisted of behavioral rehearsal sessions during which PAP equipment 
+and application were presented one step at a time according to the sequence 
+outlined in the PAP task analysis (Table 2). Each child had demonstrated evidence 
+of conditioned anxiety and escape-motivated disruptive behaviors in response 
+to attempts to implement the PAP regimen. Therefore, treatment procedures 
+were presented at a challenging rate, but not so as to over-arouse the child. 
+This process created a neutral, safe environment for learning. It also allowed 
+the child to experience immediate success with initial steps in the PAP routine. 
+Furthermore, it helped to develop positive momentum for greater probability 
+of adherence during subsequent sessions when duration of exposure, proximity 
+to equipment, and discomfort were increased. Each child was first prompted to 
+lie or sit on the bed. The therapist then employed distraction using the child’s 
+
+
+BEHAVIORAL TRAINING FOR PAP 159 
+
+preferred activities (e.g., singing, bubbles, movies, etc.) to decrease the child’s 
+attention to PAP-related stimuli with the goal of decreasing the child’s perception 
+of any unavoidable uncomfortable sensations. The preferred activity also 
+provided an antecedent intervention to increase the child’s relaxation and willingness 
+to approach the therapist and training environment, rather than attempting 
+to avoid or escape them with disruptive behavior. The therapist then gradually 
+exposed the child to the sensations caused by the PAP equipment and therapy 
+while prompting the child to continue participating in the preferred activity. The 
+therapist ignored any negative vocalizations or avoidance behaviors (or both) 
+during the procedure. The therapist intermittently reassured the child (e.g., “You 
+can do it. You will be OK”). To teach the child that attempts to remove the 
+mask would no longer be successful (escape extinction) and to increase tolerance 
+of PAP, any attempts to remove the mask were physically interrupted, and 
+the child’s hands were directed away from the mask and toward the distracting 
+activity. The therapist consistently provided reinforcement (e.g., enthusiastic 
+verbal praise and stickers) contingent on calm adherence with steps in the PAP 
+routine. The child progressed gradually through the hierarchy of steps on the 
+PAP task analysis. Earned stickers were exchanged at the end of the training 
+session for a tangible reward (e.g., prize, appropriate snack, or playing a game 
+with the therapist). After the child was able to comfortably tolerate each step of 
+the task analysis during behavioral rehearsal sessions, treatment efforts focused 
+on the increasing duration of wearing the PAP at night. 
+
+Caregiver Training and Procedures for 
+Adherence Promotion 
+
+Parents and other available caregivers were also assisted in developing a consistent 
+and minimally changing bedtime routine lasting approximately 30 min 
+prior to bedtime that included soothing activities and always culminated with 
+donning the PAP and lying down in bed to go to sleep. The therapist for each 
+child also provided direct training on the intervention procedures to the assigned 
+nurses for hospitalized patients (Indigo, Buzz, and Trevor), for the caregiving 
+parent or parents (all 4 children), and for several home health nurses (only available 
+for Ernie). Important caregiver training considerations are listed in Table 4. 
+Specifically, therapists demonstrated (modeled) each intervention technique, including 
+giving developmentally appropriate instructions, use of distraction, differential 
+positive reinforcement, and escape extinction. Parents and staff were 
+taught to implement the behavioral intervention using demonstrations, verbal 
+and written instructions, role play, in vivo behavioral rehearsal with the child, 
+and provision of corrective verbal feedback. For the 3 children who were inpatients 
+(Indigo, Buzz, and Trevor), the number of parent training sessions varied 
+depending on the parents’ hospital visitation schedule; availability for training 
+
+
+160 SLIFER ET AL. 
+No. 
+TABLE 4 
+Caregiver Training Considerations 
+Question 
+
+1. 
+Does the parent have effective child behavior management skills in general? 
+2. 
+Are their practical barriers to parent training such as lack of transportation, lack of child care 
+for other children in the family, difficulty getting time off work, or living distance from clinic? 
+3. 
+Does that parent have assistance from other family members with implementing the behavioral 
+intervention procedures at home (particularly during the night)? 
+4. 
+Does the caregiver have cognitive deficits, memory impairment, or medical or mental health 
+problems that might interfere with learning and implementing the behavioral protocol? 
+5. 
+Are in-home behavior or nursing services needed (or both), and is there funding for these 
+services? 
+6. 
+Is the parent willing and able to participate in a process of ongoing behavioral intervention, 
+parent training, and problem solving over repeated sessions? 
+7. 
+Does the caregiver fully comprehend the health risks and potential consequences of nonadherence 
+with PAP? 
+8. 
+Is the caregiver willing and able to tolerate seeing the child temporarily in distress to obtain 
+long-term medical, cognitive, and behavioral benefits for the child? 
+sessions; and involved 7, 5, and 10 sessions, respectively. Because Ernie was 
+seen as an outpatient with his mother and home health nurse, parent or nurse 
+education and training (or both) were provided to some degree during each of 
+the 53 outpatient clinic visits (bi-weekly, weekly, monthly, and then bi-monthly). 
+Ernie was the only 1 of the 3 participants who had resources available to fund 
+in-home nursing both before and after behavioral intervention. However, these 
+services were available primarily during the day shift and only intermittently 
+at night. Therefore, implementing the bi-level PAP and behavioral procedures 
+was primarily the mother’s responsibility at night, as was the case for the other 
+3 children. Both the mother and stepfather were trained for Indigo; the mother, 
+father, and one grandparent were trained for Trevor; but only the mother was 
+trained for Buzz, because no other caregivers were available to assist his mother 
+after his discharge from the rehabilitation hospital. 
+
+Experimental Design 
+
+A single-participant experimental design was used to evaluate the efficacy of behavioral 
+training. Specifically, a prospective, repeated measure, non-concurrent 
+multiple baseline across 4-participants design was employed. This design allowed 
+us to select four consecutive cases that met the following characteristic: 
+
+(a) between 36 and 72 months of age; (b) has congenital or acquired developmental 
+delay; (c) already has compromised health status related to or exacerbated 
+by OSA; and (d) has been prescribed, but is not currently adherent with, a PAP 
+
+BEHAVIORAL TRAINING FOR PAP 161 
+
+regimen. There were no other children meeting all of these same criteria during 
+the same 2-year time period who were targeted for study, but subsequently failed 
+or dropped out. The non-concurrent multiple baseline design (also sometimes 
+called a moving treatment design) is a hybrid that includes the features of a 
+case series with an A–B (baseline–intervention) sequence replicated across several 
+participants. One advantage of the traditional multiple baseline design over 
+a case series is the inclusion of varying numbers of baseline observations. This 
+allows the investigator to document that similar behavior change is observed 
+in each participant only after the change from baseline to treatment conditions 
+(Hayes, 1981; Watson & Workman, 1981). In a standard multiple-baseline design, 
+two or more participants enter a study at approximately the same time 
+for baseline assessment. After baseline assessment, one participant then begins 
+treatment, whereas the others continue to be observed under baseline conditions. 
+After a time delay, the second participant enters treatment, and baseline measures 
+continue for any remaining participants. They too subsequently enter treatment 
+after a time delay. Sequential replications across participants demonstrate that 
+participants’ behavior changes only when treatment is in effect, thereby supporting 
+the hypothesis that the treatment caused the change. 
+
+In a non-concurrent multiple baseline design, the requirement that each participant 
+begins baseline at approximately the same time is relaxed. This makes it 
+possible to use data from several participants seen at different times, but requires 
+that their baseline phases are of different lengths. When treatment effects are 
+replicated in different cases, seen at different times, after baselines of different 
+durations, arguments that the observed change in behavior occurred due to some 
+confounding variable other than treatment can be considered more improbable. 
+
+RESULTS 
+
+Figure 1 presents data on the percentage of steps in the task analysis completed 
+per session for Ernie. This figure illustrates how the percentage of steps measure 
+was used to document child adherence while gradually increasing exposure to 
+the equipment and duration of the PAP. Figure 2 displays data on the total hours 
+per night of wearing the PAP equipment across baseline and treatment conditions 
+for the 4 children, respectively. In addition to visual inspection and comparison 
+of the single-participant data across baseline and behavioral intervention conditions, 
+the data also were analyzed using one-participant t 
+tests in which the mean 
+steps completed and the mean hours of PAP use during behavioral intervention 
+were compare to their baseline levels of zero percentage of steps and 0 hr of 
+use, respectively. The results of these analyses indicate a significant difference 
+between baseline and treatment conditions for both percentage of steps completed 
+(baseline assessment = 
+0%, M 
+treatment percentage = 
+90.5, SD 
+= 
+6.7), 
+
+
+162 SLIFER ET AL. 
+
+
+FIGURE 1 Percentage of steps in the task analysis completed per session by Ernie. This 
+figure illustrates how the percentage of steps measure was used to document child adherence 
+while gradually increasing exposure to the equipment and duration of the positive airway 
+pressure. 
+
+t(3) 
+= 
+26.74, p 
+= 
+.000, and number of hours per day of PAP adherence 
+(baseline assessment = 
+0, M 
+treatment = 
+8.0 hr, SD 
+= 
+1.86), t(3) 
+= 
+8.63, 
+p 
+= 
+.003, respectively. 
+
+Indigo 
+
+The top panel of Figure 2 shows the data on hours of use per day for Indigo. 
+During baseline assessment she verbally and physically refused the PAP mask 
+with crying, distress vocalizations, and attempts to block or hit (or both) care 
+providers. Behavioral intervention began with individual daytime training sessions 
+of approximately 30 min each conducted across 3 days. During these sessions, 
+distraction with cartoon videos, counting, singing, stickers, bubbles, and 
+imaginary play were provided as graduated exposure to the PAP equipment was 
+conducted. Differential positive social reinforcement was provided contingent 
+on approximations of calm adherence. 
+
+Indigo tolerated each step of the task analysis and wore the PAP mask during 
+the daytime training sessions with minimal initial distress. However, her positive 
+response did not generalize when PAP was introduced at night (Day 5 on Figure 
+2). Her nonadherence with the procedure appeared to be related to distress 
+associated with increased air pressure and disorientation when awakened with 
+the mask on. On two exposure trials (Days 7 and 8) Indigo required physical 
+prompting to prevent her from removing the mask. Thereafter, except on one 
+
+
+BEHAVIORAL TRAINING FOR PAP 163 
+
+
+FIGURE 2 Total hours per night of wearing the positive airway pressure equipment across 
+baseline and treatment conditions for Indigo, Buzz, Ernie, and Trevor, respectively. 
+
+
+164 SLIFER ET AL. 
+
+occasion for a few seconds when the air pressure was increased, Indigo demonstrated 
+adherence with the mask and did not require further physical prompting. 
+The therapist then provided training in the behavioral intervention to the parents 
+and medical staff. In addition, they were provided with a written behavioral protocol 
+with specific recommendations for conducting the PAP routine, especially 
+initial placement of the mask and replacing it every time it was removed, as 
+well as using distraction and differential positive reinforcement. Follow-up data 
+provided by parent report indicate that Indigo wore her PAP during her scheduled 
+time in bed, which was 10 hr per night, based on data sheets that indicate 
+bedtime, awakening, and whether the mask was still in place in the morning 
+when her mother entered Indigo’s room to remove the mask. It should be noted 
+that Indigo’s data displayed in the top panel of Figure 2 shows a ceiling effect 
+at 10 hr because the data sheet used to record her adherence was structured 
+with ten 1-hr time blocks. Therefore, when her adherence was at 100%, the 
+maximum time was 10 hr. Indigo displayed only occasional mild distress with 
+the PAP, which was easily interrupted and redirected by prompting her to focus 
+on a calm but distracting bedtime activity. 
+
+Buzz 
+
+Data on the hours per day that Buzz wore his PAP are shown on the second 
+panel of Figure 2. During baseline he exhibited distress while the mask was 
+being placed on him, and he attempted to avoid or escape it by crying, rolling 
+away from it, blocking its placement with his hands, or removing it once it was 
+on his face. 
+
+When the behavioral intervention was introduced (Day 3, Figure 2), Buzz 
+was instructed to sit in bed and play a videogame until he was relaxed and 
+distracted. Then the PAP mask was placed on his face for 1 sec, and escape– 
+avoidant behaviors were blocked. After this exposure was completed, Buzz was 
+provided a sticker as reinforcement. Within the first daytime practice session 
+Buzz was able to tolerate the mask for only 5 sec. During the second such session 
+Buzz was able to tolerate the mask for increasing intervals without any escape– 
+avoidance behaviors. On the third day of intervention (Day 5 on Figure 2), 
+while using the video for distraction, Buzz was encouraged to lie down while 
+wearing his mask, and he fell asleep wearing it within 5 min, without additional 
+prompts. 
+
+A bedtime routine was established for him, which included concrete verbal 
+prompts, escape–extinction for initial placement and repositioning of the mask, 
+distraction with video, and delayed positive reinforcement (videogame and 1:1 
+social attention) the following day for keeping the mask on during the night. The 
+therapist trained several nurses to implement the behavioral intervention, and a 
+written protocol was distributed to all nurses who would interact with Buzz. 
+
+
+BEHAVIORAL TRAINING FOR PAP 165 
+
+After this training, the nurses began to implement the protocol at night and during 
+daytime naps (Day 7 on Figure 2). The therapist was available by pager and 
+telephone to consult with the nursing staff when questions or problems arose. 
+Buzz nearly always complied with wearing his PAP when the nursing staff 
+implemented the behavioral protocol. When first introduced to the behavioral 
+protocol, some nurses did not consistently replace the mask when Buzz removed 
+it. Some also were less consistent with blocking escape behavior when reapplying 
+the mask. This absence of the escape extinction treatment component, lead to 
+decreased hours of use (e.g., Days 13–15, 17–18, and 24–25) and prompted additional 
+training for nursing staff. After 26 days Buzz was consistently wearing 
+his PAP for between 8 and 10 hr per night without distress. Prior to discharge, 
+his mother was trained on the behavioral protocol, and demonstrated successful 
+implementation. Unfortunately, no follow-up data could be obtained for Buzz 
+because the family could not be reached after discharge. 
+
+Ernie 
+
+The percentage of steps in the PAP task analysis that Ernie tolerated per session 
+is shown in Figure 1, and the total number of hours per day that he wore the 
+PAP is shown on the third panel of Figure 2. During baseline assessment Ernie 
+was distressed whenever he saw the PAP mask or other parts of the equipment. 
+He tolerated touching the mask with his hand for up to 5 sec, but would not 
+allow the mask to be placed on or near his face. After the baseline assessment he 
+initially attended an average of two brief outpatient visits per week to gradually 
+expose him to wearing the mask. 
+
+Clinic intervention sessions first targeted increasing his tolerance for wearing 
+the mask without the connecting tubing attached. The duration was gradually 
+increased from 5 sec to 20 min. After he could reliably wear the mask without 
+distress for 20 min the therapist gradually exposed Ernie to wearing the 
+mask with the connecting tubing attached and airflow turned on at gradually 
+increasing pressure settings (as approved by his physicians) until achieving the 
+prescribed setting. Next the therapist gradually increased the duration of time 
+Ernie was required to wear the mask. When he tolerated wearing the mask for 
+up to 1 hr without showing signs of distress, the therapist scheduled clinic visits 
+during Ernie’s naptime and conducted a home visit for observation and caregiver 
+training. Prior to the home visit, his mother had Ernie practice wearing 
+the mask at home at bedtime for gradually increasing durations as instructed by 
+the therapist during clinic sessions. He continued to wear the mask successfully 
+during clinic sessions, but engaged in disruptive behavior and tantrums at home. 
+The therapist next scheduled visits in which either the parent or Ernie’s home 
+healthcare nurse guided him through the PAP routine. The therapist was faded 
+from the sessions and finally out of the room completely. After these fading 
+
+
+166 SLIFER ET AL. 
+
+procedures, Ernie increased his tolerance of wearing the mask at home during 
+both naptime and bedtime. He was allowed to trade in tokens (stickers) earned 
+for PAP adherence at home for prizes when he came to the next clinic visit. 
+According to data collected by his mother and home nurses, Ernie now regularly 
+wears his mask during naps and nighttime sleep. His hours of PAP use typically 
+exceed 10 hr per day including nighttime sleep and naps. 
+
+Trevor 
+
+The number of hours per day that Trevor wore his PAP is shown on the bottom 
+panel of Figure 2. During the first two nights of his inpatient stay (baseline), he 
+refused to wear the PAP. Before introducing the behavioral intervention at night, 
+Trevor’s adherence with PAP was assessed at his regular bedtime using the task 
+analysis data sheet. Trevor complied with holding the mask on his face without 
+the air on, making no attempt to escape the procedure. Trevor also complied 
+with the mask being placed in position with air on for 3 sec, but with longer 
+exposure he exhibited head turns, verbal refusal, crying, and blocking or pushing 
+away the mask from his face with his hands. 
+
+PAP adherence training began on Day 3 during Trevor’s regularly scheduled 
+naptime. Initially, Trevor was instructed to sit in bed and watch an animated 
+video until he was relaxed and distracted. Then the PAP mask was placed on his 
+face for 1 sec, and any avoidance or escape behaviors physically blocked. While 
+Trevor was wearing the mask, he also was engaged in preferred activities such 
+as singing. During the first practice trial, he was able to wear the mask with 
+the air turned on for 10 min. During the second practice trial conducted that 
+evening at bedtime, Trevor was able to fall asleep with the PAP on, and tolerated 
+it for 3.52 hr without attempting to remove it. However, he awoke during the 
+night and removed the mask four times. By Day 4 he wore the PAP for 6 hr 
+with no negative behavior. Ultimately he awoke and removed the mask four 
+times during that night, but the nursing staff had been trained to consistently 
+reapply the mask. He did not wear PAP at all on Day 6 because an unfamiliar 
+nurse did not implement the escape extinction (blocking) part of the behavioral 
+intervention. On Day 7, he continued to periodically remove his mask during 
+the night, but tolerated its replacement and went back to sleep. Thereafter, he 
+complied with wearing his PAP an average of 8.28 hr per night. Although he 
+continued to periodically remove the mask during the night, he demonstrated 
+increased duration of wearing it (average of 7 hr per night) before removing it. 
+In addition, the frequency of mask removal during the night decreased to one 
+or not at all. After 10 days with behavioral intervention, he consistently wore 
+his PAP for between 8 and 13 hr per night. 
+
+Prior to discharge, his mother and father were trained on the behavioral protocol, 
+and demonstrated its successful implementation. Follow-up data provided 
+
+
+BEHAVIORAL TRAINING FOR PAP 167 
+
+by his mother indicates that Trevor continues to wear his PAP at home during the 
+night (approximately 7 hr per night) and although he will periodically remove 
+the mask, caregivers are able to reapply it without opposition. 
+
+DISCUSSION 
+
+A PAP adherence training protocol was implemented using a combination of 
+behavior therapy techniques. These techniques include (a) conducting a task 
+analysis of the regimen; (b) providing distraction from uncomfortable sensations 
+using preferred activities; (c) counterconditioning emotional arousal by providing 
+preferred activities to induce a relaxed, positive state; (d) maintaining the child’s 
+positive state while gradually exposing him or her to the steps in the task analysis 
+and the associated sensations; (e) differential reinforcement of partial adherence 
+by providing contingent praise and positive events (including mask removal by 
+the therapist after a given interval of child adherence); and (f) placing escape– 
+avoidance behavior on extinction (by interrupting, blocking, or redirecting these 
+behaviors). This “package” of procedures appears to have been effective for 
+desensitizing these 4 preschool children (with developmental delay, behavior 
+problems, and serious health conditions) to bi-level PAP. Prior to behavioral 
+training, none of the children were consistently wearing the PAP equipment. 
+After behavior therapy and caregiver training, all of the children were able to 
+successfully tolerate PAP and markedly increased their hours of use. 
+
+The cases presented in this study provide strong preliminary evidence of the 
+benefits of this multi-component behavioral intervention for increasing adherence 
+and decreasing distress during PAP use by young children with developmental 
+disabilities, behavior problems, and serious health conditions. Consequently, 
+these high-risk children were more likely to benefit from their prescribed 
+PAP regimen. These clinical outcome data are encouraging because these patients 
+were especially challenging due to their young age, developmental delay, 
+and medical status. All 4 had demonstrated a pattern of escalating distress and 
+disruptive behavior when initial attempts were made to implement PAP. 
+
+The results provide additional support for the feasibility of PAP for breathing 
+problems in preschool-age children, provided that a consistent behavioral training 
+protocol is implemented. The behavioral intervention described here is based 
+on previous studies demonstrating the utility of behavior analysis and therapy for 
+increasing child adherence and coping with uncomfortable medical procedures 
+such as gynecological exams (Dahlquist et al., 1984), tracheostomy suctioning 
+and care (DeRowe et al., 2003; Derrickson et al., 1991; Slifer et al., 1995), self-
+catheterization (McComas et al., 1999; Neef et al., 1989), neuroimaging (Slifer 
+et al., 1993; Slifer, Koontz, & Cataldo, 2002), radiation therapy (Hawkins, 1991; 
+Slifer, 1996; Slifer, Bucholtz, & Cataldo, 1994), and needle sticks (Dahlquist, 
+
+
+168 SLIFER ET AL. 
+
+1992; Slifer et al., 1995; Slifer, Eischen, & Busby, 2002; Slifer, Eischen, Tucker, 
+et al., 2002; Slifer, Tucker, & Dahlquist, 2002). These results add additional 
+support to previous published non-experimental, clinical outcome data (Koontz 
+et al., 2003) on the use of a similar behavioral intervention to aid adherence of 
+pediatric patients with PAP. However, in this study, repeated measures data were 
+recorded, and a systematic single-participant experimental design was employed. 
+The combined results of these two studies add to the literature supporting the use 
+of behavior therapy to increase the adherence of children with health-sustaining 
+medical technology—even those who are quite young, developmentally disabled, 
+and have acutely challenging medical conditions. Because of skill deficits, anxiety, 
+behavioral distress, and neurocognitive sequelae of their disease, many such 
+children do not receive the health sustaining benefits of available interventions 
+such as PAP. The consequences can be life threatening (i.e., cor pulmonale) 
+or gradually lead to neuropsychological insult from chronic hypoxia or sleep 
+fragmentation or both (Halbower & Mahone, 2006). The medical alternatives 
+for these children often are more invasive (e.g., tracheostomy), have significant 
+risks, and child adherence may still be required for success and safety (e.g., the 
+child must not dislodge the tracheostomy tube or connection with the source of 
+oxygen and tolerate routine tracheostomy care). 
+
+Conclusions that can be drawn from this study are limited by the small sample 
+size. However, results reported here and elsewhere (Koontz et al., 2003) suggest 
+that when physicians prescribe PAP for treatment of OSA or other breathing 
+disorders in children, behavioral intervention is important for increasing the 
+probability of successful utilization. We recommend that when physicians prescribe 
+PAP or similar regimens for children, the family should be referred to 
+a behavior therapist that can train the child to cope with the equipment and 
+assist the caregiver in identifying and overcoming barriers to consistent regimen 
+adherence. 
+
+The results obtained in this study suggest that caregiver consistency and patience 
+are important for long-term adherence. When the behavioral training was 
+implemented, there was considerable variability in the number of minutes, or 
+ultimately hours, the child could tolerate the PAP. None of the children showed 
+an immediate and sustained improvement in their adherence. This was due, in 
+part, to the difficulty of training all assigned nurses and ensuring that the behavioral 
+intervention was implemented consistently. That consistency was difficult 
+to maintain even with trained pediatric nurses on an inpatient basis, underscores 
+the challenge involved in establishing and maintaining PAP adherence. Other 
+variables that determine adherence are not well understood, but most certainly 
+are not static. That is, even well-trained caregivers may be more or less diligent 
+about implementing the behavioral procedures from day to day. Caregiver 
+resources and emotional reserve vary. Furthermore, the quality of the child’s 
+sleep also can vary for reasons not directly related to the breathing problems 
+
+
+BEHAVIORAL TRAINING FOR PAP 169 
+
+and PAP. For example, sleep can be affected by diet, exercise, medical status, 
+environmental disturbance, change in or lack of routine, and emotional status. 
+If a child sleeps less soundly, the probability of awakening or partial arousal 
+during the night increases. At these times the child may become confused and 
+not remember the mask or rules about wearing it. When not fully alert, the child 
+may be more acutely aware of discomfort from the mask or airflow, become 
+more distressed than when fully awake, and be more likely to reflexively grab 
+and dislodge the mask. We recommend that the child be taught to tolerate the 
+mask when fully awake and that adherence at night be regarded as a “longer term 
+project.” If the child’s medical condition is so tenuous that such an approach to 
+adherence is prohibited, then more medically invasive alternatives may need to 
+be considered. Although attempting to put on the equipment by stealth after the 
+child is asleep occasionally may be successful on some nights, ultimately it is 
+a shortsighted and ineffective. 
+
+An obvious reason for adherence problems is the use of suboptimal pressures. 
+Pressures that are too high for the clinical situation can increase arousal from 
+sleep and overall discomfort that includes ear pain, headache, dry eyes from 
+mask leak, and difficulty exhaling. Pressures that are too low to overcome the 
+obstructed breathing problem can cause a subjective feeling of suffocation or 
+air hunger when the child attempts to inhale while wearing a mask. It behooves 
+the pulmonologist to ensure adequate ventilation on proper settings during the 
+PAP titration in a sleep laboratory. Oftentimes, repeat sleep studies are helpful 
+once the patient is complying with the PAP therapy so that fine-tuning can be 
+performed, especially when the first estimate of pressure requirement was based 
+on a suboptimal night’s sleep. Additionally, humidifiers often improve adherence 
+where nasal or sinus irritation ensues from dry airflow at high pressures. 
+
+Obviously it would be preferable to avoid the development of escape-motivated 
+distress in response to PAP in the first place. It is recommended that young 
+and developmentally disabled children be referred proactively to a behavior therapist 
+that can collaborate with a respiratory therapist or nurse educator to select 
+the proper mask, cap, and other necessary equipment, as well as identify the 
+type of distraction and reinforcement contingencies that best suit the particular 
+child. They could then introduce the child and family to the PAP sensations and 
+routine in a systematic and non-traumatic manner. Ideally, these children also 
+should be similarly trained prior to attempting polysomnography to prevent, if 
+possible, the development of conditioned anxiety and escape behavior that would 
+subsequently interfere with PAP adherence. Such proactive intervention may facilitate 
+the child’s coping such that fewer behavior therapy sessions would be 
+required than was the case for the children presented in this study. 
+
+Based on our experiences with these children and families, it seems clear that 
+child adherence and long-term adherence are dependent on caregiver vigilance 
+and diligence. There is no getting around the fact that if the child dislodges the 
+
+
+170 SLIFER ET AL. 
+
+mask in the night, whether intentional or unintentional, the caregiver must discover 
+the problem and replace the mask. To do otherwise functionally results in 
+negative reinforcement of escape behavior (pushing the mask out of place or removing 
+it relieves the child’s immediate discomfort). For this reason, caregivers 
+need to be assisted with creative ways to monitor PAP status during the night. 
+Some PAP machines are equipped with an alarm that sounds if the mask is removed 
+or not positioned properly. However, even those with alarms may not be 
+loud enough to awaken an exhausted and soundly sleeping caregiver. We have 
+recommended that caregivers use a high-quality baby monitor to amplify the 
+alarm and monitor the sounds of the child stirring or awakening. Alternatively, 
+some caregivers at first choose to set an alarm clock to awaken at intervals to 
+check and, if necessary, replace the mask. Still other parents of young children 
+opt to have the child sleep in or near the parent’s bed to facilitate monitoring the 
+child’s status. Even in the best cases with the most highly motivated parents, the 
+process of establishing long-term PAP adherence is imperfect and takes time. 
+
+The number and type of problems that impacted our attempts to train parents 
+and other caregivers varied across children. For example, both of Indigo’s 
+parents were present, were available for training, and actively participated in 
+the behavior protocol. On the other hand, Buzz’s mother was a single parent, 
+had two other children at home to care for, was the sole care provider, had 
+a low-income job that did not allow her much flexibility, and lived a significant 
+distance from the hospital. For all of these reasons, her hospital visits for 
+training were infrequent. She also had no resources for in-home nursing or behavioral 
+assistance. For Ernie, some in-home nursing assistance was available, 
+but the inconsistency of nurse availability, and the fact that Ernie’s father regularly 
+traveled for his occupation, left Ernie’s mother with primary responsibility 
+for PAP implementation. Her need to distress Ernie by requiring adherence with 
+PAP was especially difficult and challenging for her because of his multiple, 
+life-long health impairments. 
+
+Finally, Trevor’s mother at first was resistant to the use of PAP or attending 
+training sessions for its use, because of her past negative experience at another 
+hospital. Her overall parenting skills were limited by difficulty setting limits 
+or being consistent with any of her children. She also may have had cognitive 
+difficulties that interfered with her learning of the behavioral protocol. 
+
+The caregiver’s intent and resolve to enforce the regimen is critical. Caregivers 
+who experience guilt or conflict over enforcing an intervention that causes 
+short-term discomfort for important long-term health benefits will have difficulty 
+obtaining PAP adherence with their child. This is a particularly important 
+variable when children either are medically fragile or perceived to be by the 
+caregiver. Parents may worry that a child with breathing or heart condition will 
+be irreversibly harmed (have a stroke, hemorrhage, or heart attack) if stressed 
+too much by a tantrum or physical prompting. Although such fears are usually 
+
+
+BEHAVIORAL TRAINING FOR PAP 171 
+
+unfounded, they nonetheless can prevent a parent from implementing behavioral 
+interventions necessary to maintain adherence. If a caregiver does not comprehend 
+or believe the seriousness of the child’s breathing problems, he or she 
+will regard PAP as optional and may waver in commitment to replace the mask 
+each and every time it is removed. Therefore, caregiver understanding of the 
+risks of untreated breathing problems and the benefits of PAP is always important 
+for regimen adherence. The behavioral intervention program used with the 
+children in this study was designed to be as positive as possible. Using gradual 
+exposure, counterconditioning, and positive reinforcement while having the 
+caregiver observe the child’s increasing success and diminishing distress, helped 
+the caregivers be more comfortable when they began implementing the PAP 
+routine. 
+
+In cases in which the caregiver is not fully committed or is unable to invest 
+the time and energy required to assure adherence throughout the night, more 
+modest intermediate goals might be set. Mask removal may be primarily motivated 
+by escape from discomfort. Therefore, the caregiver should select an 
+interval for PAP use that realistically can be enforced. For example, the caregiver 
+may begin by implementing the behavioral procedures for only 30 min 
+with emphasis on the rule that only the caregiver applies and removes the mask. 
+If the child attempts to remove the mask the attempt will be blocked. If the 
+mask is successfully removed, it will be replaced. If the child wears the mask, 
+positive reinforcement is earned. Increasing the duration of enforcement should 
+only occur when both caregiver and child have mastered the current duration. In 
+this way, both experience success and a positive interaction rather than failure 
+and conflict. Of course, if the child’s medical condition were so acutely tenuous 
+that less than complete adherence during hours of sleep would be dangerous, 
+then more invasive medical interventions would need to be considered. 
+
+It should be noted that conducting a component analysis of the necessary and 
+sufficient parts of the behavioral training was beyond the scope of this clinical 
+investigation. Given the time it took for the training package here to be fully effective, 
+it might be ethically justifiable to introduce the intervention components 
+in varying combinations or sequences to conduct a component analysis. 
+
+Conclusions that can be drawn from these results are limited by lack of home 
+follow-up information for one child (Buzz), and follow-up data based on parent 
+report and parent reading of the PAP time meter data (Ernie). These data may 
+be overestimates of actual adherence. For example, if the parent records inaccurate 
+information on the data sheets provided for tracking adherence, does not 
+follow instructions for data collection, or is less than candid about the child’s 
+degree of adherence, the data may not be valid. Time meter data can overestimate 
+adherence because the meter runs if the machine is turned on, regardless 
+of whether the mask is correctly positioned on the child’s face or is lying next 
+to the child in the bed. Some models of PAP equipment can utilize a Smart Card 
+
+
+172 SLIFER ET AL. 
+
+(Respironics, Inc., Murrysville, PA; www.respironics.com) or similar electronic 
+monitoring device, which may provide more accurate, objective adherence data. 
+Future research is needed to conduct controlled clinical trials demonstrating the 
+effects of systematic behavioral training for PAP on the adherence and pulmonary 
+status of a larger group of children, including those in the preschool age 
+range. Experimental group adherence should be compared to a usual care control 
+group matched for age, developmental level, gender, and socioeconomic status. 
+More clinical case examples of the type presented here also may help refine the 
+behavioral training protocol, gradually determine its necessary components, and 
+delineate its generality and limitations. 
+
+ACKNOWLEDGMENT 
+
+This work was supported, in part, by Grant HD 24061–16 (Kennedy Krieger 
+Institute Mental Retardation Research Center) from the National Institute of 
+Child Health and Human Development. 
+
+REFERENCES 
+
+American Academy of Pediatrics. Section on Pediatric Pulmonary, Subcommittee on Obstructive 
+Sleep Apnea Syndrome. (2002). Clinical practice guideline: Diagnosis and management of childhood 
+obstructive sleep apnea syndrome. Pediatrics, 109, 704–712. 
+
+American Thoracic Society. (1996). Standards and indications for cardiopulmonary sleep studies in 
+children. American Journal of Respiratory and Critical Care Medicine, 153(2), 866–878. 
+
+Blunden, S., Lushington, K., & Kennedy, D. (2001). Cognitive and behavioural performance in 
+children with sleep-related obstructive breathing disorders. Sleep Med Review, 5(6), 447–461. 
+Carroll, J. L. (2003). Obstructive sleep-disordered breathing in children: New controversies, new 
+
+directions. Clinical Chest Medicine, 24(2), 261–282. 
+Dahlquist, L. M. (1992). Coping with aversive medical treatments. In A. M. La Greca, L. J. Siegel, 
+
+J. L. Wallander, & C. E. Walker (Eds.), Stress and coping in child health (pp. 345–376). New 
+York: Guilford. 
+Dahlquist, L. M., Gil, K. M., Kalfus, G. R., Blount, R. L., & Boyd, M. S. (1984). Enhancing an 
+autistic girl’s cooperation with gynecological examinations. Clinical Pediatrics, 23(4), 203. 
+DeRowe, A., Fishman, G., Leor, A., & Kornecki, A. (2003). Improving children’s cooperation 
+with tracheostomy care by performing and caring for a tracheostomy in the child’s doll: A case 
+analysis. International Journal of Pediatric Otorhinolaryngology, 67, 807–809. 
+
+Derrickson, J. G., Neef, N. A., & Parrish, J. M. (1991). Teaching self-administration of suctioning 
+to children with tracheostomies. Journal of Applied Behavior Analysis, 24, 563–570. 
+Gozal, D. (1998). Sleep-disordered breathing and school performance in children. Pediatrics, 102(3), 
+616–620. 
+
+Jeans, W. D., Fernando, D. C., Maw, A. R., & Leighton, B. C. (1981). A longitudinal study of the 
+growth of the nasopharynx and its contents in normal children. British Journal of Radiology, 54, 
+117–121. 
+
+
+BEHAVIORAL TRAINING FOR PAP 173 
+
+Halbower, A. C., & Mahone, E. M. (2006). Neuropsychological morbidity linked to childhood 
+sleep-disordered breathing. Sleep Medicine Reviews, 10, 97–107. 
+
+Hawkins, N. E. (1991). Bravery training: An approach to desensitizing young children to fears 
+encountered in the hospital setting. Archives of Physical Medicine and Rehabilitation, 72(9), 
+697–700. 
+
+Hayes, S. C. (1981). Single-case research designs and empirical clinical practice. Journal of Consulting 
+& Clinical Psychology, 49, 193–211. 
+
+Koontz, K. L., Slifer, K. J., Cataldo, M. D., & Marcus, C. L. (2003). Improving pediatric compliance 
+with positive airway pressure therapy: The impact of behavioral intervention. Sleep, 26, 
+1–6. 
+
+Lipton, A. J., & Gozal, D. (2003). Treatment of obstructive sleep apnea in children: Do we really 
+know how? Sleep Medicine Review, 7(1), 61–80. 
+
+Marcus, C. L., Rosen, G., Davidson-Ward, S. L., Halbower, A. C., Sterni, L., Lutz, J., et al. (2006). 
+Efficacy and compliance with positive airway pressure therapy in children with obstructive sleep 
+apnea. Pediatrics, 117, 442–451. 
+
+Marcus, C. L., Ward, S. L., Mallory, G. B., Rosen, C. L., Beckerman, R. C., Weese-Mayer, D. E., 
+et al. (1995). Use of nasal continuous positive airway pressure as treatment of childhood obstructive 
+sleep apnea. Journal of Pediatrics, 127(1), 88–94. 
+
+McComas, J. J., Lalli, J. S., & Benavides, C. (1999). Increasing accuracy and decreasing latency 
+during clean intermittent self-catheterization procedures with young children. Journal of Applied 
+Behavior Analysis, 32, 217–220. 
+
+Neef, N. A., Parrish, J. M., Hannigan, K. F., Page, T. J., & Iwata, B. A. (1989). Teaching self-
+catheterization skills to children with neurogenic bladder complications. Journal of Applied Behavior 
+Analysis, 22, 237–243. 
+
+Slifer, K. J. (1996). A video system to help children cooperate with motion control for radiation 
+treatment without sedation. Journal of Pediatric Oncology Nursing, 13, 91–97. 
+
+Slifer, K. J., Babbitt, R. L., & Cataldo, M. D. (1995). Simulation and counterconditioning as an 
+adjunct to pharmacotherapy for invasive pediatric procedures. Journal of Developmental and 
+Behavioral Pediatrics, 16, 133–141. 
+
+Slifer, K. J., Bucholtz, J., & Cataldo, M. D. (1994). Behavioral training of motion control in young 
+children undergoing radiation treatment without sedation. Journal of Pediatric Oncology Nursing, 
+11, 55–63. 
+
+Slifer, K. J., Cataldo, M. F., Cataldo, M. D., Llorente, A. M., & Gerson, A. C. (1993). Behavior 
+analysis of motion control for pediatric during neuroimaging. Journal of Applied Behavior 
+Analysis, 26, 469–470. 
+
+Slifer, K. J., Eischen, S. E., & Busby, S. (2002). Using counterconditioning to treat behavioral 
+distress during subcutaneous injections in a pediatric rehabilitation patient. Brain Injury, 16, 
+901–916. 
+
+Slifer, K. J., Eischen, S. E., Tucker, C. L., Dahlquist, L. M., Busby, S., Sulc, W., et al. (2002). 
+Behavioral treatment for child distress during repeated needle sticks. Behavioral and Cognitive 
+Psychotherapy, 30, 57–68. 
+
+Slifer, K. J., Koontz, K. L., & Cataldo, M. F. (2002). Operant contingency based preparation of 
+children for functional magnetic resonance imaging . Journal of Applied Behavior Analysis, 35, 
+191–194. 
+
+Slifer, K. J., Tucker, C. L., & Dahlquist, L. M. (2002). Helping children and caregivers cope with 
+repeated invasive procedures: How are we doing? Journal of Clinical Psychology in Medical 
+Settings, 9, 131–152. 
+
+Watson, P. J., & Workman, E. A. (1981). The non-current multiple-baseline across individuals 
+design: An extension of the traditional multiple baseline design. Journal of Behavior Therapy 
+and Experimental Psychiatry, 12, 257–259. 
+
+
+174 SLIFER ET AL. 
+
+APPENDIX A: GLOSSARY OF KEY BEHAVIORAL 
+TERMS AND TECHNIQUES 
+
+
+Positive Reinforcement 
+
+Positive reinforcement occurs when a preferred item or activity is presented 
+contingent on a target behavior, and that behavior subsequently increases in 
+frequency or future probability. 
+
+Negative Reinforcement 
+
+Negative reinforcement occurs when an aversive or non-preferred item or activity 
+is withdrawn contingent on a target behavior, and the target behavior increases 
+in future probability. 
+
+Differential Reinforcement 
+
+Differential reinforcement refers to providing a reinforcer (e.g., preferred item 
+or event) in response to those behaviors to be increased in frequency, but not in 
+response to those one intends to decrease. 
+
+Reinforcer Assessment 
+
+A reinforcer assessment helps to establish effective consequences for strengthening 
+behavior for any particular individual. Such an assessment may be accomplished 
+by having the primary caregiver indicate the child’s preferences on 
+a checklist of potentially reinforcing items and activities for the child’s developmental 
+level. Generally speaking, preferred items or activities (those that the 
+child will seek, select, and use) have the best potential as reinforcers. 
+
+Task Analysis 
+
+Task analysis refers to breaking a complex behavior or task into component steps, 
+presenting them to the child one step at a time, and documenting how many 
+of the steps the child can accomplish without formal behavioral intervention. 
+The child’s specific behavioral response to each step is recorded to establish a 
+pretreatment baseline. These data are subsequently recorded during each training 
+session to document behavior change as a result of training or other intervention. 
+
+
+BEHAVIORAL TRAINING FOR PAP 175 
+
+Counterconditioning 
+
+Counterconditioning is a technique used to modify anxiety (physiological arousal) 
+that has become conditioned (reliably occurs in the presence of a specific stimulus 
+or set of stimulus conditions) because of past association between the 
+stimulus and aversive stimulation (e.g., pain, discomfort). For example children 
+may cry, scream, and try to escape stimuli that they experience as painful or 
+uncomfortable and anxiety inducing. During counterconditioning, the child’s 
+conditioned anxiety is treated by carefully planned, graduated exposure to the 
+feared or non-preferred stimulus while the child participates in a distracting, relaxing, 
+or otherwise pleasurable activity. The activity must be one that produces 
+an emotional state that is incompatible with anxiety (i.e., pleasure, relaxation). 
+Once the child appears relaxed and to be enjoying the activity, gradual exposure 
+is accomplished by slowly increasing the child’s proximity to the feared 
+stimulus, and the duration of contact with the feared stimulus. 
+
+Shaping 
+
+Shaping refers to using differential reinforcement to teach and strengthen successive 
+approximations of a target behavior or sequence of behaviors. Over time, the 
+behavior exhibited by the individual becomes increasingly similar to the target 
+behavior until the target behavior is mastered and can be directly reinforced. 
+
+Escape Prevention 
+
+During the procedure referred to as escape prevention (escape extinction), escape 
+behavior in the presence of a feared or non-preferred stimulus is blocked or 
+prevented using verbal prompting, redirection to a specific activity or task, and 
+if necessary physically blocking of escape while gently guiding the child to 
+remain in the situation. By blocking escape behavior, the therapist is able to 
+weaken and extinguish behavior that is maintained by negative reinforcement. 
+
+

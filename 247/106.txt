@@ -1,0 +1,877 @@
+Conduct Problems and Symptoms of 
+Sleep Disorders in Children 
+
+
+RONALD D. CHERVIN, M.D., M.S., JAMES E. DILLON, M.D., 
+KRISTEN HEDGER ARCHBOLD, R.N., PH.D., AND DEBORAH L. RUZICKA, R.N., PH.D. 
+
+
+ABSTRACT 
+Objective: Conduct problems and hyperactivity are frequent among children referred for sleep-disordered breathing 
+(SDB), restless legs syndrome, or periodic leg movements during sleep (PLMS), but children not referred to sleep centers 
+have received little study. Method: Parents of children aged 2 to 14 years were surveyed at two general clinics 
+between 1998 and 2000.A Pediatric Sleep Questionnaire generated validated scores for SDB and PLMS.The Conners 
+Parent Rating Scale (CPRS-48) produced an age- and sex-adjusted Conduct Problem Index (CPI) and Hyperactivity 
+Index. Results: Parents of about 1,400 children were approached; those of 872 (62%) completed the surveys. Bullying 
+and other specific aggressive behaviors were generally two to three times more frequent among 114 children at high 
+risk for SDB than among the remaining children. An association between high CPI and SDB scores (p < .0001) retained 
+significance after adjustment for sleepiness, high Hyperactivity Index, stimulant use, or PLMS scores. Analogous results 
+were obtained for the association between high CPI and PLMS scores. Conclusions: Conduct problems were associated 
+with symptoms of SDB, restless legs syndrome, and PLMS. Although these results cannot prove a cause-and-effect 
+relationship, assessment for sleep disorders may provide a new treatment opportunity for some aggressive children. J. 
+Am. Acad. Child Adolesc. Psychiatry, 2003, 42(2):201–208. Key Words: conduct disorder, sleep disorders, restless legs 
+syndrome, periodic limb movement disorder, obstructive sleep apnea. 
+
+Conduct disorder is among the most common psychiatric 
+conditions in children, with a prevalence of about 8% 
+between the ages of 4 and 16 years (Offord et al., 1987). 
+Aggressive behavior is often a key feature and is predictive 
+of delinquency, alcoholism, drug abuse, antisocial 
+
+Accepted September 3, 2002. 
+
+Dr. Chervin is Associate Professor, Sleep Disorders Center and Department of 
+Neurology, University of Michigan, Ann Arbor; Dr. Dillon is Clinical Assistant 
+Professor, Department of Psychiatry, Division of Child and Adolescent Psychiatry, 
+University of Michigan, and Chief of Clinical Affairs, Huron Valley Center, 
+Michigan Departments of Community Health and Corrections, Ypsilanti; Dr. 
+Archbold is currently a postgraduate fellow, University of Washington School of 
+Nursing, Seattle; Dr. Ruzicka is Research Associate, Sleep Disorders Center and 
+Department of Neurology, University of Michigan. 
+
+Supported by the NINDS (K02-NS02009) and the University of Michigan 
+GCRC (M01-RR00042). The authors thank Christian Guilleminault, M.D., 
+Ronald E. Dahl, M.D., and Morton B. Brown, Ph.D., for advice on study design; 
+the parents and children who completed research questionnaires; and the physicians 
+and students who recruited subjects. 
+
+A copy of the Pediatric Sleep Questionnaire can be obtained from the first 
+author, by email. 
+
+Correspondence to Dr. Chervin, Michael S. Aldrich Sleep Disorders Laboratory, 
+8D8702 University Hospital, 1500 E. Medical Center Drive, Ann Arbor, MI 
+48109-0117; by e-mail: chervin@umich.edu. 
+
+0890-8567/03/4202–02012003 by the American Academy of Child 
+and Adolescent Psychiatry. 
+DOI: 10.1097/01.CHI.0000037012.34553.72 
+
+personality disorder, theft, violence, other crimes, and 
+family relationship difficulties (Robins and Price, 1991). 
+Though incompletely understood, the causes of childhood 
+aggression are presumed to be heterogeneous, involving 
+both environmental and genetic components. Parent 
+rearing methods, interactions with parents and peers, 
+social adversity, and common comorbid psychiatric conditions, 
+such as hyperactivity, may all play important roles 
+(Scott, 1998). 
+
+One type of comorbidity suggested in published literature 
+but not extensively studied are sleep disorders. 
+Aggression is a common feature in case series of children 
+with sleep-disordered breathing (SDB), as are inattention 
+and hyperactivity (Guilleminault et al., 1981). The latter 
+tend to improve when SDB is treated, and aggression may 
+also improve (Ali et al., 1996). Restless legs syndrome and 
+periodic leg movements during sleep (PLMS) also appear 
+to be common among hyperactive children (Picchietti 
+et al., 1998), and again treatment of these sleep disorders 
+may improve daytime behavior (Walters et al., 2000). 
+Whether aggression is also common in children with these 
+sleep disorders, however, has not been studied. 
+
+
+J. AM. ACAD. CHILD ADOLESC. PSYCHIATRY, 42:2, FEBRUARY 2003 
+201 
+
+
+J. AM. ACAD. CHILD ADOLESC. PSYCHIATRY, 42:2, FEBRU A RY 2003 J. AM. ACAD. CHILD ADOLESC. PSYCHIATRY, 42:2, FEBRU A RY 2003 
+CHERVIN ET AL. 
+
+Sleep disorders are often undiagnosed, and studies have 
+not yet addressed the question of whether SDB, PLMS, 
+and restless legs syndrome are common among the large 
+group of children with aggressive behavior, bullying, or 
+conduct problems. We asked parents of children with 
+appointments at general pediatric clinics to complete validated 
+questionnaires about their children’s sleep and daytime 
+behavior. The main prospective aim was to study 
+inattention and hyperactivity (Chervin et al., 2002a,b), 
+but measures of aggression also were included and form 
+the basis for this report. 
+
+METHOD 
+
+Subjects 
+
+Recruitment methods for this cohort have been described in detail 
+(Chervin et al., 2001). Parents of children seen at two general pediatrics 
+clinics signed an institutional review board–approved informed 
+consent, and children older than 9 years or able to understand the 
+study signed an informed assent. Criteria for inclusion were as follows: 
+(1) age 2.00 to 13.99 years, (2) ability of the parent to read and 
+write English, and (3) absence of mental or physical impairment severe 
+enough to prevent interpretation of behavioral information collected. 
+Subjects were enrolled between February 6, 1998, and May 1, 2000. 
+At the two university-owned sites, nine pediatricians see primarily 
+community-based populations. Ethnicity, socioeconomic (insurance) 
+data, medical conditions, and medications prescribed for the children 
+in this cohort have been described previously (Archbold et al., 2002). 
+Data for each child were included in this report if at least two thirds 
+of the Pediatric Sleep Questionnaire and Conduct Problem Index 
+(described below) had been completed. 
+
+Measures 
+
+Parents completed the Pediatric Sleep Questionnaire in waiting 
+rooms and were allowed to ask their children for help. The instrument 
+contains about 70 items for which response options are “yes,” 
+“no,” or “don’t know.” Instructions focus on behavior at baseline rather 
+than recent days if the child may have had an acute illness. A 22-item 
+scale identifies polysomnographically defined SDB with sufficient 
+validity and reliability for use in clinical research (Chervin et al., 2000). 
+The SDB score represents the proportion of symptom items that are 
+positive. Responses of “don’t know” are counted as missing data. 
+Among 27 sleep laboratory–referred children with demonstrated SDB 
+and 54 comparison subjects at a general pediatrics clinic, an SDB 
+score >0.33 showed a sensitivity of 0.81 and a specificity of 0.87. 
+Subscales for snoring (Table 1, items A2, A3, A4, A5) and excessive 
+daytime sleepiness (items B1, B2, B4, B6) each discriminated well 
+between the children who had SDB and comparison subjects 
+(Chervin et al., 2000). In the present study, the 22-item SDB scale 
+was used without 6 daytime behavior items to avoid artificial associations 
+with conduct problems. Item A2 asks about habitual snoring 
+and was analyzed separately. 
+
+A six-item restless legs and PLMS scale within the Pediatric Sleep 
+Questionnaire has adequate validity and reliability for use in clinical 
+research (Table 2) (Chervin and Hedger, 2001). The PLMS score is 
+calculated similarly to the SDB score, except that double weight is 
+assigned to the two most specific symptoms, those of restless legs and 
+
+TABLE 1 
+
+Pediatric Sleep Questionnaire Items From Which 
+the Sleep-Disordered Breathing Score and Sleepiness 
+Subscorea Were Derived 
+
+WHILE SLEEPING, DOES YOUR CHILD... 
+
+A2 . . . snore more than half the time? 
+
+A3 . . . always snore? 
+
+A4 . . . snore loudly? 
+
+A5 . . . have “heavy” or loud breathing? 
+
+A6 . . . have trouble breathing, or struggle to breathe? 
+
+HAVE YOU EVER 
+
+A7 . . . seen your child stop breathing during the night? 
+
+DOES YOUR CHILD 
+
+A24 . . . tend to breathe through the mouth during the day? 
+
+A25 . . . have a dry mouth on waking up in the morning? 
+
+A32 . . . occasionally wet the bed? 
+
+DOES YOUR CHILD 
+
+B1 . . . wake up feeling unrefreshed in the morning?a 
+
+B2 . . . have a problem with sleepiness during the day?a 
+
+B4 Has a teacher or other supervisor commented that your child 
+appears sleepy during the day?a 
+
+B6 Is it hard to wake your child up in the morning?a 
+
+B7 Does your child wake up with headaches in the morning? 
+
+B9 Did your child stop growing at a normal rate at any time 
+since birth? 
+
+B22 Is your child overweight? 
+
+From Chervin et al. (2000). 
+
+growing pains worst in bed. Among 113 sleep laboratory–referred 
+children, a PLMS score > 0.33 demonstrated a sensitivity of 0.79 and 
+a specificity of 0.56 for five or more recorded PLMS per hour of sleep 
+(Chervin and Hedger, 2001). Internal consistency and test-retest reliability 
+were reasonable. In the present study, question A13, about restless 
+legs, and question A13b, about growing pains in bed, also were 
+analyzed separately. Some analyses controlled for results of one questionnaire 
+item (A12) that asks about restless sleep in general, rather 
+than restless legs. 
+
+Parents also completed the Conners Parent Rating Scale (CPRS48), 
+a commonly used and well-validated 48-item measure of disruptive 
+behavior in childhood (Conners and Barkley, 1985). The instrument 
+
+TABLE 2 
+
+Pediatric Sleep Questionnaire Items From Which 
+the PLMS Score Was Derived 
+
+A13 Does your child describe restlessness of the legs when in 
+bed?a 
+
+A13b Does your child have “growing pains” that are worst in 
+bed?a 
+
+A16 At night, does your child usually get out of bed (for any 
+reason)? 
+
+A44 Does your child wake up more than twice a night on 
+average? 
+
+B1 Does your child wake up feeling unrefreshed in the 
+morning? 
+
+B7 Does your child wake up with headaches in the morning? 
+
+From Chervin and Hedger (2001). 
+
+a Double-weighted in calculation of periodic leg movements during 
+sleep (PLMS) score. 
+
+
+CONDUCT PROBLEMS AND SLEEP DISORDERS 
+
+contains an eight-item Conduct Problem Index (CPI) that asks to what 
+extent behavior is sassy, resentful, destructive, denying, quarrelsome, 
+bullying, fighting, and unhappy. The CPRS-48 also contains a 10-item 
+Hyperactivity Index (HI). The CPI and HI show substantial but not 
+complete correlation (r = 0.66; Goyette et al., 1978), consistent with 
+well-recognized comorbidity between conduct disorder and attentiondeficit/
+hyperactivity disorder (Jensen et al., 1997). About half of referred 
+children with the latter condition are thought to have conduct disorder 
+or oppositional defiant disorder (American Psychiatric Association, 
+2000). For both the CPI and the HI, symptoms are rated on a 4-point 
+scale, and raw scores are converted to age- and sex-adjusted T scores 
+that range from 0 to 100. Normative data derive from a large sample 
+of children grouped into 3-year age bins from 3 to 17 years old 
+(Goyette et al., 1978). For the current study, normative data from children 
+3 to 5 years old also were used to generate T scores for 2-year-old 
+subjects. The T scores that exceed the average (50) by 1 SD (10 points) 
+or 2 SD (20 points) frequently are considered to represent high levels 
+of the behavior. In this study, CPI > 60 and HI > 60 were considered 
+to represent a conduct problem and hyperactive behavior, respectively. 
+The more sensitive and less specific cut points were chosen to enhance 
+power to detect associations of biological interest. Three additional 
+items from the CPRS-48 (but not the CPI) were also analyzed separately: 
+these asked about stealing, disobedience, and cruelty. Individual 
+symptom items were considered positive if parents reported that their 
+children were bothered by them “pretty much” or “very much.” 
+
+Analysis 
+
+Behavioral differences between children with and without sleep-
+related problems were tested with T, .2, or Fisher exact tests. Logistic 
+regression models of CPI > 60 were used to test for associations with 
+overall SDB scores (normalized), PLMS scores (normalized), sleepiness 
+scores (normalized), and selected individual symptom items. 
+Odds ratios (ORs) and their 95% confidence intervals were adjusted 
+for age and sex. To determine whether an association between SDB 
+
+or PLMS and conduct problems might result from sleepiness, as an 
+intermediate variable, the sleepiness scale was used to adjust for this 
+factor. A similar approach was used to assess for possible confounding 
+from stimulant use (as reported on questionnaires), hyperactive 
+behavior (HI), and restless sleep in general (question-item A12). To 
+assess for interaction of sleep-related symptoms with age and sex, 
+analyses were performed on specific age and sex subgroups. 
+
+Attributable risk percent and population attributable risk percent 
+(Hennekens and Buring, 1987) were computed contingent on two key 
+assumptions: (1) that habitual snoring or restless legs (or any associated 
+sleep disorders) can cause conduct problems (CPI > 60), and (2) that 
+the prevalence rates of habitual snoring and restless legs in the general 
+pediatric clinic population are those measured in the current study. The 
+attributable risk percent then estimates the proportion of sleep-symptom-
+positive, conduct-problem-positive general clinic children whose 
+behavioral problem could be eliminated by treatment of each sleep problem. 
+The population attributable risk percent estimates the proportion 
+of all conduct-problem-positive general clinic children whose behavioral 
+problem could be eliminated by treatment of each sleep problem. 
+
+RESULTS 
+
+Subjects 
+
+Parents of approximately 1,400 children were approached; 
+those of 1,215 (87%) signed informed consent; and those 
+of 872 (62%), aged 2.0 to 13.9 years, completed at least 
+two thirds of the Pediatric Sleep Questionnaire and the 
+CPI. Demographic information for the sample is provided 
+in Table 3. Little information was available on subjects 
+whose parents failed to complete the Pediatric Sleep 
+Questionnaire, which was the first instrument adminis-
+
+TABLE 3 
+
+Summary Measures: Mean ± SD, or Number (%) of Respondents With Each Characteristic 
+
+Subjects With Unavailable 
+Available CPI CPI > 60 CPI = 60 CPI 
+(n = 872) (n = 130) (n = 742) (n = 166) 
+
+Age (years)** 6.7 ± 3.2 7.5 ± 3.3 6.6 ± 3.2 6.4 ± 3.1 
+Male 475 (54) 72 (55) 403 (54) 79 (48) 
+SDB score*** 0.15 ± 0.15 0.23 ± 0.17 0.13 ± 0.14 0.16 ± 0.17 
+
+SDB score > 0.33*** 114 (13) 36 (28) 78 (11) 26 (16) 
+Habitual snoring* 130 (16) 28 (24) 102 (15) 26 (18) 
+Sleepiness score*** 0.16 ± 0.24 0.28 ± 0.28 0.14 ± 0.23 0.18 ± 0.25 
+
+PLMS score*** 0.18 ± 0.20 0.30 ± 0.24 0.16 ± 0.19 0.16 ± 0.17 
+PLMS score > 0.33*** 188 (22) 51 (39) 137 (18) 30 (18) 
+Restless legs*** 131 (17) 32 (29) 99 (15) 21 (15) 
+Growing pains*† 60 (8) 14 (13) 46 (7) 2 (1) 
+
+CPI*** 49±13 74 ±12 44 ±7 NA 
+CPI > 60*** 130 (15) 130 (100) 0 (0) NA 
+HI*** 47±13 66 ±15 44 ±9 NA 
+HI > 60*** 120 (14) 77 (59) 43 (6) NA 
+
+Note: Respondents were those whose parents (1) answered the item, and (2) indicated “yes” or “no” rather than “don’t know.” 
+
+SDB = sleep-disordered breathing; PLMS = periodic leg movements during sleep; CPI = Conduct Problem Index; HI = 
+
+Hyperactivity Index; NA = not available. 
+
+† p < .01, .2 for children with and without available CPI; for all other variables, these groups did not differ (p > .10, t test 
+or .2). * p < .05, t test or .2 for children with and without CPI > 60; ** p < .01; *** p < .001. 
+J. AM. ACAD. CHILD ADOLESC. PSYCHIATRY, 42:2, FEBRUARY 2003 
+203 
+
+
+CHERVIN ET AL. 
+
+TABLE 4 
+
+Number (%) With Aggression-Related Symptoms Among 
+All Respondents and Among Those With 
+and Without High SDB Scores 
+
+
+All SDB Score SDB Score 
+Subjects > 0.33 = 0.33 
+(n = 872) (n = 114) (n = 758) 
+Conduct Problem Index 
+Sassy*** 137 (16) 34 (30) 103 (14) 
+Chip on shoulder*** 65 (8) 19 (17) 46 (6) 
+Destructive** 51 (6) 14 (13) 37 (5) 
+Denies mistakes** 118 (14) 25 (22) 93 (12) 
+Quarrelsome*** 116 (13) 31 (28) 85 (11) 
+Bullies others* 54 (6) 13 (12) 41 (5) 
+Fights constantly** 59 (7) 15 (13) 44 (6) 
+Unhappy* 13 (2) 5 (4) 8 (1) 
+Related symptoms 
+Steals 16 (2) 2 (2) 14 (2) 
+Disobedient** 87 (10) 21 (18) 66 (9) 
+Cruel* 25 (3) 7 (6) 18 (2) 
+
+Note: SDB = sleep-disordered breathing. 
+
+* p < .05, .2 or Fisher exact test for children with and without 
+high SDB scores; ** p < .01; *** p < .001. 
+tered. However, demographic and sleep-related data from 
+166 subjects whose parents failed to complete at least two 
+thirds of the CPI items generally did not differ from data of 
+the 872 subjects whose completed questionnaires provided 
+the data analyzed below (Table 3). A DSM-IV symptom-
+based inattention and hyperactivity scale (Chervin et al., 
+2002a), administered directly after the Pediatric Sleep 
+Questionnaire, showed no difference between children 
+with CPI data and those without CPI data (p = .84, t test). 
+
+SDB, PLMS, and Conduct Problems 
+
+Specific behaviors that reflect aggression and conduct 
+problems were generally two to four times more frequent 
+
+TABLE 5 
+
+Number (%) With Aggression-Related Symptoms Among 
+Respondents With and Without High PLMS Scores 
+
+
+PLMS PLMS 
+Score > 0.33 Score = 0.33 
+(n = 188) (n = 684) 
+Conduct Problem Index 
+Sassy*** 51 (27) 86 (13) 
+Chip on shoulder* 22 (12) 43 (6) 
+Destructive* 17 (9) 34 (5) 
+Denies mistakes*** 41 (22) 77 (11) 
+Quarrelsome*** 42 (22) 74 (11) 
+Bullies others* 18 (10) 36 (5) 
+Fights constantly* 19 (10) 40 (6) 
+Unhappy** 8 (4) 5 (1) 
+Related symptoms 
+Steals 5 (3) 11 (2) 
+Disobedient*** 35 (19) 52 (8) 
+Cruel* 10 (5) 15 (2) 
+
+Note: PLMS = periodic leg movements during sleep. 
+
+* p < .05, .2 or Fisher exact test for children with and without 
+high PLMS scores; ** p < .01; *** p < .001. 
+among children at high risk for SDB or PLMS than among 
+those children with lower risk (Tables 4 and 5). Children 
+with high CPI were substantially more likely than other 
+children to have high SDB scores, habitual snoring, and 
+high sleepiness subscores (Table 6). The association between 
+SDB scores and CPI displayed a dose-response relationship 
+(Fig. 1). Among children with habitual snoring, 22% (95% 
+confidence interval [15, 30]) had high CPI, whereas among 
+remaining children, only 13% [11, 16] had high CPI. 
+
+Children with high CPI were significantly more likely 
+than other children to have high PLMS scores, restless 
+legs, and growing pains (Table 6). The association between 
+PLMS scores and CPI showed a dose-response relationship 
+(Fig. 2). Among children with restless legs, 24% [17, 
+
+TABLE 6 
+
+Conditional Logistic Regression Coefficients and Odds Ratiosa for High Conduct 
+Problem Index (CPI > 60) and Sleep-Related Symptoms 
+
+
+CPI > 60 
+
+Regression 
+Change Coefficient Odds Ratio 
+Symptom Modeled (SE) [95% CI] pValue 
+
+SDB score (normalized) Increase by 1 SD 0.53 (0.20) 1.7 [1.4, 2.0] <.0001 
+Habitual snoring Present (vs. absent) 0.63 (0.24) 1.9 [1.1, 3.0] .0101 
+Sleepiness subscore (normalized) Increase by 1 SD 0.47 (0.08) 1.6 [1.4, 1.9] <.0001 
+
+PLMS score (normalized) Increase by 1 SD 0.60 (0.09) 1.8 [1.5, 2.2] <.0001 
+Restless legs Present (vs. absent) 0.91 (0.24) 2.5 [1.5, 3.9] .0002 
+Growing pains Present (vs. absent) 0.74 (0.33) 2.1 [1.1, 3.9] .0238 
+
+Note: SDB = sleep-disordered breathing; PLMS = periodic leg movements during sleep; CI = confidence interval. 
+a Adjusted for age and sex. 
+
+
+J. AM. ACAD. CHILD ADOLESC. PSYCHIATRY, 42:2, FEBRUARY 2003 
+
+CONDUCT PROBLEMS AND SLEEP DISORDERS 
+
+Fig. 1 The sleep-disordered breathing (SDB) score and Conduct Problem Index 
+(CPI) displayed a dose-response association, shown here, that was statisti-
+cally significant (general linear model of ln[CPI] as outcome, F = 73, p < 
+.0001). The numbers of subjects in each SDB bin, from lowest to highest 
+SDB score, were 214, 289, 196, and 173. Box plots show medians and 10th, 
+25th, 75th, and 90th percentiles. 
+
+
+Fig. 2 The periodic leg movements during sleep (PLMS) score and Conduct 
+Problem Index (CPI) displayed a dose-response association, shown here, that 
+was statistically significant (general linear model of ln[CPI] as outcome, F = 
+57, p < .0001). The numbers of subjects in each PLMS bin, from lowest to 
+highest PLMS score, were 297, 385, 135, and 49. Box plots show medians 
+and 10th, 25th, 75th, and 90th percentiles. 
+
+
+33] had high CPI, whereas among children without restless 
+legs, only 12% [10, 15] had high CPI. 
+
+The associations between CPI > 60 and scores for SDB 
+and PLMS retained significance when the two logistic 
+regression models were adjusted for sleepiness subscores 
+(OR = 1.5 [1.2, 1.9], p = .0008 for normalized SDB score; 
+OR = 1.6 [1.3, 2.0], p < .0001 for normalized PLMS 
+score). The strength and significance of these associations 
+also showed essentially no change when analyses were 
+confined to boys, girls, children at or below 8 years old, 
+or children more than 8 years old. 
+
+The attributable risk percent for habitual snoring and 
+CPI > 60 was 45%, and the population attributable risk 
+percent was 11%. The attributable risk percent for restless 
+legs and CPI > 60 was 56%, and the population attributable 
+risk percent was 18%. 
+
+Adjustment for Potential Confounding Factors 
+
+The well-known comorbidity of SDB and PLMS 
+(Chervin, 2001; Chervin and Archbold, 2001) was reflected 
+by the correlation between scores for each condition 
+(Spearman correlation coefficient . = 0.43, p < .0001). 
+This correlation also reflects the fact that the SDB and 
+PLMS scales share two items (B1 and B7). However, a 
+
+multiple logistic regression of CPI > 60 on both scores 
+as explanatory variables (controlling for age and sex) 
+showed that independent associations with CPI remained 
+significant (OR = 1.4 [1.2, 1.7], p = .0005 for SDB score; 
+OR = 1.6 [1.3, 1.9], p < .0001 for PLMS score). 
+
+As expected, hyperactive behavior (HI > 60) was strongly 
+associated with conduct problems (CPI > 60, .2 = 265, 
+p < .0001). However, adjustment of Table 6 models for 
+hyperactivity (HI > 60) still showed significant associations 
+between high CPI and all variables except for two: 
+habitual snoring (OR = 1.4 [0.8, 2.5], p = .27) and growing 
+pains (OR = 1.8 [0.8, 4.1], p = .14). Parents reported 
+that 30 (3.4%) of the children currently took stimulant 
+medication, but adjustment for stimulant use did not alter 
+substantially any of the associations listed in Table 6. 
+
+The relatively nonspecific parental report of “restless 
+sleep” was associated with higher PLMS scores, restless 
+legs, and growing pains (logistic regression and .2 tests 
+all p < .01). However, after adjustment of the last three 
+models in Table 6 for “restless sleep,” CPI still showed 
+significant independent associations with PLMS score 
+(OR = 1.7 [1.4, 2.1], p < .0001) and growing pains 
+(OR = 2.0 [1.0, 3.8], p = .04), and a trend toward association 
+with restless legs (OR = 1.6 [0.9, 2.7], p = .10). 
+
+
+J. AM. ACAD. CHILD ADOLESC. PSYCHIATRY, 42:2, FEBRUARY 2003 
+205 
+
+
+CHERVIN ET AL. 
+
+DISCUSSION 
+
+This study of children at two general pediatrics clinics 
+shows associations between parent-reported conduct 
+problems and symptoms of two childhood sleep disorders, 
+SDB and restless legs syndrome. Excessive daytime 
+sleepiness, which can occur with any sleep disorder, also 
+was associated with conduct problems. The magnitudes 
+of these associations were not small: for example, children 
+at high risk for SDB, in comparison with remaining children, 
+were two to three times more likely to be bullies, 
+constant fighters, sassy to adults, destructive, quarrelsome, 
+disobedient, and cruel. The association between each type 
+of sleep disorder and conduct was dose-dependent and 
+retained significance after adjustment for hyperactive 
+behavior, stimulant use, a less specific complaint of restless 
+sleep, or comorbidity between SDB and PLMS. This 
+survey has several limitations that must be taken into 
+account in interpretation of results. However, the excess 
+frequency of sleep symptoms among children with conduct 
+problems suggests that if sleep disorders do affect 
+daytime behavior, identification and treatment of sleep 
+disorders may offer important opportunities to modify 
+behavior in a substantial minority of aggressive children. 
+
+Hyperactive and aggressive behavior show considerable 
+overlap in children (Jensen et al., 1997; Weller et al., 
+1999), and previous case series of children with SDB have 
+suggested that inattentive, hyperactive, and aggressive 
+behavior are all important comorbidities of this sleep disorder 
+(Guilleminault et al., 1981). Hyperactivity, but not 
+aggressive behavior or conduct disorder, has featured 
+prominently in previous reports about childhood restless 
+legs syndrome and PLMS (Picchietti and Walters, 1999; 
+Picchietti et al., 1998). The current study is the first, to 
+the authors’ knowledge, to address the converse question 
+of whether SDB and restless legs, often undiagnosed in 
+children, may occur at elevated frequencies among the 
+large number of children with conduct problems. Our 
+unambiguous results highlight the importance of another 
+question: Do sleep disorders cause or contribute to conduct 
+problems in some children? The apparent dose-
+response relationships identified in our cross-sectional 
+data support, but cannot prove, an affirmative answer. 
+
+Limited evidence that sleep disorders may contribute 
+to hyperactive behavior derives from nonrandomized, 
+nonblinded studies in which treatment for SDB 
+(Guilleminault et al., 1982) or restless legs and PLMS 
+(Walters et al., 2000) improved behavior. One study with 
+
+a quasi-experimental design showed that parent- but not 
+teacher-rated aggression improved after childhood SDB 
+was treated by tonsillectomy (Ali et al., 1996). Heritable 
+components of aggressive, antisocial behavior have been 
+recognized in the past (Bohman, 1996), and sleep disorders 
+could constitute some of these genetic risk factors. 
+Studies of SDB suggest a prominent heritable factor 
+(Guilleminault et al., 1995; Redline et al., 1995). Childhood 
+restless legs syndrome and PLMS are also familial in many 
+cases (Picchietti and Walters, 1999). 
+
+Several possible mechanisms could explain an effect of 
+sleep disorders on daytime behavior. Excessive daytime 
+sleepiness is common to many different sleep disorders 
+and could mediate effects on behavior. Hyperactive children 
+tend to be sleepier than other children (Chervin 
+et al., 2002a; Lecendreux et al., 2000), and some electrophysiological 
+evidence suggests that aggressive individuals 
+have decreased arousal levels at rest (Houston and 
+Stanford, 2001). Pathologically sleepy children still may 
+have strong drives to stay awake at ages during which 
+learning is critical, and stimulus-seeking behavior may 
+be the result. Consequences of inadequate sleep or sleepiness 
+may include impaired executive functioning, regulation 
+of impulsivity, and control of emotions (Dahl, 
+1996), all of which could facilitate aggressive behavior 
+(Giancola et al., 1998; Halperin et al., 1995; Oosterlaan 
+and Sergeant, 1996; Rebok et al., 1996; ). These cognitive 
+processes normally are mediated, at least in part, by 
+the dorsolateral prefrontal cortex. Preliminary data from 
+functional imaging studies of adults with SDB suggest 
+decreased activity in this brain region and improvement 
+after treatment (Thomas et al., 2001). 
+
+Despite the attractiveness of the hypothesis that sleepiness 
+might mediate an effect of sleep disorders on daytime 
+behavior, the associations we identified between 
+conduct and sleep-related symptoms were not greatly 
+diminished when a questionnaire subscale for sleepiness 
+was taken into account. Another potential intermediate 
+variable between sleep disorders and aggression, though 
+not assessed in the current research, is affective disorder. 
+Disruptive behaviors may be common in children with 
+affective disorder (Puig-Antich, 1982), a condition with 
+important relationships to sleep. 
+
+Behavior and underlying cognitive processes also could 
+be affected by recurrent hypoxemia associated with SDB. 
+Exposure of young rats to intermittent hypoxemia during 
+sleep causes measurable behavioral changes along with 
+neocortical and hippocampal apoptosis (Gozal et al., 
+
+
+J. AM. ACAD. CHILD ADOLESC. PSYCHIATRY, 42:2, FEBRUARY 2003 
+
+CONDUCT PROBLEMS AND SLEEP DISORDERS 
+
+2001a). Furthermore, apoptosis occurs during a window 
+of vulnerability—primarily between 10 and 25 days after 
+birth in rats—that could have an analogy in young children 
+with SDB (Gozal et al., 2001b). The frequency of 
+bullying in children peaks at about age 7 and declines 
+thereafter (Olweus, 1993), along a time course only slightly 
+delayed from that of adenotonsillar hypertrophy, the most 
+common cause of SDB in children. 
+
+Limitations 
+
+The current study is limited by its measures and cross-
+sectional design, which allowed examination of an important 
+association in a large number of subjects, at the expense 
+of diagnostic precision and ability to address underlying 
+mechanisms. The Pediatric Sleep Questionnaire is validated 
+as a useful research tool for SDB (Chervin et al., 
+2000), PLMS (Chervin and Hedger, 2001), and sleepiness 
+(Chervin et al., 2000), but it cannot replace sleep laboratory 
+measures of each phenomenon. Although validity data 
+failed to demonstrate differential function within the age 
+range included in the current study, the breadth of that 
+range is likely to encompass children whose sleep and behavior 
+problems have important differences. The CPRS-48 is 
+well validated and widely used, but it is not designed to 
+identify DSM-IV–defined conduct disorder and it does 
+not include clinical features such as the chronicity of behavior 
+or reports from multiple observers. Not all potential 
+subjects for this study consented and completed all questionnaires, 
+and we could characterize only a portion of 
+nonparticipants. Therefore, results may have been subject 
+to some selection bias. Although subjects with more than 
+one-third missing data on questionnaires were excluded, 
+residual effects of missing responses, “don’t know” responses, 
+or potential specific combinations of missing data remain 
+unknown. Our analyses of associations between sleep symptoms 
+and aggression were not the primary prospective aim 
+of the research protocol, and our findings merit verification. 
+Longitudinal clinical trials will be required to determine 
+whether gold-standard measures of sleep and psychiatric 
+pathology confirm the associations we have identified and 
+whether these associations arise because sleep disorders 
+contribute to aggressive behavior or because important 
+covariates were omitted. For example, one unstudied covariate 
+that deserves further study is posttraumatic stress disorder, 
+which is know to be common in adolescents with 
+conduct disorder (Reebye et al., 2000) and to be associated 
+with sleep disturbances (Ohayon and Shapiro, 2000). 
+
+Clinical Implications 
+
+If future studies do support a causal role for sleep disorders 
+in some children with conduct problems, the current 
+data suggest a potentially important impact on public 
+health: 11% of general pediatric clinic patients with conduct 
+problems could benefit if their habitual snoring and 
+any underlying SDB were addressed, and 18% could benefit 
+if their restless legs and underlying PLMS were addressed. 
+Aggression among children is a highly prevalent problem, 
+as are sleep deprivation and some primary sleep disorders. 
+However, potential sleep disorders are seldom discussed at 
+general pediatrics office visits, perhaps in part because sleep 
+medicine occupies only a minute fraction of pediatric residency 
+training curricula (Chervin et al., 2001; Mindell 
+et al., 1994). Increased efforts to teach physicians, other 
+clinicians, and parents about childhood sleep disorders 
+should be a high priority, especially if their recognition and 
+treatment offers a new strategy to address some of the most 
+common behavioral challenges in this age group. 
+
+REFERENCES 
+
+Ali NJ, Pitson D, Stradling JR (1996), Sleep disordered breathing: effects of 
+adenotonsillectomy on behaviour and psychological functioning. Eur J 
+Pediatr 155:56–62 
+
+American Psychiatric Association (2000), Diagnostic and Statistical Manual 
+of Mental Disorders, 4th edition, Text Revision. Washington, DC: American 
+Psychiatric Association 
+
+Archbold KH, Pituch KJ, Panahi P, Chervin RD (2002), Symptoms of sleep 
+disturbances among children at two general pediatric clinics. J Pediatr 
+140:97–102 
+
+Bohman M (1996), Predisposition to criminality: Swedish adoption studies 
+in retrospect. In: Genetics of Criminal and Antisocial Behavior, Rutter M, 
+ed. Chichester, England: Wiley 
+
+Chervin RD (2001), Periodic leg movements and sleepiness in patients evaluated 
+for sleep-disordered breathing. Am J Respir Crit Care Med 164:1454–1458 
+Chervin RD, Archbold KH (2001), Hyperactivity and polysomnographic 
+findings in children evaluated for sleep-disordered breathing. Sleep 24:313–320 
+Chervin RD, Archbold KH, Dillon JE et al. (2002a), Inattention, hyperactivity, 
+and symptoms of sleep-disordered breathing. Pediatrics 109:449–456 
+
+Chervin RD, Archbold KH, Dillon JE et al. (2002b), Associations between 
+symptoms of inattention, hyperactivity, restless legs, and periodic leg movements. 
+Sleep 25:213–218 
+
+Chervin RD, Hedger KM (2001), Clinical prediction of periodic leg movements 
+during sleep in children. Sleep Med 2:501–510 
+
+Chervin RD, Hedger KM, Dillon JE, Pituch KJ (2000), Pediatric Sleep 
+Questionnaire (PSQ): validity and reliability of scales for sleep-disordered 
+breathing, snoring, sleepiness, and behavioral problems. Sleep Med 1:21–32 
+
+Chervin RD, Hedger KM, Panahi P, Pituch KJ (2001), Sleep problems seldom 
+addressed at two general pediatric clinics. Pediatrics 107:1375–1380 
+Conners CK, Barkley RA (1985), Rating scales and checklists for child psychopharmacology. 
+Psychopharmacol Bull 21:809–868 
+Dahl RE (1996), The impact of inadequate sleep on children’s daytime cognitive 
+function. Semin Pediatr Neurol 3:44–50 
+
+Giancola PR, Mezzich AC, Tarter RE (1998), Disruptive, delinquent and aggressive 
+behavior in female adolescents with a psychoactive substance use disorder: 
+relation to executive cognitive functioning. J Stud Alcohol 59:560–567 
+
+Goyette CH, Conners CK, Ulrich RF (1978), Normative data on Revised 
+Conners Parent and Teacher Rating Scales. J Abnorm Child Psychol 6:221–236 
+
+
+J. AM. ACAD. CHILD ADOLESC. PSYCHIATRY, 42:2, FEBRUARY 2003 
+207 
+
+
+CHERVIN ET AL. 
+
+Gozal D, Daniel JM, Dohanich GP (2001a), Behavioral and anatomical correlates 
+of chronic episodic hypoxia during sleep in the rat. J Neurosci 21:2442–2450 
+
+Gozal E, Row BW, Schurr A, Gozal D (2001b), Developmental differences 
+in cortical and hippocampal vulnerability to intermittent hypoxia in the 
+rat. Neurosci Lett 305:197–201 
+
+Guilleminault C, Korobkin R, Winkle R (1981), A review of 50 children with 
+obstructive sleep apnea syndrome. Lung 159:275–287 
+
+Guilleminault C, Partinen M, Hollman K, Powell N, Stoohs R (1995), Familial 
+aggregates in obstructive sleep apnea syndrome. Chest 107:1545–1551 
+
+Guilleminault C, Winkle R, Korobkin R, Simmons B (1982), Children and 
+nocturnal snoring: evaluation of the effects of sleep related respiratory 
+resistive load and daytime functioning. Eur J Pediatr 139:165–171 
+
+Halperin JM, Newcorn JH, Matier K, Bedi G, Hall S, Sharma V (1995), 
+Impulsivity and the initiation of fights in children with disruptive behavior 
+disorders. J Child Psychol Psychiatry 36:1199–1211 
+
+Hennekens CH, Buring JE (1987), Epidemiology in Medicine. Boston: Little, 
+Brown and Company 
+
+Houston RJ, Stanford MS (2001), Mid-latency evoked potentials in self-
+reported impulsive aggression. Int J Psychophysiol 40:1–15 
+
+Jensen PS, Martin D, Cantwell DP (1997), Comorbidity in ADHD: implications 
+for research, practice, and DSM-V. J Am Acad Child Adolesc Psychiatry 
+36:1065–1079 
+
+Lecendreux M, Konofal E, Bouvard M, Falissard B, Mouren-Simeoni MC 
+(2000), Sleep and alertness in children with ADHD. J Child Psychol 
+Psychiatry 41:803–812 
+
+Mindell JA, Moline ML, Zendell SM, Brown LW, Fry JM (1994), Pediatricians 
+and sleep disorders: training and practice. Pediatrics 94:194–200 
+
+Offord DR, Boyle MH, Szatmari P et al. (1987), Ontario Child Health Study, 
+
+II: six-month prevalence of disorder and rates of service utilization. Arch 
+Gen Psychiatry 44:832–836 
+Ohayon MM, Shapiro CM (2000), Sleep disturbances and psychiatric disorders 
+associated with posttraumatic stress disorder in the general population. 
+Compr Psychiatry 41:469–478 
+
+Olweus D (1993), Bullying at School: What We Know and What We Can Do. 
+Cambridge, MA: Blackwell 
+
+Oosterlaan J, Sergeant JA (1996), Inhibition in ADHD, aggressive, and anxious 
+children: a biologically based model of child psychopathology. J 
+Abnorm Child Psychol 24:19–36 
+
+Picchietti DL, England SJ, Walters AS, Willis K, Verrico T (1998), Periodic limb 
+movement disorder and restless legs syndrome in children with attentiondeficit-
+hyperactivity disorder. J Child Neurol 13:588–594 
+
+Picchietti DL, Walters AS (1999), Moderate to severe periodic limb movement 
+disorder in childhood and adolescence. Sleep 22:297–300 
+
+Puig-Antich J (1982), Major depression and conduct disorder in prepuberty. 
+J Am Acad Child Psychiatry 21:118–128 
+
+Rebok GW, Hawkins WE, Krener P, Mayer LS, Kellam SG (1996), Effect of 
+concentration problems on the malleability of children’s aggressive and 
+shy behaviors. J Am Acad Child Adolesc Psychiatry 35:193–203 
+
+Redline S, Tishler PV, Tosteson TD et al. (1995), The familial aggregation of 
+obstructive sleep apnea. Am J Respir Crit Care Med 151:682–687 
+
+Reebye P, Moretti MM, Wiebe VJ, Lessard JC (2000), Symptoms of post-
+traumatic stress disorder in adolescents with conduct disorder: sex differences 
+and onset patterns. Can J Psychiatry 45:746–751 
+
+Robins LN, Price RK (1991), Adult disorders predicted by childhood conduct 
+problems: results from the NIMH Epidemiologic Catchment Area 
+project. Psychiatry 54:116–132 
+
+Scott S (1998), Aggressive behaviour in childhood. BMJ 316:202–206 
+
+Thomas RJ, Rosen BR, Bush G, Kwong KK (2001), Working memory in 
+obstructive sleep apnea: a functional magnetic resonance imaging study. 
+Soc Neurosci Abstr 
+
+Walters AS, Mandelbaum DE, Lewin DS, Kugler S, England SJ, Miller M 
+(2000), Dopaminergic therapy in children with restless legs/periodic limb 
+movements in sleep and ADHD. Pediatr Neurol 22:182–186 
+
+Weller EB, Rowan A, Elia J, Weller RA (1999), Aggressive behavior in patients 
+with attention-deficit/hyperactivity disorder, conduct disorder, and pervasive 
+developmental disorders. J Clin Psychiatry 60(suppl 15):5–11 
+
+
+J. AM. ACAD. CHILD ADOLESC. PSYCHIATRY, 42:2, FEBRUARY 2003 
+

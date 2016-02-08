@@ -1,0 +1,874 @@
+Pediatr Nephrol (2004) 19:1014–1020 
+DOI 10.1007/s00467-004-1513-1 
+
+ORI GINAL ARTI CLE 
+Erin 
+Parrish 
+Reade 
+· 
+Craig 
+Whaley 
+· 
+Jen-Jar 
+Lin 
+· 
+Daniel 
+W. 
+McKenney 
+· 
+Daniel 
+Lee 
+· 
+Ronald 
+Perkin 
+
+
+Hypopnea 
+in 
+pediatric 
+patients 
+with 
+obesity 
+hypertension 
+
+
+Received:8 September 2003/Revised: 13 April 2004/Accepted: 13 April 2004/Published online:4 June 2004 
+
+ IPNA 2004 
+Abstract 
+Obesity is associated with the development of 
+hypertension but it is still not clear why hypertension is 
+not observedin allobesepatients. Obesityisariskfactor 
+for the development of obstructive sleep apnea syndrome 
+(OSAS) in children. OSAS has been linked to the development
+ of hypertension in adults and children. The purpose
+ of this study was to test the hypothesis that OSAS is 
+one of the reasons that some obese children are hypertensive
+ and some are not. The overnight polysomnography 
+records of 90 patients (aged 4.2–18.8 years) were reviewed.
+ BMIscore [body mass index (BMI)/95thpercentile 
+BMIfor age, sex, and race] was usedto express the degree 
+of obesity. The severity of systolic hypertension and diastolic
+ hypertension were expressed as SBPscore (systolic 
+BP/the 95thpercentile systolic BP for age, sex, and height) 
+and DBPscore (diastolic BP/the 95thpercentile diastolic BP 
+for age, sex, andheight), respectively. OSAS was defined 
+
+E. P. Reade ·C. Whaley ·R. Perkin 
+Department of Pediatrics, Brody School of Medicine, 
+East Carolina University, 
+Greenville, North Carolina, USA 
+D. Lee 
+East Carolina Neurology, 
+Greenville, North Carolina, USA 
+D. W. McKenney 
+Department of Pediatrics, Kosair Charities Pediatric Center, 
+University of Kentucky at Louisville, 
+Kentucky, USA 
+J.-J. Lin 
+Department of Pediatrics and Communicable Diseases, 
+University of Michigan, 
+Ann Arbor, Michigan, USA 
+
+
+J.-J. Lin()) 
+Department of Pediatric Nephrology, University of Michigan, 
+Mott Children’s Hospital, 
+F6865/0297, 1505 Simpson Road East, Ann Arbor, 
+MI 48109–0297, USA 
+e-mail: jenlin@umich.edu 
+Tel.: +1-734-9364210 
+Fax: +1-734-7636997 
+
+
+asmorethan oneepisodesofapneaperhour(AI) oranO2 
+saturation associated with obstructive apnea of less than 
+90%.There were56 obesepatients;42werehypertensive 
+and40patients werediagnosedwithOSAS.Theincidence 
+of hypertension (68% vs. 30%)and obesity (75% vs. 52%) 
+was higher in OSAS patients than those without OSAS. 
+Comparedwiththe non-obese patients, obese patients had 
+a higher incidence of hypertension or OSAS, a higher 
+BMIscore, SBPscore,DBPscore, AI, hypopnea index (HI), 
+and apnea-hypopnea index (AHI). In obese patients, both 
+SBPscore and DBPscore correlated positivelywithBMIscore, 
+arousal index, and HI. DBPscore also correlated positively 
+with AHI. Multiple regression analysis showed that HI 
+and BMIscore were significant independent predictors of 
+SBPscore or DBPscore.Obese and hypertensive patients had 
+ahigherHI,AHI, andincidenceof OSAS(64% vs. 29%) 
+than the obese and normotensive patients. In conclusion, 
+HI had a significant correlation with the degree of hypertension
+ in obese patients, which could not be attributed 
+tothedegreeofobesity.Thesefindingsare consistentwith 
+thehypothesis thatOSASisoneofthereasonswhysome 
+obese children are hypertensive and some are not. 
+
+Keywords 
+Sleep apnea · Hypertension · Hypopnea · 
+Obesity 
+
+Introduction 
+
+
+The incidence of obesity has increased significantly in the 
+past 2 decades with an estimated prevalence of 13% in 
+children aged 6–11 years and 14% in adolescents aged 
+12–19 years [1]. In adults, obesity is associated with the 
+development of hypertension [2] and an increased risk of 
+cardiovascular disease (CVD) [3]. Likewise, hypertension 
+is a risk factor for CVD in adults [4]. Since 25%–50% of 
+obese adolescents remain obese into adulthood [5] and 
+childhood hypertension is associated with the future development
+ of systolic hypertension in adulthood [6, 7], it 
+is likely that obese children with hypertension will have 
+an increased risk for CVD and morbidity compared with 
+
+
+those children who are obese but normotensive. Although 
+the long-term outcome of obese children with hypertension
+ is not known, cerebral hemorrhage and heart disease 
+have been described in obese hypertensive adolescents 
+within a 10-year follow-up period [8]. While the association
+ between obesity and hypertension has been attributed
+ to an impaired pressure natriuresis [9], it is not 
+clear why hypertension is not observed in all obese 
+children. Exploration of its mechanisms will allow us to 
+take measures to prevent the development of hypertension 
+in obese children such that their future CVD risk can be 
+reduced. 
+
+Obesity is a risk factor for the development of obstructive
+ sleep apnea syndrome (OSAS) in children and 
+adolescents [10, 11]. There is an increased incidence of 
+OSAS in obese children [12]. OSAS has also been linked 
+to the development of hypertension in adults, and there is 
+an increased incidence of hypertension in adult patients 
+with OSAS [13, 14]. Adult patients with OSAS have a 
+higher incidence of hypertension, independent of their 
+age, sex, body mass index (BMI), or waist and neck circumferences,
+ than those without OSAS after a 4-year 
+follow-up period [15]. Epidemiological studies have demonstrated
+ that OSAS is an independent predictor for sustained
+ hypertension in adults [16]. A direct cause-effect 
+link between OSAS and hypertension is supported by the 
+findings that chronic application of continuous positive 
+airway pressure to hypertensive OSAS patients results in 
+reduction of blood pressure (BP) [17, 18]. It is possible 
+that OSAS is associated with an increased risk of hypertension
+ in obese children. To test this hypothesis, we 
+retrospectively reviewed the data of overnight sleep 
+studies in pediatric patients and compared the incidence 
+of OSAS between obese hypertensive children and obese 
+normotensive children. 
+
+Materials 
+and 
+methods 
+
+
+This study was approved by the University and Medical Center 
+Institutional Review Board of East Carolina University, North 
+Carolina. Records of overnight sleep studies between October 2000 
+and January 2003 from 130 pediatric patients were reviewed. After 
+exclusion of patients with renal failure, transplantation, mental 
+retardation, neuromuscular diseases, diabetes mellitus, chronic lung 
+disease, congenital heart disease, sickle cell disease, or antihypertensive
+ therapy, data from 90 patients were included for analysis. 
+These patients were referred by their primary physicians for sleep 
+study because of their clinical presentation. Their symptoms included
+ daytime hypersomnolence (72%), snoring (91%), difficult 
+breathing (30%), sweating (11%), apnea (36%), frequent arousal 
+(13%), restless sleep (28%), and mouth breathing (12%) during 
+sleep. Patients were interviewed in the sleep clinic where their 
+medical history, weight, height, and manual BP (single measurement
+ according to the guidelines of the 1996 Task Force) were 
+obtained. If the sleep study was indicated, it was performed within 
+1 month of the clinic visit. 
+
+Patients were admitted to the Sleep Center at Pitt County 
+Memorial Hospital (Greenville, N.C.) for overnight polysomnographic
+ (PSG) study performed according to the recommendations 
+of the American Thoracic Society [19]. One parent was asked to 
+stay with the patient. Data from air oronasal flow, electroencephalogram
+ (EEG), electrocardiogram, electrooculogram, tibial and 
+
+submental electromyogram, chest and abdominal motion, pulse 
+oximeter, and end-tidal PCO2 were recorded continuously on PSG 
+(Nihon Kohden, Japan). Apnea was defined as a greater than 50% 
+reduction of airflow with a minimum duration of 10 s and an associated
+ desaturation of 3% or greater, and/or a sleep arousal. 
+Hypopnea was defined as a 20%–50% reduction in airflow with a 
+minimum duration of 10 s and an associated desaturation of 3% or 
+greater, and/ora sleep arousal. EEG arousal was defined asa higher 
+frequency shiftin EEG lasting more than3 s. The arousal index was 
+the number of EEG arousals per hour of sleep as a result of apnea, 
+periodic limb movement, or snoring. The sampling rate of the pulse 
+oximeter was 1/s. Maximal O2 desaturation (%) was the maximal 
+decline in oxygen saturation from the baseline level during sleep. 
+The apnea index (AI) was the episodes of central, mixed, and obstructive
+ apnea per hour of sleep. The hypopnea index (HI) was the 
+episodes of hypopnea per hour of sleep. The apnea-hypopnea index 
+(AHI) was the sum of AI and HI. Patients were diagnosed with 
+OSAS if the AI was >1 or if the lowest O2 saturation associated 
+with obstructive apnea was less than 90%, as suggested by Marcus 
+et al. [20]. 
+
+Hypertension was defined as systolic (SBP) or diastolic blood 
+pressure (DBP) equal to or greater than 95th percentile for age, sex, 
+and height according to the reference values of Rosner et al. [21]. 
+Obesity was defined as a BMI equal to or greater than the 95th 
+percentile for age, sex, and race according to the published data for 
+American children [22, 23]. To express the degree of obesity, we 
+used the BMI score (BMIscore), which is the ratio of BMI to the 95th 
+percentile BMI for age, sex, and race in this study. Similarly, we 
+used SBP score (SBPscore), which is the ratio of systolic BP to the 
+95th percentile systolic BP for age, sex, and height, and DBP score 
+(DBPscore), which is the ratio of diastolic BP to the 95th percentile 
+diastolic BP for age, sex, and height, to express the severity of 
+hypertension. 
+
+Statistics 
+
+All data are mean€SD. Yates corrected chi-squared test or Mann-
+Whitney U test was used to compare the difference between two 
+groups when appropriate. Spearman’s rank order test was used to 
+examine correlations between the variables. Forward stepwise 
+multiple regression analysis was used to examine significant independent
+ predictors of the dependent variable. A P<0.05 was 
+considered statistically significant. 
+
+Results 
+
+
+The mean age of the 58 males and 32 females studied 
+was 10.7 years (range 4.2–18.8 years). Their BMI was 
+28.2€11.1 kg/m2. There were 58 African-American patients,
+ 31 Caucasians, and 1 of Hispanic origin; 25 patients
+ had a history of asthma. There were 56 obese patients
+ (62%) and 42 (47%) had either systolic or diastolic 
+hypertension. 
+
+Forty patients (44%) were diagnosed with OSAS. All 
+OSAS patients had symptoms of snoring and/or hyper-
+somnolence. There was no significant difference between 
+patients with(n=40) and without(n=50) OSAS in their 
+age (10.0€3.9 vs. 11.2€3.6 years), sex (male/female 29/11 
+vs. 29/21), race (Caucasian/African-American 12/27 vs. 
+19/31), and the percentage of patients with asthma (23% 
+vs. 32%). As shown in Table 1, the incidences of hypertension
+ (68%) and obesity (75%) was significantly 
+higher in OSAS patients, as demonstrated by their higher 
+BMIscore, SBPscore, and DBPscore.OfOSAS patients, there 
+were 14 patients with isolated systolic hypertension, 4 
+
+
+Table 
+1 
+Demographic data of patients with or without obstructive 
+sleep apnea syndrome (OSAS)(BMI 
+body mass index, SBP 
+systolic 
+blood pressure, DBP 
+diastolic blood pressure) 
+
+Non-OSAS (n=50) OSAS (n=40) 
+Hypertension, n 
+(%) 
+Obesity, n 
+(%) 
+BMIscore 
+SBPscore 
+DBPscore 
+15 (30%) 
+26 (52%) 
+1.03€0.32 
+0.94€0.11 
+0.84€0.12 
+27 (68%)** 
+30 (75%)* 
+1.27€0.40** 
+0.99€0.12* 
+0.93€0.14*** 
+
+*P<0.05, **P<0.005, ***P<0.0005 vs. non-OSAS patients 
+BMIscore is the ratio of BMI to the 95th percentile BMI for age, sex, 
+and race 
+SBPscore is the ratio of systolic BP to the 95th percentile systolic BP 
+for age, sex, and height 
+DBPscore is the ratio of diastolic BP to the 95th percentile diastolic 
+BP for age, sex, and height 
+
+Table 
+2 
+Correlation coefficients between BP scores and demographic
+ or polysomnographic data in all patients(n=90)(AI 
+apnea 
+index, HI 
+hypopnea index, AHI 
+apnea-hypopnea index) 
+
+SBPscore DBPscore BMIscore 
+BMIscore, 1.14€0.38 0.62*** 0.60***  
+Arousal index, 1.57€1.20 0.49*** 0.45*** 0.77*** 
+AI, 4.74€9.07 0.08 0.19 0.09 
+HI, 2.72€5.17 0.39*** 0.42*** 0.44*** 
+AHI, 7.45€12.28 0.27* 0.35** 0.29** 
+
+*P<0.05, **P<0.005, ***P<0.0005 
+Arousal index is the number of arousal as a result of periodic limb 
+movement or snoring per hour of sleep 
+AI is the episodes of apnea per hour of sleep 
+HI is the episodes of hypopnea per hour of sleep 
+AHI is the sum of AI and HI 
+
+with isolated diastolic hypertension, and9with combined 
+systolic and diastolic hypertension. The prevalence of 
+systolic (58%) and diastolic (33%) hypertension among 
+patients with OSAS and hypertension was not significantly
+ different(P=0.28). 
+
+Correlation analysis of all patients is presented in 
+Table 2. There was no correlation between BMIscore, 
+SBPscore, DBPscore, or any PSG variable with age (data not 
+shown). There was no correlation between the maximal 
+O2 desaturation and SBPscore, DBPscore, or BMIscore. Both 
+SBPscore and DBPscore correlated positively with BMIscore, 
+arousal index, HI, and AHI. Similarly, BMIscore correlated 
+positively with arousal index, HI, and AHI. To examine 
+the independent predictors of SBPscore or DBPscore, forward
+ stepwise multiple regression analysis was performed 
+in all patients using BMIscore, arousal index, HI, and AHI 
+as independent variables. Data of these PSG variables 
+were log transformed [log10(data+1)] before the analysis 
+because of their skewed distribution. For SBPscore, this 
+model explained 40% of its variability. BMIscore was the 
+only significant predictor of SBPscore, which explained 
+38% of its variability(b=0.55, P=0.000). For DBPscore, 
+this model explained 38% of its variability. BMIscore 
+alone explained 35% of variability (b=0.51, P=0.000). 
+The addition of HI explained another 3% of variability 
+that was significant(b=0.19, P=0.044). These results in-
+
+Table 
+3 
+Demographic and polysomnographic data of non-obese 
+and obese patients 
+
+Non-obese(n=34) Obese(n=56) 
+
+Hypertension, n 
+(%) 3 (8%) 39 (70%)*** 
+OSAS, n 
+(%) 10 (29%) 30 (54%)* 
+BMIscore 0.77€0.14 1.36€0.29*** 
+SBPscore 0.88€0.09 1.02€0.10*** 
+DBPscore 0.79€0.11 0.93€0.12*** 
+Arousal index 1.00€0.47 1.91€1.37*** 
+AI 4.17€8.87 5.08€9.26 
+HI 0.89€1.54 3.83€6.20*** 
+AHI 5.06€9.20 8.91€13.69* 
+
+
+*P<0.05, **P<0.005, ***P<0.0005 vs. non-obese patients 
+
+Table 
+4 
+Correlation coefficients between BP scores and demographic
+ or polysomnographic data of obese patients(n=56) 
+
+SBPscore DBPscore BMIscore 
+
+BMIscore 0.33* 0.37** . 
+Arousal index 0.32* 0.28* 0.67*** 
+MaximalO2 desaturation 0.04 0.13 0.31* 
+(%) 
+AI 0.03 0.23 0.14 
+HI 0.34* 0.44** 0.25 
+AHI 0.20 0.40** 0.28* 
+
+
+*P<0.05, **P<0.005, ***P<0.0005 
+
+dicate that BMIscore was a determinant of SBPscore or 
+DBPscore among the variables examined. Although HI was 
+another significant determinant of DBPscore, it only accounted
+ for a small amount of variability. 
+
+Data of non-obese and obese patients are shown in 
+Table 3. There was no significant difference between their 
+age, male/female ratio, racial distribution, incidence of 
+asthma, or maximalO2 desaturation during sleep (data not 
+shown). Compared with non-obese patients, obese patients
+ had a higher incidence of hypertension (70%) and 
+OSAS (54%) and a higher BMIscore, SBPscore, DBPscore, 
+arousal index, HI, and AHI. Of the 39 obese patients with 
+hypertension, 25 had OSAS (64%) and 2 of the 3 non-
+obese patients with hypertension had OSAS. Of the obese 
+patients, 22 had isolated systolic hypertension, 13 had 
+both systolic and diastolic hypertension, and4 had isolated
+ diastolic hypertension. In the non-obese group, 1 
+patient had isolated systolic hypertension, 1 patient had 
+both systolic and diastolic hypertension, and 1 patient 
+had isolated diastolic hypertension. Obese patients had a 
+higher incidence of systolic hypertension (63% vs. 6%, 
+P<0.05), diastolic hypertension (30% vs. 6%, P<0.05), 
+and OSAS (54% vs. 29%, P<0.05) than the non-obese 
+patients. 
+
+The correlation analysis of BP and other variables in 
+obese patients is presented in Table 4. Both SBPscore and 
+DBPscore correlated positively with BMIscore, arousal 
+index, and HI. In addition, DBPscore correlated positively 
+with AHI. BMIscore correlated positively with arousal 
+index, maximal O2 desaturation, and AHI. There was 
+no correlation between age and SBPscore, DBPscore,or 
+BMIscore (data not shown). Forward stepwise multiple 
+
+
+Table 
+5 
+Demographic and polysomnographic data of obese patients
+ with or without hypertension 
+
+Normotensive (n=17) Hypertensive (n=39) 
+OSAS, n 
+(%) 
+SBPscore 
+DBPscore 
+Arousal index 
+5 (29%) 
+0.91€0.06 
+0.84€0.07 
+1.79€1.14 
+25 (64%)* 
+1.06€0.07*** 
+0.97€0.11*** 
+1.96€1.47 
+AI 3.66€7.35 5.70€10.00 
+HI 1.58€3.17 4.80€6.94** 
+AHI 5.24€8.85 10.5€15.2* 
+
+*P<0.05, **P<0.005, ***P<0.0005 vs. normotensive patients 
+
+regression analysis for the determinants of SBPscore and 
+DBPscore was performed using BMIscore, arousal index, 
+HI, and AHI as independent variables. Data of these 
+PSG variables were log transformed [log10(data+1)] before
+ the analysis because of their skewed distribution. For 
+SBPscore, this model explained 23% of its variability. 
+BMIscore alone accounted for 14% of the variability 
+(b=0.33, P=0.004). Addition of HI added another 7% of 
+variability(b=0.42), which was significant(P=0.04). For 
+DBPscore, this model accounted for a total of 28% variability.
+HI alone explained 18%of the variability(b=0.32, 
+P=0.01). Addition of BMIscore explained another 10% of 
+the variabilityin DBPscore, which was significant(b=0.34, 
+P=0.001). In non-obese patients, except for a positive 
+correlation between BMIscore and arousal index, there was 
+no correlation of SBPscore, DBPscore, or BMIscore with any 
+of the PSG variables examined (data not shown). 
+
+We next compared the data of hypertensive and normotensive
+ patients in the obese group. There was no 
+difference in their age (11.0€3.4 vs. 11.1€4.0 years), sex 
+(male/female 24/15 vs. 11/6), race (Caucasian/African-
+American 12/27 vs. 7/10), incidence of asthma (26% vs. 
+24%), BMIscore (1.38€0.3 vs. 1.30€0.28), or maximalO2 
+desaturation (10.3€7.9 vs. 9.97€8.8%). As shown in Table
+ 5, obese and hypertensive patients had a higher incidence
+ of OSAS (64%) than the obese and normotensive 
+patients (29%). Among the PSG variables examined, 
+higher HI and AHI were seen in hypertensive patients. 
+Both HI and BMIscore were significant independent predictors
+ of SBPscore and DBPscore. 
+
+Discussion 
+
+
+There are only a few studies examining the association of 
+hypertension and OSAS in pediatric patients. Guilleminault
+ et al. [24] reported five children with sleep apnea 
+and hypertension. BP was normalized after tonsillectomy 
+and adenoidectomy (T and A) in three patients and after 
+tracheotomy in two patients. Serratto et al. [25] described 
+three pediatric patients with severe hypertension and right 
+heart failure. Two had normal BP after T and A and the 
+other after tracheotomy. Ross et al. [26] described the 
+resolution of left ventricular hypertrophy and a reduced 
+antihypertensive medication after T and A and tracheotomy
+ in one child with sleep apnea. While these reports 
+
+support a link between OSAS and hypertension, cases are 
+few and most have severe OSAS and hypertension. 
+Marcus et al. [20] examined the nocturnal BP in 41 
+children with OSAS (AI3) and 26 children with primary 
+snoring. BPindex was calculated as the difference between 
+the measured BP and the 95th percentile BP for age, 
+gender, and height.A higher DBPindex, but not SBPindex, 
+was found in OSAS children during wakefulness or sleep. 
+BMI was an independent predictor of SBPindex while age, 
+AI, and BMI were independent predictors of DBPindex.It 
+was concluded that the degree of diastolic hypertension is 
+related to the severity of OSAS and the degree of obesity. 
+Kohyama et al. [27] studied nocturnal BP in 23 children. 
+Higher SBPindex and DBPindex were noted in those children
+ with an AHI of more than 10. Age, BMI, and AHI 
+were significant predictors of SBPindex during REM sleep. 
+It was concluded that nocturnal SBP correlated with the 
+degree of OSAS. 
+
+To the best of our knowledge, the present study is the 
+first to examine the association between office BP and 
+OSAS in obese children. Similar to the findings of Marcus
+ et al. [20] and Kohyama et al. [27], BMI was a significant
+ determinant of SBP and DBP in our study when 
+both obese and non-obese patients were included in the 
+analysis. However, instead of AI or AHI, we found HI 
+wasa significant predictorof DBPscorein all patients. This 
+discrepancy may be related to the following factors. Our 
+study examined the daytime office BP when patients were 
+not sleeping, while their studies examined nocturnal BP at 
+the time of OSAS. Circadian changes in BP may affect 
+the results of analysis. Our definition of hypopnea is 
+different from that of Marcus et al. [20], which could have 
+affected the incidence and results of sleep studies [28].A 
+significant proportion of our patients were obese (62%), 
+which is higher than that the 13% in the study of Kohyama
+ et al. [27] and the 27% in the study of Marcus et al. 
+[20]. Furthermore, it has been shown that children with 
+OSAS usually present with prolonged periods of partial 
+upper airway obstruction and fewer and shorter episodes 
+of complete obstruction [29, 30]. It should be noted that 
+while the use of BPindex by these investigators was to 
+avoid the age difference in BP levels, SBPindex or 
+DBPindex was still related to age in their studies. In our 
+study, SBPscore, DBPscore, or BMIscore was not related to 
+age. 
+
+We observed a high incidence of obesity (75%) in 
+patients with OSAS (Table 1). This is comparable to the 
+reported 60%–70% incidence of obesity in adults with 
+OSAS [31]. Mallory et al. [32] described obesity in 37% 
+of 41 children with a history suggestive of OSAS. However,
+ obesity was defined as a body weight more than 
+150% ideal weight in their study, which is different from 
+our criteria for obesity. In our patients, BMIscore correlated
+ positively with arousal index, HI, or AHI. This is 
+consistent with the study of Redline et al. [10], which 
+reported that obesity is a risk factor for OSAS. Mechanisms
+ underlying the association between obesity and 
+OSAS are not clear. It has been hypothesized that obesity 
+affects breathing during sleep through alteration of upper 
+
+
+airway structure and function, obesity related hypoxemia, 
+or an abnormal ventilatory drive [33]. 
+
+The incidence of hypertension in our patients with 
+OSAS was 68% (Table 1). Guilleminault et al. [34] reported
+ anincidenceofhypertensionof8%in50 children 
+with OSAS. However, 26 of these children had underlying 
+anatomical or neuromuscular disorders that could have 
+affected their BP levels. The difference in BP reference 
+values between their study and ours could also have 
+contributed to the difference in the incidence of hypertension.
+ In our study, HI was a significant independent 
+predictorofDBPscore when all patients wereincluded for 
+analysis. Results from the Wisconsin study [16] suggest 
+that AHI is an independent risk factor for hypertension. 
+Ourfindingsare comparabletotheirssincehypopneaisa 
+more-common presentation than apnea in children with 
+OSAS[29,30].Experimentsindogs have demonstrateda 
+direct cause-effect relationship between OSAS and a 
+sustained daytime hypertension [35]. Episodic hypoxia in 
+rats resulted in sustained hypertension that could be 
+blocked by carotid body denervation, sympathetic nerve 
+ablation, renal sympathectomy, adrenal medullectomy, 
+and an angiotensin-1 receptor blocker, suggesting an 
+overactivity of the adrenergic and renin-angiotensin system
+ from intermittent hypoxia [36]. An increased sympathetic
+ drive as a result ofintermittent hypoxia [37]and/ 
+or arousal [38] has been linked to the development of 
+hypertension in adults with OSAS. Treatment with continuous
+ positive airway pressure in adults with OSAS 
+decreases their sympathetic nerve activity [39, 40]. Other 
+hypothesized mechanisms underlying the association between
+ OSAS and hypertension include dysfunction of the 
+vascular endothelium [41], altered corticotropic function 
+[42], and insulin resistance [43]. 
+
+The degree of obesity correlated strongly with the 
+severity of systolic or diastolic hypertension when both 
+our obese and non-obese patients were included for 
+analysis (Table 2). An impaired renal pressure natriuresis 
+has been suggested to play a central role in obesity induced
+ hypertension [9]. Factors such as insulin resistance, 
+endothelial dysfunction, activation of the renin-angiotensin
+ system, increased sympathetic nervous system activity,
+ renal structural changes, or altered hypothalamic-
+pituitary-adrenal axis have been implicated in its pathogenesis
+ [44]. It is noteworthy that these pathogenic factors 
+are very similar to those described earlier for the hypertension
+ in OSAS. The interactions between mechanisms 
+underlying the association between obesity and hypertension
+ and the association between OSAS and hypertension
+ are likely complicated and remain to be elucidated.
+ 
+
+The incidence of OSAS in our obese patients was 54% 
+(Table 3). Silvestri et al. [45] reported OSAS in 59% of 
+32 obese children. Kahn et al. [46] reported that seven of 
+ten overweight infants have disordered breathing during 
+sleep. Our data are comparable to theirs. In our obese 
+patients (Table 4), HI was a significant independent predictor
+ of SBPscore and DBPscore. Although BMIscore was 
+also a significant independent predictor of both BP scores, 
+
+there was no significant difference in BMIscore between 
+normotensive and hypertensive obese patients (Table 5). 
+These findings suggest that, in addition to BMI, hypopnea 
+correlates significantly with the degree of hypertension in 
+our obese patients. Although these findings do not necessarily
+ indicate a cause-effect relationship between hypopnea
+ and the development of hypertension in these 
+patients, they are consistent with the hypothesis that 
+OSAS may play a significant role and may explain why 
+only some obese children are hypertensive. 
+
+It has been suggested that the baseline BP is variable 
+among individuals, due to genetic differences or other 
+factors that influence BP regulation. An increase in BP 
+from weight gain results in different BP levels in the 
+population, and so some are hypertensive and some are not 
+accordingtothepopulationstandard[44]. Thishypothesis 
+issupportedbythefindingthatweight lossreducesBPin 
+adults with a high or normal BP [47], although this BP-
+lowering effect of weight loss is not observed in every 
+adult [48]. Another possibility is that while the baseline 
+BP levels are similar among individuals with the same 
+body mass, different individuals respond differently to 
+weight gain due to genetic factors. Our findings are 
+not necessarily at variance with these hypotheses. Genetic 
+factors, such as family clustering [49], human leukocyte 
+antigen typing [50], and ethnicity [10], have been implicated
+ in the pathophysiology of OSAS. Different genetic 
+risk for OSAS results in different baseline BP levels in 
+children. An increase in BP due to obesity results in differentBPlevelsinthepopulation,
+ suchthat somechildren 
+are hypertensive and some are not according to the population
+ standard. An alternative explanation for our observationisthat
+ obesity causes some children withgenetic 
+risks for OSAS to develop significant hypopnea during 
+sleep. This in turn elevates their BP further. This, however,
+ remains to be validated. 
+
+In summary, our study demonstrates that the degree of 
+obesity is a significant determinant of PSG variables and 
+the severity of systolic and diastolic hypertension in our 
+patients. In our obese patients, there is a higher incidence 
+of OSAS in those who are hypertensive compared with 
+those who are normotensive. In addition, the HI during 
+sleep is a significant determinant of the severity of systolic
+ or diastolic hypertension. These findings are consistent
+ with the hypothesis that OSAS is one of the reasons
+ why some children are hypertensive and some are 
+not. It should be noted that our data are based on a referral 
+population. The findings are not necessarily applicable to 
+the general population. Prospective studies, both cross-
+sectional and longitudinal, on a non-selected population 
+of children are needed to confirm our findings. 
+
+References 
+
+
+1. National 
+Center for Health Statistics (2001) Prevalence of 
+overweight among children and adolescents, United States, 
+1999. Center for Disease Control 
+
+2. Alpert MA, Hashimi MW (1993) Obesity and the heart. AmJ 
+Med Sci 306:117–123 
+3. Calle EE, Thun MJ, Petrelli JM, Rodriguez C, Heath CW Jr 
+(1999) Body-mass index and mortality in a prospective cohort 
+of US adults.N EnglJ Med 341:1097–1105 
+4. MacMahon SW, Peto R, Cutler J, Collins R, Sorlie P, Neaton J, 
+AbbottR, GodwinJ, DyerA, StamlerJ(1990) Blood pressure, 
+stroke, and coronary heart disease. 1. Prolonged differences in 
+blood pressure: prospective observational studies corrected for 
+the regression dilution bias. Lancet 335:765–774 
+5. Dietz 
+W, Robinson T (1993) Assessment and treatment of 
+childhood obesity. Pediatr Rev 14:337–344 
+6. Louer RM, Clarke WR (1988)A longitudinal review of blood 
+pressure during childhood: the Muscatine Study. Stat Med 
+7:47–57 
+7. Higgins MW, Keller JB, Metzner HL, Moore FE, Ostrander LD 
+Jr (1980) Studies of blood pressure in Tecumseh, Michigan. II. 
+Antecedents of childhood high blood pressure in young adults. 
+Hypertension 2:117–123 
+8. Heyden S, Bartel AG, Hames CG, McDonough JR (1969) Elevated
+ blood pressure levels in adolescents, Evans County, 
+Georgia. JAMA 209:1683–1689 
+9. Hall JE (1997) Mechanisms of abnormal renal sodium handling 
+in obesity hypertension. AmJ Hypertens 10:49S–55S 
+10. Redline 
+S, Tishler PV, Schluchter M, Aylor J, Clark, K, 
+GrahamG(1999) Risk factors for sleep-disordered breathingin 
+children. Association with obesity, race, and respiratory problems.
+ AmJ Respir Crit Care Med 159:1527–1532 
+11. Stepanski E, Zayyad A, Nigro C, Lopata M, Basner R (1999) 
+Sleep-disordered breathing in a predominantly African American
+ pediatric population.J Sleep Res 8:65–70 
+12. Chay OM, Goh A, Abisheganaden J, Tang J, Lim WH, Chan 
+YH, Wee MK, Johan A, Cheng HK, Lin M, Chee T, Rajan U, 
+WangS, MachinD(2000) Obstructive sleep apnea syndromein 
+obese Singapore children. Pediatr Pulmonol 29:284–290 
+13. Hoffstein 
+V, Chan CK, Stutsky AS (1991) Sleep apnea and 
+systemic hypertension: a causal association review.AmJ Med 
+91:190–196 
+14. Hla KM, Young TB, Bidwell T, Palta M, Skatrud JB, Dempsey 
+J (1994) Sleep apnea and hypertension—a population-based 
+study. Ann Intern Med 120:382–388 
+15. Peppard PE, Young TY, PaltaM, SkatrudJ(2000) Prospective 
+study of the association between sleep-disordered breathing and 
+hypertension.N EnglJ Med 342:1378–1384 
+16. YoungT, FinnL, Hla KM, MorganB, PaltaM(1996) Snoring 
+as part of a dose-response relationship between sleep-disordered
+ breathing and blood pressure. Sleep 19:S202–S205 
+17. Wilcox 
+I, Grunstein RR, Hedner JA, Doyle J, Collins FL, 
+Fletcher PJ, Kelly DT, Sullivan CE (1993) Effects of nasal 
+continuous positive airway pressure during sleep on 24-hour 
+blood pressure in obstructive sleep apnea. Sleep 16:539–544 
+18. Mayer 
+J, Backer H, Brandenburg U, Penzel T, Peter JH, 
+Wichert P von (1991) Blood pressure and sleep apnea: results 
+of long-term nasal continuous positive airway pressure therapy. 
+Cardiology 79:84–92 
+19. The official statement of the American Thoracic Society July 
+1995 (1996) Standards and indications for cardiopulmonary 
+sleep studies in children. AmJRespir Crit Care Med 153:866– 
+20. Marcus CL, Greene MG, Carroll JL (1998) Blood pressure in 
+children with obstructive sleep apnea. Am J Respir Crit Care 
+Med 157:1098–1103 
+21. Rosner B, Prineas RJ, Loggie JMH, Daniels SR (1993) Blood 
+pressure nomograms for children and adolescents, by height, 
+sex, and age, in the United States.J Pediatr 123:871–886 
+22. Rosner 
+B, Prineas R, Loggie JMH, Daniels SR (1998) Percentiles
+ for body mass index in U.S. children5 to17 years of 
+age.J Pediatr 132:211–222 
+23. National 
+Center for Chronic Disease Prevention and Health 
+Promotion (2000) Center for Disease Control 
+24. Guilleminault 
+CG, Eldridge FL, Simmons FB, Dement WC 
+(1976) Sleep apnea in eight children. Pediatrics 58:23–30 
+25. Serratto 
+M, Harris VJ, Carr I (1981) Upper airway obstruction.
+ Presentation with systemic hypertension. Arch Dis Child 
+56:153–155 
+26. Ross RD, Daniels SR, Loggie JMH, Meyer RA, Ballard ET 
+(1987) Sleep apnea-associated hypertension and reversible left 
+ventricular hypertrophy.J Pediatr 111:253–255 
+27. KohyamaJ, OhinataJS, HasegawaT(2003) Blood pressurein 
+sleep disordered breathing. Arch Dis Child 88:139–142 
+28. Manser RL, Rochford P, Pierce RJ, Byrnes GB, Campbell DA 
+(2001) Impact of different criteria for defining hypopneas in the 
+apnea-hypopnea index. Chest 120:909–914 
+29. Konno A, Togawa K, Hoshino T (1980) The effect of nasal 
+obstruction in infancy and early childhood upon ventilation. 
+Laryngoscope 90:699–707 
+30. Agency for Health Care Policy and Research. Polysomnography
+ and Sleep Disorders Center (1992) Health Technology 
+Assessment Reports, 1991, no. 4. U.S. Department of Health 
+and Human Services, Washington, DC. US DHHS Publication 
+no. 92–0027 
+31. Guilleminault 
+C (1983) Clinical features and evaluation of 
+obstructive sleep apnea. In: Principles and practice of sleep 
+medicine. Saunders, Philadelphia, pp 552–558 
+32. Mallory GB, Fiser 
+DH, Jackson R (1989) Sleep-associated 
+breathing disorders in morbidly obese children and adolescents. 
+J Pediatr 115:892–897 
+33. Strobel RJ, Rosen RC (1996) Obesity and weight loss in obstructive
+ sleep apnea: a critical review. Sleep 19:104–115 
+34. Guilleminault 
+C, Korobin R, Winkle R (1981) A review of 
+50 children with obstructive sleep apnea syndrome. Lung 
+159:275–287 
+35. Brooks 
+D, Horner RL, Kozar LF, Render-Teixeira CL, 
+Phillipson EA (1997) Obstructive sleep apnea as a cause of 
+systemic hypertension. Evidence from a canine model. J Clin 
+Invest 99:106–109 
+36. Fletcher EC (2000) Effect of episodic hypoxia on sympathetic 
+activity and blood pressure. Respir Physiol 119:189–197 
+37. Leuenberger U, Jacob E, Sweer L, Waravdekar N, Zwillich C, 
+SinowayL(1995) Surges of muscle sympathetic nerve activity 
+during obstructive apnea are linked to hypoxemia. J Appl 
+Physiol 79:581–588 
+38. Loredo JS, Ziegler MG, Ancoli-Israel S, Clausen JL, Dimsdale 
+JE (1999) Relationship of arousals from sleep to sympathetic 
+nervous system activity and BP in obstructive sleep apnea. 
+Chest 116:655–659 
+39. Narkiewicz K, Kato M, Phillips BG, Pesek CA, Davison DE, 
+Somers VK (1999) Nocturnal continuous positive airway 
+pressure decreases daytime sympathetic traffic in obstructive 
+sleep apnea. Circulation 100:2332–2335 
+40. Waravdekar NV, Sinoway LI, Zwillich CW, Leuenberger UA 
+(1996) Influence of treatment on muscle sympathetic nerve 
+activity in sleep apnea. AmJ Respir Crit Care Med 153:1333– 
+1338 
+41. Carlson JT, Rangemark C, Hedner JA (1996) Attenuated 
+en-
+dothelium-dependent vascular relaxation in patients with sleep 
+apnea.J Hypertens 14:577–584 
+42. BratelT, WennlundA, CarlstromK(1999) Pituitary reactivity, 
+androgens and catecholamines in obstructive sleep apnea: effects
+ of continuous positive airway pressure (CPAP). Respir 
+Med 93:1–7 
+43. Strohl KP, Novak RD, Singer W, Cahan C, Boehm KD, Denko 
+CW, Hoffstem VS (1994) Insulin levels, blood pressure and 
+sleep apnea. Sleep 17:614–618 
+44. Hall JE, Brands MW, Jones DW, Shek EW, HenegarJ (1999) 
+Mechanisms of obesity hypertension and relevance to essential 
+hypertension. In: Obesity, impact on cardiovascular disease. 
+Futura, Armonk, pp 133–153 
+45. Silvestri JM, Weese-Mayer DE, Bass MT, Kenny AS, Hauptman
+ SA, Pearsall SM (1993) Polysomnography in obese children
+ with a history of sleep-associated breathing disorders. 
+Pediatr Pulmonol 16:124–126 
+46. Kahn 
+A, Mozin MJ, Rebuffat E, Sottiaux M, Burniat W, 
+Shepherd S, Muller MF (1989) Sleep pattern alterations and 
+
+brief airway obstructions in overweight infants. Sleep 12:430– 
+
+47. Whelton PK, Kumanyika SK, Cook NR, Cutler JA, Borhani 
+NO, Hennekens CH, Kuller LH, Langford H, Jones DW, 
+Satterfield S, Lasser NL, Cohen JD for the Trials of Hypertension
+ Prevention Collaborative Research Group (1997) Efficacy
+ of nonpharmacologic interventions in adults with high-
+normal blood pressure: results from phase 1 of the trials of 
+hypertension prevention. Am J Clin Nutr 65 [Suppl]:652S– 
+660S 
+48. The Trials of Hypertension Prevention Collaboroative Research 
+Group (1997) Effects of weight loss and sodium reduction intervention
+ on blood pressure and hypertension incidence in 
+overweight people with high-normal blood pressure. The Trials 
+of Hypertension Prevention, phase II. Arch Intern Med 157: 
+657–667 
+
+49. Redline S, Leitner J, Arnold J, Tishler PV, Altose MD (1997) 
+Ventilatory-control abnormalities in familial sleep apnea. AmJ 
+Respir Crit Care Med 156:155–160 
+50. Yoshizawa T, Akashiba T, Kurashina 
+K, Otsuka K, Horie T 
+(1993) Genetics and obstructive sleep apnea syndrome: a study 
+of human leukocyte antigen (HLA) typing. Intern Med 32:94– 
+97 
+

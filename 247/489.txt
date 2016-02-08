@@ -1,0 +1,641 @@
+ORIGINAL ARTICLE 
+
+Snoring and Sleep Disturbance Among 
+Children from an Orthodontic Setting 
+
+
+Suchitra Nelson, Ph.D.1 and Randall Kulnis, D.M.D., M.S.D.2 
+
+ABSTRACT 
+
+Studies of snoring and sleep disturbance in the United States have been 
+predominately in clinic-based settings of children suspected to have obstructive 
+sleep apnea hypopnea syndrome. Therefore, the purposes of this study were to 
+utilize an orthodontic setting in which healthy children were seen regularly to 
+study the prevalence of snoring and sleep disturbance among 405 children aged 
+6 to 17 years of age and to identify specific sleep behavior patterns associated with 
+the increased odds of snoring. A sleep behavior questionnaire was administered to 
+the child’s parent or guardian. The questionnaire responses were analyzed using 
+
+2 analysis, and factor analysis was used to extract meaningful domains. The selected 
+domains were used later in a logistic model to calculate the odds of snoring. 
+The results indicated that 17% of the children habitually snored. The odds of 
+snoring were approximately three times greater among mouth breathers and children 
+who slept with their head tipped back and 1.5 times greater among those 
+with morning headaches and frequent coughs and colds. In conclusion, snorers 
+have significantly more sleep behavior problems than do nonsnorers. 
+KEYWORDS: Children, snoring, sleep behavior, prevalence 
+
+16%.2,5,11–14
+
+Habitual snoring is a common symptom for Although habitual snoring is a pre-
+children with obstructive sleep apnea hypopnea dominant finding in children with OSAHS, only 
+syndrome (OSAHS), adenotonsillar hypertrophy, half or fewer of the children with symptoms sugand 
+rhinitis.1–9 Snoring is a common symptom in gestive of OSAHS actually have the condition.9,15,16 
+childhood,2,5 but habitual snoring in children is Habitual snoring has been significantly assocause 
+for concern, possibly indicating impaired in-ciated with behavioral daytime and nighttime sympspiration 
+during sleep.10 Several studies of habitual toms compared with nonsnoring children.5,11,12,14 
+snoring in children suggested a prevalence of 7 to Some of these symptoms, such as mouth breath-
+
+Sleep and Breathing, volume 5, number 2, 2001. Reprint requests: Suchitra Nelson, Ph.D., Department of Community Dentistry, School of 
+Dentistry, Case Western Reserve University, 10900 Euclid Avenue, Cleveland, OH 44106–4905. E-mail: ssn2@po.cwru.edu. 1Department 
+of Community Dentistry, School of Dentistry, Case Western Reserve University, Cleveland, Ohio; 2Branch Dental Clinic, Department of 
+Orthodontics, Sigonella, Italy. Copyright © 2001 by Thieme Medical Publishers, Inc., 333 Seventh Avenue, New York, NY 10001, USA. 
+Tel: +1(212) 584-4662. 1520-9512,p;2001,05,02,063,070,ftx,en;sbr00176x. 
+
+
+64 SLEEP AND BREATHING/VOLUME 5, NUMBER 2 2001 
+
+ing7,15,17 and restless sleep9,16,17 also have been consistently 
+reported among children with OSAHS. 
+
+Community-based studies of snoring have 
+been conducted in the United Kingdom,11 Italy,2 
+and Portugal.14 In the United States, children suspected 
+of having OSAHS have been studied.7,8,15 
+The orthodontic population provides a feasible 
+way to study snoring in predominantly healthy 
+children with dental malocclusions. The objectives 
+of the present study were (1) to determine the 
+prevalence of sleep behavior problems between 
+snoring and nonsnoring children, (2) to assess the 
+dose–response relationship between snoring and 
+sleep behavior problems, and (3) to identify the sleep 
+behavior domains that increases the odds of snoring. 
+
+METHOD 
+
+Study Sample 
+
+The study sample was recruited from a population 
+seeking or undergoing orthodontic treatment at 
+the School of Dentistry and from several private 
+practices in Cleveland, Ohio. Children were excluded 
+from the study if they had documented 
+craniofacial anomalies such as cleft lip or palate or 
+any other serious medical problems. Subjects were 
+recruited between 1996 and 1998. The study was 
+approved by the Institutional Review Board of 
+Case Western Reserve University. 
+
+Data Collection 
+
+DEMOGRAPHIC DATA 
+
+The subject’s age, gender, and ethnicity were documented 
+from the dental records. The height and 
+weight information was obtained from the parents 
+or guardians and was recorded for each subject in 
+inches and pounds. The body mass index (BMI) 
+
+was calculated for each subject [weight in kilo-
+grams/height (m2)]. 
+
+QUESTIONNAIRE 
+
+The parents or guardians were asked to sign a consent 
+form and then complete a demographic and 
+sleep behavior questionnaire on behalf of their 
+children. The sleep behavior questionnaire was 
+adapted from a previous study11 and was administered 
+over the 2-year period of the study. The questionnaire 
+consisted of 11 Likert-type scale (never, 
+rarely, sometimes, often) and seven “yes” or “no” 
+questions. It has been validated and shown to be 
+reliable in assessing the sleep problems of children. 
+The questionnaire covered a wide range of sleep 
+behaviors, including sleep problems, restless sleep, 
+getting to or staying asleep, daytime sleepiness, 
+daytime behavior such as hyperactivity and paying 
+attention in class, related medical problems such as 
+coughs and colds, morning headaches, hearing 
+problems, enlarged tonsils or adenoids, medication 
+use, mouth breathing, head tipped back during 
+sleep, and the intensity and frequency of snoring. 
+
+Data Analysis 
+
+The analysis for the first objective proceeded with 
+collapsing the snoring categories into two groups, 
+nonsnorers (never and rarely) and snorers (sometimes 
+and often), consistent with previous studies.
+5,18 The prevalence of sleep behavior problems 
+between the nonsnorers and snorers was computed 
+using the 2 test. 
+
+The analysis for the second objective proceeded 
+with collapsing the Likert scale sleep behavior 
+problems into two categories: no (never and 
+rarely) and yes (sometimes and often). The dose– 
+response relationship between the four snoring categories 
+and the sleep behavior problems were analyzed 
+using the 2 test. Because of the multiple 
+testing problem, Bonferroni’s correction [ of 
+
+
+SNORING AND SLEEP DISTURBANCE AMONG CHILDREN/NELSON, KULNIS 65 NELSON, KULNIS 65 
+
+0.05 divided by the total number of questions analyzed 
+(0.05/15 = 0.003)] was used, and a p value 
+<0.003 was used to determine statistical significance 
+for the 2 tests. Statistical analysis also included 
+t test for continuous variables such as age 
+and BMI. 
+The analysis for the third objective used factor 
+analysis to reduce the number of questions in 
+the questionnaire into meaningful domains that 
+would be useful for further logistic regression 
+analysis. For factor analysis, we excluded the question 
+about current medication use because of its 
+poor correlation with the other questions. The 
+computation for factor analysis used the principal 
+components and maximum likelihood methods 
+with promax rotation. The robustness of the 
+model to explain the data is expressed as the percentage 
+of the total variance explained. Only factors 
+with eigenvalues greater than 1 were retained. 
+Individual questions with a loading weight greater 
+than 0.65 were assigned to a particular factor and 
+if the question did not load significantly on any 
+other factor. Factor scores then were obtained by 
+multiplying the standardized values by the corresponding 
+factor score coefficients for each subject. 
+The logistic regression model was computed to 
+obtain estimates of odds for snoring using the following 
+independent variables: age, BMI, and the 
+factor scores. Both forced-entry and stepwise 
+methods were used for the regression model. Significance 
+was assessed at p < 0.05 for the logistic 
+model. 
+
+RESULTS 
+
+A total of 405 parents and guardians completed the 
+sleep behavior questionnaire. The study sample 
+comprised 92% white, 54% female (mean age, 11.9 ± 
+
+2.5 years; range, 6–17 years). About 50% of the children 
+were undergoing orthodontic treatment, and 
+50% were seeking pretreatment orthodontic evaluation 
+at the time of the administration of the questionnaire. 
+Only 390 (96.3%) parents and guardians 
+responded to the frequency of snoring question because 
+some were unsure about their child’s snoring 
+status. From the 390 responses, about 17% of the 
+children snored often, 21% sometimes, 21% rarely, 
+and 41% never snored. The snorers (often and 
+sometimes) and nonsnorers (never and rarely) included 
+147 and 243 children, respectively. 
+
+The mean age between snorers (11.6 ± 2.5 
+years) and nonsnorers (11.9 ± 2.5 years) did not 
+differ significantly. The mean BMI was significantly 
+(p = 0.048) greater in snorers (19.8 ± 4.3) 
+than in nonsnorers (18.9 ± 3.2). Both snorers 
+(48%) and nonsnorers (51%) had similar proportions 
+undergoing orthodontic treatment. 
+
+Snorers had significantly (Table 1) more frequent 
+problems related to sleep, restless sleep, 
+coughs and colds, sleeping with head tipped back, 
+mouth breathing, morning headaches, and tonsils 
+or adenoids removed than nonsnorers. As the categories 
+of snoring increased from never to often, the 
+percentage who reported problems with restless 
+sleep, frequent coughs and colds, sleeping with the 
+head tipped back, mouth breathing, enlarged adenoids, 
+and frequent morning headaches also increased 
+significantly (Table 2), suggesting a dose– 
+response relationship between snoring and sleep 
+behavior problems. 
+
+Factor analysis was computed for 266 children 
+because there was missing or uncertain information 
+for some questions; therefore, the analysis 
+excluded these cases. Factor analysis extracted five 
+factors that explained 62% of the variance in the 
+questionnaire. The individual questions that loaded 
+onto the five factors (Table 3) were tonsil and adenoid 
+history, explaining the most variance, followed 
+by bedtime sleep behavior, daytime behavior, 
+health problems related to sleep disturbance, and 
+head or breathing positions during sleep. Additionally, 
+we had to eliminate questions: problems 
+related to sleeping, daytime sleepiness, and hearing 
+problems because they did not load according to 
+
+
+66 SLEEP AND BREATHING/VOLUME 5, NUMBER 2 2001 
+
+Table 1 Prevalence of Sleep Behavior Problems Among Snorers and 
+Nonsnorers 
+
+Snorers Nonsnorers 
+Questions (n = 147) % (n = 243) % p Value 
+
+Problems related to sleep? 
+
+Yes 19.7 8.6 0.002* 
+Restless sleeper? 
+
+Never 18.6 25.4 
+
+Rarely 33.6 47.5 
+
+Sometimes 30.7 22.9 
+
+Often 17.1 4.2 0.000* 
+Getting to/staying asleep? 
+
+Never 30.6 32.9 
+
+Rarely 36.1 41.6 
+
+Sometimes 19.7 20.2 
+
+Often 13.6 5.3 0.041 
+Daytime sleepiness? 
+
+Never 38.8 47.5 
+
+Rarely 29.9 31.8 
+
+Sometimes 24.5 16.1 
+
+Often 6.8 4.5 0.118 
+Hyperactive? 
+
+Never 66.2 73.4 
+
+Rarely 18.6 15.6 
+
+Sometimes 9.7 8.4 
+
+Often 5.5 2.5 0.323 
+Frequent coughs and cold? 
+
+Never 11.6 19.0 
+
+Rarely 41.5 54.5 
+
+Sometimes 38.1 22.7 
+
+Often 8.8 3.7 0.000* 
+Head tipped back? 
+
+Never 33.9 60.0 
+
+Rarely 23.6 27.6 
+
+Sometimes 29.1 11.6 
+
+Often 13.4 0.9 0.000* 
+Mouth breathing? 
+
+Never 5.3 22.0 
+
+Rarely 8.3 35.0 
+
+Sometimes 34.6 25.1 
+
+Often 51.9 17.9 0.000* 
+Tonsils/adenoids removed? 
+
+Yes 17.1 7.0 0.002* 
+Tonsils enlarged? 
+
+Yes 20.8 11.8 0.022 
+Adenoids enlarged? 
+
+Yes 21.7 8.4 0.000* 
+
+(Continued) 
+
+
+SNORING AND SLEEP DISTURBANCE AMONG CHILDREN/NELSON, KULNIS 67 NELSON, KULNIS 67 
+
+Table 1 (continued) 
+
+Snorers Nonsnorers 
+Questions (n = 147) % (n = 243) % p Value 
+
+Frequent morning headaches? 
+
+Never 44.8 58.3 
+
+Rarely 28.3 31.8 
+
+Sometimes 22.8 8.3 
+
+Often 4.1 1.7 0.000* 
+Hearing problems? 
+
+Yes 7.8 3.3 0.052 
+Difficulty paying attention? 
+
+Never 30.8 41.6 
+
+Rarely 32.9 36.1 
+
+Sometimes 28.8 18.1 
+
+Often 7.5 4.2 0.022 
+Currently on medication? 
+
+Yes 19.7 13.2 0.087 
+
+*Significant at p < 0.003 according to Bonferroni’s correction of  value. 
+
+our previously stated criteria with any of the five The logistic regression model (Table 4) indifactors. 
+Interitem reliability for the five factors cated that head and breathing position (factor 5), 
+ranged from moderate to excellent (0.49–0.80). and related health problems (factor 4) significantly 
+Factor scores were calculated for the five factors increased the odds of snoring in the child. The 
+and used for further regression analysis. head and breathing position included questions 
+
+Table 2 Dose–Response Relationship Between Snoring Categories and Sleep Behavior Problems 
+
+Snoring Categories 
+Questions (% yes) Never Rarely Sometimes Often p Value 
+Problems related to sleep? 8.7 8.5 12.8 28.1 0.001* 
+Restless sleeper? 23.3 34.6 43.8 53.3 0.000* 
+Getting to/staying asleep? 24.2 28.0 25.6 43.1 0.036 
+Daytime sleepiness? 16.1 29.6 29.3 33.8 0.011 
+Hyperactive? 9.6 13.6 16.3 13.8 0.494 
+Frequent coughs and cold? 23.8 31.7 45.1 49.2 0.000* 
+Head tipped back? 8.8 19.5 36.1 50.9 0.000* 
+Mouth breathing? 36.7 55.3 80.6 93.4 0.000* 
+Tonsils/adenoids removed? 5.0 11.0 19.8 13.8 0.005 
+Tonsils enlarged? 10.1 15.2 15.8 27.8 0.019 
+Adenoids enlarged? 7.2 11.0 16.0 29.6 0.000* 
+Frequent morning headaches? 8.8 12.2 27.5 26.2 0.000* 
+Hearing problems? 4.4 1.2 7.7 7.9 0.176 
+Difficulty paying attention? 18.6 29.3 33.3 40.0 0.005 
+Currently on medication? 13.1 13.4 19.5 20.0 0.402 
+
+*Significant at p < 0.003 according to Bonferroni’s correction of  value. 
+
+
+68 SLEEP AND BREATHING/VOLUME 5, NUMBER 2 2001 
+
+Table 3 Results of Factor Analysis of the Sleep Behavior Questionnaire 
+
+Factor Individual Questions Included Variance Explained (%) 
+1. Tonsil/adenoid history Tonsils/adenoids taken out? 20.6 
+Tonsils enlarged? 
+Adenoids enlarged? 
+2. Bedtime sleep behavior Restless sleeper? 16.6 
+Getting to/ staying asleep? 
+3. Daytime behavior Hyperactive? 8.8 
+Difficulty paying attention in class? 
+4. Related health problems Morning headaches? 8.4 
+Frequent coughs and colds? 
+5. Head/breathing position during sleep Head tipped back? 7.5 
+Mouth breathing? 
+Total variance explained 61.9 
+
+about mouth breathing and whether the head is 
+tipped back during sleep. These were 3.3 times 
+greater among snoring than among nonsnoring 
+children. Similarly, related health problems such as 
+morning headaches and frequent coughs and colds 
+were 1.5 times greater among snorers. The logistic 
+model with age, BMI, and the five factor scores 
+was able to classify correctly 88% of the nonsnorers 
+and 52% of the snorers. 
+
+DISCUSSION 
+
+The children selected for this study were between 
+6 to 17 years of age; this is the age range of most 
+children in the orthodontic setting. The prevalence 
+
+of habitual snoring in this group of children was 
+17%, which is slightly higher than the previously reported 
+studies2,5,11–14 of snoring in children younger 
+than 14 years of age. The questionnaire in our study 
+was requested to be completed by all parents and 
+guardians who brought their children for either follow-
+up appointments or pretreatment evaluation at 
+the orthodontic clinic or office. It is likely that parents 
+and guardians who perceive their child to have 
+a sleep-related problem would be motivated to 
+complete the questionnaire. About 50% of our sample 
+were undergoing orthodontic treatment at the 
+time of this study, whereas 50% were undergoing 
+pretreatment evaluation. We checked the data to 
+determine whether the snoring prevalence differed 
+between these two groups of children and found 
+that the frequencies did not differ significantly. 
+
+Table 4 Predicting Snoring Utilizing Questionnaire Responses 
+
+Variables Beta ± STD Error Odds Ratio p Value 
+Age (yr) 0.11 ± 0.07 0.89 0.107 
+BMI 0.06 ± 0.05 1.06 0.200 
+Factor 1 0.11 ± 0.14 1.12 0.436 
+Factor 2 0.12 ± 0.16 0.89 0.472 
+Factor 3 0.03 ± 0.16 0.97 0.860 
+Factor 4 0.38 ± 0.17 1.46 0.023* 
+Factor 5 1.18 ± 0.19 3.25 0.000* 
+Constant 0.64 ± 0.93 — 0.490 
+
+*Significant at p < 0.05, and also entered the step-wise logistic regression model. 
+BMI, body mass index. 
+
+
+SNORING AND SLEEP DISTURBANCE AMONG CHILDREN/NELSON, KULNIS 69 NELSON, KULNIS 69 
+
+The mean BMI was significantly greater 
+among snorers compared with nonsnorers. This 
+finding is in accordance with our previous study,13 
+in contrast to findings from other reported studies 
+of snoring and apneic children17,19 that found these 
+children to be underweight and underdeveloped. 
+The height and weight recorded in this study were 
+supplied by parents, and we did not measure the 
+children directly. It is likely that this finding was 
+influenced by imprecise recall of this information. 
+
+The most significant differences between 
+snoring and nonsnoring children in the present 
+study were problems related to sleep, restless sleep, 
+coughs and colds, sleeping with the head tipped 
+back, mouth breathing, morning headaches, and 
+tonsils or adenoids removed. Our results support 
+previous research2,5,11 that also reported similar 
+sleep behavior and health problems among snoring 
+children. These sleep behavior symptoms, except 
+for mouth breathing, do not differ significantly between 
+children who primarily snore and those with 
+OSAHS.15 Thus, primary snoring and OSAHS are 
+thought to lie on a continuum, with a distinction 
+between the two being a matter of degree of upper 
+airway obstruction than qualitative differences in 
+symptoms.15 
+
+Factor analysis provided a way of testing the 
+robustness of the questionnaire by reducing the individual 
+questions into meaningful domains or 
+constructs that were not correlated with each other. 
+The five domains explained 62% of the variance in 
+the sleep behavior questionnaire. Tonsil and adenoid 
+history and bedtime sleep behavior domains 
+explained the most variance in the questionnaire, 
+probably indicating its high frequency in a population 
+of both snorers and nonsnorers. The internal 
+consistency within the five domains ranged from 
+moderate to excellent, indicating that, for the head 
+and breathing position and related health problem 
+domains, the questions did not completely assess 
+similar constructs. Despite its moderate consistency, 
+in the logistic model, these two factors significantly 
+explained the odds of snoring. The questions 
+that comprise these two factors, that is, 
+
+(1) mouth breathing and sleeping with head tipped 
+back and (2) frequent morning headaches and 
+coughs and colds, also demonstrated a dose– 
+response relationship with snoring categories, further 
+strengthening the validity of these questions. 
+Mouth breathing has been shown in previous studies 
+to be significantly greater in snorers and 
+OSAHS children.5,7,9,15 Our results are also consistent 
+with previous research2 that found respiratory 
+symptoms such as cough and colds to be associated 
+with increased snoring. We also found frequent 
+morning headaches to be significantly different between 
+snorers and nonsnorers, in contrast to other 
+reported studies of snoring and OSAHS children.
+5,15 We speculate that this finding could have 
+been influenced by children with coughs and cold 
+who may have had more frequent morning headaches 
+because of the significant correlation between 
+the two questions. Although we found restless 
+sleep to differ significantly between snorers 
+and nonsnorers in univariate analysis, consistent 
+with previous studies,5,9,11,16 it did not significantly 
+increase the odds of snoring in our multivariate 
+analysis. It could be that controlling for the effects 
+of other symptoms decreases the predictability of 
+restless sleep. 
+Most often, if a child does not snore, it is unlikely 
+this child has OSAHS; if the child snores, it 
+is likely that the child could have either OSAHS,15 
+adenotonsillar hypertrophy,4,9,19–21 or upper respiratory 
+problems.2 Our classification results from 
+the logistic model further supports this speculation, 
+indicating that 88% of nonsnorers can be classified 
+correctly by using the sleep behavior questionnaire, 
+whereas only 52% of the snorers could be 
+correctly classified. It is difficult, therefore, to classify 
+correctly snorers using sleep behavior symptoms 
+but rather must be further evaluated for upper 
+upper airway obstruction; ear, nose, and throat; and 
+respiratory problems. 
+
+The limitations of the present study include 
+the following: (1) We did not evaluate the children 
+with polysomnography to determine the degree of 
+sleep disturbance; some of the snoring children in 
+
+
+70 SLEEP AND BREATHING/VOLUME 5, NUMBER 2 2001 
+
+our group may have had OSAHS. (2) We could 
+have misclassified snorers and nonsnorers based on 
+parental reports, especially those who snored 
+mildly or sometimes. A previous study15 reported 
+that parental perceptions of snoring could over-
+report symptoms because they found that some 
+children snored only mildly when evaluated with 
+polysomnography. (3) Generalization of the results 
+to a larger population is limited because it is more 
+prevalent for middle and higher socioeconomic 
+groups to seek and undergo orthodontic treatment 
+than lower income groups. 
+
+In summary, there are sleep behavior differences 
+between snoring and nonsnoring children. 
+The sleep questionnaire is more useful, however, 
+for classifying nonsnorers than for snorers. Habitual 
+snorers with mouth breathing must be further 
+evaluated for OSAHS, adenotonsillar hypertrophy, 
+and respiratory problems. 
+
+ACKNOWLEDGMENTS 
+
+We thank Mr. Paul Lorkovich and Dr. Janice 
+Vallera for help in data collection. 
+
+REFERENCES 
+
+1. Brouillette RT, Fernbach SK, Hunt CE. Obstructive sleep 
+apnea in infants and children. J Pediatr 1982;100:31–40 
+2. Corbo GM, Fuciarelli F, Foresi A, et al. Snoring in children: 
+Association with respiratory symptoms and passive smoking. 
+BMJ 1989;299:1491–1494 
+3. Potsic WP, Wetmore RF. Sleep disorders and airway obstruction 
+in children. Clin North Am 1990;23:651–663 
+4. Suen JS, Arnold JE, Brooks LJ. 
+Adenotonsillectomy for 
+treatment of obstructive sleep apnea in children. Arch Otolaryngol 
+Head Neck Surg 1995;121:525–530 
+5. Owen GO, Canter RJ, Robinson A. Snoring, apnea and 
+ENT symptoms in the paediatric community. Clin Otolaryngol 
+1996;21:130–134 
+6. McColley SA, Carroll JL, Curtis S, Loughlin GM, Sampson 
+HA. High prevalence of allergic sensitization in children 
+with habitual snoring and obstructive sleep apnea. 
+Chest 1997;111:170–173 
+
+7. Owens J, Opipari L, Nobile C, Spirito A. Sleep and daytime 
+behavior in children with Obstructive sleep apnea and 
+behavioral sleep disorders. Pediatrics 1998;102:1178–1184 
+8. Saeed MM, Keens TG, Stabile MW, Bolokowicz J, David-
+son Ward SL. Should children with suspected obstructive 
+sleep apnea syndrome and normal nap sleep studies have 
+overnight sleep studies. Chest 2000;118:360–365 
+9. Nieminen P, Tolonen U, Lopponen H. Snoring and obstructive 
+sleep apnea in children. Arch Otolaryngol Head 
+Neck Surg 2000;126:481–486 
+10. Westbrook PR. The chronically snoring child: an acoustic 
+annoyance or cause for concern? Mayo Clin Proc 1983;58: 
+399 
+11. Ali NJ, Pitson DJ, Stradling JR. 
+Snoring, sleep disturbance, 
+and behavior in 4–5 year olds. Arch Dis Child 1993; 
+68:360–366 
+12. Ali NJ, Pitson DJ, Stradling JR. Natural history of snoring 
+and related behavior problems between the ages of 4 and 
+7 years. Arch Dis Child 1994;71:74–76 
+13. Kulnis R, Nelson S, Strohl K, Hans M. Cephalometric assessment 
+of snoring and non-snoring children. Chest 
+2000;118:596–603 
+14. Ferreira AM, Clemente V, Gozal D, Gomes A, et al. Snoring 
+in portugese primary school children. Pediatrics 2000; 
+106:E64 
+15. Carroll JL, McColley SA, Marcus CL, et al. Inability of 
+clinical history to distinguish primary snoring from obstructive 
+sleep apnea syndrome in children. Chest 1995; 
+108:610–618 
+16. Nieminen P, Tolonen U, Lopponen H, et al. Snoring children: 
+factors predicting sleep apnea. Acta Otolaryngol 
+Suppl 1997;529:190–194 
+17. Guilleminault C, Stoohs R. From apnea of infancy to obstructive 
+sleep apnea syndrome in the young child. Chest 
+1992;102:1065–1071 
+18. Owen GO, 
+Canter RJ, Robinson A. Overnight pulse 
+oximetry in snoring and non-snoring children. Clin Otolaryngol 
+1995;20:402–406 
+19. Brouillette RT, Fernbach SK, Hunt CE. Obstructive sleep 
+apnea in infants and children. J Pediatr 1982;100:31–40 
+20. Guilleminault C, Korobkin R, Winkle R. 
+A review of 
+50 children with obstructive sleep apnea syndrome. Lung 
+1981;159:275–287 
+21. Stradling JR, Thomas G, Warley ARH, et al. Effect of 
+adenotonsillectomy on nocturnal hypoxemia, sleep disturbance, 
+and symptoms in snoring children. Lancet 1990; 
+335:249–253 
+

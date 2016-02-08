@@ -1,0 +1,1190 @@
+Growth 
+Velocity 
+Predicts 
+Recurrence 
+of 
+Sleep-disordered 
+Breathing 
+1 
+Year 
+after 
+Adenotonsillectomy 
+
+
+Raouf 
+Amin1, 
+Leonard 
+Anthony2, 
+Virend 
+Somers3, 
+Matthew 
+Fenchel1, 
+Keith 
+McConnell1, 
+Jenny 
+Jefferies1, 
+Paul 
+Willging1, 
+Maninder 
+Kalra1, 
+and 
+Stephen 
+Daniels4 
+
+
+1Cincinnati Children’s Hospital Medical Center, Cincinnati, Ohio; 2Institute for the Study of Health, University of Cincinnati Academic Medical 
+Center, Cincinnati, Ohio; 3Mayo Clinic, Rochester, Minnesota; and 4Denver Children’s Hospital, Denver, Colorado 
+
+Rationale: 
+Adenotonsillectomy, 
+the 
+first 
+line 
+of 
+treatment 
+of 
+sleep-
+disordered 
+breathing 
+(SDB), 
+is 
+the 
+most 
+commonly 
+performed 
+pediatric 
+surgery. 
+Predictors 
+of 
+the 
+recurrence 
+of 
+SDB 
+after 
+adenotonsillectomy 
+and 
+its 
+impact 
+on 
+cardiovascular 
+risk 
+factors 
+have 
+not 
+been 
+identified. 
+Objectives: 
+Demonstrate 
+that 
+gain 
+velocity 
+in 
+body 
+mass 
+index 
+(BMI) 
+defined 
+as 
+unit 
+increase 
+in 
+BMI/year 
+confers 
+an 
+independent 
+risk 
+for 
+the 
+recurrence 
+of 
+SDB 
+1 
+year 
+after 
+adenotonsillectomy. 
+Methods: 
+Children 
+with 
+SDB 
+and 
+hypertrophy 
+of 
+the 
+tonsils 
+and 
+a 
+comparisongroupof 
+healthychildrenwerefollowedprospectively 
+for 
+1 
+year. 
+Measurements 
+and 
+Main 
+Results: 
+Serial 
+polysomnographies, 
+BMI, 
+and 
+bloodpressurewereobtainedbefore 
+adenotonsillectomy 
+and6weeks, 
+6 
+months, 
+and 
+1 
+year 
+postoperatively. 
+Gain 
+velocity 
+in 
+BMI, 
+BMI 
+and 
+being 
+African 
+American 
+(odds 
+ratios, 
+4–6/unit 
+change/yr; 
+1.4/unit 
+and15,respectively)providedequalamountsof 
+predictivepowerto 
+the 
+risk 
+of 
+recurrence 
+of 
+SDB. 
+In 
+the 
+group 
+that 
+experienced 
+recurrence,
+systolicbloodpressureat1yearwashigherthanatbaselineand 
+higher 
+than 
+in 
+children 
+who 
+did 
+not 
+experience 
+recurrence. 
+Conclusions: 
+Three 
+clinical 
+parameters 
+confer 
+independent 
+increased 
+riskforhighrecurrenceofSDBafteradenotonsillectomy:gainvelocity 
+inBMI,obesity,andbeingAfricanAmerican.Along-termfollow-upof 
+childrenwithSDBandmonitoringofgainvelocityinBMIareessential 
+to 
+identifying 
+children 
+at 
+risk 
+for 
+recurrence 
+of 
+SDB 
+and 
+in 
+turn 
+at 
+risk 
+for 
+hypertension. 
+
+
+Keywords: 
+growth velocity; adenotonsillectomy; sleep-disordered 
+breathing 
+
+One of the most frequently encountered conditions associated 
+with obesity is sleep-disordered breathing (SDB). In adults, the 
+risk of SDB increases by 1.14 for every unit increase in body mass 
+index (BMI) (1). In the pediatric population, the risk for developing 
+SDB is fourfold greater in obese children than in children 
+who are not obese (2). Although the prevalence of SDB in all 
+children is believed to range from 2 to 3% (3–5), the prevalence in 
+adolescents who are morbidly obese exceeds 50% (6, 7). Obesity 
+is therefore strongly associated with abnormal upper airway control 
+during sleep across all age groups. 
+
+Adenotonsillectomy, the first line of treatment in the management 
+of childhood SDB, is the most commonly performed 
+surgical procedure in children. The annual rate of adenotonsillectomy 
+in children aged 0 to 14 years ranges from 19 per 10,000 
+in Canada to 115 per 10,000 in the Netherlands (8). At least half 
+of these procedures are performed to relieve symptoms of SDB. 
+In the first few weeks after adenotonsillectomy, obese children 
+with SDB have a less favorable response to surgery than lean 
+children. However, neither the long-term outcome nor the fac
+
+
+(Received 
+in 
+original 
+form 
+October 
+31, 
+2007; 
+accepted 
+in 
+final 
+form 
+January 
+3, 
+2008) 
+
+Supported by NIH grants RO1-HL70907-02A1 and M01 RR 08084-08. 
+
+Correspondence and requests for reprints should be addressed to Raouf Amin, 
+M.D., 3333 Burnet Avenue, Cincinnati, OH 45229. E-mail: raouf.amin@cchmc. 
+org 
+
+Am 
+J 
+Respir 
+Crit 
+Care 
+Med 
+Vol 
+177. 
+pp 
+654–659, 
+2008 
+Originally 
+Published 
+in 
+Press 
+as 
+DOI: 
+10.1164/rccm.200710-1610OC 
+on 
+January 
+3, 
+2008 
+
+
+AT 
+A 
+GLANCE 
+COMMENTARY 
+
+
+Scientific 
+Knowledge 
+on 
+the 
+Subject 
+
+
+The current practice is to treat children with sleep-disordered 
+breathing (SDB) by adenotonsillectomy without clear 
+guidelines for postoperative follow-up to assess recurrence. 
+
+What 
+This 
+Study 
+Adds 
+to 
+the 
+Field 
+
+
+Three clinical parameters confer independent increased risk 
+for high recurrence of SDB after adenotonsillectomy: gain 
+velocity in BMI, obesity, and being African American. 
+Rapid body mass index gain is an independent risk for 
+recurrence after adenotonsillectomy. Recurrence is associated 
+with an increase in blood pressure that is independent of 
+body mass index. 
+
+tors that contribute to recurrence of the disorder after adenotonsillectomy 
+are clearly understood. Moreover, the impact of 
+recurrence of SDB on important cardiovascular risk factors, 
+such as blood pressure (BP), has never been examined. 
+
+Research investigating the relationship between adiposity 
+and SDB has thus far focused on mechanical disease mechanisms, 
+such as the volume of parapharyngeal and abdominal fat 
+(9–11). These disease mechanisms do not, however, fully explain 
+the absence of SDB in approximately half of children with 
+morbid obesity. It also remains unclear why for the same level 
+of obesity some children have recurrence of SDB after adenotonsillectomy 
+whereas others have normal respiratory patterns. 
+
+Obesity is associated with an increase in endocrine and 
+inflammatory activities of fat cells, many of which may modulate 
+respiratory control (12–14). Several studies have demonstrated 
+that the inflammatory consequences of obesity and its cardiovascular 
+morbidity are influenced by the rate of weight gain over time 
+independent of actual weight (15–19). Thus, the degree of adiposity 
+and rate of weight gain may reflect different disease processes 
+(20, 21). Together, these disease processes contribute to 
+the overall obesity-related morbidity. 
+
+In this study, we sought to determine the 1-year recurrence 
+of SDB in children after adenotonsillectomy and its impact on 
+blood pressure. We investigated a novel construct, where two 
+different measures of growth, BMI and gain velocity in BMI, 
+might have independent effects on upper airway control during 
+sleep. We tested the hypothesis that, independent of the degree 
+of obesity, the rate of gain in BMI increases the risk of recurrence 
+of SDB, which in turn contributes to elevation of BP 1 
+year after treatment by adenotonsillectomy. 
+
+METHODS 
+
+
+Design 
+and 
+Study 
+Population 
+
+
+This prospective study recruited healthy children with adenotonsillar 
+
+Internet 
+address: 
+www.atsjournals.org 
+hypertrophy, in whom a predetermined need for adenotonsillectomy to 
+
+
+Amin, Anthony, Somers, et 
+al.: Weight Gain Velocity and Sleep Apnea 
+
+treat symptoms of SDB had been made by their otolaryngologist 
+before enrollment in the study. Children were evaluated at four time 
+points: before undergoing adenotonsillectomy, and 6 weeks, 6 months, 
+and 1 year after adenotonsillectomy. At each time point, they underwent 
+polysomnographic evaluation and physical examination, which 
+included documentation of weight, height, BP, and BMI. 
+
+Healthy children matched for age and sex were enrolled as a comparison 
+group. The reasons for studying a group of healthy children were 
+as follows: (1) to derive a cutoff for recurrence of SDB at 1 year defined 
+as the level of apnea–hypopnea index (AHI) that exceeds by 1 SD the 
+average AHI measured from the comparison group and (2) to determine 
+the trend and variability of AHI over the duration of the study. Children 
+in this group were monitored for 1 year and received three 6-month evaluations. 
+The protocol was approved by the Cincinnati Children’s Hospital 
+institutional review board. Informed consent was obtained from 
+the parents or legal guardian of each child, and assent was obtained 
+from children older than 7 years. 
+
+Subjects 
+
+
+Children ranging in age from 7 to 13 years with nightly snoring and 
+hypertrophy of the tonsils and adenoids were prospectively recruited for 
+this study. Inclusion criteria for children with SDB were as follows: (1)an 
+agreed upon decision between the otolaryngologist and the child’s 
+parents to undergo adenotonsillectomy to treat symptoms of obstructive 
+breathing during sleep and (2) a polysomnogram consistent with the 
+diagnosis of SDB. The comparison group consisted of age-and sex-
+matched healthy children without history of obstructive breathing during 
+sleep. To retain children in the comparison group, their polysomnogram 
+should have been without evidence of SDB or alveolar hypoventilation 
+during sleep. Exclusion criteria for both groups were the presence of 
+chronic medical conditions and genetic syndromes as determined by 
+history and physical examination. 
+
+Polysomnography 
+
+
+Polysomnography studies were performed overnight according to the 
+American Thoracic Society standards (22, 23), using computerized 
+systems (Telefactor; Grass, West Warwick, RI). The interpretation of 
+polysomnography was performed by an investigator (R.A.) who was 
+blinded as to which group subjects were enrolled in, their medical and 
+demographic characteristics, and the time sequence of the study. All 
+investigators including the otolaryngologist were blinded to the results 
+of the study. However, results were communicated to the managing 
+otolaryngologist only when baseline AHI was 15 events or more per 
+hour. This level of AHI was used by the managing otolaryngologist 
+as an indication to perform the surgery at the main campus of the 
+Cincinnati Children’s Hospital rather than in a satellite facility and to 
+admit the child postoperatively for overnight observation. 
+
+SDB was defined as an obstructive AHI of more than 1 event per hour 
+of sleep. The recurrence of SDB was defined as an AHI of 3 events or 
+more per hour of sleep. This level was derived from the comparison 
+group population by calculating the level that exceeded by 1 SD the mean 
+value of the comparison group at 1 year. 
+
+BP 
+and 
+BMI 
+Slope 
+Measurements 
+
+
+BP measurements were the average of three readings obtained after 
+a minimum rest period of 5 minutes with the subjects in the sitting 
+position. BP was measured before and 6 and 12 months after adenotonsillectomy. 
+BMI gain velocity for the SDB group was calculated using 
+BMI from the four visits as the slope of a linear regression line predicting 
+BMI from time at baseline, scaled as change in BMI per year. BMI slope 
+for the comparison group was derived from three time points. 
+
+Statistical 
+Analysis 
+
+
+Exact tests were used to measure differences between the SDB groups in 
+rates for dichotomous variables. Differences in AHI levels were tested 
+with the Wilcoxon nonparametric test, whereas differences in age, BMI, 
+and BP were tested with t 
+tests. Comparisons between two time points 
+within the SDB group for BP were performed by paired t 
+tests. A two-
+tailed P 
+value of less than 0.05 indicated statistical significance for all tests. 
+
+Three sets of multivariable logistic models predicting an AHI of 
+3 or more at the 1-year follow-up were constructed. The independent 
+variables common to all models included age, sex, race, and BMI slope. 
+The three sets of models differed in whether BMI at baseline, BMI at 
+1 year, or a mean BMI was entered into the model. In each of the models, 
+all possible two-way interactions between either BMI variables or any of 
+the demographic covariates were examined. All P 
+values and confidence 
+intervals derived from these logistic regressions were likelihood based. 
+For each model, the C-statistic, or area under the receiver operating 
+characteristic curve, was noted. Reduced models were estimated by 
+removing one predictor at a time from the full model, and noting the 
+c-statistics. C-statistics for the reduced models were compared to assess 
+the relative contributions of different predictors to the overall predictive 
+power of the full model. 
+
+A model that included age, race, BMI, and AHI at 1 year was constructed 
+to predict the final systolic and diastolic BP. 
+
+RESULTS 
+
+
+Ninety-seven children, 62 with SDB and 35 in the comparison 
+group, were enrolled in the study. After the initial evaluation, 22 
+children with SDB and 5 control subjects elected to withdraw 
+from the study. A comparison of age, sex, race, BMI, AHI, and 
+systolic and diastolic BP showed only a higher diastolic BP (62 6 
+8 
+vs. 55 6 
+5 mm Hg, P 
+5 
+0.03) in children with SDB who completed 
+the study compared with those who withdrew. Children in the 
+comparison group who completed the study had a higher BMI 
+(19 6 
+4 vs. 16 6 
+2, P 
+5 
+0.03) compared with those who withdrew. 
+Seventy children completed the whole protocol. Forty met the 
+inclusion/exclusion criteria for SDB and 30 made up the comparison 
+group. Eighteen of 40 children with SDB and 3 of 30 in the 
+comparison group had a BMI greater than the 95th percentile at 
+baseline. Half the SDB group had an AHI more than 3 at the 
+1-year evaluation (Table 1). Among those who had an AHI 
+
+TABLE 
+1. 
+DEMOGRAPHIC 
+AND 
+POLYSOMNOGRAPHIC 
+CHARACTERISTICS 
+OF 
+STUDY 
+POPULATION 
+
+
+Comparison Group SDB, 1 yr AHI , 
+3 SDB, 1 yr AHI . 
+3 
+(n 
+5 
+30) (n 
+5 
+20) (n 
+5 
+20) 
+Age at baseline, yr 10.2 (2.2) 9.3 (2.1) 10.3 (2.2) 
+Age at 1-yr follow-up, yr 11.3 (2.2) 10.5 (2.1) 11.4 (2.2) 
+Male sex, % 40 65 55 
+African-American race, % 20 25 45 
+AHI, baseline 0.26 (0.28) 3.6 (3.2) 14.7 (18.3)* 
+BMI, baseline 18.7 (3.8) 19.2 (4.6) 25.0 (5.7)* 
+BMI . 
+95th percentile at baseline, % 10 20 70* 
+BMI regression slope 0.80 (0.99) 0.99 (1.20) 2.12 (1.38)* 
+Systolic BP, baseline 101 (10) 105 (11) 110 (14) 
+Diastolic BP, baseline 57 (9) 59 (8) 64 (7)† 
+
+Definition 
+of 
+abbreviations: AHI 5 
+apnea hypopnea index; BMI 5 
+body mass index; BP 5 
+blood pressure; SDB 5 
+sleep-
+disordered breathing. 
+
+Demographic and polysomnographic characteristics of study population expressed as frequencies and means 6 
+SD. 
+
+* For comparisons between the two SDB groups, P 
+, 
+0.01. 
+† P 
+, 
+0.05. 
+
+656 AMERICAN JOURNAL OF RESPIRATORY AND CRITICAL CARE MEDICINE VOL 177 2008 
+
+
+greater than 3 at 1 year, six (30%) had an AHI higher than their 
+baseline value. In the same time period, 2 of the 30 children (7%) 
+in the comparison group developed SDB, one child was obese and 
+one nonobese. 
+
+Change 
+in 
+AHI 
+after 
+Adenotonsillectomy 
+
+
+The AHI of children with SDB decreased significantly from a 
+mean of 9.2 6 
+14 at baseline to 1.4 6 
+2 at 6 weeks after surgery 
+(P 
+< 
+0.001). There was no difference in AHI measured at 6 weeks 
+between those who ultimately had recurrence of SDB after 1 year 
+and those who did not (Figure 1). The 6-week AHI showed no 
+correlation with the AHI measured preoperatively or the AHI 
+measured at 6 months and 1 year after surgery. 
+
+In the period from 6 months to 1 year postoperatively, both 
+obese and nonobese children showed a trend toward increasing 
+AHI over time (Table 2). A positive correlation was measured 
+between preoperative AHI and that measured at 6 months (r 
+5 
+0.5, P 
+, 
+0.01) and 1 year (r 
+5 
+0.5, P 
+, 
+0.01) after surgery. These 
+results suggest that preoperative polysomnography findings predict 
+the 1-year outcome of surgery regardless of the short-term 
+improvement seen at the 6-week postoperative time point. 
+
+Characteristics 
+of 
+Children 
+Who 
+Had 
+Recurrence 
+of 
+SDB 
+1 
+Year 
+after 
+Adenotonsillectomy 
+
+
+Children with an AHI of 3 or more at 1 year were more likely to 
+have an accelerated BMI gain, to be more obese, to be African 
+American, and to have more severe SDB at baseline (Table 1). 
+The rate of BMI gain, measured as BMI regression slope, was 
+significantly larger in children with recurrence versus those 
+without recurrence of SBD (Table 1). 
+
+Multivariable 
+Logistic 
+Regression 
+
+
+The independent effect of the BMI regression slope on the risk 
+of SDB recurrence after adenotonsillectomy was demonstrated 
+through multivariable logistic regression (Table 3). There were 
+no significant two-way interactions between predictors in any of 
+the models predicting SDB recurrence. Whether the assessment 
+
+TABLE 
+2. 
+NUMBER 
+AND 
+PERCENTAGE 
+OF 
+OBESE 
+AND 
+NONOBESE 
+CHILDREN 
+WITH 
+AN 
+APNEA–HYPOPNEA 
+INDEX 
+MORE 
+THAN 
+3 
+PER 
+HOUR 
+OF 
+SLEEP 
+AT 
+EACH 
+TIME 
+POINT 
+DURING 
+THE 
+STUDY 
+
+
+SDB 
+(n 
+5 
+40) 
+Nonobese 5 
+22 Obese 5 
+18 P 
+Baseline 
+6 wk 
+6 mo 
+1 yr 
+11/22 (50%) 
+1/21 (5%) 
+3/22 (14%) 
+6/22 (27%) 
+12/18 (67%) 
+6/17 (35%) 
+6/17 (35%) 
+14/18 (79%) 
+0.35 
+0.03 
+0.14 
+0.004 
+
+Definition 
+of 
+abbreviation: SDB 5 
+sleep-disordered breathing. 
+P 
+value is for comparison between percentages of obese versus nonobese groups. 
+
+
+Figure 
+1. 
+Serial changes, from baseline to the 
+end of the follow-up period, in mean body mass 
+index (BMI) and mean apnea–hypopnea index 
+(AHI) by group. Groups were divided as comparison 
+group and two sleep-disordered breathing 
+(SDB) groups, one with an AHI less than 3 and 
+one with an AHI greater than 3 at 1 year after 
+adenotonsillectomy. n 5 
+30 for the comparison 
+group and n 5 
+20 for each SDB group. For comparisons 
+between the two SDB groups, **P 
+, 
+
+
+0.01. Solid 
+circles, control group; shaded 
+circles, 
+AHI , 
+3 group; open 
+circles, AHI . 
+3 group. 
+of BMI in the model was that from baseline, at 1 year, or from 
+a mean BMI over 1 year, recurrence was significantly predicted 
+by African-American race, BMI, and the BMI slope (Table 3). 
+These same variables were significant predictors when the nonsignificant 
+variables, age and sex, were removed (results not shown). 
+The c-statistics for the reduced models suggest that race, BMI, 
+and BMI gain provided roughly equal amounts of predictive 
+power to the models. Odds ratios for SDB recurrence, adjusted 
+for other variables in the models, were approximately 1.4 for each 
+unit of BMI, 4 to 6 for each unit of BMI change per year, and 15 for 
+African-American race (Table 3). These results demonstrate the 
+independent effect of rate of BMI gain on the long-term risk for 
+recurrence of SDB after adenotonsillectomy. 
+
+Relationship 
+of 
+Recurrence 
+of 
+SDB 
+to 
+Systemic 
+BP 
+
+
+In the comparison group, there was no significant change in 
+systolic or diastolic BP over the course of the study. In children 
+with SDB, a decline in diastolic BP was evident at 6 months after 
+surgery (Figure 2). This significant trend was observed in children 
+who had no recurrence and also in those who ultimately had 
+recurrence at the 1-year evaluation. In the latter group, there was 
+a significant increase in systolic BP compared with preoperative 
+levels and compared with those who did not have recurrence. In 
+a model that included age, race, BMI, and AHI at the end of the 
+follow-up period, AHI was a significant predictor of systolic (P 
+5 
+0.03) and diastolic (P 
+5 
+0.0004) BP 1 year after adenotonsillectomy. 
+
+Evaluation 
+for 
+Recurrence 
+of 
+Hypertrophy 
+of 
+the 
+Adenoids 
+after 
+Adenotonsillectomy 
+
+
+Subjects who had recurrence of SDB were invited to undergo 
+a clinical evaluation and/or airway radiograph. In contrast to 
+surgical removal of adenoidal tissue, the removal of the tonsils is 
+complete and therefore regrowth of the tonsils does not occur. 
+Thus, the objective of the evaluation was to assess for regrowth of 
+the adenoids. Eleven subjects had an airway radiograph; two of 
+these subjects had regrowth of the adenoids. In one case, the 
+adenoids were nonobstructive and in another case the adenoids 
+were obstructive. Nine subjects did not have evidence of regrowth 
+of the adenoids. The remaining nine subjects who had recurrence 
+of SDB did not receive an evaluation. The reasons were change in 
+address or a refusal to pursue further evaluation because of the 
+significant improvement in their AHI after surgery. 
+
+DISCUSSION 
+
+
+Several new observations with important implications for clinical 
+practice and for understanding the pathogenesis of SDB in 
+children emerged from this study. We report for the first time 
+the longitudinal outcome of adenotonsillectomy in healthy children, 
+the important influence of BMI gain velocity and African-
+American race on recurrence of SDB, and the longitudinal changes 
+in BP associated with the recurrence of SDB. 
+
+
+Amin, Anthony, Somers, et 
+al.: Weight Gain Velocity and Sleep Apnea 
+
+TABLE 
+3. 
+MULTIVARIABLE 
+LOGISTIC 
+REGRESSION 
+
+
+Area under ROC curve 
+OR (95% 
+CI) 1 df 
+x2 Two-tailed P 
+Value (C-statistic) without Variable 
+BMI, baseline 
+Full model (5 term) 0.92 
+Male sex 6.0 (0.65–125) 2.4 0.1 0.90 
+African-American race 14 (1.5–280) 5.6 0.02 0.88 
+Age 1 (0.55–1.9) 0.006 0.9 0.92 
+BMI, baseline 1.4 (1.1–1.9) 7.2 0.007 0.87 
+BMI slope 6.2 (2.0–38) 12.3 ,0.001 0.84 
+BMI, 1 yr 
+Full model (5 term) 0.92 
+Male sex 6.4 (0.70–133) 2.5 0.1 0.89 
+African-American race 16 (1.7–317) 6.2 0.01 0.87 
+Age 1 (0.54–1.9) 0.004 0.9 0.91 
+BMI, 1 yr 1.4 (1.1–1.9) 6.8 0.009 0.87 
+BMI slope 4 (1.4–22) 7.5 0.006 0.86 
+Mean BMI 
+Full model (5 term) 0.92 
+Male sex 6 (0.66–130) 2.6 0.1 0.90 
+African-American race 15 (1.6–299) 6 0.01 0.88 
+Age 1 (0.54–1.9) 0.2 0.7 0.91 
+Mean BMI 1.4 (1.1–1.9) 7.2 0.007 0.87 
+BMI slope 5.2 (1.7–30) 10 0.001 0.86 
+
+Definition 
+of 
+abbreviation: BMI 5 
+body mass index; CI 5 
+confidence interval; df 
+5 
+degree of freedom; OR 5 
+odds ratio; ROC 5 
+receiver operating characteristic. 
+
+Multivariable logistic regression using three different models. The table shows the area under ROC curve (C-statistic) for each 
+full model and for models reduced by the removal of one variable at a time. 
+
+An important observation made in this study relates to the 
+timing of the assessment of SDB after adenotonsillectomy. To 
+date, most postadenotonsillectomy outcome studies have focused 
+on the assessment of SDB 6 to 16 weeks after surgery (24–26). 
+Resolution of SDB during this window of time was usually 
+interpreted as a cure for the disorder. However, the high rate of 
+recurrence of SDB that we observed 1 year after surgery in both 
+obese and nonobese children indicates that SDB is a chronic 
+condition. In fact, the absence of a significant correlation between 
+the 6-week postoperative AHI and AHI measured at any earlier 
+or later time speaks to the limited predictive value of the 6-week 
+evaluation. Furthermore, large BP increases in children who had 
+recurrence of SDB and the independent association of AHI with 
+both 1-year systolic and diastolic BP point to the potential 
+morbidity of unrecognized residual SDB after adenotonsillectomy. 
+In view of our findings, it would be clinically prudent to 
+extend the traditional 6-week follow-up, commonly used in clinical 
+practice, to at least a 1-year follow-up. 
+
+In our study population, adenotonsillectomy was associated 
+with partial to complete resolution of SDB in both obese and 
+nonobese children. Although in obese children the 1-year AHI 
+decreased significantly from that measured preoperatively, the 
+
+
+number of obese children with an AHI greater than 3 increased 
+from 67 to 79%. On one hand, these findings appear to indicate 
+the beneficial effect of adenotonsillectomy in all children with 
+SDB independent of BMI. On the other hand, they suggest the 
+presence of a subset of children who are refractory to a long-term 
+benefit, and in fact susceptible to progression of SDB despite 
+adenotonsillectomy. Although children who were obese at baseline 
+were more likely to be refractory to the benefit of adenotonsillectomy, 
+there was an additional and independent risk 
+of SDB reoccurrence due to the rate of BMI gain during the 
+duration of the study. These results highlight the differential 
+disease mechanisms between those due to obesity and those due 
+to the rapid change in body composition associated with accelerated 
+BMI gain. 
+
+Different obesity-related conditions and parameters, as distinct 
+mediators of disease morbidity, have emerged from studies 
+of pathways linking obesity to abnormal glucose homeostasis and 
+cardiovascular diseases. Among these conditions is adiposity 
+rebound, defined by the age after infancy at which BMI starts to 
+rise and measured as BMI gain from birth to childhood. The role 
+of BMI gain from infancy to childhood in obesity-related morbidity 
+was highlighted by Bhargava and colleagues (27). In their 
+
+Figure 
+2. 
+Trend of systolic blood pressure 
+(SBP) and diastolic BP (DBP) from baseline to 
+
+6 months postadenotonsillectomy, then to 
+1 year postadenotonsillectomy in children 
+who had no recurrence of sleep-disordered 
+breathing (SDB) and those who had recurrence 
+of SDB. Data from the comparison 
+group are shown. For comparisons between 
+the two SDB groups: *P 
+, 
+0.05, **P 
+, 
+0.01; 
+for across time point, within-group comparisons: 
+†P 
+5 
+0.02 baseline versus 6 months, 
+
+‡P 
+5 
+0.03 baseline versus 1 year, ***P 
+5 
+0.003 
+baseline versus 6 months. Solid 
+circles, control 
+group; shaded 
+circles, AHI , 
+3 group; 
+open 
+circles, AHI . 
+3 group. 
+
+658 
+AMERICAN JOURNAL OF RESPIRATORY AND CRITICAL CARE MEDICINE VOL 177 2008 
+
+study of 1,492 young adults, they examined the relation of serial 
+changes in childhood BMI to impaired glucose tolerance in young 
+adulthood. Children, in whom impaired glucose tolerance or 
+diabetes later developed, were characterized by a low BMI between 
+birth and 2 years of age, a young age at adiposity rebound, 
+and a sustained accelerated gain in BMI until adulthood. A 
+similar association between rate of weight gain and the risk of 
+cardiovascular disease in children and adults has been recently 
+described (18, 19, 28). 
+
+Our study, together with those noted above, regarding the 
+independent role of BMI gain in disease development, clearly 
+support the concept of BMI gain trajectory as an independent risk 
+factor for SDB, diabetes, and cardiovascular disease. The association 
+of BMI gain with abnormal glucose homeostasis and 
+markers of early atherosclerosis in children (15, 27) is similar to 
+the trend we observed between BMI gain and risk for SDB after 
+adenotonsillectomy. The similarity in these trends raises the 
+important question of whether SDB is one link between a high 
+rate of BMI gain during childhood and abnormal glucose homeostasis 
+and cardiovascular disease in adulthood. 
+
+In all regression models examined in our study, being African 
+American increased the risk of recurrence of SDB after adenotonsillectomy. 
+This observation identifies the racial differences in 
+conferring the risk of developing SDB in children. 
+
+A limitation of this study design is that it did not address the 
+reproducibility of AHI in untreated children with SDB over a 1year 
+period. Because measuring the reproducibility of AHI over 
+a period of 1 year in children with varying degrees of severity of 
+SDB would require withholding therapy, and is not ethically acceptable, 
+we included a healthy control group, which was followed 
+for the same duration as children with SDB. Although the findings 
+derived from the comparison group do not necessarily reflect 
+the reproducibility of AHI in children with SDB, they nevertheless 
+demonstrate the small variation of this index over a period of 
+1 year. 
+
+Conclusions 
+
+
+There is a high risk of recurrence of SDB in children 1 year after 
+adenotonsillectomy that was associated with increasing BP. 
+Gain velocity in BMI, being obese, and being African American 
+increased the risk of recurrence of SDB 1 year after adenotonsillectomy. 
+We advocate long-term follow-up of children with 
+SDB, monitoring of BMI gain, and reevaluation of children who 
+demonstrate rapid BMI gain, especially those who are African 
+American. 
+
+Conflict 
+of 
+Interest 
+Statement: 
+R.A. does not have a financial relationship with 
+a commercial entity that has an interest in the subject of this manuscript. L.A. 
+does not have a financial relationship with a commercial entity that has an 
+interest in the subject of this manuscript. V.S. has served as a consultant for 
+Sepracor, Respironics, ResMed, and Cardiac Concepts; V.S. has also received 
+research grants from the Respironics Sleep and Breathing Foundation ($120,000) 
+and is a co-investigator on a grant from the ResMed Foundation (principal 
+investigator, Sean Caples). M.F. does not have a financial relationship with 
+a commercial entity that has an interest in the subject of this manuscript. K.M. 
+does not have a financial relationship with a commercial entity that has an 
+interest in the subject of this manuscript. J.J. does not have a financial relationship 
+with a commercial entity that has an interest in the subject of this manuscript. 
+
+P.W. does not have a financial relationship with a commercial entity that has an 
+interest in the subject of this manuscript. M.K. received $65,000 in 2005 and 
+2006 from Pfizer, Inc., as a research grant for career development; M.K. also 
+received $2,000 in 2006 and $4,000 in 2007 for speaking for GlaxoSmithKline. 
+S.D. does not have a financial relationship with a commercial entity that has an 
+interest in the subject of this manuscript. 
+References 
+
+
+1. Tishler PV, Larkin EK, Schluchter MD, Redline S. Incidence of sleep-
+disordered breathing in an urban adult population: the relative 
+importance of risk factors in the development of sleep-disordered 
+breathing. JAMA 
+2003;289:2230–2237. 
+
+2. Redline S, Tishler PV, Schluchter M, Aylor J, Clark K, Graham G. Risk 
+factors for sleep-disordered breathing in children. Associations with 
+obesity, race, and respiratory problems. Am 
+J 
+Respir 
+Crit 
+Care 
+Med 
+1999;159:1527–1532. 
+3. Ng DK, Kwok KL, Cheung JM, Leung SY, Chow PY, Wong WH, Chan 
+CH, Ho JC. Prevalence of sleep problems in Hong Kong primary school 
+children: a community-based telephone survey. Chest 
+2005;128:1315– 
+1323. 
+4. Sogut A, Altin R, Uzun L, Ugur MB, Tomac N, Acun C, Kart L, Can G. 
+Prevalence of obstructive sleep apnea syndrome and associated symptoms 
+in 3–11-year-old Turkish children. Pediatr 
+Pulmonol 
+2005;39:251– 
+256. 
+5. Quan SF, Gersh BJ. Cardiovascular consequences of sleep-disordered 
+breathing: past, present and future: report of a workshop from the 
+National Center on Sleep Disorders Research and the National 
+Heart, Lung, and Blood Institute. Circulation 
+2004;109:951–957. 
+6. Kalra M, Inge T, Garcia V, Daniels S, Lawson L, Curti R, Cohen A, 
+Amin R. Obstructive sleep apnea in extremely overweight adolescents 
+undergoing bariatric surgery. Obes 
+Res 
+2005;13:1175–1179. 
+7. Mitchell RB, Kelly J. Outcome of adenotonsillectomy for obstructive 
+sleep apnea in obese and normal-weight children. Otolaryngol 
+Head 
+Neck 
+Surg 
+2007;137:43–48. 
+8. Van Den Akker EH, Hoes AW, Burton MJ, Schilder AG. Large international 
+differences in (adeno)tonsillectomy rates. Clin 
+Otolaryngol 
+Allied 
+Sci 
+2004;29:161–164. 
+9. Schwab RJ. Genetic determinants of upper airway structures that predispose 
+to obstructive sleep apnea. Respir 
+Physiolo 
+Neurobiol 
+2005;147: 
+289–298. 
+10. Maislin G, Pack AI, Kribbs NB, Smith PL, Schwartz AR, Kline LR, 
+Schwab RJ, Dinges DF. A survey screen for prediction of apnea. 
+Sleep 
+1995;18:158–166. 
+11. Schwab RJ, Pack AI, Gupta KB, Metzger LJ, Oh E, Getsy JE, Hoffman 
+EA, Gefter WB. Upper airway and soft tissue structural changes 
+induced by CPAP in normal subjects. Am 
+J 
+Respir 
+Crit 
+Care 
+Med 
+1996;154:1106–1116. 
+12. Shimura R, Tatsumi K, Nakamura A, Kasahara Y, Tanabe N, Takiguchi 
+Y, Kuriyama T. Fat accumulation, leptin, and hypercapnia in obstructive 
+sleep apnea-hypopnea syndrome. Chest 
+2005;127:543–549. 
+13. Huang R, Huang XZ, Li M, Xiao Y, Zhang J. [An investigation of the 
+relationship between Lepr gene Gln223Arg polymorphism and obstructive 
+sleep apnea hypopnea syndrome.] Zhonghua 
+Jie 
+He 
+He 
+Hu 
+Xi 
+Za 
+Zhi 
+2003;26:517–521. 
+14. Tatsumi K, Kasahara Y, Kurosu K, Tanabe N, Takiguchi Y, Kuriyama T. 
+Sleep oxygen desaturation and circulating leptin in obstructive sleep 
+apnea-hypopnea syndrome. Chest 
+2005;127:716–721. 
+15. Kaneshi 
+T, Yoshida T, Ohshiro T, Nagasaki H, Asato Y, Ohta T. 
+Birthweight and risk factors for cardiovascular diseases in Japanese 
+schoolchildren. Pediatr 
+Int 
+2007;49:138–143. 
+16. Saito I, Yonemasu K, Inami F. Association of body mass index, body fat, 
+and weight gain with inflammation markers among rural residents in 
+Japan. Circ 
+J 
+2003;67:323–329. 
+17. Itoh T, Horie S, Takahashi K, Okubo T. An evaluation of various indices 
+of body weight change and their relationship with coronary risk 
+factors. Int 
+J 
+Obes 
+Relat 
+Metab 
+Disord 
+1996;20:1089–1096. 
+18. Stamatelopoulos KS, Lekakis JP, Vamvakou G, Katsichti P, Protogerou 
+A, Revela I, Karatzi K, Alevizaki M, Zakopoulos N, Papamichael 
+CM. The relative impact of different measures of adiposity on 
+markers of early atherosclerosis. Int 
+J 
+Cardiol 
+2007;119:139–146. 
+19. Wildman RP, Farhat GN, Patel AS, Mackey RH, Brockwell S, Thompson 
+T, Sutton-Tyrrell K. Weight change is associated with change in arterial 
+stiffness among healthy young adults. Hypertension 
+2005;45:187–192. 
+20. Huang Z, Willett WC, Manson JE, Rosner B, Stampfer MJ, Speizer FE, 
+Colditz GA. Body weight, weight change, and risk for hypertension in 
+women. Ann 
+Intern 
+Med 
+1998;128:81–88. 
+21. Willett WC, Manson JE, Stampfer MJ, Colditz GA, Rosner B, Speizer 
+FE, Hennekens CH. Weight, weight change, and coronary heart 
+disease in women: risk within the ‘‘normal’’ weight range. JAMA 
+1995; 
+273:461–465. 
+22. American Thoracic Society. Standards and indications for cardiopulmonary 
+sleep studies in children. Am 
+J 
+Respir 
+Crit 
+Care 
+Med 
+1996;153: 
+866–878. 
+23. American Thoracic Society. Cardiorespiratory sleep studies in children: 
+establishment of normative data and polysomnographic predictors of 
+morbidity. Am 
+J 
+Respir 
+Crit 
+Care 
+Med 
+1999;160:1381–1387. 
+
+Amin, Anthony, Somers, et 
+al.: Weight Gain Velocity and Sleep Apnea 
+
+24. Barbe´ F, Amilibia J, Capote F, Dura´n J, Mangado NG, Jime´nez A, 
+Mari´n JM, Masa F, Montserrat JM, Tera´n J. [Diagnosis of obstructive 
+sleep apnea syndrome: consensus report from the Respiratory Insufficiency 
+and Sleep Disorders Group.] Arch 
+Bronconeumol 
+1995; 
+31:460–462. Spanish. 
+25. Guilleminault C, Li KK, Khramtsov A, Pelayo R, Martinez S. Sleep 
+disordered breathing: surgical outcomes in prepubertal children. 
+Laryngoscope 
+2004;114:132–137. 
+26. De Serres LM, Derkay C, Sie K, Biavati M, Jones J, Tunkel D, Manning 
+S, Inglis AF, Haddad J Jr, Tampakopoulou D, et 
+al. 
+Impact of 
+adenotonsillectomy on quality of life in children with obstructive 
+sleep disorders. Arch 
+Otolaryngol 
+Head 
+Neck 
+Surg 
+2002;128:489–496. 
+
+27. Bhargava SK, Sachdev HS, Fall CH, Osmond C, Lakshmy R, Barker DJ, 
+Biswas SK, Ramji S, Prabhakaran D, Reddy KS. Relation of serial 
+changes in childhood body-mass index to impaired glucose tolerance 
+in young adulthood. N 
+Engl 
+J 
+Med 
+2004;350:865–875. 
+28. Christen A, Efstathiadou Z, Laspa E, Johnston DG, Godsland IF. Rate 
+of change and instability in body mass index, insulin resistance and 
+lipid metabolism as predictors of atherosclerotic vascular disease. 
+J 
+Clin 
+Endocrinol 
+Metab 
+2007;92:3780–3787. 
+

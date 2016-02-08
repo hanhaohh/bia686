@@ -1,0 +1,801 @@
+PEDIATRICS 
+Sleep Disorders and Daytime Sleepiness in Children with Attention-Deficit/ 
+Hyperactive Disorder 
+
+Natali Golan BSc1; Eli Shahar MD2; Sarit Ravid MD2,3; Giora Pillar MD, DSc1,3 
+
+1Sleep Laboratory, 2Pediatric Neurology Unit, and 3Department of Pediatrics A, Rambam Medical Center and Technion-Israel Institute of Technology, 
+
+Haifa, Israel 
+
+Study Objectives: Children with attention-deficit/hyperactive disorder 
+(ADHD), in spite of being hyperactive, still benefit from treatment with 
+stimulant medications. We hypothesized that children with ADHD are in 
+fact sleepy during the day, and we sought to test it objectively. 
+Design: Single blind comparative study 
+Setting: University medical center 
+Participants: Thirty-four children with a previous diagnosis of ADHD 
+(mean age ± SD, 12.4 ± 4.6 years) and 32 matched controls (mean age, 
+
+12.0 ± 3.6 years ). 
+Interventions: N/A. 
+Measurements: All participants underwent a full-night polysomnographic 
+study followed by a multiple sleep latency test (MSLT). 
+Results: Sleep latency, total sleep time, and sleep efficiency were comparable 
+between the groups, yet children with ADHD were significantly 
+sleepier during the day than those in the control group (mean MSLT score 
+of 21.9 ± 5.5 minutes versus 27.9 ± 2.0 minutes, P < .005). Of the children 
+with ADHD, 17 (50%) had signs of sleep-disordered breathing, compared 
+with 7 of the control group (22%, P < .05). Five of the ADHD group 
+had periodic limb movements during sleep (15%) versus none in the control 
+group. Children without sleep-disordered breathing or periodic limb 
+movements during sleep had the lowest nocturnal sleep efficiency and 
+total sleep time. 
+Conclusions: We conclude that children with ADHD demonstrate objective 
+daytime somnolence, which may explain the beneficial effects of treatment 
+with stimulant medications. Primary sleep disorders, especially 
+sleep-disordered breathing and periodic limb movement disorder, should 
+be looked for in children with ADHD. 
+Citation: Golan, N; Shahar E; Ravid S; Pillar G. Sleep disorders and daytime 
+sleepiness in children with attention-deficit/hyperactive disorder. 
+SLEEP 2004;27(2):261-6. 
+
+INTRODUCTION 
+60 years it has been well known that, paradoxically, the use of stimulating 
+medications results in improvement in the majority of children, by
+
+ATTENTION DEFICIT DISORDER (ADD) IS A COMMON DISOR-
+
+reducing their ADHD symptoms.22 Stimulants are the most effective 
+
+DER, AFFECTING APPROXIMATELY 3% TO 7% OF CHILDREN.1,2 
+
+agents for children and adults with ADHD, with approximately 80% of 
+
+It consists of symptoms such as poor sustained attention, distractibility, 
+
+individuals responding favorably, and have been shown to affect behav
+
+
+hyperactivity, impulsiveness, and irritability. These behavioral deficits 
+
+ior across situations (classroom, lunchroom, playground, and home).23 
+
+arise relatively early in childhood, typically before the age of 7, and may 
+
+It has been well documented that sleepy children, unlike sleepy adults,
+
+persist over time.3,4 Three subtypes of the disorder have been proposed 
+
+may demonstrate hyperactivity and attention-deficit behavior rather than
+
+in the current clinical view of attention-deficit/hyperactivity disorder 
+
+excessive daytime somnolence.19,24 Experimental sleep restriction has
+
+(ADHD): predominantly inattentive, predominantly hyperactive-impul
+
+
+recently been reported to be associated with ADHD-like behavior and 
+
+sive (referred to as ADHD), and combined types.5 The etiology of the 
+
+poor cognitive achievements.25,26 School performance, which is low in
+
+disorder has not been fully clarified. Abnormalities in the structure and 
+
+children with sleep apnea (a condition with daytime sleepiness27), is sub-
+
+function of the prefrontal cortex and its networks with other brain 
+
+stantially improved following adenotonsillectomy.28 
+
+regions,6,7 as well as catecholamine dysregulation, with dopaminergic 
+
+Thus, it is possible that children with ADHD are sleepy rather than 
+
+dysfunction, in particular, and norepinephrine,8 indirectly, have been 
+
+hyperalert during the day. Indeed, it has recently been reported that 5- to 
+
+suggested. 
+
+10-year-old boys with ADHD were sleepier than controls, although dif-
+
+Several studies have addressed potential sleep problems in children 
+
+ferences in nocturnal sleep were not found.29 Girls and older children 
+
+with ADHD. Although sleep complaints are commonly reported in these 
+
+were not studied, and respiratory or movement channels were not mon
+
+
+children,9 the nature of their association is not clear.10 Studies based on 
+
+itored. 
+
+parental reports have found that the prevalence of sleep problems in chil-
+
+In the current study, we hypothesize that children with ADHD will 
+
+dren with ADHD was significantly higher than in normal controls,11,12 in 
+
+demonstrate nocturnal sleep disturbances and measurable daytime som
+
+
+controls with other psychiatric diagnoses,13 and in healthy sibling con
+
+
+nolence and seek to objectively assess this hypothesis.
+
+trols.14 Sleep disturbances in children with ADHD could be related to the 
+neurobehavioral abnormality itself or could result from other conditions 
+
+METHODS 
+
+affecting both sleep and behavior.15-21 Traditionally, ADHD has been 
+considered to be a problem of overalertness and nervousness, with the Participants 
+affected child being fidgety and overstimulated. However, for more than 
+
+The study group consisted of 34 children (26 boys) with ADHD 
+recruited via neurologic and psychiatric clinics for ADHD (Table 1). The 
+ADHD was diagnosed based on DSM IV criteria. All children were on 
+
+Disclosure Statement 
+
+intermittent methylphenidate treatment for 3 to 38 months prior to the
+
+No significant financial interest/other relationship to disclose. 
+
+study, which was stopped at least 3 days prior to the study. The control 
+group consisted of 32 age-matched healthy controls, (16 previously
+
+Submitted for publication July 2003 
+
+studied as a control group for another study) with no chronic diseases or
+
+Accepted for publication October 2003 
+
+ADHD symptoms and who were without any medications (Table 1). 
+
+Address correspondence to: Giora Pillar, MD, PhD, Pediatrics Department A, 
+
+Parental informed consent and child assent, in the presence of a parent,
+
+Rambam Medical Center, Haifa 31096, Israel; Tel: 972-4-8542646; Fax: 972-4
+
+
+were obtained. There was no sex preference in selection. In cases when 
+
+8542441; E-mail: gpillar@tx.technion.ac.il 
+
+SLEEP, Vol. 27, No. 2, 2004 
+261 Sleep Disorders and Daytime Sleepiness in Children with ADHD—Golan et al 
+
+
+history was suggestive of adenoid enlargement, a lateral neck radiograph 
+was performed. All children (ADHD and controls) with sleep apnea 
+(once diagnosed) were referred to an ear, nose, and throat evaluation. 
+
+Measures 
+
+History and Questionnaires 
+
+All participants underwent medical evaluation by an experienced 
+sleep physician and completed the Technion Sleep Questionnaire, which 
+includes information regarding sleep habits and potential sleep disturbances, 
+as well as questions regarding daytime behavior. In addition, the 
+participants underwent a brief physical examination focusing on upper-
+airway examination searching for hypertrophy of tonsils or adenoids. 
+
+Polysomnography 
+
+All participants underwent a full-night sleep study at the sleep laboratory 
+in Rambam Medical Center. Children were studied for at least 7 
+hours in a quiet darkened room in the company of 1 of their parents. No 
+medications were used to induce sleep. The following parameters were 
+measured: 2 channels of electroencephalogram (C3-A2 and O2-A1), 
+electrooculogram, chin and anterior tibialis electromyograms, chest and 
+abdominal wall movement (piezoelectric electrodes), electrocardiogram, 
+and air flow (thermistor). Arterial oxygen saturation (SpO2) was 
+assessed by pulse oximetry, and end-tidal CO2 levels by capnograph. All 
+measures were digitized using a commercially available polysomnography 
+system (EEG 4214; Nihon Kohden, Kogyo Co, Tokyo, Japan, or 
+Embla system, Flaga hf, Iceland). 
+
+Sleep was staged according to standard criteria. The time in bed was 
+defined as the time between lights off and lights on. Sleep latency was 
+defined as the time from lights off to the first 3 epochs of stage 1 sleep, 
+and the sleep period time, as the time from falling asleep to lights on in 
+the morning. Sleep efficiency was calculated as the percentage of actual 
+sleep time versus time in bed. Awakenings from sleep were scored and 
+presented based on the duration until falling back to sleep. Arousals from 
+sleep were defined as any electroencephalographic frequency change for 
+3 seconds in non-rapid eye movement sleep and any such change associated 
+with body movement or increase in electromyogram during rapid 
+eye movement (REM) sleep. Respiratory events were scored according 
+to the common practice for measurement in children,30 with some modifications. 
+Apneas were defined as the complete cessation of breathing 
+for at least 2 breath cycles, and hypopneas, as any notable decrement in 
+ventilation for at least 2 breath cycles, if the hypopnea was associated 
+with a decrease of at least 3% in SpO2, an increase in end-tidal CO2, or 
+
+Table 1—Characteristics of the participants by groups 
+
+ADHD Control P 
+No. 34 32 
+Boys/girls 26/8 21/11 NS 
+Age, y 12.4±4.6 12±3.6 NS 
+BMI, kg/m2 20.4±3.95 18.6±2.2 .036 
+Sleep latency, min 21±18 26±22 NS 
+Total sleep time, min 401.6±70.2 386.6±39.8 NS 
+Sleep efficiency, % 86.2±9.7 84.5±7.7 NS 
+Sleep stages 3-4, % 27.3 ± 7.99 26.7 ± 8.1 NS 
+Sleep stage REM, % 21.5 ± 4.5 18.9 ± 5.0 .05 
+Awakenings < 1 min, no. 14 ± 8.7 17.3 ± 8.2 NS 
+Awakenings 1-3 min, no. 2.5 ± 1.97 2.8 ± 3.1 NS 
+Awakenings > 3 min, no. 1.5 ± 1.3 1.4 ± 1.8 NS 
+Arousal index, no. / h 14.4 ± 8.4 10.9 ± 4.8 .044 
+RDI 5.8 ± 6.8 2.2 ± 3.6 .01 
+Children with SDB, no. 17 7 .02 
+Children with PLMD, no. 5 0 .05 
+SaO2 minimum, % 95.9 ± 1.99 96.2 ± 2.7 NS 
+Data are presented as mean ± SD 
+
+ADHD refers to attention-deficit/hyperactivity disorder; BMI, body mass index; REM, 
+rapid eye movement; RDI, respiratory disturbance index—the number of apneas + hypopneas 
+per hour of sleep; PLMD, periodic limb movement disorder; SaO2, minimum oxygen 
+saturation. 
+
+arousal from sleep. The respiratory disturbance index (RDI) was calculated 
+as the number of apneas plus hypopneas divided by the total number 
+of hours of sleep. Children with an RDI greater than 2 were considered 
+as having sleep-disordered breathing (SDB). Periodic limb movements 
+were also counted (based on International Classification of Sleep 
+Disorders criteria) and divided by the total sleep time to form the PLM 
+index. Children with a PLM index greater than 5 were considered as 
+having periodic limb movement disorder (PLMD). 
+
+Multiple Sleep Latency Test 
+
+Objective sleepiness was assessed by the multiple sleep latency test 
+(MSLT), which we have modified for children. All participants underwent 
+an MSLT during the day following the whole-night sleep study, 
+during which subjects were given 5 opportunities to fall asleep every 2 
+hours (8:00 AM, 10:00 AM, noon, 2:00 PM, 4:00 PM). The traditional 
+20-minute nap opportunities were modified and extended to 30-minute 
+opportunities. For every nap, subjects were requested to lie in bed in a 
+dark, quiet, and comfortable room, with no external stimulation. The 
+parents were allowed to remain in the room. Sleep latency for each trial 
+was measured from the time of lights out to the first epoch of sleep. If 
+subjects did not fall asleep after 30 minutes, the nap was terminated, and 
+sleep latency for that nap was assigned a value of 30 minutes. If subjects 
+fell asleep during the nap, they were allowed to sleep for 15 minutes to 
+examine whether REM sleep occurred, at which point 1 minute of REM 
+sleep was permitted or the test was terminated. Daytime sleepiness 
+(based on the MSLT results) was determined from the average of the 5 
+sleep latencies. Additional variables included the number of naps in 
+which the subject fell asleep and the number of REM-sleep occurrences. 
+
+Protocol 
+
+All participants underwent a medical interview, filled out questionnaires, 
+and underwent a brief physical examination prior to the sleep 
+study. On the sleep-study night, participants reported to the sleep lab 
+between 8:00 PM and 9:00 PM, electrodes were attached, and the bedtime 
+was requested to be no later than midnight. Sleep was monitored 
+until 7:00 AM the following morning. Then, the MSLT was performed. 
+All studies were scored blindly (ie, the scorer was blinded to the group 
+in which the child belonged) by an experienced PSG technologist and 
+then carefully assessed by the principle investigators. 
+
+Data Analysis 
+
+All variables were inserted into a database program (Microsoft Excel, 
+Microsoft, Redmond, Wash), and comparisons were made between the 
+control and study groups (unpaired t test). Within each group, primary 
+sleep disorders were diagnosed, and their prevalence in each group was 
+compared using .2 test for proportions. Finally, within the study group, 
+the population was divided into subgroups according to sleep disorders 
+found, and various variables were compared using unpaired t test and 
+analysis of variance. In all comparisons a P value of less than .05 was 
+considered statistically significant. 
+
+RESULTS 
+
+Complete data sets are available on 61 of the participants. Two children 
+from the ADHD group and 3 children from the control group completed 
+only questionnaires and night studies but left the laboratory without 
+completing the MSLT. 
+
+Table 1 shows the polysomnographic measures of the ADHD and control 
+groups. The sleep architecture did not differ significantly between 
+the groups, with the exception of percentage of REM sleep, which was 
+higher in the ADHD group (Table 1). Awakenings from sleep were also 
+similar between the groups, although the arousal index was higher in the 
+ADHD than in the control group. The frequencies of SDB and PLM 
+were higher in the ADHD group than in controls, and the average RDI 
+was 2.5-fold higher in the ADHD group compared to the control group 
+
+SLEEP, Vol. 27, No. 2, 2004 262 Sleep Disorders and Daytime Sleepiness in Children with ADHD—Golan et al 
+
+
+(Table 1). Importantly, there was a significant correlation between (Table 3). The SaO2 was significantly higher in the NPSD group than in 
+
+arousal index and RDI (r = 0.62, P < .05). 
+
+The MSLT data are presented in Figure 1. Mean sleep latency was 
+shorter in the ADHD group than in the control group (21.9 ± 2.6 minutes 
+vs 27.9 ± 1.85 minutes, P < .005). There were significant differences in 
+the sleep latencies between the groups in 4 of the 5 daytime trials (except 
+for the noon trial). There were 23 (14%) sleep latencies shorter than 10 
+minutes in 13 children in the ADHD group, as compared to 3 (2%) in 3 
+children of the control group. Table 2 shows the number and percentage 
+of children in the 2 groups who fell asleep on each trial of the MSLT. Of 
+the 32 children with ADHD who went through the MSLT, 31 (96%) fell 
+asleep at least once (8 fell asleep once, 9 twice, and 14 fell asleep more 
+than 2 times) versus 19 (65%) of the 29 controls (14 fell asleep once, 5 
+twice, and 0 fell asleep more than 2 times). 
+
+Within the ADHD group, 17 children had some degree of SDB (50%), 
+5 children had PLMD (15%, mean PLM index of 13 ± 2 per hour), and 
+the remaining 13 children had no primary sleep disorder (NPSD). The 
+children in these groups did not differ significantly in age, sex, and body 
+mass index, as shown in Table 3. 
+
+The polysomnographic measures of the children with ADHD were 
+categorized according to the primary sleep disorder found (Table 3). The 
+children with PLM had significantly higher percentages of REM sleep 
+and more awakenings (1-3 minutes) than did the children with SDB or 
+the NPSD (“pure ADHD”) children. Interestingly, the NSPD subgroup 
+had the lowest sleep efficiency and total sleep time. 
+
+Because 3 of the children in the PLM group also had SDB, the average 
+RDI in the PLM subgroup was higher than in the NPSD subgroup 
+
+Table 2—Children who fell asleep on each Multiple Sleep Latency 
+Test nap opportunity 
+
+Group Time of day 
+8:00 AM 10:00 AM Noon 2:00 PM 4:00 PM 
+ADHD, no (%) 21(65) 16 (50) 15 (46) 14 (43) 19 (59) 
+Control, no (%) 5 (17) 4 (13) 11 (37) 3 (10) 1 (3) 
+P value .001 .005 NS .01 .001 
+
+ADHD refers to attention-deficit/hyperactivity disorder. 
+
+the SDB and PLM groups. The average MSLT values of these 3 subgroups 
+did not differ significantly except at the fifth trial (4:00 PM), in 
+which the PLM subgroup had the shortest sleep latency (P < .05), as 
+shown in Figure 2. 
+
+DISCUSSION 
+
+The results of this study indicate that children with ADHD demonstrate 
+nocturnal sleep disturbances and objective daytime somnolence 
+and are in support of our hypothesis. Sleep latency, total sleep time, and 
+sleep efficiency were comparable between the groups. Yet, children with 
+ADHD were significantly sleepier during the day. Fifty percent of them 
+were found to suffer from some degree of SDB (vs 22% of the control 
+group), and 15% of them had PLMD (versus none in the control group). 
+However, surprisingly, within the ADHD group, children with SDB were 
+not sleepier than children without SDB. Children with NPSD had the 
+lowest nocturnal sleep efficiency and total sleep time. 
+
+The observation that children with ADHD may fail more frequently 
+during repetitive tasks than in single short-lived tasks has led Weinberg 
+and Harper31 to suggest the hypoarousal theory as a possible underlying 
+mechanism for ADHD. According to this theory, children with alleged 
+ADHD are in fact sleepy and use excessive motor activity as a method 
+to stay alert. This theory is also supported by parental reports that children, 
+when extremely tired, tend to be angry, aggressive, and overactive.
+19,24 Indeed, experimental sleep restriction may lead to ADHD-like 
+behavior.25,26 Moreover, the use of stimulants, which increases catecholamine 
+activity in the central nervous system and induces alertness in 
+normal individuals, is the best medical treatment for children with 
+ADHD, resulting in paradoxical reduction of their excessive motor 
+activity.8,22,23 Thus, it seems reasonable that children with ADHD are 
+actually sleepy during the day, although this has not directly been largely 
+tested. Lecendreux et al29 have studied 30 boys aged 5 to 10 years and 
+reported that they were sleepier during the day, although primary sleep 
+disorders could not be assessed because respiratory or movement channels 
+were not recorded. However, there are several reports linking primary 
+sleep disorders and ADHD.15-19,27,32-35 In our study, more than 50% 
+
+Figure 1—Results of Multiple Sleep Latency Tests for children with attention-deficit/hyperactivity disorder and controls during 5 nap opportunities. Mean sleep latency ± SEM, in minutes, 
+of 34 children with attention-deficit/hyperactivity disorder (ADHD) and 32 age-matched controls. The children with ADHD (dotted line) had significantly shorter sleep latencies than did controls 
+(solid line) in 4 of the 5 MSLT trials (except for nap 3). 
+SLEEP, Vol. 27, No. 2, 2004 263 Sleep Disorders and Daytime Sleepiness in Children with ADHD—Golan et al 
+
+
+
+of the children with ADHD had a primary sleep disorder, although they 
+were all sleepy during the day independent of whether or not they had a 
+primary sleep disorder. It should be kept in mind, however, that the number 
+of children in the various subgroups was rather small, which may be 
+too low to discover mild differences between the groups. 
+
+Assessment of objective sleepiness in children has not been standardized. 
+Although the MSLT is currently considered the gold standard, it is 
+infrequently used in children and will conventionally allow for a 20minute 
+nap opportunity.36 However, preadolescent children are not likely 
+to fall asleep within this time period, and, therefore, a 30-minute nap 
+opportunity has been suggested.26,27,37,38 Because our patients’ ages were 
+heterogeneously distributed, we selected the 30-minute trials for all par-
+
+Table 3—Characteristics of the attention-deficit/hyperactivity disorder 
+subgroups 
+
+SDB PLMD NPSD P 
+
+
+No. 18 5 13 
+Boys/girls 13/5 5/0 10/3 NS 
+Age, y 12.1 ± 5.4 11.5 ± 6.4 13.0 ± 3.8 NS 
+BMI, kg/m2 20.7 ± 4.9 21.6 ± 3.8 19.6 ± 2.3 NS 
+Sleep latency, min 18.0 ± 11.8 11 ± 7.0 25.2 ± 23.8 NS 
+Total sleep time, min 424.2 ± 34.2 466.9 ± 37.2 360.2 ± 85.2† <.05 
+Sleep efficiency, % 89.2 ± 6.1 93.3 ± 3.1 81.2 ± 11.8† <.05 
+Sleep stages 3-4, % 27.5 ± 8.7 22.8 ± 8.7 27.6 ± 6.6 NS 
+Sleep stage REM, % 22.05 ± 4.2 26.4 ± 4.05† 19.6 ± 3.4 <.05 
+Awakenings < 1 min, no. 13.9 ± 9.4 5.8 ± 7.5 14.7 ± 7.9 NS 
+Awakenings 1-3 min, no. 2.3 ± 1.97 4.8 ± 1.6* 2.3 ± 1.9 <.05 
+Awakenings > 3 min, no. 1.3 ± 1.1 2.8 ± 1.1 1.4 ± 1.4 NS 
+RDI 9.9 ± 6.9 6.0 ± 5.4 0.8 ± 1.0† <.05 
+SaO2 minimum, % 95 ± 2.1 95.8 ± 1.3 97 ± 1.2† <.05 
+PLM index, no. 0 13 ± 2 0 <.05 
+
+*Data, presented as mean ± SD, are based on the primary sleep disorder found. 
+ADHD refers to attention-deficit/hyperactivity disorder; PLMD, periodic limb movement 
+disorder; NPSD, no primary sleep disorder; BMI, body mass index; REM, rapid eye movement; 
+RDI, respiratory disturbance index, the number of apneas + hypopneas per hour of 
+sleep; SaO2, minimum oxygen saturation; PLM index, the number of periodic limb movements 
+per hour of sleep. 
+
+†Indicates that the marked group significantly defers from the other 2. 
+ticipants, thereby reducing the likelihood of missing a true difference 
+between the ADHD and control groups. In healthy prepubertal children, 
+the average sleep latency on the MSLT has been reported to be 23.7 minutes,
+27 23.5 minutes,26 26.4 minutes,37 and 26.2 minutes,38 and in our 
+control subjects, the mean MSLT score was slightly higher (27.9 minutes), 
+perhaps due to the wide range of ages. However, it is possible that 
+the results by Lecendreux et al (16.7 versus 18.9 minutes) are somewhat 
+underestimating the real differences in daytime sleepiness between children 
+with ADHD and controls, since they gave their children only a 20minute 
+opportunity to fall asleep.29 Our findings are in agreement with 
+those of Lecendreux et al,29 indicating that these children are sleepy 
+throughout the day and not only at a particular time. The mean sleep 
+latency of the ADHD group in our study was significantly shorter than 
+that of the control group in 4 of the 5 trials of the MSLT. 
+
+The daytime sleepiness in our group was not driven by some very 
+sleepy children but, rather, was found in most of the children with 
+ADHD. Thirty-one children in the ADHD group (96%) fell asleep at 
+least once on the MSLT, and 23 (71%) fell asleep twice or more versus 
+19 (65%) and 5 (17%), respectively, in the control group. Sleep was significantly 
+more fragmented in the ADHD group, as evidenced by the 
+higher arousal index in this group. However, arousal index significantly 
+correlated with RDI (r = 0.62, P < .05) but did not correlate well with 
+daytime sleepiness (MSLT score). Thus, it seems that children with 
+ADHD are sleepy during the day without a direct association with SDB. 
+Interestingly, unlike the familiar noontime sleepiness seen in the control 
+group, the most severe sleepiness in the ADHD group was recognized in 
+the first trial of the morning (8:00 AM, Figure 1). This may raise the possibility 
+of a tendency toward delayed sleep phase syndrome. However, 
+children with ADHD actually went to sleep at the same time, with a tendency 
+toward shorter sleep latency, longer total sleep time, and higher 
+sleep efficiency (Table 1), which makes the diagnosis of a delayed sleep 
+phase syndrome unlikely. Thus, we have no good explanation why their 
+nadir of sleepiness occurred in the early morning. One potential explanation 
+(for the sleepiness in general and the early-morning sleepiness in 
+particular) is a different response to mild sleep restriction. Since the total 
+
+Figure 2—Results of Multiple Sleep Latency Tests for children in the ADHD subgroups. Data are presented as mean ± SEM for the 34 children with attention-deficit/hyperactivity disorder 
+(ADHD). In 4 of the MSLT trials, there were no differences in sleep latency between the group with sleep-disordered breathing (SDB)(dotted line), the group with periodic limb movements 
+of sleep (PLM) (cut line), and the group with ADHD and no primary sleep disorder (“pure ADHD”) (solid line). In the fifth trial, the sleep latency of the PLM subgroup was shorter 
+than that of the others. 
+SLEEP, Vol. 27, No. 2, 2004 264 Sleep Disorders and Daytime Sleepiness in Children with ADHD—Golan et al 
+
+
+
+sleep time in both groups was relatively short (around 6.5 hours), we 
+cannot rule out that the sleepiness found in the ADHD group represents 
+a different response to sleep deprivation rather than a pure daytime 
+sleepiness. In order to examine this, we performed a subanalysis on the 
+results of the MSLT in the ADHD and control groups, selecting only 
+children who had 8 hours of total sleep time. The ADHD group had a 
+mean MSLT score of 22.2 ± 6.7 minutes, which was 26.5 ± 3.7 minutes 
+in the controls (P = .16). Thus, the same trend holds for those with sufficient 
+total nocturnal sleep time, although not reaching significance 
+(probably due to the small number of subjects). Another potential explanation 
+is the effect of withdrawal from methylphenidate. However, 
+methylphenidate has a very short half-life, and 3 days off medication 
+prior to the study should eliminate potential withdrawal effects.39 
+
+In our study, children with ADHD demonstrated increased REM sleep 
+compared to controls (21.5% versus 18.9%). Previous studies revealed 
+conflicting results regarding REM sleep and ADHD, and the association 
+between them at this point is unclear. While O’Brien et al35 reported 
+decreased REM sleep in subjects with ADHD and speculated on the possible 
+effect on learning and memory consolidation, others found no 
+REM-sleep differences between ADHD and controls.29,40 In our study it 
+seems that the REM-sleep difference between the groups results from 
+decreased REM sleep in the control group rather than increased REM 
+sleep in the ADHD group. This may be partially explained by the reported 
+tendency of children (especially adolescents) to fall asleep late, and 
+when awakened too early, they may miss the expected morning REM 
+sleep.41 Because sleep apnea (particularly in children) tends to worsen 
+during REM sleep, higher percentages of REM sleep may contribute to 
+the increased rates of SDB that we found in the ADHD group. 
+
+Interpretation of the results in view of the primary sleep disorders 
+found is rather complicated. On the one hand, the frequency of SDB or 
+PLMD in the ADHD group is very high, while on the other, the children 
+with a primary sleep disorder were not sleepier than those without it. 
+One possible explanation is that the etiology of ADHD varies, and some 
+of the children may suffer from a “primary (idiopathic) ADHD,” while 
+others may suffer from ADHD secondary to a nocturnal sleep disorder. 
+This speculation is supported by reports that children with a primary 
+sleep disorder develop ADHD, which may improve when the sleep disorder 
+is treated.1,15-19,27,28,33,35,42 If this speculation is correct, then our 
+results suggest that in the “primary ADHD,” with no SDB or PLMD, the 
+neurologic disorder causes substantial sleep fragmentation, since in this 
+group we observed the worst sleep efficiency. 
+
+In a recent population-based study, O’Brien et al35 reported that, in 
+children with either severe or no ADHD, the prevalence of obstructive 
+sleep apnea was 5%, soaring up to 26% in mild ADHD. We have not 
+rated the severity of our ADHD group, but O’Brien’s findings suggest 
+that when the ADHD characteristics are mild, this may represent a secondary 
+disorder, which should be diagnosed as obstructive sleep apnea 
+rather than as primary ADHD. The 50% rate of SDB that we found in 
+this study is surprisingly high and may represent the minimal criteria we 
+chose to define SDB. In children, SDB is not completely defined, with 
+variable lengths of events as well as the definition of hypopneas used 
+previously.30,43,44 This has lead to a wide variability of reports regarding 
+the prevalence of this disorder in children.30,43-45 Using the esophageal 
+pressure technique, Guilleminault and Pelayo reported that the prevalence 
+of OSA in children is 11%.45 In a recent study by Gottlieb et al of 
+5-year-old children,46 a 25% rate of symptoms of SDB was reported in 
+the general population. The children in the current study did not complain 
+of daytime sleepiness, and we elected to compare SDB (and not 
+frank obstructive sleep apnea) between our groups, defining SDB as an 
+RDI of greater than 2. This may partially explain the high prevalence of 
+SDB we found, although measuring respiration with nasal pressure 
+rather than thermistors could have increased the finding even further. 
+Another potential explanation is a possible selection bias. We recruited 
+our study children from special ADHD clinics. From the time of study 
+approval by the Institutional Review Board, all patients at the clinic were 
+invited to participate (unless they suffered from additional medical dis
+
+
+eases). We do not have data on those children who chose not to participate. 
+It is possible that children who snore or struggle with breathing 
+during sleep were more likely to participate. This (and the definition criteria 
+used) may also explain the relatively high rate of SDB in our control 
+group (22%). Although we asked for healthy children, it is possible 
+that some families were aware of some snoring and thus had an incentive 
+to participate. Yet, we believe the prevalence of SDB in children 
+with ADHD is very high, and this disorder must be looked for in these 
+children. This finding is also in agreement with several previous reports, 
+which found a close association between obstructive sleep apnea and 
+
+ADHD.10,15,17-19,21,32,33,35,40,47 
+
+The finding of a 15% rate of PLMD in children with ADHD concurs 
+with the results from several other studies.15,17,32,34,40 Similar to SDB, 
+PLMD may result in sleep fragmentation and subsequent daytime somnolence. 
+The association between PLMD and ADHD is further supported 
+by the improvement of behavior when PLMD is treated.34,40,48,49 
+Chervin and Archbold17 even found a dose-dependent association 
+between hyperactivity (assessed by the Conners questionnaire) and the 
+PLM index. Although PLMD may result from iron deficiency, it is classically 
+alleviated by dopaminergic agents.34,48,49 Catecholamine dysregulation 
+(dopaminergic dysfunction, in particular, and norepinephrine, 
+indirectly) has been suggested to play a significant role in the pathophysiology 
+of ADHD,8 and it is possible that PLMD and ADHD may 
+share a similar, yet unidentified, neurochemical abnormality. PLMD is a 
+relatively uncommon disorder among children, and our finding—as well 
+as others’—of a high rate of this disorder in children with ADHD suggests, 
+again, the possibility of secondary ADHD. 
+
+Our study has several limitations. First, the ADHD group as a whole 
+had a slightly but significantly higher body mass index than did the control 
+group. Although still within normal limits, heavier individuals are 
+more likely to suffer from SDB, although in children, weight is less 
+important than in adults. Second, we did not evaluate our participants for 
+ADHD but recruited them only after the diagnosis was performed in specific 
+clinics. Because these were neurologic and psychiatric clinics, 
+these children may represent the more-severe spectrum of these children. 
+Third, half of the control subjects were previously studied, which may 
+introduce a selection bias. However, these were taken as a whole without 
+any further selection, thus we believe they do represent the normal 
+range for this age. Finally, both sleep architecture and daytime sleepiness 
+may change with pubertal stage and, theoretically, some of the differences 
+between the groups may result from a different Tanner stage 
+(which was not assessed in the study). However, the similar age and sex 
+distribution in the 2 groups makes this explanation unlikely. 
+
+In conclusion, despite these limitations, we believe that the results of 
+this study suggest that primary sleep disturbances in children with 
+ADHD could be related to some extent to the neurologic phenotype and 
+should be looked for when evaluating children with ADHD. The substantial 
+objective daytime somnolence of these children supports the 
+hypoarousal theory in this disorder. This could explain the beneficial 
+effects of stimulant medications. 
+
+REFERENCES 
+
+1. 
+August GJ, Realmuto GM, MacDonald AW 3rd, Nugent SM, Crosby R. Prevalence of 
+ADHD and comorbid disorders among elementary school children screened for disruptive 
+behavior. J Abnorm Child Psychol 1996;24:571-95. 
+2. 
+Rohde LA, Biederman J, Busnello EA, et al. ADHD in a school sample of Brazilian adolescents: 
+a study of prevalence, comorbid conditions, and impairments. J Am Acad Child 
+Adolesc Psychiatry 1999;38:716-22. 
+3. 
+Barkley RA. Attention Deficit Hyperactivity Disorder: a Handbook for Diagnosis and 
+Treatment. New York: Guilford Press; 1990. 
+4. 
+Gingerich KJ, Turnock P, Litfin JK, Rosen LA. Diversity and attention deficit hyperactivity 
+disorder. J Clin Psychol 1998;54:415-26. 
+5. 
+American Psychiatric Association. Diagnostic and Statistical Manual of Mental 
+Disorders, 4th ed. Washington: American Psychiatric Association; 1994. 
+6. 
+Barkley RA. Behavioral inhibition, sustained attention, and executive functions: constructing 
+a unifying theory of ADHD. Psychological Bull 1997;121:65-94. 
+7. 
+Zametkin AJ, Ernst M. Problems in the management of attention-deficit-hyperactivity 
+disorder. N Engl J Med 1999;340:40-6. 
+8. 
+Wilens TE, Biederman J, Spencer TJ. Attention deficit/ hyperactivity disorder across the 
+SLEEP, Vol. 27, No. 2, 2004 
+265 Sleep Disorders and Daytime Sleepiness in Children with ADHD—Golan et al 
+
+
+lifespan. Annu Rev Me 2002;53:113-31. 
+
+9. 
+Greenhill L, Puig-Antich J, Goetz R, Hanlon C, Davies M. Sleep architecture and REM 
+sleep measures in prepubertal children with attention deficit disorder with hyperactivity. 
+Sleep 1983;6:91-101. 
+10. 
+Corkum P, Tannock R, Moldofsky H. Sleep disturbances in children with attentiondeficit/
+hyperactivity disorder. J Am Acad Child Adolesc Psychiatry 1998;37:637-46. 
+11. 
+Marcotte AC, Thacher PV, Butters M, Bortz J, Acebo C, Carskadon MA. Parental report 
+of sleep problems in children with attentional and learning disorders. J Dev Behav 
+Pediatr 1998;19:178-86. 
+12. 
+Kaplan BJ, McNicol J, Conte RA, Moghadam HK. Sleep disturbance in preschool-aged 
+hyperactive and nonhyperactive children. Pediatrics 1987;80:839-44. 
+13. 
+Day HD, Abmayer SB. Parent reports of sleep disturbances in stimulant-medicated children 
+with attention-deficit hyperactivity disorder. J Clin Psychol 1998;54:701-16. 
+14. 
+Ring A, Stein D, Barak Y, et al. Sleep disturbances in children with attentiondeficit/
+hyperactivity disorder: a comparative study with healthy siblings. J Learn Disabil 
+1998;31:572-8. 
+15. 
+Picchietti DL, Walters AS. Moderate to severe periodic limb movement disorder in 
+childhood and adolescence. Sleep 1998;22:297-300. 
+16. 
+Malek-Ahmadi P. Bupropion, periodic limb movement disorder, and ADHD. J Am Acad 
+Child Adolesc Psychiatry 1999;38:637-8. 
+17. 
+Chervin RD, Archbold KH. Hyperactivity and polysomnographic findings in children 
+evaluated for sleep-disordered breathing. Sleep 2001;24:313-20. 
+18. 
+Chervin RD, Archbold KH, Dillon JE, et al. Inattention, hyperactivity, and symptoms of 
+sleep-disordered breathing. Pediatrics 2002;109:449-57. 
+19. 
+Chervin RD, Dillon JE, Bassetti C, Ganoczy DA, Pituch KJ. Symptoms of sleep disorders, 
+inattention, and hyperactivity in children. Sleep 1997;20:1185-92. 
+20. 
+Gruber R, Sadeh A, Raviv A. Instability of sleep patterns in children with attentiondeficit/
+hyperactivity disorder. J Am Acad Child Adolesc Psychiatry 2000;39:495-501. 
+21. 
+Corkum P, Moldofsky H, Hogg-Johnson S, Humphries T, Tannock R. Sleep problems in 
+children with attention-deficit/hyperactivity disorder: impact of subtype, comorbidity, 
+and stimulant medication. J Am Acad Child Adolesc Psychiatry 1999;38:1285-93. 
+22. 
+Bradley C, Bowen M. Amphetamine (Benzedrine) therapy of children's behavior disorders. 
+Am J Orhopsychiatry 1941;11:92-103. 
+23. 
+Greenhill LL, Halperin JM, Abikoff H. Stimulant medications. J Am Acad Child Adolesc 
+Psychiatry 1999;38:503-13. 
+24. 
+Dahl RE, Holttum J, Trubnick L. A clinical picture of child and adolescent narcolepsy. J 
+Am Acad Child Adolesc Psychiatry 1994;33:834-41. 
+25. 
+Fallone G, Acebo C, Arnedt JT, Seifer R, Carskadon MA. Effects of acute sleep restriction 
+on behavior, sustained attention, and response inhibition in children. Percept Mot 
+Skills 2001;93:213-29. 
+26. 
+Randazzo AC, Muehlbach MJ, Schweitzer PK, Walsh JK. Cognitive function following 
+acute sleep restriction in children ages 10-14. Sleep 1998;21:861-8. 
+27. 
+Gozal D, Wang M, Pope DW Jr. Objective sleepiness measures in pediatric obstructive 
+sleep apnea. Pediatrics 2001;108:693-7. 
+28. 
+Gozal D. Sleep-disordered breathing and school performance in children. Pediatrics 
+1998;102:616-20. 
+29. 
+Lecendreux M, K'onofal E, Bouvard M, Falissard B, Mouren-Siméoni M-C. Sleep and 
+alertness in children with ADHD. J Child Psychol Psychiatry 2000;41:803-12. 
+30. 
+American Thoracic Society Task Force. Standards and indications for cardiopulmonary 
+sleep studies in children. Am J Respir Crit Care Med 1996;153:866-78. 
+31. 
+Weinberg WA, Harper CR. Vigilance and its disorders. Neurol Clin 1993;11:59-78. 
+32. 
+Picchietti DL, Underwood DJ, Farris WA, et al. Further studies on periodic limb movement 
+disorder and restless legs syndrome in children with attention-deficit hyperactivity 
+disorder. Mov Disord 1999;14:1000-7. 
+33. 
+Chervin RD, Archbold KH, Dillon JE, et al. Associations between symptoms of inattention, 
+hyperactivity, restless legs, and periodic leg movements. Sleep 2002;25:213-8. 
+34. 
+Walters AS, Mandelbaum DE, Lewin DS, Kugler S, England SJ, Miller M. 
+Dopaminergic therapy in children with restless legs/periodic limb movements in sleep 
+and ADHD. Dopaminergic Therapy Study Group. Pediatr Neurol. 2000;22:182-6. 
+35. 
+O'Brien LM, Holbrook CR, Mervis CB, et al. Sleep and neurobehavioral characteristics 
+of 5- to 7-year-old children with parentally reported symptoms of attentiondeficit/
+hyperactivity disorder. Pediatrics 2003;111:554-63. 
+36. 
+Carskadon MA, Dement WC, Mitler MM, Roth T, Westbrook PR, Keenan S. Guidelines 
+for the multiple sleep latency test (MSLT): a standard measure of sleepiness. Sleep 
+1986;9:519-24. 
+37. 
+Palm L, Persson E, Elmqvist D, Blennow G. Sleep and wakefulness in normal preadolescent 
+children. Sleep 1989;12:299-308. 
+38. 
+Snow A, Gozal E, Malhotra A, et al. Severe hypersomnolence after hypothalamic/pituitary 
+surgery in adolescents: characteristics and potential mechanism. Pediatrics 
+2002;110:1-6. 
+39. 
+Nahas AD, Krynicki V. Effects of Methylphenidate on sleep stages and ultradian rhythm 
+in hyperactive children. J Nerv Ment Dis 1977;164:66-9. 
+40. 
+Konofal E, Lecendreux M, Bouvard MP, Mouren-Simeoni MC. High levels of nocturnal 
+activity in children with attention-deficit hyperactivity disorder: a video analysis. 
+Psychiatry Clin Neurosci 2001;55:97-103. 
+41. 
+Epstein R, Chillag N, Lavie P. Starting times of school: effects on daytime functioning 
+of fifth grade children in Israel. Sleep 1998;21:250-6. 
+42. 
+Ali NJ, Pitson D, Stradling JR. Sleep disordered breathing: effects of adenotonsillectomy 
+on behavior and psychological functioning. Eur J Pediatr 1996;155:56-62. 
+43. 
+American Academy of Pediatrics. Clinical practice guideline: diagnosis and management 
+of childhood obstructive sleep apnea syndrome. Pediatrics 2002;109:704-12. 
+44. 
+Rosen CL. Clinical features of obstructive sleep apnea hypoventilation syndrome in otherwise 
+healthy children. Pediatr Pulmonol 1999;27:403-9. 
+45. 
+Guilleminault C, Pelayo R. Sleep-disordered breathing in children. Ann Med 
+1998;30:350-6. 
+46. 
+Gottlieb DJ, Vezina RM, Chase C, et al. Symptoms of sleep-disordered breathing in 5year-
+old children are associated with sleepiness and problem behaviors. Pediatrics 
+2003;112:870-7. 
+47. 
+Ali NJ, Pitson D, Stradling JR. Snoring, sleep disturbance and behavior in 4-5 year olds. 
+Arch Dis Child 1993;68:360-6. 
+48. 
+Kooij JJ, Middelkoop HA, van Gils K, Buitelaar JK. The effect of stimulants on nocturnal 
+motor activity and sleep quality in adults with ADHD: an open-label case-control 
+study. J Clin Psychiatry 2001;62:952-6. 
+49. 
+Chesson AL, Jr., Wise M, Davila D, et al. Practice parameters for the treatment of restless 
+legs syndrome and periodic limb movement disorder. An American Academy of 
+Sleep Medicine Report. Standards of Practice Committee of the American Academy of 
+Sleep Medicine. Sleep 1999;22:961-8. 
+SLEEP, Vol. 27, No. 2, 2004 
+266 Sleep Disorders and Daytime Sleepiness in Children with ADHD—Golan et al 
+
+

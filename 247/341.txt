@@ -1,0 +1,163 @@
+Psychiatry and Clinical Neurosciences (2002), 56, 329–330 
+
+Sleep Breathing Disorder 
+
+Facial pattern categories of sleep breathing-disordered 
+children using Ricketts analysis 
+
+MAKOTO KIKUCHI, dds, phd,1 NAOKI HIGURASHI, dds,1 SOICHIRO MIYAZAKI, phd,2 
+YOSHIAKI ITASAKA, phd,2 SINTARO CHIBA, phd3 AND HIROSHI NEZU, dds, phd4 
+
+1Cosmos Orthodontic Office, Narita, 2Department of Otorhinolaryngology,Akita University School of 
+Medicine,Akita, 3Department of Otorhinolaryngology,Jikei University School of Medicine,Tokyo and 
+4Nezu Orthodontic Office, Kawasaki, Japan 
+
+Abstract 
+The facial patterns of 29 children under the age of 15 years with tonsil and/or adenoid and sleep 
+disorder problems was analysed. The lateral-cephalograms of these patients was digitized in a 
+zero-based computer program using Ricketts analysis to examine facial patterns. Results of the 
+analysis were compared with the mean of the control group, n = 41 (9-year-old Japanese children). 
+There were significant differences (P < 0.01–0.001) between the patient group and the 
+control group when comparing the facial axis, lower facial height, mandibular arc, total facial 
+height, and McNamara–Pogonion. The facial pattern of children with sleep breathing disorders 
+was discovered to be the dolico facial pattern. 
+
+Key words cephalogram, children, dolico facial pattern, Ricketts analysis, sleep breathing disorder. 
+
+INTRODUCTION 
+
+As adult patients with obstructive sleep apnea have a 
+dolico facial pattern,1 we analysed the facial patterns 
+of children with sleep breathing disorders to determine 
+whether or not there was any correlation. 
+
+SUBJECTS AND METHOD 
+
+The study analysed 29 children under the age of 15 
+years. Each child had habitual loud snoring and/or 
+sleep apnea that had been noticed by the parents of 
+the subjects. After taking patients’ cephalograms, we 
+found enlarged tonsils and adenoids. We then scanned 
+and digitized these for computer analysis (Fig. 1). 
+The data were summarized and compared against the 
+control group, n = 41.2 
+
+RESULTS 
+
+Five (17.2%) children had tonsil problems, seven 
+(24.1%) had adenoid problems, and 17 (58.6%) had 
+both tonsil and adenoid problems. There were signifi-
+
+Correspondence address: Makoto Kikuchi, Cosmos Orthodontic 
+Office, 1-10-8, Igodai, Narita, Chiba 286-0035, Japan. Email: 
+
+cant differences (P < 0.005) between the patient group 
+and control group when comparing the facial axis 
+(FX), lower facial height (LFH), mandibular arc, total 
+facial height (TFH), and McNamara–Pogonion. Data 
+analysis found that children with sleep breathing disorders 
+had a dolico facial pattern (Table 1). 
+
+DISCUSSION 
+
+According to Ricketts analysis, there are three facial 
+pattern classifications among orthodontic patients: (i) 
+brachyo facial pattern (short face); (ii) mesio facial 
+pattern (medium face: Japanese standard of facial axis 
+is 86 ± 3); and (iii) dolico facial pattern (long face).3 
+The facial pattern of the present population series 
+was dolico facial pattern. 
+
+The facial pattern of adults and children with sleep 
+breathing disorders is the dolico facial pattern. However, 
+the data of the children demonstrated a lesser 
+degree of dolico facial pattern compared with the 
+adults. (The data of adult patients with obstructive 
+sleep apnea were as follows: FX 79.8, LFH 55.7, and 
+TFH 69.8) When the tonsil and/or adenoid obstructs 
+the airway, the negative pressure in the chest deforms 
+it into a ‘funnel chest’ condition. This negative pressure 
+in the chest causes the retraction of the tongue 
+as well as the mandible, thereby possibly developing a 
+
+cosmos@pluto.dti.ne.jp 
+
+
+Figure 1. Cephalometric measurements. The cephalometric 
+points and planes were: BA (basion), anterior margin of 
+the foramen magnum; NA (nasion), junction of nasal and 
+frontal bones; PT (pterygoid point), antero-inferior border 
+of foramen rotundum; CC (center of cranium), intersection 
+of cranial base plane and facial axis; O (orbitale), lower 
+border of orbit; PR (porion), upper border of porus acusticus 
+externus; POG (Pogonion), anterior border of symphysis 
+of mandible; PM (protuberance menti), upper border of 
+protuberance menti; GN (gnathion), intersection of facial 
+plane and mandibular plane; XI, center of mandibular 
+ramus; DC (condyle center), center of crossing part of 
+condyle to cranial base plane; ANS, anterior nasal spine; A 
+(point A), junction of alveolar bone of maxilla with anterior 
+nasal spine; cranial base plane, BA–NA; Frankfort horizontal 
+(FH), PR–O; facial axis, PT–GN; facial plane, POG–NA; 
+mandibular plane, lower border of mandible; condylar axis, 
+DC–XI; corpus axis, XI–PM; McNamara line, perpendicular 
+to FH through NA. 
+
+dolico facial pattern in children with sleep breathing 
+disorders. 
+
+The facial pattern of children with sleep breathing 
+disorders was determined to be the dolico facial 
+pattern (long face). 
+
+REFERENCES 
+
+1. Kikuchi M, Higurashi N, Miyazaki S, Itasaka Y. 
+Facial 
+patterns of obstructive sleep apnea patients using Rick-
+M. Kikuchi et al. 
+Table 1. Cephalometric variables 
+
+Control Patient 
+
+n 41 29 
+Age 9.0 6.6 ± 3.1 
+Ricketts analysis 
+FX 86.0 ± 3.0 81.8 ± 3.1*** 
+FD 86.0 ± 3.0 84.8 ± 3.2 
+MP 30.0 ± 4.0 31.9 ± 5.6 
+LFH 49.0 ± 4.0 54.6 ± 5.3*** 
+MA 25.0 ± 4.0 21.2 ± 4.8*** 
+TFH 64.0 ± 3.0 68.4 ± 4.5*** 
+McN–A 1.0 ± 2.0 0.7 ± 3.9 
+McN–Pog – 6.0 ± 2.0 – 9.1 ± 5.4** 
+L. pharynx 12.1 ± 2.6 13.1 ± 4.4 
+
+**P < 0.01, ***P < 0.001. 
+
+The cephalometric measurements were: (i) facial axis 
+angle (FX), BA-CC-GN; (ii) facial depth angle (FD), crossing 
+of facial plane to FH; (iii) mandibular plane angle (MP), 
+crossing of mandibular plane to FH; (iv) lower facial height 
+angle (LFH), ANS-XI-PM; (v) mandibular arc angle (MA), 
+crossing of condylar axis to corpus axis; (vi) total facial 
+height angle (TFH), crossing of corpus axis to cranial base 
+plane; (vii) McNamara–Point A (McN-A), the shortest distance 
+from McNamara line to point A; (xiii) McNamara– 
+Pogonion (McN-Pog), the shortest distance from 
+McNamara line to Pogonion; (ix) lower pharynx (L. 
+pharynx), the shortest distance from the pharyngeal back 
+wall to the intersection of the posterior border of the 
+tongue and lower border of the mandible. 
+
+etts’ method. Psychiatry Clin. Neurosci. 2000; 54: 336– 
+
+337. 
+2. Nezu H, Nagata K, Yoshida Y, Kosaka H, Kikuchi M. 
+Cephalometric comparison of clinical norms between the 
+Japanese and Caucasians. J. Jpn. Orthod. Soc. 1982; 4: 
+450–465. 
+3. Ricketts R, Bench R, Gugino C, Hilgers J, Schulhof R. 
+Bioprogressive Therapy, Book 1. Rocky Mountain Orthodontics, 
+Denver, CO, 1979; 55–59. 
+

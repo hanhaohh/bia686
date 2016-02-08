@@ -1,0 +1,589 @@
+Proceedings of the 28th IEEE FrD07.3 
+EMBS Annual International Conference 
+New York City, USA, Aug 30-Sept 3, 2006 
+
+Heart Rate Variability in Pediatric Obstructive Sleep Apnea 
+
+Zhi-De Deng, Chi-Sang Poon, Natalia M. Arzeno, Eliot S. Katz 
+
+Abstract—Obstructive sleep apnea syndrome (OSAS) is 
+observed in approximately 2% of children. Heart rate variability 
+(HRV) is a potentially simple, non-invasive diagnostic 
+screening tool for OSAS. In this study, we investigated the 
+diagnostic potential of HRV using power spectral analysis, 
+numerical titration, sample entropy, and detrended fluctuation 
+analysis. Effects of sleep stages (REM and NREM sleep) are 
+evaluated. The results show that the heart rate chaos intensity, 
+as measured by the noise limit in numerical titration, is 
+significantly higher during REM sleep than NREM sleep in all 
+patient groups. By using the receiver-operating characteristic 
+analysis, the detection of OSAS yielded a specificity of 72.2% 
+and sensitivity of 81.3% using the numerical-titration 
+technique. The findings suggest that sleep state and disordered 
+breathing are important determinants of cardiac autonomic 
+control. Nonlinear techniques such as numerical titration, when 
+used in conjunction with spectral analysis of HRV could be an 
+effective screening tool for pediatric OSAS. 
+
+Index terms—Heart rate variability, nonlinear dynamics, 
+obstructive sleep apnea, pediatric 
+
+I. INTRODUCTION 
+O
+O
+BSTRUCTIVE sleep apnea syndrome (OSAS) is a 
+common nocturnal breathing abnormality in which the 
+airflow is impeded by a narrow upper airway despite 
+continued respiratory efforts. Studies suggest that OSAS is 
+an important risk factor for various complications such as 
+cardiovascular diseases, arterial hypertension, myocardial 
+infarction, hyperactivity and neurocognitive deficits [1]. 
+OSAS reportedly affects 2 – 4% of children [2]-[3]. During 
+obstructive apnea, increased respiratory effort leads to an 
+increase in the negative intrathoracic pressure and an 
+increase in the afferents inputs from the lungs and the chest 
+wall to the autonomic nervous system (ANS), thus affecting 
+
+Manuscript received April 3, 2006. This work was supported by 
+National Institutes of Health Grant HL075014 and HL079503. 
+
+Z.-D. Deng (zzzdeng@mit.edu) is with the Department of Electrical 
+Engineering and Computer Science and the Department of Physics, 
+Massachusetts Institute of Technology, Cambridge, MA 02139 USA. 
+
+N. M. Arzeno (natalia2@mit.edu) is with the Department of Electrical 
+Engineering and Computer Science, Massachusetts Institute of Technology, 
+Cambridge, MA 02139 USA. NMA is recipient of an NIH undergraduate 
+research training award HL075014-01S1 and has contributed equally to this 
+work. 
+C.-S. Poon is with the Harvard-MIT Division of Health Sciences and 
+Technology, Massachusetts Institute of Technology, Cambridge, MA 02139 
+USA. (phone: 617-258-5405; fax: 617-258-7906; e-mail: cpoon@mit.edu). 
+
+E. S. Katz is with the Department of Pediatric Pulmonology, 
+Massachusetts General Hospital, Boston, MA 02114, USA. 
+cardiovascular autonomic control [4]. In addition, the 
+termination of airway obstruction is frequently accompanied 
+by sympathetic activation. 
+
+The gold standard for the clinical diagnosis of OSAS in 
+children is polysomonography (PSG), consisting of simultaneous 
+recordings of electrophysiological and respiratory 
+signals, and overnight monitoring of the patient in a 
+specially-equipped sleep laboratory. However, the scarcity of 
+pediatric sleep clinics and the expense associated with 
+standard PSG underestimates the number of pediatric OSAS 
+cases. In addition, until recently, adult criteria were used to 
+detect pediatric OSAS, producing inaccurate results [5]. 
+Thus, a simple, less costly, noninvasive, reliable and ambulatory 
+screening method for pediatric OSAS is desirable. 
+
+Analysis of heart rate variability (HRV), as indicated by 
+the beat-to-beat fluctuation in the electrocardiogram (ECG) 
+signal, has become an increasingly popular noninvasive 
+approach for assessing cardiovascular autonomic control. 
+The R-R interval (RRI)—the time between successive heart 
+beats—is based mainly on two components: the intrinsic 
+firing rate of the sinoatrial (SA) node of the heart and the 
+regulation of the SA node firing rate by the collective inputs 
+of the ANS. HRV can provide information on the relative 
+inputs of the two ANS mutually antagonistic components— 
+the sympathetic nervous system (SNS), which acts to 
+increase heart rate, and the parasympathetic nervous system 
+(PSNS), which acts to slow the heart, and dilate blood 
+vessels [6]-[9]. 
+
+Since HRV is an output of a deterministic system, i.e. the 
+ANS, changes in HRV may reflect abnormalities in the 
+system. This “deterministic” hypothesis of HRV has been the 
+subject of intense investigation in recent years. Cyclical 
+variation in heart rate was described as being characteristic 
+of OSAS [10]. The unique heart rate rhythm of bradytachycardia 
+in OSAS [11] may provide the basis for an 
+effective screening tool. 
+
+Standard spectral analysis of HRV can provide analytical 
+features of its cyclic variation but cannot show the dynamical 
+properties of the fluctuations. Furthermore, it has been 
+shown that ANS control underlies the nonlinearity and 
+possible chaos of normal HRV [12]. In the present study we 
+aimed to systematically compare various time-series metrics 
+for diagnosis and quantification of pediatric OSAS from 
+electrocardiogram recordings alone. We also used the 
+Wigner-Ville transform to perform a time-frequency domain 
+analysis of the instant changes of autonomic control 
+occurring during apnea episodes. In addition, we sought to 
+examine the sleep-apnea severity in different sleep states. 
+
+1-4244-0033-3/06/$20.00 ©2006 IEEE. 3565 
+
+
+
+II. METHODOLOGY 
+A. Data Acquisition 
+The study consisted of 52 subjects: 16 were classified as 
+severe/moderate OSAS, 18 are mild/borderline, and 18 are 
+normal. All subjects underwent a standard nocturnal 
+polysomnographic study at Johns Hopkins Hospital. ECG 
+recordings, apnea events and sleep stages were acquired 
+using Respironics Alice 3 Healthdyn Systems. All subjects 
+were free of lung or neuromuscular disease, cardiac pathology 
+or arrhythmia. 
+
+Obstructive apnea is defined as cessation of oronasal 
+airflow in presence of respiratory efforts lasting longer than 
+two respiratory cycle times. Hypopnea is defined as a 
+discernible reduction in amplitude of oronasal airflow 
+accompanied by a 4% oxygen desaturation and/or arousal. 
+The apnea/hypopnea index (AHI) is defined as the number of 
+apnea and hypopnea events per hour of sleep and a threshold 
+of AHI = 10 h-1 identifies children with OSA. The mean 
+apnea-hypopnea index was 27.9 ± 2.8 h-1 for severe OSAS 
+subjects, 12.02 ± 2.5 h-1 for moderate. 
+
+B. Signal Conditioning/Feature Extraction 
+Using the Alice 3 software, a continuous three-hour ECG 
+recording was extracted for each subject. The three-hour 
+recording also included at least one continuous 10-minute 
+segment of each sleep stage: rapid eye movement (REM), 
+stage-2 sleep and stage-4 sleep. The sleep stages were scored 
+every 30 seconds. In addition, the three-hour recording 
+captured apnea/hypopnea events consistent with the AHI of 
+the OSAS patients. 
+
+The ECG was sampled at 100 Hz with 8-bit precision. The 
+R-waves fiducial points were detected using a Hilbert 
+transform-based peak extraction algorithm [13]. RRI was 
+visually screened for artifacts, manual editing was performed 
+to a very high standard. No attempt was made to distinguish 
+normal sinus beats from ectopic beats. The beat-to-beat 
+(R-R) interval (measured in milliseconds) time series was 
+obtained by plotting the sequential intervals between beat i 
+and beat i+1. The RRI time series was converted into equally 
+spaced samples in time by cubic spline interpolation with a 
+sampling rate of 4 Hz. 
+
+C. Analysis 
+1) Numerical Titration 
+
+Numerical titration [14] is currently the only algorithm 
+available that provides a sufficient test for chaotic dynamics 
+in noise-contaminated experimental time series. Rather than 
+filtering the noise before chaos analysis, which could risk 
+“bleaching” the chaotic dynamics [15], the numerical 
+titration technique is analogous to a chemical titration: it 
+measures chaos (acidity) by a controlled neutralization with 
+added noise (base), thus allowing a “litmus test” for chaos. 
+
+Under the numerical titration scheme, the output noise 
+limit (NL) > 0 indicates the presence of chaos, and the value 
+of NL also gives an estimate of its relative intensity. 
+
+Conversely, if NL = 0, then it may be inferred that the time 
+series is either non-chaotic or the chaotic component has 
+been neutralized by the noise floor in the data. Therefore, the 
+condition NL > 0 provides a simple sufficient test for chaos. 
+
+In this study, numerical titration was applied on the RRI 
+time series with a 5-minute-long window that slides at 
+30-second intervals. 
+
+2) Approximate Entropy and Sample Entropy 
+
+Approximate entropy (ApEn) is a statistical index that 
+quantifies the unpredictability of fluctuations in a time series 
+[16]-[18]. ApEn provides quantitative information about the 
+complexity of experimental data that are often short and 
+noise contaminated, and in many cases, have inherent 
+dynamics that exhibit both deterministic and stochastic 
+behaviors. ApEn reflects the logarithmic likelihood that two 
+sequences that are similar (within a tolerance r) for m points 
+remain similar at the next point. A time series that exhibits 
+frequent and similar epochs has a relatively small ApEn 
+value, reflecting a high degree of regularity. 
+
+ApEn is inherently biased because self matches are 
+incorrectly counted to avoid the occurrence of logarithm of 
+zero in the calculations; its expected value is not equal to the 
+parameter it estimates. In addition, it has been suggested that 
+this method may heavily depend on the data length and lacks 
+relative consistency; that is, if ApEn of one data set is higher 
+than that of another for one set of parameters m and r, it 
+should, but does not remain higher for different parameters 
+of m and r [19]. To correct for this inconsistency and to 
+reduce bias, a variant of ApEn, known as sample entropy 
+(SampEn), was introduced by Richman [19]. 
+
+In this study, we computed ApEn and SampEn for each of 
+the 5-minute segments of the heart-rate time series. We 
+chose m = 2 and r = 20% of the standard deviation for the 
+5-minute segment. A mean value for entropy was obtained to 
+characterize each segment. 
+
+3) Detrended Fluctuation Analysis 
+
+Detrended fluctuation analysis (DFA) [20]-[21] is a 
+scaling analysis that quantifies long-range power-law 
+correlation exponents in a signal. This technique is a 
+modification of root-mean-square analysis of random walks 
+applied to non-stationary data. Unlike the other statistics 
+used in this study, which are based on the segmented RRI 
+time series, the DFA index is based on the full length RRI, 
+since DFA requires long data sets. The short-range (as, 
+4 = 
+n = 
+16) and long-range (al, n > 16) correlations were 
+computed for each patient. 
+
+4) Wigner-Ville Distribution 
+
+Spectral analysis has been widely applied to separate the 
+oscillatory components of the HRV relating to the 
+sympathetic and parasympathetic response of the ANS [7], 
+[22]. However, the spectrum does not tell us the time 
+dependence of the frequency components. The time 
+dependence of the frequency content is obscured, since the 
+Fourier transform decomposes the signal into complex 
+exponentials that are unlocalized in time. Furthermore, 
+
+3566 
+
+
+
+spectral analysis of HRV requires some level of stationarity, 
+which is a premise that is unlikely to hold. 
+
+The Wigner-Ville transform (WVT) [23] provides a 
+spectral profile for each point of the time series, and 
+therefore has the advantage of tracking the instantaneous 
+changes in frequency and amplitude of each spectral 
+component. From each spectrum, we obtained the power by 
+integration of the profile of the spectrum in two relevant 
+frequency bands: low frequency (LF) from 0.05 Hz to 
+
+0.15 Hz; high frequency (HF), from 0.15 Hz to 0.4 Hz [24]. 
+To allow the spectral components to be compared in relative 
+terms, the power in these two frequency bands were 
+normalized by dividing by the total power. The instant values 
+of LF/HF were calculated. 
+III. RESULTS 
+The various measures for a representative OSAS patient 
+are plotted in Fig. 1. Since the results for ApEn and SampEn 
+were similar, only the latter is shown. 
+
+1 
+0 
+
+
+characteristic (ROC) curves for distinguishing OSAS and 
+normal subjects were calculated. The area under the ROC 
+curve (AUC) was used to assess test performances. 
+Sensitivity and specificity at the optimal threshold were 
+calculated and are shown in Table III. 
+
+TABLE II 
+CROSS-GROUP COMPARISONS 
+
+
+GROUPS NL SampEn LF/HF al 
+REM S -S -
+Severe vs. Normal NREM S -S Overall 
+S -S S 
+
+REM --S -
+Severe vs. Mild NREM -S S -
+Overall --S S 
+
+REM S ---
+
+Mild vs. Normal 
+NREM S ---
+Overall S ---
+
+S = statistically significant between sleep apnea severity groups 
+
+TABLE III 
+CLASSIFICATION PERFORMANCE 
+
+
+-2 
+
+
+Measures AUC Sensitivity Specificity 
+
+-4 
+0 20 40 60 80 100 120 140 160 180 
+
+NL 0.802 81.3% 72.2% 
+LF/HF 0.726 68.7% 77.8% 
+SampEn 0.649 75% 61.1% 
+
+0 20 40 60 80 100 120 140 160 180 
+
+(a) 
+o 
+h 
+c 
+m 
+(b) 
+0.4 
+0.6 
+0.8 
+1 
+(c) 
+IV. DISCUSSION 
+0 20 40 60 80 100 120 140 160 180 
+
+An important contribution of this work is our finding that 
+
+the numerical titration is more sensitive at identifying OSAS 
+
+than other time-series metrics and even power-spectral 
+
+0 20 40 60 80 100 120 140 160 180 
+
+parameters, as indicated by the AUCs (see Table III). This 
+
+0 
+50 
+100 
+(d) 
+0 
+2 
+4 
+6 
+8 
+(e) 
+suggests that insofar as nonlinearity is an important 
+
+0 20 40 60 80 100 120 140 160 180 
+
+mechanism underlying HRV, measurements which specifi
+
+
+0.4 
+0.6 
+0.8 
+1 
+(f) 
+cally characterize the nonlinearity of HRV may provide more 
+direct and sensitive methods for assessing the physiological 
+
+0 20 40 60 80 100 120 140 160 180 
+time [min] 
+
+state. Noise limit (NL) has significant diagnostic value that 
+
+Fig. 1. Plots of various statistics, (a) Sleep stages (1 = wake, 0 = REM, 
+
+may complement traditional spectral analysis of HRV. 
+
+-2 = stage 2, -4 = stage 4), (b) apnea/hypopnea events (1 = obstructive, 
+
+On average, HRV exhibits higher chaotic intensity in 
+
+2 = hypopnea, 3 = central, 4 = mixed), (c) R-R interval, (d) noise limit %, 
+
+REM compared to NREM sleep in children regardless of 
+
+(e) LF/HF ratio, (f) sample entropy 
+We compared the different measures in REM and NREM 
+within each patient group. Statistical comparison between 
+means was done using the Student’s t-test. P-values less than 
+
+0.05 were considered statistically significant. The results of 
+this comparison are shown in Table I. 
+TABLE I 
+IN-GROUP COMPARISONS 
+
+
+Group NL SampEn LF/HF 
+Severe S --
+Mild S -S 
+Normal S S S 
+
+S = statistically significant between REM and NREM sleep 
+
+Next, we compared the various measures across patient 
+groups, showing the discriminatory power of the different 
+statistics. The result of this comparison is shown in Table II. 
+
+Finally, using the time-series metrics and the LF/HF 
+power ratio as test statistics, the receiver operating 
+
+OSAS severity (see Table I), since apnea events occur 
+predominantly during REM sleep. Noise limit was significantly 
+increased during apnea episodes. This implies that the 
+HRV has a low-dimensional chaotic characteristic, and the 
+degree of chaos was pronouncedly enhanced with apnea 
+episodes compared to stable breathing. This result is 
+consistent with our previous findings [25]. In addition, 
+Table I shows that the entropy statistics and the LF/HF ratio 
+are less successful in discriminating between REM and 
+NREM sleep in OSAS patient groups. 
+
+It is noteworthy that the HRV of the mildly apneic 
+subjects mimics that of the severe OSAS patients in terms of 
+the nonlinear dynamics; that is, the average chaos intensity, 
+as measured by NL, for the mild OSAS group is comparable 
+to that of the severe group. This observation makes NL 
+suitable for the detection of OSAS, since we can use it to 
+identify normal subjects from even the mild OSAS patients. 
+However, the numerical-titration technique becomes less 
+effective in classifying the severity of apnea. 
+
+3567 
+
+
+
+With the Wigner-Ville transform, the LF/HF ratio 
+represents the instantaneous relationship between sympathetic 
+and parasympathetic modulation. When comparing our 
+results with previous studies on spectral analysis of HRV 
+during apnea, we can confirm several aspects with our 
+results. In particular, there is a significant rise in the LF/HF 
+ratio accompanying sleep apnea, reflecting sympathetic 
+stimulation and reduction in parasympathetic activity elicited 
+by apnea. This finding is consistent with previous studies. 
+
+Approximate entropy and sample entropy measure the 
+unpredictability of fluctuations in HRV. Apneic patients 
+showed slightly higher ApEn and SampEn which were 
+interpreted as a decreased regularity of cardiac rhythm. The 
+physiological mechanism underlying enhanced variability is 
+not known, but seems likely to represent dysfunction of the 
+ANS. In our pediatric data set, the noise is very high; 
+therefore the validity of ApEn and SampEn calculations may 
+be seriously compromised. Since the RRI time series is also 
+non-stationary, little can be inferred from moment statistics 
+and entropy calculations. 
+
+In this work, we have calculated the short- and long-range 
+correlations (as and al) using DFA. The short range 
+correlation is larger than the long-range correlation for all 
+subjects. Severe OSAS subjects have lower short time 
+scaling exponent (p < 0.05), and higher long range 
+correlations (p < 0.02) than normal subjects. For many 
+patients, the power law is observed to have more than two 
+variations with segment length, suggesting that there may be 
+more information in the power-law behavior that was 
+overlooked by simply estimating the linear slopes over two 
+predefined regions. 
+
+V. CONCLUSION 
+We have shown that HRV can be used as a reliable 
+indicator of sleep states and as a screening test for pediatric 
+sleep apnea. Certain methods of nonlinear dynamics might 
+elicit valuable information for physiological interpretation of 
+HRV. Since the HRV becomes more chaotic with apnea 
+events, cardiac chaos can have diagnostic/prognostic values 
+in OSAS screening. 
+
+Some statistics, such as approximate and sample entropy, 
+may be too insensitive to detect the nonlinear perturbations 
+of R-R interval in pediatric data, or too sensitive to noise, or 
+both. More encouraging results have been obtained using 
+numerical titration. The robustness of this method to noise 
+exhibits tremendous potentials. We conjecture that application 
+of nonlinear techniques in conjunction with spectral 
+analysis of HRV would provide greater diagnostic accuracy. 
+
+ACKNOWLEDGMENT 
+
+We thank Mr. Stephen Pittman for his help with data 
+acquisition. 
+
+REFERENCES 
+
+[1] 
+American Thoracic Society, “Standards and indications for 
+cardiopulmonary sleep studies in children.” Am. J. Respir. Crit. Care. 
+Med. 153: 866-878, 1996. 
+[2] 
+S. Redline, P. V. Tishler, M. Schluchter, J. Aylor, K. Clark, G. 
+Graham, “Risk factors for sleep-disordered breathing in children: 
+associations with obesity, race, and respiratory problems,” Am. J. 
+Respir. Crit. Care. Med., vol. 159, pp. 1527-1532, 1999. 
+[3] 
+N. J. Ali, D. J. Pitson, J. R. Stradling, “The prevalence of snoring, 
+sleep disturbance, and sleep related breathing disorders, and their 
+relation to day time sleepiness in 4-5 year old children.” Arch. Dis. 
+Child, vol. 68, pp 360-366, 1993. 
+[4] 
+B. J. Morgan, C. M. St Croix, J. B. Skatrud, “Influence of respiration 
+on autonomic control of heart rate and blood pressure. In: T. D. 
+Bradley, J. S. Floras, editors. Sleep apnea: implication in 
+cardiovascular and cerebrovascular disease. New York: Marcel 
+Dekker Inc.; 2000. pp. 261-283. 
+[5] 
+N. A. Goldstein, V. Pugazhendhi, S. M. Rao, et al. “Clinical 
+assessment of pediatric obstructive sleep apnea.” Pediatrics 114(1): 
+33-43, 2004. 
+[6] 
+F. Dexter, Y. Rudy, M. N. Levy, E. Bruce, “Mathematical model of 
+cellular basis for the respiratory sinus arrhythmia.” J. Theor. Biol. 
+150:157-176, 1991. 
+[7] 
+A. Malliani, M. Pagani, F. Lombardi, and S. Cerutti, “Cardiovascular 
+neural regulation explored in the frequency domain.” Circulation 
+84:482-492, 1991. 
+[8] 
+J. P. Saul, “Beat-to-beat variations of heart rate reflect modulation of 
+cardiac autonomic outflow.” News Physiol. Sci. 5:32-37, 1990. 
+[9] 
+D. E. McMillan, “Interpreting Heart Rate Variability Sleep/Wake 
+Patterns in Cardiac Patients.” J. Cardiovasc. Nurs. 17(1): 69-81, 
+2002. 
+[10] C. Guilleminault, A, 
+Tilkian, W. C. Dement, “The sleep apnoea 
+syndromes.” Ann. Rev. Med. 27:465-484, 1996. 
+[11] C. Keyl, P. Lemberger, M. Pfeifer, K. Hochmuth, P. Geisler, Heart 
+rate variability in patients with daytime sleepiness suspected of 
+having sleep apnoea syndrome: a receiver-operating characteristic 
+analysis. Clin. Sci. 92:335-43, 1997. 
+[12] A. L. Goldberger, D. R. Rigney, and B. J. West, “Chaos and fractals 
+in human physiology.” Sci. Am. 262:43-49, 1990. 
+[13] D. Benitez, P. A. Gaydecki, A. Zaidi, A. P. Fitzpatrick, “The use of 
+the Hilbert transform in ECG signal analysis.” Computers in Biology 
+and Medicine, 31:399-406, 2001. 
+[14] C.-S. Poon and M. Barahona, “Titration of chaos with added noise,” 
+Proc. Natl. Acad. Sci. USA, 2001; 98: pp. 7107–7112. 
+[15] J. Theiler, S. Eubank, “Don’t bleach chaotic data.” Chaos 3:771-782, 
+1993. 
+[16] S. 
+M. Pincus, “Approximate entropy as a measure of system 
+complexity.” Proc. Natl. Acad. Sci. USA. 88:2297-2301, 1991. 
+[17] S. 
+M. Pincus and A. R. Goldberger, “Physiological time-series 
+analysis: What does regularity quantify?” Am. J. Physiol. 266:H1643H1656, 
+1994. 
+[18] S. M. Pincus and R. R. Viscarello, “Approximate entropy: a regularity 
+measure for fetal heart rate analysis.” Obstetrics Gynecology 79:249255, 
+1992. 
+[19] J. S. Richman and J. R. Moorman, “Physiological time-series analysis 
+using approximate entropy and sample entropy.” Am. J. Physiol. 
+Heart Circ. Physiol. 278(6):H2039-H2049, 2000. 
+[20] C. 
+K. Peng, S. Halvin, H. E. Stanley, and A. L. Goldberger, 
+“Quantification of scaling exponents and crossover phenomena in 
+nonstationary heartbeat time series.” Chaos 5:82-87, 1992. 
+[21] C. K. Peng, S. V. Buldyrev, S. Havlin, M. Simons, H. E. Stanley, and 
+A. L. Goldberger, “Mosaic organization of DNA nucleotides.” Phys. 
+Rev. E 49:1685-1689, 1994. 
+[22] S. Akselrod, D. Gordon, J. B. Madwed, C. Snidman, D. C. Shannon, 
+and R. J. Cohen, “Hemodynamic regulation: investigation by spectral 
+analysis.” Am. J. Physiol. 249:H867-H875, 1985. 
+[23] W. 
+Martin and P. Flandin, “Wigner-Ville spectral analysis of non-
+stationary processes.” IEEE Trans. ASSP 33:1461-70, 1985. 
+[24] Task Force of the European Society of Cardiology, and the North 
+America Society of Pacing and Electrophysiology, “Heart rate 
+variability standards of measurement, physiological interpretation and 
+clinical use,” Circulation, 93:1043-1065, 1996. 
+[25] L. Zapanta, C.-S. Poon, D. P. White, C. L. Marcus, E. S. Katz, “Heart 
+rate chaos in obstructive sleep apnea in children.” IEEE Trans. Eng. 
+Med. Biol., 6:3889-92, 2004. 
+3568 
+
+
+

@@ -1,0 +1,697 @@
+PEDIATRICS 
+Snoring Predicts Hyperactivity Four Years Later 
+
+Ronald D. Chervin, MD, MS1; Deborah L. Ruzicka, RN, PhD1; Kristen Hedger Archbold, RN, PhD2; James E. Dillon, MD3 
+
+1Sleep Disorders Center, Department of Neurology, University of Michigan, Ann Arbor, MI; 2University of Washington School of Nursing, Seattle, WA; 
+3Division of Child and Adolescent Psychiatry, Department of Psychiatry, University of Michigan, Ann Arbor, MI 
+
+Study Objectives: Cross-sectional studies implicate snoring and sleep-
+disordered breathing as potential contributors to hyperactive behavior in 
+some children. However, no prospective cohort study has demonstrated 
+that symptoms of sleep-disordered breathing precede development of hyperactivity. 
+Participants: Parents of 229 children aged 2 to 13 years, recruited at 2 
+general pediatrics clinics, completed initial and 4-year follow-up surveys. 
+Measurements: Surveys included a validated Pediatric Sleep Questionnaire 
+about snoring, sleepiness, and overall risk of sleep-disordered 
+breathing, and the hyperactivity index (expressed as a T-score) within the 
+Conners’ Parent Rating Scale. 
+Results: Thirty children (13%) were rated as hyperactive (hyperactivity 
+index > 60) at follow-up. After adjustment for hyperactivity at baseline 
+and stimulant use at follow-up, hyperactivity at follow-up was predicted 
+by baseline habitual snoring (odds ratio = 4.4, 95% confidence interval 
+
+[1.3, 14.7]) or loud snoring (4.5, [1.2, 17.5]) and by top-quartile composite 
+scores for snoring (5.3, [1.7, 16.8]), sleepiness (3.0, [1.0, 9.4]), or sleep-
+disordered breathing (4.0, [1.4, 11.6]). 
+Conclusions: This 4-year prospective cohort study shows that snoring 
+and other symptoms of sleep-disordered breathing are strong risk factors 
+for future emergence or exacerbation of hyperactive behavior. These 
+findings support the hypothesis that untreated childhood sleep-disordered 
+breathing contributes to development of hyperactivity. 
+Keywords: Child; snoring; sleep apnea, obstructive; attention; hyperactivity; 
+attention deficit disorder with hyperactivity; child behavior disorders; 
+neuropsychological tests; disorders of excessive somnolence; pediatric 
+sleep questionnaire 
+Citation: Chervin RD; Ruzicka DL; Archbold KH et al. Snoring predicts 
+hyperactivity four years later. SLEEP 2005;28(7): 885-890. 
+
+INTRODUCTION 
+
+HABITUAL SNORING IS A PROMINENT FEATURE OF 
+SLEEP-DISORDERED BREATHING (SDB), AND BOTH ARE 
+ASSOCIATED WITH INATTENTIVE AND HYPERACTIVE 
+behavior in children.1-4 Several published case series note that 
+treatment of SDB can lead to amelioration of hyperactive behavior 
+and reduced need for stimulant medication.1,3,5 Survey results 
+suggest that if SDB causes or contributes to hyperactivity, then a 
+significant minority of hyperactive children, as many as 15% to 
+25%, might benefit from diagnosis and treatment of the underlying 
+sleep disorder.6,7 A community-based polysomnographic study 
+of hyperactive and normal children has found notably increased 
+rates of SDB among mildly hyperactive children.8 The American 
+Academy of Pediatrics lists behavioral problems as “symptoms” 
+and “complications” of childhood SDB.9 Animal models have 
+suggested that intermittent hypoxia could affect brain function 
+and cause hyperactivity,10,11 but this behavioral outcome is also 
+seen in a variety of sleep disorders that do not involve hypoxia,12,13 
+implying that sleep disruption also may play an important role. 
+
+Despite this evidence, definitive proof that SDB actually plays 
+a causal role in hyperactivity remains elusive. No double-blind, 
+randomized, placebo-controlled intervention trials have addressed 
+the issue. Among published observational studies that support a 
+
+Disclosure Statement 
+
+This was not an industry supported study. Drs. Chervin, Ruzicka, Hedger 
+Archbold, and Dillon have indicated no financial conflicts of interest. 
+
+Submitted for publication February 2005 
+Accepted for publication March 2005 
+
+Address correspondence to: Ronald D. Chervin, MD, MS, Michael S. Aldrich 
+Sleep Disorders Laboratory, 8D8702 University Hospital, Box 0117, 1500 
+
+E. Medical Center DR, Ann Arbor, MI 48109-0117; Tel: (734)647 9064; Fax: 
+(734)647 9065; E-mail: chervin@umich.edu 
+cause-and-effect relationship, one of the most important pieces 
+of evidence still missing is proof that SDB temporally precedes 
+development of hyperactive behavior.14 We now report results 
+of a prospective cohort study designed to address this question. 
+Parents of children in community-based general pediatric waiting 
+rooms were surveyed with validated instruments to assess sleep 
+and daytime behavior.7 Four years later, these families were resurveyed, 
+and baseline risk factors for future emergence of hyperactivity 
+were assessed. 
+
+METHODS 
+
+Subjects 
+
+Recruitment procedures for this research cohort, as approved 
+by the University of Michigan Institutional Review Board, have 
+been described previously in detail.7,15 Parents with children in 
+waiting rooms of 2 University-owned but community-based 
+general pediatric practices were asked to sign informed consent 
+and assent, respectively, to participate in an Institutional Review 
+Board-approved study of sleep and behavior in children. Inclusion 
+criteria included (1) age between 2.0 and 13.9 years, (2) 
+parental ability to read and write, and (3) absence of mental or 
+physical impairment severe enough to preclude interpretation of 
+behavioral information collected. Recruitment took place February 
+1998 through April 2000. Questionnaires generally required 
+20 to 30 minutes to complete. 
+
+Four years after the initial questionnaires were administered, 
+the same instruments were mailed to the parent who had originally 
+responded, as had been planned at enrollment. Efforts to locate 
+families whose addresses had changed included use of alternate 
+family contacts that had been provided by parents, medical 
+records, phone books, and Internet searches. Duplicate mailings 
+were sent, 1 to 2 months after the first, when no responses were 
+received from valid addresses. 
+
+Parents of 229 children answered initial question items about 
+
+SLEEP, Vol. 28, No. 7, 2005 885 Snoring Predicts Hyperactivity 4 Year Later—Chervin et al 
+
+
+SDB symptoms, confirmed that no tonsillectomy had been performed 
+between initial evaluation and follow-up, and provided 
+hyperactivity ratings at both time points. These 229 children represent 
+26% of 866 children included in the original cross-sectional 
+survey analysis.7 Children with follow-up data, in comparison 
+with the remainder, did not show significant baseline differences 
+in age, sex, habitual snoring, or frequency of hyperactive behavior 
+(as defined below). However, fewer children with follow-up data 
+had loud snoring at follow-up (9 vs 20%), and, on average, these 
+children showed somewhat lower snoring scores (mean 0.13 vs 
+0.20), slightly lower sleepiness scores (0.14 vs 0.17), and slightly 
+lower SDB scores (0.13 vs 0.16, all measures as defined below, P 
+< .05 by t test or .2). 
+
+Measures 
+
+For both surveys, parents completed the Pediatric Sleep Questionnaire; 
+children were encouraged to help. The instrument contains 
+a validated, reliable, 22-item SDB scale (see Appendix), 
+including a 4-item subscale for snoring and another for excessive 
+daytime sleepiness.16 Scores are calculated as the proportion of 
+symptoms that are endorsed as present. In the current study, the 
+subscales were used in addition to the full 22-item SDB scale because 
+the latter contains 6 behavioral items that could potentially 
+give rise to artificial associations with future hyperactive behavior. 
+Responses to 2 snoring question-items also were analyzed 
+separately: “While sleeping, does your child snore loudly?” and 
+“While sleeping, does your child snore more than half the time?” 
+The latter was used to identify habitual snoring. 
+
+Parents completed the short form of the Conners’ Parent Rating 
+Scale, a well-validated 48-item instrument commonly used 
+to identify behavioral problems in children.17 The Hyperactivity 
+Index (HI) contains 10 symptom items that are rated on a 4-point 
+scale. Raw scores are converted to age and sex-adjusted T-scores 
+that range from 0 to 100, average 50, and show a standard deviation 
+of 10 points. Scores 1 or 2 standard deviations above the 
+mean are usually interpreted as indicative of hyperactive behavior. 
+In this study, HI > 60 was considered to reflect hyperactive 
+behavior. 
+
+Analysis 
+
+Simple logistic regression was used to model high HI at follow-
+up as a function of each baseline SDB-related symptom, 
+score, age, and sex. As hyperactivity at follow-up was likely to be 
+influenced by hyperactivity at baseline and stimulant use at follow-
+up, multiple logistic regression was used to take both into account. 
+These analyses therefore modeled hyperactivity that newly 
+developed or worsened during the 4-year follow-up period, after 
+controlling for effects of current stimulant medications. Age and 
+sex were not entered as covariates because the HI is already age 
+and sex-adjusted and because these 2 variables showed no bivariate 
+associations with the outcome. Validity of results were tested 
+by controlling for nonstimulant psychotropic medications. 
+
+Two other models were explored. As the initial survey had 
+shown that the cross-sectional associations between SDB symptoms 
+and HI derived mainly from boys younger than 8 years old,7 
+current results were retested within this subsample. To assess 
+whether baseline SDB symptoms predicted HI independently of 
+current SDB symptoms, follow-up hyperactivity was regressed on 
+SDB symptoms from both time points, while adjusting for base
+
+
+line hyperactivity and follow-up stimulant use. Analyses were 
+performed with SAS®, version 8.01 (SAS Institute, Inc., Cary, 
+NC), and the level of significance was set at P < .05. 
+
+RESULTS 
+
+Predictors of Hyperactivity 
+
+Follow-up data on demographics, sleep, and behavior for all 
+subjects, those with habitual snoring at baseline, and those without 
+habitual snoring at baseline are shown in Table 1. The mean 
+HI was 46.3 ± 13.4 at follow-up: 30 children (13%) were rated 
+as hyperactive (HI = 60) by their parents, whereas 199 were not. 
+Those 30, in comparison with the remainder, showed no difference 
+in age or sex but were more likely at baseline to have been 
+reported to snore, to be excessively sleepy, and to have high overall 
+SDB scores (Table 2 and Figure 1). The 30 children who were 
+hyperactive on follow-up were also much more likely than other 
+children to have been rated as hyperactive at the initial survey. 
+After adjustment for hyperactivity at enrollment (HI = 60, n = 25 
+subjects), and for stimulant use at follow-up (n = 13 subjects), 
+baseline snoring predicted a 4- to 5-fold increased risk for newly 
+developed hyperactivity at follow-up (P < .05 for habitual snoring, 
+loud snoring, or snoring score, as shown in Table 2). Baseline 
+scores in the top quartile for sleepiness showed a trend toward a 
+3-fold increased risk (P = .058), and those in the top quartile on 
+the overall SDB scale predicted a 4-fold increased risk (P = .013). 
+Additional adjustment of Table 2 models for parental reports of 
+follow-up medications that could be classified as nonstimulant 
+psychotropic agents, such as hypnotics or antidepressants (n = 
+11), showed results essentially identical to those shown in Table 
+
+2. 
+Young Boys 
+
+The follow-up sample included 79 boys younger than 8 years 
+at enrollment. Ten were found to be hyperactive at follow-up, 
+
+Table 1—Characteristics at 4-Year Follow-up of All Subjects and 
+Those With and Without Habitual Snoring at Baseline* 
+
+Characteristic All Subjects Habitual Snoring P value‡ 
+at 4 years (n = 229) at Baseline† 
+
+Present Absent 
+(n = 28) (n = 191) 
+
+Age, y 10.6 ± 3.1 10.2 ± 2.9 10.6 ± 3.1 .5600 
+Boys, % 54.3 53.6 54.5 .9305 
+Habitually snores, % 9.1 44.0 4.3 < .0001 
+Snores loudly, % 8.4 30.8 5.3 .0003 
+Snoring score 0.11± 0.21 0.39 ± 0.33 0.07 ± 0.16 < .0001 
+Sleepiness score 0.19 ± 0.27 0.29 ± 0.33 0.18 ± 0.25 .0857 
+Sleep-disordered 0.12 ± 0.14 0.25 ± 0.22 0.11 ± 0.12 .0015 
+
+breathing score 
+Subjects with 13.7 32.1 11.0 .0058 
+Hyperactivity 
+Index > 60, % 
+
+* Listed scores and indexes are described in text. Data are provided 
+as mean ± SD unless otherwise indicated. 
+†Habitual snoring reported as unknown (or missing data) at baseline 
+for 10 subjects. 
+‡T test, .2 test, or Fisher exact test, as appropriate. 
+SLEEP, Vol. 28, No. 7, 2005 886 Snoring Predicts Hyperactivity 4 Year Later—Chervin et al 
+
+
+Table 2—Logistic Regression Coefficients and Odds Ratios for Follow-Up Hyperactivity and Each Listed Baseline Symptom or Score, Before and 
+After Adjustment for Hyperactivity at Baseline and Stimulant Use at Follow-up* 
+
+Baseline Variable, Baseline Condition Before Adjustment After Adjustment 
+
+Symptom, or Score Modeled Regression Odds Ratio P value Regression Odds Ratio P value 
+Coefficient [95% confidence Coefficient [95% confidence 
+(SE) interval] (SE) interval] 
+
+
+Age when recruited < 8 years 0.08 (0.06) 1.09 [0.96, 1.23] .1907 — — — 
+Sex Male 0.25 (0.40) 1.29 [0.59, 2.82] .5236 — — — 
+Hyperactivity Index > 60 2.94 (0.49) 18.90 [7.25, 49.23] < .0001 — — — 
+Habitually snores Endorsed 1.34 (0.47) 3.84 [1.54, 9.56] .0039 1.48 (0.61) 4.40 [1.32, 14.66] .0160 
+Snores loudly Endorsed 1.17 (0.53) 3.22 [1.13, 9.16] .0288 1.51 (0.69) 4.51 [1.16, 17.54] .0299 
+Snoring score Top quartile 1.14 (0.45) 3.13 [1.28, 7.61] .0121 1.67 (0.59) 5.29 [1.67, 16.82] .0047 
+Sleepiness score Top quartile 1.20 (0.44) 3.33 [1.40, 7.89] .0064 1.10 (0.58) 3.01 [0.96, 9.39] .0583 
+Sleep-disordered Top quartile 1.04 (0.41) 2.83 [1.26, 6.36] .0121 1.37 (0.55) 3.95 [1.35, 11.58] .0125 
+
+breathing score 
+
+* Each row represents a separate logistic regression model in which follow-up hyperactivity was the outcome and the listed baseline symptom or 
+score was an explanatory variable. In the adjusted models, both baseline hyperactivity and follow-up stimulant use were entered, in addition, as 
+potential confounding variables. Follow-up hyperactivity is defined as a score on the Hyperactivity Index = 60. 
+and 69 were found not to be hyperactive. Adjusted odds ratios for 
+hyperactivity and habitual snoring or sleepiness showed similar 
+magnitudes to those found in the whole group but did not reach 
+significance with this limited sample size (Table 3). However, 
+loud snoring showed a trend, and snoring scores reached significance, 
+as did overall SDB scores, with markedly elevated odds 
+ratios. For example, baseline scores in the top quartile for the 
+overall SDB scale predicted a 9-fold increase in adjusted risk for 
+hyperactivity on follow-up (P = .02). 
+
+Past Versus Present Snoring 
+
+Like the baseline SDB symptoms, follow-up habitual snoring, 
+loud snoring, snoring scores, sleepiness scores, and SDB scores 
+were each also associated with follow-up hyperactivity (all P < 
+.05). However, in logistic regression models that included the baseline 
+symptom and follow-up symptom as explanatory variables, 
+again adjusted for baseline hyperactivity and follow-up stimulant 
+use, none of the follow-up symptoms retained significant associations 
+with follow-up hyperactivity (all P > .10), except for the follow-
+up SDB score (P < .0001). In contrast, in these same models, 
+the predictive value and statistical significance of baseline loud 
+snoring, snoring score, and sleepiness score remained essentially 
+unchanged by adjustment for the follow-up symptoms (Table 4, 
+in comparison with Table 2). Baseline habitual snoring and SDB 
+scores showed somewhat weakened predictive value that failed to 
+reach significance. 
+
+DISCUSSION 
+
+This prospective, 4-year cohort study of children aged 2 to 13 
+years at enrollment demonstrates for the first time that snoring 
+and other SDB symptoms are strong risk factors for the future development 
+of hyperactive behavior. Habitual snoring at baseline 
+increased the risk for subsequent hyperactivity by more than 4 
+times. Despite a limited sample size of boys younger than 8 years 
+old, within this group, subjects in the top quartile for baseline 
+SDB symptoms had an estimated 9-fold increased risk for hyperactivity 
+4 years later. Although SDB symptoms at follow-up also 
+were associated with current hyperactivity, several showed no in-
+
+Figure 1—Baseline habitual snoring (1) in 28 subjects, in compari-
+son with absence of habitual snoring (0) in 191 subjects, predicted 
+higher Hyperactivity Index T-scores at 4-year follow-up. Box plots 
+show median, 75th, 25th, 90th, and 10th percentiles, along with any out-
+liers. (Baseline snoring responses were missing or reported as “don’t 
+know” for 10 of the total 229 subjects.) 
+dependent association after baseline SDB symptoms were taken 
+into account. In contrast, some baseline SDB symptoms still predicted 
+follow-up hyperactivity after current SDB symptoms were 
+taken into account. These results cannot prove that SDB causes 
+hyperactive behavior, but they do provide important evidence to 
+support this hypothesis. If SDB does contribute to hyperactive 
+behavior, then the large magnitude of increased risk conferred by 
+SDB in our study highlights the importance of early recognition 
+and treatment for childhood SDB in general pediatric practices. 
+
+No previous study to our knowledge has investigated whether 
+SDB or its symptoms actually precede hyperactive behavior. One 
+
+SLEEP, Vol. 28, No. 7, 2005 887 Snoring Predicts Hyperactivity 4 Year Later—Chervin et al 
+
+
+Table 3—Boys Less Than 8 Years Old (N = 79): Conditional Logistic 
+Regression Coefficients and Odds Ratios for Follow-Up Hyperactivity 
+and Each Listed Baseline Symptom or Score, After Adjustment for Hyperactivity 
+at Baseline and Stimulant Use At Follow-Up* 
+
+Baseline Baseline Regression Odds Ratio P value 
+Symptom Condition Coefficient [95% 
+or Score Modeled (SE) confidence 
+interval] 
+Habitually snores Endorsed 1.31 (0.93) 3.73 [0.60, 22.96] .1565 
+Snores loudly Endorsed 2.18 (1.24) 8.88 [0.77, 101.84] .0794 
+
+Snoring score Top quartile 1.94 (0.89) 6.95 [1.21, 40.05] .0301 
+Sleepiness score Top quartile 0.99 (1.00) 2.69 [0.38, 19.94] .3216 
+Sleep-disordered Top quartile 2.20 (0.94) 9.01 [1.42, 57.00] .0195 
+
+breathing score 
+
+*Each row represents a separate, multivariable logistic regression model 
+in which follow-up hyperactivity was the outcome. The listed baseline 
+symptom or score was an explanatory variable, and both baseline hyperactivity 
+and follow-up stimulant use were entered as potential confounding 
+variables. Follow-up hyperactivity is defined as a score on the 
+Hyperactivity Index = 60. 
+
+case-control study addressed the question of whether SDB symptoms 
+precede poor school performance.18 Poorly-performing seventh- 
+and eighth-grade students, ranked in the bottom quartile of 
+their class, were compared with students ranked in the top quartile 
+on the basis of whether parents recalled snoring when these children 
+were 2 to 6 years old. The retrospective design and subject 
+ages could not allow assessment of early school performance or 
+cognitive ability, and results were not adjusted for stimulant or 
+psychotropic use. However, frequent and loud snoring in early 
+childhood was reported to be 2.8 times more common among 
+poorly performing teenagers than among high-performing teens. 
+Interestingly, current snoring did not differ between the 2 groups. 
+With a different outcome measure, adjustment for baseline morbidity 
+and stimulant use, and a prospective design that avoided 
+potential for selective recall, the current cohort study still showed 
+associations of similar or greater magnitude: children at most risk 
+for SDB at baseline were 4 times more likely to have hyperactive 
+behavior 4 years later. 
+
+A randomized controlled clinical trial, in which subjects treated 
+for SDB are compared with others left untreated, could prove 
+whether SDB contributes to hyperactive behavior. However, such 
+a trial has not been performed, in part because of inherent ethical 
+considerations. In the absence of such proof, clinical and epidemiologic 
+findings that can support a cause-and-effect relationship 
+between a putative risk and critical outcome include a strong 
+cross-sectional association, biologic credibility of proposed underlying 
+mechanisms, proof that the risk factor precedes the outcome 
+in time, a dose-response relationship, and, perhaps most 
+importantly, consistency among investigations that involve different 
+methodologies, investigators, and settings.19 The associations 
+between symptoms of SDB, hyperactivity, and other neurobehavioral 
+outcomes are strong.4,6-8,20,21 Potential biologic mechanisms 
+derive reasonable support from animal and human models:10,22 
+hypoxia, sleep fragmentation by arousals, or both could play important 
+roles. Symptoms of SDB, and by inference the disorder 
+itself, are now shown to precede hyperactive behavior. Previously 
+published data have suggested a dose-response association between 
+snoring and hyperactivity.7 
+
+The primary remaining challenge to a conclusion that SDB 
+contributes to hyperactive behavior is that not all studies on this 
+
+Table 4—Conditional Logistic Regression Coefficients and Odds Ratios 
+for Follow-Up Hyperactivity and Each Listed Baseline Symptom or 
+Score, After Adjustment for the Same Symptom or Score at Follow-Up, 
+Hyperactivity at Baseline, and Stimulant Use at Follow-Up* 
+
+Baseline Baseline Regression Odds Ratio P value 
+Symptom Condition Coefficient [95% or Score 
+Modeled (SE) confidence 
+
+interval] 
+Habitually snores Endorsed 1.18 (0.75) 3.24 [0.74, 14.14] .1176 
+Snores loudly Endorsed 1.59 (0.73) 4.89 [1.17, 20.48] .0298 
+Snoring score Top quartile 1.51 (0.70) 4.55 [1.16, 17.79] .0297 
+Sleepiness score Top quartile 1.02 (0.59) 2.77 [0.88, 8.75] .0815 
+Sleep-disordered Top quartile 0.79 (0.61) 2.21 [0.67, 7.29] .1937 
+
+breathing score 
+
+*Each row represents a separate, multivariable logistic regression model 
+in which follow-up hyperactivity was the outcome. The listed symptom 
+or score at baseline was an explanatory variable, as was the same symptom 
+or score at follow-up, baseline hyperactivity, and follow-up stimulant 
+use. Follow-up hyperactivity is defined as a score on the Hyperactivity 
+Index = 60. 
+
+relationship—and especially those that have used objective measures 
+of SDB—have produced consistent results. For example, 
+a study of 113 children referred for evaluation of possible SDB 
+showed no clear association between laboratory measures of SDB 
+severity and parent-rated hyperactivity.23 A community-based 
+study found frequent SDB in 27 mildly hyperactive subjects, in 
+comparison with 39 control subjects, but could not find the same 
+in 44 more-severely hyperactive children.8 Again, no laboratory 
+measure of SDB severity correlated with neurobehavioral morbidity. 
+Another community-based study of 69 children with SDB 
+and 70 children without SDB, as determined by home polysomnography, 
+showed no difference between groups in parent ratings 
+for inattention, hyperactivity, and symptoms of attention-deficit/ 
+hyperactivity disorder.20 Most recently, a study of 205 five-yearold 
+children found that scores on cognitive tests of attention and 
+other domains were relatively poor among subjects who had SDB 
+symptoms, but were no different after children with polysomnographic 
+evidence of SDB were removed from the analyses.24 
+
+One problem may be that objective measures of SDB remain 
+to be optimized.25 Standard measures of SDB such as the apnea-
+hypopnea index (frequency per hour of sleep), even when 
+adapted specifically for children, may not effectively identify 
+patients likely to suffer from neurobehavioral morbidity.26 Better 
+opportunities may involve specialized scoring of respiratory 
+and nonrespiratory arousals27 or computerized quantification of 
+electroencephalographic changes that occur on a breath-to-breath 
+basis rather than at the end of apneic events.28 In adults, a reported 
+history of snoring still predicts sleepiness after the objective 
+apnea-hypopnea index is taken into account.29 Another problem 
+could be that childhood hyperactivity may arise only from SDB 
+that has occurred years before. If so, then cross-sectional measures 
+of SDB, which could have long since resolved with earlier 
+regression of tonsillar hypertrophy, may not show close correlation 
+with the SDB outcome. 
+
+Among limitations of the current study, one that is difficult to 
+avoid in a large long-term follow-up survey is that only a minority 
+of eligible participants provided data again at 4 years. However, 
+the effect may well have been to make our findings more 
+conservative: the lower frequency of some baseline symptoms of 
+SDB among participants, in comparison with those lost to follow-
+
+SLEEP, Vol. 28, No. 7, 2005 888 
+Snoring Predicts Hyperactivity 4 Year Later—Chervin et al 
+
+
+up, suggests that the association we detected between this putative reported symptoms of attention-deficit/hyperactivity disorder. Pedirisk 
+factor and follow-up hyperactivity may be underestimated. atrics 2003;111:554-63. 
+Other study limitations, also inherent to its design, include the 9. American Academy of Pediatrics, Section on Pediatric Pulmonolfact 
+that unstudied confounding variables may exist, despite ad-ogy, Subcommittee on Obstructive Sleep Apnea Syndrome. Clinivantages 
+of a cohort study in comparison with other types of non-cal practice guideline: diagnosis and management of childhood obinterventional 
+investigations. Finally, instruments used to assess structive sleep apnea syndrome. Pediatrics 2002;109:704-12. 
+behavior and SDB risk in this study were all well validated, but no 10. Gozal D, Daniel JM, Dohanich GP. Behavioral and anatomical corobjective 
+behavioral measures or clinician evaluations were ad-relates of chronic episodic hypoxia during sleep in the rat. J Neuroministered, 
+and neither were gold-standard sleep laboratory stud-sci 2001;21:2442-50. 
+ies in this large sample. To identify hyperactive children, we used 11. Gozal E, Row BW, Schurr A, Gozal D. Developmental differences 
+a somewhat inclusive criterion, as we have in the past,7 of only 1 in cortical and hippocampal vulnerability to intermittent hypoxia in 
+standard deviation above normal on the HI. Published evidence the rat. Neurosci Lett 2001;305:197-201. 
+of a closer relationship between SDB and mild rather than severe 12. Guilleminault C, Pelayo R. Narcolepsy in prepubertal children. Ann 
+hyperactivity8 suggests that our findings may not be applicable to Neurol 1998;43:135-42. 
+more severe hyperactive behavior. 13. Dahl RE, Pelham WE, Wierson M. The role of sleep disturbances in 
+
+Planning for this study commenced in 1996. Cohort studies attention deficit disorder symptoms: a case study. J Pediatr Psychol 
+
+require time, patience, and some ability to anticipate what risk 1991;16:229-39. 
+factors will prove important in a medical arena likely to evolve 14. Mick E, Chervin RD. Letters to the Editor: Attention-deficit/hyperby 
+the end of the study. However, further cohort studies on con-activity disorder and sleep. Pediatrics 2002;110:850-2. 
+sequences of childhood sleep disorders should be started now, 15. Chervin RD, Archbold KH, Panahi P, Pituch KJ. Sleep probwith 
+longer follow-up and larger sample sizes than we achieved. lems seldom addressed at two general pediatric clinics. Pediatrics 
+Opportunities to include assessment of sleep, sleep deprivation, 2001;107:1375-80. 
+
+
+SDB, and other common sleep problems also may arise in large 16. Chervin RD, Hedger KM, Dillon JE, Pituch KJ. Pediatric Sleep 
+cohort studies organized for other primary purposes. Questions Questionnaire (PSQ): validity and reliability of scales for sleep-
+about sleep and SDB symptoms have been proposed for inclusion disordered breathing, snoring, sleepiness, and behavioral problems. 
+in the National Children’s Study, which plans to follow 100,000 Sleep Med 2000;1:21-32. 
+subjects from gestation to adulthood (http://www.nationalchil-17. Conners CK, Barkley RA. Rating scales and checklists for child 
+drensstudy.gov/). Our initial data suggest that attention to early psychopharmacology. Psychopharmacol Bull 1985;21:809-68. 
+sleep disorders, among many valuable targets, may prove reward-18. Gozal D, Pope DW Jr. Snoring during early childhood and acaing 
+in a search for new opportunities to understand and prevent demic performance at ages thirteen to fourteen years. Pediatrics 
+adverse neurobehavioral outcomes in children. 2001;107:1394-9. 
+
+
+19. Hennekens CH, Buring JE. Epidemiology in Medicine. Boston: 
+ACKNOWLEDGEMENTS 
+Little, Brown and Company; 1987. 
+20. 
+Kaemingk KL, Pasvogel AE, Goodwin JL, et al. Learning in chil-
+The authors thank Christian Guilleminault, MD, Ronald E. 
+
+dren and sleep disordered breathing: findings of the Tucson Chil-
+
+Dahl, MD, and Morton B. Brown, PhD, for advice on study 
+
+dren’s Assessment of Sleep Apnea (TuCASA) prospective cohort 
+
+design; Kenneth J. Pituch, MD and Parviz Panahi, MD, for as-
+
+study. J Int Neuropsychol Soc 2003;9:1016-26. 
+
+sistance with subject recruitment; Kenneth E. Guire, MS, for as
+
+
+21. 
+Ersu R, Arman AR, Save D, et al. Prevalence of snoring and sympsistance 
+with database management; and the many parents and 
+
+toms of sleep-disordered breathing in primary school children in 
+
+children who took the time to participate in this research. Sup-
+
+Istanbul. Chest 2004;126:19-24.
+
+ported in part by NIH grants NS002009, HD038461, HL080941, 
+
+22. 
+Beebe DW, Gozal D. Obstructive sleep apnea and the prefrontal 
+and RR000042 
+
+cortex: towards a comprehensive model linking nocturnal upper 
+airway obstruction to daytime cognitive and behavioral deficits. J 
+
+REFERENCES 
+
+
+Sleep Res 2002;11:1-16. 
+
+23. 
+Chervin RD, Archbold KH. Hyperactivity and polysomnographic 
+1. 
+Guilleminault C, Eldridge F, Simmons FB. Sleep apnea in eight 
+findings in children evaluated for sleep-disordered breathing. Sleep 
+
+children. Pediatrics 1976;58:23-30. 
+
+2001;24:313-20.
+
+2. 
+Guilleminault C, Korobkin R, Winkle R. A review of 50 children 
+24. 
+Gottlieb DJ, Chase C, Vezina RM, et al. Sleep-disordered breathing 
+with obstructive sleep apnea syndrome. Lung 1981;159:275-87. 
+
+symptoms are associated with poorer cognitive function in 5-year
+
+
+3. 
+Guilleminault C, Winkle R, Korobkin R, Simmons B. Children 
+old children. J Pediatr 2004;145:458-64.
+
+and nocturnal snoring-- evaluation of the effects of sleep related 
+
+25. 
+Hunt CE. Neurocognitive outcomes in sleep-disordered breathing. J 
+respiratory resistive load and daytime functioning. Eur J Pediatr 
+
+Pediatr 2004;145:430-2.
+
+1982;139:165-71. 
+
+26. 
+Chervin RD, Giordani B, Ruzicka DL, et al. Polysomnographic 
+4. 
+Gottlieb DJ, Vezina RM, Chase C, et al. Symptoms of sleep-disorfindings 
+and behavior in children scheduled for adenotonsillectomy 
+
+dered breathing in 5-year-old children are associated with sleepiness 
+
+or hernia repair. Sleep 2002;25:A431. 
+
+and problem behaviors. Pediatrics 2003;112:870-7. 
+
+27. 
+O’Brien LM, Tauman R, Gozal D. Sleep pressure correlates of 
+5. 
+Dillon JE, Ruzicka DL, Champine DJ, et al. DSM-IV disruptive 
+cognitive and behavioral morbidity in snoring children. Sleep 
+
+behavior disorders in children before and after adenotonsillectomy. 
+
+2004;27:279-82.
+
+Sleep 2003;26:A138. 
+
+28. 
+Chervin RD, Burns JW, Subotic NS, Roussi C, Thelen B, Ruzicka 
+6. 
+Chervin RD, Dillon JE, Bassetti C, Ganoczy DA, Pituch KJ. Symp-
+DL. Correlates of respiratory cycle-related EEG changes in children 
+
+toms of sleep disorders, inattention, and hyperactivity in children. 
+
+with sleep-disordered breathing. Sleep 2004;27:116-21. 
+
+Sleep 1997;20:1185-92. 
+
+29. 
+Gottlieb DJ, Yao Q, Redline S, Ali T, Mahowald MW. Does snoring 
+7. 
+Chervin RD, Archbold KH, Dillon JE, et al. Inattention, hyper-
+predict sleepiness independently of apnea and hypopnea frequency? 
+
+activity, and symptoms of sleep-disordered breathing. Pediatrics 
+
+Am J Respir Crit Care Med 2000;162:1512-7.
+
+2002;109:449-56. 
+
+8. 
+O’Brien LM, Holbrook CR, Mervis CB et al. Sleep and neurobehavioral 
+characteristics of 5- to 7-year-old children with parentally 
+SLEEP, Vol. 28, No. 7, 2005 
+889 
+Snoring Predicts Hyperactivity 4 Year Later—Chervin et al 
+
+
+Appendix 
+
+
+Pediatric Sleep Questionnaire items that constitute the sleep-disordered breathing scale.16 The snoring subscale includes items A2, A3, 
+A4, and A5. The sleepiness subscale includes items B1, B2, B4, and B6. 
+
+
+WHILE SLEEPING, DOES YOUR CHILD … 
+A2 … snore more than half the time? 
+A3 … always snore? 
+A4 … snore loudly? 
+A5 … have “heavy” or loud breathing? 
+A6 … have trouble breathing, or struggle to breathe? 
+
+
+HAVE YOU EVER … 
+A7 … seen your child stop breathing during the night? 
+
+
+DOES YOUR CHILD … 
+A24 … tend to breathe through the mouth during the day? 
+A25 … have a dry mouth on waking up in the morning? 
+A32 … occasionally wet the bed? 
+
+
+DOES YOUR CHILD … 
+B1 … wake up feeling unrefreshed in the morning? 
+B2 … have a problem with sleepiness during the day? 
+B4 Has a teacher or other supervisor commented that your child appears sleepy during the day? 
+B6 Is it hard to wake your child up in the morning? 
+B7 Does your child wake up with headaches in the morning? 
+B9 Did your child stop growing at a normal rate at any time since birth? 
+B22 Is your child overweight? 
+
+
+THIS CHILD OFTEN … 
+C3 … Does not seem to listen when spoken to directly. 
+C5 … Has difficulty organizing tasks and activities. 
+C8 … Is easily distracted by extraneous stimuli. 
+C10 … Fidgets with hands or feet or squirms in seat. 
+C14 … Is “on the go” or often acts as if “driven by a motor”. 
+C18 … Interrupts or intrudes on others (eg., butts into conversations or games). 
+
+
+SLEEP, Vol. 28, No. 7, 2005 890 
+Snoring Predicts Hyperactivity 4 Year Later—Chervin et al 
+
+

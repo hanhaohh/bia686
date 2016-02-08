@@ -1,0 +1,489 @@
+The effect of tonsillectomy and adenoidectomy on 
+inattention and impulsivity as measured by the Test of 
+Variables of Attention (TOVA) in children with obstructive 
+sleep apnea syndrome 
+
+GALIT AVIOR, MD, GADI FISHMAN, MD, AGNES LEOR, MD, YAKOV SIVAN, MD, NEHEMIA KAYSAR, MD, and ARI DEROWE, MD, Tel 
+Aviv, Israel 
+
+OBJECTIVE: To evaluate children with obstructive 
+sleep apnea syndrome (OSAS) for features of attention 
+deficit disorder (ADD) using an objective test of 
+inattention and impulsivity: Test of Variables of Attention 
+(TOVA) and then to determine whether tonsillectomy 
+and adenoidectomy (TA) results in an 
+improvement in TOVA scores. 
+STUDY DESIGN AND SETTING: This study was a prospective 
+interventional comparative trial in a tertiary 
+care children’s hospital. Nineteen children 
+ages 5 to 14 years with OSAS, and otherwise 
+healthy, with a clinical indication for TA. Preoperative 
+and 2 months postoperative OSA-18, CBCL 
+questionnaires, and TOVA scores were evaluated. 
+RESULTS: The preoperative TOVA scores were in the 
+abnormal range in 12/19 (63%) of the children. The 
+mean preoperative TOVA score was 2.9 (. 
+3.1). 
+The mean postoperative TOVA score was 0.4 
+(2.8). The improvement in the TOVA scores was 
+significant (P < 0.0001, t-test). 
+CONCLUSION: This preliminary data suggests that 
+treatment of OSAS with TA results in significant 
+improvement in objective parameters of inattention 
+and impulsivity. 
+SIGNIFICANCE: These findings may be important in 
+understanding the impact of OSAS and therapeutic 
+interventions on behavioral problems in children. 
+
+(Otolaryngol Head Neck Surg 2004;131:367-71.) 
+
+From the Department of Otolaryngology–Head and Neck Surgery (Dr 
+Avior), Pediatric Otolaryngology Unit (Drs Fishman and DeRowe), 
+Pediatric Psychiatry Unit (Drs Leor and Kaysar), and Pediatric Center for 
+Sleep Disorders (Dr Sivan), “Dana” Children’s Hospital, Tel-Aviv 
+Sourasky Medical Center, Sackler School of Medicine, Tel-Aviv 
+University, Tel Aviv, Israel. 
+
+Presented at the Annual Meeting of the American Society of Pediatric Otolaryngology, 
+Nashville, TN, May 4, 2003. 
+
+Reprint requests: Ari DeRowe, MD, Pediatric Otolaryngology Unit, “Dana” 
+Children’s Hospital, Tel-Aviv Medical Center, 6 Weitzman St., Tel-Aviv, 
+64239, Israel; e-mail, aderowe@post.tau.ac.il 
+
+0194-5998/$30.00 
+
+Copyright © 2004 by the American Academy of Otolaryngology–Head and 
+Neck Surgery Foundation, Inc. 
+
+doi:10.1016/j.otohns.2004.04.015 
+
+Sleep-disordered breathing (SDB) is a relatively common 
+condition in otherwise healthy children. It includes 
+a continuum of pathologies, with obstructive sleep apnea 
+(OSA) considered to be the more severe form. The 
+prevalence of OSA is estimated to be 1% to 2% of all 
+children.1 The underlying pathophysiology of OSA in 
+children is thought to be a dynamic process caused by 
+upper airway narrowing and abnormal upper airway 
+neuromotor tone resulting in airway collapse during 
+sleep. OSA in children is predominately associated 
+with adenotonsillar hypertrophy, but can also be associated 
+with other upper airway pathology such as a 
+small mouth or pharynx, decreased upper airway tone, 
+craniofacial anomaly, or morbid obesity.1,2 
+
+The nighttime symptoms of OSA include snoring, 
+breathing cessation, choking, gasping, struggling to 
+breathe, restless sleep, and frequent awakenings. Although 
+daytime sleepiness may be present, it is not a 
+common symptom in children as compared with adults.1 
+Daytime symptoms that are more frequently associated 
+with OSA in children include learning difficulties, attention 
+disorders, hyperactivity, aggression, and antisocial 
+behavior.1-5 When OSA is not recognized and is left 
+untreated, significant morbidity such as failure to thrive, 
+systemic hypertension, and pulmonary hypertension with 
+or without cor pulmonale can develop.1 Data is emerging 
+regarding neurocognitive sequela. 
+
+In the vast majority of children with OSA, surgical 
+removal of hypertrophic tonsillar and adenoid tissue 
+will usually result in complete resolution of OSA.1 By 
+using standardized behavioral assessments, recent reports 
+support the association between behavioral and 
+attention problems in children with sleep-disordered 
+breathing.3-7 
+
+The Test of Variables of Attention (TOVA) has been 
+used as objective measures to assist in the diagnosis of 
+attention deficit hyperactivity disorders (ADHD).8,9 
+TOVA is a 23-minute visual continuous performance 
+test with minimal language demands, no left-right discrimination, 
+and has a proven test-retest validity.8-11 
+The test is done in the form of a computer game 
+allowing for excellent cooperation by the child. In this 
+study, TOVA was used to evaluate attention and con
+
+
+
+368 AVIOR et al 
+
+centration in children with OSAS before and after tonsillectomy 
+and adenoidectomy (TA). 
+
+The OSA-18 is an 18-item health-related quality of 
+life survey of pediatric OSAS that has been correlated 
+with the respiratory disturbance index on nap polysomnography. 
+It has been shown to have a high level of 
+reliability, validity, and responsiveness.12,13 
+
+The Achenbach Child Behavior Checklist (CBCL)/ 
+4-8 attention problems syndrome scales is an 11-item 
+standardized parent report questionnaire designed to 
+evaluate behavioral problems in children between the 
+age of 4 and 18. The CBCL has a high validity for 
+detecting attention problems and is widely used in 
+comparative studies.14,15 
+
+The purpose of this study was to determine the impact 
+of TA on attention in children with OSA using TOVA 
+as an objective tool. To our knowledge, no prior study has 
+used an objective measure of ADHD for the evaluation of 
+children with OSAS before or after treatment. 
+
+PATIENTS AND METHODS 
+
+In a prospective cohort interventional outcomes 
+study, children ages 5 to 14 years presenting to the 
+Pediatric Otolaryngology Outpatient Clinic in our institution 
+between April 2002 and March 2003 who were 
+scheduled for tonsillectomy and adenoidectomy (TA) 
+for upper airway obstruction were included. The indication 
+for TA was a more than 3-month history 
+consistent with OSA as measured by parental observation 
+of continuous loud snoring with occasional cessation 
+of breathing or respiratory effort during sleep and 
+a physical examination that demonstrated adenotonsillar 
+hypertrophy. Tonsillar hypertrophy was considered 
+when tonsil size was 3. 
+and above on a scale of 1 to 
+4. Adenoid size was assessed by fiberoptic endoscopy 
+or lateral neck x-ray and hypertrophy considered when 
+3. 
+or above. 
+
+Exclusion criteria included airway obstruction that 
+was not only due to adenotonsillar hypertrophy, such as 
+craniofacial anomalies, neurological impairment or 
+when TA was contraindicated. Children with a prior 
+diagnosis or suspicion of ADHD were also excluded. 
+
+Prior to surgery and 2 months postoperatively all 
+children were administered TOVA. The children’s parents 
+completed 2 questionnaires: the OSA-18 and attention 
+CBCL/4-18. The children also had a clinical 
+and physical evaluation by a pediatric otolaryngologist 
+before surgery and 2 months postoperatively. 
+
+A detailed description of TOVA is beyond the scope 
+of this paper.8-11 In brief, TOVA is a 23-minute fixed-
+interval visual continuous performance test with minimal 
+language demands and no left-right discrimination. 
+It is similar to a computer game. The child observes the 
+monitor as targets are presented. When he/she sees a 
+
+Otolaryngology– 
+Head and Neck Surgery 
+
+October 2004 
+
+target he/she presses on a microswitch. Targets and 
+nontargets are randomly presented and the child must 
+differentiate between them and press the switch only 
+for targets. Every 2 seconds, a stimulus will flash on the 
+screen and the subject then responds to the targets and 
+not to the nontargets. In such a manner, TOVA evaluates 
+omission and commission errors, response times, 
+and anticipatory responses. Errors of omission are indicators 
+of inattention. Errors of commission are indicators 
+of impulsivity. These errors, response times, and 
+other variables are all recorded for each 5-minute quarter 
+and 10-minute halves, as well as overall total scores 
+for each variable. Scores are then compared to standardized 
+norms and an interpretation of the data is 
+summarized in a printable report. The manual recommends 
+that the diagnosis of attention deficit disorders 
+be consider when there is a 1.5 standard deviation from 
+the age-and sex-adjusted mean. 
+
+The OSA-18 questionnaire consists of 18 survey 
+items divided into 5 domains (sleep disturbance, physical 
+symptoms, emotional symptoms, daytime functioning, 
+and caregiver concerns). The items are scored on a 
+scale of 1 to 7.12,13 
+
+The CBCL/4-8 attention problems syndrome scales 
+is an 11-item standardized parent report questionnaire 
+designed to asses behavior problems in children between 
+the age of 4 and 18.2 The CBCL has high validity 
+for detecting attention problems and is widely used in 
+comparative studies. Each item is scored as follows: 0, 
+not true; 1, somewhat or sometimes true; and, 2, very 
+true or often true. The total score can also be compared 
+with the score of children in normative samples. 
+
+Statistical Analysis 
+
+The TOVA score of each child was compared before 
+and after surgery using a matched 2-tailed t-test. The 
+OSA-18 and the CBCL parental questionnaire scores 
+were compared before and after surgery with a matched 
+2-tailed t-test. A P-value . 
+0.05 was considered significant. 
+
+
+Permission was obtained from the institutional review 
+board for human investigations in our hospital 
+(Helsinki committee). Informed consent was obtained 
+from all parents. 
+
+RESULTS 
+
+A total of 19 children (8 females and 11 males) 
+completed preoperative and postoperative surveys. 
+Mean patient age was 7.97 (range, 5-14). 
+
+The OSA-18, CBCL, and TOVA preoperative and 
+postoperative mean scores are presented in Table 1. 
+There was a significant improvement in the OSA-18 
+scores with a 46% reduction in scores postoperatively 
+reflecting improvement of sleep-related quality of life 
+
+
+Otolaryngology– 
+Head and Neck Surgery 
+
+
+Volume 131 Number 4 AVIOR et al 369 
+
+Table 1. Preoperative and postoperative TOVA, OSA-18 and CBCL scores 
+
+Preoperative Postoperative P value 
+TOVA 2.9 (3.1) 0.4 (2.8) 0.0001 
+OSA-18 66.2 (13.1) 30.4 (10.1) 0.0001 
+CBCL 6.1 (4.7) 3.8 (2.1) 0.018 
+P values using a matched 2-tailed t-test. Improvement was significant in all 3 parameters. 
+Table 2. OSA-18 domains before and after surgery 
+Preoperative Postoperative P value 
+Sleep disturbance 20.1 (5) 5.9 (2.1) 0.0001 
+Physical 17.5 (5.4) 8.1 (4.6) 0.0001 
+symptoms 
+Emotional distress 7.9 (4.8) 6.1 (4.3) 0.085 
+Daytime function 8.3 (3.8) 5 (2.1) 0.002 
+Caregiver concern 12. (3.6) 5 (2.5) 0.0001 
+
+Significance was reached in all parameters except emotional distress. 
+
+(P . 
+0.0001). Sleep disturbance, physical symptoms, 
+and caregiver concerns were the highest rated domains, 
+followed by daytime function and emotional symptoms. 
+The improvement in OSA-18 scores before and 
+after surgery was significant for all domains except for 
+emotional symptoms (Table 2). 
+
+There was a significant change in the mean CBCL 
+score, which showed a significant improvement from 
+
+6.1 before to 3.8 after the operation (P . 
+0.018). This 
+indicates an improvement in attention related items of 
+this questionnaire. 
+All children with the exception of 1, showed significant 
+improvement in their TOVA scores after TA. 
+The mean improvement was from 2.9 preoperatively 
+to 0.4 postoperatively (P . 
+0.0001). 
+
+Prior to surgery, 36% (7/19) of the children had 
+TOVA scores within normal limits. These scores improved 
+significantly after surgery. In addition, 42% 
+(8/19) of the children had preoperative TOVA scores 
+below normal limits that improved into the normal 
+range following surgery. In 21% (4/19) of the children, 
+TOVA scores remained below normal limits postoperatively. 
+Nevertheless, an improvement was observed in 
+all the children except 1 (Fig 1). 
+
+DISCUSSION 
+
+Our understanding of the relationship of SDB in 
+children to learning and behavioral problems is incomplete. 
+Recent studies have suggested an association 
+between poor behavior and neurocognitive performance 
+in children with SDB. These studies also 
+showed that therapeutic surgical intervention resulted 
+in significant improvements in school grades, or in 
+standardized behavioral assessments.1,2,5-7,16 However, 
+
+these studies examined the child’s behavior and neurocognitive 
+performance on the basis of questionnaires, 
+intelligence tests, and school grades. Using these methods, 
+behavior rating is subjective and susceptible to 
+certain biases. In this study, we used the TOVA, which 
+is considered an objective tool used to measure attention 
+in children and to aid in the diagnosis and treatment 
+of ADHD.9-11 This study is the first, to our knowledge 
+to use the TOVA to estimate attention problems in 
+children suffering from OSAS. 
+
+TOVA is widely accepted as an ancillary test for the 
+diagnosis of children with ADHD over 5 years old. It is 
+also used for monitoring medication effectiveness in 
+these children. This test has proved to have test retest 
+reliability; there is no learning effect on repeated administration 
+of the test.10 
+
+This study revealed an association between OSAS and 
+attention problems in children. The TOVA scores prior to 
+surgery in this cohort were pathological in 12/19 (63%) of 
+the children, though they were not previously diagnosed 
+with behavioral problems. This high percentage of pathological 
+TOVA scores in this cohort is alarming especially 
+considering that children that were suspected to have 
+ADHD were excluded from the study. This result may be 
+due to a sampling error in this small group of children. A 
+large longitudinal study is needed to verify the magnitude 
+of this result. Of importance was the significant improvement 
+in the TOVA scores after surgery, paralleling improvement 
+in their SDB as assessed by the OSA-18 questionnaire. 
+This improvement in attention might have a 
+great influence on the child’s daily behavior, quality of 
+life, and school performance, as was demonstrated in 
+other studies. 
+
+
+370 AVIOR et al 
+
+
+Fig 1. TOVA scores in 3 subgroups before and after surgery. 
+Group 1 with normal preoperative and postoperative 
+scores showing improvement. Group 2 with abnormal 
+preoperative scores that improved to the normal 
+range. Group 3 with abnormal preoperative and postoperative 
+scores but still improved. TOVA scores in the whole 
+group (n . 
+19) showed improvement. Scores below the 
+thick dotted line represent abnormal TOVA scores. 
+
+Gozal3 demonstrated a significant change in school 
+performance in children with SDB that underwent 
+TA as compared to a control group of children with 
+SDB that their parents elected not to seek therapeutic 
+intervention. Bluden et al5 showed that compared with 
+controls, children who snore have significantly impaired 
+attention and, although within the normal range, 
+lower memory and intelligence scores. Goldstein et al6 
+demonstrated a high prevalence of abnormal behavior 
+in children undergoing TA for chronic upper airway 
+obstruction. Scores on a standardized measure of be
+
+
+TA.4,6
+
+havior questionnaire improved following 
+Serres et al7 showed a large improvement in at least 
+short-term quality of life in children with OSAS following 
+treatment. 
+
+The present population of children comprised of 3 
+groups according to preoperative TOVA scores. One 
+group had a score within the normal range but still 
+showed an improvement in scores. The abnormal 
+TOVA scores split into 2 groups, 1 with an improvement 
+of scores to the normal range, the other improved 
+
+Otolaryngology– 
+Head and Neck Surgery 
+
+October 2004 
+
+but remained in the abnormal range. If children with 
+behavioral problems are referred for treatment of SDB 
+it should not be taken for granted that the behavioral 
+problems will resolve in all cases. Possible explanation 
+can found in earlier studies. Gozal and Pope17 found a 
+correlation between children with lower academic performance 
+in middle school and snoring in early childhood. 
+They concluded that residual deficits in learning 
+performance may still be detected even several years 
+after snoring has resolved. O’Brien et al18 found an 
+unusually high prevalence of snoring among children 
+with mild symptoms of ADHD. However, in children 
+with severe ADHD there was a similar prevalence of 
+OSA as in the general pediatric population. Thus, the 
+findings of these authors suggest that although OSA can 
+cause mild behavioral effects it does not seem to mimic 
+more severe ADHD symptoms.18 
+
+The patient population in this study was small, but 
+using each child as his/her own control, statistical analysis 
+was possible and significance was reached. The 
+improvements in objective measures coincided to the 
+improvements in the subjective questionnaires. Even in 
+this small group, significance was reached showing 
+improvement in all children using behavioral subjective 
+and objective parameters of ADHD. Using TOVA as an 
+objective measure of ADHD-related behavior may 
+prove to be an important tool in evaluating children 
+with SDB. TA in children with OSA appears to have 
+a positive effect on the child’s ability to pay attention. 
+
+REFERENCES 
+
+1. Marcus CL. Sleep-disordered breathing in children. Am J Respir 
+Crit Care Med 2001;164:16-30. 
+2. Anstead M. Pediatric sleep disorders: new developments and 
+evolving understanding. Curr Opin Pulmon Med 2000;6:501-6. 
+3. Gozal D. Sleep-disordered breathing and school performance in 
+children. Pediatrics 1998;102:616-20. 
+4. Goldstein NA, Post JC, Rosenfeld RM, et al. Impact of tonsillectomy 
+and adenoidectomy on child behavior. Arch Otolaryngol 
+Head Neck Surg 2000;126:494-8. 
+5. Blunden S, Lushington K, Kennedy D, et al. Behavior and 
+neurocognitive performance in children aged 5-10 years who 
+snore compared to controls. J Clin Exp Neuropsychol 
+2000;22:554-68. 
+6. Goldstein NA, Fatima M, Campbell TF, et al. Child behavior and 
+quality of life before and after tonsillectomy and adenoidectomy. 
+Arch Otolaryngol Head Neck Surg 2002;128:770-5. 
+7. Serres LM, Derkay C, Sie K, et al. Impact of adenotonsillectomy 
+on quality of life in children with obstructive sleep disorders. 
+Arch Otolaryngol Head Neck Surg 2002;128:489-96. 
+8. Schatz AM, Ballantyne AO, Trauner DA. Sensitivity and specificity 
+of a computerized test of attention in the diagnosis of 
+attention-deficit/hyperactivity disorder. Assessment 2001; 
+8:35765. 
+9. Wada N, Yamashita Y, Matsuishi T, et al. The test of variables 
+of attention (TOVA) is useful in the diagnosis of Japanese male 
+children with attention deficit hyperactivity disorder. Brain Dev 
+2000;22:378-82. 
+10. Greenberg LM, Wailman ID. Developmental normative data on 
+the test of variables of attention. J Child Psychol Psychiatry 
+1993;34:1019-30. 
+
+Otolaryngology– 
+Head and Neck Surgery 
+
+
+Volume 131 Number 4 
+
+11. Forbes GB. Clinical utility of the test of variables of attention 
+(TOVA) in the diagnosis of attention -deficit/ hyperactivity disorder. 
+J Clin Psychol 1998;54:461-76. 
+12. Franco RA, Rosenfeld RM, Rao M. Quality of life for children 
+with obstructive sleep apnea. Otolaryngol Head Neck Surg 
+2000;123:9-16. 
+13. Sohn H, Rosenfeld RM. Evaluation of sleep disordered breathing 
+in children. Otolaryngol Head Neck Surg 2003;128:344-52. 
+14. Achenbach TM. Manuel for the Child Behavior Checklist/4-18 
+and 1991 Profile. Burlington VT: University of Vermont, Department 
+of Psychiatry; 1991. 
+15. Zilber N, Auerbach J, Lemer J. Israeli norms for the Achenbach 
+AVIOR et al 371 
+
+Child Behavior Checklist: comparison of clinically referred and 
+non-referred children. Isr J Psychiatry Relat Sci 1994;131:5-12. 
+
+16. Hansen DE, Vandenberg B. Neuropsychological features and 
+differential diagnosis of sleep apnea syndrome in children. J Clin 
+Child Psychol 1997;26:304-10. 
+17. Gozal D, Pope DW. Snoring during childhood and academic 
+performance at ages thirteen to fourteen years. Pediatrics 
+2001;107:1394-8. 
+18. O’Brien LM, Holbrook CR, Mervis CB, et al. Sleep and neurobehavioral 
+characteristics of 5-to 7-year-old children with 
+parentally reported symptoms of attention deficit/hyperactivity 
+disorder. Pediatrics 2003;111:554-62. 
+

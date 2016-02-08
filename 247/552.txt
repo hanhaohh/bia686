@@ -1,0 +1,602 @@
+Rapid Maxillary Expansion in Children with Obstructive Sleep Apnea Syndrome 
+
+
+Paola Pirelli, DDS1; Maurizio Saponara, MD2; Christian Guilleminault, MD, Biol D3 
+
+1Department of Odontological Sciences, University Tor Vergata; 2Department of Neurology and ENT, La Sapienza University, Rome Italy; 3Stanford 
+
+University Sleep Disorders Clinic, Stanford, CA, USA 
+
+Objective: To evaluate the effect of rapid maxillary expansion on children 
+with nasal breathing and obstructive sleep apnea syndrome. 
+Method: Recruitment of children with maxillary contraction, without of 
+adenoid hypertrophy, with a body mass index < 24 kg/m2, with obstructive 
+sleep apnea syndrome demonstrated by polysomnography, and whose 
+parents signed informed consent. Otolaryngologic and orthognathic-odontologic 
+evaluation with clinical evaluation, anterior rhinometry and nasal 
+fibroscopy, panoramic radiographs, anteroposterior and laterolateral telecephalometry 
+were performed at entry and follow-up. 
+Intervention: Rapid maxillary expansion (ie, active phase of treatment) 
+was performed for 10 to 20 days; maintenance of device (for consolidation) 
+and orthodontic treatment on teeth lasted 6 to 12 months. 
+Results: 31 children (19 boys), mean age 8.7 years, participated in the 
+
+study. The mean apnea-hypopnea index was 12.2 events per hour. At the 
+4-month follow-up, the anterior rhinometry was normal, and all children 
+had an apnea-hypopnea index < 1 event per hour. The mean cross-sectional 
+expansion of the maxilla was 4.32 ± 0.7 mm. There was a mean 
+increase of the pyriform opening of 1.3 ± 0.3 mm. 
+Conclusion: Rapid maxillary expansion may be a useful approach in 
+dealing with abnormal breathing during sleep. 
+Key Words: Rapid maxillary expansion, obstructive sleep apnea syndrome, 
+children, nasal opening, maxilla 
+Citation: Pirelli P; Saponara M; Guilleminault C. Rapid maxillary expansion 
+in children with obstructive sleep apnea syndrome. SLEEP 2004; 
+27(4):761-6. 
+
+INTRODUCTION 
+
+THE ASSOCIATION BETWEEN OBSTRUCTIVE SLEEP 
+APNEA SYNDROME (OSAS), MAXILLOFACIAL MALFORMATIONS, 
+AND MALOCCLUSIONS HAS ATTRACTED 
+ATTENTION.1 Many patients with OSAS show craniofacial 
+abnormalities involving both the jaws as well as skeletal structures 
+of the respiratory dynamic space.2,3 These aberrations may 
+be apparent very early in life. Nasal septal deviation is known to 
+reduce airflow and increase resistance to nasal breathing. 
+Abnormal nasal resistance can be experimentally induced at birth 
+in monkeys.3-5 When these conditions appear in the first year of 
+life, they can cause a deformation of the upper jaw, affecting its 
+cross-sectional development3,4,6-8 with a resulting reduced jaw 
+size in experimental animals and in humans. 
+
+Nasal septal deviation results in the asymmetric distribution of 
+intranasal space and affects the turbinates. The latter effect in 
+turn causes a reduction of total airflow.3,9-11 The developmental 
+impact of abnormal nasal resistance related to septal deviation 
+early in life, with or without nasal turbinate hypertrophy, is 
+abnormal maxillary development. 
+
+Rapid maxillary expansion (RME) treats upper-jaw constriction.
+11-15 We questioned whether RME treatment for children 
+could improve (1) nasal airflow by decreasing the abnormal nasal 
+resistance and (2) OSAS. 
+
+Disclosure Statement 
+
+No significant financial interest/other relationship to disclose. 
+
+Submitted for publication August 2003 
+Accepted for publication January 2004 
+
+Address correspondence to: C. Guilleminault MD Biol.D, Stanford University 
+Sleep Disorders Clinic, 401 Quarry Road, Suite 3301, Stanford CA 94305; 
+Tel: 650 723 6601; Fax: 650 725 8510; E-mail cguil@leland.stanford.edu 
+
+MATERIALS AND METHODS 
+
+Subject Recruitment 
+
+All children were first seen at an orthodontic clinic. The study 
+had been planned as a prospective investigation, and any child 
+who was new to the clinic and had maxillary constriction, therefore 
+being a candidate for RME, was first sent for otolaryngology 
+(ENT) and sleep laboratory evaluations. Parents were told 
+about the risk of the their children having OSAS with maxillary 
+constriction, were provided with literature on the subject if 
+requested, and underwent the clinical work-up with their child. 
+To be included in the treatment study, the child had to respond to 
+the inclusion and exclusion criteria, and the parents had to sign 
+an informed consent approved by the university’s internal review 
+board. 
+
+Inclusion Criteria 
+
+To be considered for treatment, children had to meet the following 
+criteria. 
+
+• 
+Absence of adenotonsillar hypertrophy 
+• 
+Body mass index16 < 24 kg/m2 
+• 
+Presence of malocclusion characterized by upper jaw contraction 
+such that RME would be an appropriate treatment 
+based on orthodontic findings 
+• 
+Presence of oral breathing, nocturnal snoring, and OSAS 
+based on polysomnography 
+• 
+Parental signatures on an informed consent approved by an 
+ethics committee 
+Exclusion Criteria 
+
+Any child who was not compliant with the treatment and 
+scheduled follow-up evaluations could be excluded from the 
+study. 
+
+SLEEP, Vol. 27, No. 4, 2004 
+761 Rapid Maxillary Expansion in Children with OSAS—Pirelli et al 
+
+
+Evaluation The Procedure Used in the Study 
+
+
+All of the children received (1) clinical ENT evaluations, 
+active anterior rhinomanometry, and nasal fibroscopy and (2) 
+clinical and radiologic orthodontic evaluations. 
+
+Panoramic dental radiographs and posterior-anterior and lateral 
+cephalometric radiographs were obtained at the initial examination 
+to assess malocclusion. An intraoral radiographic series 
+was also obtained.17-19 Posterior-anterior cephalometric radiographs 
+were analyzed using E. Gianni’s recommendations17 and 
+Ricketts parameters.18,19 
+
+A validated pediatric sleep questionnaire was used to evaluate 
+daytime sleepiness and fatigue.20,21 Polysomnography was 
+recorded using 19 channels. Sleep-wake states were based on 
+electroencephalogram, electrooculogram, electromyogram, electrocardiogram, 
+and body position. Respiration was monitored by 
+nasal and oral flow, thoracic and abdominal movements, snoring 
+noise and pulse oximetry.22 Polysomnograms were analyzed following 
+the Rechtschaffen and Kales international criteria for 
+sleep-wake scoring23 and the American Academy of Sleep 
+Medicine recommendation for the scoring of breathing events.22 
+Abnormal events were considered present if longer than 2 breaths 
+in duration. Events were classified as apnea or hypopnea based 
+on airflow and as obstructive, mixed, or central, based on thoracoabdominal 
+movements and airflow. 
+
+These different evaluations were carried out at entry before any 
+orthodontic therapy (T0), after 4 to 6 weeks with the device (T1), 
+and 4 months after the end of the orthodontic treatment (T2), 
+which lasted 6 to 12 months depending on the child. 
+
+Tool 
+
+RME is an orthodontic procedure that uses a fixed appliance 
+with an expansion screw anchored on selected teeth. The central 
+expansion screw has a diameter of 1.5 mm and 4 arms for anchoring 
+to the teeth. A heavy force (about 1 kg) should be applicable 
+to the anchor teeth to act directly on the palatal suture, without 
+any undesired tooth movement. This anchoring area thus results 
+in a transpalatal force that exceeds the physiologic level that normally 
+leads to orthodontic movement. Here, maxillary orthopedic 
+movement is obtained by reopening the midpalatal suture. 
+Osteoids development occurs at the borders of the palatal process, 
+and a normal mineralized suture is built up again at the end 
+of the expansion, usually after 3 or 4 months.10,11 
+
+Because the goal is to increase the transversal diameter of the 
+hard palate, dental arch tipping must absolutely be avoided.10-12 
+The device must not be bulky but, instead, must be strong and 
+well fit to the anchorage. The expansion screw must be as high as 
+possible toward the palate. The effectiveness of the RME 
+depends on the amount of force and on the duration of applica
+
+
+tion.10,11 
+
+Anchor Teeth 
+
+The anchor teeth are selected according to the phase of development 
+of the teeth. Commonly, the first molars and permanent 
+premolars are selected as anchor teeth in older children. In deciduous 
+teeth, the second molars are selected, provided that they 
+offer stability. 
+
+An activation of the device consisted of turning the central 
+screw to apply force on the anchor teeth to separate the palatal 
+suture. On the morning of Day One, 3 consecutive activations 
+were performed at 10-minute intervals, and 3 activations were 
+performed in the evening, again at 10-minute intervals. 
+
+From Day 2 onward, the parents performed 1 activation, morning 
+and evening. Activation consisted of turning the central screw 
+in a predetermined direction. At T0, before any movement, an 
+intraoral occlusal radiograph was obtained, and a new one was 
+performed 3 days after the beginning of activation (at T0 + 3). 
+This intraoral occlusal radiograph verified the movement and 
+opening of the midpalatal suture and confirmed the appropriateness 
+of the device placement, allowing the safe continuation of 
+expansion. 
+
+Duration of the Expansion 
+
+The active expansion ranged from 10 to 20 days in duration 
+based on the original narrowness of the maxilla and the predetermined 
+individual needs and possibilities. The amount of expansion 
+was usually aimed at 1 mm per day. Once the active phase 
+was over, a fixed retention phase, with the device kept in place, 
+lasted from 6 to 12 months. 
+
+Special Attention 
+
+Important oral hygiene information was given to the child and 
+parents. Recommendations concerning the active phase of the 
+activation were also provided. 
+
+Statistical Analysis 
+
+Wilcoxon signed rank test was used to compare before and 
+after treatment parameters. The statistical software package SPSS 
+version 10 (SPSS, Inc. Chicago, Ill) was used for the analysis. 
+
+RESULTS 
+
+One hundred successively seen children with maxillary constriction 
+were first sent to ENT and sleep laboratory evaluations. 
+Thirty-one children met the criteria for inclusion: they had no 
+adenotonsillar hypertrophy. In 22 children, this was due to prior 
+adenotonsillectomy performed earlier in life, usually for recurrent 
+tonsillitis or otitis, without investigation of presence or 
+absence of OSAS at the time of surgery; in 9 children, no adenotonsillar 
+hypertrophy was seen. These 31 children (19 boys) had 
+a mean age of 8.68 years (range: 6-12 years). 
+
+The other 69 children were subdivided in 2 groups. Twenty-six 
+presented with OSAS and adenotonsillar hypertrophy and, per 
+protocol definition, were excluded from the study. Forty-three 
+snored intermittently without demonstration of a pathologic 
+apnea-hypopnea index (AHI) on polysomnography. All parents 
+of the eligible children signed the informed consent. There were 
+no dropouts and no exclusions. All children completed the treatment. 
+
+
+SLEEP, Vol. 27, No. 4, 2004 762 Rapid Maxillary Expansion in Children with OSAS—Pirelli et al 
+
+
+AT T0 
+
+Orthodontic Evaluation 
+
+Extraoral Examination 
+
+All of the children presented a flattening of the middle third 
+part of the face and were mouth breathers during wakefulness 
+and sleep. The 31 children were distributed in the 3 skeletal classes 
+that are based on skeletal sagittal relationship (Class I, n = 9; 
+class II, n = 14; class III, n = 8). This distribution in all 3 classes 
+was expected, as maxillary constriction is an abnormality of the 
+transversal diameter. 
+
+Intraoral Examination 
+
+All of the children demonstrated a contraction of the upper jaw 
+resulting from a high and narrow palatal arch. It was associated 
+with malocclusion characterized by unilateral or bilateral cross-
+bite. Cephalometric radiographs confirmed the constriction of the 
+upper jaw. 
+
+The ENT evaluation indicated the absence of the adenoids, as 
+shown by nasopharyngoscopy and absence of tonsils. Twenty-
+two children previously had adenotonsillectomy or tonsillectomy, 
+and 9 children had normal appearing. 
+
+Anterior rhinoscopy indicated nasal septal deviation with 
+hypertrophy of the inferior nasal turbinates in 23 patients and isolated 
+septal deviation in 8 patients. 
+
+Active anterior rhinoscopy indicated pathologic nasal resistance 
+> 1.8 Pascal per cubic centimeter of water, with bilateral 
+nasal breathing difficulties in 26 patients and unilateral nasal 
+obstruction in 5 patients. 
+
+Prick allergy testing was negative for major perennial and seasonal 
+allergies for all of the children. 
+
+All of the children reported daytime tiredness and were known 
+snorers. Polysomnography demonstrated the presence of obstructive 
+breathing during sleep. The mean AHI, defined as the number 
+of events per hour of sleep, was 12.2 events per hour, with a 
+range of 5.7 to 21.1 events per hour. Three subgroups were created 
+based on AHI. Group A consisted of 7 children with an AHI 
+> 5 and < 10 events per hour. Group B had 20 children with an 
+
+Table 1—Polysomnographic Data for 31 Subjects 
+
+Polysomnographic T0 T1 T2 
+Parameter 
+
+
+Obstructive apnea-hypopnea 
+index 12.18 ± 2.6 9.8 ± 2.7 0.4 ± 1.1 
+
+Range 5.7-21.1 0-8.1 0-2.1 
+Nadir SpO2, % 78.5 ± 8.2 89.6 ± 5.9 95.3 ± 1.7 
+Duration of longest 35.2 ± 18.6 28.3 ± 14.1 12.6 ± 7.4 
+obstructive apnea, sec 
+Duration of desaturation 19.7 ± 3.5 6.6 ± 1.9 1.3 ± 1.1 
+(SpO2 < 92%), % total 
+sleep time 
+Sleep efficiency, % 87.1 ± 8.8 88.6 ± 6.4 89.2 ± 7.7 
+
+T0 refers to time before any orthodontic therapy; T1, after 4 to 6 weeks 
+with the device; T2, 4 months after the end of the orthodontic treatment. 
+All data are displayed as mean ± SD, unless otherwise indicated. 
+
+AHI = 10 and < 15 events per hour (mean = 12.4). Group C had 
+4 children with an AHI = 15 events per hour (mean = 18.3). All 
+apneas and hypopneas were mixed and obstructive. 
+
+AT T1 
+
+ENT Evaluation 
+
+Twenty-one of the 26 children with bilateral resistance and all 
+of the children (n = 5) with unilateral resistance at T0 had normal 
+nasal resistance at T1 (Wilcoxon z = -4.86, P= .0001). 
+
+Polysomnography 
+
+Twenty-nine of the 31 children had an AHI < 5. The other 2 
+children, both in Group C, had an AHI of 6.3 and 8.1 events per 
+hour, respectively, from an initial AHI of 19.6 and 21.1 
+(Wilcoxon z = -4.0, P= .0001). (see table 1) 
+
+AT T2 
+
+The ENT and polysomnographic evaluations demonstrated further 
+improvement with significant difference not only from T0, 
+but also from T1. Compared to T1, anterior rhinometry demonstrated 
+a further decrease in nasal resistance in all of the children 
+(Wilcoxon z = -5.39, P= .0001), with complete absence of any 
+pathologic reading (Figures 1 and 2). 
+
+Polysomnography indicated an AHI of less than 1 event per 
+hour in all cases (T1 vs T2, Wilcoxon z = -2.0, P= .046). 
+
+The anatomic changes on the upper jaw and nasal septum were 
+based mostly on the posterior-anterior cephalometric evaluations 
+(Figures 1 and 2). Lateral cephalograms and intraoral occlusal 
+radiographs were also obtained to confirm the opening of the 
+midpalatal suture. 
+
+The expansion of the maxilla and mandible after RME had a 
+mean cross-sectional increase (jL-jR distance)16,17 of 4.32 ± 0.7 
+mm. The study of the upper molar distance showed an average 
+increase of 3.89 ± 0.3 mm, which associated with poor vestibular 
+tipping due to rapid expansion. Consequent to midpalatal opening, 
+a hallmark of the procedure, an interincisive space was 
+always present, with a mean opening of 2.97 ± 0.2 mm. This 
+interincisive opening, always of concern to parents, gradually 
+disappeared due to transceptal fiber movement in all cases. 
+Orthodontic therapy can speed up this movement but is usually 
+unnecessary. 
+
+Finally, RME had an impact on the nasal cavities, with a mean 
+increase of the nasal pyriform opening of 1.3 ± 0.3 mm (Figure 
+3). None of the children presented any problem with RME. They 
+
+Figure 1—Face and profile of a child before treatment and profile of 
+same child after treatment. 
+SLEEP, Vol. 27, No. 4, 2004 763 Rapid Maxillary Expansion in Children with OSAS—Pirelli et al 
+
+
+tolerated both the activation procedure and the stabilization phase 
+well. 
+
+DISCUSSION 
+
+RME is a well-known procedure that has been used by different 
+groups for many years in children with orthodontic problems.
+10-15,24-26 It is aimed at skeletal expansion of the upper jaw. 
+The technique consists of the application of orthopedic force to 
+the midpalatal suture. This anatomic area comprises mainly compact 
+bone laterally and fibrous tissue with fibroblasts, collagen 
+fibers, and blood vessels centrally.9,27-30 RME results in maxillary 
+widening by distraction osteogenesis, which was defined more 
+
+Figure 2—Occlusal sequence of treatment with rapid maxillary expan-
+sion, from crowding in the upper central incisors (upper left) to a wide 
+space (lower image). Note how the palatal vault has changed. 
+than 100 years ago by Gavriel Ilizarov31 as “mechanical induction 
+of new bone between two bony surfaces that are gradually 
+distracted.” Histologic investigation demonstrates that the application 
+of strong forces, through an orthodontic device anchored 
+to the teeth, rearranges the central zone, with the collagen fibers 
+arranging in the direction of the distraction, and a progressive 
+ossification occurs. A child can withstand up to 1 mm of expansion 
+daily, but the speed of expansion varies. The bone distraction 
+at suture level causes an actual widening of the maxilla with 
+increasing of the cross-section as well as the volumetric space of 
+the nasal cavity. Radiographs of the region clearly indicate that 
+RME moves nasal and palatal bones. The total expansion effect 
+consists of a downward and forward movement of the maxillary 
+complex with a resulting increase in the nasal canal with an 
+improvement in nasal airflow. 
+
+Since 1984, Timms13,14,25 has published several articles documenting 
+the subjective and then objective improvement of nasal 
+resistance in 10- to 20-year-olds using rhinometry.13,25 This 
+author even noted an improvement of nocturnal enuresis with 
+RME but never made the connection with OSAS. Kural et al24 
+also reported improvement of nasal resistance in 10 prospectively 
+studied children, 8 to 13 years old, treated with RME. 
+
+RME and associated orthodontic movements can also indirectly 
+improve the oropharyngeal space by modifying the resting 
+posture of the tongue.3,11,32 
+
+Guilleminault et al,33 in a recent review of 400 children with 
+OSAS treated by ENT surgeons, found that about 20% had residual 
+problems after undergoing ENT operations. These incidents 
+were associated with abnormal craniofacial features and untreated 
+nasal resistance. Guilleminault et al34 and more recently 
+
+
+Figure 3—Posteroanterior cephalograms and cephalometric tracings before and after rapid maxillary expansion. The left image presents the anatomic 
+structures before any distraction. As can be seen, the maxillary arch is narrow, the midpalatal suture cannot be seen, and the image of the inferior 
+turbinate on the left is very close to the septum (*). On the right of the figure, the results at the end of the distraction can be seen: Note the anatomic 
+changes—the skeletal expansion, caused by the maneuver, has opened the maxillary arch. The wide-open distractor (+) can be seen, and the mid-
+palatal structure (***) is open. The inferior turbinate (**) on the left side is further apart from the septum compared to before treatment, indicating 
+the changes that also occur in the nasal cavity. The drawing in between the 2 radiographs superimposes the 2 images to emphasize the pyriform 
+opening and the widening of the nasal cavity with lateral and external displacement of the inferior nasal turbinates. The anatomic change occurs not 
+only in the maxillary arch, but also in the nasal cavity. 
+
+SLEEP, Vol. 27, No. 4, 2004 764 Rapid Maxillary Expansion in Children with OSAS—Pirelli et al 
+
+
+Tasker et al35 have shown that years after adenotonsillectomy 
+performed in childhood, sleep-disordered breathing may be 
+found and may mark the beginning of OSAS in adulthood. In 
+Guilleminault et al’s patients,34 untreated craniofacial problems 
+were at the basis of the long-term abnormal breathing during 
+sleep. 
+
+As previously shown, RME does not always improve nasal airway 
+and nasal resistance. Warren et al,26 who performed a 
+prospective study on 16 children aged 10 to 14 years, demonstrated 
+improvement in only 45% of cases. One must remember 
+that abnormal nasal resistance will have an impact not only on the 
+maxilla, but also on the mandible. Despite a change in tongue 
+position with RME, the gain may not be sufficient. The width of 
+the mandible should be considered when RME is performed, as 
+upper and lower teeth must be in apposition. Combined treatment 
+on the maxilla and mandible, as recently presented by 
+Guilleminault and Li,36 may be necessary. However, RME may 
+be a useful approach in dealing with abnormal breathing during 
+sleep. It may be very helpful for patients with septal deviation, a 
+problem that is often congenital and perhaps genetically determined. 
+Septal surgery is not indicated in children, but abnormal 
+nasal resistance can lead to maxillary deficiency early in life, and 
+both problems may be addressed with RME. 
+
+Finally despite prior work that has been published on RME,1315,25 
+this was the first prospective study on children with OSAS. 
+We were cautious in our approach and selected only children 
+without enlarged adenoids and tonsils. Our results indicate that 
+RME is a very valid treatment of OSAS in children without 
+enlarged tonsils and adenoids. It was, in our hands, without complication. 
+Parents need to supervise their children’s treatment and 
+help maintain good dental hygiene during the distraction and as 
+long as the distractor is in place. 
+
+We did not enlist children with enlarged adenoids and tonsils in 
+this first study, and we cannot indicate if RME should be the first 
+treatment approach even in children with adenotonsillar enlargement. 
+This first study, however, allowed us to calculate the power 
+needed for our on-going second prospective randomized study 
+with RME and adenotonsillectomy as the 2 randomly selected 
+first treatment approaches. 
+
+REFERENCES 
+
+1. 
+Guilleminault C, Khramtsov A. Upper airway resistance syndrome 
+in children: a clinical review. Semin Pediatr Neurol 2001;8:207-15. 
+2. 
+Fransson AM, Tegelberg A, Svenson BA, Lennartsson B, Isacsson 
+G. Influence of mandibular protruding device on airway passages 
+and dentofacial characteristics in obstructive sleep apnea and snoring. 
+Am J Orthod Dentofacial Orthop 2002;122:371-9. 
+3. 
+Harvold EP, Tomer BS, Vargervik K, Chierici G. Primate experiments 
+on oral respiration. Am J Orthod 1981;79:359-72. 
+4. 
+Vargervik K, Miller AJ, Chierici G, Harvold E, Tomer BS. 
+Morphomological changes in neuro-muscular patterns experimentally 
+induced by altered mode of respiration. Am J Orthod 
+1984;85:115-24. 
+5. 
+Miller AJ, Vargervik K, Chierici G. Sequential neuromuscular 
+changes on rhesus monkey during the initial adaptation to oral respiration. 
+Am J Orthod 1982;81:99-107. 
+6. 
+Linder-Aronson S. Dimensions of face and palate in nose breathers 
+and habitual mouth breathers. Odont Rev 1969;14:187-200. 
+7. 
+Rubin RM. Effects of nasal airway obstruction on the nasal growth. 
+Ear Nose Throat J 1987;66:212-27. 
+8. 
+Pirelli P. Respirazione orale e sviluppo cranio facciale: importanza 
+dell'approccio interdisciplinare. Mond Ortodont 1996;21:265-75. 
+9. 
+Melsen B. Histological analysis of postnatal development of the 
+nasal septum. Angle Orthod 1977;47:83. 
+10. Pirelli P, Giancotti A, Pirelli M. ERM: effetti strutturali e ripercussioni 
+sul setto nasale. Mond Ortodont 1996;21:351-60. 
+11. 
+Pirelli P, Marullo M, Casagrande M, Tornaghi M. Espansione rapida 
+del mascellare: effetti sulla funzionalità respiratoria ed uditiva. 
+Mond Ortodont 1995;20:129-35. 
+12. 
+Pirelli P. Suture craniofacciali e Ortognatodonzia:applicazioni 
+cliniche. Mond Ortodont 1996;21:339-50. 
+13. Timms DJ. The reduction of nasal airway resistance by rapid maxillary 
+expansion and its effect on respiratory disease. J Laryngol Otol 
+1984;98:357-62. 
+14. Timms DJ. The effect of rapid maxillary expansion on nasal airway 
+resistance. Br J Orthod 1986;13:221-8. 
+15. Cistulli PA. Palmisano RG, Poole MD. Treatment of obstructive 
+sleep apnea syndrome by rapid maxillary expansion. Sleep 
+1998;21:831-5. 
+16. Hammer LD, Kraemer HC, Wilson DM, Ritter PL, Dornbusch SM. 
+Standardized percentiles curves of body mass index for children and 
+adolescents. Am J Dis Child 1991;145:259-63. 
+17. Gianni E. La nuova Ortognatodonzia. Padova: Piccin; 1980. 
+18. Langlade M. Cefalometria Ortodontica. Milan: Scienza e Tecnica 
+Dentistica; 1979. 
+19. 
+Stricker M, Rafael B. Croissance Cranio-Faciale Normale et 
+Pathologique. Reims: Morfos; 1993. 
+20. Chervin RD, Hedger KM, Dillon JE,Pituch KJ. Pediatric Sleep 
+Questionnaire (PSQ): validity and reliability of scales for sleep-disordered 
+breathing, snoring, sleepiness, and behavioral problems. 
+Sleep Med 2000;1:21-32. 
+21. Archbold KH, Pituch KJ, Panabi P, Chervin RD. Symptoms of sleep 
+disturbance among children at two general pediatric clinics. J 
+Pediatr 2002;140:97-102. 
+22. Sleep-related breathing disorders in adults: recommendations for 
+syndrome definition and measurement techniques in clinical 
+research. The Report of an American Academy of Sleep Medicine 
+Task Force. Sleep 1999;22:667-89. 
+23. 
+Rechtschaffen A, Kales A, eds. A Manual of Standardized 
+Terminology, Techniques, and Scoring System for Sleep Stages of 
+Human Subjects. Los Angeles: Brain Information Service/ Brain 
+Research Institute, UCLA; 1968. 
+24. Kurol J, Modin H, Bjerkhoel A. Orthodontic maxillary expansion 
+and its effect on nocturnal enuresis. Angle Orthod 1998;68:225-32. 
+25. Timms DJ. Rapid maxillary expansion in the treatment of nocturnal 
+enuresis. Angle Orthod 1990;60:229-34. 
+26. Warren DW, Hershey HG, Turvey TA, Hinton VA, Hairfield WM. 
+The nasal airway following maxillary expansion. Am J Orthod 
+Dentofacial Orthop 1987;91:111-6. 
+27. Pirelli P, Arcuri C, Cocchia D, Tonoli A. Considerazioni sulla sinostosi 
+della sutura mesiopalatina dell'uomo: studio istologico. 
+Ortognatodon Ital 1993;2:111-5. 
+28. Pirelli P, Botti F, Arcuri C, Ragazzoni E, Cocchia D. New morphologic 
+data on the human palatal suture. Acts 72°Congress-Eur. 
+Orthod Soc, Brighton: England, 1996. 
+29. Pirelli P, Arcuri C, Botti F, Ragazzioni E, Cocchia D. Role of the 
+midpalatal suture in the orthopaedic therapy: histologic data . Acts 
+II International Congress on Cranial and Facial Bone Distraction 
+Processes. Paris France, 1999:365-9. 
+30. Pirelli P, Ragazzioni E, Botti F, Arcuri C, Cocchia DA. Light microscopic 
+investigation of the human palatal suture. Ital J Anat Embriol 
+1999;104:11-8. 
+31. "Ilizarov GA. The principles of the Ilizarov method". Bull Hosp Jt 
+Dis Orthop Inst 1988;48:1-11. 
+32. Principato JJ. Upper airway obstruction and craniofacial morphology. 
+Otolaryngol Head Neck Surg 1991;104:881-90. 
+33. Guilleminault C, Li KK, Khramtsov A, Pelayo R, Martinez S. Sleep-
+disordered breathing: surgical outcome in prepubertal children 
+Laryngoscope 2004; 114:132-137 
+SLEEP, Vol. 27, No. 4, 2004 
+765 Rapid Maxillary Expansion in Children with OSAS—Pirelli et al 
+
+
+34. Guilleminault C, Partinen M, Praud JP. Quera-Salva MA, Powell N, 
+Riley R. Morphometric facial changes and obstructive sleep apnea 
+in adolescents. J Pediatr 1989;114:997-9. 
+35. Tasker C, Crosby JH, Stradling JR. Evidence for persistence of 
+upper airway narrowing during sleep 12 years after adenotonsillectomy. 
+Arch Dis Child 2002;86:34-7. 
+36. Guilleminault C, Li KK. Maxillomandibular expansion for the treatment 
+of sleep-disordered breathing: preliminary result. 
+Laryngoscope (in press). 
+SLEEP, Vol. 27, No. 4, 2004 766 Rapid Maxillary Expansion in Children with OSAS—Pirelli et al 
+
+

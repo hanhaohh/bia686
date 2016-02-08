@@ -1,0 +1,690 @@
+Journal of Pediatric Urology (2008) 4, 197e202 
+
+
+Symptoms 
+of 
+sleep-disordered 
+breathing 
+in 
+children 
+with 
+nocturnal 
+enuresis 
+
+
+Jessica 
+Stone 
+a, 
+Padraig 
+S.J. 
+Malone 
+b,*, 
+Diane 
+Atwill 
+c, 
+Victoria 
+McGrigor 
+c, 
+Catherine 
+M. 
+Hill 
+d 
+
+
+a University 
+of 
+Southampton 
+School 
+of 
+Medicine, 
+Southampton, 
+UK 
+b Department 
+of 
+Paediatric 
+Nephro-Urology, 
+G 
+Level, 
+Southampton 
+General 
+Hospital, 
+Tremona 
+Road, 
+Southampton 
+SO16 
+6YD, 
+UK 
+c Department 
+of 
+Community 
+Child 
+Health, 
+Southampton 
+City 
+Primary 
+Care 
+NHS 
+Trust, 
+Southampton, 
+UK 
+d Division 
+of 
+Clinical 
+Neurosciences, 
+University 
+of 
+Southampton 
+School 
+of 
+Medicine, 
+Southampton, 
+UK 
+
+
+Received 1 November 2007; accepted 9 November 2007 
+Available online 22 January 2008 
+
+KEYWORDS 
+Abstract 
+Objectives: 
+There is an association between sleep-disordered breathing (SDB) and 
+Nocturnal enuresis; nocturia in adults, raising the question as to whether SDB could play a role in the aetiology of 
+Sleep disordered nocturnal enuresis (NE) in children. The aim of this study was to determine whether there is an 
+breathing association between these two conditions. 
+Methods: 
+The study group comprised 40 patients, aged 5e15 years, with enuresis and the 
+control group 40 children undergoing routine day-case surgery. Subjects completed a Pediatric 
+Sleep Questionnaire (PSQ) and a questionnaire assessing lower tract symptoms. Categorical 
+variables were analysed using Pearson’s Xi2 test, and group differences for continuous variables 
+using ManneWhitney and KruskaleWallis tests or t-tests according to the distribution 
+of data. 
+Results: 
+The groups were well matched. Patients with NE had significantly higher total PSQ 
+scores (P 
+< 
+0.001). PSQ subscales relating to daytime sleepiness (P 
+< 
+0.003) and daytime 
+behaviour (P 
+< 
+0.000) were significantly worse in NE patients. The snoring subscale was not 
+statistically different (P 
+< 
+0.051), but a comparison of females alone showed a highly significant 
+difference (P 
+< 
+0.001) with higher snoring subscale scores in girls with NE. 
+Conclusion: 
+Children with NE had significantly higher PSQ scores. The data suggest an 
+association between NE and SDB in girls. The significantly higher level of reports of daytime 
+sleepiness and behavioural problems in all NE children warrants further study to determine 
+the potential causative pathways and clinical relevance of these findings. SDB could be usefully 
+assessed in children with NE, particularly when they do not respond to standard treatment. 
+ª 
+2007 Journal of Pediatric Urology Company. Published by Elsevier Ltd. All rights reserved. 
+
+* Corresponding author. Tel.: þ44 23 80 796744; fax: þ44 23 80 794008. 
+E-mail 
+address: 
+psjm@talk21.com (P.S.J. Malone). 
+1477-5131/$34 ª 
+2007 Journal of Pediatric Urology Company. Published by Elsevier Ltd. All rights reserved. 
+doi:10.1016/j.jpurol.2007.11.011 
+
+
+J. Stone et al. 
+Introduction 
+
+
+Nocturnal enuresis (NE) and sleep-disordered breathing 
+(SDB) are common problems during childhood. NE affects 
+between 2% and 15% of 5e15 year olds [1]. SDB is a term 
+that describes a spectrum of upper airway obstruction in 
+sleep from primary snoring, which is reported in 10% of 
+pre-school children [2], to obstructive sleep apnoea 
+with community prevalence rates between 0.9% and 
+4.3% [3]. There is a recognized link between SDB and 
+polyuria/nocturia in adults [4e7]. Thus it would be fair 
+to hypothesize that the nocturnal polyuria frequently 
+seen in children with NE could be associated with SDB 
+[8]. The aetiology of monosymptomatic nocturnal enuresis 
+(MNE) is multifactorial, but one factor is thought to 
+be a lack of nocturnal arginine vasopressin (AVP) release 
+causing polyuria [9]. This finding has led to the use of 
+desmopressin (dDAVP), an AVP analogue that reduces 
+urine production and increases urine concentration, in 
+the treatment of NE [10]. Studies have shown a high success 
+rate with dDAVP treatment over placebo, with 70% 
+improvement in the number of dry nights, but only 
+24.5% of children became completely dry [11]. This suggests 
+a non-AVP mechanism causing nocturnal polyuria 
+in some children. One possible mechanism is increased 
+nocturnal atrial naturetic peptide (ANP) secretion, as 
+seen in adults with SDB [5]. 
+
+Recent literature indicates an association between SDB 
+and NE. Studies have principally focused on uncontrolled 
+clinical populations of children with SDB either undergoing 
+assessment in sleep laboratories [12] or adenotonsillectomy 
+[13]. A causative relationship is inferred from 
+evidence that nocturnal enuresis ameliorates following 
+adenotonsillectomy [14], although lack of control data 
+in these studies limits their conclusions. Compelling evidence 
+for an association between SDB and NE was reported 
+in a large Greek community sample of children 
+aged 5e14 years [2]. Children with habitual snoring 
+were 4 times more likely than those who did not regularly 
+snore to have primary enuresis. The study had 
+some limitations, however, as it did not use an SDB 
+screening tool sensitive to case definition for obstructive 
+sleep apnoea, and it is known that snoring symptomatology 
+alone correlates poorly with objective (polysomnographic) 
+findings [15]. We aimed to study the 
+prevalence of SDB using a validated screening tool in 
+a controlled clinical population of children with well classified 
+enuresis. 
+
+Patients 
+and 
+methods 
+
+
+Ethical approval was obtained from the Isle of Wight, 
+Portsmouth and South-east Hampshire Research Ethics 
+Committee. 
+
+Study 
+population 
+
+
+Children aged 5e15 years attending a community enuretic 
+clinic were enrolled in the study. A control group was recruited 
+from children undergoing routine elective day-
+case surgery not related to the urinary tract or ear, nose 
+
+and throat conditions. Controls were selected to be similar 
+with respect to age and gender. 
+
+Measures 
+
+
+All parents completed the Pediatric Sleep Questionnaire 
+(Appendix A) [16], a brief screening questionnaire for childhood 
+SDB where a score of >0.33 (positive response scores 1 
+and negative 0) has a sensitivity of 0.85 and specificity of 
+
+0.81 for a commonly used clinical threshold for diagnosis 
+of obstructive sleep apnoea (apnoea/hypopnoea index 
+>5/h). Snoring (Q 1e4), sleepiness (Q 10e13) and behavioural 
+subscales (final 6 items) within the PSQ can be separately 
+analysed as factors such as NE may independently 
+disrupt sleep and cause behavioural problems and somnolence 
+during the day [17]. These subscales are of value in 
+the study of children with NE, as the enuresis may independently 
+disrupt sleep leading to behavioural problems and 
+somnolence during the day [17]. NE was classified as primary 
+or secondary, mono or non-monosymptomatic and 
+by severity (mild, 2/week; moderate, 2e4/week; severe, 
+>5/week). 
+Statistical 
+analysis 
+
+
+Data were analysed using SPSS for windows (v.14). Data 
+were examined for normality using the ShapiroeWilk test. 
+Dichotomous group variables were analysed using Pearson’s 
+Xi2 test. Group difference for non-parametric continuous 
+variables (e.g. total PSQ scores) were analysed using 
+ManneWhitney and KruskaleWallis tests and between parametric 
+variables using t-tests. Significance limits were set 
+at P 
+< 
+0.05. 
+
+Results 
+
+
+Forty study patients and 40 control patients were successfully 
+recruited. There were no significant group differences 
+in age and gender (Table 1). 
+
+PSQ 
+scores 
+
+
+Total PSQ (P 
+< 
+0.001), daytime sleepiness (P 
+< 
+0.003) and 
+behavioural subscale scores (P 
+< 
+0.000) were highly significantly 
+different between the groups, with enuretic children 
+exhibiting more problems (Figs. 1e3). The snoring subscale 
+did not quite reach significance (P 
+Z 
+0.051) between the 
+groups (Fig. 4). This suggests that the total PSQ score 
+
+
+Table 
+1 
+Demographic data: age and gender of enuretic 
+
+and control groups 
+
+
+Age group (years) Nocturnal enuresis Control 
+Male Female Male Female 
+5e8 13 6 10 6 
+9e12 12 2 12 4 
+13e15 6 1 6 2 
+Total 31 9 28 12 
+
+
+SDB and nocturia in children 
+
+6.00 
+
+5.00
+
+PSQ behaviour sub-scale 
+Nocturnal enuresis Control 
+
+Nocturnal enuresis or control 
+
+
+Total PSQ score
+
+4.00 
+
+3.00 
+
+2.00 
+
+1.00 
+
+0.00 
+
+Figure 
+1 
+Total PSQ score in enuresis and control groups. 
+ManneWhitney U: P 
+Z 
+0.000. 
+
+differences between cases and controls are mainly driven 
+by the behavioural characteristics and daytime sleepiness 
+of the enuretic children. 
+
+Characteristics 
+of 
+the 
+enuretic 
+group 
+
+
+Further analysis of the enuretic group failed to show any 
+significant differences in total or subscale PSQ scores by 
+type of enuresis (primary n 
+Z 
+33), severity of enuresis (mild 
+n 
+Z 
+23, moderate, n 
+Z 
+6, severe n 
+Z 
+11) or whether the 
+enuresis was monosymptomatic (n 
+Z 
+33). Analysis by gender 
+showed a highly significant difference for the PSQ snoring 
+subscale with females having higher scores (females 
+n 
+Z 
+9: mean 2.78, SEM 0.49; males n 
+Z 
+31: mean 0.77, 
+SEM 0.22; P 
+< 
+0.003). There were no significant differences 
+
+Nocturnal enuresis Control 
+
+Nocturnal enuresis or control 
+
+Figure 
+3 
+PSQ behavioural subscale score in enuresis and control 
+groups. ManneWhitney U: P 
+Z 
+0.000. 
+
+in age or body mass index centile (males: mean 53.3, SD 
+28.8; females: mean 65.4, SD 32.7) between the genders 
+to explain these findings. The significance of these findings 
+was confirmed by a highly significant difference in snoring 
+subscales (P 
+< 
+0.001) seen when the nine enuretic girls 
+were compared to the 11 female controls (Fig. 5). 
+
+Discussion 
+
+
+To the best of our knowledge this is the first study to 
+examine the prevalence of SDB symptoms in a controlled 
+clinical sample of enuretic children. Patients with NE had 
+significantly higher total PSQ scores compared to controls 
+(P 
+< 
+0.001). No significant differences were found between 
+enuretic children based on characteristics such as primary 
+
+4.00 
+2.00 
+0.00 
+PSQ day-time sleepiness sub-scale 
+77 
+67 
+PSQ behaviour sub-scale 
+
+6.00 
+
+5.00 
+
+4.00 
+
+3.00 
+
+2.00 
+
+1.00 
+
+0.00 
+
+
+Nocturnal enuresis Control Nocturnal enuresis Control 
+
+Nocturnal enuresis or control Nocturnal enuresis or control 
+
+Figure 
+2 
+PSQ day-time sleepiness subscale score in enuresis Figure 
+4 
+PSQ snoring subscale score in enuresis and control 
+and control groups. ManneWhitney U: PZ0.003. groups. ManneWhitney U: P 
+Z 
+0.051. 
+
+
+J. Stone et al. 
+ControlNocturnal enuresis 
+Nocturnal enuresis or control 
+4.00 
+2.00 
+0.00 
+PSQ snoring sub-scale52 
+* 
+Figure 
+5 
+PSQ snoring subscale score for enuretic and control 
+girls. ManneWhitney U: P 
+Z 
+0.001. 
+
+and secondary enuresis, MNE and non-MNE, severity or age. 
+There was a highly significant gender difference on the 
+snoring subscale alone suggesting increased prevalence of 
+snoring amongst females. 
+
+These findings, from a controlled study, provide some 
+support to retrospective and anecdotal reports of an 
+association between NE and SDB, largely reported in the 
+ear, nose and throat and maxillo-facial literature. The 
+gender difference has not previously been reported 
+although nocturnal enuresis is less common in girls, and 
+it may be that there should be a lower threshold for 
+considering SDB in female enuretics. Weider and colleagues 
+reported on 115 13e19 year olds, with a combination 
+of SDB and NE, who underwent tonsillectomy and/or 
+adenoidectomy [18]. At 1 month following surgery 66% 
+had improved, at 6 months 77% and this remained constant 
+at 12 months. There are two further large retrospective 
+series, describing a total of 181 patients 
+between them, reporting a cure rate of NE following tonsillectomy 
+in excess of 60% [19,20]. In one prospective 
+study, 10 patients with SDB and NE underwent rapid maxillary 
+expansion, four were cured of NE and three improved 
+[21]. These data lend some support to an 
+association between SDB and NE, with a possible therapeutic 
+benefit following treatment of SDB. However, the 
+evidence from polysomnographic studiesdthe gold standard 
+for the assessment of SDBdis more contradictory. 
+
+A number of polysomnographic studies compared patients 
+with MNE to controls and in general found no 
+evidence of SDB, but did note that enuretic patients had 
+a high arousal threshold [22e24]. Brooks and Topol studied 
+66 patients with NE using polysomnography [12]. They 
+found a positive association between the respiratory disturbance 
+index and enuresis: the higher the index the greater 
+the enuresis [12]. One further study, evaluating the accuracy 
+of clinical evaluation in paediatric obstructive sleep 
+apnoea, noted that 11/24 (46%) subjects with polysomnographic 
+evidence of obstructive sleep apnoea suffered 
+from NE [25]. Richards and Ferdman studied the delays in 
+
+diagnosis of SDB in children in an attempt to reduce morbidity, 
+and one of the clear predictors of SDB was NE [26]. 
+
+The cause of SDB in children is unclear, but is thought to 
+be a dynamic process resulting from a combination of 
+structural and neuromotor abnormalities that cause an 
+increase in upper airway obstruction during sleep. 
+Recognized predisposing factors include adenotonsillar 
+hypertrophy, neuromuscular disorders, craniofacial abnormalities 
+associated with macroglossia, retrognathia or 
+maxillary hypoplasia, and obesity. Adult research indicates 
+a strong link between untreated SDB and cardiovascular 
+disease. During an apnoeic episode a negative intrathoracic 
+pressure is created leading to an increase in venous return 
+followed by acute right atrial distension. ANP, a hormone 
+that regulates blood volume and pressure, is released from 
+the wall of the right atrium in response to this and acts on 
+the renal tubules to increase salt and water excretion. 
+Hypoxia as a result of SDB has also been found to be 
+a contributing factor towards the increase in ANP secretion 
+during sleep in adults [27]. This leads to diuresis and an increase 
+in urine production subsequently leading to nocturnal 
+polyuria. Importantly a recent study in children has 
+demonstrated a correlation between brain natriuretic hormone 
+(produced by myocytes in the cardiac ventricles) 
+and severity of SDB [28]. 
+
+On the basis of the evidence in the literature and the 
+results of this current study it would seem that there 
+could be an association between SDB and NE in children, 
+particularly in girls. The importance of this finding is twofold. 
+Firstly, NE could be used as a predictor of SDB 
+leading to earlier diagnosis and treatment of SDB, and 
+hopefully reducing the significant morbidity associated 
+with this condition, such as failure to thrive, behavioural 
+problems, neurocognitive deficits, cor pulmonale and 
+hypertension [29]. Further larger studies using objective 
+measures of SDB are required to confirm our findings 
+and in particular to explore gender differences. Secondly, 
+the identification of SDB may open new therapeutic pathways, 
+discussed above, for those patients with NE who do 
+not respond to standard treatment. The PSQ [16] has 
+been shown to be very easy to complete and analyse. 
+There is no reason why it could not be used in the primary 
+assessment of all enuretic children and, if positive, 
+these children could be investigated further in appropriate 
+sleep clinics. 
+
+It is intriguing that the enuretic children displayed 
+significantly greater difficulties in the symptom domains 
+of day-time somnolence and behavioural problems compared 
+to the control population. The PSQ is designed to 
+assess primary symptoms of SDB as well as secondary daytime 
+behavioural consequences. Neurobehavioural difficulties 
+in children with SDB are hypothesized to result from 
+a combination of disrupted sleep architecture as well as 
+repetitive hypoxia [30]. Polysomnographic studies suggest 
+that, in contrast, enuretic children have a high arousal 
+threshold, so disrupted sleep architecture seems an unlikely 
+explanation for our findings. The behavioural difficulties 
+suggested by our data are novel and unexpected 
+findings and deserve further study to ascertain whether 
+they relate to SDB, are an independent characteristic of 
+the enuretic population or are associated with characteristics 
+not measured in this study such as sleep hygiene. 
+
+
+SDB and nocturia in children 
+
+Appendix 
+A 
+
+
+Paediatric sleep-related breathing disorder questionnaire 
+
+Child’s name: 
+Date completed: 
+While sleeping does your child . 
+(please delete incorrect answer) 
+snore more than half the time? (S) Y/N 
+always snore? (S) Y/N 
+snore loudly? (S) Y/N 
+have ‘heavy’ or loud breathing? (S) Y/N 
+have trouble breathing, or struggle to breathe? Y/N 
+Have you ever . 
+seen your child stop breathing during the night? Y/N 
+Does your child . 
+tend to breathe through the mouth during the day? Y/N 
+have a dry mouth on waking up in the morning? Y/N 
+occasionally wet the bed? Y/N 
+Does your child . 
+wake up feeling unrefreshed in the morning? (SI) Y/N 
+have a problem with sleepiness during the day? (Sl) Y/N 
+Has a teacher or other supervisor commented that your child 
+appears sleepy during the day? (Sl) Y/N 
+Is it hard to wake your child up in the morning? (SI) Y/N 
+Does your child wake up with headaches in the morning? Y/N 
+Did your child stop growing at a normal rate at any time since birth? Y/N 
+Is your child overweight? Y/N 
+My child often . 
+(final 6 items[behavioural subscale) 
+does not seem to listen when spoken to directly Y/N 
+has difficulty organizing tasks and activities Y/N 
+is easily distracted by extraneous stimuli Y/N 
+fidgets with hands or feet or squirms in seat Y/N 
+is ‘‘on the go’’ or often acts as if ‘‘driven by a motor’’ Y/N 
+interrupts/intrudes on others (e.g. butts into conversation or games) Y/N 
+
+
+Positive answers scored 1; negative answers scored 0. S, 4 items of snoring subscale; Sl, 4 items of sleepiness subscale. 
+
+References 
+
+
+[1] Butler RJ. Management of nocturnal enuresis. Curr Paediatr 
+2001;11:126e9. 
+[2] Kaditis AG, Finder J, Alexopoulos EI, Tanou K, Gampeta S, 
+Agorogiannis E, et al. Sleep-disordered breathing in 3,680 
+Greek children. Pediatr Pulmonol 2004;37:499e509. 
+[3] Castronovo V, Zucconi M, Nosetti L, Marazzini C, Hensley M, 
+Veglia F, et al. Prevalence of habitual snoring and sleep-
+disordered breathing in pre-school aged children in an Italian 
+community. J Pediatr 2003;142:364e5. 
+[4] Steers WD, Suratt PM. Sleep apnoea as a cause of daytime and 
+nocturnal enuresis. Lancet 1997;349:1604. 
+[5] Schafer 
+H, Ehlenz K, Ewig S, Hasper E, Koehler U, 
+Latzelsberger J, et al. Atrial naturetic peptide levels and 
+pulmonary artery pressure awake, at exercise and asleep in 
+obstructive sleep apnoea syndrome. J Sleep Res 1999;8: 
+205e10. 
+[6] Umlauf MG, Chasens ER. Sleep disordered breathing and nocturnal 
+polyuria: nocturia and enuresis. Sleep Med Rev 2003;7: 
+403e11. 
+[7] Endeshaw 
+YW, Johnson MH, Kutner TM, Ouslander JG, 
+Bliwise DL. Sleep-disordered breathing and nocturia in older 
+adults. J Am Geriatr Soc 2004;52:957e60. 
+[8] Djurhuus JC, Matthiesen TB, Rittig S. Similarities and dissimilarities 
+between nocturnal enuresis in childhood and nocturia 
+in adults. Br J Urol Int 1999;84(Suppl 1):9e12. 
+[9] Rittig S, Knudsen UB, Norgaard JP, Pedersen EB, Djurhuus JC. 
+Abnormal diurnal rhythm of plasma vasopressin and urinary output 
+in patients with enuresis. Am J Physiol 1989;256:664e71. 
+[10] Lackgren G, Lilja B, Neveus T, Stenberg A. Desmopressin in the 
+treatment of severe nocturnal enuresis-a seven year follow up 
+study. Br J Urol 1998;81:46e9. 
+[11] Moffatt MEK, Harlos S, Kirshen AJ, Burd L. Desmopressin acetate 
+and nocturnal enuresis: how much do we know? Paediatrics 
+1993;92:420e5. 
+[12] Brooks LJ, Topol HI. Enuresis in children with sleep apnea. 
+J Pediatr 2003;142:515e8. 
+[13] Firoozi F, Batniji R, Aslan AR, Longhurst PA, Kogan BA. Resolution 
+of diurnal incontinence and nocturnal enuresis after 
+adenotonsillectomy in children. J Urol 2006;175:1885e8. 
+[14] Basha S, Bialowas C, Ende K, Szeremeta W. Effectiveness of 
+adenotonsillectomy in the resolution of nocturnal enuresis 
+secondary to obstructive sleep apnea. Laryngoscope 2005; 
+115:1101e3. 
+[15] Section on Pediatric Pulmonology. Subcommittee on Obstructive 
+Sleep Apnea Syndrome. American Academy of Pediatrics. 
+Clinical practice guideline: diagnosis and management of 
+childhood obstructive sleep apnea syndrome. Pediatrics 
+2002;109(4):704e12. 
+[16] Chervin RD, Hedger K, Dillon JE, Pituch KJ. Pediatric Sleep 
+Questionnaire (PSQ): validity and reliability of scales for 
+sleep-disordered breathing, snoring, sleepiness, and behavioural 
+problems. Sleep Med 2000;1:21e32. 
+
+J. Stone et al. 
+[17] Kotagal S. Childhood obstructive sleep apnoea: serious neurobehavioural 
+sequelae have prompted interest in diagnosis and 
+management. Br Med J 2005;330:978e9. 
+[18] Weider D, Sateia M, West R. Nocturnal enuresis in children with 
+upper airway obstruction. Otolaryngology 1991;105:427e32. 
+[19] Cinar U, Vural C, Cakir B, Topuz E, Karaman MI, Turgut S. Nocturnal 
+enuresis and upper airway obstruction. Int J Pediatr 
+Otolaryngol 2001;59:115e8. 
+[20] Basha S, Bialowas C, Ende K, Szeremeta W. Effectiveness of adenotonsillectomy 
+in resolving nocturnal enuresis secondary to 
+obstructive sleep apnoea. Laryngoscope 2005;115:1101e3. 
+[21] Kurol J, Modin H, Bjerkhoel A. Orthodontic maxillary expansion 
+and effect on nocturnal enuresis. Angle Orthod1998;68:225e32. 
+[22] Yeung CK, Chiu HN, Sit FK. Sleep disturbance and bladder dysfunction 
+in enuretic children with treatment failure; fact or 
+fiction. Scand J Urol Nephrol 1999;202:20e3. 
+[23] Baker G, Neveus T, Kruse S, Sillen U. Sleep of primary enuretic 
+children and controls. Sleep 2002;25:579e83. 
+[24] Neveus T. The role of sleep and arousal in nocturnal enuresis. 
+Acta Pediatr 2003;92:1118e23. 
+[25] Wang R, Elkins T, Keech D, Wauquier A, Hubbard D. Accuracy 
+of clinical evaluation in pediatric sleep apnoea. Head Neck 
+Surg 1998;118:69e73. 
+[26] Richards W, Ferdman RM. Prolonged morbidity due to delays in 
+diagnosis and treatment of obstructive sleep apnea in children. 
+Clin Pediatr 2000;39:103e8. 
+[27] Perreault T, Gutkowska J. Role of atrial natiuretic factor in 
+lung physiology and pathology. Am J Respir Crit Care Med 
+1995;151:226e42. 
+[28] Kaditis AG, Alexopoulos EI, Hatzi F, Kostadima E, Kiaffas M, 
+Zakynthinos E, et al. Overnight change in brain natriuretic 
+peptide levels in children with sleep-disordered breathing. 
+Chest 2006;130(5):1377e84. 
+[29] Beebe DW. Neurobehavioral morbidity associated with disordered 
+breathing during sleep in children: a comprehensive 
+review. Sleep 2006;29(9):1115e34. 
+[30] Beebe DW, Gozal D. Obstructive sleep apnea and the pre-
+frontal cortex: towards a comprehensive model linking nocturnal 
+upper airways obstruction to daytime cognitive and 
+behavioral deficits. J Sleep Res 2002;11:1e16. 
+

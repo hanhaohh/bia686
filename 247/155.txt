@@ -1,0 +1,730 @@
+Nasal Continuous Positive Airway Pressure 
+Use In Children With Obstructive Sleep 
+Apnea Younger Than 2 Years of Age*
+
+Ralph Downey III, Ronald M. Perkin and Joanne MacQuarrie 
+
+Chest 2000;117;1608-1612 
+DOI 10.1378/chest.117.6.1608 
+
+The online version of this article, along with updated information 
+and services can be found online on the World Wide Web at: 
+
+http://www.chestjournal.org/content/117/6/1608.full.html 
+
+CHEST is the official journal of the American College of ChestPhysicians. It has been published monthly since 1935. Copyright 2007 
+by the American College of Chest Physicians, 3300 Dundee Road, 
+Northbrook IL 60062. All rights reserved. No part of this article or PDF 
+may be reproduced or distributed without the prior written permission 
+of the copyright holder. 
+(http://www.chestjournal.org/misc/reprints.shtml) ISSN:0012-3692 
+
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2000 American College of Chest Physicians 
+
+
+
+Nasal 
+Continuous 
+Positive 
+Airway 
+Pressure 
+Use 
+In 
+Children 
+With 
+Obstructive 
+Sleep 
+Apnea 
+Younger 
+Than 
+2 
+Years 
+of 
+Age* 
+
+
+Ralph Downey III, PhD; Ronald M. Perkin, MD, MA; and 
+Joanne MacQuarrie, RRT, RPSGT 
+
+Study objectives: To assess the efficacy of continuous positive airway pressure (CPAP) in 
+obstructive sleep apnea (OSA) patients who are < 
+2 years of age. 
+Design: A retrospective chart review of 18 patients from 1992 to 1999 who had OSA confirmed by 
+polysomnography. All patients in this study also completed a separate night of CPAP polysomnography 
+to determine the effectiveness of CPAP in the correction of OSA. Nasal CPAP compliance data 
+were gathered via clinical follow-up examination, telephone interview, or mailed questionnaire. 
+Setting: All patients were studied in the Sleep Disorders Center at Loma Linda University Children’s 
+Hospital in Loma Linda, CA. 
+Patients: All patients were < 
+2 years old. 
+Intervention: After OSA was confirmed by the results of technician-attended nocturnal polysomnography, 
+separate technician-attended nocturnal CPAP polysomnography was completed. On CPAP 
+nights, CPAP pressure was titrated to ameliorate OSA and snoring. CPAP pressure was increased by 
+2-cm H2O or 1-cm H2O increments. 
+Results: Data were analyzed by dependent groups t test at p < 
+0.05 level of significance. CPAP 
+statistically improved respiratory parameters significantly when compared to baseline polysomnography. 
+The following four patient subgroups emerged from the analysis: group 1 consisted of six 
+patients who had tracheostomies prior to the CPAP trial, with two patients using CPAP as an 
+alternative to tracheostomy; group 2 consisted of two patients who had previous unsuccessful 
+adenostonsillectomies and who used CPAP successfully, with both having OSA resolution over time; 
+group 3 consisted of four patients who did not tolerate CPAP on the study night; and group 4 
+consisted of six patients who used CPAP nightly, had OSA resolution over time, and therefore, no 
+longer needed CPAP therapy. Thus, 10 of 18 patients used CPAP either on an interim basis for 
+corrective therapy or as a primary treatment modality for OSA. 
+Conclusions: These data show that children < 
+2 years of age can tolerate and use CPAP effectively. 
+In several cases, CPAP treatment could be discontinued as OSA resolved over time. The reasons for 
+this are discussed in the text. (CHEST 2000; 117:1608–1612) 
+
+Key words: children; continuous positive airway pressure compliance; infancy; obstructive sleep apnea; nasal continuous 
+positive airway pressure; sleep; sleep disorders 
+
+Abbreviations: CPAP . 
+continuous positive airway pressure; OSA . 
+obstructive sleep apnea 
+
+T
+T
+he incidence of obstructive sleep apnea (OSA) in 
+children is high, with an estimated proportion 
+between 1% and 3%.1 The peak incidence of OSA is 
+
+*From the Loma Linda University Medical Center Children’s 
+Hospital (Drs. Downey and Perkin, and Ms. MacQuarrie), Loma 
+Linda, CA; and the Jerry L. Pettis Memorial Veterans Administration 
+Medical Center (Dr. Downey), Loma Linda, CA. 
+Manuscript received July 15, 1999; revision accepted February 8, 
+2000. 
+
+Correspondence to: Ralph Downey III, PhD, Jerry L. Pettis Memorial 
+Veterans Medical Center Sleep Disorders Center (111P), 
+11201 Benton St, Loma Linda, CA 92357; e-mail: Ralph.Downey@ 
+med.va.gov 
+
+between ages 2 and 6 years, when lymphoid tissue 
+growth is at its peak.1 OSA lies on a continuum that 
+ranges from mild snoring to OSA with significant 
+clinical consequences.2 The effects of OSA are pervasive, 
+including decreased cognitive function,3 cardiovascular 
+complications such as cor pulmonale, 
+and overt congestive heart failure.4,5 Moreover, infants 
+. 
+1 year old with OSA may be at increased risk 
+of sudden infant death syndrome.6 
+
+Adenotonsillectomy is a common OSA treatment 
+in children between 2 and 6 years of age; however, it 
+is not used as commonly for children . 
+2 years of 
+
+Clinical 
+Investigations
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2000 American College of Chest Physicians 
+
+
+
+age. Children with OSA also have a greater risk of 
+respiratory compromise following adenotonsillectomy 
+than children without OSA.7,8 
+
+Traditionally, while continuous positive airway 
+pressure (CPAP) is the most common OSA treatment 
+in adults, it is not commonly used in children. 
+The reason that CPAP has not been used in this age 
+group in unclear. Perhaps its lack of use is due to a 
+lack of data establishing its utility. CPAP may provide 
+a useful treatment alternative among those for 
+whom surgical correction is not indicated or has 
+failed to resolve the OSA.9 
+
+Few studies have investigated CPAP use in children 
+. 
+2 years old. The studies that are available 
+have examined CPAP efficacy in children across a 
+wide age spectrum9–14 or have focused on those . 
+1 
+year old.13,15,16 Moreover, CPAP is not used in a 
+consistent fashion among even the most experienced 
+centers across a wide age span.11 One study noted 
+that CPAP use was not routinely or consistently 
+used, even among 11 experienced sleep centers.15 
+For example, in one center, CPAP was the primary 
+therapy mode for OSA patients, while in 76% of the 
+centers adenotonsillectomy was the primary therapy 
+mode for OSA. The centers most likely to use CPAP 
+were those closely affiliated with adult sleep centers. 
+No study has focused on children . 
+2 years of age 
+exclusively. 
+
+The purpose of this report is to demonstrate that 
+CPAP is efficacious in children with OSA who are 
+
+. 
+2 years of age 
+Materials and Methods 
+
+We retrospectively examined the last 18 patients . 
+2 years of 
+age who had received a diagnosis of OSA by standard clinical 
+polysomnography and who consented to the use of nasal CPAP as 
+an elective treatment for their OSA. If a correctable cause of OSA 
+was not considered as an effective alternative at the time of 
+evaluation, CPAP was presented to the parents and referring 
+physicians as an alternative treatment for OSA. 
+
+All polysomnography was completed using a polysomnograph 
+(model 78D; Grass; Quincy, MA). Measurements included the 
+following: left and right electro-oculogram; EEG (leads C3-A2, 
+O1-A2, and C4-A1); chin electromyogram; airflow (three-bead 
+oral-nasal thermistor); chest wall and abdominal wall movement 
+measurement using inductive plethysmography; end-tidal CO2 
+monitoring; one-lead ECG; pulse oximetry with strip recorder 
+(model 3700; Ohmeda; Madison, WI, or model 7000; Novametrix; 
+Wallingford, CT). Pulse wave forms were measured from 
+oximetry and displayed on the polysomnograms to help verify the 
+accuracy of the oximetry readings. 
+
+Sleep Scoring 
+
+Patient records were scored in accordance with published 
+guidelines. If children had sleep spindles, their sleep architectures 
+were scored in accordance with Rechtshaffen and Kales.17 
+If sleep spindles were not noted, sleep was scored as rapid eye 
+
+movement, non-rapid eye movement, or indeterminate. EEG 
+arousals were scored in accordance with American Sleep Disorders 
+Association established guidelines.18 
+
+Sleep Respiration 
+
+OSA was diagnosed in patients if they had more than one 
+obstructive apnea per hour (no airflow in the presence of chest 
+wall excursion).11 Obstructive apnea was scored when there was 
+no airflow despite chest wall excursion for at least 6 s, or . 
+6sif 
+the obstructive apnea was associated with oxygen desaturation of 
+
+. 
+3%. Central apnea was scored in the same manner as obstructive 
+apnea except there was no airflow and no chest wall 
+excursion. Hypopneas were included in the apnea index if there 
+was a . 
+50% reduction in airflow for . 
+6 s. The results of each 
+study were considered normal or abnormal in accordance with 
+established norms.19 Between-scorer agreement for polysomnography 
+was . 
+90% for sleep and respiratory parameters. End-tidal 
+CO2 and paradoxical breathing were examined; however, these 
+data were not suitable for reliable analysis. 
+CPAP Trial Methods 
+
+In all study patients, polysomnography established the diagnosis 
+of OSA on a separate baseline polysomnography. On a 
+separate night, CPAP was applied. Only the data from the 
+baseline polysomnography and the first CPAP polysomnography 
+were analyzed for the purpose of this article. Eighteen patients 
+
+. 
+2 years of age completed both a baseline polysomnography and 
+a separate night CPAP polysomnography. No patient in this study 
+group under analysis received bilevel positive airway pressure. 
+Patients did not have training with CPAP before their CPAP 
+study night. Parents had the reasons for CPAP use explained to 
+them and were given information on the known reasons why 
+CPAP was thought to be of benefit for their child. Parents agreed 
+to allow the use of CPAP as a therapy for correcting OSA in their 
+children. 
+
+CPAP Titration 
+
+The goal of the initial CPAP trial night was to abolish both 
+apnea and snoring while maintaining patient comfort so that the 
+patient and parent would use CPAP at home. CPAP was started 
+at5cmH2O in all patients, and then was titrated by 2.0-cm H2O 
+increments until both OSA and snoring were abolished. Technicians 
+used their respective judgments and assessments of sleep-
+EEG arousals, leaks from the masks, and respiratory patterns 
+(apnea) to adjust the CPAP in 1.0-cm H2O increments to provide 
+the best possible patient comfort. Four patients required more 
+than one CPAP trial night to obtain optimal effectiveness. As the 
+study took place over 7 years, different interfaces have been 
+developed and used. Many of the early patients in this study used 
+custom-made masks, commercially available pediatric-sized 
+masks (Respironics; Murrysville, PA), or nasal pillows. Full-face 
+masks were not needed for the patients in this study. 
+
+Home CPAP Use 
+
+After the CPAP titration night, parents who agreed to treatment 
+had CPAP available for use in their homes at pressures 
+determined by the results of the CPAP polysomnography. Mask 
+preference on the night of the CPAP study was the mask 
+prescribed for home use. The patient’s personal physician, with 
+the sleep center staff, followed each patient. Follow-up for 
+compliance and care was by clinical follow-up and/or questionnaires 
+sent to the patient’s home or by telephone conversation to 
+
+CHEST 
+/ 
+117/6/ 
+JUNE, 
+2000 
+1609
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2000 American College of Chest Physicians 
+
+
+
+assess the degree of CPAP use and the reasons for intolerance or Table 2–Patients for Whom CPAP Was Used* 
+
+discomfort, if any. CPAP timers were not used because not every 
+patient had a CPAP timer on their device. Using this method of 
+compliance checking for some and not for all may have biased our 
+assessment of compliance. 
+
+Data Analysis 
+
+All data were analyzed using a two-tailed, dependent-groups t 
+test, with an a priori p level . 
+0.05 set for statistical significance. 
+
+Results 
+
+All patients were . 
+2 years of age at the time of the 
+initial CPAP study; 11 patients were . 
+1 year of age, 
+and 7 patients were between 1 and 2 years of age. 
+
+The studied children had a variety of medical 
+disorders that were thought to be contributing factors 
+to their OSA. Patient diagnoses and final known 
+dispositions are listed in Tables 1 and 2. 
+
+Patients selected for CPAP use fell into four group 
+types. In group 1, six OSA patients underwent a 
+tracheostomy to treat their existing OSA. These 
+patients had CPAP applied with their tracheostomies 
+occluded in an attempt to correct their OSA. In this 
+group, four patients required continued tracheostomy 
+and elected not to use CPAP. Two patients 
+used CPAP initially. One patient used CPAP until 
+OSA resolved, and one patient accepted CPAP on 
+the study night, used it for almost 1 year, but then 
+elected tracheostomy as a long-term treatment for 
+OSA. In cases requiring decannulation, an otolaryngologist 
+was consulted. 
+
+Group 2 consisted of two patients whose adenotonsillectomies 
+failed to correct their OSA. Both 
+patients had their OSA resolve over time, which 
+allowed CPAP to be discontinued. 
+
+Group 3 consisted of four patients who did not 
+accept CPAP on the initial CPAP study night. Of 
+these, one patient was obese with hypothyroidism, 
+two required craniofacial surgery, and one had laryngomalacia 
+and was lost to follow-up (Table 1). 
+
+Initial CPAP 
+Treatment Pressure, 
+Patient No./Pre-PSG Diagnosis cm H2O† 
+1/Laryngomalacia 7; 2 L/min O2 
+2/Bronchopulmonary dysplasia 7 
+3/Laryngomalacia 6; 1 L/min O2 
+4/Post-T&A with residual OSA 6; 2 L/min O2 
+5/Down’s syndrome 7; 2 L/min O2 
+6/Laryngomalacia 11 
+7/CHF 8; 1 L/min O2 
+8/Primary OSA, with ALTE history 8 
+9/Post-T&A with residual OSA 7 
+10/Pierre Robin syndrome 9 
+
+*Patients 1 to 9 received CPAP until resolution of OSA (documented 
+by PSG). Patient 10 received CPAP for 1 year, at which time an 
+elective tracheostomy was performed. ALTE . 
+apparent life-
+threatening episode; PSG . 
+polysomnography. See Table 1 for 
+other abbreviations. 
+
+†Values after the semicolon are for supplemental oxygen therapy. 
+Group 4 consisted of six patients who received 
+CPAP until follow-up polysomnography demonstrated 
+that their OSA had resolved. These patients 
+had a wide spectrum of disorders, including bronchopulmonary 
+dysplasia, Down’s syndrome, laryngomalacia, 
+pharyngeal flap airway obstruction, congestive 
+heart failure, and primary OSA presenting as an 
+apparent life-threatening episode. CPAP was used 
+for approximately 1 to 5 years in this group; three 
+patients had two polysomnography sessions to document 
+the complete resolution of OSA, and three 
+patients had one polysomnography session to document 
+complete resolution. 
+
+Table 3 lists the following statistically significant 
+parameters that changed with CPAP treatment: the 
+apnea index was significantly reduced (in all studied 
+patients), as was the time of the longest apnea; and 
+the arterial oxygen saturation nadir improved with 
+CPAP, as did the number of minutes that the 
+patients slept with arterial oxygen saturation at 
+
+Table 1–Patients Who Did Not Use CPAP* 
+
+Diagnoses Post-CPAP Trial Disposition 
+Patients who elected not to use CPAP 
+Hypoventilation syndrome Tracheostomy continued 
+Hypoventilation, CHF Tracheostomy continued 
+Pierre Robin syndrome Tracheostomy continued 
+CHF/pulmonary HTN Tracheostomy continued 
+Patients intolerant to CPAP on the CPAP trial night 
+Pierre Robin syndrome Craniofacial management 
+Laryngomalacia Lost to follow-up 
+Obesity, hypothyroidism T&A; UPPP 
+Crouzon’s syndrome Craniofacial management 
+
+*T&A . 
+adenotonsillectomy; UPPP . 
+uvulopalatopharyngoplasty surgery; CHF . 
+congestive heart failure; HTN . 
+hypertension. 
+
+1610 
+Clinical 
+Investigations
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2000 American College of Chest Physicians 
+
+
+
+Table 3–Significant Polysomnographic Variables That 
+Changed From Baseline Polysomnogram to CPAP 
+Polysomnogram in Children With OSA (n . 
+18)* 
+
+PSG 
+t Test 
+Variable Baseline CPAP (df) 
+No. of awakenings . 
+15 s† 13.5 . 
+14.8 5.5 . 
+5.2 0.9 (15)‡ 
+Apnea index 12.8 . 
+20.0 4.5 . 
+13.4 4.4 (16)§ 
+Obstructive apnea index 4.7 . 
+13.4 2.0 . 
+7.3 3.8 (16)§ 
+Hypopnea apnea index 6.7 . 
+12.7 2.0 . 
+5.7 8.7 (16)‡ 
+Longest apnea, s 25.6 . 
+17.4 8.2 . 
+7.3 3.9 (17). 
+Minimum Sao2,% 74.8 . 
+20.1 87.3 . 
+9.5 2.3 (17)‡ 
+Sao2 . 
+90%, min 22.2 . 
+25.5 6.4 . 
+14.9 2.3 (15)‡ 
+
+*Values given as mean . 
+SD. df . 
+degrees of freedom; Sao2 . 
+arterial oxygen saturation. See Table 1 for other abbreviation. 
+
+†For the entire sleep period. 
+‡p . 
+0.05. 
+§p . 
+0.0001. 
+\p . 
+0.001. 
+. 
+90%. Complete abolition of OSA was not always 
+possible due to patient discomfort or severity of the 
+disease. 
+The mean (SD) arousal index was 16.31 (12.29) 
+while not receiving CPAP and 16.06 (13.56) while 
+receiving CPAP. Five patients needed supplemental 
+oxygen in addition to CPAP (range, 0.5 to 6 L/min) 
+(Table 2). The median CPAP pressure was 7.0 cm 
+H2O. 
+
+Sleep Architecture 
+
+Sleep stages did not significantly differ between 
+those measured with baseline polysomnography and 
+CPAP polysomnography. Patients fell asleep in . 
+13 
+min, on average, during their baseline studies and 
+with CPAP. 
+
+Discussion 
+
+These data demonstrate that CPAP is an effective 
+treatment for OSA in patients who are . 
+2 years old 
+across a wide disease spectrum. This study supports 
+and extends the findings of Guilleminault and colleagues16 
+concerning OSA in infants . 
+1 year of age 
+to those . 
+2 years of age. An important finding of 
+this study was that OSA resolved over time in nine 
+children. It is unlikely that CPAP “cured” OSA. OSA 
+resolution may have resulted, in part, from the 
+nature of the children’s disorders concomitant with 
+OSA, such as bronchopulmonary dysplasia, laryngomalacia, 
+and congestive heart failure. These disorders 
+may resolve with maturity. Moreover, corrective 
+surgery, while not completely successful at correcting 
+OSA in this study group, may have served to 
+widen the upper airway and may have contributed to 
+
+apnea resolution with maturity. The important point 
+is that CPAP helped these patients safely reach the 
+age at which OSA was resolved. 
+
+The success of CPAP in correcting OSA could not 
+be predicted based on the admitting diagnosis. With 
+a small data set, statistical analysis is not likely to 
+reveal a singular predictor of CPAP success. If there 
+is a cautionary tale in this regard, it is that some 
+patients, such as those with Down’s syndrome, could 
+easily have been dismissed as “poor candidates for 
+CPAP,” but in fact tolerated CPAP well. 
+
+A significant number of patients were evaluated 
+after surgery, with six having examinations because 
+of the question of the need for continued tracheostomy. 
+In patients studied with their tracheostomy 
+tube plugged, it was thought that CPAP could not 
+treat their OSA as effectively because there was a 
+question as to whether these patients would tolerate 
+CPAP at home. The subgroups of patients illustrate 
+the heterogeneity of the CPAP population in the 
+young age group studied. 
+
+Surprisingly, the EEG arousal index did not 
+change from the baseline polysomnography to the 
+nasal CPAP polysomnography, perhaps due to the 
+lack of CPAP adaptation on the part of the patient. It 
+may be that the arousal index, as a treatment-guiding 
+parameter, may be misleading for a single-night 
+CPAP study. Other indexes of improvement may be 
+more sensitive to change, such as esophageal pressures, 
+which were not measured in this study. If the 
+theory that arousal is due to CPAP is correct, one 
+would expect the arousal index to decrease over 
+time, but that was not examined in this study. 
+
+Complications from CPAP in this age group were 
+not unlike those seen in adults, with the most 
+common being mask discomfort, rhinitis, and airway 
+dryness. No patients had pneumothorax or barotrauma. 
+
+
+Further improvements in the use of CPAP in 
+young children may come from studies like this one, 
+which demonstrate that CPAP can be used effectively. 
+With increased support services for CPAP 
+users, CPAP use is likely to increase proportionally 
+with patient and clinician comfort levels. Moreover, 
+with time and the acquisition of more data refining 
+CPAP use in young children, clinicians will find a 
+place for CPAP in the OSA treatment armament. 
+
+Conclusion 
+
+The main findings of this study were the following: 
+
+(1) CPAP improved OSA in all study patients; (2) 
+CPAP can be accepted and tolerated well by a 
+majority of patients with severe OSA who are . 
+2 
+years of age; (3) CPAP is an effective treatment 
+CHEST 
+/ 
+117/6/ 
+JUNE, 
+2000 
+1611
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2000 American College of Chest Physicians 
+
+
+
+modality in children with OSA; and (4) CPAP was 
+not a permanent treatment, as nine patients no 
+longer required CPAP based on follow-up polysomnography-
+documented resolution of OSA. Some of 
+these patients had self-limiting medical problems for 
+which CPAP may have acted as an interim treatment 
+
+modality. 
+
+A consensus about how CPAP can be used across 
+patient populations in children with OSA would be 
+of benefit to sleep centers in which patients with 
+OSA are frequently seen. This is particularly relevant 
+in instances where little benefit occurs by using 
+surgery or alternate therapies. 
+
+ACKNOWLEDGMENTS: The authors thank Michelle Gasca 
+for data compilation and Grennith Zimmerman, PhD, for help in 
+the statistical analysis of the data. 
+
+References 
+
+1 Rosen C. Obstructive sleep apnea syndrome (OSAS) in 
+children: diagnostic challenges. Sleep 1996; 19(suppl):S274 – 
+S277 
+
+2 Downey R III, Perkin RM, MacQuarrie J. Upper airway 
+resistance syndrome: sick, symptomatic but underrecognized. 
+Sleep 1993; 16:620–623 
+
+3 Dahl RE. The impact of inadequate sleep on children’s 
+daytime cognitive function. Semin Pediatr Neurol 1996; 
+3:44–50 
+
+4 Perkin RM, Downey R III, MacQuarrie J. Sleep disordered 
+breathing in infants and children. Respir Care Clin N Am 
+1999; 5:395– 426 
+
+5 Brouillette RT, Fernbach SK, Hunt CE. Obstructive sleep 
+apnea in infants and children. J Pediatr 1982; 100:31–40 
+
+6 Kahn A, Groswasser J, Rebutffat E, et al. Sleep and cardiorespiratory 
+characteristics of infant victims of sudden death: a 
+prospective case-control study. Sleep 1992; 15:287–292 
+
+7 Wiatrak BJ, Myer CMD, Andrews TM. Complications of 
+adenotonsillectomy in children under 3 years of age. Am J 
+Otolaryngol 1991; 12:170–172 
+
+8 Williams EFD, Woo P, Miller R, et al. The effects of 
+adenotonsillectomy on growth in young children. Otolaryngol 
+Head Neck Surg 1991; 104:509–516 
+
+9 Guilleminault C, Nino-Murcia G, Heldt G, et al. Alternative 
+
+treatment of tracheostomy in obstructive sleep apnea syndrome: 
+nasal continuous positive airway pressure in young 
+children. Pediatrics 1986; 78:797–802 
+
+10 Downey R III, Perkin RM, MacQuarrie J, et al. Six years 
+experience with nasal CPAP in children with obstructive 
+sleep apnea [abstract]. Sleep Res 1997; 26:355 
+
+11 Marcus CL, Ward SL, Mallory GB, et al. Use of nasal 
+continuous positive airway pressure as treatment of childhood 
+obstructive sleep apnea. J Pediatr 1995; 127:88 –94 
+
+12 Waters K, Everett F, Harris MA, et al. Use of nasal mask 
+CPAP instead of tracheostomy for palliative care in two 
+children. J Paediatr Child Health 1994; 30:179 –181 
+
+13 Waters K, Everett F, Bruderer JW, et al. Obstructive sleep 
+apnea: the use of nasal CPAP in 80 children. Am J Respir Crit 
+Care Med 1995; 152:780 –785 
+
+14 Brooks L, Sleeper G. Use of nasal CPAP by children in the 
+home [abstract]. Sleep Res 1991; 20:212 
+
+15 Marcus CL, Ward SL, Mallory GB, et al. Use of nasal 
+continuous positive airway pressure as treatment of childhood 
+obstructive sleep apnea. J Pediatr 1995; 127:88 –94 
+
+16 Guilleminault C, Pelayo R, Clerk A, et al, Home nasal 
+continuous positive airway pressure in infants with sleep-
+disordered breathing. J Pediatr 1995; 127:905–912 
+
+17 Rechtschaffen A, Kales A. A manual of standardized terminology, 
+techniques, and scoring system for sleep stages of 
+human subjects. Los Angeles, CA: University of California at 
+Los Angeles Brain Research Institute, 1968 
+
+18 American Sleep Disorders Association Sleep Disorders Atlas 
+Task Force. EEG arousals: scoring rules and examples. Sleep 
+1992; 15:173–184 
+
+19 Marcus CL, Omlin KJ, Basinski DJ. Normal polysomnographic 
+values for children and adolescents. Am Rev Respir 
+Dis 1992; 146:1235–1239 
+
+1612 
+Clinical 
+Investigations
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2000 American College of Chest Physicians 
+
+
+
+Nasal Continuous Positive Airway Pressure Use In Children With 
+Obstructive Sleep Apnea Younger Than 2 Years of Age *
+
+
+Ralph Downey III, Ronald M. Perkin and Joanne MacQuarrie 
+Chest 2000;117; 1608-1612 
+DOI 10.1378/chest.117.6.1608 
+
+
+This information is current as of February 20, 2009 
+
+& Services 
+Updated Information 
+http://www.chestjournal.org/content/117/6/1608.full.html 
+high-resolution figures, can be found at: 
+Updated Information and services, including 
+References 
+html#ref-list-1 
+http://www.chestjournal.org/content/117/6/1608.full. 
+accessed free at: 
+This article cites 17 articles, 2 of which can be 
+Citations 
+html#related-urls 
+http://www.chestjournal.org/content/117/6/1608.full. 
+articles: 
+This article has been cited by 6 HighWire-hosted 
+Open Access 
+option 
+Freely available online through CHEST open access 
+Permissions & Licensing 
+http://chestjournal.org/misc/reprints.shtml 
+(figures, tables) or in its entirety can be found online at: 
+Information about reproducing this article in parts 
+Reprints 
+http://chestjournal.org/misc/reprints.shtml 
+Information about ordering reprints can be found online: 
+Email alerting service 
+online article. 
+article. sign up in the box at the top right corner of the 
+Receive free email alerts when new articles cit this 
+format 
+Images in PowerPoint 
+format. See any online article figure for directions. 
+downloaded for teaching purposes in PowerPoint slide 
+Figures that appear in CHEST articles can be
+
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2000 American College of Chest Physicians 
+
+
+

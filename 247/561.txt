@@ -1,0 +1,800 @@
+SLEEP APNEA 
+C-reactive Protein is Associated With Sleep Disordered Breathing Independent ofAdiposity 
+
+Naresh M. Punjabi, MD, PhD; Brock A. Beamer, MD 
+
+Johns Hopkins University Department of Medicine, Baltimore, MD 
+
+Study Objectives: It is well established that medical conditions such as 
+obesity and cardiovascular disease are associated with increased levels 
+of inflammatory biomarkers such as C-reactive protein (CRP). Prior studies 
+have produced inconsistent results regarding the association between 
+sleep disordered breathing (SDB) and CRP, possibly due to the confounding 
+effects of obesity or medical comorbidity. The present study examined 
+the association between degree of SDB and level of CRP independent of 
+prevalent medical conditions and obesity. 
+Design: Cross-sectional study. 
+Subjects and Setting: University-based clinical sample referred for diagnostic 
+polysomnography. 
+Measurements and Results: The study sample consisted of 69 men 
+(mean age 40 years; mean BMI of 31.2 kg/m2) free of prevalent medical 
+conditions including hypertension, diabetes mellitus, and cardiovascular 
+disease. Measurements of morning and evening CRP levels were performed 
+along with full-montage polysomnography. Confounding due to 
+obesity was assessed by adjustments for body mass index, waist circumference, 
+and percent body fat. A strong association was found between 
+
+INTRODUCTION 
+
+SLEEP DISORDERED BREATHING (SDB) IS A CHRONIC 
+CONDITION CHARACTERIZED BY REPETITIVE COLLAPSE 
+OF THE UPPER AIRWAY DURING SLEEP. The resulting 
+decrease or cessation of airflow often leads to periods of 
+intermittent hypoxemia and recurrent arousals from sleep. It is 
+estimated that approximately 5% of adults in the general population 
+meet the diagnostic criteria for SDB.1 A growing body of 
+evidence from clinic- and population-based studies indicates that 
+SDB is associated with a plethora of adverse health conditions. 
+Causal relationships between SDB, hypertension, diabetes mellitus, 
+and cardiovascular disease have become areas of intense 
+research, and numerous studies now implicate SDB as a contributory 
+factor to these conditions independent of conventional risk 
+factors such as obesity.2 
+
+Although the mechanisms by which SDB may lead to such 
+complications are not completely defined, sympathetic activation 
+due to intermittent hypoxemia and/or sleep fragmentation 
+has been implicated in the putative causal pathway. There is also 
+increasing recognition that low grade systemic inflammation may 
+
+Disclosure Statement 
+
+This was not an industry supported study. Drs. Punjabi and Beamer have 
+indicated no financial conflicts of interest. 
+
+Submitted for publication April 11, 2006 
+Accepted for publication September 17, 2006 
+
+Address correspondence to: Naresh M. Punjabi, MD, PhD, Associate Professor 
+of Medicine and Epidemiology, Johns Hopkins Asthma and Allergy 
+Center, 5501 Hopkins Bayview Circle, Baltimore, MD 21224; Tel: (410) 5502612; 
+Fax: (410) 550-5405 
+
+SLEEP, Vol. 30, No. 1, 2007 
+
+degree of SDB and serum levels of CRP, with or without adjustment for 
+age and several measures of adiposity. Between the lowest and highest 
+quartiles of apnea-hypopnea index (AHI) the mean difference in adjusted 
+level of CRP was 3.88 µg/ml (P < 0.001). Moreover, an independent association 
+between serum CRP levels and nocturnal hypoxia was also 
+observed, whereas no association was noted with parameters of sleep 
+architecture. 
+Conclusions: While more research is needed to elucidate causal pathways 
+involving the effects of sleep-related hypoxia on low-grade systemic 
+inflammation, the results of this study suggest that mechanisms other 
+than adiposity per se could contribute to the inflammatory state seen in 
+adults with SDB. 
+Keywords: Sleep disordered breathing, obstructive sleep apnea, inflammation, 
+C-reactive protein 
+Citation: Punjabi NM; Beamer BA. C-reactive protein is associated 
+with sleep disordered breathing independent of adiposity. SLEEP 
+2007;30(1):29-34. 
+
+be yet another mechanism linking SDB to cardiovascular disease. 
+Inflammation plays an important role in arterial plaque formation, 
+plaque rupture, and vascular thrombosis thereby increasing 
+the susceptibility to myocardial ischemia and infarction.3 In 
+fact, whether in high-risk or in general populations, serum levels 
+of circulating inflammatory markers are predictive of incident 
+hypertension4 and cardiovascular events.5,6 C-reactive protein 
+(CRP), an acute phase reactant secreted by the liver, is one of 
+the most actively studied biomarkers of low-grade inflammation. 
+Studies examining the effects of SDB on serum CRP levels have 
+provided conflicting results, with some studies demonstrating an 
+independent association with disease severity7-16 and others showing 
+no relationship.17-22 
+
+Adipose tissue is an important source of inflammatory cytokines23 
+and produces a significant proportion of the circulating 
+interleukin-6 (IL-6), the principal cytokine that induces CRP.24 
+The well established association between obesity, particularly 
+central obesity, and systemic inflammation25 raises the possibility 
+that the inflammatory marker profile in SDB merely reflects the 
+confounding effects of obesity. Furthermore, the high prevalence 
+of medical conditions in SDB such hypertension, diabetes mellitus, 
+and cardiovascular disease — conditions that are independently 
+correlated with higher CRP levels — introduces the added 
+concern for confounding in delineating whether SDB is related 
+to systemic inflammation. Recognizing the potential limitations 
+of previous work, the current investigation sought to determine 
+whether SDB and its physiologic consequences of nocturnal hypoxemia 
+and sleep disruption were related to CRP levels independent 
+of measures of body mass and fat distribution in the absence 
+of coexisting medical conditions. We also examined whether 
+systemic inflammation in SDB is further influenced acutely by 
+the overnight physiologic stress imposed by SDB-related inter
+
+
+29 CRP and Sleep Disordered Breathing—Punjabi and Beamer 
+
+
+mittent hypoxemia and sleep fragmentation. It was hypothesized 
+that SDB severity would be associated with serum CRP levels 
+independent of the confounding influences of age and measures 
+of body composition and that the overnight physiologic stress imposed 
+by SDB would acutely increase CRP levels. 
+
+METHODS 
+
+Study Sample 
+
+Consecutive male patients undergoing clinical polysomnography 
+were initially screened for inclusion in the current investigation. 
+Women were not included in the study sample because 
+the dramatic effects of hormonal differences on CRP26-31 levels 
+necessitates recruitment of pre- and post-menopausal women (on 
+and off oral contraceptive and hormonal therapy) in subgroups of 
+a size that were beyond the scope of the current study. Men with a 
+previous history of hypertension, stable or unstable angina, myocardial 
+infarction, percutaneous transluminal coronary angioplasty, 
+coronary artery bypass surgery, congestive heart failure, and 
+stroke were considered ineligible. Other exclusionary criteria included 
+diabetes mellitus (prior diagnosis or fasting glucose = 126 
+mg/dl), chronic obstructive lung disease, renal or hepatic dysfunction, 
+and history of upper airway surgery. Finally, patients using 
+anti-inflammatory agents (e.g., steroids or other immunosuppressive 
+agents), supplemental oxygen, or positive airway pressure 
+therapy at any time in the past were also considered ineligible. 
+Approval for the study protocol was acquired from the local institutional 
+review board, and informed consent was obtained from 
+all study participants. 
+
+Body Composition Analysis 
+
+Anthropometric measures included height, weight, and waist 
+circumference. Weight was measured to the nearest 0.1 kg and 
+height was measured using a portable stadiometer to the nearest 
+
+0.5 cm. Waist circumference was measured midway between the 
+lower rib margin and the iliac crest with the subject in the standing 
+position at the end of a normal expiration. Foot-to-foot bioimpedance 
+analysis was conducted to estimate percent body fat 
+using a Tanita Scale (Tanita Corporation of America, Inc, Arlington 
+Heights, IL). Previous studies have found excellent concordance 
+of Tanita estimates with measures of body fat derived from 
+isotope dilution of tritiated water, underwater weighing, and dual 
+energy X-ray absorptiometry (DXA).32-34 Subjects were measured 
+standing erect with bare feet on the analyzer footpads. Percent 
+body fat was estimated using the programmed height, weight, age, 
+and sex-specific equation.32 
+Polysomnography 
+
+The overnight polysomnogram included the following physiologic 
+recordings: C3-A2 and C3-O1 electroencephalograms, right 
+and left electrooculograms, and submental and bilateral anterior 
+tibialis surface electromyograms. Respiration was monitored 
+throughout the night with a nasal pressure transducer, thermocouples 
+at the nose and mouth, and with thoracic and abdominal 
+strain gauges. Continuous recording of the oxyhemoglobin saturation 
+(SaO2) was obtained with an oximeter (Ohmeda 3700; Englewood, 
+CO). Physiologic signals were digitized (Embla recordings 
+systems, Medcare, Buffalo, NY) for offline analysis of sleep and 
+breathing patterns. Sleep stage scoring was performed on 30-sec
+
+
+ond epochs according to standard criteria.35 Apnea was defined as 
+complete cessation of airflow for at least 10 seconds. Hypopnea 
+was defined as any reduction in airflow that was associated with 
+an electroencephalographic arousal or a 4% drop in the SaO2. The 
+apnea-hypopnea index (AHI) was calculated as the total number 
+of apneas and hypopneas per hour of total sleep time. The average 
+degree of oxyhemoglobin desaturation (.SaO2) associated with 
+each disordered breathing event was determined and used an index 
+of hypoxemic stress during sleep. 
+
+Blood Collection and Biochemical Analysis 
+
+A fasting blood sample (10 ml) was obtained from the anterior 
+cubital vein in a resting and fasting state shortly after the 
+conclusion of the overnight sleep recordings. In addition, a blood 
+sample was also obtained just prior to the onset of the sleep study. 
+All venous samples were centrifuged immediately and placed at 
+4oC prior to serum separation. After centrifugation at 3000 rpm 
+for 20 minutes, serum was separated into multiple aliquots and 
+stored at -80oC. High sensitivity (hs)-CRP levels were measured 
+in duplicate for each eligible patient using commercially available 
+ELISA kits (ALPCO, Windham, NH), The hs-CRP assay kit 
+has a reported linear range of 1.0 – 150.0 ng/ml and sensitivity of 
+
+0.5 ng/ml. The intra- and inter-assay coefficients of variation are 
+6.33% and 2.20%, respectively. 
+Statistical Analysis 
+
+All results are reported as means along with the standard deviation 
+(SD) or standard error (SEM). The dependent variable of interest 
+was the serum level of CRP. Bivariate associations between 
+the morning and evening CRP levels and indices of SDB severity 
+were initially examined using scatter plots and Pearson’s correlation 
+coefficients. Because the primary objective of the analysis 
+was to determine the independent association between CRP level 
+and SDB severity, multivariable linear regression methods were 
+used to account for the confounding effects of age, BMI, waist 
+circumference, and percent body fat. To minimize the influence 
+of outlying CRP values, log-transformed CRP levels were also 
+modeled. Inferences derived with such transformations were no 
+different that those based on modeling serum CRP levels directly. 
+Thus, for ease of interpretation, figures display the results from 
+the linear modeling of CRP levels. Furthermore, while continuous 
+and categorical forms of each independent variable (e.g., 
+AHI, .SaO2) were used in the model construction, results from 
+the categorical analyses are presented to avoid the assumption 
+of a linear association between the dependent and independent 
+variables. In addition to modeling the morning CRP levels, the 
+difference and the ratio between the morning and evening levels 
+were also examined. Statistical significance was determined by 
+the two-sided test of each regression coefficient. Model fit was 
+assessed by examining the distribution of residuals from each 
+multivariable model as a function of the covariates included in 
+the model. All statistical analyses were conducted using the Stata 
+
+7.0 statistical software package. 
+RESULTS 
+
+The study sample consisted of 69 men with an average age 
+of 40.2 years and BMI of 31.2 kg/m2. The anthropometric, body 
+composition, and sleep characteristics of the sample are shown 
+
+SLEEP, Vol. 30, No. 1, 2007 30 CRP and Sleep Disordered Breathing—Punjabi and Beamer 
+
+
+Table 1—Characteristics of Study Sample (N= 69) 
+
+Variable Mean (SD) Range 
+
+Age, years 40.2 (11.7) 18–64 
+BMI, kg/m2 31.2 (6.0) 20.3–51.9 
+Waist circumference, cm 106.9 (15.8) 79.0–149.5 
+Percent body fat, % 28.1 (8.4) 9.7–50.8 
+AHI events/hr 32.4 (33.0) 0.6–133.1 
+Stage 1 sleep, % 27.2 (21.1) 1.9–86.3 
+Stage 2 sleep, % 54.1 (17.7) 7.3–76.4 
+Slow wave sleep, % 3.1 (8.4) 0.0–56.4 
+REM sleep, % 15.7 (7.4) 0.4–40.6 
+.SaO2, % 5.9 (5.0) 1.4–26.6 
+CRP levels, µg/ml 
+
+Morning 2.7 (3.2) 0.2–13.3 
+
+Evening 2.5 (2.9) 0.2–11.7 
+
+in Table 1. As expected, there was a moderate degree of correlation 
+between BMI and AHI (r = 0.45, 95% CI: 0.24–0.62). BMI 
+was also correlated with other measures of body composition including 
+waist circumference (r = 0.91, 95% CI: 0.87–0.94) and 
+percent body fat (r = 0.79, 95% CI: 0.68–0.86). Further bivariate 
+analyses revealed that morning and evening CRP serum levels 
+were most correlated with AHI (r = 0.48, 95% CI: 0.27–0.64 for 
+morning levels, R = 0.50, 95% CI: 0.30–0.66 for evening levels). 
+In contrast, the unadjusted associations between CRP and 
+measures of body composition were only modest. The correlation 
+coefficients between morning CRP levels, BMI, waist circumference, 
+and percent body fat were 0.30 (95% CI: 0.07–0.50), 0.34 
+(95% CI: 0.11–0.53), and 0.26 (95% CI: 0.02–0.47), respectively. 
+No significant differences in morning and evening CRP levels 
+were noted (absolute difference = 0.03, 95% CI: -0.13–0.20) in 
+unadjusted and adjusted analyses. Thus, all subsequent models 
+were based on the morning CRP levels. 
+
+Figure 1 shows the unadjusted and adjusted CRP levels across 
+quartiles of AHI. Compared to patients with minimal or no SDB 
+(AHI < 6.5, first quartile), CRP levels were higher in patients 
+with moderate (AHI: 19.3–50.0, third quartile) and severe SDB 
+(AHI>50.0, fourth quartile). Compared to the first AHI quartile, 
+the absolute differences in CRP levels for the third and fourth 
+AHI quartiles were by 1.94 µg/ml (third vs first quartile, P<0.04) 
+and 4.00 µg/ml (fourth vs first quartile, P<0.0001), respectively. 
+Adjustments for variables including age, BMI, waist circumference, 
+percent body fat, and the amount of total sleep time on the 
+overnight sleep study led to some attenuation in the association 
+between CRP and AHI. Nevertheless, individuals with severe 
+SDB (fourth quartile) maintained a significantly large difference 
+in CRP levels (. = 3.88, P<0.002) compared to patients with no 
+SDB, and there remained a progressive increase in CRP levels 
+with increasing AHI (P< 0.0001 for linear trend). 
+
+Figure 2 shows the unadjusted and adjusted CRP levels as a 
+function of the average oxyhemoglobin desaturation (.SaO2) associated 
+with occurrence of apneas and hypopneas. With increasing 
+degree of oxyhemoglobin desaturation (.SaO2), CRP levels 
+increased independent of age and measures of adiposity (i.e., 
+BMI, waist circumference, percent body fat). Compared to patients 
+that had an average .SaO2 of less than 3.7% (first category), 
+patients with .SaO2 greater than 5.7% (third category) had higher 
+CRP levels (. = 2.58, P<0.016). 
+
+Analyses relating nocturnal sleep stage distribution to morning 
+CRP levels showed that percentages of stage 1 and stage 2 sleep 
+
+..SaO2 (%) 
+0 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+Unadjusted Analyses Adjusted Analyses 
+z< 3.7% 3.7% – 5.6% > 5.7% 
+P < 0.001 P < 0.016 
+hs-CRP Levels (..g/ml) 
+Figure 2—Serum CRP levels as a function of oxyhemoglobin de-
+saturation (.SaO2). Adjustments made for age, body mass index, 
+waist circumference, percent body fat, and total sleep time. Reported 
+values represent mean and SEM. 
+Apnea-Hypopnea Index (events/hr) 
+< 6.4 6.5 – 19.3 19.3 – 50.0 > 50.0 
+0 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+Unadjusted Analyses Adjusted Analyses 
+P < 0.04 P < 0.08 
+P < 0.002 P < 0.0001 
+hs-CRP Levels (..g/ml) 
+Figure 1—Serum CRP levels as a function of apnea-hypopnea index 
+quartiles. Adjustments made for age, body mass index, waist circum-
+ference, percent body fat, and total sleep time. Reported values repre-
+sent mean and SEM. 
+were associated with CRP levels in unadjusted analyses with correlation 
+coefficients of 0.24 (P<0.05) and -0.29 (P<0.01). However, 
+after adjustments for body composition, the associations 
+between CRP levels and sleep stage percentages were no longer 
+significant (data not shown). 
+
+DISCUSSION 
+
+
+The results of the present study demonstrate that, in the absence 
+of confounding medical conditions, SDB is associated with 
+elevated levels of CRP independent of age, BMI, waist circumference, 
+and percent body fat. In a clinic-based sample of men free of 
+medical comorbidity, a dose-response relationship was identified 
+between serum CRP levels, the frequency of disordered breathing 
+events, and the degree of nocturnal hypoxemia. However, an 
+independent association between CRP levels and the distribution 
+of sleep stages in SDB was not observed. Finally, comparisons of 
+morning and evening CRP levels revealed no significant change 
+after a night of directly observed sleep. 
+
+SLEEP, Vol. 30, No. 1, 2007 31 
+CRP and Sleep Disordered Breathing—Punjabi and Beamer 
+
+
+Table 2—Studies on the association between sleep-disordered breathing and serum CRP levels. 
+
+First author (year) N Study sample Comparison Measures used to Prevalent Association 
+group adjust for obesity medical between 
+conditions CRP and SDB 
+(i.e., AHI) 
+Adult Samples 
+
+Shamsuzzaman (2002) 42 SDB patients BMI and age-matched controls BMI Excluded Yes 
+Yokoe (2003) 44 SDB patients Obese controls BMI Included Yes 
+Teramoto (2003) 80 SDB patients Age and BMI-BMI Excluded Yes 
+
+
+matched controls 
+Barcelo (2004) 65 SDB patients Healthy men BMI Not reported No 
+Guilleminault (2004) 239 SDB patients Community subjects BMI, neck Hypertension No 
+Saletu (2005) 147 SDB patients Patients with AHI < 5 BMI Excluded No 
+Akashiba (2005) 96 SDB patients ---BMI Not reported No 
+Kokturk (2005) 151 SDB patients Subjects with CAD None CAD Yes 
+Minoguchi (2005) 52 SDB patients Obese male subjects BMI Excluded Yes 
+Boudjeltia (2005) 49 SDB patients ---BMI Excluded Yes 
+Can (2006) 92 SDB patients Subjects with AHI < 1 BMI Excluded No 
+Hayashi (2006) 60 SDB patients Male subjects BMI Included Yes 
+Kageyama (2006) 30 Patients with Healthy subjects ---Included Yes 
+
+
+CAD/SDB 
+Current study (2006) 69 SDB patients Patients with AHI < 6 BMI, waist, % Excluded Yes 
+body fat 
+
+
+Pediatric Samples 
+Tauman (2004) 81 Children referred Patients with AHI < 1 BMI Excluded Yes 
+for SDB 
+Kaditis (2005) 141 Children referred Healthy children BMI Excluded No 
+for SDB 
+Larkin (2005) 143 Clinic and community-Subjects from a non BMI Excluded Yes 
+based adolescents clinical cohort 
+
+The potential impact of SDB on subclinical inflammation has 
+been examined in several studies (Table 2). In agreement with 
+our findings, SDB has been independently associated with higher 
+CRP levels in children10 and adolescents12 – study samples with 
+minimal concerns for underlying comorbidities that could confound 
+the associations of interest. Although earlier reports7-9 in 
+adults also raised the possibility that SDB may independently 
+contribute to low-grade systemic inflammation, a number of studies17-
+22 have been unable to verify such an association. In fact, in 
+the largest clinical sample reported to date, Guilleminault et al.18 
+noted that obesity (i.e., BMI) was the primary correlate of serum 
+CRP levels and that CRP did not relate to SDB severity. Similarly, 
+Can et al.21 recently showed that, while CRP levels were elevated 
+in overweight patients with SDB compared to normal weight controls, 
+the apnea-hypopnea index was not associated with serum 
+CRP levels. The discrepancies across available studies may result, 
+in part, from the heterogeneity of study samples, as well as differences 
+in the frequency of key determinants of systemic inflammation 
+such as body weight, visceral obesity, diabetes, and cardiovascular 
+disease. It is well established that measures of body 
+composition including simple anthropometric indices,36 DXA-
+based total fat mass37 and CT-defined visceral fat37,38 are positively 
+associated with CRP concentrations. The association between 
+obesity and inflammation is ascribed to the fact that adipose tissue 
+produces pro-inflammatory cytokines such as tumor necrosis factor-
+a (TNF-a)39 and IL-640 that upregulate the hepatic synthesis of 
+acute-phase proteins.24 In fact, it is estimated that approximately 
+30% of circulating IL-6 is produced by adipose tissue.40 There is 
+also evidence to indicate that visceral adipose tissue secretes more 
+TNF-a and IL-6 than subcutaneous adipose tissue.41,42 Thus, in 
+
+SLEEP, Vol. 30, No. 1, 2007 
+
+assessing whether SDB can elicit low grade systemic inflammation, 
+factors such as body mass, body fat distribution, and medical 
+comorbidity must be thoroughly considered. The exclusion of all 
+medical comorbidity in the current study and the use of multiple 
+obesity measures allowed for a focused examination of serum 
+CRP levels in SDB in a sample across the spectrum of SDB severity. 
+The present study extends previous work by demonstrating 
+that, despite multiple and collinear adjustments for obesity, the 
+AHI and the degree of oxyhemoglobin saturation were positively 
+associated with serum CRP levels. A unique feature of the analyses 
+presented is the identification of an association of serum CRP 
+levels with nocturnal hypoxemia but not sleep stage distribution. 
+Moreover, although it was anticipated that the physiologic stress 
+imposed by intermittent hypoxemia and recurrent arousals due to 
+SDB would acutely perturb systemic inflammation, differences 
+in morning and bedtime CRP levels were not noted — a finding 
+that is consistent with previous work in adolescents.12 The 
+lack of overnight change in CRP levels could be attributed to the 
+relatively long half-life (~19 hours)43 of CRP, ineffectiveness of 
+acute but not chronic bouts of physiologic stress to increase CRP 
+levels, or both. 
+
+Assuming that the reported associations reflect a causal effect 
+of SDB on systemic inflammation, a relevant question is whether 
+the effect is due to SDB-related hypoxemia and/or sleep fragmentation. 
+At present, the biological mechanisms underlying a potential 
+causal association are not known. Experimental data on the 
+physiologic responses to high altitude suggest that a nonspecific 
+systemic inflammatory response can be induced by hypoxic exposure, 
+usually within 2 days.44-46 Moreover, in vitro studies using 
+various cell lines show that low oxygen tension stimulates the 
+
+32 
+CRP and Sleep Disordered Breathing—Punjabi and Beamer 
+
+
+expression and production of IL-6,47-50 the principal initiator of the REFERENCES 
+
+
+hepatic acute-phase response.24 It is also plausible that disturbance 
+in sleep may increase CRP level. Experimental work with acute 
+total and short-term partial sleep deprivation shows that sleep loss 
+can elevate CRP concentrations.51 However, in the present study 
+no such association was observed between serum CRP levels, total 
+sleep time and the distribution of sleep stages. 
+
+There are several strengths and limitations of the current study 
+that merit discussion. Limitations include the possibility of uncontrolled 
+or unknown factors (e.g., subclinical cardiovascular 
+disease) that could confound the association between SDB and 
+systemic inflammation. However, the exclusion of prevalent medical 
+conditions and the adjustments for adiposity with multiple 
+covariates limits the degree to which residual confounding could 
+potentially bias the results. Another limitation is the fact that only 
+indirect measures of obesity (i.e., BMI, waist circumference, and 
+measurement of body fat by bioimpedance) were available. It is 
+well established that the total body fat and the amount of visceral 
+fat are important determinants of circulating CRP levels. Studies 
+that incorporate methods which directly measure total body fat 
+(DXA scanning) and visceral fat accumulation (MRI or CT) will 
+be essential to determine whether the observed associations between 
+SDB and CRP persist after accounting for such measures. 
+Though more difficult, measures of fatty deposition within the 
+liver and skeletal muscle also would define further the effect of 
+fat distribution on CRP levels. Another significant limitation is 
+that the study sample, which included only men referred for clinical 
+polysomnography, necessitates great caution in generalizing 
+these findings, particularly to women. Examining the association 
+between SDB and CRP levels in women requires consideration 
+of factors such as the effects of the menstrual cycle and the use 
+of oral contraceptives and hormonal replacement therapy on CRP 
+levels. In normal premenopausal women, there is a 2-fold increase 
+in CRP levels concurrent with the hormonal changes from the follicular 
+to the luteal phase.52-54 As seen in Figure 1, this magnitude 
+of change is greater than observed between any adjacent quartile 
+of AHI. Moreover, the use of oral contraceptives in premenopausal 
+women and hormone replacement therapy in postmenopausal 
+women has also been shown to influence CRP levels.26-31 Finally, 
+because of the cross-sectional design of the current study, no definitive 
+statement regarding causality can be made. Unfortunately, 
+studies that have examined CRP levels before and after treatment 
+with continuous positive pressure therapy have yielded conflicting 
+results,9,17,19 thereby limiting inferences regarding cause and 
+effect. Studies following CRP levels prospectively in epidemiological 
+and clinical samples are needed to further elucidate the 
+role of SDB in mediating low-grade systemic inflammation. 
+
+There are several public health and clinical implications if SDB 
+is found to be a cause of systemic inflammation. CRP levels that 
+are well below the “upper limit of normal” level of 3 mg/dl levels 
+may portend an increased risk for future cardiovascular events and 
+add prognostic information to traditional cardiovascular risk factors.
+55,56 Since more than 25% of the sample in the current study 
+exceeded the 3mg/dl cut-point, these data would suggest that a 
+state of low-grade inflammation is present in SDB and may act as 
+an intermediary in the causal pathway to cardiovascular disease. 
+
+ACKNOWLEDGMENTS 
+
+
+Supported by National Institutes of Health Grants HL7578 and 
+AG025553. 
+
+SLEEP, Vol. 30, No. 1, 2007 
+
+1. 
+Young T, Peppard PE, Gottlieb DJ. Epidemiology of obstructive 
+sleep apnea: a population health perspective. Am J Respir Crit Care 
+Med 2002; 165(9):1217-1239. 
+2. 
+Pack AI. Advances in sleep-disordered breathing. Am J Respir Crit 
+Care Med 2006; 173(1):7-15. 
+3. 
+Libby P, Ridker PM, Maseri A. Inflammation and atherosclerosis. 
+Circulation 2002; 105(9):1135-1143. 
+4. 
+Sesso HD, Buring JE, Rifai N, Blake GJ, Gaziano JM, Ridker PM. 
+C-reactive protein and the risk of developing hypertension. JAMA 
+2003; 290(22):2945-2951. 
+5. 
+Danesh J, Whincup P, Walker M et al. Low grade inflammation and 
+coronary heart disease: prospective study and updated meta-analyses. 
+BMJ 2000; 321(7255):199-204. 
+6. 
+Danesh J, Wheeler JG, Hirschfield GM et al. C-reactive protein and 
+other circulating markers of inflammation in the prediction of coronary 
+heart disease. N Engl J Med 2004; 350(14):1387-1397. 
+7. 
+Shamsuzzaman AS, Winnicki M, Lanfranchi P et al. Elevated C-reactive 
+protein in patients with obstructive sleep apnea. Circulation 
+2002; 105(21):2462-2464. 
+8. 
+Teramoto S, Yamamoto H, Ouchi Y. Increased C-reactive protein 
+and increased plasma interleukin-6 may synergistically affect the 
+progression of coronary atherosclerosis in obstructive sleep apnea 
+syndrome. Circulation 2003; 107(5):E40. 
+9. 
+Yokoe T, Minoguchi K, Matsuo H et al. Elevated levels of C-reactive 
+protein and interleukin-6 in patients with obstructive sleep 
+apnea syndrome are decreased by nasal continuous positive airway 
+pressure. Circulation 2003; 107(8):1129-1134. 
+10. 
+Tauman R, Ivanenko A, O’Brien LM, Gozal D. Plasma C-reactive 
+protein levels among children with sleep-disordered breathing. Pediatrics 
+2004; 113(6):e564-e569. 
+11. 
+Kokturk O, Ciftci TU, Mollarecep E, Ciftci B. Elevated C-reactive 
+protein levels and increased cardiovascular risk in patients with obstructive 
+sleep apnea syndrome. Int Heart J 2005; 46(5):801-809. 
+12. 
+Larkin EK, Rosen CL, Kirchner HL et al. Variation of C-reactive 
+protein levels in adolescents: association with sleep-disordered 
+breathing and sleep duration. Circulation 2005; 111(15):19781984. 
+13. 
+Minoguchi K, Yokoe T, Tazaki T et al. Increased carotid intima-media 
+thickness and serum inflammatory markers in obstructive sleep 
+apnea. Am J Respir Crit Care Med 2005; 172(5):625-630. 
+14. 
+Hayashi M, Fujimoto K, Urushibata K, Takamizawa A, Kinoshita 
+O, Kubo K. Hypoxia-sensitive molecules may modulate the development 
+of atherosclerosis in sleep apnoea syndrome. Respirology 
+2006; 11(1):24-31. 
+15. 
+Kageyama N, Nomura M, Nakaya Y, Watanabe T, Ito S. Relationship 
+between adhesion molecules with hs-CRP and changes therein 
+after ARB (Valsartan) administration in patients with obstructive 
+sleep apnea syndrome. J Med Invest 2006; 53(1-2):134-139. 
+16. 
+Zouaoui BK, Van Meerhaeghe A, Doumit S et al. Sleep apnoeahypopnoea 
+index is an independent predictor of high-sensitivity C-
+reactive protein elevation. Respiration 2006; 73(2):243-246. 
+17. 
+Barcelo A, Barbe F, Llompart E et al. Effects of obesity on C-reactive 
+protein level and metabolic disturbances in male patients with 
+obstructive sleep apnea. Am J Med 2004; 117(2):118-121. 
+18. 
+Guilleminault C, Kirisoglu C, Ohayon MM. C-reactive protein and 
+sleep-disordered breathing. Sleep 2004; 27(8):1507-1511. 
+19. 
+Akashiba T, Akahoshi T, Kawahara S, Majima T, Horie T. Effects of 
+long-term nasal continuous positive airway pressure on C-reactive 
+protein in patients with obstructive sleep apnea syndrome. Intern 
+Med 2005; 44(8):899-900. 
+20. 
+Kaditis AG, Alexopoulos EI, Kalampouka E et al. Morning levels 
+of C-reactive protein in children with obstructive sleep-disordered 
+breathing. Am J Respir Crit Care Med 2005; 171(3):282-286. 
+21. 
+Can M, Acikgoz S, Mungan G et al. Serum cardiovascular risk factors 
+in obstructive sleep apnea. Chest 2006; 129(2):233-237. 
+33 
+CRP and Sleep Disordered Breathing—Punjabi and Beamer 
+
+
+22. 
+Saletu M, Nosiska D, Kapfhammer G et al. Structural and serum 
+surrogate markers of cerebrovascular disease in obstructive sleep 
+apnea (OSA) Association of mild OSA with early atherosclerosis. J 
+Neurol 2006. 
+23. 
+Juge-Aubry CE, Henrichot E, Meier CA. Adipose tissue: a regulator 
+of inflammation. Best Pract Res Clin Endocrinol Metab 2005; 
+19(4):547-566. 
+24. 
+Castell JV, Gomez-Lechon MJ, David M, Fabra R, Trullenque R, 
+Heinrich PC. Acute-phase response of human hepatocytes: regulation 
+of acute-phase protein synthesis by interleukin-6. Hepatology 
+1990; 12(5):1179-1186. 
+25. 
+Visser M, Bouter LM, McQuillan GM, Wener MH, Harris TB. Elevated 
+C-reactive protein levels in overweight and obese adults. 
+JAMA 1999; 282(22):2131-2135. 
+26. 
+Ridker PM, Hennekens CH, Rifai N, Buring JE, Manson JE. Hormone 
+replacement therapy and increased plasma concentration of 
+C-reactive protein. Circulation 1999; 100(7):713-716. 
+27. 
+Dreon DM, Slavin JL, Phinney SD. Oral contraceptive use and increased 
+plasma concentration of C-reactive protein. Life Sci 2003; 
+28. 
+Primatesta P, Falaschetti E, Poulter NR. Influence of hormone replacement 
+therapy on C-reactive protein: population-based data. J 
+Cardiovasc Risk 2003; 10(1):57-60. 
+29. 
+Langer RD, Pradhan AD, Lewis CE et al. Baseline associations between 
+postmenopausal hormone therapy and inflammatory, haemostatic, 
+and lipid biomarkers of coronary heart disease. The Women’s 
+Health Initiative Observational Study. Thromb Haemost 2005; 
+93(6):1108-1116. 
+30. 
+Hu P, Greendale GA, Palla SL et al. The effects of hormone therapy 
+on the markers of inflammation and endothelial function and plasma 
+matrix metalloproteinase-9 level in postmenopausal women: the 
+postmenopausal estrogen progestin intervention (PEPI) trial. Atherosclerosis 
+2006; 185(2):347-352. 
+31. 
+van Rooijen M, Hansson LO, Frostegard J, Silveira A, Hamsten A, 
+Bremme K. Treatment with combined oral contraceptives induces a 
+rise in serum C-reactive protein in the absence of a general inflammatory 
+response. J Thromb Haemost 2006; 4(1):77-82. 
+32. 
+Jebb SA, Cole TJ, Doman D, Murgatroyd PR, Prentice AM. Evaluation 
+of the novel Tanita body-fat analyser to measure body composition 
+by comparison with a four-compartment model. Br J Nutr 2000; 
+83(2):115-122. 
+33. 
+Pietrobelli A, Rubiano F, St Onge MP, Heymsfield SB. New bioimpedance 
+analysis system: improved phenotyping with whole34. 
+Utter AC, Nieman DC, Mulford GJ et al. Evaluation of leg-to-leg 
+BIA in assessing body composition of high-school wrestlers. Med 
+Sci Sports Exerc 2005; 37(8):1395-1400. 
+35. 
+Rechtschaffen A, Kales A. Manual of standardized terminology, 
+techniques and scoring system for sleep stages of human subjects. 
+Washington, DC: US Government Printing Office., 1968. 
+36. 
+Lear SA, Chen MM, Birmingham CL, Frohlich JJ. The relationship 
+between simple anthropometric indices and C-reactive protein: eth 
+37. 
+Forouhi NG, Sattar N, McKeigue PM. Relation of C-reactive protein 
+to body fat distribution and features of the metabolic syndrome in 
+Europeans and South Asians. Int J Obes Relat Metab Disord 2001; 
+25(9):1327-1331. 
+38. 
+Lemieux I, Pascot A, Prud’homme D et al. Elevated C-reactive protein: 
+another component of the atherothrombotic profile of abdominal 
+obesity. Arterioscler Thromb Vasc Biol 2001; 21(6):961-967. 
+39. 
+Hotamisligil GS, Arner P, Caro JF, Atkinson RL, Spiegelman BM. 
+Increased adipose tissue expression of tumor necrosis factor-alpha 
+in human obesity and insulin resistance. J Clin Invest 1995; 
+95(5):2409-2415. 
+40. 
+Mohamed-Ali V, Goodrick S, Rawesh A et al. Subcutaneous adipose 
+tissue releases interleukin-6, but not tumor necrosis factor-alpha, in 
+vivo. J Clin Endocrinol Metab 1997; 82(12):4196-4200. 
+41. 
+Fried SK, Bunkin DA, Greenberg AS. Omental and subcutaneous 
+adipose tissues of obese subjects release interleukin-6: depot difference 
+and regulation by glucocorticoid. J Clin Endocrinol Metab 
+1998; 83(3):847-850. 
+
+42. 
+Tsigos C, Kyrou I, Chala E et al. Circulating tumor necrosis factor 
+alpha concentrations are higher in abdominal versus peripheral obesity. 
+Metabolism 1999; 48(10):1332-1335. 
+43. 
+Vigushin DM, Pepys MB, Hawkins PN. Metabolic and scintigraphic 
+studies of radioiodinated human C-reactive protein in health and 
+disease. J Clin Invest 1993; 91(4):1351-1357. 
+44. 
+Klausen T, Olsen NV, Poulsen TD, Richalet JP, Pedersen BK. 
+Hypoxemia increases serum interleukin-6 in humans. Eur J Appl 
+Physiol Occup Physiol 1997; 76(5):480-482. 
+45. 
+Hartmann G, Tschop M, Fischer R et al. High altitude increases 
+circulating interleukin-6, interleukin-1 receptor antagonist and C-
+reactive protein. Cytokine 2000; 12(3):246-252. 
+46. 
+Hagobian TA, Jacobs KA, Subudhi AW et al. Cytokine responses at 
+high altitude: effects of exercise and antioxidants at 4300 m. Med 
+Sci Sports Exerc 2006; 38(2):276-285. 
+47. 
+Ala Y, Palluy O, Favero J, Bonne C, Modat G, Dornand J. Hypoxia/ 
+reoxygenation stimulates endothelial cells to promote interleukin1 
+and interleukin-6 production. Effects of free radical scavengers. 
+Agents Actions 1992; 37(1-2):134-139. 
+48. 
+Yamauchi-Takihara K, Ihara Y, Ogata A, Yoshizaki K, Azuma J, 
+Kishimoto T. Hypoxic stress induces cardiac myocyte-derived interleukin-
+6. Circulation 1995; 91(5):1520-1524. 
+49. 
+Hori O, Matsumoto M, Kuwabara K et al. Exposure of astrocytes to 
+hypoxia/reoxygenation enhances expression of glucose-regulated 
+protein 78 facilitating astrocyte release of the neuroprotective cytokine 
+interleukin 6. J Neurochem 1996; 66(3):973-979. 
+50. 
+Yan SF, Ogawa S, Stern DM, Pinsky DJ. Hypoxia-induced modulation 
+of endothelial cell properties: regulation of barrier function and 
+expression of interleukin-6. Kidney Int 1997; 51(2):419-425. 
+51. 
+Meier-Ewert HK, Ridker PM, Rifai N et al. Effect of sleep loss on 
+C-reactive protein, an inflammatory marker of cardiovascular risk. 
+J Am Coll Cardiol 2004; 43(4):678-683. 
+52. 
+Jilma B, Dirnberger E, Loscher I et al. Menstrual cycle-associated 
+changes in blood levels of interleukin-6, alpha1 acid glycoprotein, 
+and C-reactive protein. J Lab Clin Med 1997; 130(1):69-75. 
+53. 
+Blum CA, Muller B, Huber P et al. Low-grade inflammation and estimates 
+of insulin resistance during the menstrual cycle in lean and 
+overweight women. J Clin Endocrinol Metab 2005; 90(6):32303235. 
+54. 
+Puder JJ, Blum CA, Mueller B, De Geyter C, Dye L, Keller U. Menstrual 
+cycle symptoms are associated with changes in low-grade inflammation. 
+Eur J Clin Invest 2006; 36(1):58-64. 
+55. 
+Pearson TA, Mensah GA, Alexander RW et al. Markers of inflammation 
+and cardiovascular disease: application to clinical and public 
+health practice: A statement for healthcare professionals from 
+the Centers for Disease Control and Prevention and the American 
+Heart 
+56. 
+Ridker PM, Hennekens CH, Buring JE, Rifai N. C-reactive protein 
+and other markers of inflammation in the prediction of cardiovascular 
+disease in women. N Engl J Med 2000; 342(12):836-843. 
+SLEEP, Vol. 30, No. 1, 2007 
+34 
+CRP and Sleep Disordered Breathing—Punjabi and Beamer 
+
+

@@ -1,0 +1,638 @@
+J. Paediatr. Child Health (1999) 35, 140–144 
+Aetiological factors and development in subjects with 
+
+
+obstructive sleep apnoea 
+
+
+JMM HARVEY,1 MJ O’CALLAGHAN,1 PD WALES,2 MA HARRIS1 and IB MASTERS2 
+
+1Department of Developmental and Rehabilitation Services, Mater Children’s Hospital and 2Department of Respiratory 
+Medicine, Mater Children’s Hospital, South Brisbane, Queensland, Australia 
+
+Objective: To examine whether maternal pregnancy complications, adverse birth events, respiratory illnesses, or developmental 
+difficulty were increased in neurologically normal children with obstructive sleep apnoea (OSA) and whether severity of 
+OSA adversely affects the child’s development and temperament. 
+Methodology: Maternal report of perinatal events, respiratory illness and developmental difficulty in 37 children with OSA 
+was contrasted with a comparison group (n = 67). Children with OSA were assessed developmentally (Griffiths Scales), had a 
+parental rating of temperament (Australian Temperament Scale) and attended an overnight polysomnographic sleep study. 
+Results: Children with OSA had an increased prevalence of adverse maternal pregnancy and perinatal events, respiratory 
+disease and developmental concerns. Limited associations were found between the severity of OSA and development or 
+temperament difficulty. 
+Conclusions: This study suggests a relationship between OSA, though not its severity, and pre/perinatal adversity and child 
+development. Polysomnographic and detailed developmental assessment of community-based samples of children with OSA 
+and control children are necessary to confirm these findings. 
+
+Key words: aetiology; children; development; obstructive sleep apnoea; temperament. 
+
+Approximately 0.7% of children from 4 to 5 years of age experience 
+breathing and sleep disturbance associated with obstructive 
+sleep apnoea (OSA).1 Adult studies have found that OSA 
+and particularly related parameters such as hypoxemia and 
+obstructive events are likely to have serious consequences for 
+physical, cognitive and behavioural outcome.2,3 The evidence for 
+developmental and behavioural consequences of OSA in 
+children, however, is limited and is based on studies which often 
+describe case series of neurologically impaired children,4 or 
+which lack formal developmental testing of the children or 
+detailed polysomnographic measures of the disease itself.5–8 
+Though it lacked detailed polysomnographic data, the study of Ali 
+et al.9 reported a higher prevalence of attentional difficulties in 
+children with sleep and breathing disorders, and an improvement 
+following adenoidectomy. Population polysomnographic data for 
+children and inconsistencies in definitions of disease make interpretation 
+of any association between disease and development 
+difficult.10 Furthermore, there is a need to assess the association 
+between adverse intrapartum events, perinatal events, and 
+respiratory related illness with OSA as these may predispose the 
+child to both breathing disorders and developmental difficulty.11–13 
+
+In this study we examined whether the prevalence of 
+pregnancy complications, perinatal risk factors, respiratory 
+illnesses or developmental difficulty were increased in neurologically 
+normal children with OSA. We also examined whether the 
+
+Correspondence: JMM Harvey, Department of Developmental and 
+Rehabilitation Services, Mater Children’s Hospital, Mater Hill, Brisbane, 
+Qld 4101, Australia. Fax: (07) 3840 1744; e-mail: jharvey@mater.org.au 
+
+JMM Harvey, Grad Dip Lib Sci, MEd, Research Officer. MJ O’Callaghan, 
+FRACP, MSc, Director of Developmental and Rehabilitative Medicine. 
+PD Wales, B. Nsg, Clinical Nurse. MA Harris, FRACP, Respiratory 
+Physician. IB Masters, FRACP, Director of Respiratory Medicine. 
+
+Accepted for publication 30 September 1998. 
+
+severity of OSA was associated with the nature or degree of 
+disturbance in development and temperament of these children. 
+
+SUBJECTS AND METHODS 
+
+OSA subjects 
+
+Fifty-six children less than 5 years of age were referred to the 
+Mater Children’s Respiratory Sleep Clinic during a 12-month 
+period for assessment of OSA symptoms. All subjects were 
+assessed clinically by a respiratory paediatrician prior to a 
+polysomnographic sleep study which was performed within 
+4 weeks of the clinical visit. All children had a history of frequent 
+snoring for at least 6 months, plus either witnessed apnoea, 
+restlessness during sleep or daytime sleepiness. 
+
+Of these 56 children, 40 (28 male, 12 female, mean age 
+
+32.5 months, age range 2–57 months) were considered by a 
+paediatrician to be neurologically normal and were the subjects 
+for this study. The 16 neurologically abnormal children excluded 
+from the study included 2 children with cerebral palsy, 3 children 
+with meningomyelocele, 4 children with severe global delay, 
+1 child with microcephaly and epilepsy, 2 children with Prader– 
+Willi Syndrome, 1 child with tuberous sclerosis and epilepsy, 
+1 child with Duchenne muscular dystrophy, 1 child with 
+Crouzon’s disease and 1 child with autism. 
+Polysomnographic study (PSG) 
+
+For the 40 neurologically normal children, the mean hours of 
+recorded sleep time was 8.0 h (range 5.3 h to 10.4 h). Inter-
+scorer variability between the three observers (IBM,MAH,PDW) 
+was less than 10%. Apnoea was defined as any cessation of air 
+
+
+Aetiological factors and development in subjects with OSA 
+
+flow as measured by chest and abdominal motion and oronasal 
+flow that was longer than the preceding two breaths. Apnoeas 
+were subclassified as central, obstructive and mixed. Hypopneas 
+were defined as any amplitude reduction in air flow of 50% 
+or greater that lasted longer than the preceding two breaths. 
+Hypopneas were subclassified as central, obstructive or mixed. 
+An Obstructive Event Index (OEI) was defined as the sum of 
+obstructive apnoeas, obstructive hypopnoeas, mixed apnoeas, 
+and mixed hypopnoeas divided by the total sleep time in minutes 
+then multiplied by 60. Oxygen saturation data were expressed 
+as mean data for the total study time. Awake time and artefactual/
+movement oxygen saturation data were deleted in 
+accordance with previously described methods.14 Desaturation 
+data were expressed as the mean number, time and percentage 
+of the total study time equal to or less than 95%, 92%, 90% and 
+85% saturation, respectively. 
+
+OSA definition 
+
+As described by Carroll et al.15 OSA was defined according to 
+the obstructive event OEI from the PSG study. Children were 
+rated as primary snorers (OEI < 1, n = 3), or as having mild OSA 
+(OEI ³ 1 and < 5, n = 21), or moderate/severe OSA (³ 5, n =16). 
+The OEI definition differs slightly to that of Carroll et al. in that no 
+attempt was made to temporally link the oxygen desaturation to 
+the respiratory events of apnoea and hypopnoea. The three 
+primary snorers were excluded from the analysis. 
+
+Equipment 
+
+Monitoring equipment included an electroencephalograph (EEG: 
+C3/A2, 02/A1; 10–20 international placement), two channels 
+of electro-occulogram (EOG: KIC/A2, ROC/A1), chest and 
+abdominal motion (Respitrace, Ambulatory Monitoring Inc., New 
+York, USA), oxygen-saturation measurements (CSI: 504US P 
+Criticare Systems, Waukesha, WI, USA), and transcutaneous 
+carbon dioxide levels (Radiometer, Copenhagen, Denmark). 
+Airflow as measured by pressure transducers (Differential 
+Pressure Transducer no. 4500, Vacumetrics Inc., California, 
+USA) and thermistors was recorded continuously onto a 
+computerised sleep laboratory (Lamont NCI, Medical Systems 
+International, Sydney, Australia). The oxygen saturation recordings 
+were downloaded to an oximetry data analysis program 
+(ODAS, G Harvey, Queensland University of Technology, 
+Brisbane, Australia), whereby artefact free statistical analysis 
+was performed using a Mac II Cl computer. 
+
+Development/temperament of OSA children 
+
+At the time of the overnight sleep study, which was within one 
+month of the clinical assessment, study children were tested 
+using the Griffiths Mental Development Scales16 (n = 40). In 
+addition to an overall developmental quotient, the subscales 
+provide a profile of a number of developmental areas compared 
+to measures such as the Bailey Scales of Development. The 
+shortened versions of the Infant, Toddler and Child questionnaires17 
+have strong psychometric properties and were derived 
+by factor analysis based on data from the Australian Temperament 
+Project. Questionnaires were completed by study 
+parents at the time of the sleep study. Common to all three 
+
+questionnaires were the areas of Rhythmicity, Approachability, 
+and an Easy/Difficult scale. A child was considered to be problematic 
+in an area if they were more than one standard deviation 
+from the mean for the more difficult attribute. These aspects of 
+temperament may reflect behavioural manifestations of OSA.18 
+
+Parental questionnaire 
+
+Detailed questionnaires concerning the perinatal history, the 
+children’s health and their development was completed by the 
+parents of the OSA and comparison children. 
+
+Perinatal history: Events during the first and second half 
+of the pregnancy including fevers, hypertension, sweating, 
+fatigue, swelling, bleeding, infections, alcohol intake and 
+smoking were recorded. Events at birth included the type of 
+delivery, oxygen requirement, resuscitation and whether the 
+infant cried immediately. 
+
+Health: Parental reports of their child’s respiratory illnesses 
+during the past year, including chest/ear infections, asthma, 
+hayfever and snoring behaviour were recorded as well as 
+allergies or a family history of allergy. 
+
+Current development: A rating by parents of ‘average/above 
+average’, ‘mild difficulty’, or ‘moderate/severe difficulty’ was 
+given for the areas of speech, understanding language, hearing, 
+hand skills, movement/co-ordination, social/play, dressing and 
+eating. The mild and moderate/severe ratings were grouped to 
+form a rating of ‘developmental’ concern, as very few parents 
+reported ‘moderate/severe’ concerns. 
+
+Other: Maternal education, maternal age and employment 
+were recorded. 
+
+Comparison group 
+
+Information was available from a concurrent study19 where 
+the same Parental Questionnaire as described above was 
+administered to parents of 75 children less than 5 years of age 
+attending the Outpatients Fracture clinic (61% male, 39% 
+female, mean age 37 (5) months, range 8–62 months). This 
+was considered an appropriate group for comparison of 
+pregnancy and perinatal data, and the aetiology for fractures 
+should be unrelated to OSA or developmental disorder. Eight 
+(11%) of these children were habitual snorers, that is they 
+snored ‘all of the time’ or ‘almost always’ and were therefore 
+excluded from the analyses. Children in the Comparison group 
+had no formal polysomnographic study or Griffiths developmental 
+assessment, and parents did not complete the Temperament 
+Scale. 
+
+STATISTICAL ANALYSES 
+
+Initially the OSA and comparison children were compared for 
+pregnancy/perinatal risk factors, and parental reporting of 
+development and health concerns as derived from the Parental 
+Questionnaire. Secondly, Griffiths scores and infant temperament 
+ratings were examined within the OSA group in relation to 
+the severity of OSA. 
+
+The Chi-square test was used, with Yates correction where 
+appropriate for categorical data, and Student’s t-test was used to 
+compare the mean Griffiths developmental scores. Where data 
+were not normally distributed, the Mann–Whitney U-test was 
+
+
+JMM Harvey et al. 
+
+used. For comparison of means across OSA severity ratings, an 
+analysis of variance was also used. Logistic regression was 
+used to examine possible independent predictors of risk of 
+OSA. A two-tailed P-value of less than 0.05 was considered 
+to be statistically significant. Analysis was performed using 
+SPSS PC+.20 
+
+Ethical approval 
+
+This study was approved by the Mater Children’s Hospital 
+Research and Ethics Committee. 
+
+RESULTS 
+
+No significant differences were present between the OSA and 
+the Comparison groups for, gender (68% study males vs 58% 
+control males), age distribution (mean age 33 (SD 6) months vs 
+37 (14) months), or maternal education and employment. The 
+mean age of the study mothers was slightly lower than that of 
+the comparison group (mean age 31 (5) years vs 33 (6) years, 
+P = 0.05). 
+
+Complications during pregnancy were increased in the study 
+mothers, with a greater proportion reporting infections, fatigue 
+and increased hospitalisations. Children with OSA were reported 
+as less likely to have cried at birth, and more likely to have 
+required oxygen, resuscitation and admission to a special care 
+nursery. Smoking in early (20% vs 22%) and late (22% vs 16%) 
+pregnancy was examined in the study and group controls, but 
+the differences were not statistically significant. Asthma, chest 
+infections and ear infections were also significantly more 
+common in the children with OSA (Table 1). All significant predictors 
+from Table 1 for the categories of pregnancy complications 
+(model 1) and birth events (model 2) were examined in separate 
+logistic models with risk of OSA as the dependant variable. 
+Significant predictors from both of these models remained independent 
+predictors of OSA when entered simultaneously into a 
+
+final logistic model (hospitalised OR 13, 95% CI 2.0–82.8; poor 
+sucking/feeding OR 5.7 CL 1.7–18.9). 
+
+Sixty-eight per cent of children with OSA had a family history 
+of allergies compared to 20% of the comparison group 
+(P < 0.001). Ninety seven per cent of children with OSA had a 
+family history of snoring, though similar data were unavailable 
+for the Comparison group. 
+
+A significantly greater proportion of children in the OSA group 
+were rated by parents as having developmental concerns in the 
+majority of areas evaluated (Table 2). For four of the six 
+developmental areas in Table 2, the relevant subscales of the 
+Griffiths Test for the OSA children could be examined. Maternal 
+ratings of developmental concerns in speech, understanding 
+sentences (Hearing/Speech subscale) and movement (Gross 
+motor subscale), though not play skills (Personal/Social sub-
+scale), corresponded closely with the Griffiths subscale scores. 
+Griffiths GQ and subscale scores were compared for the 21 
+children with mild OSA (OEI ³ 1, < 5) and the 16 children with 
+moderate or severe OSA (OEI ³ 5). Scores in overall GQ (106 
+vs 100, P = 0.1) and all subscales were consistently lower in the 
+children with moderate/severe OSA, although no differences 
+reached the level of statistical significance. 
+
+If children with an OEI ³ 10 were considered as a separate 
+severe group, there was no statistically significant difference 
+between the mild 106 (11), moderate 102 (10) and severe 99 (15) 
+group means, although GQ declined with increasing severity. 
+
+The prevalences of adverse ratings in the temperament areas 
+of Easy/Difficult, Rhythmicity and Approachability were compared 
+between the mild and the moderate/severe OSA groups. No 
+differences were statistically significant. Overall, 11(30%) of the 
+37 OSA children were rated as having a difficult temperament 
+(more than 1 standard deviation above the mean) which is higher 
+than expected from the general population norms. 
+
+As young infants may not show specific developmental 
+delays, the analyses were repeated for parental developmental 
+ratings and Griffiths scores excluding two study infants and three 
+control infants who were less than 12 months of age. No significant 
+changes in the results were found. 
+
+Table 1 Comparison of the prevalence of significant maternal pregnancy complications, birth events and childhood illness for neurologically normal OSA 
+children and comparison children 
+
+OSA children Comparison group 
+(n = 37) (n = 67) 
+Total Problem Total Problem 
+number (%) number (%) P-value 
+Pregnancy complications 
+Infections 36 17 62 3 0.007 
+Hospitalised 36 19 62 3 0.007 
+Fatigue 36 39 60 20 0.04 
+Birth events 
+No immediate cry 32 47 61 13 0.01 
+Require oxygen 33 30 56 11 0.05 
+Resuscitation 35 26 53 4 0.008 
+Admitted to SCN 35 37 63 14 0.03 
+Poor sucking/feeding 34 41 67 13 0.001 
+Childhood illness 
+Asthma 36 56 67 15 < 0.001 
+Chest infections 35 70 67 33 < 0.001 
+Ear infections 35 54 66 20 < 0.001 
+
+Totals vary because of missing data/information unknown to mother; SCN = Special Care Nursery. 
+
+
+Aetiological factors and development in subjects with OSA 
+
+Table 2 Comparison of the prevalence of maternal ratings of current developmental concerns between OSA children and comparison children 
+
+OSA Comparison group 
+(n = 37) (n = 67) 
+Developmental Total Concerns Total Concerns 
+area group (%) group (%) P-value 
+Speech 32 31 66 8 0.002 
+Understanding sentences 32 28 63 8 0.008 
+Hearing 36 36 67 0 < 0.001 
+Play skills 35 20 64 2 0.001 
+Movement 35 34 65 6 < 0.001 
+Eating 36 37 65 7 < 0.001 
+
+Numbers vary because of missing data. 
+
+DISCUSSION 
+
+Children with OSA in this study had a higher prevalence of 
+maternal pregnancy complications, perinatal problems, respiratory 
+related health problems and parental reports of current 
+developmental difficulty than children in the comparison group. 
+We found no statistically significant association between the 
+severity of OSA and either the Griffiths score or a rating of more 
+difficult temperament, although there was a consistent trend for 
+lower GQ scores in children with moderate/severe OSA. 
+
+Relatively few studies to date have dealt with pregnancy or 
+birth events as risk factors for later OSA in children. Kahn et al.11 
+examined exposures during pregnancy of mothers whose 
+children had apnoeic events, and reported that increased 
+smoking during pregnancy was significantly related to increased 
+frequency and duration of these events. Study mothers were 
+also more likely to report bleeding during pregnancy. Blurton-
+Jones et al.21 found an association between increased adverse 
+perinatal biological events in the mothers of children who had 
+frequent night wakings and disturbance of sleep. 
+
+The increased rates of adverse pregnancy and perinatal 
+events in mothers of our children with OSA suggest that these 
+may predispose the child to more severe OSA possibly by 
+impaired neural control of the upper airway, although the mechanisms 
+of this association are uncertain. If all women with 
+missing data were assumed to have no perinatal difficulties, then 
+these differences would still be marked and statistically significant. 
+An alternative explanation would be recall bias, with 
+mothers of mothers of children with OSA being more sensitive to 
+recollecting adverse events in pregnancy. It was possible to 
+examine the maternal charts of the eight study children born 
+within the Mater Hospital. Comparison of the maternal reports 
+and the actual birth records confirmed all adverse perinatal 
+reports. We cannot exclude, however, the possibility that 
+selection factors may have operated where children with more 
+medically complex histories or associated behavioural/developmental 
+difficulties were preferentially referred to the Sleep Unit. 
+
+More recently, a number of studies have suggested that 
+genetic factors may also predispose the individual to apnoeic 
+events.22–24 Given the high prevalence of snoring in the family 
+history of our study children, genetic factors should also be 
+considered as a potential determinant of OSA. 
+
+Increased respiratory illness in children with OSA is common 
+and has been observed frequently in other studies.25 Gaultier10 
+has suggested that symptoms of OSA are more pronounced 
+at times of intercurrent respiratory illness, and this may have led 
+to preferential referral of children with recurrent respiratory 
+
+disease. Recurrent middle ear disease is associated with 
+developmental and behavioural difficulties, especially speech 
+and attentional problems13,26 and may mediate the association 
+between OSA and these outcomes. 
+
+In this study, despite exclusion of the neurologically abnormal 
+children, parental reports of mild and moderate/severe difficulty 
+in a number of current developmental areas was significantly 
+increased in contrast to the comparison group. While it is 
+possible that mothers of children who have been diagnosed with 
+a disease are more likely to overidentify problems of behaviour 
+and development in their child, Glascoe and Sandler27 found that 
+overall parental age-estimates of development in young children 
+were 81% sensitive to likely developmental problems in the 
+areas of fine motor, language, gross motor and behaviour 
+although specificity was lower. Pulsifer et al.28 also support this 
+conclusion and reported that maternal reliability was independent 
+of maternal education and parenting experience. There was 
+also a consistent association between a parental rating of developmental 
+difficulty and lower corresponding Griffiths subscale 
+scores. As mentioned previously, however, children with OSA 
+and associated developmental disorder may be preferentially 
+referred for sleep studies. 
+
+The findings of lower GQ and subscales scores on the Griffiths 
+test in children with moderate/severe OSA were not statistically 
+significant and may be due to chance. Due to lack of resources it 
+was not possible to perform polysomnographic and Griffiths 
+studies on control children so that the high prevalence of parental 
+developmental concerns in OSA children could be confirmed by a 
+comparison of the Griffith scores. The limited analyses possible, 
+however of parental concerns and Griffiths subscale scores were 
+suggestive of consistency. The Griffiths scores in the OSA 
+children may be lower than reported, as recent restandardisation 
+of the Griffiths scale in the UK suggests that it overestimates GQ 
+by 11 points.29 Temperamental or behavioural difficulty in children 
+with OSA has been well recognised.7,8 Guilleminault et al.6 
+reported that 40% of a cohort of 25 children with continuous 
+partial obstruction were either aggressive and rebellious or 
+socially withdrawn. If OSA is related to development and 
+temperament, severity of OSA might have been expected to 
+influence the strength of this association. The spectrum of 
+severity of OSA within our sample is similar to that of Carroll 
+et al.15 Study size was limited by the complexity and cost of sleep 
+studies, and though larger than many similar studies in the literature,
+2,4 the lack of statistical significance may be a beta error 
+and reflect a lack of power. This particularly needs to be considered 
+as the difference in overall GQ between the mild and 
+moderate/severe group was 6 GQ points, which is half a standard 
+
+
+deviation on the Griffiths Test and may be of clinical significance. 
+Though no association was present with global measures of 
+development assessment, examination of more specific cognitive 
+functions such as memory, vigilance and attention as reported in 
+adult studies2,3,30 may have resulted in different findings. 
+
+In summary, this study suggests that a number of pregnancy, 
+perinatal and respiratory factors may predispose to OSA in 
+neurologically normal children. Mothers of children with OSA 
+were more likely to report developmental concerns and more 
+difficult temperament traits, although the association between 
+severity of OSA and development or temperament was not 
+statistically significant. Because of possible selection bias and 
+lack of polysomnographic data for normal children, findings from 
+this study suggest that there is a need for population-based 
+polysomnographic studies of OSA and control children in association 
+with detailed assessments of development, specific 
+cognitive functions, behaviour and temperament. 
+
+ACKNOWLEDGEMENTS 
+
+We wish to acknowledge the support of J Wang in association 
+with the Tzu Chi Charity Foundation. We wish also to acknowledge 
+the JP Kelly Foundation. 
+
+REFERENCES 
+
+1 
+Ali NJ, Pitson DJ, Stradling JR. Snoring, sleep disturbance, and 
+behaviour in 4–5 year olds. Arch. Dis. Child. 1992; 68: 360–6. 
+
+2 
+Findley LJ, Barth JT, Powers DC, Wilhoit SC, Boyd DG, Suratt PM. 
+Cognitive impairment in patients with obstructive sleep apnea and 
+associated hypoxemia. Chest 1990; 90: 686–90. 
+
+3 
+Montplaiser J, Bedard MA, Richer F, Rouleau I. Neurobehavioral 
+manifestations in obstructive sleep apnoea syndrome before and 
+after treatment with continuous positive airway pressure. Sleep 
+1992; 15: 517–9. 
+
+4 
+Kasian GF, Duncan WJ, Tyrrell MJ, Oman-Ganes LA. Elective 
+oro-tracheal intubation to diagnose sleep apnea syndrome in 
+children with Down’s syndrome and ventricular septal defect. Can. J. 
+Cardiol. 1987; 3: 2–5. 
+
+5 
+Brouillette RT, Fernbach SK, Hunt CE. Obstructive Sleep Apnea 
+Syndrome in infants and children. Pediatrics 1982; 100: 31–40. 
+
+6 
+Guilleminault C, Winkle R, Korobkin R, Simmons B. Children and 
+nocturnal snoring: Evaluation of the effects of sleep related respiratory 
+resistive load and daytime functioning. Eur. J. Pediatr. 1982; 
+
+139: 165–71. 
+7 
+Weissbluth M, Davis T, Poncher J, Reiff J. Signs of airway obstruction 
+during sleep and behavioural, developmental, and academic 
+performance. Dev. Behav. Pediatr. 1983; 4: 119–21. 
+
+8 
+Stradling JR, Thomas G, Warley ARH, Williams P, Freeland A. 
+Effect of adenotonsillectomy of nocturnal hypoxaemia, sleep 
+disturbance, and symptoms in snoring children. Lancet 1990; 
+
+335: 249–53. 
+9 
+Ali NJ, Pitson D, Stradling JR. Sleep disordered breathing: effects of 
+adenotonsillectomy on behavior and psychological functioning. 
+Eur. J. Paediatr. 1996; 155: 56–62. 
+
+JMM Harvey et al. 
+
+10 
+Gaultier C. Obstructive sleep apnoea syndrome in infants and 
+children: established facts and unsettled issues. Thorax 1995; 
+
+50: 1204–10. 
+11 
+Kahn A, Groswasser J, Settiaux M et al. Prenatal exposure to cigarettes 
+in infants with obstructive sleep apneas. Pediatrics 1994; 
+
+93: 778–83. 
+12 
+McLaren J, Bryson SE. Review of recent epidemiological studies of 
+mental retardation: prevalence, associated disorders, and aetiology. 
+Am. J. Ment. Retard. 1987; 92: 243–54. 
+
+13 
+Teele DW, Klein JO, Rosner BA. Otitis media and effusion during the 
+first three years of life and development of speech and language. 
+Pediatrics 1984; 74: 282–7. 
+
+14 
+Masters IB, Goes AM, Healy L, O’Neil M, Stephens D, Harris MA. 
+Age-related changes in oxygen saturation over the first year of life: a 
+longitudinal study. J. Paediatr. Child Health 1994; 30: 423–8. 
+
+15 
+Carroll JL, McColley SA, Marcus CL, Curtis S, Loughlin GM. Inability 
+of clinical history to distinguish primary snoring from obstructive 
+sleep apnea syndrome in children. Chest 1995; 108: 610–8. 
+
+16 
+Griffiths R. The Abilities of Young Children: A Comprehensive System 
+of Mental Measurement for the First Eight Years of Life. The Test 
+Agency, High Wycombe, UK, 1970. 
+
+17 
+Prior M, Sanson A, Oberklaid F. The Australian Temperament 
+Project. In: Kohnstamm G, Bates J, Rothbart M., eds. Temperament 
+in Childhood. John Wiley and Sons, New York, 1989: 537–54. 
+
+18 
+Guilleminault C, Korobkin R, Winkle R. A review of 50 children with 
+obstructive sleep apnea syndrome. Lung 1981; 159: 275–87. 
+
+19 
+Harvey JM, O’Callaghan MJ, Vines B. Prevalence of maternal 
+depression and its relationship to ADL skills in children with developmental 
+delay. J. Pediatr. Child Health 1997; 33: 42–6. 
+
+20 
+Norusis MJ. SPSS for Windows (6.0). SPSS Inc, Michigan USA, 
+1993. 
+
+21 
+Blurton-Jones N, Rossetti Ferreira MC, Farquar Brown M, 
+MacDonald BL. The association between perinatal factors and later 
+night waking. Dev. Med. Child Neurol. 1978; 20: 427–34. 
+
+22 
+Pillar G, Lavie P. Assessment of the role of inheritance in sleep 
+apnoea syndrome. Am. J. Respir. Crit. Care Med. 1995; 151 (3 Part l): 
+688–91. 
+
+23 
+Jennum P, Hein HO, Suadicani P, Sorenson H, Gyntelberg F. 
+Snoring, family history, and genetic markers in men. The Copenhagen 
+Male Study. Chest 1995; 107: 1289–93. 
+
+24 
+Guilleminault C, Partinen M, Hollman K, Powell N, Stoohs R. Familial 
+aggregates in obstructive sleep apnoea syndrome. Chest 1995; 107: 
+1545–51. 
+
+25 
+Carroll JL, Loughlin GM. Obstructive Sleep Apnea Syndrome in 
+Infants and Children: Clinical Features and Pathophysiology. In: 
+Ferber R, Kryger M, eds. Principles and Practice of Sleep Medicine 
+in the Child. W.B. Saunders Company, Philadelphia, 1995: 163–91. 
+
+26 
+Haggard MP, Birkin JA, Browning GG, Gatehouse S, Lewis, S. 
+Behaviour problems in otitis media. Pediatr. Infect. Dis. J. 1994; 13: 
+S43–50. 
+
+27 
+Glascoe FP, Sandler H. Value of parents’ estimates of children’s 
+developmental ages. Pediatrics 1995; 127: 831–5. 
+
+28 
+Pulsifer MB, Hoon AH, Palmer FB, Gopalan R, Capute AL. Maternal 
+estimates of developmental age in preschool children. Pediatrics 
+1994; 125: S18–S24. 
+
+29 
+Griffiths R. The Griffiths Mental Development Scales from birth to 2 
+years. Manual. The Test Agency. Henley-on-Thames, UK, 1996. 
+
+30 
+Grant I, Prigatano GP, Heaton RK, McSweeny J, Adams, KM, Timms 
+RM. Progressive neuropsychologic Impairment and hypoxemia. 
+Arch. Gen. Psychiatry 1987; 44: 999–1006. 
+
+

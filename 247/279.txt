@@ -1,0 +1,464 @@
+The Journal of Otolaryngology, Volume 32, Number 3, 2003 
+
+Investigation of Cardiac Function in Children 
+with Suspected Obstructive Sleep Apnea 
+
+Adrian L. James, MA, FRCS (ORL-HNS), 
+Martin Runciman, MBBS, MRCPCH, Martin J. Burton, DM, FRCS, 
+and Andrew P. Freeland, MA, FRCS 
+
+
+Abstract 
+
+Objective: To assess the prevalence of cardiac failure in a group of children with suspected obstructive sleep apnea (OSA) 
+and to assess the need for preoperative electrocardiograms (ECGs) and chest radiographs (CXRs) in children with OSA. 
+
+
+Design: Case record review of 271 children having (adeno)tonsillectomy for symptoms of OSA. 
+Method: Preoperative ECGs and CXRs were assessed for signs of right atrial or ventricular hypertrophy or failure. Case 
+records were assessed for evidence of cardiac failure during anaesthesia. 
+
+
+Results: One child with congenital heart disease had signs of cardiac failure preoperatively. No other cases of atrial or ven
+
+
+tricular hypertrophy or failure were found. 
+Conclusions: Cardiac failure appears to be uncommon in children with symptoms of OSA. Preoperative ECG and CXR are 
+essential in only selected cases. 
+
+
+Sommaire 
+
+Objectif: Évaluer la prévalence de l’insuffisance cardiaque chez un groupe d’enfants suspectés d’avoir une apnée du sommeil 
+
+
+obstructive et d’évaluer le besoin d’une radiographie pulmonaire et d’un ECG préopératoires chez ces enfants. 
+Devis: Revue des dossiers de 271 enfants ayant subi une adéno-amygdalectomie pour des symptômes d’apnée du sommeil 
+obstructive. 
+
+
+Méthodes: Les ECG et rayons-X préopératoires ont été évalués à la recherche de signes d’hypertrophie ou d’insuffisance 
+
+
+auriculaire ou ventriculaire droite. Nous avons aussi évalué les signes d’insuffisance cardiaque durant l’anesthésie. 
+Résultats: Un seul enfant, chez qui on avait diagnostiqué une malformation cardiaque congénital, présentait des signes d’insuffisance 
+cardiaque préopératoire. Aucun autre cas d’insuffisance droite n’a été identifié. 
+
+
+Conclusions: L’insuffisance cardiaque apparaît peu fréquente chez les enfants avec symptômes d’apnée du sommeil obstructive. 
+Les ECG et radiographies pulmonaires ne sont essentiels que dans quelques cas choisis. 
+Key words: cardiac failure, paediatric obstructive sleep apnea 
+
+
+C
+C
+hildhood adenotonsillar hypertrophy encroaches 
+on the pharyngeal airway to a variable extent. Its 
+effect may be seen during sleep in a spectrum of breathing 
+disturbances from snoring to frank obstructive 
+
+Received 03/10/02. Received revised 19/12/02. Accepted for publication 
+19/12/02. 
+
+Adrian L. James: Department of Otolaryngology, Hospital for 
+Sick Children, Toronto, Ontario; Martin Runciman: Department 
+of Paediatric Cardiology, John Radcliffe Hospital, Headington, 
+Oxford, England; Martin J. Burton and Andrew P. Freeland: 
+Department of Otolaryngology–Head and Neck Surgery, Radcliffe 
+Infirmary, Woodstock Road, Oxford, England. 
+
+Address reprint requests to: Dr. Adrian L. James, Department of 
+Otolaryngology, Hospital for Sick Children, 555 University 
+Avenue, Toronto, ON M5R 2R9. 
+
+sleep apnea (OSA). When disruption of sleep is severe 
+enough, this causes daytime hypersomnolence and 
+other related symptoms. On occasion, the physiologic 
+strain of severe OSA is associated with right-sided 
+heart failure. Consequently, OSA has become an 
+important indication for adenotonsillectomy.1 
+
+The association with right-sided heart failure was 
+first demonstrated in a child in 1965.2 Characteristic 
+abnormalities on chest radiography (CXR) and electrocardiography 
+(ECG) were confirmed by cardiac 
+catheterization. These abnormalities return to normal 
+after relief of the obstruction by adenotonsillectomy. 
+Similar cases were, and continue to be, reported.3–6 
+Death from cardiovascular collapse has occurred during 
+induction of anaesthesia in childhood OSA, and, as 
+a consequence, it has been recommended that cardiac 
+function is investigated with preoperative ECG.7 
+
+151 
+
+
+152 The Journal of Otolaryngology, Volume 32, Number 3, 2003 The Journal of Otolaryngology, Volume 32, Number 3, 2003 
+
+Although snoring occurs in 11 to 27% of normal 
+children,8,9 paediatric OSA is estimated to occur in 
+only 0.7% of the normal population.10 It is difficult to 
+determine an exact prevalence, partly because there is 
+no widely accepted definition of OSA in children.11 
+Sleep studies quantify the spectrum from snoring to 
+hypopnea to apnea, but unlike adult OSA, in which the 
+apnea index is widely used,12 there is no consensus on 
+the number and duration of apneas that must occur to 
+make the diagnosis of OSA in children.11,13–15 There is 
+debate on whether a sleep study is needed to diagnose 
+the condition and on what parameters should be measured 
+in a sleep study. In addition, there are few normative 
+data from sleep studies on healthy children with 
+which to compare results.14,16 Many otolaryngologists 
+rely entirely on a history of apneic episodes observed 
+by the parents to make the diagnosis.1,17 
+
+Similarly, there is no clear indication from the literature 
+on the prevalence of cardiovascular abnormalities 
+in paediatric OSA. One study of 92 children who 
+were undergoing adenotonsillectomy for any indication 
+identified signs of pulmonary hypertension in 2%.7 It 
+might be expected that children with episodes of OSA 
+have a higher prevalence and that children with severe 
+OSA would be at the greatest risk. 
+
+This study investigates a group of children undergoing 
+excision of tonsils and/or adenoids for sleep disturbance 
+with symptoms suggestive of OSA. It aims to 
+assess the prevalence of cardiovascular abnormalities in 
+these children as shown by features of right atrial 
+hypertrophy (RAH) or right ventricular hypertrophy 
+(RVH) on preoperative ECG and CXR. The requirement 
+for these preoperative investigations in paediatric 
+OSA is reviewed. 
+
+Method 
+
+A review was made of the notes of 271 cases of children 
+under the age of 17 years undergoing surgery for OSA at 
+the Radcliffe Infirmary, Oxford, UK. Diagnosis of OSA 
+was based on a parental description of cessation of airflow 
+with continued respiratory effort. Sleep studies 
+were not performed routinely. Patients were identified 
+from the otolaryngology theatre database in which 
+details including diagnosis and operation are recorded. 
+The hospital record of each was searched to confirm a 
+description of OSA by an otolaryngologist in the clinic 
+note, letter to general practitioner, or admission clerking. 
+The anaesthetic record was checked for any abnormal 
+intraoperative cardiac event. Departmental policy 
+recommended routine preoperative ECG and CXR in 
+suspected OSA, so when it was present, the ECG was 
+photocopied for subsequent analysis and the CXR 
+report was recorded. A search of the Radiology Department 
+database was made to identify cases in which CXR 
+reports had not been filed in the records. The ECG was 
+
+evaluated for signs of RAH or RVH by age, according to 
+the criteria of Park and Gunteroth.18 RAH causes a 
+peaked P wave in lead II. The features of RVH are given 
+in Table 1. Those found to have any parameters outside 
+the normal range and a random selection of 50 of the 
+remainder were independently and blindly assessed by a 
+paediatric cardiologist (M.R.). All CXR reports were 
+produced by a radiology consultant or registrar. 
+
+Results 
+
+The median age of the 271 cases reviewed was 4 years. 
+Only one child was less than 1 year old, and the maximum 
+age was 14 years (Figure 1). The condition was 
+more common in males (sex ratio 5:3). An ECG was 
+available in 157 (58%) and a CXR in 111 (41%). Both 
+investigations were present in 95 cases (35%), and neither 
+was present in 98 cases (36%). 
+
+There were no cases in which ECG revealed RAH, 
+but there was one case of mild RVH in a 17-month-old 
+child whose CXR was normal and the anaesthetic 
+uneventful. The parents described severe apneic 
+episodes, and a history of mitral and tricuspid valve 
+incompetence led to a sleep study, which recorded oxygen 
+desaturations below 50%. 
+
+One case of right axis deviation and two cases of 
+left axis deviation were found but without any other 
+ECG or clinical abnormalities. All other ECGs were 
+within normal limits (Table 2). 
+
+A prominent pulmonary artery was suspected on 
+the CXR of one 4-year-old child, but the ECG was normal, 
+and no clinical or anaesthetic abnormalities were 
+noted. No other CXRs showed any sign of cardiac failure 
+or hypertrophy. 
+
+No patient showed signs of cardiac failure during 
+anaesthesia. 
+
+Discussion 
+
+Since right-sided heart failure was first described as 
+a complication of childhood OSA over 25 years ago, 
+isolated severe cases have been reported, which have 
+occasionally been associated with intraoperative mortality.
+3–7,19–21 Although such cases are uncommon, it 
+
+Table 1 Electrocardiographic Features of Right Ventricular 
+Hypertrophy 
+
+Right axis deviation 
+Increased rightward and anterior QRS vector 
+(increased R in V4R, V1, or V2; increased S in I or V6) 
+Abnormal R:S ratio in favour of right ventricle 
+
+(increased ratio in V1 and V2; decreased ratio in V6) 
+Upright T wave in leads V1, V5, V6 
+Q wave in lead V1 
+
+Positive finding if outside normal range for patient’s age; greater 
+probability of right ventricular hypertrophy with greater number of 
+positive findings. 
+
+
+James et al., Obstructive Sleep Apnea and Cardiac Investigation 153 153 
+
+Number of Cases 
+
+Age (years) 
+
+Figure 1 Distribution of children with obstructive sleep apnea by age, showing 
+proportion with electrocardiography (ECG) or chest radiography (CXR). 
+
+has been estimated that asymptomatic RVH can be 
+detected in 3% of ECGs in children undergoing adenotonsillectomy.
+7 However, that may be an overestimate 
+of the prevalence of RVH as less reliable data were 
+then available on normal values in paediatric ECG. The 
+study was based on children who were undergoing adenoidectomy 
+and/or tonsillectomy for any indication, so 
+it included children without any obstructive symptoms. 
+Such a group would be expected to show a lower rate 
+of RVH than a group of OSA children; indeed, a prevalence 
+of 20% RVH has been quoted in one group of 
+children with OSA.22 Using the specific criteria of Park 
+and Gunteroth for diagnosing RVH,18 we found only 
+one case of mild RVH (1/197; 0.5%). This child had 
+preexisting congenital cardiorespiratory anomalies. 
+Three cases of isolated axis deviation were found but 
+are not considered significant findings in the absence of 
+other ECG abnormalities. There were no radiographic 
+findings of RVH or RAH or any anaesthetic complication 
+consistent with cardiac failure. 
+
+Our group of patients consisted of children who had 
+obstructive symptoms during sleep and were undergoing 
+(adeno)tonsillectomy. This group might be expected to 
+include children with mild OSA and milder obstructive 
+sleep disturbance and therefore fewer cases of RVH than 
+a group diagnosed by polysomnography. The definition 
+of paediatric OSA is controversial. A history of no airflow 
+despite inspiratory effort is the minimum requirement, 
+and a parental description suggestive of apnea, as 
+used in this study, is considered adequate in many centres.
+1,17,23 It has been shown that clinical history alone 
+has a low predictive value for OSA compared with full 
+polysomnography15,24 when polysomnographic criteria 
+are used to define OSA. Although polysomnography is 
+often referred to as the “gold standard” investigation for 
+OSA,25 in-patient sleep studies are not necessarily representative 
+of a child’s usual sleeping behaviour.26 It is 
+
+claimed that polysomnography is neither readily available 
+nor cost effective.27 Thus, although a sleep study 
+can help in confirmation of the diagnosis, adenotonsillectomy 
+is commonly performed on the basis of obstructive 
+and secondary symptoms alone. Our study shows 
+that in such patients, RVH is uncommon. It is conceivable 
+that the prevalence of RVH may be higher in other 
+populations, for example, where children present with a 
+longer history of OSA. 
+
+Before this review, our departmental policy was to 
+screen for right ventricular failure in all children with 
+suspected OSA using CXR and ECG to detect RVH or 
+RAH. These results suggest that such a policy is no 
+longer necessary as right-sided hypertrophy is less common 
+than previously supposed. To our knowledge, 
+there are no reports of severe cases of right ventricular 
+failure being identified by ECG/CXR screening alone. 
+The rare cases of severe failure described in the literature 
+were detected at presentation either by their 
+unusually severe obstruction or by clinical features of 
+cardiac failure. Full cardiologic investigation should 
+still be performed in such cases to help minimize anaesthetic 
+risk.6,28 
+
+The policy of treating adult OSA has been questioned 
+following evidence suggesting lower cardiac 
+morbidity than previously thought.29 However, the 
+
+Table 2 Abnormalities Found in ECG and CXR 
+
+Abnormality n 
+ECG 
+Left axis deviation 2 
+Right axis deviation 1 
+Right ventricular hypertrophy 1 
+CXR 
+Prominent pulmonary artery 1 
+
+CXR = chest radiography; ECG = electrocardiography. 
+
+
+154 The Journal of Otolaryngology, Volume 32, Number 3, 2003 The Journal of Otolaryngology, Volume 32, Number 3, 2003 
+
+benefits of treatment on quality of life and cognitive 
+performance continue to justify intervention.30 The 
+finding that the risk of cardiac complications in childhood 
+OSA is low does not remove the need for surgical 
+management. Disturbed sleep patterns are well known 
+to cause other problems, including failure to thrive, 
+behavioural disorders, educational and developmental 
+delay, and enuresis.31,32 These, too, have been shown to 
+improve following adenotonsillectomy for OSA.33 
+
+In conclusion, we have found a low rate of RVH in 
+children with clinically suspected OSA. Although it is 
+necessary to be alert to the possibility of cardiac complications 
+in OSA, we do not feel that routine CXR 
+and ECG are necessary in all children with obstructive 
+symptoms. Review of other reports shows that full cardiac 
+assessment is appropriate in selected cases, especially 
+in children with severe symptoms of apnea or 
+cardiac failure. 
+
+References 
+
+1. 
+Rosenfeld RM, Green RP. Tonsillectomy and adenoidectomy: 
+changing trends. Ann Otol Rhinol Laryngol 1990; 99: 
+187–191. 
+2. 
+Menashe VD, Farrehi C, Miller M. Hypoventilation and cor 
+pulmonale due to chronic upper airway obstruction. J Pediatr 
+1965; 67:198–203. 
+3. 
+Noonan CD. Primary and secondary malignancy of the 
+female reproductive system. Radiol Clin North Am 1965; 
+3:375–387. 
+4. 
+Macartney FJ, Panday J, Scott O. Cor pulmonale as a result 
+of chronic nasopharyngeal obstruction due to hypertrophied 
+tonsils and adenoids. Arch Dis Child 1969; 44:585–592. 
+5. 
+Dell KM, Friday JH. A 26-month-old girl with cor pulmonale 
+and obstructive sleep apnoea. Curr Opin Pediatr 
+1995; 7:283–288. 
+6. 
+Sie KC, Perkins JA, Clarke WR. Acute right heart failure 
+due to adenotonsillar hypertrophy. Int J Pediatr Otorhinolaryngol 
+1997; 41:53–58. 
+7. 
+Wilkinson AR, McCormick MS, Freeland AP, et al. Electrocardiographic 
+signs of pulmonary hypertension in children 
+who snore. BMJ 1981; 282:1579–1581. 
+8. 
+Owen GO, Canter RJ, Robinson A. Overnight pulse oximetry 
+in snoring and non-snoring children. Clin Otolaryngol 
+Allied Sci 1995; 20:402–406. 
+9. 
+Owen GO, Canter RJ, Robinson A. Snoring, apnoea and 
+ENT symptoms in the paediatric community. Clin Otolaryngol 
+Allied Sci 1996; 21:130–134. 
+10. 
+Ali NJ, Pitson DJ, Stradling JR. Snoring, sleep disturbance, 
+and behaviour in 4–5 year olds. Arch Dis Child 1993; 68: 
+360–366. 
+11. 
+Rosen CL, D’Andrea L, Haddad GG. Adult criteria for 
+obstructive sleep apnoea do not identify children with serious 
+obstruction. Am Rev Respir Dis 1992; 146:1231–1234. 
+12. 
+Berry DT, Webb WB, Block AJ. Sleep apnoea syndrome. A 
+critical review of the apnoea index as a diagnostic criterion. 
+Chest 1984; 86:529–531. 
+13. 
+Owen G, Canter R, Maw R. Screening for obstructive sleep 
+apnoea in children. Int J Pediatr Otorhinolaryngol 1995; 
+32(Suppl):S67–S69. 
+14. 
+Marcus CL, Omlin KJ, Basinki DJ, et al. Normal polysomnographic 
+values for children and adolescents. Am Rev 
+Respir Dis 1992; 146:1235–1239. 
+15. 
+Wang RC, Elkins TP, Keech D, et al. Accuracy of clinical 
+evaluation in pediatric obstructive sleep apnoea. Otolaryngol 
+Head Neck Surg 1998; 118:69–73. 
+16. 
+Owen G, Canter R. Analysis of pulse oximetry data in normal 
+sleeping children. Clin Otolaryngol Allied Sci 1997; 
+22:13–22. 
+17. 
+Editorial. Snoring children, sleep apnoea and tonsillectomy. 
+Drug Ther Bull 1992; 30:6–7. 
+18. 
+Park MC, Gunteroth WG. How to read pediatric ECGs. St. 
+Louis, MO: Mosby Year Book, 1992:44–51, 61–67. 
+19. 
+Tal A, Leiberman A, Margulis G, et al. Ventricular dysfunction 
+in children with obstructive sleep apnoea: radionuclide 
+assessment. Pediatr Pulmonol 1988; 4:139–143. 
+20. 
+Hunt CE, Brouillette RT. Abnormalities of breathing control 
+and airway maintenance in infants and children as a 
+cause of cor pulmonale. Pediatr Cardiol 1982; 3:249–256. 
+21. 
+Mucklow ES. Obstructive sleep apnoea causing severe pulmonary 
+hypertension reversed by emergency tonsillectomy. 
+Br J Clin Pract 1989; 43:260–263. 
+22. 
+Laurikainen E, Aitasalo K, Erkinjuntti M, et al. Sleep apnoea 
+syndrome in children—secondary to adenotonsillar hypertrophy? 
+Acta Otolaryngol Suppl (Stockh) 1992; 492:38–41. 
+23. 
+Potsic WP. Sleep apnoea in children. Otolaryngol Clin 
+North Am 1989; 22:537–544. 
+24. 
+van Zomeren V, Burmester M, Alusi G, et al. Are sleep studies 
+worth doing? Arch Dis Child 2000; 83:76–81. 
+25. 
+Myatt HM, Beckenham EJ. The use of diagnostic sleep 
+nasendoscopy in the management of children with complex 
+upper airway obstruction. Clin Otolaryngol 2000; 25: 
+200–208. 
+26. 
+Strome M. Obstructive sleep apnoea in Down syndrome children: 
+a surgical approach. Laryngoscope 1986; 96:1340–1342. 
+27. 
+Vavrina J. Computer assisted pulse oximetry for detecting 
+children with obstructive sleep apnoea syndrome. Int J Pediatr 
+Otorhinolaryngol 1995; 33:239–248. 
+28. 
+Helfaer MA, Wilson MD. Obstructive sleep apnoea, control 
+of ventilation, and anesthesia in children. Pediatr Clin North 
+Am 1994; 41:131–151. 
+29. 
+Wright J, Johns R, Watt I, et al. Health effects of obstructive 
+sleep apnoea and the effectiveness of continuous positive 
+airways pressure: a systematic review of the research evidence. 
+BMJ 1997; 314:851–860. 
+30. 
+Stradling J. Sleep apnoea and the misuse of evidence-based 
+medicine. Lancet 1997; 349:201–202. 
+31. 
+Guilleminault C, Korobkin R, Winkle R. A review of 50 
+children with obstructive sleep apnoea syndrome. Lung 
+1981; 159:275–287. 
+32. 
+Brouillette RT, Fernbach SK, Hunt CE. Obstructive sleep 
+apnoea in infants and children. J Pediatr 1982; 100:31–40. 
+33. 
+Stradling JR, Thomas G, Warley AR, et al. Effect of adenotonsillectomy 
+on nocturnal hypoxaemia, sleep disturbance, and 
+symptoms in snoring children. Lancet 1990; 335:249–253. 
+

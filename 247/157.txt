@@ -1,0 +1,701 @@
+Int J Cardiovasc Imaging (2008) 24:261–267 
+DOI 10.1007/s10554-007-9265-1 
+
+ORIGINAL PAPER 
+
+Impaired right ventricular function in adenotonsillar 
+hypertrophy 
+
+Dursun Duman Æ 
+Baris Naiboglu Æ 
+Hande Senem Esen Æ 
+Sema Zor Toros Æ 
+Refik Demirtunc 
+
+Received: 25 April 2007 / Accepted: 16 August 2007 / Published online: 6 September 2007 
+
+Springer Science+Business Media B.V. 2007 
+Abstract Objective Adenotonsillar hypertrophy 
+(ATH) causing upper airway obstruction and obstructive 
+sleep apnea (OSA) syndrome and may lead to the 
+pulmonary hypertension and cor pulmonale. This 
+study was designed to determine the clinical value of 
+right ventricular (RV) myocardial performance index 
+(MPI) in ATH. The effects of adenotonsillectomy on 
+MPI were also assessed. Methods Twenty-one children 
+with grade 3 and grade 4 ATH and 21 age-andsex 
+matched healthy children were enrolled. MPI, 
+defined as the sum of isovolumetric contraction 
+and relaxation time divided by ejection time, was 
+measured by using Doppler echocardiography preoperatively 
+and postoperatively in all subjects. The 
+quality of life in children was also assessed with 
+
+D. Duman 
+Department of Cardiology, Haydarpasa Numune Training 
+and Research Hospital, Istanbul, Turkey 
+D. Duman (&) 
+Hamidiye Mah. Barisyolu Cad Agaoglu My Country 
+Sitesi No 40 D10-1, Cekmekoy, Istanbul 34782, Turkey 
+e-mail: drduman@excite.com 
+B. Naiboglu . 
+H. S. Esen . 
+S. Z. Toros 
+Department of ENT, Haydarpasa Numune Training and 
+Research Hospital, Istanbul, Turkey 
+R. Demirtunc 
+Department of Internal Medicine, Haydarpasa Numune 
+Training and Research Hospital, Istanbul, Turkey 
+obstructive sleep disorder questionnaire (OSA-18). 
+Results The RV MPI in patients with ATH was 
+significantly higher than the control group 
+
+(0.41 ± 0.06 vs. 0.29 ± 0.07; P \ .001). It showed 
+a strong correlation with mean pulmonary artery 
+pressure and OSA-18 survey score (r = 0.71; 
+P \ .005 and (r = 0.64; P \ .01, respectively). The 
+RV MPI and OSA-18 survey score decreased significantly 
+after the relief of upper airway obstruction by 
+adenotonsillectomy (from 0.41 ± 0.06 to 0.31 ± 0.03; 
+P \ .001 and from 83±27 to 36±12; P \ .0001, 
+respectively). The RV MPI in postoperative group 
+was similar to control group. Conclusion Our findings 
+support that advanced stage of ATH is associated 
+with impaired RV functions, which were recovered 
+postoperatively. 
+Keywords Adenotonsillar hypertrophy . 
+Obstructive sleep apnea syndrome . 
+Myocardial 
+performance index . 
+Right ventricular function 
+
+Abbreviations 
+
+ATH Adenotonsillar hypertrophy 
+ET Ejection time 
+ICT Isovolumic contraction time 
+IRT Isovolumic relaxation time 
+LV Left ventricular 
+MPAP Mean pulmonary artery pressure 
+MPI Myocardial performance index 
+OSA Obstructive sleep apnea 
+RV Right ventricular 
+
+123 
+
+
+
+Int J Cardiovasc Imaging (2008) 24:261–267 
+
+Introduction 
+
+Adenotonsillar hypertrophy (ATH) is the most common 
+cause of upper airway obstruction and 
+obstructive sleep apnea (OSA) syndrome in children 
+[1]. Mechanical airway obstruction due to ATH may 
+lead to cardiopulmonary complications associated 
+with hypercarbia, hypoxemia and pulmonary artery 
+vasoconstriction [2, 3]. In the severe form, ATH can 
+lead to right ventricular failure, cor pulmonale, 
+growth retardation, or even to death [1–6]. 
+
+The myocardial performance index (MPI or Tei 
+index) is a non-invasive Doppler measurement of 
+global ventricular function that incorporates both 
+systolic and diastolic functions and may be applied to 
+the right ventricle (RV) or left ventricle (LV). The 
+index can be easily measured by routine Doppler 
+techniques during a standard echocardiographic 
+examination with high reproducibility and is important 
+in the assessment of global RV performance [7, 
+8]. The MPI has been shown to correlate significantly 
+with other invasive or non-invasive measures of RV 
+function [9–11]. This index has been previously used 
+to assess cardiac function in a variety of clinical 
+conditions including pulmonary hypertension, cardiomyopathy 
+and complex congenital heart disease 
+[8, 12, 13]. Recent studies demonstrated that ATH 
+causes higher mean pulmonary artery pressure and 
+increased right ventricular end diastolic diameter, 
+which may improve postoperatively [14, 15]. However, 
+global right and left ventricular functions in 
+ATH has not been studied yet. 
+
+The aim of this study is to determine the clinical 
+value of RV MPI in children with advanced stage 
+(grade 3 or 4) ATH and to clarify whether adenotonsillectomy 
+has any effect on MPI of these children. 
+
+Material and methods 
+
+The study consisted of 21 children with grade 3 or 
+grade 4 ATH (13 male, aged 7.3 ± 1.8 years) and 21 
+control subjects (14 male, aged 7.2 ± 2.2 years). All 
+the patients and/or their parents had complaints of 
+snoring, mouth breathing and pausing of breathe 
+during sleep at least 6 months. Tonsillar hypertrophy 
+was graded according to Brodsky scale [16]as 
+follows: Grade 1: tonsils were in the tonsillar fossa, 
+barely visible behind the anterior pillars; Grade 2: 
+
+tonsils were easily visible behind the anterior pillars; 
+Grade 3: tonsils extended three-quarters of the way to 
+the midline; and Grade 4: tonsils were completely 
+obstructing the airway. Adenoid hypertrophy was 
+graded according to severity of the airway obstruction: 
+Grade 1: indicates \25%; Grade 2: indicates 
+25–50%; Grade 3: indicates 50–75%; and Grade 4: 
+indicates [75% obstruction. It is so difficult to 
+determine the duration of ATH exactly. Therefore 
+possible duration of ATH was defined as the known 
+duration of adenotonsillar enlargement when the 
+study was started. Children with upper airway 
+obstruction due to other causes such as recent upper 
+respiratory tract infection or ongoing infection, 
+allergic rhinitis, grade 1 and grade 2 ATH, head 
+and neck malformation and known or suspected 
+cardiovascular disease were excluded from the study. 
+
+Control subjects were selected among the children, 
+who admitted to our outpatient clinic with no 
+adenotonsillar disease, upper and lower respiratory 
+tract infection and obstruction. 
+
+Parents completed questionnaires the quality of life 
+in children with obstructive sleep disorder questionnaire 
+for the quantitative assessment of the quality of 
+life in children with advanced stage of ATH, parents 
+were asked to fill a questionnaire (OSA-18) [17]. 
+
+It has been well-known that the OSA-18 have a 
+high level of test–retest reliability, validity, and 
+responsiveness in OSA syndrome and has also shown 
+validity for detecting change and evaluating quality 
+of life after adenotonsillectomy in children with OSA 
+syndrome [17–19]. This instrument, which contains 
+an 18-item quality of life survey, was filled out by 
+parents on a 7-point scale from ‘‘none’’ to ‘‘all of the 
+time’’. The items coversleep disturbance, physical 
+suffering, emotional distress, daytime problems, 
+caregiver concerns and total quality of life. 
+
+The study was approved by the Local Ethics 
+Committee and the child’s agreement and parental 
+consent were obtained. All subjects underwent adenotonsillectomy 
+and Doppler echocardiographic measurements 
+were repeated 7.3 ± 2.0 months postoperatively. 
+
+Echocardiographic examination 
+
+Complete two-dimensional, spectral Doppler and 
+color flow Doppler examinations by commercially 
+
+123 
+
+
+
+Int J Cardiovasc Imaging (2008) 24:261–267 
+
+available ultrasound instruments (SIM 7000 CFM 
+Challenge; ESAOTE Ultrasound, Florence, Italy) 
+were performed on all patients and control subjects. 
+Studies were performed by a single experienced 
+operator who was blinded to patients’ names and 
+diagnoses. Calculation of the RV MPI was showed in 
+Fig. 1. Interval ‘‘a’’ is measured between cessation 
+and onset of tricuspid inflow and is equal to the sum 
+of the right ventricular isovolumic activity isovolumic 
+contraction time (ICT), ventricular ejection time 
+(ET) and isovlumic relaxation time (IRT). Interval 
+‘‘b’’ (right ventricular ET) is measured from the 
+beginning to the end of the RV outflow velocity trace. 
+The MPI is defined as the sum of ICT and IRT 
+divided by ET (a–b/b) [11]. Because interrogation of 
+the tricuspid valve inflow and the RV outflow is 
+obtained from different echocardiographic views, 
+care was taken to select traces with R–R intervals 
+within 5% in duration from each other. LV MPI was 
+calculated by measuring ICT and IRT from an apical 
+4-chamber view that displayed the mitral valve 
+inflow and LV outflow during the same cardiac 
+cycle. Five consecutive beats were measured and 
+averaged for each measurement. 
+
+Mean pulmonary artery pressure (mPAP) was 
+calculated from the echocardiographic records of the 
+pulmonary flow trace using the Mahan formula 
+(mPAP [mmhg] = 79 – (0.62 · Act); Act: Acceleration 
+time of the pulmonary flow trace is the time 
+interval between the beginning of the flow and its 
+peak velocity [20]. Echocardiographic systolic PAP 
+
+Fig. 1 Calculation of right 
+ventricular (RV) 
+myocardial performance 
+index (MPI). Interval ‘‘a’’ 
+(from onset of isovolumic 
+contraction to onset of 
+diastolic filling) was 
+determined from tricuspid 
+inflow trace (left). Interval 
+‘‘b’’ (systolic ejection time) 
+was measured from RV 
+outflow trace (right) 
+
+was calculated from the tricuspid regurgitation 
+velocity [21]. Tricuspid regurgitation of measurable 
+quality was recorded in 16 (76%) of patients group 
+and in 13 (62%) control group. 
+
+A simultaneous electrocardiogram was obtained in 
+all patients. Doppler signals were recorded with a 
+strip chart at a paper speed of 50 or 100 mm/s and 
+with .75-in videotape. To prevent possible influence 
+of respiratory and cardiac cycle on measurements, the 
+average of five consecutive Doppler flow traces was 
+calculated for each parameter. 
+
+Twenty random Doppler recordings were analyzed 
+to determine the inter-and intraobserver variability in 
+measurement of the MPI. The mean intraobserver 
+variability in the measurement of the MPI was 2.8%. 
+
+Statistical analysis 
+
+The results were analyzed with the SPSS (statistical 
+package for social sciences) computer program. 
+Continuous variables are presented as mean ± SD. 
+The qualitative values were compared by v 2-test, the 
+significance of difference quantitative values of pre-
+and post-operative groups were estimated by means 
+of independent paired-sample t-test. Correlation 
+between RV MPI and mPAP, age, heart rate, body 
+surface area and symptom score were determined by 
+linear regression analysis. A P value \ .05 was 
+considered significant. 
+
+
+123 
+
+
+
+Int J Cardiovasc Imaging (2008) 24:261–267 
+
+Results 
+
+The clinical characteristics of the study population 
+are summarized in Table 1. Patients with ATH had 
+significantly prolonged sum of ICT and IRT, shortened 
+ET, resulting in significantly increased RV MPI, 
+whereas LV MPI was not different in two groups. 
+The mPAP and the systolic PAP of the ATH group 
+were significantly higher compared to healthy controls 
+(23.8 ± 5.1 vs. 15.4 ± 4.7 mmhg, P \ .005 and 
+
+44.2 ± 9.4 mmhg vs. 25.0 ± 8.9 mmhg, P \ .01 
+respectively) (Table 1). 
+Figure 2 shows the relationship of mPAP and RV 
+MPI preoperatively. There was a strong positive 
+correlation between the two variables (r = 0.71; 
+P \ .005). The RV MPI was also correlated with 
+the OSA-18 survey score (r = 0.64; P \ .01) (Fig. 3). 
+There was no statistically significant correlation 
+between the RV MPI and age, heart rate, duration 
+of ATH, or body surface area of patients group. 
+
+Table 1 Baseline clinical characteristics of children with adenotonsillar 
+hypertrophy and control subjects 
+
+Patients Controls P 
+(n = 21) (n = 21) 
+
+Age, years 7.3 ± 1.8 7.2 ± 2.2 NS 
+Sex (% Female) 38 33 NS 
+Weight, kg 32.7 ± 18.4 34.8 ± 16.8 NS 
+Height, cm 129 ± 22 134 ± 24 NS 
+Body surface area, m2 1.12 ± 0.34 1.17 ± 0.37 NS 
+Heart rate, beats/min 94 ± 14 89 ± 16 NS 
+Systolic blood 97 ± 14 102 ± 12 NS 
+
+pressure, mmhg 
+LV MPI 0.33 ± 0.03 0.31 ± 0.05 NS 
+RV ET (msec) 278.9 ± 23.4 302.8 ± 30.8 \.01 
+RV ICT + IRT 114.4 ± 14.3 87.0 ± 24.0 \.001 
+RV MPI 0.41 ± 0.06 0.29 ± 0.07 \.001 
+mPAP mmhg 23.8 ± 6.0 15.4 ± 4.7 \.005 
+Systolic PAP * 44.2 ± 9.4 25 ± 8.9 \.01 
+
+ATH, adenotonsillar hypertrophy; LV, left ventricular, MPI; 
+myocardial performance index, RV, right ventricular, ET, 
+ejection time, ICT, isovolumetric contraction time, IRT, 
+isovolumetric relaxation time, mPAP; mean pulmonary artery 
+pressure, NS; nonsignificant. Values are given as mean ± SD 
+
+* 
+
+Tricuspid regurgitation was of measurable quality in 16 
+(76%) of the patients group and in 13 (62%) of the control 
+group 
+
+
+Fig. 2 Preoperative right ventricular myocardial performance 
+index (RV MPI) correlated with mean pulmonary artery 
+pressure (mPAP) in children with ATH 
+
+
+Fig. 3 Preoperative right ventricular myocardial performance 
+index (RV MPI) correlated with OSA-18 survey score in 
+children with ATH 
+
+Adenotonsillectomy was performed on all the 
+children with ATH. No preoperative complication 
+was observed. 
+
+Echocardiographic controls of these children were 
+performed 7.3 ± 2.0 months after the operation. The 
+RV MPI and sum of ICT and IRT in ATH group were 
+significantly decreased postoperatively (from 0.41 ± 
+
+0.06 to 0.31 ± 0.03; P \ .001 and, from 114.4 ± 
+14.3 to 93.2 ± 9.2; P \ .005. The RV ET was 
+123 
+
+
+
+Int J Cardiovasc Imaging (2008) 24:261–267 
+
+increased significantly (from 278.9 ± 23.4 to 
+
+300.2 ± 27.6; P \ .01). The RV MPI, sum of ICT 
+and IRT and RV ET in postoperative group were 
+similar to control group (Fig. 3). 
+The preoperative median OSA-18 survey score 
+was 83 ± 27 and decreased to 36 ± 12 postoperatively 
+(P \ .0001). Patients with the preoperative 
+OSA-18 survey score ‡70 (n = 13) had significantly 
+higher RV MPI and mPAP compared with the 
+patients with preoperative OSA-18 survey score 
+
+\70 (n = 8) (0.45 ± 0.04 vs. 0.36 ± 0.05; P \ .001 
+
+and 27.6 ± 5.4 vs. 21.0 ± 4.9; P \ .01 respectively) 
+
+(Fig. 4). 
+
+The mPAP and systolic PAP were improved after 
+the adenotonsillectomy (from 23.8 ± 6.0 mmhg to 
+
+14.9 ± 7.4 mmhg, P \ .01 and, from 44.2 ± 9.4 
+mmhg to 22.4 ± 8.5 mmhg, P \ .005). 
+Discussion 
+
+This is the first study evaluating the clinical value of 
+Doppler-derived MPI in children with ATH. We 
+found that RV MPI as an echocardiographic parameter 
+summarizing right ventricular function was 
+significantly increased in pediatric patients with 
+grade 3 and 4 ATH without evident cardiovascular 
+
+
+Fig. 4 Comparison of right ventricular myocardial performance 
+index (RV MPI) in control, preoperative and 
+postoperative ATH groups 
+
+disease compared with age-matched control subjects. 
+We also showed a significant improvement in RV 
+MPI in these children postoperatively. 
+
+ATH is the most common cause of upper air-way 
+obstruction in pediatric population. Chronic upper 
+airway obstruction often presents with evidence of 
+OSA syndrome; in severe cases these children may 
+also present with pulmonary hypertension and cor 
+pulmonale. The development of pulmonary hypertension 
+and right heart dysfunction from chronic 
+upper airway obstruction is complex. Hypoxemia and 
+hypercarbia-induced respiratory acidosis are potent 
+mediators of pulmonary vasoconstriction that can 
+lead to reversible or irreversible chronic changes in 
+the pulmonary vasculature. It is likely that production 
+of various neurohumoral factors in response to 
+hypoxemia and respiratory distress may further 
+promote pulmonary hypertension, right ventricular 
+dysfunction, and consequent impairment of systemic 
+cardiac output [22, 23]. The symptoms of progressive 
+pulmonary hypertension are minimal until the rapid 
+onset of severe cardiac decompensation occurs. 
+Therefore, early detection of subclinical cardiac 
+impairment may be a crucial for the decision of 
+early surgical approach. Eventually, a reliable, noninvasive, 
+and simple method is needed to evaluate 
+those patients. 
+
+Previous studies demonstrate that non-invasively 
+measured systolic PAP was significantly higher in 
+patients with ATH [14, 15]. In agreement with these 
+studies, we demonstrated that the systolic PAP was 
+significantly increased in patients with ATH compared 
+to controls. We also calculated mPAP using the 
+pulmonary acceleration time. In present study, mPAP 
+but not systolic PAP was included in linear regression 
+analysis to evaluate the correlation between RV MPI 
+and the other variables. A previous study reported 
+that the right-sided heart pressures could be obtained 
+using the tricuspid regurgitation in approximately 
+86% of non-selected patients by the designated 
+cardiologist [24], however, in our study, tricuspid 
+regurgitation was of measurable quality in only 16 
+(76%) of the patients group and in 13 (62%) of the 
+control group. So, both the small sample size of our 
+study and the low number of patients with measurable 
+tricuspid regurgitation could not allowed us to use 
+systolic PAP in this regression analysis. Moreover, 
+Chan et al. compared the three Doppler ultrasound 
+methods (systolic transtricuspid gradient, pulmonary 
+
+123 
+
+
+
+Int J Cardiovasc Imaging (2008) 24:261–267 
+
+acceleration time and right ventricular isovolumic 
+relaxation time) in the prediction of pulmonary artery 
+pressure [25]. Among the three methods, despite the 
+fact that the tricuspid gradient measurement seems to 
+be useful and practical, the pulmonary acceleration 
+time method in prediction of pulmonary artery 
+pressure was satisfactory (r = 0.85) when patients 
+with heart rate between 60 and 100 beats/min were 
+considered. Starting out of this point, heart rates of 
+the majority of the patients and controls in our study 
+were between 60 and 100 beats/min (81% in the 
+patients group and 90% in the control group). 
+Therefore, using the pulmonary acceleration time 
+method for the measurement of pulmonary artery 
+pressure in present study might not cause any 
+important limitation. 
+
+In present study, we also evaluated global right 
+ventricular function using the new noninvasive Doppler-
+derived myocardial performance index which was 
+proposed by Tei et al [14, 15]. The subjects with ATH 
+had significantly higher RV MPI than the controls 
+despite the fact that they had no clinically evident 
+cardiovascular disease, which suggests subclinical RV 
+dysfunction may occur in ATH. Currently, there are no 
+parameters of global RV function that can be easily 
+measured. Contrast right ventriculography has been the 
+gold standard used to assess RV function. However, 
+this method requires invasive techniques and geometric 
+assumption to assess RV volume. Therefore, this 
+method has limited use in patients with complicated 
+RV shape due to congenital heart disease. Magnetic 
+resonance imaging and three-dimensional transthoracic 
+echocardiography are well-validated tecniques for the 
+determination of right ventricular volume and ejection 
+fraction, but in daily clinical practice, high cost and 
+difficulty in doing the exam preclude their use [26]. 
+Transthoracic two-dimensional echocardiography is 
+most widely used for evaluating RV systolic function, 
+but it depends on the assumptions of RV geometry, 
+and thus may not hold true in cases of abnormally 
+shaped right ventricles. Although transtricuspid inflow 
+velocities and the velocity ratio have proved to be 
+useful indicators for the evaluation of right ventricular 
+function, the velocities are not widely used in children 
+with tachycardia because of the merging of E and A 
+velocities to various degrees, which are affected by 
+loading conditions and heart rate [27, 28]. However 
+the Tei index has been reported to be independent of 
+heart rate and blood pressure [29]. Most importantly, 
+
+123 
+
+
+previous studies also demonstrated the clinical value of 
+MPI in identifying early RV impairment in different 
+diseases [30, 31]. Therefore, echocardiographic monitoring 
+of these patients with RV MPI may be more 
+advantageous over the echocardiographic and other 
+noninvasive imaging methods. 
+
+In present study, upper airway obstructive symptoms 
+were assessed by a questionnaire (OSA-18). 
+Patients with OSA-18 survey score ‡70 were identified 
+as those having severe obstructive symptoms 
+(n = 13). These patients had a higher RV MPI and 
+mPAP when compared with the patients having 
+symptom scores \70 (n = 8), which implied mild 
+obstructive symptoms. These findings confirm that 
+severe upper airway obstruction may play an important 
+pathophysiological role in the development of 
+pulmonary hypertension and right ventricular 
+dysfunction. 
+
+Recent studies showed that the cardiorespiratory 
+disturbances due to ATH may be reversed by 
+adenotonsillectomy [14, 15, 22]. In our study, the 
+right ventricular functions and obstructive symptom 
+scores of patients were significantly improved postoperatively. 
+Based on these findings and previous 
+studies, we suggest that the pathological changes in 
+cardiorespiratory system are reversible and adenotonsillectomy 
+is an effective therapeutic measure in 
+patients with grade 3 and grade 4 ATH. 
+
+The primary limitation of this study is the small 
+size of the study group. However, our population was 
+composed of highly selected children with advanced 
+stage of ATH. Another limitation, the upper airway 
+obstruction symptoms were evaluated qualitatively 
+using the OSA-18 survey score. The gold standard for 
+the assesment of the presence and severity of 
+obstructive symptoms is polysomnographic study 
+[32]. However, it was reported that OSA-18 is a 
+practical and reliable method and has shown validity 
+for detecting change and evaluating quality of 
+life after adenotonsillectomy in children with OSA 
+[17–19]. 
+
+In conclusion, present study demonstrates that 
+grade 3 and grade 4 ATH causes increased RV MPI, 
+which reflects subclinical RV dysfunction and surgical 
+intervention by adenotonsillectomy may reverse 
+these cardiac changes. Larger clinical studies are 
+needed to investigate the clinical use of MPI measurements 
+in monitoring the right ventricular function 
+in patient with ATH. 
+
+
+Int J Cardiovasc Imaging (2008) 24:261–267 
+
+References 
+
+1. Wiatrak BJ, Woolley AL (1998) Pharyngitis and adenotonsillar 
+disease. In: Cummings CW, Fredrickson JM, 
+Harker LA, Krause CJ, Richardson MA, Schuller DE (Eds) 
+Otolaryngology Head & Neck Surgery. Mosby-Year Book 
+Inc., 188–215 
+2. Guilleminault C, Eldridge FL, Simmons FB, Dement WC 
+(1976) Sleep apnea in eight children. Pediatrics 59:23–30 
+3. Guilleminault C, Korobkin R, Winkle R (1981) A review 
+of 50 children with obstructive sleep apnea syndrome. 
+Lung 159:275–287 
+4. Brown OE, Manning SC, Ridenour B (1988) Cor pulmonale 
+secondary to tonsillar and adenoidal hypertrophy: 
+management considerations. Int J Pediatr Otorhinolarygol 
+16:131–139 
+5. Marcus CL, Carroll JL, Koerner CB, Hamer A, Lutz J, 
+Loughlin GM (1994) Determinants of growth in children 
+with the obstructive sleep apnea syndrome. J Pediatr 
+125:556–562 
+6. Bower CM, Gungor A (2000) Pediatric obstructive sleep 
+apnea syndrome. Otolaryngol Clin North Am 33:49–75 
+7. Duncan AM, Francis DP, Henein MY, Gibson DG (2004) 
+Importance of left ventricular activation in determining 
+myocardial performance (Tei) index: comparison with total 
+isvolumic time. Int J Cardiol 95:211–217 
+8. Tei C (1995) New index for combining systolic and diastolic 
+myocardial performance: a simple and reproducible 
+measure of cardiac function; a study in normals and dilated 
+cardiomyopathy. J Cardiol 26:357–366 
+9. Tei C, Nishimura RA, Seward JB, Tajik AJ (1997) Noninvasive 
+Doppler-derived myocardial performance index: 
+correlation with simultaneous measurements of cardiac 
+catheterization measurements. J Am Soc Echocardiogr 
+10:169–178 
+10. Salehian O, Schwerzmann M, Merchant N, Webb GD, Siu 
+SC (2004) Assessment of systemic right ventricular function 
+in patients with transposition of the great arteries using 
+the myocardial performance index: comparison with cardiac 
+magnetic resonance imaging. Circulation 110:3229–3233 
+11. Vonk MC, Sander MH, van den Hoogen FH, van Riel PL, 
+Verheugt FW, van Dijk AP (2006) Right ventricle Tei-index: 
+a tool to increase the accuracy of non-invasive detection of 
+pulmonary arterial hypertension in connective tissue diseases. 
+Eur J Echocardiogr. Jul 14; [Epub ahead of print] 
+12. Dyer KL, Pauliks LB, Das B, Shandas R, Ivy D, Shaffer 
+EM, Valdes-Cruz LM (2006) Use of myocardial performance 
+index in pediatric patients with idiopathic 
+pulmonary arterial hypertension. J Am Soc Echocardiogr 
+19(1):21–27 
+13. Eidem BW, O’Leary PW, Tei C, Seward JB (2000) Usefulness 
+of the myocardial performance index for assessing 
+right ventricular function in congenital heart disease. Am J 
+Cardiol 86(6):654–658 
+14. Gorur K, Doven O, Unal M, Akkus N, Ozcan C (2001) 
+Preoperative and postoperative cardiac and clinical findings 
+of patients with adenotonsillar hypertrophy. Int J 
+Pediatr Otorhinolaryngol 59(1):41–46 
+15. Yilmaz MD, Onrat E, Altuntas A, Kaya D et al (2005) The 
+effects of tonsillectomy and adenoidectomy on pulmonary 
+arterial pressure in children. Am J Otolaryngol 26(1): 
+18–21 
+
+16. Broadsky L (1993) Tonsillitis, tonsillectomy, and adenoidectomy. 
+In: Bailey BJ (Eds) Head and neck surgery— 
+otolaryngology. J.B. Lippincott, Philadelphia, PA, pp 833–847 
+17. Franco RA, Rosenfeld RM, Rao M (2000) Quality of life 
+for children with obstructive sleep disorders. Otolaryngol 
+Head Neck Surg 123:9–16 
+18. Sohn H, Rosenfeld RM (2003) Evaluation of sleep disordered 
+breathing in children Otolaryngol Head Neck Surg 
+128:344–352 
+19. Mitchell RB, Kelly J, Call E, Yao N (2004) Long-term 
+changes in quality of life after surgery for pediatric 
+obstructive sleep apnea. Arch Otolaryngol Head Neck Surg 
+130:409–412 
+20. Dabestani A, Mahan G, Gardin JM et al (1987) Evaluation 
+of pulmonary artery pressure and resistance by pulsed 
+Doppler echocardiography. Am J Cardiol 59:662–668 
+21. Ahearn GS, Tapson VF, Rebeiz A, Greenfield JC (2002) 
+Electrocardiography to define clinical status in primary 
+pulmonary hypertension and pulmonary arterial hypertension 
+secondary to collagen vascular disease. Chest 
+122:524–527 
+22. Levy AM, Tabakin BS, Hanson JS, Narkewicz RM (1967) 
+Hypertrophied adenoids causing pulmonary hypertension 
+and severe cardiac failure. N Engl J Med 277:506–511 
+23. Widlitz A, Barst RJ (2003) Pulmonary arterial hypertension 
+in children. Eur Respir J 21:155–176 
+24. Borgeson DD, Seward JB, Miller FA Jr, Oh JK, Tajik AJ 
+(1996) Frequency of Doppler measurable pulmonary artery 
+pressures. J Am Soc Echocardiogr 9:832–837 
+25. Chan KL, Currie PJ, Seward JB et al (1987) Comparison of 
+three Doppler ultrasound methods in the prediction of 
+pulmonary artery pressure. J Am Coll Cardiol 9:549–554 
+26. Fujimoto S, Mizuno R, Nakagawa Y, Dohi K, Nakano H 
+(1998) Estimation of the right ventricular volume and 
+ejection fraction by transthoracic three-dimensional echo-
+cardiography. A validation study using magnetic resonance 
+imaging. Int J Card Imaging 14(6):385–390 
+27. Thomas 
+D, Weyman AE (1991) Echocardiographic 
+Doppler evaluation of left ventricular diastolic function: 
+physics and physiology. Circulation 84:977–990 
+28. Harada K, Takahashi Y, Shiota T, Suzuki T et al (1995) 
+Effect of heart rate on left ventricular diastolic filling 
+patterns assessed by Doppler echocardiography in normal 
+infants. Am J Cardiol 76:634–636 
+29. Tei C, Dujaradin KS, Hodge DO 
+et al (1996) Doppler 
+echocardiographic index for assessment of global right 
+ventricular function. J Am Soc Echocardiogr 9:838–847 
+30. Eidem 
+BW, Tei C, O’Leary PW, Cetta F, Seward JB 
+(1998) Nongeometric quantitative assessment of right and 
+left ventricular function: myocardial performance index in 
+normal children and patients with Ebstein anomaly. J Am 
+Soc Echocardiogr 11:849–856 
+31. Eidem BW, O’Leary PW, Tei C, Seward JB (2000) Usefulness 
+of the myocardial performance index for assessing 
+right ventricular function in congenital heart disease. Am J 
+Cardiol 86:654–658 
+32. Messner AH (1999) Evaluation of obstructive sleep apnea 
+by polysomnography prior to pediatric adenotonsillectomy. 
+Arch Otolaryngol Head Neck Surg 125:353–356 
+123 
+
+
+

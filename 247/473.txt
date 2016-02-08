@@ -1,0 +1,872 @@
+SLEEP-RELATED BREATHING DISORDERS 
+Predictors of Sleep-Disordered Breathing in Children with a History of 
+Tonsillectomy and/or Adenoidectomy 
+
+Sunny Morton BA,1 Carol Rosen MD,1 Emma Larkin MHS,1 Peter Tishler MD,2 Joan Aylor BA,1 and Susan Redline MD, MPH2 
+
+1Department of Pediatrics, Case Western Reserve University, Rainbow Babies & Children’s Hospital, Cleveland, OH; 2Harvard Medical School and 
+
+VA Boston Healthcare System, Boston, MA 
+
+Study Objectives: To identify predictors of sleep-disordered breathing 
+(SDB) in children who have undergone self-reported tonsillectomy and/or 
+adenoidectomy (TA). 
+Design: Observational study of pediatric participants in a longitudinal 
+genetic-epidemiological cohort study of SDB 
+Setting: Community-based; studies conducted at participants’ homes 
+Participants: 577 children age <18 (10.8±4.2 SD) years; 53% female; 
+48% Black; 76% with a family member identified with SDB 
+Interventions: NA 
+Measurements and Results: Medical history assessed by questionnaire. 
+Physical measures made directly. SDB was assessed with overnight in-
+home cardio-respiratory monitoring. 10% of children (n=60) had had aTA 
+5.5±4.6 yrs previously. An Apnea-Hypopnea Index (AHI, events/hr) =5 
+was found in a higher proportion of children with a reported TA than in children 
+with no history of out surgery (35% vs. 13.7%, p<.001). A TA was 
+reported more frequently for non-Blacks than for Blacks (13.6% non-
+Blacks, 6.9% Blacks, p=.02). Among children who had a TA, significant 
+predictors of SDB (AHI=5) were: Black ethnicity (SDB in 57% vs. 24% of 
+
+Blacks vs. non-Blacks; adjusted odds ratio (OR): 3.85; 95% CI: 1.11, 
+13.33) and obesity (OR 3.98; 95% CI: 1.05, 15.08). SDB also tended to 
+be greater in children with a family member with SDB (OR 2.87; 95% CI: 
+0.65, 12.07). 
+Conclusions: Black children were less likely to have undergone TA but 
+more likely to have SDB after TA surgery. These findings underscore the 
+need to follow children post-TA and for evidence-based studies that define 
+the role of TA in the management of pediatric adenotonsillar disease. 
+Key words: Sleep apnea syndromes; child; tonsillectomy; adenoidectomy; 
+risk factors; blacks; health services accessibility 
+Abbreviations: TA, tonsillectomy and/or adenoidectomy; SDB, sleep-disordered 
+breathing; AHI, apnea-hypopnea index; PSG, polysomnogram; 
+CSHQ, Children’s Sleep and Health Questionnaire; HSSQ, Health and 
+Sleep Study Questionnaire; GEE, generalized estimated equations; OR, 
+odds ratio; CI, confidence interval; SD, standard deviation 
+
+INTRODUCTION SDB is playing an increasing role as a primary indication30 for 
+the estimated 287,000 tonsillectomies with or without ade-
+
+SLEEP-DISORDERED BREATHING (SDB), A COMMON 
+
+noidectomy performed annually in the United States in children 
+
+MEDICAL DISORDER IN CHILDREN, IS CHARACTER-
+
+less than 15 years of age.31,32 Worldwide, the percentage of ade-
+
+IZED BY RECURRENT EPISODES OF COMPLETE OR PAR
+
+
+notonsillectomies performed for SDB has risen dramatically in
+
+TIAL UPPER-AIRWAY COLLAPSE that interferes with normal 
+
+the past two decades, even as the total number of procedures has
+
+ventilation and disrupts sleep quality. Snoring with difficulty 
+
+decreased.30,33,34 One institution reported that the proportion of
+
+breathing or observed apneas are the most common symptoms 
+
+adenotonsillectomies for SDB rose from 25% to 61.5% between 
+
+that bring children with SDB to medical attention.1 Although 
+
+1988 to 1994.33 
+
+SDB is increasingly recognized in the pediatric population (esti-
+
+This study examines self-reported tonsillectomy and/or ade
+
+
+mated prevalence minimally 1%—3%,2-4 precise criteria for 
+
+noidectomy (TA) among children from a large community-based 
+
+identifying children with SDB still do not exist. Adverse health 
+
+sample, approximately 50% Black, the majority of whom have a
+
+effects can include growth impairment,5-10 increased blood pres
+
+
+relative with SDB. The goals of the study were to determine the 
+
+sure,11 and neurocognitive and behavioral dysfunction.7,12-16 
+
+distribution of TA by ethnicity, the prevalence of SDB after TA, 
+
+When SDB is accompanied by adenotonsillar hypertrophy, 
+
+and the potential risk factors for SDB after TA, including gender, 
+
+treatment usually includes adenotonsillectomy. The most com
+
+
+obesity, ethnicity, allergies, maternal smoking, and family histo
+
+
+mon indications for adenotonsillectomy are chronic or recurrent 
+
+ry. 
+
+adenotonsillar infection and SDB. Although several authors have 
+studied the effectiveness of adenotonsillectomy,17-22 its indica-
+
+METHODS
+
+tions remain poorly defined and/or controversial.20,23-27 As evidence 
+for this controversy, the population rates of adenotonsil-Sample 
+lectomy differ significantly in different regions of the United 
+
+The study population was drawn from 645 children (age <18
+
+States, Canada, and Europe.28,29 
+
+years) who participated in the Cleveland Family Study, an ongoing 
+longitudinal genetic-epidemiological study of SDB. Subjects 
+were studied during an initial (baseline) visit. As part of the long-
+
+Accepted for publication August 2001 
+
+term follow-up of the entire sample, some children also have
+
+Address correspondence to: Susan Redline MD, MPH, Department of 
+
+been evaluated using identical assessments after a six-year fol-
+
+Pediatrics, Rainbow Babies & Children’s Hospital, 11100 Euclid Ave., 
+
+low-up time. The sample currently consists of 255 index families 
+
+Cleveland, OH 44106; Tel: 216-844-4999; Fax: 216-844-4998; 
+
+with 1806 members recruited as the biologic relatives or spouses
+
+E-mail: sxr15@po.cwru.edu. 
+SLEEP, Vol. 24, No. 7, 2001 823 Predictors of Sleep-Disordered Breathing in Children—Morton et al 
+
+
+
+of subjects with laboratory-confirmed obstructive sleep apnea 
+(probands) and 72 control families with 497 members. Eligible 
+probands had an Apnea-Hypopnea Index (AHI) of =20 (for 
+adults), or a diagnosis of SDB severe enough to warrant treatment 
+and at least two first-degree relatives living within driving 
+distance of the laboratory. Exclusion criteria were: presence of 
+major psychiatric disease, unstable congestive heart failure, renal 
+failure requiring dialysis, or pulmonary disease with continuous 
+oxygen dependence. As accrual progressed, eligibility requirements 
+were expanded to include probands who were children 
+(<18 years) with SDB, as identified by an AHI >5, the absence of 
+genetic and craniofacial syndromes (e.g., Down syndrome), and 
+the other criteria noted above. Neighborhood controls were chosen 
+randomly from a list of friends/neighbors provided by affected 
+probands who were studied during the first four years of the 
+study.35 Later studies were limited to families of affected 
+probands only. 
+
+The sample reported in this paper included 577 children with 
+acceptable limited-channel in-home overnight cardio-respiratory 
+data (89% of all children <18 years enrolled in the cohort). The 
+data included in the present publication are those derived from 
+the first exam in which the subject (or subject’s parent) reported 
+that a TA had been performed. If no TA had been reported on any 
+exam, data from the initial (baseline) visit were analyzed. A TA 
+was first reported on a follow-up exam for only four children and 
+one child did not complete a home sleep study at the baseline 
+visit; thus, data from 572 children were derived from the baseline 
+visit, and data from five children were based on data collection 
+from a follow-up visit. 
+
+Protocol 
+
+The study visits were described in greater detail previously.35 
+Briefly, trained research assistants studied families at home or 
+other convenient locations. Medical history, medication use, family 
+medical history, ethnicity, and snoring symptoms were 
+assessed with the Children’s Sleep and Health Questionnaire 
+(CSHQ) or the Health and Sleep Study Questionnaire (HSSQ), 
+previously described.36 Although similarly structured, these questionnaires 
+contained different items relevant for younger and 
+older children, respectively. The CSHQ, completed by a parent, 
+was generally used for children <13 years of age (n=379; 66% of 
+children). The HSSQ was completed by all adults (to identify 
+maternal characteristics), and by children, generally =13 years of 
+age, able to self-complete it, or able to complete it with some 
+assistance from their parents (n=197; 34% of children). Data on 
+maternal education were extracted from the mother’s HSSQ, 
+when available. 
+
+Overnight in-home cardio-respiratory monitoring was performed 
+with an Edentrace I or II monitor (Eden Prairie, MN) 
+measuring airflow (nasal/oral thermistry), chest wall impedance, 
+finger pulse oximetry, and heart rate. Height and weight (and 
+other physical and physiological data not reported here) were 
+measured directly. Tonsillar size was noted on a four-point scale, 
+rating the amount of lymphoid tissue relative to the visible posterior 
+pharyngeal space (present to <25% visible pharyngeal 
+space; =25 to < 50%; =50 to < 75%; and =75% of pharyngeal 
+space).37 
+
+The protocol was approved by the Institutional Review 
+Boards of local hospitals (University Hospitals of Cleveland, the 
+
+Louis Stokes Cleveland Department of Veterans Affairs Medical 
+Center, and MetroHealth Medical Center) from which probands 
+were recruited. Appropriate informed consent was obtained from 
+all subjects or parent proxy for children. 
+
+Definitions 
+
+Boys younger than age 15 and girls younger than age 14 were 
+classified as obese if their BMIs exceeded the 95th percentile for 
+age and gender.38 Older children with a BMI=27 were considered 
+obese. Children who underwent TA were defined by an 
+affirmative answer to: “Have your child’s tonsils been removed?” 
+and/or “Have your child’s adenoids been removed?” (CHSQ), or 
+to “Have your tonsils and/or adenoids been removed?” (HSSQ). 
+“Current loud snoring” and “history of loud snoring” were identified 
+based on responses to a four-level Likert scale question on 
+snoring intensity. “Loud snoring” was considered present when 
+snoring was noted to be louder than “mumbling or talking.” 
+When this was reported to have occurred or been noted over the 
+last one month, the subject was considered to be a “current” loud 
+snorer; subjects who reported that snoring of this intensity had 
+ever occurred were considered to have a “history of” loud snoring. 
+A history of any snoring was based on responses to a yes/no 
+question regarding whether the subject had ever snored. Children 
+with allergies were identified as those reported to have had a positive 
+skin allergen test for pollen, dust, or mold. Doctor-diagnosed 
+asthma was based on questionnaire responses. 
+
+From the overnight cardio-respiratory studies, respiratory 
+events were defined as cessations (apneas) or discrete reductions 
+(hypopneas) in airflow or chest impedance; either event type was 
+required to last at least 10 seconds and be associated with at least 
+a 2.5% fall in oxygen saturation. Sleep time was estimated from 
+visual inspection of the sleep record, correlated with a sleep diary 
+completed by the subject. The record was considered as indicating 
+“wakefulness” if the sleep diary indicated that the child was 
+awake/sleep, or the record showed persistent movement artifact, 
+frequent positional changes over a short time interval, or abrupt 
+changes in heart rate unassociated with other physiological correlates. 
+The AHI was determined by dividing the number of respiratory 
+events by the estimated hours of sleep time. The AHI, 
+which was calculated from these measures, has been shown previously 
+to correlate excellently with that derived from full in-laboratory 
+polysomnography.39 This definition was used to provide 
+a consistent classification of SDB across age groups (for our 
+other genetic studies.) The comparability of data derived using 
+this definition to respiratory event definitions from the American 
+Thoracic Society (ATS) consensus statement of standards for cardiopulmonary 
+sleep studies in children40 was assessed in a sub-
+analysis of 20 randomly chosen pediatric records (AHI 0 to 42) 
+that were blindly re-scored. In these records, the AHI included all 
+obstructive (absent airflow with continued effort) apneas regardless 
+of desaturation, and hypopneas (reduced airflow, continued 
+effort, and 4% desaturation). The correlation between the AHIs 
+determined with these two approaches was excellent (Spearman’s 
+r=.76, p<.0001). In regression analyses, SDB was defined by 
+dichotomizing the AHI as <5 or =5. 
+
+Data Analysis 
+
+The distributions of AHIs were highly skewed and therefore 
+
+SLEEP, Vol. 24, No. 7, 2001 824 Predictors of Sleep-Disordered Breathing in Children—Morton et al 
+
+
+Table 1—Characteristics of children (< 18 Years) who have and have not undergone a tonsillectomy and/or adenoidectomy (TA), 
+
+Cleveland Family Study, 1990-2000 
+All N=577 No TA N=517 Received TA N=60 P-value* 
+Age, years† 10.8 ± 4.2 10.6 ± 4.2 12.2 ± 4.5 .07 
+Male, % 47.1 46.6 51.7 .53 
+BMI, kg/m2 20.8 ± 5.9 20.6 ± 5.7 23.1 ± 7.2 .11** 
+Obese, % 22.8 22.4 26.7 .58 
+Height, cm 143.8 ± 24.0 143.1 ± 23.9 149.7 ± 24.2 .30 
+Ethnicity, % Black † 47.7 49.5 31.7 .02 
+History of Any Snoring, % 54.9 53.1 70.0 .02 
+History of Loud Snoring, % 23.7 22.5 33.9 .10 
+Current Loud Snoring, % 17.9 17.6 20.3 .81 
+Recruitment source,% Affected Proband 76.3 76.6 73.3 .54 
+Doctor-diagnosed Asthma, % 14.2 13.7 18.3 .26 
+Allergies to pollen, dust or mold, % 6.2 5.6 11.7 .14 
+Mother College Graduate, % 22.3 22.6 (n=416) 20.0 (n=50) .71 
+
+*All p-values account for correlated family data and compare the TA and non-TA groups; †Continuous variables presented as mean ± standard deviation 
+(SD); **p-value based on the log transformation of BMI. † "Other" ethnicities = 98% white, 2% Hispanic or Asian. 
+
+Table 2—Sleep-disordered breathing in children, who have and have not undergone a tonsillectomy and/or adenoidectomy (TA) 
+
+Characteristic All N=577 No TA N=517 Post-TA N=60 P value* 
+
+AHI =5, % 15.9 13.7 35.0 <.001 
+AHI =10, % 6.6 5.6 15.0 .004 
+Median AHI 
+
+Interquartile Range 1.5 1.5 3.0 <.001† 
+
+0.7 - 3.3 0.7 - 3.1 1.5 - 6.0 
+*All p-values account for correlated family data, † p-value derived using regression for correlated family data on the natural log transform of AHI; compares 
+TA and non-TA groups. 
+
+are described according to their median and inter-quartile levels. 
+Data were analyzed using SAS version 8.1 (SAS Institute, Inc., 
+Cary, NC). Bivariate comparisons of variables on all 577 children 
+were made using procedures that accounted for correlated family 
+data (using Proc Mixed for continuous variables or Proc Genmod 
+and generalized estimated equations (GEE) for categorical variables). 
+Analyses limited to the 60 children post-TA were conducted 
+using both simple and multivariate logistic regression to 
+assess the independent contributions (and odds ratios) for putative 
+risk factors, both before and after adjusting for potential confounders 
+(Proc Logistic). 
+
+RESULTS 
+
+Characteristics of the 577 children who did and did not undergo 
+TA are summarized in Table 1 (column 1). The overall average 
+age of the sample was 10.8±4.2 years. The numbers of males 
+and females were roughly equal, as was the non-Black and Black 
+distribution: the sample was 52% non-Black (98% white; 2% 
+Hispanic or Asian) and 48% Black. About three-fourths (76%) of 
+the sample was recruited from a family with a proband with laboratory-
+diagnosed SDB, reflecting the study design of this genetic 
+epidemiologic study. More than half the children had a history 
+of any snoring; however, less than one-fourth had a history of 
+loud snoring or were current loud snorers. Mothers of 22% of the 
+children were college graduates. 
+
+Sixty children (10.4%) had undergone a TA on average 
+
+5.5±4.6 years prior to the current assessment. The group who had 
+and had not undergone TA are comparable for age, sex, recruitment 
+source (from an index or control family), and maternal education 
+(p>.05) (Table 1, columns 2 and 3). Black children were 
+significantly less likely to have undergone TA than other ethnic 
+groups (Table 1; in the overall sample, 13.6% of non-Blacks vs. 
+6.9% of Blacks had reported a TA; p=.02). Children who had a 
+TA tended to be more obese and have a higher prevalence of doctor-
+diagnosed asthma and self/parent-reported atopy (i.e., reported 
+positive allergy skin tests). However, these differences were 
+not statistically significant. A history of any snoring was more 
+prevalent in those who had had TA than those who had not had 
+TA (p=.02). A history of loud snoring also tended to be more 
+common in the TA group than in the non-TA group (34% vs. 
+23%). However, this difference was not statistically significant 
+(p=.10). In contrast to the prevalence of a history of loud snoring, 
+the prevalence of current loud snoring in the TA group was only 
+20%, and quite similar to the prevalence in the non-TA group 
+(18%). 
+
+In the overall sample, the median AHI is 1.5 (0.7-3.3, 
+interquartile range); 6.6% of subjects had an AHI=10, and 15.9% 
+had an AHI=5 (Table 2). The group who had undergone TA 
+showed a greater level of SDB than those who had never had TA. 
+Of the TA group, 35% showed a post-TA AHI =5, compared to 
+only 13.7% of children who had never undergone TA (p<.001). 
+This disparity persisted at an AHI =10: 15.0% of children who 
+had undergone TA also had that degree of SDB while only 5.6% 
+
+SLEEP, Vol. 24, No. 7, 2001 825 Predictors of Sleep-Disordered Breathing in Children—Morton et al 
+
+
+Table 3—Risk factors for sleep-disordered breathing, among children post-tonsillectomy and/or post-adenoidectomy* 
+
+AHI <5 N=39 AHI =5 N=21 Unadjusted OR 95% CI 
+Age, mean (SD) 11.7±4.3 13.7±4.4 1.14 1.00 - 1.30 
+Sex (% Male) 46.2 61.9 1.90 0.64 - 5.60 
+Obese, % 18.0 42.9 3.43 1.04 - 11.27 
+Mother College Graduate, % † 31.3 0 -Ethnicity, 
+% Black . 
+20.5 52.4 4.26 1.34 - 13.55 
+Recruitment Source, % Affected 66.7 85.7 3.00 0.75 - 12.07 
+Doctor-diagnosed Asthma, % 12.8 28.6 2.72 0.72 - 10.3 
+Allergies to Pollen, Dust or Mold, % 15.4 4.8 0.28 0.03 - 2.45 
+Time since surgery, mean (SD)‡ 4.6±3.2 7.1±6.2 1.13 0.99 - 1.29 
+
+* Results are unadjusted (univariate) estimates made using simple logistic regression analysis; † Odds ratio could not be computed because of 0 
+value; p=.01 by Fisher's exact text; ‡ Based on n=52; ..Reference group = white (n=40) and Hispanic (n=1). 
+Table 4—Independent predictors of sleep-disordered breathing (AHI=5), in children post-tonsillectomy and/or post-adenoidectomy 
+
+Covariate 
+Obese (1=yes) 
+Adjusted OR* 
+3.98 
+95% CI 
+1.05-15.09 
+Black (1=yes) 3.85 1.11-13.33 
+High Familial Risk (Related to an Affected Proband) (1=yes) 2.87 0.65-12.70 
+*Odds ratio is adjusted for all other covariates in the model 
+
+of children who had not received TA had an AHI =10 (p=.004). 
+Similarly, the median AHI for the TA group was approximately 
+twice as high as that for the non-TA group (3.0 and 1.5 respectively, 
+p<.001). 
+
+The influence of putative risk factors for SDB (AHI =5) 
+among children who have undergone TA is summarized in Table 
+
+3. The strongest univariate predictor of post-TA SDB in this sample 
+was Black ethnicity (OR: 4.26; 95% CI: 1.34, 13.55). Fifty-
+eight percent (11/19) of Black children who had had a TA demonstrated 
+SDB compared to 24% of non-Black children (10/41). 
+Among children with a history of TA, obesity also was associated 
+with a significant (>three-fold) increased odds of SDB. In 
+these unadjusted analyses, the other significant predictor (p=.01) 
+of SDB was a lower level of maternal education, which may 
+reflect social or environmental factors not measured in this study. 
+Family history of laboratory-diagnosed obstructive sleep apnea 
+(recruitment source) has an elevated unadjusted odds ratio of 
+3.00; however, the confidence interval for this point estimate 
+overlapped one, perhaps because of the relatively small number 
+of neighborhood controls in the TA group. Age, time interval 
+since TA, and gender were not associated with SDB in children 
+who have had TA. 
+We also explored whether snoring symptoms could be useful 
+in predicting which children who have had surgery had SDB 
+post-TA. Neither a history of any snoring nor current loud snoring 
+differentiated the post-surgical groups with and without SDB 
+(any snoring was reported for 76% of the children with SDB and 
+67% without SDB; current loud snoring was reported for 23% 
+and 15% of the non-SDB and SDB groups, respectively) 
+(p’s>.10). 
+
+In multiple logistic regression analyses (Table 4), after adjusting 
+for age, obesity, and family history, Black ethnicity and obesity 
+persist as independent predictors of SDB among children 
+who have had a TA. Among children with a prior history of TA, 
+
+SLEEP, Vol. 24, No. 7, 2001 
+
+the model indicates that Blacks have an approximately four-fold 
+increased risk of SDB compared to non-Blacks (OR: 3.85; 95% 
+
+CI: 1.11, 13.33). Obesity similarly increased the risk of SDB 
+approximately 4-fold (OR: 3.98; 95% CI: 1.05, 15.08). Similar to 
+the unadjusted analyses, adjusted analyses suggested that high 
+familial risk was associated with elevated point estimates (predicting 
+an almost three-fold increase in SDB). However, the latter 
+did not reach statistical significance in this sample. 
+DISCUSSION 
+
+SDB affects minimally between 1% to 3% of the pediatric 
+population,2,3 and is associated with a number of adverse health 
+effects. Surgery directed at removing adenotonsillar tissue is the 
+most commonly recommended treatment for SDB in children. 
+There are only limited data, however, that address the likelihood 
+of persistent or recurrent SDB following surgery,7,18,33,34,41-43 and 
+virtually no data that address the long-term efficacy of surgery, 
+nor the variability in treatment responses across population subgroups. 
+
+
+We analyzed data from children studied as part of a community-
+based, ethnically diverse, epidemiological study to assess 
+demographic and host factors associated with reported TA, and to 
+determine predictors of SDB in children with prior TA. The sample 
+was enriched with children from families with one member 
+(usually an adult) with laboratory-diagnosed sleep apnea. 
+Therefore, the overall prevalence rates for SDB and for SDB-
+related procedures are probably higher than in the general community. 
+Nonetheless, this sample provided an opportunity to 
+explore potential differences among population subsets in the use 
+of TA in a high risk, non-clinical sample. 
+
+In this sample in which the overall prevalence of SDB (AHI 
+=5) was 16% and a majority of children had relatives with diagnosed 
+SDB, TA had been reported for 10% of children. Because 
+
+826 Predictors of Sleep-Disordered Breathing in Children—Morton et al 
+
+
+of the paucity of evidence-based data on TA outcomes, and the 
+lack of pre-operative clinical data on our sample, we cannot 
+assess whether the ratio of children with an elevated AHI to those 
+who underwent a TA is appropriate. However, given an estimated 
+annual incidence rate of 0.7% for tonsillectomy and/or adenoidectomy,
+32 the percentage of children who had undergone 
+surgery appears to be higher than one would see in a general sample. 
+
+
+The current analyses showed that Black children were 50% 
+less likely to have had a TA than other children in this urban sample. 
+This finding is striking when interpreted in light of our previous 
+data indicating that SDB is two to three-fold more prevalent 
+among Black than White children in this cohort.4,44 The bases 
+for the ethnic differences in TA in this largely urban sample are 
+not clear. Differences were not explained by maternal level of 
+education, a marker for socioeconomic status. Ethnic differences 
+in access to and utilization of health services have been reported 
+for other conditions and procedures in children.45,46 Similar to 
+other conditions for which ethnic disparities have been reported, 
+it is unclear whether differences in TA may have related to differences 
+in health insurance status, or to cultural differences in 
+the perception of SDB as a health problem or of attitudes regarding 
+surgery. It is also possible that differences in reported TA 
+were due to differential reporting of procedures by parents of 
+White and Black children. In this regard, we assessed whether the 
+proportion of subjects who completed the adult or child’s version 
+of the health questionnaire differed by ethnicity, and found no 
+differences (a CSHQ was completed for 66% of Black children 
+vs. 65% of other children, p=.92). Finally, since TA may be performed 
+for reasons other than SDB, it is possible that the prevalence 
+of other conditions (infection, otitis) was higher among the 
+non-Black than Black members of our cohort. 
+
+The available data and use of standardized in-home overnight 
+cardio-respiratory studies across a large sample (who underwent 
+assessment regardless of clinical referral or symptoms) also provided 
+objective information on SDB in children who had had a 
+previous TA. At an average of five years following TA, 35% of 
+this sample had evidence of SDB, as defined by an AHI=5. This 
+prevalence of SDB in children with prior surgery exceeds the 
+prevalence rates (10% to 29%) reported previously based on 
+shorter term follow-up (one week to 12 months).7,18,33,34,41-43 
+These findings indicate that TA does not eliminate the risk of 
+SDB in children, especially Black children, obese children, and 
+children with a family history of SDB. 
+
+Nieminen recently reported that obstructive symptoms may 
+continue when adenoidectomy alone is performed.47 Because of 
+the limitations of the questionnaire data, we were unable to assess 
+whether SDB was preferentially found in children according to 
+the specific surgical procedure used. To explore whether we may 
+have over-estimated post-TA SDB by including children who had 
+only received an adenoidectomy, we used data from the younger 
+children (whose questionnaire separately addressed each procedure) 
+to examine trends according to which specific procedures 
+had been reported. Among this group, 53% were reported to have 
+had a tonsillectomy, including 38% who had had both a tonsillectomy 
+and adenoidectomy. The median AHI of the “adenoidectomy 
+alone” group was 3.02 (n=11), which was comparable to 
+the median of the remainder (3.01, n=49). These findings provide 
+evidence that our estimates of SDB were unlikely to have been 
+driven by children who had only received an adenoidectomy. 
+
+Nevertheless, systematically collected data on surgical procedures 
+are needed to better assess the impact of specific procedures, 
+or combinations of procedures, on long-term outcomes. 
+
+There are few data that address optimal ways of identifying 
+children at risk for SDB following TA. Previously recognized 
+risk factors for persistent SDB include: a high pre-operative 
+AHI);7,18,33,34,41-43 underlying co-morbidity;7,18,33,34,41-43 and an 
+anatomically small airway.7,18,33,34,41-43 To our knowledge, no 
+study previously had examined the role of ethnicity or family history 
+in the occurrence of SDB post-TA. We found that Black children 
+who had had a TA were approximately four-fold more likely 
+to have had SDB as measured by objective monitoring several 
+years after surgery, than were non-Black children who had had 
+previous surgery. This finding provides evidence that there may 
+be ethnic and familial differences in both the prevalence of SDB 
+(as we demonstrated previously),4 as well as in the efficacy of 
+surgery in eliminating SDB. Possible explanations for the higher 
+prevalence of SDB in Black children compared to non-Black 
+children who underwent a TA include: 1) a higher pre-operative 
+prevalence of SDB, 2), more severe SDB in Black as compared 
+to other children, or 3) different responses to surgery. 
+
+Obesity also was associated with an increased risk of post-TA 
+SDB (adjusted odds ratio 3.98) (Table 4). Obesity is a growing 
+health problem among children, particularly Black children.48 
+Since obesity is a risk factor for the presence and severity of 
+overall childhood SDB,4,49 further studies of larger samples are 
+needed to better assess the extent to which obesity modifies the 
+efficacy of surgical interventions. Our findings are important in 
+light of a recent report of increased levels of obesity following 
+TA.50 Thus, the increased growth spurt observed in children postTA,
+5-10 if associated with increased obesity, could put such vulnerable 
+children at risk for recurrent SDB.49 Presently, it would 
+appear reasonable to monitor growth in children post-TA, with 
+consideration of reassessing SDB if symptoms reappear or obesity 
+develops or increases. 
+
+We also considered asthma and atopy, both of which have 
+been associated with snoring or SDB4,51 in children, as potential 
+risk factors for post-TA SDB. Although reported doctor-diagnosed 
+asthma tended to be more prevalent in the post-TA SDB 
+group, these associations were not significant. The relatively 
+small numbers within each risk group may have prevented a 
+definitive assessment of the role of respiratory allergies or airway 
+inflammation in this sample. 
+
+An important limitation of our study was the use of self-
+reported TA. This restricted our ability to evaluate the pre-operative 
+indications for surgery, and to definitively characterize the 
+specific operative procedure. Although we do not know the 
+extent to which SDB was the primary indication for surgery, our 
+findings nonetheless indicate that children who have had a TA are 
+at increased risk for SDB compared to children without such a 
+history. Other than SDB, indications for TA include chronic adenotonsillar 
+infection and chronic or recurrent otitis media. Thus, 
+children who are referred for TA (which may include children 
+with variable degrees of SDB, as well as those with other types 
+of upper airway pathology) appear to have an increased risk of 
+SDB compared to children who have not been referred for TA. 
+Although individual levels of SDB may have improved following 
+surgery, our data show that some degree of SDB was frequently 
+present when these children were studied on average five 
+years after surgery. These findings suggest that a history of TA 
+
+SLEEP, Vol. 24, No. 7, 2001 827 Predictors of Sleep-Disordered Breathing in Children—Morton et al 
+
+
+may be considered a “marker” for later risk of SDB. 
+
+Although we did not have radiographic data to examine patterns 
+of lymphoid hypertrophy in our study sample, we assessed 
+whether SDB post-TA was associated with physical findings of 
+tonsillar hypertrophy. None of the 21 children with an AHI=5 
+were noted to have tonsillar hypertrophy (as noted by tonsils 
+occupying >50% of the pharyngeal airway) by a physical examination 
+performed at the time of the overnight study. This suggests 
+that marked tonsillar hypertrophy was not an explanation 
+for the observed elevated AHI. We cannot exclude the possibility, 
+however, that residual or recurrent adenoidal lymphoid 
+enlargement explained the high rate of SDB in this population. 
+
+In this study, as in our previous reports from this cohort,4,44 
+SDB was characterized with in-home unattended cardio-respiratory 
+monitoring, performed and evaluated across a large sample 
+using standardized approaches. This approach has been used 
+extensively in epidemiological studies to provide reliable estimates 
+of the AHI that, in adults, correlate excellently with the 
+AHI determined by conventional polysomnography.39 The optimal 
+recording approach for sleep studies of children is an area of 
+controversy. It is possible that the sometimes subtle changes in 
+breathing pattern, particularly periods of hypoventilation, which 
+occur in children with SDB are identified best with inductance 
+plethysmography and measurement of carbon dioxide.40 
+Recognizing that children may not desaturate as markedly as 
+adults, we used a 2.5% level of desaturation (rather than a 4% 
+used in many adult studies)52 to help identify hypopneas. We also 
+identified hypopneas on the basis of changes in the amplitude of 
+either the impedance or thermistor signal, an approach that may 
+increase sensitivity compared to use of a single channel to identify 
+breathing changes. We previously demonstrated that this 
+approach for monitoring and scoring successfully distinguishes 
+children with and without SDB symptoms.53 SDB was defined by 
+a threshold AHI of =5. Although this threshold may differ from 
+that used by some laboratories, it should be recognized that such 
+criteria are dependent on the recording apparatus and scoring 
+algorithms used.54,55 Different recording approaches and SDB 
+definitions may possibly have identified slightly different subgroups 
+of children. However, it seems unlikely that alternative 
+definitions would result in qualitative differences in the findings 
+of this study. Specifically, in a sub-analysis (see Methods), we rescored 
+20 of the pediatric studies using ATS pediatric criteria40 
+and determined excellent levels of agreement between both 
+approaches. This supports the comparability of our scoring algorithm 
+and argues against the presence of systematic biases. 
+Additionally, we also assessed the extent to which subjects may 
+have been re-classified had we used a different metric and threshold 
+for “disease” identification. Among the 20 re-scored records, 
+a disease-defining definition based on an obstructive apnea index 
+of >1, as recommended by Marcus,56 would have classified two 
+additional children as “affected” who would not have been so 
+classified based on a AHI=5; and would have classified two children 
+as unaffected who had a predominance of hypopneas and 
+thus, still met our definition for “affected.” 
+
+Although a high proportion of children with a prior TA had a 
+significant level of SDB following surgery, the surgery may 
+nonetheless have been partially effective in improving the level 
+of SDB compared to pre-operative values. This is somewhat supported 
+by the lower proportion of post-TA children who reported 
+current loud snoring versus a history of loud snoring. 
+
+Unfortunately, we only had pre- and post-TA AHI data on four 
+children to quantify the effects of TA. In three of these four children, 
+the pre-TA AHI was =5; in two children the post-TA AHI 
+decreased (from 73 to 6, and 13 to 3), and in one child, it 
+increased (from 19 to 42). 
+
+In summary, this study utilized observational cohort data to 
+identify predictors of SDB in children who have had TA. Our 
+findings suggest a need for increased clinical follow-up of children 
+who receive TA, especially for children who are Black, 
+obese, and related to individuals with SDB. Additional work is 
+needed to characterize the role of obesity and genetics as factors 
+that may modify the effectiveness of surgery aimed at solely 
+removing lymphoid tissue. Moreover, the finding of a lower proportion 
+of TAs reported for Black children, who in our cohort 
+appear to be at most risk for SDB, identifies a potential disparity 
+in health care access or utilization among the U.S. population. 
+Further efforts are needed to identify which children are most 
+likely to benefit from TA, which need long term follow-up, and 
+which may benefit more from alternative treatments. 
+
+ACKNOWLEDGMENTS 
+
+The authors are extremely grateful for the excellent and 
+invaluable assistance of Kathryn Clark, Barbara O’Malia, and 
+Gregory Graham, who have diligently collected the data and 
+maintained the enthusiasm of the cohort in this ongoing study. 
+We also are indebted to members of the cohort who so generously 
+continue to invite us into their homes. This project was supported 
+by NIH NHLBI 46380 and NIH NHLBI 04426. 
+
+REFERENCES 
+
+1. Brouillette R, Hanson D, David R, Klemka L, Szatkowski A, 
+Fernbach S. A diagnostic approach to suspected obstructive sleep apnea 
+in children. J Pediatr 1984;105:10-4. 
+2. Gislason T, Benediktsdottir B. Snoring, apneic episodes, and nocturnal 
+hypoxemia among children 6 months to 6 years old. An epidemiologic 
+study of lower limit of prevalence. Chest 1995;107:963-6. 
+3. Teculescu DB, Caillier I, Perrin P, Rebstock E, Rauch A. Snoring in 
+French preschool children. Pediatr Pulmonol 1992;13:239-44. 
+4. Redline S, Tishler PV, Schluchter M, Aylor J, Clark K, Graham G. 
+Risk factors for sleep-disordered breathing in children. Associations 
+with obesity, race, and respiratory problems. Am J Resp Crit Care Med 
+1999;159:1527-32. 
+5. Brouillette RT, Fernbach S, Hunt CE. Obstructive sleep apnea in 
+infants and children. J Pediatr 1982;100:31-40. 
+6. Lind M, Lundell B. Tonsillar hyperplasia in children: A cause of 
+obstructive sleep apneas, CO2 retention, and retarded growth. Arch 
+Otolaryngol 1982;108:650-4. 
+7. Stradling JR, Thomas G, Warley AR. Effect of adenotonsillectomy on 
+nocturnal hypoxaemia, sleep disturbance, and symptoms in snoring children. 
+Lancet 1990;335:249-53. 
+8. Marcus CL, Carroll JL, Koerner CB, Hamer A, Lutz J, Loughlin 
+GM. Determinants of growth in children with the obstructive sleep 
+apnea syndrome. J Pediatr 1994;125:556-62. 
+9. Williams EF, Woo P, Miller R. The effects of adenotonsillectomy on 
+growth in young children. Otolaryngol Head Neck Surg 1991;104:50916. 
+10. Freezer NJ, Bucens IK, Robertson CF. Obstructive sleep apnoea presenting 
+as failure to thrive in infancy. J Paediatr & Child Health 
+1995;31:172-5. 
+11. Marcus CL, Greene MG, Carroll JL. Blood pressure in children with 
+obstructive sleep apnea. Am J Respir Crit Care Med 1998;157:1098-103. 
+SLEEP, Vol. 24, No. 7, 2001 828 Predictors of Sleep-Disordered Breathing in Children—Morton et al 
+
+
+12. Guilleminault C, Winkle R, Korobkin R, Simmons B. Children and 
+nocturnal snoring: Evaluation of the effects of sleep related respiratory 
+resistive load and daytime functioning. Eur J Pediatr 1982;139:165-71. 
+13. Ali NJ, Pitson D, Stradling JR. Natural history of snoring and related 
+behaviour problems between the ages of 4 and 7 years. Arch Dis 
+Child 1994;71:74-6. 
+14. Ali NJ, Pitson D, Stradling JR. Sleep disordered breathing: effects of 
+adenotonsillectomy on behaviour and psychological functioning. Eur J 
+Pediatr 1996;155:56-62. 
+15. Chervin RD, Dillon JE, Bassetti C, Ganoczy DA, Pituch KJ. 
+Symptoms of sleep disorders, inattention, and hyperactivity in children. 
+Sleep 1997;20:1185-92. 
+16. Gozal D. Sleep-disordered breathing and school performance in children. 
+Pediatrics 1998;102:616-20. 
+17. McKee W. A controlled study of the effects of tonsillectomy and adenoidectomy 
+in children. Brit J Prev Soc Med 1963;17:49-69. 
+18. Suen JS, Arnold JE, Brooks LJ. Adenotonsillectomy for treatment of 
+obstructive sleep apnea in children. Arch Otolaryngol Head Neck Surg 
+1995;121:525-30. 
+19. Paradise JL, Bluestone CD, Bachman RZ, et al. Efficacy of tonsillectomy 
+for recurrent throat infection in severely affected children. 
+Results of parallel randomized and nonrandomized clinical trials. N Engl 
+J Med 1984;310:674-83. 
+20. Kavanagh KT, Beckford NS. Adenotonsillectomy in children: indications 
+and contraindications. South Med J 1988;81:507-14. 
+21. Fry TL, Pillsbury HC. The implications of “controlled” studies of 
+tonsillectomy and adenoidectomy. Otolaryngol Clin North Am 
+1987;20:409-13. 
+22. Potsic WP, Pasquariello PS, Baranak CC. Relief of upper airway 
+obstruction by adenotonsillectomy. Otolaryngol Head Neck Surg 
+1986;94:476. 
+23. 1977-1978. Indications for tonsillectomy and adenoidectomy, phase 
+1. Natl Inst Health Consens Dev Conf Summ. 27-9. 
+24. Gates GA, Folbre TW. Indications for adenotonsillectomy. Arch 
+Otolaryngol Head Neck Surg 1986;112:501-2. 
+25. Berkowitz RG, Zalzal GH. Tonsillectomy in children under 3 years 
+of age. Arch Otolaryngol Head Neck Surg 1990;116:685-6. 
+26. Schloss MD, Tan AK, Schloss B, Tewfik TL. Outpatient tonsillectomy 
+and adenoidectomy: complications and recommendations. Int J 
+Pediatr Otorhinolaryngol 1994;30:115-22. 
+27. Truy E, Merad F, Robin P, Fantino B, Morgon A. Failures in outpatient 
+tonsillectomy policy in children: a retrospective study in 311 children. 
+Int J Pediatr Otorhinolaryngol 1994;29:33-42. 
+28. McPherson K, Wennberg JE, Hovind OB, Clifford P. Small-area 
+variations in the use of common surgical procedures: an international 
+comparison of New England, England, and Norway. N Engl J Med 
+1982;307:1310-4. 
+29. Rafuse J. Education, practice reviews needed to reduce surgical 
+intervention, Quebec report says. CMAJ 1996;155:463-4. 
+30. Rosenfeld RM, Green RP. Tonsillectomy and adenoidectomy: 
+changing trends. Ann Otol Rhinol Laryngol 1990;99:187. 
+31. Pokras R, Kozak L, McCarthy E. Ambulatory and inpatient procedures 
+in the United States, 1994. Vital Health Stat 1997;13:132:39. 
+32. Owings MF, Kozak LJ. Ambulatory and inpatient procedures in the 
+United States, 1996. Vital Health Stat 1998;13:1-120. 
+33. Ishizuka Y, Kakuta H. Treatment of sleep apnea and snoring in children. 
+Acta Otolaryngol (Stockh) 1996;Suppl 523:234-5. 
+34. Pestalozza G, Tessitore E, Bellotto R, Zucconi M. Tonsil surgery in 
+heavy snoring young children. In: Galioto G, ed. Tonsils: a clinically oriented 
+update Adv Otorhinolaryngol 1992;251-9. 
+35. Redline S, Tishler PV, Tosteson TD, et al. The familial aggregation 
+of obstructive sleep apnea. Am J Respir Crit Care Med 1995;151:682-7. 
+36. Kump K, Whalen C, Tishler P, et al. Assessment of the validity and 
+utility of a sleep symptom questionnaire in a community sample. Amer 
+J Respir Crit Care Med 1994;150:735-41. 
+37. Schwartz R, Seid A, Stool S. T&A does not mean time and again. 
+Contemp Pediatr 1992;9:18-46. 
+
+38. National Center for Health Statistics. CDC Growth Charts: United 
+States. www.cdc.gov/growthcharts, 2000. 
+39. Redline S, Tosteson T, Boucher MA, Millman RP. Measurement of 
+sleep-related breathing disturbances in epidemiologic studies. 
+Assessment of the validity and reproducibility of a portable monitoring 
+device. Chest 1991;100:1281-6. 
+40. Standards and indications for cardiopulmonary sleep studies in children. 
+American Thoracic Society. Am J Respir Crit Care Med 
+1996;153:866-78. 
+41. Wooten V, Peters G, Hubbard J. Treatment of sleep apnea in children 
+with adenotonsillar hypertrophy by adenotonsillectomy. In: Chouard 
+CH, ed. Chronic rhonchopathy John Libbey Eurotext Ltd., London, 
+England: 1988;227-31. 
+42. Nishimura T, Morishima N, Hasegawa S, Shibata N, Iwanaga K, 
+Yagisawa M. Effect of surgery on obstructive sleep apnea. Acta 
+Otolaryngol (Stockh) 1996;Suppl 523:231-3. 
+43. Shintani T, Asakura K, Katura A. The effect of adenotonsillectomy in 
+children with OSA. Int J Pediatr Otorhinolaryngol 1998;44:51-8. 
+44. Redline S, Tishler PV, Hans M, Tosteson TD, Strohl KP, Spry K. 
+Racial differences in sleep disordered breathing in African Americans 
+and Caucasians. Am J Respir Crit Care Med 1997;155:186-92. 
+45. Furth SL, Garg PP, Neu AM, Hwang W, Fivush BA, Powe NR. 
+Racial differences in access to the kidney transplant waiting list for children 
+and adolescents with end-stage renal disease. Pediatrics 
+2000;106:756-61. 
+46. Lipton R, Good G, Mikhailov T, Freels S, Donoghue E. Ethnic differences 
+in mortality from insulin-dependent diabetes mellitus among 
+people less than 25 years of age. Pediatrics 1999;103:952-6. 
+47. Nieminen P, Tolonen U, Lopponen H. Snoring and obstructive sleep 
+apnea in children: a 6-month follow-up study. Arch Otolaryngol Head 
+Neck Surg 2000;126:481-6. 
+48. Troiano R, Flegal K. Overweight children and adolescents: description, 
+epidemiology, and demographics. Pediatrics 1998;101:497-504. 
+49. Marcus CL, Curtis S, Koerner CB, Joffe A, Serwint JR, Loughlin 
+GM. Evaluation of pulmonary function and polysomnography in obese 
+children and adolescents. Pediatr Pulmonol 1996;21:176-83. 
+50. Soultan Z, Wadowski S, Rao M, Kravath RE. Effect of treating 
+obstructive sleep apnea by tonsillectomy and/or adenoidectomy on obesity 
+in children. Arch Pediatr Adolesc Med 1999;153:33-7. 
+51. Corbo GM, Fuciarelli F, Foresi A. Snoring in children: association 
+with respiratory symptoms and passive smoking. Br Med J 
+1989;299:1491. 
+52. Moser NJ, B. P, Berry DTR, Harbison L. What is hypopnea, anyway? 
+Chest 1994;105:426-8. 
+53. Redline S, Tishler P, Aylor J, Clark K, Burant C, Winters J. 
+Prevalence and risk factors for sleep disordered breathing In children. 
+Am J Respir Crit Care Med 1997;155:A843. 
+54. Redline S, Sanders M. Hypopnea, a floating metric: implications for 
+prevalence, morbidity estimates, and case finding. Sleep 1997;20:120917. 
+55. Redline S, Kapur V, Sanders M, et al. Effects of varying approaches 
+for identifying respiratory disturbances and sleep apnea assessment. Am 
+J Respir Crit Care Med 2000;161:369-74. 
+56. Marcus CL, Omlin KJ, Basinski SL, et al. Normal polysomnographic 
+values for children and adolescents. Am Rev Respir Dis 
+1992;146:1235-9. 
+SLEEP, Vol. 24, No. 7, 2001 829 Predictors of Sleep-Disordered Breathing in Children—Morton et al 
+
+

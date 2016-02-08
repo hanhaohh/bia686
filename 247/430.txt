@@ -1,0 +1,1139 @@
+Journal 
+of 
+Oral 
+Rehabilitation 
+2007 34; 112–120 
+
+Sleep architecture and the apnoea–hypopnoea index in 
+children with obstructive-sleep apnoea syndrome 
+
+E. MATSUMOTO*, E. TANAKA*, H. TABE*, N. WAKISAKA*, Y. NAKATA*, 
+H. UEDA*, T. HORI†,T.ABE† & K. TANNE* *Department 
+of 
+Orthodontics 
+and 
+Craniofacial 
+Developmental 
+Biology, 
+Hiroshima 
+University 
+Graduate 
+School 
+of 
+Biomedical 
+Sciences, 
+Minami-ku, 
+Hiroshima, 
+Japan 
+and 
+†Department 
+of 
+Behavioral 
+Sciences, 
+Faculty 
+of 
+Integrated 
+Arts 
+and 
+Sciences 
+Hiroshima 
+University, 
+Higashi-Hiroshima, 
+Japan 
+SUMMARY 
+This 
+study 
+aimed 
+to 
+examine 
+the 
+sleep 
+architecture 
+and 
+craniofacial 
+morphology 
+in 
+a 
+group 
+of 
+children 
+divided 
+by 
+different 
+levels 
+of 
+apnoeahypopnoea 
+index 
+(AHI), 
+5, 
+4Æ5, 
+4, 
+3Æ5, 
+3 
+and 
+2Æ5, 
+and 
+to 
+determine 
+an 
+AHI 
+threshold 
+value 
+at 
+which 
+sleep 
+architecture 
+is 
+most 
+affected. 
+23 
+children, 
+who 
+were 
+selected 
+from 
+a 
+preliminary 
+questionnaire 
+survey 
+about 
+sleep-related 
+breathing 
+disorders, 
+were 
+evaluated 
+with 
+cephalometric 
+radiographs 
+and 
+overnight 
+polysomnography. 
+The 
+findings 
+indicated 
+that 
+the 
+children 
+with 
+AH1 
+‡2Æ5 
+and 
+‡3 
+showed 
+significantly 
+larger 
+numbers 
+of 
+waking 
+(p 
+<0Æ005) 
+and 
+desaturation 
+index 
+(p 
+<0Æ01) 
+than 
+those 
+with 
+AHI 
+<2Æ3 
+and 
+<3, 
+respectively. 
+Significantly 
+(p 
+<0Æ05) 
+higher 
+amounts 
+of 
+waking 
+and 
+lower 
+amounts 
+of 
+REM 
+as 
+a 
+percentage 
+of 
+total 
+sleep 
+time 
+(TST) 
+were 
+also 
+found 
+in 
+the 
+children 
+with 
+AH1 
+‡3. 
+In 
+the 
+subgroups 
+with 
+AHI 
+‡3Æ5 
+and 
+‡4, 
+only 
+the 
+percentage 
+of 
+REM 
+was 
+found 
+to 
+be 
+significantly 
+(p 
+<0Æ05) 
+
+
+lower. 
+No 
+significant 
+differences 
+were 
+found 
+at 
+the 
+AHI 
+threshold 
+of 
+4Æ5 
+and 
+4. 
+AHI 
+correlated 
+significantly 
+(p 
+<0Æ05) 
+with 
+the 
+number 
+of 
+awakenings, 
+amount 
+of 
+waking 
+as 
+a 
+percentage 
+of 
+TST, 
+desaturation 
+index 
+and 
+oxygen 
+saturation 
+nadir. 
+Higher 
+incidence 
+of 
+skeletal 
+Class 
+II 
+pattern 
+was 
+found 
+in 
+children 
+with 
+AHI 
+‡2Æ5 
+and 
+‡3, 
+and 
+Class 
+III 
+in 
+those 
+with 
+AHI 
+<2Æ3 
+and 
+<3, 
+respectively. 
+The 
+effects 
+on 
+polysomnographic 
+characteristics 
+demonstrated 
+to 
+be 
+the 
+greatest 
+on 
+children 
+at 
+the 
+AHI 
+threshold 
+of 
+3. 
+In 
+addition, 
+the 
+evaluation 
+of 
+oxygen 
+saturation 
+can 
+be 
+used 
+to 
+provide 
+some 
+information 
+concerning 
+the 
+severity 
+of 
+sleep-related 
+breathing 
+disorders. 
+Keywords: 
+Children, 
+polysomnography, 
+sleep 
+architecture, 
+obstructive 
+sleep 
+apnoea 
+syndrome, 
+craniofacial 
+morphology, 
+oxygen 
+saturation 
+
+
+Accepted 
+for 
+publication 
+28 
+June 
+2006 
+
+
+Introduction 
+
+
+Sleep-related breathing disorder (SRBD), including 
+obstructive sleep apnoea syndrome (OSAS), is an 
+important cause of morbidity in children and adults. 
+Childhood OSAS differs significantly from that of adults 
+in terms of various parameters such as symptoms, 
+pathogenesis, diagnosis, treatment and outcome. The 
+estimated prevalence of OSAS in children ranges from 
+1% to 3% (1–3), and the first scientific case was 
+reported only a few decades ago by Guilleminault, in 
+1976 (4). Since then, the increased awareness of OSAS 
+
+among paediatricians has resulted in earlier diagnosis of 
+patients. The clinical diagnosis of childhood OSAS is 
+complicated by the fact that the incidence of habitual 
+snoring is reported to be 7–12% (5–7). However, if 
+unrecognized and untreated, it may result in significant 
+morbidity such as neurobehavioural, growth-related, 
+and cardiovascular problems in childhood (5, 8, 9). 
+Therefore, an appropriate differential diagnosis is 
+necessary to discriminate OSAS in childhood from 
+various types of SRBD. 
+
+Systematic studies of sleep architecture have been 
+rarely performed in children with OSAS, and little 
+
+ª 2007 Blackwell Publishing Ltd doi: 10.1111/j.1365-2842.2006.01676.x 
+
+
+SLEEP ARCHITECTURE IN CHILDREN WITH OSAS 113 
+
+information is thus available about the influence of 
+SRBD on sleep architecture in children. Although 
+normal ranges for respiratory indices during sleep in 
+children and adolescents have been established (10– 
+12), the threshold value of apnoea–hypopnoea index 
+(AHI) for diagnosing childhood OSAS has not been 
+systematically validated, ranging from 1 to 5 events per 
+hour (13–15). 
+
+Cephalometric radiography has been traditionally 
+used in clinical orthodontics for the diagnosis and 
+management of craniofacial anomalies. Published data 
+on cephalometric measurements of patients with OSAS 
+have demonstrated a more anterior position of the 
+maxilla, a retro-positioned mandible and a bigger 
+intermaxillary discrepancy, expressed by the ANB 
+angle, compared with control groups (16, 17). 
+
+As it is suggested that children are affected with lower 
+levels of AHI compared with adults (13, 15), the AHI 
+criteria for the diagnosis of OSAS in adults (threshold 
+established as 5), cannot be applicable in children. The 
+aim of this study was, thus far, to examine the 
+polysomnographic findings in children at different 
+levels of AHI (5, 4Æ5, 4, 3Æ5, 3 and 2Æ5), determining a 
+cutoff point at which sleep architecture is affected, and 
+to investigate the relationship between craniofacial 
+variables obtained from lateral cephalograms and 
+OSAS. 
+
+Materials 
+and 
+methods 
+
+
+Participants 
+
+
+Participants were recruited via a preliminary questionnaire 
+survey for the investigation of SRBD symptoms 
+administered to 998 children of two primary schools in 
+Hiroshima. The age at the time of the study raged from 
+6Æ8to12Æ8 years with a mean age of 9Æ6  1Æ7 
+(mean  s.d.). The children were asked to complete 
+the questions and provide their contact information if 
+they would allow our study personnel to call them for 
+screening. Survey data were available from 738 children, 
+and the questionnaire return rate was 73Æ9%. 
+Among them, 23 children (17 boys and six girls, 
+ranging in age from 7 to 13 years) agreed to participate 
+in this study, and underwent an overnight polysomnography 
+(PSG) study. Before a series of PSG examinations, 
+informed consent in a paper form was obtained 
+from their parents. Upon entry to the study, the 
+participants were evaluated with a clinical examination 
+
+at the orthodontic clinic of Hiroshima University Hospital. 
+Body height and weight were also measured and 
+lateral cephalograms were taken. All children were 
+neurologically normal and had no craniofacial anomalies 
+or any other significant diseases. Polysomnographic 
+evaluations were performed by a sleep specialist. This 
+study was approved by the Ethical Review Board of the 
+Hiroshima University Hospital. 
+
+Cephalometric 
+analysis 
+
+
+Lateral cephalograms were taken with the teeth in 
+the intercuspal position and the head in a position 
+such that the Frankfort horizontal plane was parallel 
+to the floor. Each lateral cephalogram was traced on 
+acetate paper by one examiner. The tracings were 
+computerized by a graphic digitizer (Digitizer 
+KD3320*) to obtain the measurements of craniofacial 
+morphology. 
+
+Before the measurements, the accuracy of digitization 
+was examined by marking three arbitrary points 
+on acetate paper and digitizing two times by the 
+digitizer to obtain the x 
+and y 
+coordinates. Differences 
+in these data were analysed for the two performances 
+using the paired t-test. No significant differences 
+(P 
+¼ 0Æ66) were exhibited on the x 
+and y 
+coordinates 
+for all the points between the first and second 
+procedures, confirming the accuracy. Accuracy of the 
+tracings and the digitizing were confirmed by two 
+orthodontic professionals joining in this study as 
+collaborators. All the investigators were blinded to 
+the clinical status of the participants. 
+
+A total of 10 angular and linear variables related to 
+both craniofacial skeletal and dental morphology were 
+measured. Due to differences in the developmental age 
+of the subjects, the z-scores were obtained from each 
+subject and used for the analysis of these variables. The 
+angular and linear measurement items are shown in 
+Table 1. The skeletal patterns (Class I, II and III) were 
+determined according to the ANB measurement. Children 
+with ANB < 2were classified as skeletal Class III, 
+ANB ¼ 2–5as Class I, and ANB > 5as Class II. 
+
+Polysomnography 
+
+
+Unattended PSG was performed overnight at each 
+child’s home to make it more acceptable to both child 
+
+*Graphtec Corp., Tokyo, Japan. 
+
+ª 2007 Blackwell Publishing Ltd, Journal 
+of 
+Oral 
+Rehabilitation 
+34; 112–120 
+
+
+114 E. MATSUMOTO et 
+al. 
+
+
+Table 
+1. 
+Definitions of 
+SNA 
+SNB 
+Angle from sella to the nasion to the subspinal point 
+Angle from sella to the nasion to the supramental point 
+cephalometric angles and linear 
+measurements 
+ANB Angle from the subspinal point to the nasion to the supramental point 
+FMA Angle formed by Frankfort Horizontal and mandibular plane 
+FMIA Angle formed by Frankfort Horizontal and mandibular incisor long axis 
+IMPA Angle formed by mandibular plane and lower incisor long axis 
+U1-FH Angle formed by Frankfort Horizontal and upper incisor long axis 
+II Angle formed by upper and lower incisors long axis 
+Overjet The horizontal distance between the upper and lower incisors 
+Overbite The vertical overlap of the upper and lower incisors 
+
+and the parents, and to make the night’s sleep as 
+representative as possible. No drugs were used to 
+induce sleep. Polysomnographic signals were recorded 
+into a computerized polysomnographic system (Pollymate 
+AP 1000†), using electrodes with three channels 
+of electroencephalogram (EEG; C3, C4, O1, 10–20 
+international placement system), bilateral electro-oculogram 
+(EOG; ROC, LOG) and submental electromyogram 
+(EMG). The respiratory polygraphs were 
+performed using a portable device (Eden Trace II‡) that 
+measures chest wall and abdominal movements with 
+an inductance plethysmography, oronasal airflow by 
+thermister (Nellcor 974§), oxygen saturation (SaO2)by 
+finger oximeter (Nellcor N-25¶), and body motions by a 
+body position sensor. Snoring sounds were recorded by 
+means of a miniature microphone placed on the skin at 
+the level of the larynx. Bedtime and waking time were 
+as the child’s usual time, with PSG being terminated 
+after final awakening. Sleep stages and architecture 
+were visually analysed according to the standard 
+criteria outlined by Rechtschaffen and Kales (18) by 
+two sleep specialists, which were blinded to the clinical 
+status of the participants. 
+
+Apnoeas were divided into central, obstructive and 
+mixed. Obstructive apnoea was defined as the cessation 
+of oronasal airflow in the presence of respiratory effort 
+for at least 10 s. Central apnoea was defined as the 
+cessation of oronasal airflow, without movement of the 
+chest and abdominal walls for at least 10 s. Mixed 
+apnoea was defined as that with both central and 
+obstructive components. All three types of apnoeas 
+were scored in each participant. Hypopnoea was 
+defined as a quantitative decrease of ‡50% in oronasal 
+
+†Digitechs, Tokyo, Japan. 
+‡Tycho Healthcare Japan, Tokyo, Japan. 
+§
+
+Nellcor, Eden Prairie, MN, USA. 
+
+¶
+
+Nellcor, Pleasanton, CA, USA. 
+
+flow for at least 10 s with a decrease of ‡3% in SaO2. 
+AHI was calculated by dividing the total number of 
+apnoeas and hypopnoeas by the hours of sleep. 
+
+The following variables were analysed: total recording 
+time (TRT), total sleep time (TST), sleep period time 
+(SPT), sleep efficiency (TST per time in bed), sleep 
+latency, number of awakenings, number of stage shifts, 
+percentages of sleep stages, number of rapid eye 
+movement (REM) episodes, total number of apnoeas, 
+total number of hypopnoeas, AHI, SaO2 baseline and 
+nadir (lowest value during TST), and oxygen desaturation 
+index (number of oxygen desaturations per hour). 
+
+Statistical 
+analysis 
+
+
+All data were tested for normal distribution (Kolmogorov–
+Smirnov test) and are presented as mean  s.d. 
+The variables in the subgroups divided by different AHI 
+values were examined by two-tailed, unpaired t-test. 
+Pearson’s correlation coefficient was calculated to 
+determine the correlation between AHI and the other 
+parameters analysed in the study. For the assessment of 
+the incidence of skeletal pattern in the subgroups, the 
+v 
+2 test was used. Statistical significance was set at 
+P 
+<0Æ05. 
+
+Results 
+
+
+Participants 
+
+
+The participants enrolled in this study were 17 boys and 
+6 girls, ranging in age from 7 to 13 years (mean age of 
+10Æ5  2Æ0). The body mass index (BMI) ranged from 
+14Æ3to21Æ3kgm2. The number of participants and the 
+mean age in each subgroup are shown in Table 2. There 
+was no significant difference in the mean age between 
+the subgroups, irrespective of the AHI threshold. Three 
+children with AHI > 2 and all children with AHI > 3 
+
+ª 2007 Blackwell Publishing Ltd, Journal 
+of 
+Oral 
+Rehabilitation 
+34; 112–120 
+
+
+SLEEP ARCHITECTURE IN CHILDREN WITH OSAS 115 
+
+Table 
+2. 
+Mean age and number of participants in each subgroup a significantly lower amount of REM as a percentage of 
+TST especially in the children with AHI ‡3 compared 
+Mean age (years) with those with AHI <3. This difference was also found 
+AHI < 2Æ5(n 
+¼ 6) 10Æ5  2Æ2 between the subgroups at the AHI threshold of 3Æ5 and 
+AHI ‡2Æ5(n 
+¼ 17) 10Æ5  2Æ0 4 (Table 3). No significant differences were found in 
+P-value 1Æ0 any of the parameters analysed when the subjects were 
+AHI < 3 (n 
+¼ 8) 10Æ8  2Æ1 
+AHI ‡3(n 
+¼ 15) 10Æ3  1Æ9 
+divided by the AHI threshold of 4Æ5 or 5. In addition, a 
+P-value 0Æ6 significant correlation was found between AHI and 
+AHI < 3Æ5(n 
+¼ 10) 10Æ9  1Æ9 number of awakenings (r 
+¼ 0Æ45; P 
+<0Æ05) (Fig. 2a). 
+AHI ‡3Æ5(n 
+¼ 13) 10Æ2  2Æ0 AHI also correlated significantly with the amount of 
+P-value 0Æ4 wake as a percentage of TST (r 
+¼ 0Æ43; P 
+<0Æ05) 
+AHI < 4 (n 
+¼ 11) 11Æ1  1Æ9 
+AHI ‡4(n 
+¼ 12) 10  1Æ9 
+(Fig. 2b). 
+P-value 0Æ2 
+AHI < 4Æ5(n 
+¼ 13) 10Æ7  2Æ0 
+AHI ‡4Æ5(n 
+¼ 10) 10Æ2  2Æ0 
+SaO2 
+P-value 0Æ5 The mean SaO2 baseline was 98Æ9  0Æ69% and the 
+AHI < 5 (n 
+¼ 16) 10Æ3  2Æ0 mean SaO2 nadir was 85Æ3  6Æ5%. There was a 
+AHI ‡5(n 
+¼ 7) 11  2Æ0 
+P-value 0Æ5 
+significant difference in the oxygen desaturation index 
+between the subgroups divided by the AHI threshold of 
+2Æ5 and 3 (Table 3). A significant correlation was found 
+were habitual snorers. The children with AHI < 2 were between AHI and oxygen desaturation index (r 
+¼ 0Æ56; 
+non-snorers and had no significant other symptoms. P 
+<0Æ01) (Fig. 2c) and SaO2 nadir (r 
+¼ )0Æ47; P 
+<0Æ05) 
+(Fig. 2d). 
+Apnoea–hypopnoea 
+index 
+and 
+sleep 
+architecture 
+The mean AHI was 4Æ0  1Æ8 and the mean sleep 
+Craniofacial 
+morphology 
+efficiency was 92Æ4  3Æ1%. Duration of TST was No significant differences were found in the angular 
+8Æ0  0Æ6 h. Analytical results of PSG in which sub-and linear measurements, expressed as z-scores, 
+groups were classified by six different AHI thresholds between the subgroups at none of the AHI thresholds 
+are shown in Table 3. No significant differences were (Table 3). However, when the subjects were classified 
+found in the duration of TST, SPT, sleep latency, time in by the skeletal patterns according to the ANB angle, 
+bed and REM latency; in the number of stage shifts and there was a significant difference between the children 
+REM episodes, and in the percentage of sleep efficiency when divided by the AHI thresholds of 2Æ5 and 3. 
+between the two subgroups, irrespective of the AHI Significantly higher incidence of skeletal Class II subthreshold. 
+jects was found in children with AHI ‡2Æ5 and ‡3, and 
+The significant differences found between the sub-skeletal Class III subjects in those with AHI <2Æ5 and <3, 
+groups are shown in Fig. 1. There was a significant respectively (Fig. 3a,b). 
+difference in the number of awakenings between the 
+subgroups at the AHI threshold of 2Æ5 and 3, where the 
+children with an AHI ‡2Æ5 and ‡3 showed significantly 
+Discussion 
+larger number of awakenings than those with an Up to present, there have been no universally accepted 
+AHI <2Æ5 and <3, respectively (Table 3). Although this polysomnographic parameters for diagnosing OSAS in 
+parameter tended to be greater in the children with AHI children, and one of the commonly used cutoff criteria 
+‡4 than in those with AHI <4, their differences were is the obstructive apnoea index (OAI) ‡1 (9, 10, 19). 
+not statistically significant. On sleep stages, the differ-However, the OSAS in children may manifest mainly as 
+ence in the amount of wake as a percentage of TST was hypopnoeas with hypoventilation rather than clear-cut 
+only found at the AHI threshold of 3, where children obstructive apnoeas (20). The alternative of using the 
+with AHI ‡3 showed significantly higher amount when AHI criteria already established for adults (21) is still 
+compared with those with AHI <3 (Table 3). There was arbitrary in children. However, Yamadera et 
+al. (22) 
+
+ª 2007 Blackwell Publishing Ltd, Journal 
+of 
+Oral 
+Rehabilitation 
+34; 112–120 
+
+
+116 E. MATSUMOTO et 
+al. 
+
+
+ª 2007 Blackwell Publishing Ltd, Journal 
+of 
+Oral 
+Rehabilitation 
+34; 112–120 
+
+Table 
+3. 
+Differences in polysomnographic and cephalometric variables by AHI threshold
+
+SnorersSnorersSnorersSnorersSnorersSnorersSnorersSnorersSnorersSnorersSnorersSnorerswithwithwithwithwithwithwithwithwithwithwitwithAHIAHIAHIAHIAHIAHIAHIAHIAHIAHIAHIAHI
+
+Variables <2Æ5 ‡ 2Æ5 P-value <3 ‡ 3 P-value <3Æ5 ‡ 3Æ5 P-value <4 ‡ 4 P-value <4Æ5 ‡ 4Æ5 P-value <5 ‡ 5 P-value 
+
+Total recording523 42 521 51 1Æ0 526 40 520 53 0Æ8 527 37 518 56 0Æ6 516 58Æ3 528 35Æ10Æ6 531  33 510 62 0Æ4 521 45 523 58 0Æ9 
+time, min 
+Total sleep481 43 480 38 1Æ0 484 40 479 39 0Æ8 487 37 475 41 0Æ5 489 35Æ2 473 41Æ70Æ3 491  33 467 43 0Æ1 484 39 473 39 0Æ5 
+time, min 
+
+Sleep efficiency, % 92 3Æ1 93 3Æ20Æ7 92Æ1 2Æ692Æ5 3Æ40Æ7 92Æ6 2Æ692Æ2 3Æ50Æ8 92Æ7  2Æ592Æ1 3Æ60Æ6 92Æ6  2Æ392Æ0 4Æ00Æ7 93Æ0 2Æ690Æ9 3Æ90Æ2 
+
+Sleep latency, min 23Æ4 18Æ513Æ9 11Æ50Æ3 22Æ6 16Æ613Æ1 11Æ50Æ2 19Æ5 16Æ413Æ9 11Æ80Æ4 19Æ4 15Æ513Æ6 12Æ20Æ3 17Æ5  14Æ914Æ9 13Æ00Æ7 15Æ2 14Æ319Æ2 13Æ50Æ5 
+
+Awakenings, 
+n 
+3Æ0 2Æ88Æ3 8Æ00Æ03* 3Æ4 2Æ68Æ8 8Æ40Æ03* 4Æ0 3Æ49Æ2 8Æ80Æ07 4Æ1 3Æ29Æ5 9Æ10Æ07 5Æ4 4Æ98Æ9 9Æ60Æ34Æ9 4Æ611Æ4 10Æ50Æ1 
+
+Sleeping stages,
+%TSTWake 0Æ5 0Æ71Æ7 2Æ00Æ05 0Æ5 0Æ61Æ9 2Æ10Æ037* 0Æ7 0Æ72Æ0 2Æ30Æ07 0Æ7 0Æ72Æ1 2Æ30Æ07 1Æ1 1Æ21Æ8 2Æ40Æ08 1Æ0 1Æ82Æ4 2Æ80Æ2 
+REM 21Æ1 4Æ117Æ4 4Æ50Æ09 21Æ3 3Æ816Æ9 4Æ30Æ02* 20Æ6 3Æ816Æ7 4Æ60Æ04* 20Æ4 3Æ616Æ5 4Æ70Æ036* 19Æ9 3Æ616Æ4 5Æ10Æ1 18Æ8 4Æ617Æ4 4Æ60Æ5 
+Stage 1 10Æ9 4Æ213Æ1 7Æ60Æ4 10Æ3 3Æ913Æ7 7Æ80Æ2 10Æ2 3Æ714Æ3 8Æ20Æ1 10Æ4 3Æ614Æ4 8Æ60Æ1 10Æ4  3Æ515Æ2 9Æ10Æ1 10Æ8 4Æ516Æ3 9Æ80Æ2 
+Stage 2 43Æ9 4Æ640Æ6 8Æ30Æ2 41Æ2  6Æ341Æ6 8Æ40Æ9 40Æ0 7Æ742Æ5 7Æ70Æ4 39Æ9 7Æ342Æ9 7Æ90Æ3 41Æ2  7Æ441Æ8 8Æ20Æ8 42Æ1 7Æ639Æ8 7Æ80Æ5 
+Stage 3 12Æ7 3Æ514Æ4 5Æ50Æ4 14Æ0  3Æ814Æ0 5Æ70Æ9 14Æ9 4Æ313Æ3 5Æ70Æ5 14Æ6 4Æ213Æ4 5Æ90Æ6 13Æ9  4Æ314Æ2 6Æ20Æ9 13Æ7 4Æ114Æ6 7Æ20Æ8 
+Stage 4 11Æ3 6Æ214Æ5 6Æ10Æ3 13Æ2 6Æ313Æ9 6Æ30Æ8 14Æ4 6Æ513Æ1 6Æ20Æ6 14Æ7 6Æ212Æ7 6Æ30Æ4 14Æ6 5Æ712Æ4 6Æ80Æ4 14Æ5 6Æ411Æ8 5Æ70Æ3 
+REM episodes, 
+n 
+3Æ8 0Æ43Æ8 0Æ91Æ03Æ9 0Æ63Æ8 0Æ90Æ83Æ9 0Æ73Æ8 0Æ80Æ74Æ0 0Æ83Æ7 0Æ80Æ33Æ9 0Æ83Æ7 0Æ80Æ53Æ7 0Æ83Æ9 0Æ80Æ6 
+
+Desaturation1Æ8 0Æ74Æ9 2Æ7 <0Æ01* 2Æ2 1Æ15Æ1 2Æ8<0Æ01* 2Æ8 1Æ84Æ9 3Æ10Æ06 2Æ9 1Æ75Æ1 3Æ10Æ05 3Æ1  1Æ85Æ3 3Æ30Æ07 3Æ2 1Æ76Æ0 3Æ70Æ1 
+index (>4%) 
+Craniofacial
+
+morphology, z-scoreSNA )0Æ5 1Æ6 )0Æ5 0Æ71Æ0 )0Æ3 1Æ5 )0Æ6 0Æ70Æ5 )0Æ2 1Æ3 )0Æ7 0Æ70Æ3 )0Æ2 1Æ2 )0Æ8 0Æ60Æ2 )0Æ3 1Æ2 )0Æ8 0Æ70Æ2 )0Æ4 1Æ1 )0Æ7 0Æ60Æ4 
+SNB 0Æ1 1Æ4 )0Æ6 0Æ60Æ30Æ0 1Æ2 )0Æ6 0Æ70Æ2 )0Æ2 1Æ1 )0Æ6 0Æ70Æ4 )0Æ3 1Æ1 )0Æ5 0Æ70Æ5 )0Æ5  1Æ1 )0Æ3 0Æ50Æ7 )0Æ4 1Æ1 )0Æ3 0Æ40Æ7 
+ANB )1Æ0 1Æ00Æ1 1Æ20Æ05 )0Æ5 1Æ20Æ0 1Æ30Æ4 )0Æ1 1Æ4 )0Æ2 1Æ20Æ8 )0Æ2 1Æ5 )0Æ4 1Æ10Æ40Æ3  1Æ4 )0Æ7 0Æ80Æ05 0Æ1 1Æ4 )0Æ6 0Æ90Æ2 
+FMA 0Æ5 1Æ70Æ4 1Æ60Æ90Æ4 1Æ50Æ4 1Æ70Æ90Æ2 1Æ60Æ6 1Æ70Æ60Æ3 1Æ50Æ6 1Æ70Æ70Æ7  1Æ80Æ0 1Æ20Æ30Æ4 1Æ90Æ6 0Æ50Æ7 
+FMIA 1Æ0 1Æ9 )0Æ5 0Æ90Æ10Æ3 2Æ1 )0Æ3 0Æ80Æ40Æ0 1Æ0 )0Æ2 0Æ70Æ70Æ0 1Æ9 )0Æ1 0Æ70Æ9 )0Æ2  1Æ80Æ1 0Æ50Æ6 )0Æ1 1Æ6 )0Æ1 0Æ50Æ9 
+IMPA )1Æ2 1Æ60Æ2 1Æ20Æ1 )0Æ4 1Æ9 )0Æ1 1Æ10Æ60Æ0 1Æ0 )0Æ3 0Æ70Æ70Æ0 1Æ9 )0Æ3 0Æ80Æ7 )0Æ2  1Æ8 )0Æ1 0Æ60Æ8 )0Æ2 1Æ6 )0Æ2 0Æ70Æ9 
+U1–FH 0Æ8 0Æ70Æ5 1Æ10Æ40Æ7 0Æ60Æ5 1Æ10Æ70Æ7 0Æ60Æ5 1Æ20Æ70Æ6 0Æ6 )0Æ5 1Æ80Æ90Æ4  0Æ90Æ8 1Æ10Æ30Æ4 0Æ81Æ0 1Æ20Æ2 
+II )0Æ2 1Æ0 )0Æ6 0Æ80Æ4 )0Æ6 1Æ1 )0Æ4 0Æ70Æ7 )0Æ7 1Æ0 )0Æ3 0Æ70Æ2 )0Æ8 1Æ0 )0Æ2 0Æ70Æ2 )0Æ6  1Æ0 )0Æ3 0Æ70Æ4 )0Æ5 0Æ9 )0Æ6 0Æ70Æ8 
+Overjet 2Æ3 1Æ92Æ1 5Æ10Æ91Æ7 1Æ92Æ4 5Æ40Æ71Æ3 2Æ12Æ8 5Æ70Æ41Æ0 2Æ23Æ2 5Æ80Æ31Æ2  2Æ03Æ4 6Æ40Æ31Æ5 1Æ93Æ7 7Æ80Æ5 
+Overbite 0Æ2 1Æ1 )0Æ4 2Æ30Æ4 )0Æ1  1Æ1 )0Æ3 2Æ40Æ8 )0Æ4 1Æ4 )0Æ1 2Æ50Æ7 )0Æ6 1Æ50Æ2 2Æ40Æ4 )0Æ6  1Æ40Æ3 2Æ70Æ4 )0Æ5 1Æ30Æ4 3Æ30Æ5 
+
+*
+P 
+<0Æ05. 
+
+
+(c)(d)(c)(d)
+SLEEP ARCHITECTURE IN CHILDREN WITH OSAS 117 
+
+(a) 
+(b) 
+Fig. 
+1. 
+Significant differences between the two subgroups defined by different AHI thresholds on number of awakenings, wake as a 
+percentage of TST, REM as a percentage of TST and desaturation index. AHI threshold of 3 was the most likely to show significant 
+differences on sleep parameters between the subgroups. *P 
+<0Æ05; **P 
+<0Æ01 (AHI, apnoea–hypopnoea index; TST, total sleep time; REM, 
+rapid eye movement). 
+
+(a) 
+(b) 
+(c)(d)
+Fig. 
+2. 
+Scatterplots for number of 
+awakenings (a), wake as a 
+percentage of TST (b), desaturation 
+index (c) and SaO2 nadir (d) versus 
+AHI in children (TST, total sleep 
+time; SaO2, oxygen saturation; AHI, 
+apnoea–hypopnoea index). 
+
+found that child-OSAS showed lower AHI compared widely debated topic during recent years. Some data 
+with adult-OSAS. Li et 
+al. (23) reported that the AHI suggest that mild SRBD and even primary snoring are 
+cutoff point of ‡5 exhibited the best correlation with risk factors for neurocognitive deficits (24). In our 
+OAI ‡1. Nevertheless, this only suggests a statistical study, some children were habitual snorers and pre-
+significance, which may not predict clearly a clinical sented symptoms, thus we aimed to determine an AHI 
+significance. The issue of the long-term developmental, cutoff value that shows an effect on sleep architecture, 
+behavioural and neurocognitive sequelae has been a which indicates signs of childhood OSAS. We evaluated 
+
+ª 2007 Blackwell Publishing Ltd, Journal 
+of 
+Oral 
+Rehabilitation 
+34; 112–120 
+
+
+118 E. MATSUMOTO et 
+al. 
+
+
+
+(a) 
+(b) 
+Fig. 
+3. 
+Significant difference 
+between the two subgroups on the 
+incidence of skeletal patterns. Higher 
+incidence of skeletal class II was 
+found in children with AHI ‡2Æ5 
+
+(a) and ‡3 (b), and skeletal class III in 
+those with AHI < 2Æ5 (a) and <3 (b), 
+respectively. *P 
+<0Æ05; **P 
+<0Æ01 
+(AHI, apnoea–hypopnoea index). 
+the sleep architecture in children, dividing the group by 
+the AHI values of 5, 4Æ5, 4, 3Æ5, 3 and 2Æ5, and found 
+that the AHI threshold of 3 was the most likely to 
+present differences on the sleep variables between the 
+subgroups. 
+
+A little information is available in the literature 
+regarding sleep architecture in children with OSAS. In 
+our study, when using the AHI threshold of 3, the 
+children with higher AHI showed more episodes of 
+awakenings during sleep. Consequently, they had an 
+increased percentage of TST in wake. However, Frank 
+et 
+al. (25) reported no significant effect of OSAS in 
+children on sleep efficiency, or the number of awakenings. 
+Such difference might be due to difference in the 
+mean AHI of the subjects. In the study of Frank et 
+al. 
+(25), all subjects had severe OSAS and the mean AHI 
+was >20 before and >3 after surgical treatment, which 
+may still be considered a mild OSAS for children. 
+
+Rapid eye movement sleep is thought to be of great 
+importance for young children to facilitate growth and 
+maturation, due to its significant functional stimulation 
+to the central nervous system (26). Our findings 
+demonstrated that the percentage of REM sleep was 
+less in children with AHI ‡3. The number of REM cycles 
+was similar in the two subgroups, and thus the 
+decreased REM sleep in the children with AHI ‡3 was 
+assumed to be due to shorter episodes of REM sleep. 
+This may be related to the fact that REM sleep is the 
+sleep stage when respiratory events occur most frequently, 
+as was previously reported by Morelli and 
+associates (27). Our findings are consistent with previously 
+published data on infants with OSAS in terms of 
+decreased REM time (28). This is also in agreement 
+with studies obtained from adults with OSAS, showing 
+decreased slow wave and REM sleep (29, 30). In 
+contrast, a previous study about children with OSAS 
+reported by Goh et 
+al. 
+(31), showed that REM sleep 
+tended to be preserved. A possible explanation for this 
+
+difference is that there was a premature termination of 
+the polysomnographic recording, which could have 
+resulted in missing the last portion of a normal sleep 
+pattern, including further REM periods. 
+
+Normal values for SaO2 are suggested by Gries and 
+Brooks (32), who found a median SaO2 of 96% and a 
+nadir SaO2 of 90% in a group ranging in age from 1 to 
+20 years old. Some authors support the hypothesis that 
+transient desaturation in association with central 
+apnoea or periodic breathing is common during childhood 
+(11, 33). In this study, 15 children desaturated 
+below 90%, of which 13 had an AHI ‡3. Stradling and 
+coworkers (34) investigated 31 healthy children and 
+none of these had more than three dips in SaO2 >4% 
+per hour. When our children was divided at the AHI 
+threshold of 3, the subgroup with AHI <3 had lower 
+desaturation index and only one participant had four 
+dips in SaO2 >4%. Other participants in this subgroup 
+had less than three dips. 
+
+Cephalometric analysis has been used to characterize 
+skeletal and soft tissue relationships (16, 35). In the 
+literature, cephalometric studies have shown the characteristics 
+of craniofacial architecture in children with 
+OSAS (36). However, correlative data between cephalometric 
+parameters and AHI scores are sparse (37). In 
+this study of children, according to the ANB angle, 
+different skeletal pattern incidence was observed 
+between the two subgroups, in which 47% of the 
+children with AHI ‡3 were skeletal Class II and 63% of 
+the children with AHI <3 was skeletal Class III. In a 
+previous study of Hoekema et 
+al. (38), a larger ANB 
+angle was also found in the OSAS group. In the present 
+study, none of the subjects presented severe abnormal 
+craniofacial development, and no difference was found 
+in the incidence of the mandibular angulations between 
+the two subgroups. However, although all children 
+presented SNA and SNB angles within normal ranges, 
+the group with AHI ‡3 showed a more retrognathic 
+
+ª 2007 Blackwell Publishing Ltd, Journal 
+of 
+Oral 
+Rehabilitation 
+34; 112–120 
+
+
+SLEEP ARCHITECTURE IN CHILDREN WITH OSAS 119 
+
+position of the mandible compared with the group with 
+AHI <3, which can explain the difference in the skeletal 
+pattern incidence between the subgroups. 
+
+As limitations of this study, experience suggests that 
+symptoms in childhood OSAS may vary from night to 
+night, and a single-night PSG was performed in our 
+study. However, previous reports have proposed that 
+the single-night PSG is adequate and cost-effective (23), 
+with little night-to-night variability in paediatric PSG. 
+Katz et 
+al. (39) found that, among 30 children who were 
+studied on two separate nights, there was no difference 
+between nights in the classification of children as having 
+OSAS versus primary snoring. With regard to home 
+sleep studies, there may be controversy about their 
+efficacy due to limited equipment and, therefore, only a 
+few studies have used such type of recordings. We chose 
+to use the unattended home recording system that 
+makes the child more comfortable in its usual sleep 
+environment. If adequately performed by specialists, it is 
+possible to obtain valid data. The Tucson Children’s 
+Assessment of Sleep collected valuable information 
+concerning childhood SRBD using unattended home 
+PSG (40, 41). Another limitation which should be 
+considered is the small sample size, which provided 
+limited scope to detect a significant difference. If more 
+children had undergone a sleep study, we may have 
+obtained more evidences on our results. Clearly, a larger 
+number of subjects is needed for further studies. 
+
+In conclusion, this study has demonstrated that the 
+effects on polysomnographic characteristics are the 
+greatest on children with higher AHI when AHI 
+threshold of 3 was used. Children appear to have 
+clinical sequela with milder form of OSAS and, in 
+paediatric population, mild OSAS is most commonly 
+missed in clinical practice because the symptoms are 
+insidious. Our result, therefore, supports the evidence 
+that childhood OSAS differs in important aspects from 
+adult OSAS and that we cannot underestimate the 
+significance of the childhood SRBD. Furthermore, the 
+easily performing SaO2 oximetry could provide certain 
+information concerning the severity of SRBD and could 
+be useful for an initial screening test of OSAS. 
+
+References 
+
+
+1. Gislason T, Benediktsdottir B. Snoring, apneic episodes, and 
+nocturnal hypoxemia among children 6 months to 6 years 
+old. An epidemiologic study of lower limit of prevalence. 
+Chest. 1995;107:963–966. 
+2. Redline S, Tishler PV, Schluchter M, Aylor J, Clark K, Graham 
+G. Risk factors for sleep-disordered breathing in children. 
+Associations with obesity, race, and respiratory problems. Am 
+J Resp Crit Care Med. 1999;159:1527–1532. 
+3. Brunetti L, Rana S, Lospalluti ML, Pietrafesa A, Francavilla R, 
+Fanelli M et al. Prevalence of obstructive sleep apnea 
+syndrome in a cohort of 1207 children of southern Italy. 
+Chest. 2001;120:1930–1935. 
+4. Guilleminault 
+C, Eldridge FL, Simmons FB, Dement WC. 
+Sleep apnea in eight children. Pediatrics. 1976;58:23–30. 
+5. Ali NJ, Pitson DJ, Stradling JR. Snoring, sleep disturbance, and 
+behavior in 4–5 year old. Arch Dis Child. 1993;68:360–366. 
+6. Corbo GM, Forastiere F, Agabiti N, Dell’Orco 
+V, Pistelli R, 
+Aebischer ML et al. Snoring in 9-to 15-year-old children: risk 
+factors and clinical relevance. Pediatrics. 2001;108:1149–1154. 
+7. Schlaud M, Urschitz MS, Urschitz-Duprat PM, Poets CF. The 
+German study on sleep-disordered breathing in primary 
+school children: epidemiological approach, representativeness 
+of study sample, and preliminary screening results. Paediatr 
+Perinat Epidemiol. 2004;18:431–440. 
+8. Gozal D, Pope DW Jr. Snoring during early childhood and 
+academic performance at ages thirteen to fourteen years. 
+Pediatrics. 2001;107:1394–1399. 
+9. Schechter MS. Section 
+on pediatric pulmonology, subcommittee 
+on obstructive sleep apnea syndrome. Technical report: 
+diagnosis and management of childhood obstructive sleep 
+apnea syndrome. Pediatrics. 2002;109:e69. 
+10. American Thoracic Society. Cardiorespiratory sleep studies in 
+children: establishment of normative data and polysomnographic 
+predictors of morbidity. Am J Respir Crit Care Med. 
+1999;160:1381–1387. 
+11. Marcus CL, Omlin KJ, Basinski DJ, Bailey SL, Rachal AB, Von 
+Pechmann WS et al. Normal polysomnographic values for 
+children and adolescents. Am Rev Respir Dis. 1992;146:1235– 
+1239. 
+12. Utiel S, Tauman R, Greenfeld M, Sivan Y. Normal polysomnographic 
+respiratory values in children and adolescents. 
+Chest. 2004;125:872–878. 
+13. Guilleminault C, Li K, Khramtsov A, Palombini L, Pelayo R. 
+Breathing patterns in prepubertal children with sleep-related 
+breathing disorders. Arch Pediatr Adolesc Med. 
+2004;158:153–161. 
+14. Lamm C, Mandeli J, Kattan M. Evaluation of home audiotapes 
+as an abbreviated test for obstructive sleep apnea 
+syndrome (OSAS) in children. Pediatr Pulmonol. 
+1999;27:267–272. 
+15. Saeed MM, Keens TG, Stabile MW, Bolokowicz J, Davidson 
+Ward SL. Should children with suspected obstructive sleep 
+apnea syndrome and normal nap sleep studies have overnight 
+sleep studies? Chest. 2000;118:360–365. 
+16. Lowe 
+AA, Santamaria JD, Fleetham JA, Price C. Facial 
+morphology and obstructive sleep apnea. Am J Orthod 
+Dentofacial Orthop. 1986;90:484–491. 
+17. Miyao E, Miyao M, Ohta T, Okawa M, Inafuku S, Nakayama 
+M, Goto S. Differential diagnosis of obstructive sleep apnea 
+syndrome patients and snorers using cephalograms. Psychiatry 
+Clin Neurosci. 2000;54:659–664. 
+ª 2007 Blackwell Publishing Ltd, Journal 
+of 
+Oral 
+Rehabilitation 
+34; 112–120 
+
+
+120 E. MATSUMOTO et 
+al. 
+
+
+18. Rechtschaffen A, Kales A. A Manual of Standardized Terminology: 
+Techniques and Scoring Systems for Sleep Stages of 
+Human Subjects. Los Angeles, CA: UCLA Brain Information 
+Service/Brain Research Institute; 1968. 
+19. Carroll JL. Obstructive sleep-disordered breathing in children: 
+new controversies, new directions. Clin Chest Med. 
+2003;24:261–282. 
+20. Brouillette 
+RT, Weese-Mayer DE, Hunt CE. Disorders of 
+breathing during sleep in the pediatric population. Semin 
+Respir Med. 1988;9:594–606. 
+21. American 
+Academy of Sleep Medicine Task Force. Sleep-
+related breathing disorders in adults: recommendations for 
+syndrome definition and measurement techniques in clinical 
+research. The report of an American Academy of Sleep 
+Medicine Task Force. Sleep. 1999;22:667–689. 
+22. Yamadera W, Chiba S, Itoh H, Ozone M, Takahashi T, Sasaki 
+M et al. Sleep architectures of obstructive sleep apnea 
+syndrome in the young child. Psychiatry Clin Neurosci. 
+2000;54:330–331. 
+23. Li AM, Wing YK, Cheung A, Jiang Q, Rao X, Lu X et al. Is a 
+2-night polysomnographic study necessary in childhood 
+sleep-related disordered breathing? Chest. 2004;126:1467– 
+1472. 
+24. O‘Brien LM, Mervis CB, Holbrook CR, Bruner JL, Klaus CJ, 
+Rutherford J et al. Neurobehavioral implications of habitual 
+snoring in children. Pediatrics. 2004;114:44–49. 
+25. Frank Y, Kravath RE, Pollak CP, Weitzman ED. Obstructive 
+sleep apnea and its therapy: clinical and polysomnographic 
+manifestations. Pediatrics. 1983;71:737–742. 
+26. Roffwarg HP, Muzio JN, Dement DC. Ontogenetic development 
+of the human sleep-dream cycle. Science. 
+1966;152:604–619. 
+27. Morielli A, Ladan S, Ducharme FM, Brouillette RT. Can sleep 
+and wakefulness be distinguished in children by cardiorespiratory 
+and videotape recordings? Chest. 1996;109:680– 
+687. 
+28. McNamara F, Sullivan CE. Sleep-disordered breathing and its 
+effects on sleep in infants. Sleep. 1996;19:4–12. 
+29. Charbonneau 
+M, Marin JM, Olha A, Kimoff RJ, Levy RD, 
+Cosio MG. Changes in obstructive sleep apnea characteristics 
+through the night. Chest. 1994;106:1695–1701. 
+30. Issa FG, Sullivan CE. The immediate effects of nasal continuous 
+positive airway pressure treatment on sleep pattern in 
+patients with obstructive sleep apnea syndrome. Eletroencephalogr 
+Clin Neurophysiol. 1986;63:10–17. 
+31. Goh 
+DY, Galster P, Marcus CL. Sleep architecture and 
+respiratory disturbances in children with obstructive sleep 
+apnea. Am J Respir Crit Care Med. 2000;162:682–686. 
+32. Gries RE, Brooks LJ. Normal oxyhemoglobin saturation during 
+sleep. How low does it go? Chest. 1996;110:1489–1492. 
+33. Poets CF, Stebbens VA, Samuels MP, Southall DP. Oxygen 
+saturation and breathing patterns in children. Pediatrics. 
+1993;92:686–690. 
+34. Stradling JR, Thomas G, Warley ARH, Williams P, Freeland A. 
+Effect of adenotonsillectomy on nocturnal hypoxaemia, sleep 
+disturbance, and symptoms in snoring children. Lancet. 
+1990;335:249–253. 
+35. Lyberg T, Krogstad O, Djupesland G. Cephalometric analysis 
+in patients with obstructive sleep apnea syndrome. I. Skeletal 
+morphology. J Laryngol Otol. 1989;103:287–292. 
+36. Finkelstein Y, Wexler D, Berger G, Nachmany A, Shapiro-
+Feinberg M, Ophir D. Anatomical basis of sleep-related 
+breathing abnormalities in children with nasal obstruction. 
+Arch Otolaryngol Head Neck Surg. 2000;126:593–600. 
+37. Ozdemir H, Altin R, Sogut A, Cinar F, Mahmutyazicioglu K, 
+Kart L et al. Craniofacial differences according to AHI scores of 
+children with obstructive sleep apnoea syndrome: cephalometric 
+study in 39 patients. Pediatr Radiol. 2004;34:393–399. 
+38. Hoekema A, Hovinga B, Stegenga B, De Bont LGM. Craniofacial 
+morphology and obstructive sleep apnoea: a cephalometric 
+analysis. J Oral Rehabil. 2003;30:690–696. 
+39. Katz ES, Greene MG, Carson KA, Galster P, Loughlin GM, 
+Carroll J et al. Night-to-night variability of polysomnography 
+in children with suspected obstructive sleep apnea. J Pediatr. 
+2002;140:589–594. 
+40. Goodwin JL, Kaemingk KL, Fregosi RF, Rosen GM, Morgan 
+WJ, Sherrill DL et al. Clinical outcomes associated with sleep-
+disordered breathing in Caucasian and Hispanic children— 
+the Tucson Children’s Assessment of Sleep Apnea Study 
+(TuCASA). Sleep. 2003;26:587–591. 
+41. Quan SF, Goodwin JL, Babar SI, Kaemingk KL, Enright PL, 
+Rosen GM et al. Sleep architecture in normal Caucasian and 
+Hispanic children aged 6–11 years recorded during unattended 
+home polysomnography: experience from the Tucson 
+Children’s Assessment of Sleep Apnea Study (TuCASA). Sleep 
+Med. 2003;4:13–19. 
+Correspondence: Eiji Tanaka, 1-2-3 Kasumi, Minami-ku, Hiroshima 
+734-8511, Japan. 
+E-mail: etanaka@hiroshima-u.ac.jp 
+
+ª 2007 Blackwell Publishing Ltd, Journal 
+of 
+Oral 
+Rehabilitation 
+34; 112–120 
+
+

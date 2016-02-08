@@ -1,0 +1,551 @@
+International Journal of Pediatric Otorhinolaryngology (2003) 67, 847 . 
+851 
+
+
+www.elsevier.com/locate/ijporl 
+
+
+Complications of adenotonsillectomy in children 
+with OSAS younger than 2 years of age 
+
+Youval Slovika, Asher Talb, Yoram Shapirac, Ariel Tarasiukd, 
+Alberto Leibermana,* 
+
+a Department of ENT and Head and Neck Surgery, Soroka University Medical Center, Beer-Sheva, Israel 
+b Department of Pediatrics B, Soroka University Medical Center, Beer-Sheva, Israel 
+c Division of Anesthesiology and Critical Care, Soroka University Medical Center, Beer-Sheva, Israel 
+d Sleep. 
+Wake Disorders Unit, Soroka University Medical Center, Beer-Sheva, Israel 
+
+Received 2 December 2002; received in revised form 6 March 2003; accepted 10 March 2003 
+
+KEYWORDS 
+
+Infants; 
+OSAS; 
+Adenotonsillectomy; 
+Post-op. complications 
+
+
+Summary The most common sleep disorder in children is obstructive sleep apnea 
+syndrome (OSAS). The majority of children with OSAS improve following tonsillectomy 
+and adenoidectomy (T&A). T&A as an outpatient procedure in children is very 
+common. Young age in considered risk factors for postoperative respiratory 
+complications. The purpose of this study is to analyze our experience with 
+postoperative T&A complications in patients younger than 2 years of age. A total of 
+39 T&A were performed in children younger than 2 years of age. OSAS diagnosis was 
+confirmed by overnight polysomnography (PSG). All the patients were hospitalized 
+and monitored by overnight pulse oximetry monitoring. Post-operatively there was 
+marked improvement in respiratory function in all the patients comparing pre-and 
+post-operative nadir oxygen saturation (P B 
+0.05). Complications were documented 
+in seven patients (20%). Five of the complications occurred in children older than 1 
+year of age. Bleeding occurred in two patients (5.7%). Three patients (8.6%) had 
+dehydration, one patient (2.9%) had hypercarbia and one patient had laryngospasm. 
+In this study there was a low incidence of peri-and post-operative respiratory 
+complications in children younger than 2 years of age who undergo T&A for OSAS. 
+Identification of OSAS severity may be an important factor in determining the risk of 
+T&A in a young child. 
+
+– 
+2003 Elsevier Science Ireland Ltd. All rights reserved. 
+1. Introduction 
+Obstructive sleep apnea syndrome (OSAS) has 
+been identified and described in children and 
+
+*Corresponding author. Present address: Department of 
+Otolaryngology, Soroka University Medical Center, PO Box 151, 
+Beer-Sheva 84105, Israel. Tel.: /972-8-640-0448; fax: /972-8640-
+3037. 
+
+E-mail address: alberto@bgumail.bgu.ac.il (A. Leiberman). 
+
+infants [1]. The overall prevalence of OSAS has 
+been estimated in children at 1. 
+2% [2], and the 
+cause of OSAS suggested as a combination of 
+neuromuscular and structural factors [3]. The 
+most common structural problem is adenotonsillar 
+hypertrophy [4,5], and the majority of children 
+with OSAS improve following tonsillectomy and 
+adenoidectomy (T&A) [1,6. 
+8]. Potential complications 
+of T&A include anesthetic complications and 
+immediate postoperative problems such as pain, 
+
+0165-5876/03/$ -see front matter – 
+2003 Elsevier Science Ireland Ltd. All rights reserved. 
+doi:10.1016/S0165-5876(03)00125-3 
+
+
+Y. Slovik et al. 
+poor oral intake and hemorrhage [8]. In addition, in 
+the immediate post operative period, patients with 
+OSAS may develop respiratory complications, such 
+as worsening of OSAS or pulmonary edema [8]. 
+Those complications are uncommon, thus T&A as 
+an outpatient procedure in children has been 
+widely reported and is advocated by numerous 
+investigators [9. 
+13]. There are several risk factors 
+for postoperative respiratory complications such as 
+failure to thrive (FTT), obesity, post prematurity, 
+cardiac complications of OSAS (right ventricular 
+hypertrophy), craniofacial anomaly, neuromuscular 
+disorders, recent respiratory infection and severe 
+OSAS in polysomnography [8]. Some authors found 
+that children younger than 3 years with OSAS are 
+also more prone to developing postoperative respiratory 
+complications [11,14. 
+18], but others 
+reported complication rates similar to those of 
+older children [19. 
+21]. Recently, the subcommittee 
+on OSAS of the American Academy of Pediatrics 
+published their clinical practice guideline for 
+diagnosis and management of OSAS in children 
+[8]. Their recommendation included as risk factors, 
+children younger than 3 years of age, and children 
+with severe OSAS undergoing T&A requiring overnight 
+hospitalization and monitoring with pulse 
+oximetry in the immediate post-operative period. 
+
+At our institution the main indication for T&A in 
+children younger than 2 years of age is OSAS. 
+Postoperatively, these young children are hospitalized 
+in a pediatric department for monitoring. A 
+retrospective study was undertaken to analyze our 
+experience with postoperative T&A complications 
+in patients younger than 2 years of age. 
+
+2. Methods 
+2.1. Patients 
+A retrospective review was undertaken of the 
+charts of all children who had T&A due to OSAS 
+during the years 1999. 
+2001 at Soroka University 
+Medical Center, Beer-Sheva, Israel. The inclusion 
+criteria were infants younger than 2 years of age 
+with OSAS proven by polysomnography (PSG). 
+Diagnostic evaluation included a detailed clinical 
+history obtained using a standard questionnaire 
+[22], physical examination by a pediatrician and 
+pediatric otolaryngologist, and an overnight PSG. 
+All patients had an T&A. Bipolar or electrocautery 
+were used during all the surgeries. All the patients 
+were hospitalized in a pediatric ward for at least 
+the night following the surgery. Overnight pulse 
+oximetry monitoring was done to all patients. 
+Children with complicating factors such as any 
+
+other surgery, blood dyscrasias, immune system 
+compromise and craniofacial anomalies were excluded. 
+However, children with other chronic 
+medical illnesses such as prematurity, bronchopulmonary 
+dysplasia, cyanotic spells, asthma, laryngomalacia, 
+cardiac valve abnormality, pulmonary 
+hypertension and FTT were included in our study. 
+The medical records were reviewed retrospectively 
+and data were obtained on patient age, gender, 
+coexisting medical problems, respiratory disturbance 
+index (RDI), nadir SaO2 recorded during the 
+PSG (preoperative desaturation), the nadir SaO2 
+recorded during the night following surgery (postoperative 
+desaturation), anesthesia technique and 
+complications. Complications were defined as any 
+of the following: (1) airway complications such as 
+oxygen desaturation below 90%, (2) hemorrhage 
+within 24 h of surgery (immediate) and after 24 h of 
+surgery (delayed), (3) dehydration* 
+inadequate 
+oral intake after discharge requiring readmission 
+to the hospital for intravenous hydration. Complications 
+were reviewed to determine type, time of 
+occurrence, intervention required, and need for 
+extended hospital stay and for PICU admission. The 
+institutional ethics committee approved the study 
+protocol. 
+
+2.2. Polysomnographic evaluation 
+Children were studied a few days to 12 weeks 
+prior to T&A. The mean duration from the PSG 
+study until surgery was 1.89/1.1 months, for 
+children less than 12 months was 1.29/0.8 months. 
+PSG study was done using a computerized commercially 
+available sleep monitoring system (Sensor-
+Medics Inc, Yorba Linda, CA, USA) and streamed 
+through to an optical disk. All the PSG tests were 
+full overnight PSG done in our pediatric sleep 
+laboratory according to ATS recommendations 
+
+[23] as previously described [24]. 
+2.3. Scoring 
+Scoring was done by a trained technician, reviewed 
+by a trained polysomnographer and a report 
+was sent to the referring pediatric otolaryngologist. 
+Sleep/wake and sleep stages were scored 
+according to Rechtschaffen and Kales criteria 
+[25]. Obstructive apneic and hypopneic events 
+were scored according to the recommended pediatric 
+criteria of the American Thoracic Society [23]. 
+Obstructive apnea was defined as paradoxical 
+breathing for at least two respiratory cycles with 
+complete cessation of nasal airflow (airflow reduction 
+of at least 80%). A hypopnea was scored when 
+the paradoxical breathing was accompanied by a 
+
+
+Complications of adenotonsillectomy in children with OSAS younger than 2 years of age 
+
+reduction of at least 50% in airflow, resulting in 
+either an arousal or in oxygen desaturation of at 
+least 4%. The RDI was calculated as the number of 
+respiratory events (apnea/hypopnea) per hour of 
+sleep. The oxygen saturation variables included 
+mean and nadir SaO2 and the desaturation index 
+(DI) [the number of desaturation events (SaO2 
+decrease of at least 4%) per hour of sleep]. 
+
+2.4. Post-operative observation 
+All the patients were hospitalized for at least one 
+night post operation. All the patients were monitored 
+by pulse oximeter (Biox 3700, Ohmeda, 
+USA). Any respiratory compromise such as an apnea 
+event, desaturation, frequent need for repositioning 
+of the child in bed or increased respiratory 
+effort were recorded in the patient’s chart by the 
+medical staff. 
+
+2.5. Data analyses 
+Data are presented as mean9/S.D. The null 
+hypothesis was rejected at the 5% level. In order 
+to assess the relationship between post-T&A complications 
+and OSAS severity, we also analyzed the 
+data for three different patient groups according to 
+their RDI. Mild OSA was defined as RDIB 
+three 
+events/h, moderate OSA was defined as RDI between 
+three and ten events/h; and severe OSA was 
+defined as RDI. 
+ten events/h of sleep [26]. 
+
+3. Results 
+A total of 39 T&A were performed on children 
+younger than 2 years of age, with OSAS proven by 
+PSG. Four patients were excluded due to incomplete 
+data. There were 24 males and 11 females. 
+The patients’ ages ranged between 6 and 23 
+months (average 15.86, S.D. 4.85), of whom ten 
+were younger than 12 months and 25 were older 
+than 12 months of age. Four patients had laryngomalacia, 
+two patients had mild asthma, four 
+patients were born as premature infants (gestational 
+age of 27. 
+33 weeks), two patients had 
+periventricular hemorrhage and bronchopulmonary 
+dysplasia, one patient had pulmonary hypertension 
+and one patient had a ventricular septal defect. 
+The age distribution and OSAS severity are shown in 
+Table 1. All the patients were anaesthetized with 
+nitric oxide and halothane. Atropine was used in 11 
+patients, Scolin in eight patients, Pentothal in six 
+patients and Fentanyl in only three patients. Postoperatively 
+there was marked improvement in 
+respiratory function in all the patients comparing 
+
+pre-and post-operative maximal desaturation as 
+shown in Fig. 1. The difference between pre-and 
+post-operation nadir saturation in the moderate 
+and severe OSAS groups was statistically significant 
+(P B 
+0.05). Complications were documented in 
+seven patients (20%), as shown in Table 2. Five of 
+the complications occurred in children older than 1 
+year of age. Airway complications occurred in only 
+two patients, both with severe OSAS: one patient 
+(2.9%) had hypercarbia that resolved spontaneously 
+after 20 min, and one patient was reintubated in 
+the operating room due to laryngospasms and 
+extubated 1 h later with no further complications. 
+
+Bleeding occurred in two patients (5.7%): in one 
+of them it was immediate, in the other, 7 days postoperative. 
+Three patients (8.6%) had dehydration, 
+Postoperative complication were not related to the 
+type of anesthesia. 
+
+4. Discussion 
+The results of the present study show a low rate 
+of respiratory complications in the immediate 
+postoperative period, and that the main risk factor 
+that predicts post-operative airway complications 
+after T&A in younger children (5 
+2 years of age) is 
+OSAS severity as defined by PSG data, namely RDI 
+of ] 
+ten events/h. 
+
+Several studies were done to assess and determine 
+the risk factors for patients who might need 
+post-operative special care. The purpose of this 
+study was to present the incidence of post T&A 
+complications at our medical center in young 
+children with proven OSAS. Ruboyianes et al. [15] 
+reported a high rate of postoperative airway 
+complications in children younger than 3 years of 
+age. There were 44 patients in his study and the 
+range of age of the patients was 9 months. 
+16 
+years. Rosen et al. [16] found more post-operative 
+complications in children younger than 2 years of 
+age. However, all the young children with postoperative 
+complications in his study had associated 
+medical problems such as craniofacial anomalies, 
+low muscle tone, FTT, cor pulmonale and recurrent 
+pneumonia. McColley et al. [17] also found that 
+OSAS patients younger than 3 years of age were at 
+higher risk for complications post-T&A especially 
+respiratory complications. However, 39% of the 
+children in that study had additional medical 
+problems such as cardiac and craniofacial abnormalities. 
+Wiatrak et al. [14] found that the overall 
+post-T&A complication rate in young OSAS children 
+is similar to that in older children. However, their 
+percentage of airway-related complications is 
+higher. Not all the patients in that study had a 
+
+
+Y. Slovik et al. 
+Table 1 Age distribution and OSA severity 
+
+Age OSA severity 
+
+Mild RDIB/3 Moderate RDI 3.1/10 Severe RDI/10 Total 
+
+Under1year 1 3 6 10 
+1/2years 4 5 16 25 
+
+operative laryngospasm of any procedure in chil-
+
+Table 2 Number and type of complications in each 
+
+dren at age 0. 
+3 years [29].
+
+OSA severity group 
+
+OSAS arises when the balance between the 
+
+OSA sever-Type of complication 
+ity 
+Airway complica-Bleeding Dehydration 
+tions 
+Mild 1 2 
+Moderate 1 1 
+Severe 2 
+
+pre-operative PSG, so there are no data about their 
+OSAS severity. Wilson et al. [27] found that the 
+most important factor in predicting post-T&A 
+complications was OSAS severity, and that the 
+patient’s age had a relatively small role as a 
+predictive value. Helfaer et al. [28] reported that 
+young children with mild OSAS do not have increased 
+risk for postoperative complications. In our 
+study only two patients (both with severe OSAS) 
+had airway complications (5.71%). One of them (21 
+months old) had hypercapnea that resolved spontaneously 
+after 20 min. The other child (7 months 
+old) was reintubated due to laryngospasm and 
+extubated 1 h later. The incidence of laryngospasm 
+in our study is similar to the incidence of post-
+
+factors maintaining airway patency and those 
+promoting airway collapse is perturbed [18].This 
+balance is determined by the interactions between 
+central ventilatory responses to hypoxia, hypercapnea, 
+anatomic size and resistance of the upper 
+airway, and the upper airway neromuscular tone. In 
+patients with neruromuscular dysfunction, relief of 
+the anatomic obstruction can, paradoxically, cause 
+worsening of the upper airway obstruction because 
+of maladjustment. Several causes may augment 
+the breach of the balance such as non-complete 
+maturation of the system, residual effect of 
+opioids, sedatives as analgesic agents, and the 
+presence of other systemic illnesses. 
+
+In the present study, patients with complicating 
+medical problems such as any other surgery, blood 
+dyscrasias, immune system compromise and craniofacial 
+anomalies were excluded. However, children 
+with other chronic medical illnesses such as 
+prematurity, bronchopulmonary dysplasia, cyanotic 
+spells, asthma, laryngomalacia, cardiac valve abnormality, 
+pulmonary hypertension and FTT were 
+included in our study. Postoperative complications 
+were not related to the type of anesthesia; this is 
+similar to other reports [17,27,28,30]. Overnight 
+PSG should be considered for young children with 
+
+
+Fig. 1 Pre-and post-operative maximal desaturation. 
+
+
+Complications of adenotonsillectomy in children with OSAS younger than 2 years of age 
+
+symptoms suggesting severe OSAS. Documentation 
+of severe OSAS may be then helpful for a more 
+careful postoperative care. 
+
+In summary, as opposed to other publications, at 
+this study a low rate of peri-and post T&A 
+respiratory complications was found in a group of 
+children younger than 2 years of age. However, all 
+the patiensts with respiratory complications had 
+severe OSAS. Upon those results, identification of 
+OSAS severity may be an important factor in 
+determining the risk of post T&A respiratory 
+complications in a young child. Because there is 
+no formal classification of OSAS severity in children, 
+further prospective studies are needed in 
+order to refine the polysomnographic and clinical 
+factors that will best determine the risk of T&A in 
+young patients. 
+
+References 
+
+[1] A. Leiberman, A. Tal, I. Brama, S. Sofer, Obstructive sleep 
+apnea in young infants, Int. J. Pediatr. Otolaryngol. 16 
+(1988) 39. 
+44. 
+[2] S. Redline, P.V. Tishler, M. Schluchter, J. Aylor, K. Clark, G. 
+Graham, Risk factors for sleep-disordered breathing in 
+children: associations with obesity, race, and respiratory 
+problems, Am. J. Respir. Crit. Care Med. 159 (1999) 1527 . 
+1532. 
+[3] C.L. Marcus, Sleep-disordered breathing in children, Am. J. 
+Respir. Crit. Care Med. 164 (2001) 16. 
+30. 
+[4] S. Isono, A. Shimada, M. Utsugi, A. Konno, T. Nishino, 
+Comparison of static mechanical properties of the passive 
+pharynx between normal children and children with sleep 
+disordered breathing, Am. J. Respir. Crit. Care Med. 157 
+(1998) 1204. 
+1212. 
+[5] G.W. 
+Don, T. Kirjavainen, C. Broome, C. Seton, K.A. 
+Waters, Site and mechanics of spontaneous sleep associated 
+obstructive apnea in infants, J. Appl. Physiol. 89 
+(2000) 2453. 
+2462. 
+[6] J.S. Suen, J.E. Arnold, L.J. Brooks, Adenotonsillectomy for 
+treatment of obstructive sleep apnea in children, Arch. 
+Otolaryngol. Head Neck Surg. 121 (1995) 525 . 
+530. 
+[7] Y. Frank, R.E. Kravath, C.P. Pollak, E.D. Weitzman, Obstructive 
+sleep apnea and its therapy: clinical and polysomnographic 
+manifestations, Pediatrics 71 (1983) 737 . 
+742. 
+[8] C.T. Herreriad and the American Academy of Pediatrics, 
+Section on Pediatric Pulmonology, Subcommittee on Obstructive 
+Sleep Apnea Syndrome, Clinical practice guideline: 
+diagnosis and management of childhood obstructive 
+sleep apnea syndrome, Pediatrics 109 (2002) 704. 
+712. 
+[9] S.R. Shott, C.M.I.I.I. Myer, R.T. Cotton, Efficacy of tonsillectomy 
+and adenoidectomy as an outpatient procedure: a 
+preliminary report, Int. J. Pediatr. Otorhinolaryngol. 13 
+(1987) 157. 
+163. 
+[10] A.J. Maniglia, H. Kushner, L. Cozzi, Adenotonsillectomy a 
+safe outpatient procedure, Arch. Otolaryngol. Head Neck 
+Surg. 115 (1989) 92. 
+94. 
+[11] R.A. Guiada, K.F. Mattucci, Tonsillectomy and adenoidectomy: 
+an inpatient or outpatient procedure, Laryngoscope 
+100 (1990) 491 . 
+493. 
+[12] R.S.I.I. Haberman, T.G. Shattuck, N.M. Dion, Is outpatient 
+suction cautery tonsillectomy safe in a community hospital 
+setting, Laryngoscope 100 (1990) 511. 
+515. 
+[13] C. Helmus, M. Grin, R. Westfall, Same day stay adenotonsillectomy, 
+Laryngoscope 100 (1990) 593. 
+596. 
+[14] B.J. Wiatrak, C.M.I.I.I. Myer, T.M. Andrews, Complications 
+of adenotonsillectomy in children under 3 years of age, Am. 
+J. Otolaryngol. 12 (1991) 170 . 
+172. 
+[15] J.M. Ruboyianes, R.M. Cruz, Pediatric adenotonsillectomy 
+for obstructive sleep apnea, Ear Nose Throat J. 75 (1996) 
+430. 
+433. 
+[16] G.M. Rosen, R.P. Muckle, M.W. Mahowald, G.S. Goding, C. 
+Ulevig, Postoperative respiratory compromise in children 
+with obstructive sleep apnea syndrome can it be anticipated, 
+Pediatrics 93 (1994) 784. 
+788. 
+[17] S.A. McColley, M.M. April, J.L. Caroll, R.M. Naclerio, G.M. 
+Loughlin, Respiratory compromise after adenotonsillectomy 
+in children with obstructive sleep apnea, Arch. 
+Otolaryngol. Head Neck Surg. 118 (1992) 940. 
+943. 
+[18] S.L. Davidson Ward, C.L. Marcus, Obstructive sleep apnea 
+in infants and young children, J. Clin. Neurophysiol. 13 (3) 
+(1996) 198. 
+207. 
+[19] C. Helmus, Tonsillectomy and adenoidectomy in the 1 and 2 
+year old child, Laryngoscope 89 (1979) 1764. 
+1771. 
+[20] K.H. Richmond, R.F. Wetmore, C.C. Baranak, Postoperative 
+complications following tonsillectomy and adenotonsillectomy 
+who is at risk, Int. J. Pediatr. Otorhinolaryngol. 13 
+(1987) 117. 
+124. 
+[21] R.G. 
+Berkowitz, G.H. Zalzal, Tonsillectomy in children 
+under 3 years of age, Arch. Otolaryngol. Head Neck Surg. 
+116 (1990) 685. 
+686. 
+[22] R.T. Brouillete, D. Hanson, O. David, L. Klemka, A. 
+Szatkowski, S. Fernbach, C.A. Hunt, Diagnostic approach 
+to suspected OSA in children, J. Pediatr. 105 (1984) 10. 
+14. 
+[23] American Thoracic Society, Standards and indications for 
+cardiopulmonary sleep studies in children. The official 
+statement of the Society, Am. J. Respir. Crit. Care Med. 
+153 (1996) 866. 
+878. 
+[24] A. Bar, A. Tarasiuk, Y. Segev, M. Phillip, A. Tal, The effect of 
+adenotonsillectomy on serum insulin-like growth factor-I 
+and growth in children with obstructive sleep apnea 
+syndrome, J. Pediatr. 135 (1) (1999) 76. 
+80. 
+[25] A. 
+Rechtschaffen, A. Kales, A Manual of Standardized 
+Terminology: Techniques and Scoring System for Sleep 
+Stages of Human Subjects, US Public Health Service, 
+Washington, DC, 1968. 
+[26] A. Leiberman, A. Tal, A. Bar, A. Tarasiuk, Sleep characteristics 
+following adenotonsillectom in children presented at 
+the American Society of Pediatric Otolaryngology, Palm 
+Beach, Florida, USA, May 2002, A6. 
+[27] K. Wilson, I. Lakheeram, A. Morielli, R. Brouillette, K. 
+Brown, Can assessment for obstructive sleep apnea help 
+predict post adenotonsillectomy respiratory complications, 
+Anesthesiology 96 (2002) 313 . 
+322. 
+[28] M.A. Helfaer, S.A. McColley, P.L. Pyzik, D.E. Tunkel, D.G. 
+Nichols, F.M. Baroody, et al., Polysomnography after 
+adenotonsillectomy in mild pediatric obstructive sleep 
+apnea, Crit. Care Med. 24 (1996) 1323 . 
+1327. 
+[29] G.L. Olsson, B. Hallen, Laryngospasm during anesthesia. A 
+computer-aided incidence study in 136 929 patients, Acta 
+Anesthesiol. Scand. 28 (1984) 567. 
+570. 
+[30] E.K. Motoyama, C.H. Glazener, Hypoxemia after general 
+anesthesia in children, Anesth. Analg. 65 (1986) 267. 
+271. 
+

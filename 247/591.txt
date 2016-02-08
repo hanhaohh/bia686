@@ -1,0 +1,787 @@
+Should Children With Suspected Obstructive 
+Sleep Apnea Syndrome And Normal Nap 
+Sleep Studies Have Overnight Sleep 
+Studies? *
+
+Muhammad M. Saeed, Thomas G. Keens, Michael W. Stabile, Joanne 
+Bolokowicz and Sally L. Davidson Ward 
+
+Chest 2000;118;360-365 
+DOI 10.1378/chest.118.2.360 
+
+The online version of this article, along with updated information 
+and services can be found online on the World Wide Web at: 
+
+http://www.chestjournal.org/content/118/2/360.full.html 
+
+CHEST is the official journal of the American College of ChestPhysicians. It has been published monthly since 1935. Copyright 2007 
+by the American College of Chest Physicians, 3300 Dundee Road, 
+Northbrook IL 60062. All rights reserved. No part of this article or PDF 
+may be reproduced or distributed without the prior written permission 
+of the copyright holder. 
+(http://www.chestjournal.org/misc/reprints.shtml) ISSN:0012-3692 
+
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2000 American College of Chest Physicians 
+
+
+
+Should 
+Children 
+With 
+Suspected 
+Obstructive 
+Sleep 
+Apnea 
+Syndrome 
+And 
+Normal 
+Nap 
+Sleep 
+Studies 
+Have 
+Overnight 
+Sleep 
+Studies?* 
+
+
+Muhammad M. Saeed, MD; Thomas G. Keens, MD, FCCP; 
+Michael W. Stabile, MS, RPFT; Joanne Bolokowicz, RPFT; and 
+Sally L. Davidson Ward, MD 
+
+Study objectives: Overnight polysomnography (ONP) is the “gold standard” for the diagnosis of 
+sleep-disordered breathing, but it is expensive and time-consuming. Thus, daytime nap studies 
+have been used as screening tests. If the findings of a nap study are normal or mildly abnormal, 
+should ONP be performed? Do specific abnormalities in nap studies predict abnormal findings in 
+ONP? To answer these questions, we conducted this study. 
+Design: Retrospective chart review. 
+Setting: Children’s hospital. 
+Participants: One hundred forty-three children with suspected obstructive sleep apnea syndrome 
+secondary to isolated adenotonsillar hypertrophy, who had normal or mildly abnormal nap 
+studies, and underwent ONP. 
+Measurements and results: We compared daytime nap and overnight polysomnograms in 143 
+children (52 girls; mean [. 
+SD] age, 5.6 . 
+3.1 years). Total sleep time was1hin daytime nap, and 
+
+5.1 . 
+1.3 h in ONP. The interval between the two studies was 5.9 . 
+4.8 months. The findings of 
+59% of the nap studies were mildly abnormal, while 66% of overnight studies were abnormal. No 
+individual nap study parameter (including short obstructive apneas, hypopneas, hypoxemia, 
+hypoventilation, snoring, paradoxical breathing, gasping, retractions) had good sensitivity at 
+predicting abnormal overnight polysomnograms, but most had good specificity and positive 
+predictive value. 
+Conclusions: We conclude that individual nap study parameters are not very sensitive in 
+predicting abnormal ONP findings. However, when nap study parameters are abnormal, the 
+chance of obstructive sleep apnea syndrome is high. (CHEST 2000; 118:360–365) 
+Key words: children; obstructive sleep apnea; polysomnography; sleep disorders; sleep studies 
+
+Abbreviations: ONP . 
+overnight polysomnography; OSAS . 
+obstructive sleep apnea syndrome; Petco2 . 
+end-tidal 
+carbon dioxide pressure; PSG . 
+polysomnogram; REM . 
+rapid eye movement; Sao2 . 
+arterial oxygen saturation 
+
+O
+O
+bstructive sleep apnea syndrome (OSAS) due to 
+adenotonsillar hypertrophy is a common pediatric 
+problem, but the diagnosis cannot be established 
+by signs and symptoms alone.1,2 Overnight polysomnography 
+(ONP) is the “gold standard” to establish a 
+
+*From the Division of Pediatric Pulmonology (Dr. Saeed), Mattel 
+Children’s Hospital, University of California at Los Angeles 
+School of Medicine; and the Division of Pediatric Pulmonology 
+(Drs. Keen and Davidson Ward, Mr. Stabile, Ms. Bolokowicz), 
+Childrens Hospital Los Angeles, University of Southern California 
+School of Medicine, Los Angeles, CA. 
+Manuscript received June 22, 1999; revision accepted February 
+9, 2000. 
+
+Correspondence to: Sally L. Davidson Ward, MD, Division of 
+Pediatric Pulmonology, Childrens Hospital Los Angeles, 4650 
+Sunset Blvd, Mail Stop #83, Los Angeles, CA 90027; e-mail: 
+sward@chla.usc.edu 
+
+diagnosis, but most sleep laboratories can perform 
+only a few overnight polysomnograms (PSGs) in a 
+24-h period. With the limited number of pediatric 
+sleep laboratories and trained staff, and an increasing 
+demand for PSGs, it may be difficult to obtain a PSG 
+in a timely manner. To overcome this problem, 
+daytime short (nap) PSGs have been used as a 
+screening test. The daytime nap PSGs are of shorter 
+duration, may require sedation, may not include 
+rapid eye movement (REM) sleep, and may be 
+affected by circadian variation in sleep patterns. In 
+some cases, the diagnosis of OSAS can be established 
+by a nap study, but in some children, findings of a 
+daytime nap study may be normal or inconclusive. In 
+this situation, it is difficult to decide whether an 
+
+Clinical 
+Investigations
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2000 American College of Chest Physicians 
+
+
+
+overnight PSG is required or not. Carroll et al1 have 
+previously shown that nap PSGs performed with 
+chloral hydrate sedation underestimate the severity 
+of sleep-disordered breathing. They also suggested 
+that if a nap PSG is inconclusive, an overnight PSG 
+should be performed. However, they had a small 
+study population, with a variety of diagnoses, they 
+had only a few children with normal nap studies, and 
+the study was not specifically directed toward obstructive 
+sleep apnea. Thus, it remains unknown 
+which children with adenotonsillar hypertrophy with 
+a normal or mildly abnormal nap study should have 
+an overnight PSG. 
+
+Therefore, we evaluated overnight PSGs in 143 
+children with possible OSAS due to adenotonsillar 
+hypertrophy, who had normal or only mildly abnormal 
+nap studies in order to determine if any parameters 
+in the nap study predict abnormal findings on 
+overnight PSGs. 
+
+Materials and Methods 
+
+Patients 
+
+All patients were referred for polysomnography by their physicians 
+for the evaluation of OSAS secondary to adenotonsillar 
+hypertrophy. The study was confined to children with adenotonsillar 
+hypertrophy because they comprise the majority of children 
+undergoing polysomnography in pediatric sleep laboratories, and 
+they were otherwise healthy, and did not have complicating 
+medical conditions. All the subjects had a nap study with either 
+normal or mildly abnormal findings, and were referred back for 
+an overnight study because of persistent symptoms. Inclusion 
+criteria included the following: (1) age, between 1 year and 18 
+years; (2) absence of any other significant disease, eg, bronchopulmonary 
+dysplasia, chronic lung disease, neuromuscular diseases, 
+craniofacial abnormalities; (3) no therapeutic intervention 
+(eg, adenotonsillectomy) between the two studies; and (4) interval 
+between nap and overnight study of . 
+1 year. 
+
+Polysomnography 
+
+Nap PSGs were performed during a daytime nap and contained1hof 
+sleep time. Chloral hydrate was routinely administered 
+to induce sleep for daytime nap studies unless there were 
+some contraindications to its use. These contraindications include 
+history of food intake within 4 h, evidence of airways obstruction 
+while awake, severe obesity, central respiratory control disorders, 
+neuromuscular diseases, and hypersensitivity to chloral hydrate. 
+The majority of the children received chloral hydrate. An initial 
+dose of 50 mg/kg body weight (maximum dose, 1,000 mg) was 
+administered po. A second dose of 25 mg/kg (maximum, 500 mg) 
+was given if the child failed to sleep after a 30-min observation 
+period. All these patients were examined by a physician on the 
+day of study and cleared for sedation according to the Childrens 
+Hospital Los Angeles sedation guidelines, including nothing po. 
+Overnight PSGs were performed for 8 h, and no sedation was 
+used. 
+
+All testing was performed in the Sleep Physiology Laboratory 
+by a pulmonary technician skilled in pediatric polysomnography. 
+PSGs were performed in a quiet, dark room at an ambient 
+
+temperature of 24°C. The following parameters were measured 
+and recorded continuously by the Healthdyne computerized 
+polysomnography system (Alice III; Respironics; Marietta, GA): 
+
+(1) chest and abdominal wall motion by uncalibrated respiratory 
+inductance plethysmography; (2) heart rate, by ECG; (3) inspired 
+and end-tidal carbon dioxide pressure (Petco2), sampled at the 
+nose or mouth at a rate of 60 mL/min by mass spectrometry 
+(model 1100 Medical Gas Analyzer; Perkin Elmer; Pomona, CA) 
+or by capnography (model 1000 Capnograph; Nellcor; Hayward, 
+CA); (4) combined oral nasal air flow, sampled with a three-
+pronged thermistor (Healthdyne Technologies; Marietta, GA) 
+placed at the upper lip; (5) arterial oxygen saturation (Sao2), by 
+pulse oximetry (model N 200; Nellcor); (6) oximeter pulse wave 
+form; (7) electro-oculogram; (8) EEG in overnight PSGs; (9) chin 
+electromyogram; (10) actimeter (placed on the hand); and (11) 
+microphone placed over neck to monitor snoring. 
+Children were also monitored and recorded on videotape, 
+using an infrared video camera. The patients were continuously 
+observed by the technician. Sleep behaviors, respiratory events, 
+and the presence of retractions or gasping were recorded by the 
+technician. EEG was not performed during daytime nap studies, 
+as1hof sleep time does not yield sufficient information about 
+sleep stages or EEG arousals. 
+
+The following parameters were evaluated: (1) obstructive 
+apnea, defined as complete cessation of air flow at nose and 
+mouth; (2) obstructive hypopnea, defined as a reduction in 
+airflow on thermistor or Petco2 tracing to . 
+50% of the 
+baseline; (3) apnea hypopnea index (number of obstructive 
+apneas and hypopneas per hour of sleep), and the longest 
+duration of apnea and hypopnea were quantified; (4) hypoventilation 
+(Petco2 . 
+45 mm Hg), the highest Petco2 and number 
+of episodes of hypoventilation were scored; (5) desaturations 
+(Sao2 . 
+95%), Sao2 nadir, and the number of desaturations; Sao2 
+measurements associated with poor pulse tracings were discarded; 
+and (6) presence or absence of snoring, paradoxical 
+breathing, chest wall retractions, and gasping. 
+
+Parents of children undergoing polysomnography at our sleep 
+laboratory were requested to answer a questionnaire if snoring, 
+difficulty breathing, and apnea were absent, occasionally present, 
+or always present. All these questionnaires were reviewed. 
+
+Only those patients who had normal or mildly abnormal nap 
+studies, were included in the review. Nap studies were classified 
+as follows: (1) normal, defined as no obstructive apnea and 
+hypopnea index . 
+1 event/h, Sao2 nadir . 
+95%, and highest 
+Petco2 . 
+45 mm Hg; or (2) mildly abnormal, defined as 
+obstructive apnea-hypopnea index, 1 to 2 events/h; Sao2 nadir 90 
+to 94%, or highest Petco2,46to49mmHg. 
+
+ONP findings were classified as normal or abnormal based on 
+criteria previously established.3 Abnormal studies were further 
+classified as follows: (1) mildly abnormal, with obstructive apnea 
+hypopnea index, 1 to 2 events/h; Sao2 nadir of 90 to 94%; or 
+highest Petco2, 46 to 49 mm Hg; (2) moderately abnormal, with 
+obstructive apnea hypopnea index, 3 to 5 events/h; Sao2 nadir of 
+85 to 89%; or highest Petco2, 50 to 54 mm Hg; or (3) severely 
+abnormal, with obstructive apnea hypopnea index . 
+5 events/h, 
+Sao2 nadir of . 
+84%; or highest Petco2 . 
+55 mm Hg. 
+
+Statistical Methods 
+
+All data are expressed as mean . 
+SD, where appropriate. 
+Comparison was performed by x2 analysis (subjects with obstructive 
+apnea, obstructive hypopnea, obstructive hypoventilation, 
+hypoxemia, snoring, paradoxical breathing, intercostal retractions, 
+and gasping) or by Student’s paired t test (longest obstructive 
+apnea, longest obstructive hypopnea, lowest Sao2, 
+and highest Petco2). The sensitivities (true-positives/[truepositives 
+. 
+false-negatives]), specificities (true-negatives/[true-
+
+CHEST 
+/ 
+118/2/ 
+AUGUST, 
+2000 
+361
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2000 American College of Chest Physicians 
+
+
+
+Table 1—Abnormalities Found in Nap Studies* 
+
+Variables OSA OH Hypox Hypovent Snoring PB Retr Gasp 
+Normal nap (n . 
+59) 0 4 (7) 0 0 25 (42) 12 (20) 1 (2) 3 (5) 
+Mildly abnormal nap (n . 
+84) 29 (34) 49 (58) 32 (38) 30 (36) 52 (62) 39 (46) 1 (1) 8 (9) 
+
+*Data are presented as No. (%). OSA . 
+obstructive sleep apnea; OH . 
+obstructive hypopnea; Hypox . 
+hypoxemia; Hypovent . 
+hypoventilation; 
+
+PB . 
+paradoxical breathing; Retr . 
+retractions; Gasp . 
+gasping. 
+
+negatives . 
+false-positives]), positive predictive values (true-positives/[
+true-positives . 
+false-positives]), and negative predictive 
+values (true-negative/[true-negatives . 
+false-negatives]) for different 
+parameters were calculated. Sensitivity was defined as the 
+proportion of diseased persons the test classified as positive. 
+Specificity was defined as the proportion of nondiseased persons 
+the test classified as negative. Positive predictive value was defined 
+as the proportion of positive tests that identified the diseased 
+persons. Negative predictive value was defined as the proportion of 
+the negative tests that correctly identified the nondiseased persons. 
+
+Results 
+
+One hundred forty-three children had normal or 
+mildly abnormal findings on nap PSGs from 1991 to 
+1998. Their mean age was 5.6 . 
+3.1 years, and 52 
+were girls (36%). The mean interval between nap 
+and overnight PSGs was 5.9 . 
+4.8 months. Total 
+sleep time during nap studies was 1 h, while mean 
+sleep time during the overnight studies was 5.1 . 
+1.3 h. 
+
+One hundred thirty-eight patients (96%) were 
+sedated with chloral hydrate during nap studies. The 
+remaining patients did not receive chloral hydrate 
+because of spontaneous sleep or a history of food 
+intake within 4 h prior to study. The administration 
+of chloral hydrate was not associated with any side 
+effects. No patient received sedation for overnight 
+studies. 
+
+Fifty-nine of the nap study findings were normal 
+(41%). Among these subjects, none had obstructive 
+apnea, hypoxemia, or hypoventilation. However, 4 
+subjects (7%) had brief (. 
+6 s) obstructive hypopnea, 
+25 subjects (42%) had snoring, 12 subjects 
+(20%) had paradoxical breathing, 1 subject (2%) had 
+chest retractions, and 3 subjects (5%) were noticed 
+to have gasping. Among 84 children who had mildly 
+abnormal findings on nap studies, 29 children (34%) 
+
+Table 2—Distribution of Nap and Overnight PSGs* 
+
+Variables Normal ONP Abnormal ONP p Value 
+
+Normal nap (n . 
+59) 29 (49) 30 (51) 0.8 Normal nap 10 (17) 15 (25) 5 (8) 
+Mildly abnormal nap 19 (23) 65 (77) . 
+0.0001 Mildly abnormal nap 13 (15) 21 (25) 31 (37) 
+(n . 
+84) p value 0.4 0.15 0.008 
+
+*Data are presented as No. (%). 
+
+had one or more obstructive sleep apnea, 49 children 
+(58%) had one or more obstructive hypopnea, 32 
+children (38%) had hypoxemia, 30 children (36%) 
+had hypoventilation, 52 children (62%) had snoring, 
+39 children (46%) were noticed to have paradoxical 
+breathing, 1 child (1%) had chest retractions, and 8 
+children (9%) had gasping. These abnormalities are 
+summarized in Table 1. Among overnight sleep 
+studies, 95 findings (66%) were normal. The children 
+with mildly abnormal nap studies were at 
+significantly higher risk of having an abnormal overnight 
+sleep study (p . 
+0.0001), when compared to 
+those who had normal nap studies (Table 2). The 
+major difference between normal and abnormal nap 
+studies was in the severely abnormal overnight 
+studies (7% in children with normal nap findings vs 
+37% in children with mildly abnormal nap study; 
+p . 
+0.0002; Table 3). There were 19 children (13%) 
+who had a mildly abnormal nap study but a normal 
+overnight study. 
+
+Significantly more children demonstrated obstructive 
+apneas, hypopneas, hypoxemia, snoring, paradoxical 
+breathing, and gasping during overnight 
+sleep studies (Table 4). The durations of longest 
+apnea and hypopnea was also longer in overnight 
+studies. There was no significant difference in the 
+number of children who demonstrated hypoventilation 
+and retractions during nap and overnight sleep 
+studies. 
+
+No individual nap parameter had both good sensitivity 
+and specificity at predicting abnormal overnight 
+studies, but most had good specificity and 
+positive predictive value (Table 5). The presence of 
+snoring during a nap study was the most sensitive 
+(86%) parameter predicting an abnormal overnight 
+
+Table 3—Stratification of Abnormal Overnight PSGs 
+in Relation to the Nap Study Results* 
+
+Mildly Moderately Severely 
+Abnormal Abnormal Abnormal 
+Variables ONP ONP ONP 
+
+*Data are presented as No. (%). 
+
+Clinical 
+Investigations
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2000 American College of Chest Physicians 
+
+
+
+Table 4—Comparison of Abnormalities During Nap and Overnight PSGs* 
+
+Abnormalities Nap ONP p Value 
+Subjects with abnormal studies, No. (%) 84 (59) 95 (66) 0.22 
+Subjects with obstructive apnea, No. (%) 29 (20) 95 (66) . 
+0.0001 
+Longest obstructive apnea, s 11.4 . 
+4.6 19.9 . 
+11.6 0.0004 
+Subjects with obstructive hypopnea, No. (%) 53 (37) 106 (74) . 
+0.0001 
+Longest obstructive hypopnea, s 12.3 . 
+8.2 29.9 . 
+37.8 0.0026 
+Subjects with hypoxemia (Sao2 . 
+95%), No. (%) 32 (22) 82 (57) . 
+0.0001 
+Lowest Sao2 (%) 91.4 . 
+3.8 85.9 . 
+11.9 0.0001 
+Subjects with obstructive hypoventilation (Petco2 . 
+45 mm Hg), No. (%) 30 (21) 42 (30) 0.13 
+Highest Petco2,mmHg 48.7 . 
+2.2 51.5 . 
+3.6 0.04 
+Subjects with snoring, No. (%) 77 (54) 95 (66) . 
+0.0001 
+Subjects with paradoxical breathing, No. (%) 52 (36) 103 (72) . 
+0.0001 
+Subjects with gasping, No. (%) 2 (1.4) 28 (20) . 
+0.0001 
+Subjects with intercostal retractions, No. (%) 11 (8) 18 (13) 0.23 
+
+*Data are presented as mean . 
+SD unless otherwise indicated. 
+
+study, but it was also the least specific (48%). The 
+presence of a mildly abnormal nap study had moderate 
+sensitivity (69%) and specificity (60%) in predicting 
+an abnormal overnight study. Presence of any 
+obstructive apnea, hypopnea, hypoxemia, or hypoventilation 
+in a nap study was moderately specific 
+and had good positive predictive values, but had lower 
+sensitivities. The presence of gasping and retractions 
+was 100% specific with excellent positive predictive 
+value, but their sensitivity was also variable. 
+
+The questionnaires were available for 133 patients. 
+The parent’s response to the questionnaire is summarized 
+in Table 6. Significantly more parents of 
+children with OSAS noticed that their children 
+always had difficulty breathing and or apnea during 
+sleep. Sensitivity, specificity, positive predictive 
+value, and negative predictive values for each symptom 
+are shown in Table 7. The always presence of 
+difficulty breathing and snoring had very good sensitivities 
+but low specificities. History of presence of 
+apnea during sleep was neither sensitive nor very 
+specific in predicting OSAS. 
+
+Discussion 
+
+We found that no individual nap study parameter 
+was very sensitive in predicting the presence of 
+obstructive sleep apnea in an overnight sleep study. 
+However, many of them had good specificity and 
+positive predictive values. We also found that if nap 
+studies are even mildly abnormal, there is a high 
+chance of having an abnormal overnight sleep study. 
+This study also suggests that nap studies underestimate 
+the abnormalities detected by ONP, even when 
+children were sedated with chloral hydrate. Since 
+REM sleep is infrequently seen in daytime nap 
+studies, the higher incidence of sleep-disordered 
+breathing seen in overnight studies may be due, in 
+part, to the increased REM sleep. 
+
+There have been several studies in adults that have 
+correlated short daytime (nap) or partial-night studies 
+with overnight studies. However, none of those 
+studies evaluated individual parameters in the nap 
+studies. Sanders et al4 compared the first half of an 
+overnight sleep study to a whole night study in 48 
+
+Table 5—Sensitivity, Specificity, Positive Predictive, Table 6—Response to Questionnaire* 
+and Negative Predictive Values of Nap Parameters 
+
+
+Normal Abnormal 
+Positive Negative ONP ONP p 
+Sensitivity, Specificity, Predictive Predictive Symptoms Presence (n . 
+46) (n . 
+87) Value 
+Parameters % % Value, % Value, % 
+
+Snoring Never 5 (11) 4 (5) 0.31 
+Abnormal nap 69 60 77 49 Sometimes 9 (20) 14 (16) 0.79 
+OSA 23 85 76 36 Always 32 (69) 69 (79) 0.29 
+Hypopnea 40 69 72 37 Difficulty breathing Never 8 (17) 6 (7) 0.11 
+Hypoxemia 26 85 78 37 Sometimes 22 (48) 26 (30) 0.06 
+Hypoventilation 25 88 80 37 Always 16 (35) 55 (63) 0.003 
+Snoring 86 48 71 69 Stopped breathing Never 19 (41) 24 (27) 0.15 
+Paradoxical breathing 69 68 83 47 Sometimes 22 (48) 34 (39) 0.43 
+
+Gasping 20 100 100 11 Always 5 (11) 29 (34) 0.009 
+Retractions 58 100 100 11 
+
+*Data are presented as No. (%). 
+
+CHEST 
+/ 
+118/2/ 
+AUGUST, 
+2000 
+363
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2000 American College of Chest Physicians 
+
+
+
+Table 7—Sensitivity, Specificity, Positive Predictive, and Negative Predictive Values of 
+Symptoms From Questionnaire 
+
+
+Positive Negative 
+Sensitivity, Specificity, Predictive Predictive 
+Symptoms Presence % % Value, % Value, % 
+Snoring Sometimes 78 36 61 55 
+Always 95 13 68 55 
+Difficulty breathing Sometimes 81 30 54 57 
+Always 90 33 77 57 
+Stopped breathing Sometimes 59 46 61 44 
+Always 55 79 85 44 
+
+adult patients. They found that apnea index, apnea 
+hypopnea index, and desaturation event frequency 
+had high sensitivities (87.9 to 93%), positive predictive 
+values (93.6 to 100%), and specificities (86.7 to 
+100%). Mizuma and colleagues5 compared daytime 
+(3 h) and nocturnal polysomnography indexes of 
+sleep, apnea index, and Sao2 in 30 adult patients.5 
+They found no significant differences among the 
+indexes, and there was a significant positive correlation 
+between nocturnal and daytime polysomnography 
+in all variables related to sleep apnea. Series and 
+colleagues6 compared daytime and nocturnal PSGs 
+in adults, and demonstrated that daytime sleep recordings 
+were accurate in the diagnosis of sleep 
+apnea syndrome, and of the types of apneas, but they 
+were not reliable for the evaluation of sleep architecture. 
+Carmona et al7 compared PSGs recorded 
+over the first3hof nocturnal sleep to the entire 
+night PSGs in patients suspected of having OSAS. In 
+their study, 3-h nocturnal sleep studies had a sensitivity 
+of 84% and specificity of 100%. They concluded 
+that if polysomnography during first part of 
+nocturnal sleep is negative, it should be continued 
+throughout the entire night. Roberts and Hooper8 
+reported similar results when comparing first4hof 
+nocturnal sleep studies to full-night studies. They 
+found that 4-h sleep studies were 100% sensitive and 
+97% specific in identifying sleep apnea syndrome. 
+The studies by Silvestri et al9 and Cordero et al10 
+compared daytime PSGs to overnight studies and 
+found that daytime sleep studies had good sensitivity 
+and specificity, but concluded that ONP should be 
+performed in the patients with presumed OSAS and 
+negative daytime PSGs. The only study in the pediatric 
+population, done by Marcus et al,3 showed that 
+nap studies significantly underestimated the abnormalities 
+detected by ONP. Our findings are consistent 
+with this latter study. However, their study did 
+not evaluate whether the individual nap study parameters 
+might be able to predict the presence of 
+OSAS in an overnight sleep study. 
+
+The use of chloral hydrate was not associated with 
+any side effects in our study. Thus, it was a safe 
+
+medication when used to induce sleep in daytime 
+studies in the uncomplicated patients in our study. It 
+did not seem to cause sleep-disordered breathing. 
+However, chloral hydrate should be used cautiously 
+in patients who might be at high risk of upper airway 
+obstruction (such as infants . 
+3 months old, obese 
+children, children with evidence of upper airway 
+obstruction while awake, and patients with craniofacial 
+anomalies), as chloral hydrate may precipitate 
+upper airways obstruction.11 
+
+We also found that a parent’s report about the 
+presence of snoring, difficulty breathing, and apnea 
+was neither very sensitive nor specific in predicting 
+the presence of OSAS. However, a parent’s report 
+about their children always having snoring and or 
+difficulty breathing during sleep was much more 
+sensitive in predicting the presence of OSAS. All 
+these findings suggest that the diagnosis of OSAS 
+cannot be accomplished by the history of these three 
+symptoms alone.1,2 In addition, it is possible that 
+some of the children who snore but had normal 
+findings in ONP may have upper airway resistance 
+syndrome. 
+
+In pediatric sleep laboratories, nap studies are 
+often used as a relatively inexpensive screening test. 
+Since our study shows that nap studies often need to 
+be confirmed by an overnight PSG, the potential cost 
+advantages of nap studies may evaporate. Overnight 
+PSGs have been shown to be a cost-effective diagnostic 
+tool in adults.12 Our results suggest that the 
+same may be true for children. 
+
+We conclude that individual nap parameters are 
+not very sensitive in predicting an abnormal overnight 
+PSG. Hence, if a nap study is normal or only 
+mildly abnormal, and the clinical suspicion is high, 
+an overnight PSG should be performed to confirm 
+the diagnosis of OSAS. The children who have even 
+mildly abnormal nap studies tend to have more 
+severe abnormalities on overnight PSGs. We speculate 
+that in children with suspected OSAS secondary 
+to adenotonsillar hypertrophy, any nap study with 
+normal or mildly abnormal findings should always be 
+confirmed by an overnight PSG. 
+
+Clinical 
+Investigations
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2000 American College of Chest Physicians 
+
+
+
+References 7 Carmona BC, Capote GF, Cano GS, et al. Brief polysomno
+
+
+1 Carroll JL, McColley SA, Marcus CL, et al. Inability of clinical 
+history to distinguish primary snoring from obstructive sleep 
+apnea syndrome in children. Chest 1995; 108:610 –618 
+
+2 Brouillette R, Hanson D, David R, et al. A diagnostic 
+approach to suspected obstructive sleep apnea in children. 
+J Pediatr 1984; 105:10 –14 
+
+3 Marcus CL, Keens TG, Davidson Ward SL. Comparison of 
+nap and overnight polysomnography in children. Pediatr 
+Pulmonol 1992; 13:16–21 
+
+4 Sanders MH, Black J, Costantino JP, et al. Diagnosis of 
+sleep-disordered breathing by half-night polysomnography. 
+Am Rev Respir Dis 1991; 144:1256–1261 
+
+5 Mizuma H, Sonnenschein W, Meier-Ewert K. Diagnostic use 
+of daytime polysomnography versus nocturnal polysomnography 
+in sleep apnea syndrome. Psychiatry Clin Neurosci 1996; 
+50:211–216 
+
+6 Series F, Cormier Y, La Forge J. Validity of diurnal sleep 
+recording in the diagnosis of sleep apnea syndrome. Am Rev 
+Respir Dis 1991; 143:947–949 
+
+graphic studies in the diagnosis of the obstructive sleep apnea 
+syndrome. Arch Bronconeumol 1994; 30:390 –393 
+
+8 Roberts CJ, Hooper RG. Prediction of polysomnography 
+results by abbreviated testing [abstract]. Chest 1985; 88: 
+43S 
+
+9 Silvestri R, Guilleminault C, Coleman R, et al. Nocturnal 
+sleep versus daytime nap findings in patients with breathing 
+abnormalities during sleep [abstract]. Sleep Res 1982; 11:174 
+
+10 Cordero MP, Marquez PFL, Rodriquez BI, et al. Abbreviated 
+diurnal polysomnographic records in the diagnosis 
+of sleep obstructive apnea syndrome. Rev Clin Esp 1998; 
+198:351–355 
+
+11 Hershenson M, Brouillette RT, Olsen E, et al. The effect of 
+chloral hydrate on genioglossus and diaphragmatic activity. 
+Pediatr Res 1984; 18:516–519 
+
+12 Chervin RD, Murman DL, Malow BA, et al. Cost-utility of 
+three approaches to the diagnosis of sleep apnea: polysomnography, 
+home testing, and empirical therapy. Ann Intern 
+Med 1999; 130:496 –505 
+
+
+CHEST 
+/ 
+118/2/ 
+AUGUST, 
+2000 
+365
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2000 American College of Chest Physicians 
+
+
+
+Should Children With Suspected Obstructive Sleep Apnea Syndrome 
+And Normal Nap Sleep Studies Have Overnight Sleep Studies? *
+
+
+Muhammad M. Saeed, Thomas G. Keens, Michael W. Stabile, Joanne 
+Bolokowicz and Sally L. Davidson Ward 
+Chest 2000;118; 360-365 
+DOI 10.1378/chest.118.2.360 
+
+
+This information is current as of February 20, 2009 
+
+& Services 
+Updated Information 
+http://www.chestjournal.org/content/118/2/360.full.html 
+high-resolution figures, can be found at: 
+Updated Information and services, including 
+References 
+tml#ref-list-1 
+http://www.chestjournal.org/content/118/2/360.full.h 
+accessed free at: 
+This article cites 11 articles, 2 of which can be 
+Citations 
+tml#related-urls 
+http://www.chestjournal.org/content/118/2/360.full.h 
+articles: 
+This article has been cited by 4 HighWire-hosted 
+Open Access 
+option 
+Freely available online through CHEST open access 
+Permissions & Licensing 
+http://chestjournal.org/misc/reprints.shtml 
+(figures, tables) or in its entirety can be found online at: 
+Information about reproducing this article in parts 
+Reprints 
+http://chestjournal.org/misc/reprints.shtml 
+Information about ordering reprints can be found online: 
+Email alerting service 
+online article. 
+article. sign up in the box at the top right corner of the 
+Receive free email alerts when new articles cit this 
+format 
+Images in PowerPoint 
+format. See any online article figure for directions. 
+downloaded for teaching purposes in PowerPoint slide 
+Figures that appear in CHEST articles can be
+
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2000 American College of Chest Physicians 
+
+
+

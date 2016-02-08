@@ -1,0 +1,975 @@
+PEDIATRICS 
+Health-related Quality of Life and Depressive Symptoms in Children with 
+Suspected Sleep-Disordered Breathing 
+
+Valerie McLaughlin Crabtree, PhD1; James W. Varni, PhD2; David Gozal, MD1 
+
+1Division of Pediatric Sleep Medicine and Kosair Children’s Hospital Research Institute; Department of Pediatrics; University of Louisville School 
+of Medicine; KY; 2Department of Landscape Architecture and Urban Planning, College of Architecture; Department of Pediatrics, College of 
+Medicine; Texas A&M University; College Station, TX 
+
+Study Objectives: Snoring and sleep-disordered breathing (SDB) are 
+highly prevalent among children. The increasing trends of obesity in the 
+pediatric population further predict an exacerbation of this public health 
+problem. However, the impact of SDB on mood and quality of life and the 
+confounder effect of obesity in this setting are unclear. 
+Design: We studied a group of 85 clinically referred children, aged 8 to 12 
+years, with snoring and suspected SDB and 35 asymptomatic children 
+(controls). All children completed validated questionnaires for the presence 
+of depression (Children’s Depression Inventory) and for health-related 
+quality of life (PedsQL.), and parents completed the Parent Report 
+version of the PedsQL.. Children referred to the Sleep Medicine Center 
+for sleep-disordered breathing were further subdivided according to their 
+body mass index > 95% for age and sex (n = 44) and with BMI < 95% for 
+age and sex as ClinN1 (n = 41). 
+
+Results: Parentally reported quality of life and physical health differed 
+between obese and nonobese children. However, both groups with SDB 
+had more-impaired quality of life and depressive symptoms than did controls. 
+Conclusions: Children with suspected SDB, regardless of the severity of 
+apnea-hypopnea index or the presence of obesity, had more impairments 
+in quality of life and depressive symptoms than did children who did not 
+snore. 
+Citation: McLaughlin Crabtree V; Varni JW; Gozal D. Health-related quality 
+of life and depressive symptoms in children with suspected sleep-disordered 
+breathing. SLEEP 2004;27(6):1131-8. 
+
+INTRODUCTION 
+
+IN ADULT PATIENTS, SLEEP-DISORDERED BREATHING 
+(SDB) HAS BEEN ASSOCIATED WITH BOTH DEPRESSION1 
+AND IMPAIRED QUALITY OF LIFE.2 While no studies 
+have specifically addressed the relationship between depression 
+and SDB in children, impaired quality of life, neurocognitive 
+deficits, poor school performance, behavioral problems, and 
+hyperactivity have all recently emerged as important morbidities 
+of this frequent pediatric disorder3-9 and appear to coincide in 
+obese children with SDB,10 underlying the potential associations 
+between obesity, SDB, quality of life, and depression. 
+
+The prevalence of obesity in children has increased dramatically 
+over the past 30 years, from 4% in 6- to 11-year-old children 
+during the period of 1963-1974 to 13% in 1999, according 
+to the National Health and Nutrition Examination Survey.11 An 
+expert committee comprising members of the Maternal and Child 
+Health Bureau, the Health Resources and Services 
+Administration, and the Department of Health and Human 
+
+Disclosure Statement 
+
+This is not an industry-sponsored study. Dr. Crabtree has received support from 
+MiniMitter. Dr. Varni receives financial support from Mapi Research Trust; and 
+holds the copyright for the PedsQL. Dr. Gozal has received research support 
+from Itamar Ltd; and serves on the national speaker's bureau for Merck 
+Company. 
+
+Submitted for publication September 2003 
+Accepted for publication April 2004 
+
+Address correspondence to: Valerie McLaughlin Crabtree, PhD, Assistant 
+Professor, Division of Pediatric Sleep Medicine and Kosair Children’s Hospital 
+Research Institute, Department of Pediatrics, University of Louisville School of 
+Medicine, 571 S. Floyd Street Suite 439, Louisville, KY 40202; Tel: (502) 8524341; 
+Fax: (502) 852-5264; E-mail: Valerie.Crabtree@louisville.edu 
+
+SLEEP, Vol. 27, No. 6, 2004 1131 
+
+Services has recommended that all children with a body mass 
+index (BMI) fulfilling the overweight criteria should receive a 
+thorough medical assessment to evaluate possible underlying 
+causes and to determine concomitant medical problems. Among 
+the multiple morbidities associated with obesity, respiratory sleep 
+disturbances, in general, and obstructive sleep apnea (OSA) and 
+obesity hypoventilation syndrome, in particular, should be considered 
+and evaluated.12 
+
+In addition to the physical health risks associated with being 
+overweight, children may be at risk of psychological distress. 
+The relationship between obesity and symptoms of depression in 
+children has not been clearly established. While some studies 
+have found a stronger relationship between weight concerns 
+(rather than weight, per se) and depression,13 others have found a 
+strong association between obesity and depressive symptoms in 
+childhood.14 Furthermore, childhood-onset obesity has been 
+associated with later psychopathology in adulthood, suggesting 
+vulnerability in later psychological functioning among obese 
+children.15 
+
+Dietz reported that perhaps the most significant difficulty associated 
+with obesity in children was the negative psychosocial 
+impact.16 Many children who are overweight appear older than 
+their age, leading adults to have unrealistically high expectations 
+of them. When these expectations are not met, children may feel 
+frustrated and become increasingly dependent upon their families 
+and isolated from others. Depressed overweight children may 
+respond more poorly to weight management programs and, therefore, 
+are in need of psychological treatment in addition to strict 
+weight-management programs.12,17 
+
+Obese children report a more negative quality of life than do 
+children with chronic health conditions such as asthma or atopic 
+dermatitis.18 Severely obese children report a lower health-related 
+quality of life (HRQOL) than do healthy children and an 
+
+Health-related Quality of Life, Depressive Symptoms with SDB—Crabtree et al 
+
+
+HRQOL similar to that of children diagnosed with cancer.10 The 
+impairments in quality of life, however, appear to be responsive 
+to cognitive-behavioral intervention after an in-patient rehabilitation 
+weight-loss program.18,19 While some studies have assessed 
+the quality of life18,19and depressive symptoms13 of children who 
+are overweight, very few have included a control group of normal-
+weight children in their assessments.10 
+
+Therefore, to examine the relationship among SDB, obesity, 
+and psychosocial variables, we hypothesized that the presence of 
+snoring and of obesity in children would independently lead to 
+increased depression and decreased HRQOL in comparison to 
+normal weight and healthy children. 
+
+METHODS 
+
+Participants 
+
+Eighty-five consecutive children between the ages of 8 and 12 
+years who were referred to the Kosair Children’s Hospital Sleep 
+Medicine Center for suspected SDB were recruited as the clinic-
+referred group. Children were classified as obese if their BMI 
+was greater than or equal to the 95th percentile for their age and 
+sex, as established by the National Center for Health Statistics 
+and according to the Centers for Disease Control BMI-for-age 
+growth charts. Children were classified as normal weight if their 
+BMI was below the 95th percentile. On this basis, 44 children 
+referred for SDB fulfilled the criteria for obesity (ClinOb), and 
+the remaining 41 snoring children were considered as normal 
+weight (ClinNl). Thirty-five additional children between the ages 
+of 8 and 10 years whose parents reported that their children had 
+no symptoms of SDB in a questionnaire mailed to former non-
+snoring participants in a study of childhood SDB were recruited 
+to participate as the control group. Because it was not feasible to 
+recruit control children who were perfectly matched to the Clin 
+groups, controls were matched on as many variables as possible, 
+including age, sex, and geographical region of residence. Four 
+children in the control group had a BMI above the 95th percentile 
+for age and sex. Because this number was too small to analyze 
+separately, these children were excluded, and only the responses 
+of children without obesity were analyzed (Control; n = 31). 
+
+Snoring children with an AHI of at least 1 but 5 or less per hour 
+of total sleep time (TST) with no clinically significant hypoxemia, 
+hypercapnia, or excessive daytime sleepiness were considered 
+to have primary snoring (PS), while children with clinically 
+significant hypoxemia, hypercapnia, daytime sleepiness, an AHI 
+of at least 5 per hour of TST, or a combination thereof, were considered 
+to have SDB. The definition used for clinically significant 
+hypoxemia was the presence of any events associated with 
+oxyhemoglobin desaturations > 3% and a mean SaO2 = 
+95%, 
+while that for hypercapnia required the presence of end-tidal carbon 
+dioxide tension values > 50 mmHg for more than 3% of the 
+total recording time. Sleepiness was considered to be potentially 
+present if parental reports based on a modified questionnaire similar 
+to the Epworth Sleepiness Scale was suggestive of daytime 
+sleepiness or the recently derived intrapolysomnographic sleep 
+pressure score was = 
+0.25 or both.20 SDB was further classified 
+as mild or moderate to severe by physician analysis of presenting 
+concerns, AHI, respiratory arousal index, and magnitude of 
+hypoxemia and hypercapnia.21 Control children had documented 
+absence of snoring after having previously undergone 
+polysomnography (PSG) as part of a study conducted by O’Brien 
+
+et al.19 Furthermore, parental report indicated that the children 
+continued to be nonsnoring. 
+
+Questionnaires 
+
+Parents completed the parent version of the Pediatric Quality 
+of Life Inventory, Version 4.022 (PedsQL. 
+4.0), and the children 
+completed the Children’s Depression Inventory33 (CDI) and child 
+version of the PedsQL. 
+4.0 during visits to the sleep medicine 
+center. Control subjects completed the questionnaires by mail. 
+Children in the clinic groups had their height and weight measured 
+by medical staff at their clinic visits. Height and weight of 
+the children in the control group were provided by parental report 
+on the mailed questionnaire. 
+
+The PedsQL. 4.0 
+
+The 23-item PedsQL. 
+4.0 Generic Core Scales, developed by 
+Varni,22 include (1) Physical Functioning (8 items), (2) 
+Emotional Functioning (5 items), (3) Social Functioning (5 
+items), and (4) School Functioning (5 items) and were created 
+through focus groups, interviews, pretesting, and field-testing 
+measurement development protocols.22,23 
+
+The PedsQL. 
+4.0 Generic Core Scales are comprised of parallel 
+child self-report and parent-report formats. The parent report 
+is a proxy report and assesses parents’ perceptions of their children’s 
+HRQOL. The items for each of the forms are essentially 
+identical, differing in developmentally appropriate language or 
+first- or third-person viewpoint. The instructions ask how much 
+of a problem each item has been during the past month. A 5-point 
+response scale is utilized (0 = never a problem; 1 = almost never 
+a problem; 2 = sometimes a problem; 3 = often a problem; 4 = 
+almost always a problem). 
+
+Items are reverse scored and linearly transformed to a 0 to 100 
+scale (0 = 100, 1 = 75, 2 = 50, 3 = 25, 4 = 0), so that higher scores 
+indicate better HRQOL. Scale Scores are computed as the sum of 
+the items divided by the number of items answered (this accounts 
+for missing data). If more than 50% of the items in the scale are 
+missing, the Scale Score is not computed.24 The PedsQL. 
+4.0 is 
+the only non–disease-specific pediatric HRQOL measurement 
+instrument to our knowledge to maintain item and scale construct 
+consistency while covering a 2- to 18-year-old age range.25-28 
+
+Through validation studies, child-report measures have reflected 
+significantly lower scores (reflecting poorer quality of life) in 
+all subscales among children with chronic and acute illnesses 
+than among healthy children.29-32 Parent reports have shown 
+poorer quality of life among chronically ill than among acutely ill 
+children. Furthermore, acutely ill children’s parents have reported 
+poorer quality of life than have healthy children’s parents. A 
+multitrait-multimethod matrix has reflected a correlation between 
+parent and child report; however, most scales have had correlation 
+coefficients below 0.50, reflecting the importance of surveying 
+both the child and the parent.22 
+
+Children’s Depression Inventory 
+
+The CDI, developed by Kovacs, is a 27-item self-report measure 
+of depressive symptoms in children ages 7 to 17 years.33 
+Children are presented with a forced choice of 3 statements and 
+asked to think of their feelings over the previous 2 weeks and 
+determine which statement best describes themselves. Scores 
+
+SLEEP, Vol. 27, No. 6, 2004 1132 Health-related Quality of Life, Depressive Symptoms with SDB—Crabtree et al 
+
+
+obtained from the CDI include Total, Negative Mood, 
+Interpersonal Problems, Ineffectiveness, Anhedonia, and 
+Negative Self-Esteem.33 
+
+Polysomnography 
+
+A standard overnight multichannel PSG evaluation was performed 
+for 72 children in the Clin groups in the sleep laboratory. 
+Although all children in the Clin groups had been referred for 
+nocturnal PSG, the remaining 13 failed to return to the clinic for 
+PSG. Children were studied for up to 12 hours in a quiet darkened 
+room with an ambient temperature of 24oC in the company of 1 
+of their parents. No drugs were used to induce sleep. The following 
+parameters were measured: chest and abdominal wall movement 
+by respiratory impedance or inductance plethysmography; 
+heart rate by electrocardiogram; air flow with a sidestream end-
+tidal capnograph, which also provided breath-by-breath assessment 
+of end-tidal carbon-dioxide levels (PETCO2; BCI SC-300, 
+Menomonee Falls, Wisc), an oronasal thermistor, and a nasal 
+pressure transducer. SpO2 was assessed by pulse oximetry 
+(Nellcor N 100; Nellcor Inc., Hayward, Calif), with simultaneous 
+recording of the pulse waveform. The bilateral electrooculogram, 
+8 channels of electroencephalogram, chin and anterior tibial electromyograms, 
+and analog output from a body-position sensor 
+(Braebon Medical Corporation, NY) were also monitored. All 
+measures were digitized using a commercially available PSG 
+system (Rembrandt, MedCare Diagnostics, Amsterdam). 
+Tracheal sound was monitored with a microphone sensor 
+(Sleepmate, Virg), and a digital time-synchronized video recording 
+was performed. 
+
+Sleep architecture was assessed by standard techniques.34 The 
+proportion of time spent in each sleep stage was expressed as a 
+percentage of TST. Awakenings were defined as a sustained 
+arousal lasting longer than 15 seconds. Sleep efficiency was 
+defined as TST divided by total recording time. The apnea index 
+(AI) was defined as the number of apneas per hour of TST. 
+Central, obstructive, and mixed apneic events were counted. 
+Obstructive apnea was defined as the absence of airflow with 
+continued chest wall and abdominal movement for duration of at 
+least 2 breaths.35-36 Hypopneas were defined as a decrease in 
+nasal flow of at least 50% with a corresponding decrease in SpO2 
+of at least 4%, an arousal, or both. The obstructive apnea-hypopnea 
+index (AHI) was defined as the number of apneas and hypopneas 
+per hour of TST. 
+
+The mean SpO2, as measured by pulse oximetry in the presence 
+of a pulse waveform signal void of motion artifact, and the SpO2 
+nadir were recorded. Because criteria for arousals have not yet 
+been developed for children, arousals were defined as recommended 
+by the American Sleep Disorders Association Task Force 
+report37 using the 3-second rule, the presence of movement 
+arousal, or both.38 Arousals were divided into 2 types: spontaneous 
+arousals and respiratory arousals. The total number of 
+arousals was also calculated. The corresponding arousal indexes 
+were calculated as a function of TST duration and are expressed 
+as number per hour of sleep. No child had a TST of less than 4 
+hours, and all children had slow-wave and rapid eye movement 
+sleep. 
+
+Descriptive statistics consisting of means and SD were used for 
+initial assessment of the data and were followed by analyses of 
+variance (ANOVA) procedures followed by posthoc tests, as 
+
+appropriate, and multiple regression. .2 analyses were also utilized 
+to determine differences in proportion of children meeting 
+clinically significant levels of depressive symptoms. Statistical 
+significance was set at a P value < .05. 
+
+RESULTS 
+
+One hundred twenty children and their parents participated in 
+the study. The ClinOb group consisted of 44 children with a mean 
+age of 10.05 ± 1.5 years and a mean BMI of 30.82 ± 6.5 kg/m2; 
+the ClinNl group comprised 41 children with a mean age of 10.17 
+± 1.4 years and a mean BMI of 18.31 ± 2.7 kg/m2; and the control 
+group included 31 children with a mean age of 9.56 ± .9 years 
+and a mean BMI of 17.50 ± 2.9 kg/m2. Significantly more 
+Caucasian children were represented in the Control group than in 
+the ClinNl group. No other significant differences were observed 
+in the demographics of the groups, other than targeted differences 
+in BMI and weight (Table 1). PSG recordings for the ClinOb and 
+ClinNl children revealed no significant differences in objective 
+sleep recordings between the 2 groups (P, not significant; Table 
+2). 
+
+Both Clin groups had significantly lower scores on the 
+PedsQL. 
+4.0 in total parent- and child-reported HRQOL, compared 
+to children in the control group (Table 3; ANOVA, F = 
+32.83, P< .001 Parent-Report; F = 13.24, P< .001 Child-
+Report), indicative of more impaired quality of life in the clinical 
+sample. More specifically, all areas of parent-reported HRQOL 
+(Table 3; Physical Health F = 31.27, P< .001; Emotional 
+Functioning F = 16.58, P< .001, Social Functioning; F = 14.20, 
+P< .001; School Functioning F = 34.71, P< .001) and all areas 
+of child-reported HRQOL (Table 3; Physical Health F = 10.40, P 
+< .001; Emotional Functioning, F = 7.25, P = .001; Social 
+Functioning, F = 4.78, P = .01; School Functioning F = 16.62, P 
+< .001) significantly differed between the Clin and Control 
+groups. In addition, ClinOb had significantly lower PedsQL. 
+
+
+4.0 scores in parent-reported total quality of life (P< .05) and 
+physical health (P< .001) than did ClinNl (Table 3). However, 
+there were no differences in child-reported PedsQL. 
+scores 
+Table 1—Demographic Characteristics of Obese and Nonobese 
+Snoring Children and Controls 
+
+ClinOb ClinNl Control 
+(n = 44) (n = 41) (n = 31) 
+Age, y 10.05 ± 1.5 10.17 ± 1.4 9.56 ± .9 
+Boys / girls, no. 26/18 21/20 13/18 
+BMI, kg/m2 30.82 ± 6.5 18.31 ± 2.7* 17.50 ± 2.9* 
+Height, cm 146.66 ± 12.0 140.73 ± 12.3† 135.70 ± 8.7* 
+Weight, kg 68.19 ± 23.2 36.97 ± 10.0* 32.51 ± 7.5* 
+Race, % 
+Caucasian 73 66 87‡ 
+African American 27 32 7 
+Latino 0 0 3 
+Biracial 0 2 3 
+
+Data are presented as mean ± SD unless otherwise noted. 
+ClinOb refers to children who snore and are obese; ClinNL, children 
+who snore and are not obese; BMI, body mass index. 
+*P< .001 vs ClinOb 
+
+
+†P< .05 vs ClinNl 
+‡P< .05 vs ClinOb 
+SLEEP, Vol. 27, No. 6, 2004 1133 Health-related Quality of Life, Depressive Symptoms with SDB—Crabtree et al 
+
+
+between ClinOb and ClinNl (P, not significant; Table 3). = 2.6, p = .01). Girls also reported better overall HRQOL (Table 
+
+No racial differences were noted in HRQOL or depressive 4; Total t = 2.0, P< .05), better social functioning (Table 4; t = 
+symptoms. Some sex differences were evident, however. Girls 2.1, P< .05), and less anhedonia (Table 4; t = 2.8, P< .01) than 
+had significantly better parent-reported HRQOL than did boys did boys. When sex was used as a covariate, however, group dif(
+Table 4; Total t = 2.4, P< .05; Emotional Functioning t = 2.2, P ferences between Clin and Control groups continued to be sig< 
+.05; Social Functioning t = 2.7, P< .01; School Functioning t nificant. 
+
+Depressive symptoms as derived from the CDI were signifi-
+Table 2—Polysomnography Results from Obese and NonObese cantly higher (ie, more depressive symptoms) for both Clin 
+Snoring Children 
+
+Table 4—Health-Related Quality of Life and Depressive Symptoms in 
+ClinOb ClinNl Girls and Boys 
+(n = 40) (n = 32) 
+
+Girls Boys 
+TST, h 6.9 ± .8 6.9 ± .9 (n = 54) (n = 62) 
+Sleep efficiency, % of TIB 85.5 ± 10.2 86.0 ± 10.1 
+Sleep latency, min 23.9 ± 24.9 34.2 ± 34.0 Pediatric Quality of Life Inventory, Version 4.0 
+REM latency, min 162.9 ± 77.7 169.8 ± 72.3 Total 
+SWS, % of TST 27.7 ± 10.4 31.3 ± 9.9 Parent Report 72.12 ± 21.0* 63.01 ± 19.2 
+REM sleep, % of TST 13.0 ± 5.3 15.3 ± 6.1 Child Report 74.37 ± 19.2* 67.17 ± 19.2 
+Spontaneous Arousal Index 6.9 ± 4.8 6.3 ± 4.5 Physical Health 
+Respiratory Arousal Index 6.7 ± 9.2 3.6 ± 7.9 Parent Report 76.21 ± 26.0 70.15± 22.1 
+PLM Index, per hour of TST 5.6 ± 10.9 3.3 ± 4.7 Child Report 80.16 ± 20.0 74.83 ± 20.5 
+AHI, per hour of TST Emotional Functioning 
+
+(range: 0.02-82.86) 8.2 ± 14.9 4.2 ± 9.1 Parent Report 63.58 ± 24.5* 54.38 ± 19.9 
+
+SpO2, % Child Report 65.09 ± 24.8 61.02 ± 22.0 
+Mean 96.7 ± 1.2 97.1 ± 1.5 Social Functioning 
+Nadir 86.0 ± 6.0 87.8 ± 8.0 Parent Report 77.74 ± 20.3† 66.37 ± 23.7 
+
+Child Report 78.98 ± 21.8* 70.25 ± 22.7 
+Data are presented as mean ± SD. School Functioning 
+ClinOb refers to children who snore and are obese; ClinNL, children Parent Report 68.77 ± 24.1† 57.58 ± 21.8 
+who snore and are not obese; TST, total sleep time; TIB, time in bed; Child Report 70.44 ± 21.9 63.64 ± 23.9 
+SWS, slow-wave sleep; REM, rapid eye movement; PLM, periodic Children’s Depression Inventory 
+limb movements; AHI, apnea-hypopnea index. Total 47.17 ± 9.6 50.34 ± 11.2 
+
+Negative Mood 48.12 ± 8.8 49.56 ± 11.4 
+Interpersonal Problems 52.35 ± 10.8 50.25 ± 10.8
+
+Table 3—Health-Related Quality of Life Scores as Derived from the 
+Ineffectiveness 47.10 ± 8.1 48.63 ± 9.7
+
+
+Pediatric Quality of Life Inventory., Version 4.0 in Obese and 
+Nonobese Snoring Children and Controls Anhedonia 48.31 ± 11.9† 54.76 ± 12.2 
+Negative Self-Esteem 44.71 ± 7.4 46.44 ± 7.0 
+ClinOb ClinNl Control 
+(n = 42) (n = 40) (n = 31) Data are presented as Mean ± SD. 
+*P< .05 
+
+†P< .01
+Total 
+Parent Report 55.93 ± 16.5*† 63.62 ± 19.1*† 86.43 ± 11.2 
+Child Report 64.63 ± 18.8* 66.00 ± 18.1* 84.47 ± 15.5 Table 5—Depression T Scores as Derived from the Children’s 
+
+Physical Health Depression Inventory in Obese and Nonobese Snoring Children and 
+Parent Report 56.83 ± 19.2*‡ 72.82 ± 25.0* 92.94 ± 9.2 Controls 
+Child Report 68.77 ± 22.4* 74.75 ± 19.5† 89.72 ± 15.6 
+
+Emotional Functioning ClinOb ClinNl Control 
+Parent Report 52.67 ± 19.8* 51.13 ± 20.5* 75.81 ± 18.7 (n = 42) (n = 38) (n = 31) 
+Child Report 59.64 ± 19.5§ 57.00 ± 23.1* 75.97 ± 24.2 
+
+
+Social Functioning Total 51.40 ± 11.0* 51.24 ± 9.2† 43.23 ± 9.8 
+Parent Report 61.86 ± 21.2* 69.76 ± 23.1* 87.10 ± 14.0 Negative Mood 50.88 ± 10.4† 51.08 ± 9.7† 44.16 ± 9.5 
+Child Report 67.93 ± 22.1§ 73.25 ± 23.2¥ 84.03 ± 20.3 Interpersonal 
+
+
+School Functioning Problems 52.69 ± 11.4 53.34 ± 11.2 47.84 ± 8.7 
+Parent Report 51.98 ± 20.5* 56.46 ± 18.9* 86.13 ± 14.2 Ineffectiveness 48.71 ± 8.8‡ 50.24 ± 9.2† 44.19 ± 8.3 
+Child Report 59.72 ± 23.3* 61.00 ± 20.7* 85.00 ± 14.5 Anhedonia 55.12 ± 12.6* 54.26 ± 10.4* 44.23 ± 11.3 
+
+Negative 
+Data are presented as mean ± SD. Self-Esteem 46.79 ± 9.1 45.95 ± 6.1 44.55 ± 7.1 
+ClinOb refers to children who snore and are obese; ClinNL, children 
+who snore and are not obese. Data are presented as mean ± SD. 
+*P< .001 vs Control ClinOb refers to children who snore and are obese; ClinNL, children 
+
+†P< .05 vs ClinicNl who snore and are not obese. 
+‡P< .001 vs ClinicNl *P< .001 vs Control 
+§P< .01 vs Control † P< .01 vs Control 
+¥ P< .05 vs Control ‡ P< .05 vs Control 
+SLEEP, Vol. 27, No. 6, 2004 1134 Health-related Quality of Life, Depressive Symptoms with SDB—Crabtree et al 
+
+
+groups than for the control group for Total Score (F = 7.23, P = 
+.001), Negative Mood (F = 5.31, P< .01), Ineffectiveness (F = 
+4.26, P< .05), and Anhedonia (F = 9.29, P< .001; Table 5). CDI 
+T scores = 
+60 (ie, 1 SD above the mean) were considered in the 
+clinically significant range. .2 analyses were used to compare the 
+proportion of children in each group who had at least 1 subscale 
+in the clinically significant range and revealed that both ClinOb 
+and ClinNl had significantly more children in the clinically significant 
+range on the Anhedonia subscale than did Controls (.2= 
+6.99, P< .01 ClinOb; .2 = 5.21, P < .05 ClinNl; Table 6). 
+
+Following nocturnal PSG, children in the clinically referred 
+groups were divided into those with primary snoring (PS; n = 31) 
+and those with SDB (n = 31). The remaining 10 children had 
+other diagnoses (ie, periodic limb movement disorder, insomnia, 
+no diagnosis). No significant differences emerged in either 
+HRQOL or depressive symptoms between PS and SDB (P, not 
+significant; Table 7). Children were further subdivided into those 
+with PS (n = 31), mild SDB (n = 16), and moderate to severe 
+SDB (n = 15) based upon 2 independent physicians’ judgments of 
+clinical severity. Decisions were based upon AHI, hypoxemia, 
+hypercapnia, and excessive daytime sleepiness.21 No significant 
+differences emerged among groups in parent- or child-reported 
+HRQOL or child-reported symptoms of depression (P, not significant; 
+Table 8). Multiple regression was then used to determine 
+if SDB severity as measured by AHI, respiratory arousal index, 
+mean SaO2 level, nadir oxygen level, and apnea index explained 
+the variance in parent- and child-reported HRQOL or symptoms 
+of depression. None of these variables independently, or in combination, 
+explained a significant degree of variance in HRQOL 
+(Parent Report R2 = .09, P > .05; Child Report R2 = .08, P > .05) 
+or depressive symptoms (CDI Total R2 = .04, P > .05). 
+
+Table 8—Health-Related Quality of Life and Depression Scores as 
+Derived from the Pediatric Quality of Life Inventory., Version 4.0 
+and Children’s Depression Inventory in Children with Primary 
+Snoring, Mild Sleep-Disordered Breathing, and Moderate to Severe 
+Sleep-Disordered Breathing 
+
+Primary Mild SDB Moderate to 
+Snoring severe SDB 
+(n = 31) (n = 16) (n = 15) 
+
+Pediatric Quality of Life Inventory., Version 4.0 
+
+Total 
+Parent Report 60.18 ± 22.1 61.41 ± 11.3 57.85 ± 22.4 
+Child Report 63.90 ± 22.7 64.54 ± 14.8 63.66 ± 20.3 
+Physical Health 
+Parent Report 67.22 ± 26.8 64.45 ± 14.0 56.38 ± 24.8 
+Child Report 72.09 ± 23.4 72.07 ± 15.6 69.24 ± 23.3 
+Emotional Functioning 
+Parent Report 54.07 ± 20.7 53.44 ± 18.0 54.29 ± 27.1 
+Child Report 57.93 ± 23.6 59.38 ± 16.8 59.29 ± 27.5 
+Social Functioning 
+Parent Report 63.55 ± 26.9 66.88 ± 19.9 63.57 ± 27.5 
+Child Report 72.59 ± 26.5 65.94 ± 21.9 63.21 ± 22.3 
+School Functioning 
+Parent Report 53.23 ± 24.1 57.50 ± 18.9 58.57 ± 24.6 
+Child Report 58.45 ± 26.5 57.50 ± 16.3 62.05 ± 22.1 
+Children’s Depression Inventory 
+Total 51.62 ± 10.5 50.81 ± 7.9 51.71 ± 13.4 
+Negative Mood 52.00 ± 9.2 47.75 ± 7.5 52.43 ± 13.4 
+Interpersonal 
+Problems 54.66 ± 12.2 49.62 ± 10.4 52.00 ± 12.2 
+Ineffectiveness 50.48 ± 10.1 49.31 ± 8.7 46.43 ± 9.9 
+Anhedonia 54.00 ± 12.0 57.13 ± 12.5 56.93 ± 12.2 
+Negative 
+Self-Esteem 45.69 ± 7.2 46.25 ± 5.6 47.29 ± 10.3 
+Data are presented as Mean ± SD. 
+
+SDB refers to sleep-disordered breathing. 
+
+Table 6—Proportion of Children Scoring in the Clinically Significant 
+Range of the Children’s Depression Inventory Among Obese and 
+Nonobese Snoring Children and Controls 
+
+ClinOb ClinNl Control 
+(n = 42) (n = 38) (n = 31) 
+Total 23.8 15.8 6.5 
+Negative Mood 11.9 13.2 3.2 
+Interpersonal Problems 19.0 18.4 9.7 
+Ineffectiveness 11.9 13.2 6.5 
+Anhedonia 35.7* 31.6† 6.5 
+Negative Self-Esteem 9.5 5.3 6.5 
+
+Data are presented as percentages. 
+ClinOb refers to children who snore and are obese; ClinNL, children 
+who snore and are not obese. 
+*P< .01 vs Control 
+
+
+†P< .05 vs Control 
+Table 7—Health-Related Quality of Life and depressive symptoms in 
+children with either primary snoring or snoring and sleep-disordered 
+breathing 
+
+Sleep-disordered Primary 
+breathing snoring 
+(n = 31) (n = 31) 
+
+Pediatric Quality of Life Inventory., Version 4.0 
+
+Total 
+Parent Report 59.75 ± 17.2 59.86 ± 21.8 
+Child Report 64.13 ± 17.3 63.00 ± 22.8 
+Physical Health 
+Parent Report 60.69 ± 19.8 66.78 ± 26.5 
+Child Report 70.75 ± 19.3 71.77 ± 23.1 
+Emotional Functioning 
+Parent Report 53.83 ± 22.3 53.63 ± 20.5 
+Child Report 59.33 ± 22.0 56.83 ± 24.0 
+Social Functioning 
+Parent Report 65.33 ± 23.4 63.13 ± 26.6 
+Child Report 64.67 ± 21.8 71.67 ± 26.5 
+School Functioning 
+Parent Report 58.00 ± 21.36 53.28 ± 23.7 
+Child Report 59.62 ± 19.0 56.67 ± 27.8 
+Children’s Depression Inventory 
+Total 51.23 ± 10.6 51.83 ± 10.4 
+Negative Mood 49.93 ± 10.8 52.40 ± 9.3 
+Interpersonal Problems 50.73 ± 11.1 54.73 ± 12.0 
+Ineffectiveness 47.97 ± 9.3 50.60 ± 10.0 
+Anhedonia 57.03 ± 12.1 54.20 ± 11.8 
+Negative Self-Esteem 46.73 ± 7.8 45.70 ± 7.0 
+Data are presented as Mean ± SD. 
+
+SLEEP, Vol. 27, No. 6, 2004 1135 Health-related Quality of Life, Depressive Symptoms with SDB—Crabtree et al 
+
+
+DISCUSSION 
+
+The findings of this study indicate that snoring children are not 
+only at high risk for decreased HRQOL, but are also at high risk 
+for the presence of depressive symptoms, particularly anhedonia. 
+Furthermore, the presence of obesity in snoring children is not 
+associated with differences in reported HRQOL or depressive 
+symptoms compared to snoring children of normal weight. 
+However, assessment of parental perception for obese snoring 
+children revealed significantly worse quality of life than for 
+nonobese children with SDB, and these differences were particularly 
+related to parentally reported physical health impairments in 
+obese children. These latter findings are similar to the physical 
+health impairments observed by Rosen et al in children with 
+SDB.4 However, in the cohort studied by Rosen and colleagues, 
+children with more severe SDB also had significantly higher 
+BMI.4 In contrast, no differences occurred between the severity 
+of SDB and reported impaired HRQOL due to physical health in 
+the present cohort. As such, the impairments in parentally reported 
+physical health of the children appear to be more related to 
+BMI than to SDB status, since no other parent- or child-reported 
+quality of life differences emerged between the 2 groups, and 
+since obese snoring children did not report more depressive 
+symptoms than snoring children of normal weight. Additionally, 
+Schwimmer and colleagues10 have also shown that higher BMI in 
+children is associated with increased impairments in parent-
+reported physical health, further supporting this relationship. 
+
+Children with reported SDB symptoms had both parent- and 
+child-reported significant impairments in HRQOL that were 
+independent of what has been considered as clinically significant 
+AHI, but were markedly different from the control group of children 
+with no SDB symptoms. Of note, the level of impaired 
+HRQOL was substantially greater than that reported by chronically 
+ill children and their parents in the validation study of the 
+PedsQL™ 4.0 22 and of children with obesity who did not have 
+OSA in the study conducted by Schwimmer and colleagues.10 
+Furthermore, the total and physical health PedsQL™ 4.0 scores 
+are very similar to those found in obese children with OSA studied 
+by Schwimmer et al.10 While the mechanisms underlying the 
+decrease in HRQOL in snoring children are unclear, it is likely 
+that the sleep disturbance associated with snoring increases 
+fatigue in children and, that as fatigue increases, snoring children 
+will experience increased irritability, depressed mood, impaired 
+concentration, and decreased interest in daily activities. These 
+impairments in daily functioning may, in turn, interfere with 
+functioning in all aspects of the child’s life, including family, 
+school, and peers. As a result, a vicious cycle may develop and 
+lead to more impaired quality of life in all areas and to the presence 
+of more depressive symptoms. 
+
+The report of anhedonia was one of the most substantial findings 
+in the present study. Indeed, 36% of obese snoring children 
+and 31% of normal-weight snoring children reported levels of 
+anhedonia that were 1 SD above the mean in comparison to only 
+6% of control children. These findings further support the notion 
+that the fatigue and sleepiness that emanate from disrupted sleep 
+architecture in the context of snoring may greatly interfere with 
+daily functioning. Not surprisingly, the more fatigued a child is, 
+the more likely he or she will be to withdraw from previous activities. 
+Similarly, as anhedonia increases, it is likely to interfere 
+with quality of life. Taken together, the marked effect of snoring 
+
+on the anhedonia scale of the CDI raises the possibility that some 
+children with an underlying propensity for depression may develop 
+overt clinical symptoms of this disorder if SDB is concurrently 
+present. Notwithstanding the prominence of the effect of snoring 
+on depressive scales, however, this study did not examine the 
+reversibility of the affected measures in the CDI or in the 
+PedsQL™ 4.0. Such study would be of great importance in more 
+forcefully establishing the causal relationship between snoring, 
+depression, and HRQOL. 
+
+Interestingly, no differences in quality of life or depressive 
+symptoms were observed among children with PS, mild SDB, or 
+moderate to severe SDB. The absence of any differences in 
+depressive symptoms or HRQOL as it pertains to the severity of 
+sleep-related breathing impairments (ie, hypoxemia, hypercapnia, 
+respiratory-related arousals, AHI) would suggest that snoring 
+should not be viewed simply as an “innocuous” symptom, since 
+its presence may significantly interfere with children’s psychosocial 
+functioning.39 This observation is consistent with a recent 
+study from our laboratory on the association between PS and 
+impaired neurocognitive functioning, whereby even children 
+with PSG findings that would otherwise be considered clinically 
+irrelevant (American Academy of Pediatrics consensus) demonstrated 
+significant deficits in specific areas of behavior and cognitive 
+ability.39 Thus, the present study further stresses the importance 
+of snoring and sleep disturbances as major contributing factors 
+in the quality of life and in the occurrence of symptoms of 
+depression among children with and without obesity. AHI was 
+poorly predictive of psychosocial functioning in these children, 
+and while it is tempting to use AHI as an index of severity of disease, 
+it is clear from these findings that snoring is a more important 
+marker of daytime impairment. 
+
+As mentioned above, while the present study has shed light on 
+important determinants of psychosocial functioning in snoring 
+children, it is unclear how children’s HRQOL and magnitude of 
+depressive symptoms will change following treatment of SDB. In 
+a sample of 64 children, Goldstein and colleagues found that 
+reports of sleep disturbance, caregiver concerns, and physical 
+symptoms were all improved after tonsillectomy and adenoidectomy. 
+However, SDB was not assessed by overnight PSG, and 
+BMI was not specifically reported.40 Based on the study by 
+Goldstein at al and the present study, it is possible that after tonsillectomy 
+and adenoidectomy, all children with SDB will 
+demonstrate improvements in their quality of life and depressive-
+symptom measures. Alternatively, if SDB imposes a masking 
+effect on the impact of obesity on psychosocial functioning, normal-
+weight children will reveal improvements after tonsillectomy 
+and adenoidectomy in quality of life and depressive symptoms, 
+but such improvements will be absent or attenuated in 
+obese children. A goal of our laboratory is to further clarify this 
+issue by examining the HRQOL and mood of these children after 
+SDB has been treated with tonsillectomy and adenoidectomy. 
+
+While the present study has shed light on the importance of 
+snoring in children’s reduced psychosocial functioning, several 
+limitations were present. The clinic-based sample in the current 
+study precluded a rigorous examination of factors that may have 
+further contributed to reduced quality of life and increased 
+depression in the clinic group. Socioeconomic status, parental 
+education, and neurocognitive status were not measured, and, 
+thus, their contribution to the sample’s psychosocial functioning 
+cannot be assessed. Furthermore, snoring children who present to 
+
+SLEEP, Vol. 27, No. 6, 2004 1136 Health-related Quality of Life, Depressive Symptoms with SDB—Crabtree et al 
+
+
+sleep disorders centers may be inherently different from snorers 
+in the community. Snoring children who experience impaired 
+quality of life and depression may be more likely to seek treatment 
+for their SDB. However, parents did not report any changes 
+in mood, affect, or HRQOL during clinical interviews or when 
+completing clinic-based questionnaires. Only when these variables 
+were directly assessed were these daytime impairments 
+noted. Rather, at initial presentation to the clinic, parents focused 
+on their children’s nighttime SDB symptoms. We believe that 
+parents’ reasons for seeking treatment are significant regarding 
+the likelihood that the snoring children presenting to the clinic 
+did not differ in regard to mood state from snoring children in the 
+community. 
+
+Additional limitations regarding the recruitment of the control 
+group must be noted. Because the control group was recruited 
+from the community, unforeseen variables may have differed 
+between the groups. The absence of an obese control group from 
+the community further limited the conclusions that can be drawn 
+from the results. Unfortunately, only 4 of the 35 control children 
+had a BMI above the 95th percentile. Therefore, the sample size 
+was insufficient for any valid comparisons and precluded assessment 
+of the specific and individual roles of obesity and SDB in 
+children’s psychosocial functioning. Although the recruitment of 
+obese controls would undoubtedly have added to the strength of 
+the conclusions, we were simply unable to do so at this time. Our 
+experience with attempts to recruit obese controls in previous 
+prospective studies has revealed that when obese children without 
+presenting complaints of SDB are recruited, they are discovered 
+on PSG examination to snore. Therefore, in a clinic-based 
+study, this degree of recruitment was not feasible. 
+
+It should also be noted that the age group selected in our study 
+is older than the age at which peak prevalence of SDB occurs, 
+namely 3 to 6 years. However, the sample selection was dictated 
+by the age constraints imposed by the depression instrument used 
+in this study, such that direct self-report of mood would not be 
+possible in younger children. 
+
+In summary, 8- to 12-year-old children who snore have substantially 
+impaired quality of life and mood that appears to be 
+unrelated to either the presence of obesity or of OSA. While the 
+pathophysiologic mechanisms that mediate this novel facet of 
+SDB-associated morbidity remain to be defined, our present findings 
+suggest that all school-aged children with symptoms of snoring 
+should have a thorough assessment of their current mood and 
+overall emotional functioning. 
+
+ACKNOWLEDGMENTS 
+
+The authors wish to thank Jessica Beal Korhonen for her persistence 
+in recruiting subjects, scoring instruments, and data 
+entry. We also wish to thank the Jefferson County Public Schools 
+and the many families who agreed to participate in this project. 
+
+REFERENCES 
+
+1. 
+Bardwell WA, Ancoli-Israel S, Dimsdale JE. Types of coping strategies 
+are associated with increased depressive symptoms in patients 
+with obstructive sleep apnea. Sleep 2001;24:905-9. 
+2. 
+Flemons WW, Tsai W. Quality of life consequences of sleep-disordered 
+breathing. J Allergy Clin Immunol 1997;99:750-6. 
+3. 
+Franco RA, Rosenfeld RM, Rao M. Quality of life for children with 
+obstructive sleep apnea. Otolaryngol Head Neck Surg 2000;123:916. 
+4. 
+Rosen, CL, Palermo TM, Larkin EK, Redline S. Health-related 
+quality of life and sleep-disordered breathing in children. Sleep 
+2002;25:648-57. 
+5. 
+Ali NJ, Pitson DJ, Stradling JR. Natural history of snoring and 
+related behavior problems between the ages of 4 and 7 years. Arch 
+Dis Child 1994;71:74-6. 
+6. 
+Rhodes SK, Shimoda KC, Wald LR, et al. Neurocognitive deficits 
+in morbidly obese children with obstructive sleep apnea. J 
+Pediatr1995;127:741-4. 
+7. 
+Chervin RD, Archbold KH. Hyperactivity and polysomnographic 
+findings in children evaluated for sleep-disordered breathing. Sleep 
+2001;24:313-20. 
+8. 
+Gozal D. Sleep-disordered breathing and school performance in 
+children. Pediatrics 1998;102:616-20. 
+9. 
+O’Brien LM, Holbrook CR, Mervis CB, et al. Sleep and neurobehavioral 
+characteristics in 5-7-year-old hyperactive children. 
+Pediatrics 2003;111:554-63. 
+10. 
+Schwimmer JB, Burwinkle TM, Varni, JW. Health-related quality 
+of life of severely obese children and adolescents. JAMA 
+2003;289:1813-9. 
+11. 
+Centers for Disease Control and Prevention. Prevalence of overweight 
+among children and adolescents: United States, 1999. 
+Available at www.cdc.gov/nchs/products/pubs/pubd/hestats/overwght99.
+htm 
+12. 
+Barlow SE, Dietz WH. Obesity evaluation and treatment: Expert 
+committee recommendations. Pediatrics 1998;102:29-40. 
+13. 
+Erickson SJ, Robinson TN, Haydel F, Killen JD. Are overweight 
+children unhappy?: Body mass index, depressive symptoms, and 
+overweight concerns in elementary school children. Arch Pediatr 
+Adolesc Med 2000;154:931-5. 
+14. 
+Sheslow D, Hassink S, Wallace W, DeLancey E. The relationship 
+between self-esteem and depression in obese children. Ann N Y 
+Acad Sci 1993;699:289-91. 
+15. 
+Mills JK, Andrianopoulos GD. The relationship between childhood 
+onset obesity and psychopathology in adulthood. J Psychol 
+1993;127:547-51. 
+16. 
+Dietz WH. Health consequences of obesity in youth: Childhood 
+predictors of adult disease. Pediatrics 1998;101:518-25. 
+17. 
+Jonides L, Buschbacher V, Barlow SE. Management of child and 
+adolescent obesity: Psychological, emotional, and behavioral 
+assessment. Pediatrics 2002;110:215-21. 
+18. 
+Ravens-Sieberer U, Redegeld M, Bullinger M. Quality of life after 
+in-patient rehabilitation in children with obesity. Int J Obesity Relat 
+Metab Disord;2001;25:S63-5. 
+19. 
+Warschburger P, Fromme C, Petermann F, Wojtalla N, Oepen J. 
+Conceptualisation and evaluation of a cognitive-behavioural training 
+programme for children and adolescents with obesity. Int J 
+Obes Relat Metab Dis 2001;25:S93-5. 
+20. 
+Tauman R, O’Brien LM, Holbrook CR, Gozal D. Sleep Pressure 
+Score: a new index of sleep disruption in snoring children. Sleep 
+2004;27:274-8. 
+21. 
+Goodwin JL, Kaemingk, KL, Fregost RF, et al. Clinical outcomes 
+associated with sleep-disordered breathing in Caucasian and 
+Hispanic children—the Tucson Children’s Assessment of Sleep 
+Apnea Study (TuCASA). Sleep 2003;26:587-91. 
+22. 
+Varni JW, Seid M, Kurtin PS. PedsQLTM 4.0: Reliability and validity 
+of the Pediatric Quality of Life InventoryTM Version 4.0 generic 
+core scales in healthy and patient populations. Med Care 
+2001;39:800-12. 
+23. 
+Varni JW, Seid M, Rode CA. The PedsQL.: Measurement model 
+for the Pediatric Quality of Life Inventory.. Med Care 
+1999;37:126-39. 
+24. 
+Fairclough DL, Cella, DF. Functional assessment of cancer therapy 
+(FACT-G): non-response to individual questions. Qual Life Res 
+1996;5:321-9. 
+25. 
+Drotar D, ed. Measuring Health-Related Quality of Life in Children 
+and Adolescents. Mahwah, NJ: Erlbaum; 1998. 
+SLEEP, Vol. 27, No. 6, 2004 
+1137 Health-related Quality of Life, Depressive Symptoms with SDB—Crabtree et al 
+
+
+26. 
+Eiser C, Morse R. Quality of life measures in chronic diseases of 
+childhood. Health Tech Assess 2001;5:1-158. 
+27. 
+Eiser C, Morse RA. A review of measures of quality of life for children 
+with chronic illness. Arch Dis Child 2001;84:205-11. 
+28. 
+Koot HM, Wallander, JL, eds. Quality of Life in Child and 
+Adolescent Illness: Concepts, Methods, and Findings. East Sussex, 
+UK: Brunner-Routledge; 2001. 
+29. 
+Varni JW, Burwinkle TM, Jacobs JR, Gottschalk M, Kaufman F, 
+Jones KL. The PedsQL. 
+in Type 1 and Type 2 diabetes: reliability 
+and validity of the Pediatric Quality of Life Inventory. 
+Generic 
+Core Scales and Type 1 Diabetes Module. Diabet Care 
+2003;26:631-7. 
+30. 
+Uzark K, Jones K, Burwinkle TM, Varni JW. The Pediatric Quality 
+of Life Inventory. 
+in children with heart disease: reliability and 
+validity of a Cardiac Module. Prog Pediatr Cardiol (in press). 
+31. 
+Varni JW, Burwinkle TM, Katz ER, Meeske K, Dickinson P. The 
+PedsQL. 
+in pediatric cancer: reliability and validity of the 
+Pediatric Quality of Life Inventory. 
+Generic Core Scales, 
+Multidimensional Fatigue Scale, and Cancer Module. Cancer 
+2002;94:2090-106. 
+32. 
+Varni JW, Seid M, Knight TS, Burwinkle TM, Brown J, Szer IS. 
+The PedsQL. 
+in pediatric rheumatology: Reliability, validity, and 
+responsiveness of the Pediatric Quality of Life Inventory. 
+Generic 
+Core Scales and Rheumatology Module. Arthr Rheum 
+2002;46:714-25. 
+33. 
+Kovacs M. Children’s Depression Inventory (CDI) Manual. North 
+Tonawanda, New York: Multi-Health Systems, Inc.; 2001. 
+34. 
+Rechtschaffen A, Kales A. A Manual of Standardized Terminology, 
+Techniques and Scoring Systems for Sleep Stages of Human 
+Subjects. Washington DC: National Institutes of Health; 1968. 
+35. 
+Marcus CL, Omlin KJ, Basinki DJ, et al. Normal polysomnographic 
+values for children and adolescents. Am Rev Respir Dis 
+1992;146:t9. 
+36. 
+American Thoracic Society: Standards and indications for cardiopulmonary 
+sleep studies in children. Am J Respir Crit Care Med 
+1996;153:866-78. 
+37. 
+EEG arousals: scoring rules and examples: a preliminary report 
+from the Sleep Disorders Atlas Task Force of the American Sleep 
+Disorders Association. Sleep 1992;15:173-84. 
+38. 
+Mograss MA, Ducharme FM, Brouillette RT. Movement/arousals. 
+Description, classification, and relationship to sleep apnea in children. 
+Am J Respir Crit Care Med 1994;150:1690-6. 
+39. 
+O’Brien LM, Mervis CB, Holbrook CR, et al. Neurobehavioral 
+implications of habitual snoring in children. Pediatrics 2004; (in 
+press). 
+40. 
+Goldstein, NA, Fatima M, Campbell TF, Rosenfeld RM. Child 
+behavior and quality of life before and after tonsillectomy and adenoidectomy. 
+Arch Otolaryngol Head Neck Surg 2002;128:770-5. 
+SLEEP, Vol. 27, No. 6, 2004 
+1138 Health-related Quality of Life, Depressive Symptoms with SDB—Crabtree et al 
+
+

@@ -1,0 +1,525 @@
+Pediatric Pulmonology 36:335–338 (2003) 
+
+Body Position and Obstructive Sleep Apnea Syndrome 
+
+12 21
+
+Caglar Cuhadaroglu, MD, * Nesil Keles, MD, Burak Erdamar, MD, Nese Aydemir, MD, 
+
+23 2
+
+Emre Yucel, MD, Fatma Oguz, MD, and Kemal Deger, MD 
+
+Summary. In 
+adults, 
+influence 
+of 
+body 
+position 
+on 
+the 
+occurrence 
+of 
+respiratory 
+events 
+during 
+sleep 
+is 
+recognized, 
+and 
+increased 
+numbers 
+of 
+respiratory 
+events 
+occur 
+when 
+the 
+supine 
+position 
+is 
+assumed.1–4 
+In 
+1985, 
+Orr 
+et 
+al. 
+showed 
+that 
+body 
+position 
+did 
+not 
+influence 
+respiratory 
+events 
+during 
+sleep 
+in 
+children.5 
+Recently, 
+Fernandes 
+do 
+Prado 
+et 
+al. 
+showed 
+that 
+children 
+had 
+a 
+lower 
+obstructive 
+apnea 
+hypopnea 
+index 
+(AHI) 
+in 
+supine 
+position.6 
+Results 
+of 
+these 
+two 
+studies 
+are 
+different 
+from 
+others 
+performed 
+on 
+adults. 
+Moreover, 
+upper 
+airway 
+abnormalities 
+were 
+not 
+considered 
+in 
+these 
+studies. 
+
+
+The 
+aim 
+of 
+the 
+present 
+study 
+was 
+to 
+evaluate 
+the 
+effect 
+of 
+body 
+position 
+on 
+obstructive 
+respiratory 
+events 
+in 
+children 
+with 
+different 
+upper 
+airway 
+findings. 
+PediatrPulmonol. 2003; 36:335–338. 
+
+. 
+2003 
+Wiley-Liss, 
+Inc. 
+Key words: body position; sleep apnea; positional apnea. 
+
+PATIENTS AND METHODS 
+
+Patients 
+
+The sleep studies of 55 children with obstructive sleep 
+apnea syndrome (OSAS) (apnea index (AI) >1) were 
+retrospectively evaluated. Children whose body mass 
+index (BMI) was higher than the 85th percentile were 
+excluded. All of them had been referred to the Sleep 
+Laboratory by the ENT Department because of snoring 
+and/or a suspicion of obstructive sleep apnea (OSA) from 
+January–November 2001. 
+
+Children who had slept less than 30 min in any body 
+position (prone, supine, or lateral), and children who did 
+not have detailed upper airway examinations, were excluded 
+from the study. Children with congenital upper 
+airway anomalies (e.g., micrognaty, macroglossy) were 
+also excluded. Thirty-two children underwent statistical 
+analyses. 
+
+Polysomnographic Evaluation 
+
+All individuals arrived at the Sleep Laboratory around 
+9 PM, and the sleep studies began between 10–12 PM. 
+
+All individuals were studied with Medilog MPA 
+polysomnography (Oxford Medical Ltd., Oxon, UK). 
+Only six channels were mounted to children. Breathing 
+was monitored with chest and abdominal belts. Airflow 
+was monitored by an oronasal thermistor. A finger-pulse 
+oxymeter was used for monitorization of oxygen saturation 
+and pulse monitoring. A microphone which was 
+mounted over the inferior part of the trachea recorded 
+breath sound. A body position sensor was mounted on the 
+chest. The sleep technician followed patients’ behavior 
+and confirmed sleep position from a double-sided window. 
+
+. 
+2003 Wiley-Liss, Inc. 
+Relationships between respiratory events and body 
+posture were established by Medilog MPA software. A 
+physician experienced in polysomnographic records 
+scored all records on screen manually. Accepted pediatric 
+standards were used for scoring of respiratory events.7 The 
+scorer had no knowledge of examinations of the children’s 
+upper airways. 
+
+Airflow cessation greater than or equal to two breaths’ 
+duration was counted as apnea. Decrease in oxygen 
+saturation of 3% or more was accepted as desaturation. 
+Hypopnea was defined as qualitative reduction in thermistor 
+airflow of more than 50% in the presence of 
+paradoxical respiratory efforts, associated with desaturation 
+>3%. Mean number of apneas and hypopneas per 
+hour of study was defined as AHI. Mean number of 
+desaturations per hour of study was defined as the oxygen 
+desaturation index (ODI). 
+
+1Sleep Laboratory, Chest Department, Istanbul School of Medicine, 
+University of Istanbul, Istanbul, Turkey. 
+
+2ENT Department, Istanbul School of Medicine, University of Istanbul, 
+Istanbul, Turkey. 
+
+3Division of Social Paediatrics, Istanbul School of Medicine, University of 
+Istanbul, Istanbul, Turkey. 
+
+*Correspondence to: Caglar Cuhadaroglu, M.D., Sleep Laboratory, Atakoy 
+11, Kisim, Menekse A, Daire: 6, Atakoy, Istanbul, Turkey. 
+E-mail: cuhad@turk.net or cuhad@yahoo.com 
+
+Received 10 January 2003; Revised 20 March 2003; Accepted 27 April 
+2003. 
+
+DOI 10.1002/ppul.10366 
+Published online in Wiley InterScience (www.interscience.wiley.com). 
+
+
+
+336 Cuhadaroglu et al. 
+
+Upper Airway Examination TABLE 1— Average of Age, Body Mass Index, Total Sleep 
+Time, Apnea Hypopnea Index, Minimum Oxygen Saturation, 
+Upper airway examination involved rigid video endo-Positional AHI, and Oxygen Desaturation Index in Respect 
+scope evaluation of the nose, nasopharynx, oropharynx, to Upper Airway Findings1 
+and hypopharynx. Children were divided into three 
+Tonsillo Adenoid 
+groups according to their upper airway examinations, and adenomegaly hypertrophy Normal 
+graded according to a modified Mallopadi classification: 
+hypertrophic tonsils and adenoid (grade III–IV tonsil hypertrophy), 
+adenoid hyperthrophy, and normal (including 
+Age (years) 5.1 . 
+1.5 6.2 . 
+2.1 7.7 . 
+1.7 
+BMI 23.5 . 
+2.4 21.6 . 
+2 23.5 . 
+3.1 
+TST 420 . 
+98.3 413 . 
+54.3 397 . 
+48.2 
+grade I–II tonsil hypertrophy). AHI 11.7 . 
+3.3 13.9 . 
+7.4 6.5 . 
+1.7 
+AI 5.2 . 
+3.7 7 . 
+4.1 3.2 . 
+0.9 
+Statistical Analyses ODI 11.2 . 
+3.9 13.3 . 
+6.6 3 . 
+3.1 
+MINSAT % 90.7 . 
+2.1 89.2 . 
+3 91.7 . 
+0.5 
+In children, there is no accepted description of positional 
+sleep apnea. Analyses of body posture were based 
+Supine AHI 13.7 . 
+6 8.3 . 
+6.5 6.7 . 
+4.7 
+Lateral AHI 9.4 . 
+6.9 17.7 . 
+11.9 7.5 . 
+1.2 
+Prone AHI 3.7 . 
+2.2 7.7 . 
+5.2 1.5 . 
+0.5 
+on two different descriptions. The first was that of 
+Cartwright et al.8 They defined ‘‘positional patients’’ 1Number . 
+standard deviation. TST, total sleep time; MINSAT, mini(
+PP) as those OSA patients in whom the AHI was at least mum oxygen saturation. 
+twice as high in supine position as in lateral position. In 
+children, we modified this description for each position, According to absolute numerical majority, in 18 child-
+and classified children into three groups: lateral PP, supine ren lateral AHI; in 12 children supine AHI; in 2 children 
+PP, and prone PP. In the second description, we considered prone AHI were the highest AHI (Table 2). Fourteen 
+only the absolute numeric majority of AHI for position children with adenoid hypertrophy (66%) breathed worse 
+classification. when they slept in lateral position (P 
+¼ 
+0.001). Also, the 
+ODI and positional AHI were analyzed by one-way majority of children with hypertrophic tonsils and adenoid 
+ANOVA. Pearson’s chi-square test was used to analyze the (n ¼ 
+5, 71%) breathed worse when they slept in supine 
+relationship between body position and upper airway 
+findings. In crosstabs between upper airway findings and 
+position (P 
+¼ 
+0.000). 
+According to the definition of Cartwright et al.,8 
+posture, there were many cells that were less than 5. 19 children were non-PP, and 13 children were PP 
+Therefore, normal upper airway findings and prone posture (8 children were lateral PP, 4 children were supine PP, 
+were distinguished from the tables, and 2 . 
+2 tables were and only 1 child was prone PP; Table 3). Most of the lateral 
+constituted. Fisher’s exact test was used as needed for PP were in the adenoid hypertrophy group. But there 
+statistical analyses. was no statistical difference between upper airway findings 
+and positional OSA according to the definition of 
+RESULTS 
+Cartwright et al.8 
+The data of 32 children were analyzed (20 boys, DISCUSSION 
+12 girls). The mean age was 6.2 . 
+2 years (range, 3– 
+9 years). The mean BMI was 22.8 . 
+4.3 (BMI at 15–85th 
+percentile). The mean sleep study time was 410 . 
+55 min. 
+The mean apnea hypopnea index was 12.5 . 
+6.6. The 
+mean apnea index was 5.1 . 
+4.2. The mean minimum 
+saturation was 93 . 
+2.9. In endocospic evaluation, 7 children 
+had hypertrophic tonsils and adenoid (grade III–IV 
+tonsil hypertrophy), 21 children had only adenoid hyper-
+In our study, we showed that children with OSAS, in 
+contrast to adults, do not breathe worse when they sleep in 
+supine position. Previous studies of adult OSAS patients 
+showed that supine sleep position influenced snoring 
+and AHI. Even in those patients in whom AHI was not 
+influenced by body position, the duration of apnea or 
+hypopnea and the degree of associated desaturation were 
+throphy, and 4 children had no upper airway anomalies 
+(grade I–II tonsil hypertrophy). Children were divided 
+into three groups by upper airway findings. Total study 
+TABLE 2— Distribution of Upper Airway Findings 
+According to Absolute Majority of AHI for Each 
+Body Position 
+time and BMI were similar in all groups. Children with 
+normal upper airways were older than the others, but there Lateral Prone Supine 
+were no statistical differences. position position position 
+In children with adenoid hypertrophy, AHIs in the Hypertrophic tonsils 2 5 
+lateral position were higher than in other positions and adenoid (n ¼ 
+7) 
+(P 
+¼ 
+0.009). But in children with hypertrophic tonsils Adenoid hypertrophy 14 2 5 
+and adenoid, AHIs in the supine position were highest 
+(P 
+¼ 
+0.001) (Table 1). 
+(n ¼ 
+21) 
+Normal (n ¼ 
+4) 2 2 
+
+
+Body Position and OSA 337 
+
+TABLE 3— Discrimination of Upper Airway Findings According to Modified Definition of 
+Cartwright et al.8 for Positional Patients (OSA Patients in Whom AHI Was at Least Twice as 
+High as in One Body Position as in Other Positions) 
+
+Lateral position Prone position Supine position Nonpositional 
+
+Hypertrophic tonsils and 1 3 3 
+adenoid (n ¼ 
+7) 
+
+Adenoid hypertrophy 7 1 13 
+(n ¼ 
+21) 
+
+Normal (n ¼ 
+4) 
+1 
+
+3 
+
+worse in supine posture.9 Moreover, sleep in the lateral 
+position was recommended to adults as a therapeutic 
+method (positional therapy). 
+
+Cartwright et al.8 described positional OSAS as a 
+subgroup of OSAS.8 They defined ‘‘positional patients’’ 
+(PP) as those OSA patients in whom the AHI was at least 
+twice as high in supine position as in lateral position. This 
+description was used previously for adults. In children, 
+there is no accepted description of positional patients. In 
+our study, we interpreted two different descriptions: the PP 
+description by Cartwright et al.,8 and the absolute majority 
+of AHI. We modified the PP description for lateral and 
+prone positions in children, because both lateral and prone 
+positions were higher than supine position. 
+
+In 37% of our group, AHI was higher in supine position 
+than in nonsupine positions. But only 9% (n ¼ 
+3) of the 
+children were PP for supine position. In children, PPs for 
+lateral position (28%) were more frequent than supine PP 
+(9%). Nonpositional patients were frequently found 
+among children. In adults, various authors previously 
+demonstrated that PPs for supine position made up 50– 
+60%.1–4 But there is no paper in the literature describing 
+lateral positional patients in adult OSA. We showed that 
+according to the description of Cartwright et al.,8 lateral 
+PPs were more frequent in children, but there was no 
+statistical difference. 
+
+The relationship between sleep position and sudden 
+infant death syndrome was investigated many times.10–12 
+But in children with OSAS, the relationship between sleep 
+position and AHI has rarely been investigated. Recently, 
+Fernandes do Prado et al. demonstrated that children had a 
+lower AHI in supine vs. prone position, and shorter apneas 
+in supine position than on their sides.6 But they did not 
+separate their groups according to upper airway anomalies. 
+We agree with them that breathing in supine position 
+is better than in lateral position in children with OSAS. But 
+in children with hypertrophic tonsils and adenoid, the 
+relationship between respiratory distress and sleep position 
+is similar to that in adults. Their AHIs were worse 
+when they were in supine position. Children with adenoid 
+hypertrophy were very different from adults. Their AHIs 
+were high in the lateral position. Even in 7 children with 
+adenoid hypertrophy, AHIs were at least twice as high in 
+the lateral position as in the supine position plus prone 
+
+Thach and Stark wrote that children in prone or lateral 
+position have flexion of their neck, which can lead to 
+increased upper airway collapsibility.13 In another study, 
+Ishikawa et al. showed that the prone position increases 
+upper airway collapsibility.14 Unfortunately, in our study 
+we did not record neck position, and prone PPs and children 
+with their highest AHI in prone position were very low. 
+Therefore, we cannot discuss the role of the prone position 
+in children with obstructive sleep apnea. 
+
+In many reviews of OSA, the relationship between sleep 
+position and sleep apneas was due to the effect of gravity.15 
+Gravity increases the apposition of the soft-palate uvula 
+and tongue to the posterior airway wall. This effect is 
+more severe when patients sleep in the supine position. In 
+an adult series, the relationship between upper airway 
+anatomy and sleep position was examined. Pevernagie and 
+Shepard wrote that the PP retropalatal area was narrowed 
+more than the non-PP retropalatal area.16 They also 
+showed that the shapes of the two groups were different 
+from each other: elliptical in the PP group, and circular in 
+the non-PP group. 
+
+Different from adults, obstruction is usually at the level 
+of the adenoids in children.17 Gravity is less important in 
+children with adenoid hypertrophy, compared to children 
+with tonsil hypertrophy. We speculated that the adenoids 
+are more fixed than tonsils, and are not affected by gravity. 
+In supine position, tonsils move toward the back and 
+become lodged in the upper airway. 
+
+In the current study, we showed that supine position is 
+better than lateral position in children with adenoid 
+hypertrophy. But children with hypertrophic tonsils and 
+adenoid are similar to adults, and they breathe worse when 
+they sleep in supine position. These findings may support 
+idea of gravity in the etiology of OSA. 
+
+REFERENCES 
+
+1. McEvoy RD, Sharp DJ, Thornton AT. 
+The effects of posture 
+on obstructive sleep apnea. Am Rev Respir Dis 1986;133:662– 
+666. 
+2. Phillips BA, Okeson J, Paesani D, Gilmore R. Effect of sleep 
+position on sleep apnea and parafunctional activity. Chest 1986; 
+90:424–429. 
+3. George 
+CF, Millar TW, Kryger MH. Sleep apnea and body 
+position during sleep. Sleep 1988;11:90–99. 
+4. Oksenberg A, Silverberg DS, Arons E, Radwan H. Positional vs. 
+position, and they described PPs for lateral position. non positional obstructive sleep apnea patients: anthropomorphic, 
+
+
+338 Cuhadaroglu et al. 
+
+nocturnal polysomnographic, and multiple sleep latency test data. 
+Chest 1997;112:629–639. 
+
+5. Orr WC, Stahl ML, Duke J, McCaffree MA, Toubas P, Mattice C, 
+Krous HF. Effect of sleep state and position on the incidence of 
+obstructive and central apnea in infants. Pediatrics 1985;75:832– 
+835. 
+6. Fernandes do Prado LB, Li X, Thompson R, Marcus CL. Body 
+position and obstructive sleep apnea in children. Sleep 2002;25: 
+66–71. 
+7. American 
+Thoracic Society. Standards and indications for 
+cardiopulmonary sleep studies in children. Am J Respir Crit Care 
+Med 1996;153:866–878. 
+8. Cartwright R, 
+Ristanovic R, Diaz F, Caldarelli D, Alder G. 
+A comparative study of treatments for positional sleep apnea. 
+Sleep 1991;14:546–552. 
+9. Oksenberg A, Khamaysi I, Silverberg DS, Tarasiuk A. Association 
+of body position with severity of apneic events in patients 
+with severe no positional obstructive sleep apnea. Chest 2000; 
+118:1018–1024. 
+10. Paris CA, Remler R, Daling JR. Risk factors for sudden infant 
+death syndrome: changes associated with sleep position recommendations. 
+J Pediatr 2001;139:771–777. 
+11. Galland 
+B, Taylor B, Bolton D. Prone versus supine sleep 
+position: a review of the physiological studies in SIDS research. 
+J Paediatr Child Health 2002;38:332–338. 
+12. Guntheroth WG, Spiers PS. Sleeping prone and the risk of sudden 
+infant death syndrome. JAMA 1992;267:2359–2362. 
+13. Thach 
+BT, Stark AR. Spontaneous neck flexion and airway 
+obstruction during apneic spells in preterm infants. J Pediatr 1979; 
+94:275–281. 
+14. Ishikawa T, Isono S, Aiba J, Tanaka A, Nishino T. Prone position 
+increases collapsibility of the passive pharynx in infants and small 
+children. Am J Respir Crit Care Med 2002;166:760–764. 
+15. Kuna S, Remmers JE. Anatomy and physiology of upper airway 
+obstruction. In: Kryger MH, Roth T, Dementh WC, editors. 
+Principles and practice of sleep medicine. 3rd ed. Philadelphia: 
+W.B. Saunders Co.; 2000 p 840–848. 
+16. Pevernagie DA, Shepard JW Jr. 
+Relations between sleep stage, 
+posture and effective nasal CPAP levels in OSA. Sleep 1992;15: 
+162–167. 
+17. Isono S, Shimada A, Utsugi M, Konno A, Nishino T. Comparison 
+of static mechanical properties of the passive pharynx between 
+normal children and children with sleep-disordered breathing. Am 
+J Respir Crit Care Med 1998;157:1204–1212. 
+

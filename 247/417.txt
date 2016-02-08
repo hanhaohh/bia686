@@ -1,0 +1,515 @@
+Sleep disordered breathing and daytime quality 
+of life in children with allergic rhinitis 
+during treatment with intranasal budesonide 
+
+Lyndon E. Mansfield, MD; Gonzalo Diaz, MD; Catherine R. Posey, CCRC; and 
+Jaime Flores-Neder, MD 
+
+Background: Nasal obstruction is recognized as an important cause of sleep disordered breathing. Congestion of the nasal 
+mucosa and obstruction are common symptoms of allergic rhinitis. Daytime sleepiness is a common finding in symptomatic 
+allergic rhinitis. Effective therapy of the nasal congestion of allergic rhinitis should alter sleep patterns in patients with 
+symptomatic allergic rhinitis. 
+
+Objective: To measure objective changes in polysomnograms (sleep studies) of children with allergic rhinitis before and after 
+therapy with intranasal budesonide and to measure changes in the quality of life of these patients during treatment. 
+
+Methods: Open clinical trial with objective measurements (polysomnography) and subjective data (Rhinitis Quality of Life 
+Questionnaire [RQLQ]). Evaluations were performed before, during, and at completion of therapeutic intervention. 
+
+Results: The 14 studied children tolerated the procedures and treatment without problems. The mean number of sleep arousals 
+per hour (all apneas and hypopneas) decreased from a baseline of 8.4 to 1.2 (P . 
+.005) after treatment. The change was mainly 
+in hypopneic episodes (7.5–0.9, P . 
+.003). Objective responses on the RQLQ showed improvements consistent with improved 
+sleep and lessened rhinitis symptoms. 
+
+Conclusions: Decreasing the nasal congestion associated with allergic rhinitis can improve sleep measured by objective sleep 
+
+studies and lead to improvement in daytime quality of life. 
+
+INTRODUCTION 
+
+Patients with symptomatic allergic rhinitis complain of daytime 
+somnolence, fatigue, and decreased cognitive performance.
+1 Sleep disordered breathing has been suggested as the 
+reason for these symptoms.2 The proposed mechanism is nocturnal 
+nasal congestion that causes increased nasal airway resistance. 
+Either overcoming this increased nasal resistance or 
+mouth breathing while asleep requires a greater negative pressure 
+during inspiration, which leads to pharyngeal collapse and 
+obstruction. The subsequent obstruction and cessation of respiration 
+can be partial (hypopnea) or complete (apnea). 
+
+A series of studies has evaluated respiration during sleep 
+with artificially induced nasal obstruction. Zwillich et al3 evaluated 
+10 adult men with initial normal sleep breathing patterns. 
+They used bilateral balloon catheters to obstruct the nose. Nine 
+of the 10 subjects showed increased sleep apneas and hypopneas 
+during the nasal obstruction study. Four subjects, when obstructed, 
+experienced 60 or more apnea/hypopnea episodes. The 
+next day, they complained of morning fatigue. 
+
+In a similar study, Olsen et al4 reported that 3 of 8 subjects 
+with normal baseline sleep study results had more than 60 
+apnea/hypopnea episodes during sleep with both nares obstructed. 
+Comparing the obstructed sleep study to baseline 
+
+Western Sky Medical Research, El Paso, Texas. 
+This study was supported by an IRIS grant from AstraZeneca Pharmaceuticals. 
+Received for publication March 21, 2003. 
+Accepted for publication September 9, 2003. 
+
+
+Ann Allergy Asthma Immunol. 2004;92:240–244. 
+
+results, Olsen et al found that these patients spent more time 
+in stage 1 sleep. Lavie et al5 studied 10 healthy young adults 
+(5 men and 5 women). Compared with baseline sleep study 
+results, unilateral nasal obstruction significantly increased 
+hypopneic episodes. In the same subjects, bilateral nasal 
+obstruction caused an even larger number of sleep arousals. 
+Overall, approximately one third of subjects with induced 
+nasal obstruction develop sleep patterns characteristic of 
+mild-to-moderate sleep apnea.6 
+
+Sleep disordered breathing occurs in both children and 
+adults. A significant role for enlarged tonsils and adenoids, 
+causing airway obstruction in some children, is supported by 
+improvement in sleep study results after surgery.7 Intranasal 
+corticosteroids have also been reported to improve sleep disordered 
+breathing in children with enlarged tonsils and adenoids.8 
+
+Lavie et al9 compared sleep study results in 14 young 
+adults with symptomatic allergic rhinitis to 7 healthy controls. 
+The allergic rhinitis subjects averaged approximately 50 
+microarousals during the sleep period compared with approximately 
+4 in the control group. 
+
+McNicholas et al10 evaluated sleep in 7 subjects with seasonal 
+allergic rhinitis when they were symptomatic and also out of 
+season when they were asymptomatic. These patients had abnormal 
+sleep study results during the season with multiple arousals, 
+which diminished in the out-of-season study. 
+
+Intranasal corticosteroids are recognized as an effective 
+treatment for allergic rhinitis. They have been shown to 
+decrease the symptoms of nasal congestion.11 Therefore, it 
+
+ANNALS OF ALLERGY, ASTHMA, & IMMUNOLOGY 
+
+
+seems reasonable that their use could benefit sleep disordered 
+breathing associated with allergic rhinitis. This preliminary 
+study evaluates the effects of intranasal steroid on sleep 
+patterns and quality of life in children with active allergic 
+rhinitis and histories suggestive of sleep disturbance. 
+
+MATERIALS AND METHODS 
+
+The volunteers were 14 prepubescent children (6 females, 8 
+males) with a mean age of 5.9 years (range, 4 –9 years). By 
+history, all had perennial allergic rhinitis with seasonal exacerbations, 
+which is typical for our region. One child had mild 
+persistent asthma. Rhinitis signs and symptoms were present 
+for at least 2 years. Twelve of 14 had never used intranasal 
+corticosteroids; 2 had not used them for at least 3 months 
+before the study. Children with moderate or severe asthma or 
+significant atopic dermatitis were excluded, as were children 
+taking any medications that could affect allergic rhinitis or 
+medicines with potential central nervous system effects. Additional 
+exclusions included any other significant chronic 
+disease. Some of the symptoms described by the parents were 
+snoring, being difficult to awaken, or being sleepy during the 
+day. All had physical examination results compatible with 
+allergic rhinitis. Each had an allergy skin prick test result 
+positive to relevant airborne allergens for the time of their 
+participation in the study. Allergy prick skin testing using duo 
+tip applicators was performed with extracts from Center 
+Laboratories (Port Washington, NY). They were either standardized 
+(Bermuda, timothy, cat) or traditional 1/20 (wt/vol) 
+in 50% glycerin (alfalfa, Johnson, cottonwood, mulberry, 
+mesquite, pecan, willow, cypress, pigweed, Russian thistle, 
+ragweed, greasewood, iodine bush, dog). Histamine diphosphate, 
+2.75 mg/ml, was used as the positive control. Glycerosaline 
+served as the negative control. A wheal of 3 mm 
+greater than the negative control was considered positive. 
+
+Airborne allergen counts have been taken 5 of 7 days for 
+the past 12 years at our center with a Rotorod sampler. These 
+counts were used to determine that relevant allergens would 
+be present during the study period for each subject. 
+
+At the baseline visit, a parent signed the informed consent 
+and the study was explained to the children in simple terms. 
+The diagnosis of allergic rhinitis was confirmed by the medical 
+history, physical examination, and skin testing. A parent 
+(always, by chance, the mother) completed the Rhinitis Quality 
+of Life Questionnaire (RQLQ) along with the child. 
+
+Arrangements were made for overnight polysomnography 
+to be performed in the child’s home. The day following the 
+polysomnographic study, the child began use of intranasal 
+budesonide metered-dose inhaler, 64 g, in each nostril in the 
+morning. The parent and child were carefully instructed on 
+the proper use of the nasal inhaler. The parent or child with 
+the parent’s supervision administered the medicine. The child 
+and mother returned at 2, 4, and 6 weeks after beginning 
+therapy. At each visit, the child was examined. The mother 
+and child completed the RQLQ. 
+
+After week 6, the sleep study was performed again. The 
+child continued to use the intranasal budesonide until the 
+
+second polysomnography was completed. The RQLQ scale 
+ranged from 0, which means none or not at all, to 9, which 
+means totally or completely disturbed, depending on the 
+question. Higher scores reflect more disease symptoms or 
+impact of the disease. 
+
+Obstructive breathing events were classified as complete 
+(apneas) or partial (hypopneas). Hypopneic events involved a 
+50% or greater reduction in respiratory flow, lasting for more 
+than 10 seconds. Central apneas were cessations of breathing 
+without any obstruction. 
+
+Statistical analysis for the paired sleep studies was performed 
+by t testing or the Wilcoxon signed rank test when the 
+data were not distributed in a normal fashion. The scores of 
+the RQLQ were analyzed with repeated-measures analysis of 
+variance. Differences between the baseline week and week 6 
+were analyzed by t testing of means. The study was approved 
+by the Institutional Review Board of Las Palmas Medical 
+Center, El Paso, TX. 
+
+RESULTS 
+
+In the study group, there were no adverse experiences related 
+to the therapy with intranasal budesonide. The longest use of 
+budesonide between sleep studies was 6 weeks 5 days. The 
+frequency of reported symptoms in the children were as 
+follows: snoring, 80%; difficulty in awakening, 80%; restless 
+sleep, 90%; daytime sleepiness, 70%; and irritability, 70%. 
+Seventy percent of the households had a cat, dog, or both. 
+
+On physical examinations, the children had characteristic 
+congested, bluish nasal mucosa. All had allergic shiners. 
+Other common findings were dry cracked lips, coated 
+tongues, and prominent tonsils. No attempt was made to 
+grade tonsillar hypertrophy, but none of the children had 
+tonsils that completely obstructed the oropharynx. During the 
+study period, the physical signs of dried lips and coated 
+tongues decreased. Nasal congestion was not evaluated in a 
+manner that could objectively be analyzed. 
+
+The dates of each child’s participation and the relevant 
+allergens to which they were sensitized are shown in Table 1. 
+The sleep studies improved as shown in Table 2. There was 
+a decrease in the apnea-hypopnea index (AHI; obstructive 
+apnea and hypopneas per hour) from 7.6 to 0.9 (P . 
+.004). 
+The respiratory disturbance index (RDI; central apneas plus 
+obstructive apneas plus hypopneas per hour) changed from 
+
+8.4 to 1.2 (P . 
+.005). These changes in AHI and RDI were 
+mainly due to changes in the rates of hypopneas per hour 
+(7.5–0.9, P . 
+.003). The mean duration of the hypopneic 
+episodes decreased from 16.9 to 10.8 seconds (P . 
+.05). 
+Other measurements changed in the direction favoring an 
+improved sleep pattern but were not always significant. In 
+some cases, there were simply not enough events in the 
+baseline sleep studies to demonstrate such change. 
+The responses on the RQLQ showed significantly decreased 
+nasal symptoms with treatment (Fig 1). The scores 
+relating to the sleep disturbance and its consequences (Fig. 2) 
+improved significantly. Last, thirst, which we believed was 
+influenced by oral breathing, decreased (P . 
+.001) along with 
+
+VOLUME 92, FEBRUARY, 2004 
+
+
+Table 1. Relevant Airborne Allergens 
+
+Subject No. Study Date Allergens 
+1 1/18/01 CW, ME, C 
+2 1/30/01 MU, C, D, CE, CY 
+3 3/27/01 MU, PE, TI, BE 
+4 4/4/01 PE, ME, TI, C, D 
+5 4/12/01 ME, PE, WI, TI, BE 
+6 4/17/01 PE, WI, TI, BE 
+7 4/18/01 MU, ME, WI, TI, BE 
+8 5/3/01 ME, PE, WI, TI, BE 
+9 5/22/01 WI, TI, BE 
+10 6/6/01 TI, BE, C 
+11 7/3/01 TI, BE, ALT, C, D 
+12 7/7/01 AI, BE, B, C, D 
+13 7/11/01 BE, PW, RT 
+14 8/16/01 RT, BE, C, D 
+
+Abbreviations: AI, Alternaria; BE, Bermuda; C, cat; CE, cedar; CW, 
+cottonwood; CY, cypress; D, dog; ME, mesquite; MU, mulberry; PE, 
+pecan; PW, pigweed; RT, Russian thistle; TI, timothy; WI, willow. 
+
+improvement in appetite (P . 
+.04). The other RQLQ domains 
+did not change significantly. The changes from baseline to 
+week 6 are shown in Table 3. 
+
+DISCUSSION 
+
+This was an open treatment clinical trial in children. We are 
+aware that results of randomized, placebo-controlled study 
+would be more compelling. However, the resources available 
+to us made this clinical trial the only realistic way for us to 
+address the questions. The real weakness of the design is the 
+proof that the therapy made a difference. In our study population, 
+all the children were exposed to relevant aeroallergens 
+during their study time. We have no reason to suspect the 
+marked improvement in rhinitis symptoms was spontaneous. 
+We believe our findings support the role of allergic rhinitis in 
+
+Table 2. Sleep Study Results (N . 
+14)* 
+
+Figure 1. Sleep-related symptoms on the Mini–Rhinitis Quality of Life 
+Questionnaire. Statistical significance was as follows: sleep, F 3.15, P 
+.04; tiredness, F 4.13, P .01; energy, F 4.06, P .01; and irritability, 
+F 5.948, P .002. 
+
+
+Figure 2. Nasal symptoms on the Mini–Rhinitis Quality of Life Questionnaire. 
+Statistical significance was as follows: sneezing, F 5.09, P 
+.005; runny nose, F 2.27, P .09; and stuffy nose, F 8.40, P .001. 
+
+
+causing sleep disordered breathing, which diminishes as allergic 
+rhinitis resolves, whether from treatment or spontaneously. 
+The magnitude of change in the hypopneic events and the 
+supporting subjective RQLQ data strongly suggest the find-
+
+Parameter Pretherapy Post-therapy P value 
+
+Sleep latency, min 28.1 21.3 .33 
+Total sleep, min 415 (231–470) 419 (333–492) .78 
+REM (sleep), % 13.5 10.5 .19 
+Stage 1 sleep, % 6.4 4.76 .33 
+Stage 2 sleep, % 38.12 42.7 .07 
+Stage 3 sleep, % 11.4 11.4 .99 
+Stage 4 sleep, % 29.7 30.4 .68 
+Obstructive apneas per hour 0.1 (0–1.1) 0 (0–0) .08 
+Obstructive apnea duration, s 2.51 0 .08 
+Central apnea per hour 0.7 (0–2.7) 0.3 (0–1.75) .80 
+Central apnea duration, s 7.5 7.4 .97 
+Hypopnea per hour 7.5 (0–61) 0.9 (0–49) .003 
+Hypopnea duration, s 16.9 10.8 .05 
+RDI 8.4 (0–62) 1.2 (0–5.8) .005 
+
+Abbreviations: RDI, respiratory disturbance index sum of central apnea, obstructive apnea, and hypopnea per hour; REM, rapid eye movement. 
+
+* Major parameters measured during sleep studies with ranges in parentheses. The oxygen saturation lead was not functional for all studies and 
+is not included. 
+ANNALS OF ALLERGY, ASTHMA, & IMMUNOLOGY 
+
+
+Table 3. Six-Week Changes in Rhinitis Quality of Life Questionnaire 
+(RQLQ) Scores* 
+
+Item Baseline Week 6 P value 
+Sneezing 1.79 0.43 .01 
+Runny nose 1.857 0.57 .04 
+Stuffy nose 2.86 0.57 .002 
+Sleep 1.87 .071 .05 
+Tired/fatigue 1.714 0.357 .009 
+Irritability 1.857 0.288 .002 
+Energy 0.64 0 .03 
+Appetite 1.357 0.214 .04 
+Thirst 3.07 1.14 .001 
+
+* RQLQ scores comparing baseline to after 6 weeks of therapy. Other 
+RQLQ domains were not significant. 
+ings are valid. Improvement in rhinitis symptoms was associated 
+with subjective improvement in the sleep domains and 
+the sleep studies. Our findings are not unexpected but contribute 
+to the present body of knowledge concerning sleep 
+disturbance in allergic rhinitis. 
+
+Two of the studies previously cited are important to understand 
+our results. The study by McNicholas et al10 showed 
+that adult volunteers with symptomatic allergic rhinitis had 
+increased sleep arousals, which tended to normalize when the 
+subjects were asymptomatic. However, the magnitude of 
+change in our study exceeded those in the aforementioned 
+study, possibly reflecting a therapeutic effect of the intranasal 
+steroids, not simply a change in allergen exposure. 
+
+In the study that involved the use of intranasal fluticasone 
+to treat a group of children with enlarged tonsils and adenoids 
+and sleep disordered breathing, the children treated with fluticasone 
+had improved sleep breathing patterns, but the children 
+who used the placebo vehicle remained the same or worsened.8 
+The investigators were not able to document changes in tonsillar 
+or adenoidal size during therapy, even though the treated children’s 
+sleep studies improved. There was no description of the 
+allergic status of the children in the article. 
+
+A recent report by Craig et al12 evaluated the use of 
+intranasal fluticasone in adult patients with perennial allergic 
+rhinitis and a history suggestive of sleep disturbance. They 
+measured the effects of active treatment and placebo on sleep 
+polysomnography, RQLQ, and the Epworth sleepiness scale. 
+Although they found evidence of improvement in daytime 
+drowsiness, they could not document changes in the overnight 
+sleep studies. However, all trends favored the active 
+treatment compared with placebo. It is possible that the fact 
+that our children had a higher mean AHI than the subjects 
+studied by Craig et al made it easier for us to demonstrate an 
+objective change in sleep disordered breathing.12 
+
+The home monitoring of sleep disordered breathing has 
+been reported to have little variability on multiple testings.12 
+We do not think the large changes observed in the study can 
+be attributed to technical issues. 
+
+A number of investigators have reported changes in daytime 
+measures of sleepiness, such as the Epworth Sleep Scale, 
+
+after successful treatment of allergic rhinitis.13,14 Improvement 
+in the domains of the RQLQ has also been noted.15,16 
+This is in accord with the subjective evaluations of the 
+mothers and children in our study. 
+
+Children with allergic rhinitis are at least 3 times as likely 
+to have disturbed sleep as the general pediatric population.17 
+The children whom we studied clearly had different sleep 
+studies than expected in the healthy pediatric population. 
+They were selected on the basis of having allergic rhinitis and 
+a history suggestive of disturbed sleep. In healthy children, 
+central apneas appear to be common.18 However, obstructive 
+apneas are uncommon.19 Healthy children rarely have full 
+obstructive apneas, and their RDI has been reported as 1.1.20 
+A normal frequency for hypopneas in children has not been 
+published but would be less than the RDI (central apneas, 
+obstructive apneas, and hypopneas per hour). An RDI of 5 or 
+more unaccompanied by oxygen desaturation during children’s 
+sleep studies was associated with approximately a 
+2-fold risk for snoring and excessive daytime sleepiness with 
+an almost 4-fold risk for learning problems.21 
+
+Given the high prevalence of allergic rhinitis in the pediatric 
+population, a large number of children are likely experiencing 
+unrecognized sleep disturbance syndrome on this 
+basis. In none of our study subjects was the problem of 
+disordered sleep previously addressed by the primary care 
+providers of the children. 
+
+The pediatric manifestations of sleep disordered breathing 
+may include behavior comparable to attention-deficit/hyperactivity 
+disorder. It is not unreasonable to speculate that 
+central nervous system stimulants may work in these children 
+often diagnosed as having attention-deficit/hyperactivity disorder 
+because of their usual pharmacologic actions.22 The 
+reported increase in attention-deficit/hyperactivity disorder 
+frequency is occurring at a time when a potential cause of 
+pediatric sleep disturbance, allergic rhinitis, is also becoming 
+more prevalent. More work is required to evaluate the possible 
+relationship and its importance. 
+
+CONCLUSION 
+
+We have demonstrated that during treatment of children 
+with allergic rhinitis with an intranasal corticosteroid (budesonide), 
+nasal symptoms decreased, objective sleep studies 
+improved, and subjective symptoms relating to poor quality 
+of sleep diminished. We expect that these findings will be 
+replicated when the study is performed in a randomized, 
+placebo-controlled fashion. 
+
+REFERENCES 
+
+1. Chervin, RD. Sleepiness, fatigue, tiredness, and lack of energy 
+in obstructive sleep apnea. Chest. 2000;118:372–379. 
+2. Flemons WW, Tsai W. Quality of life consequences of sleep-
+disordered breathing. J Allergy Clin Immunol. 1997;99: 
+S750–S756. 
+3. Zwillich CW, Pickett C, Hanson FN, Weil JV. Disturbed sleep 
+and prolonged apnea during nasal obstruction in normal men. 
+Am Rev Respir Dis. 1981;124:158 –160. 
+VOLUME 92, FEBRUARY, 2004 
+
+
+4. Olsen KD, Kern EB, Westbrook PR. Sleep and breathing disturbance 
+secondary to nasal obstruction. Otolaryngol Head 
+Neck Surg. 1981;89:801–810. 
+5. Lavie P, Fischel N, Zomer J, et al. The effects of partial and 
+complete mechanical occlusion of the nasal passages on sleep 
+structure and breathing in sleep. Acta Otolaryngol. 1983;95: 
+161–166. 
+6. Zwillich CW. Sleep apnoea and autonomic function. Thorax. 
+1998;53(Suppl):S20–S24. 
+7. Morton S, Rosen C, Larkin E, 
+et al. Predictors of sleep-
+disordered breathing in children with a history of tonsillectomy 
+and/or adenoidectomy. Sleep. 2001;24:823–829. 
+8. Brouillett RT, Manoukian JJ, Duebarme FM, et al. Efficacy of 
+fluticasone nasal spray for pediatric obstructive apnea. J Pediatr. 
+2001;138:838 –844. 
+9. Lavie P, Gertner R, Zomer J, et al. Breathing disorders in sleep 
+associated with “microarousals” in patients with allergic rhinitis. 
+Acta Otolaryngol. 1981;92:529–533. 
+10. McNicholas WT, Tarlo S, Cole P, et al. Obstructive apneas 
+during sleep in patients with seasonal allergic rhinitis. Am Rev 
+Respir Dis. 1982;126:625–628. 
+11. Sahay JN, Chatterjee SS, Engler C. Flunisolide: a new intranasal 
+steroid for the treatment of allergic rhinitis. Clin Allergy. 
+1979;9:17–24. 
+12. Craig TJ, Teets S, Erik B, et al. Nasal congestion secondary to 
+allergic rhinitis as a cause of sleep disturbance and daytime 
+fatigue and the response to topical nasal corticosteroids. J 
+Allergy Clin Immunol. 1998;101:633–637. 
+13. Davidson TM, Gehrman P, Ferreyra H. Lack of night-to-night 
+variability of sleep-disordered breathing measured during home 
+monitoring. Ear Nose Throat J. 2003;82:135–138. 
+14. Golden S, Teets S, Lehman E, et al. Effect of topical nasal 
+azelastine on the symptoms of rhinitis, sleep, and daytime 
+somnolence in perennial allergic rhinitis. Ann Allergy Asthma 
+Immunol. 2000;85:53–57. 
+15. Juniper EF, Guyatt GH, O’Byrne PM, et al. Aqueous beclomethasone 
+dipropionate nasal spray: regular versus “as required” 
+use in the treatment of allergic rhinitis. J Allergy Clin 
+Immunol. 1990;86:380 –386. 
+16. Jen A, Baroody F, de Tineo M, et al. As-needed use of fluticasone 
+propionate nasal spray reduces symptoms of seasonal 
+allergic rhinitis. J Allergy Clin Immunol. 2000;105:732–738. 
+17. McColey SA, Carroll JL, Curtis S, et al. High prevalence of 
+allergic sensitization in children with habitual snoring and obstructive 
+sleep apnea. Chest. 1997;111:170–173. 
+18. Marcus CL, Omlin KF, Basinki DJ, et al. Normal polysomnographic 
+values for children and adolescents. Am Rev Respir Dis. 
+1992;146:1235–1239. 
+19. Kahn A, Franco P, Kato I, et al. Breathing during sleep in 
+infancy. In: Loughlin GM, Marcus CL, Carroll JL, editors. 
+Sleep and Breathing in Children: A Developmental Approach. 
+New York, NY: Marcel Dekker Inc; 2000:405–422. 
+20. Acebo C, Millman RP, Rosenberg C, et al. Sleep, breathing, and 
+cephalometrics in older children and young adults. Chest. 1996; 
+109:664–672. 
+21. Goodwin JL, Kaeming KL, Fregosi RF, et al. Clinical outcomes 
+associated with sleep-disordered breathing in Caucasian and 
+Hispanic children: the Tuscon Children’s Assessment of Sleep 
+Apnea Study (TuCASA). Sleep. 2003;26:587–591. 
+22. Chervin R, Archbold KH, Dillon JE, et al. Inattention, hyperactivity, 
+and symptoms of sleep-disordered breathing. Pediatrics. 
+2002;109:449 –456. 
+Requests for reprints should be addressed to: 
+Lyndon E. Mansfield, MD 
+Western Sky Medical Research 
+1901 Arizona Ave 
+El Paso, TX 79902 
+E-mail: Immunman@pol.net 
+
+ANNALS OF ALLERGY, ASTHMA, & IMMUNOLOGY 
+
+

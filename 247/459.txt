@@ -1,0 +1,748 @@
+Utility of Noninvasive Pharyngometry in Epidemiologic 
+Studies of Childhood Sleep-disordered Breathing 
+
+Kenneth J. Monahan, Emma K. Larkin, Carol L. Rosen, Gregory Graham, and Susan Redline 
+
+Departments of Internal Medicine and Pediatrics, Case Western Reserve University, University Hospitals of Cleveland; and Rainbow Babies and 
+
+Children’s Hospital, Cleveland, Ohio 
+
+Measurement of pharyngeal dimensions may contribute to the characterization 
+of anatomic risk factors for sleep-disordered breathing 
+(SDB) in children. Acoustic pharyngometry, a noninvasive method, 
+has been used successfully in adults, but application in children 
+has been limited. We sought to evaluate the feasibility and utility 
+of this technique in children, including assessment of the variation 
+of pharyngeal measurements with height, sex, ethnicity, prematurity, 
+and indices of SDB. Subjects were drawn from a large, community-
+based cohort of children of age 8–11 years. Demographic, 
+morphologic, and sleep-related information were collected via 
+standard questionnaires, direct measurement, and home cardiorespiratory 
+monitoring during sleep. Pharyngeal dimensions were 
+assessed in 203 children using acoustic pharyngometry performed 
+with an optimized mouthpiece. In this sample, the coefficient of 
+variation of minimum pharyngeal cross-sectional area (CSA) and 
+mean CSA were similar to those in adults (8.0 and 11.1%, respectively). 
+The minimum CSA, but not mean CSA, was significantly reduced 
+in preterm children, habitual snorers, and children with 
+SDB relative to unaffected children. Thus, minimum CSA is a useful 
+measure for evaluating SDB risk factors in preadolescent children. 
+
+Keywords: acoustic pharyngometry; habitual snoring; sleep-disordered 
+breathing 
+
+Sleep-disordered breathing (SDB) is a complex, chronic disease 
+that is expressed after a given threshold level of susceptibility is 
+exceeded. Susceptibility relates to the propensity for repetitive 
+upper airway collapse. In any given individual, anatomic and 
+neuromuscular factors that influence upper airway size and/or 
+function determine this propensity. In adults, the strongest risk 
+factors for SDB are obesity and male sex (1). In children, adenotonsillar 
+hypertrophy and major craniofacial anomalies are 
+considered to be important risk factors for SDB (2, 3). However, 
+the relative contribution of craniofacial morphologic 
+(hard and soft tissue) features to SDB susceptibility has not 
+been well-defined in children. Reduced pharyngeal cross-sectional 
+area (CSA) may be a final common pathway by which genetic 
+and other factors impact the development of SDB. 
+
+Acoustic pharyngometry, a noninvasive technique, has 
+been used to assess pharyngeal size and compliance in adult 
+snorers with and without SDB (4–7). These studies showed 
+that snorers had smaller CSA, regardless of apnea–hypopnea 
+index (AHI), and that those with SDB (defined by an elevated 
+AHI) exhibited higher pharyngeal compliance (as measured 
+by fractional change of pharyngeal area with varying mouth 
+
+(Received in original form November 5, 2001; accepted in final form February 28, 2002) 
+
+Supported by National Institutes of Health grants NHLBI RO1HL60957, NHLBI 
+04426, RO1 NR02707, and MO RR 00080. 
+
+Correspondence and requests for reprints should be addressed to Susan Redline, 
+Department of Pediatrics, Rainbow Babies and Children’s Hospital, 11100 Euclid 
+Avenue, Cleveland, OH 44106. E-mail: sxr15@po.cwru.edu 
+
+This article has an online data supplement, which is accessible from this issue’s 
+table of contents online at www.atsjournals.org 
+
+Am J Respir Crit Care Med Vol 165. pp 1499–1503, 2002 
+DOI: 10.1164/rccm.200111-061OC 
+Internet address: www.atsjournals.org 
+
+pressure), a marker of susceptibility to collapse (4, 5). These 
+studies also suggested that the acoustic pharyngometry technique 
+is reasonably precise. In adults, intrasubject variability 
+of pharyngometric measures was reported as less than 10% 
+(5, 6). Similar data in children are not available, and the contribution 
+of reduced pharyngeal CSA to SDB has not been 
+quantified in the pediatric population. 
+
+The paucity of data that address risk factors, outcomes, and 
+the natural history of SDB in children has led to a recent interest 
+in epidemiologic studies of pediatric SDB. Studies of large 
+samples of children require reliable, noninvasive tools that provide 
+discriminative or predictive information. As part of the 
+Cleveland Children’s Sleep and Health Study (CCSHS), we 
+collected pharyngometry data, using the acoustic reflection 
+technique, on a well-defined cohort of children born in the 
+Cleveland area between 1988 and 1993. Using concurrently 
+collected demographic, upper airway, and home sleep study 
+data, we aimed to (1) evaluate the utility of using acoustic 
+pharyngometry to characterize upper airway dimensions in 
+children with and without SDB and (2) characterize the variation 
+of pharyngeal dimensions with demographic, anthropometric, 
+and sleep-related variables. 
+
+METHODS 
+
+Details on definitions, measurements, and scoring of respiratory events 
+can be found in the online data supplement. 
+
+Study Sample and Data Acquisition 
+
+The CCSHS is an ongoing epidemiologic study of risk factors and consequences 
+of SDB in children aged 8–11 years. The sample was assembled 
+as a birth cohort of children born between 1988 and 1993 at three 
+Cleveland hospitals, identified by stratified random sampling from 
+birth records to enroll equal numbers of preterm and full-term children 
+(8). Children with known severe neurologic handicaps were excluded 
+from analyses. 
+
+Demographic and medical data were assessed with the Children’s 
+Health Questionnaire, a pediatric modification of a validated instrument 
+(9). Height and weight were measured by trained research personnel. 
+Tonsillar size was noted on a 5-point scale (10). Overnight cardiorespiratory 
+monitoring during sleep included recording of thoracic 
+and abdominal excursions, estimated tidal volume (by inductance 
+plethysmography) (11, 12), pulse oximetry, heart rate (bipolar electrocardiography 
+leads), and body position (PT-2 system; SensorMedics, 
+Yorba Linda, CA). 
+
+Pharyngometry Measurements 
+
+Pharyngometry data were collected the day before the sleep study, 
+usually in the child’s home, using the EccoVision Acoustic Pharyngometer 
+(E. Benson Hood Laboratories, Pembroke, MA). This system 
+has been used in adults to measure pharyngeal CSA (4, 13). Each 
+measurement consists of a plot of CSA (square centimeters) as a function 
+of distance (centimeter) from the oral cavity. Estimates of mean 
+and minimal pharyngeal CSA are derived. For each subject, a baseline 
+curve was obtained using nasal breathing. Subsequent measurements 
+were obtained using oral breathing (nares clamped) at functional residual 
+capacity. Attempts were made to get at least three “high quality” 
+curves that exhibit characteristics seen on a reference diagram 
+(see online data supplement), namely a well-defined oral cavity seg
+
+
+
+1500 AMERICAN JOURNAL OF RESPIRATORY AND CRITICAL CARE MEDICINE VOL 165 2002 
+
+ment between 0–5 cm, a distinct oropharyngeal segment, and no evidence 
+of tongue occlusion or leak. Curves without obvious artifacts 
+but that did not meet the criteria for high quality, were considered 
+“indeterminate” and excluded from analyses. 
+
+To adapt the device to children, a customized pediatric mouthpiece 
+was introduced partway through the study and was used for testing 
+the last 60% of the sample (n  374). The use of the new mouthpiece 
+resulted in an approximate 2-fold increase in the proportion of 
+subjects with high quality data. Analyses were further restricted to the 
+203 children who had used the new mouthpiece and who produced 
+three high quality curves (54%). 
+
+Scoring of Respiratory Events 
+
+Respiratory events and the AHI were scored and computed as detailed 
+in the online data supplement. The AHI was calculated by summing all 
+obstructive apneas and hypopneas associated with a 3% desaturation 
+and dividing the sum by the estimated sleep time. This index demonstrated 
+excellent agreement with the AHI measured by ‘gold standard’ 
+in-laboratory polysomnography (see online data supplement). 
+
+Cephalometry 
+
+Lateral cephalometric radiographs were available for 23 of the children 
+who participated in a second-stage laboratory assessment aimed 
+at further exploring the findings of the in-home studies. Procedures 
+for cephalometry have been described previously (1). Cephalometric 
+measures included mandibular length, hyoid-mandibular position, and 
+the angles from the sella–nasion to mandibular points A and B (angles 
+SNA and SNB, respectively). 
+
+Analyses 
+
+Group comparisons were performed using unpaired t tests or analysis 
+of variance. The relationships among variables were evaluated with 
+Spearman correlation coefficients. Analysis was performed using standard 
+software (SAS Version 8.2; SAS Institute, Cary, NC). 
+
+The protocol was approved by University Hospitals’ Institutional 
+Review Board. Informed consent was obtained from the parents/legal 
+guardian of each child, and assent was obtained from the child. 
+
+RESULTS 
+
+Sample Characteristics 
+
+The sample consisted of 203 children with a mean age ( standard 
+deviation) of 9.35  0.82 years (described in Table 1). 
+There was a slight female predominance (53%), and one-half 
+of the participants were black. More than half (53%) of the 
+subjects were born prematurely (48 born between 20 and 32 
+weeks, 41 born after 32 weeks, and 18 of uncertain gestational 
+age younger than 36 weeks). The average height percentile 
+was 56  27% (slightly above the 50th percentile for age and 
+sex). Mean body mass index (BMI) was 18.2 kg/m2  4.0. The 
+median AHI was 0.2 (range 0–42). The prevalence of SDB, 
+defined by an AHI value of 5 events/hour or more, was 4.5%, 
+and the prevalence of snoring with an AHI value less than 5 
+was 17.4%. As expected, snoring and AHI were significantly 
+associated, although there was considerable overlap between 
+these entities (Spearman’s r  0.22, p  0.002). 
+
+None of the characteristics in the subsample defined by use 
+of a customized mouthpiece and ability to produce high quality 
+pharyngometry data varied substantially from those of the 
+overall CCSHS cohort (n  657 at the time of analysis), with 
+the exception that the analyzed sample consisted of a larger 
+proportion of black children than in the overall cohort. This 
+difference is attributable to preferential recruitment of blacks 
+later in the study, which coincided temporally with the introduction 
+of the optimized pediatric pharyngometry mouthpiece. 
+
+Quality and Reproducibility of Pharyngeal Measurements 
+
+As noted previously, the quality of pharyngometry data increased 
+substantially after the introduction of the customized 
+
+TABLE 1. SAMPLE CHARACTERISTICS OF THE CLEVELAND 
+CHILDREN’S SLEEP AND HEALTH STUDY (1988–2001)* 
+
+Characteristic Number (%) 
+
+Age 
+
+ 9 yr old 111 (55) 
+Sex 
+Females 108 (53) 
+
+Ethnicity 
+White 92 (45) 
+Black 102 (50) 
+Hispanic 2 (1) 
+Multiracial 7 (3) 
+
+Gestation 
+Preterm 108 (53) 
+
+Mean BMI, kg/m2  SD 18.2  4.0 
+
+Obesity† 34 (17) 
+
+Height 
+
+ 50th percentile 85 (43) 
+Sleep-disordered breathing 
+AHI  5 194 (96) 
+AHI  5 9 (4) 
+
+Snoring 
+Never or rarely 161 (80) 
+Habitual 40 (20) 
+
+Definition of abbreviations: AHI  apnea–hypopnea index; BMI  body mass index; 
+SD  standard deviation. 
+
+* n  203 children with high quality pharyngometry data. 
+† See online data supplement for definition. 
+mouthpiece. Within the subset evaluated with the new mouthpiece 
+(n  374), 54% had high quality data (all three curves 
+with the highest rating). The coefficient of variation (CV) of 
+the mean CSA was significantly lower in the high quality 
+group when compared with the rest of the sample who used 
+the new mouthpiece, but produced less than three high quality 
+curves (including indeterminate curves) (8.0 versus 12.8%, 
+p  0.0001). The CV of minimum CSA was modestly elevated 
+relative to the CV of mean CSA. However, similar to the CV 
+of mean CSA, the CV of minimum CSA was significantly 
+lower in the high quality group within the subset of subjects 
+who used the new mouthpiece (11.1 versus 18.1%, p  0.0001). 
+
+Pharyngeal Dimensions as a Function of 
+Subject Characteristics 
+
+Table 2 shows mean and minimum pharyngeal CSA according 
+to demographic and anthropometric variables. No significant 
+differences are noted based on ethnicity, sex, or BMI. A modest 
+(6%) but significant increase in both mean and minimum 
+CSA exists among taller than average children when compared 
+with those who are shorter than average. Children 9–11 
+years old also show a significant (p  0.005) increase in minimum 
+CSA when compared with the younger subjects (ages 
+8.0–8.9 years). A trend toward a modestly (4.5%) increased 
+mean CSA exists in older children, although this difference 
+did not reach statistical significance (p  0.07). Subjects born 
+prematurely, when compared with full-term children, had a 
+modest but significant reduction in minimum CSA (5.9%, p  
+0.05). A somewhat smaller reduction in mean CSA (4%) did 
+not reach statistical significance. Differences in mean or minimal 
+CSA were not significant across the range of gestational 
+age (data not shown). 
+
+Although we did not aim to present a predictive model for 
+SDB (but rather to identify the feasibility of the technique and 
+the its correlates of pharyngeal dimensions), we explored the ex
+
+
+
+Monahan, Larkin, Rosen, et al.: Pharyngometry in Pediatric SDB 
+
+TABLE 2. DISTRIBUTION OF PHARYNGEAL MEASUREMENTS TABLE 3. DISTRIBUTION OF PHARYNGEAL MEASUREMENTS 
+ACCORDING TO SUBJECT CHARACTERISTICS ACCORDING TO SLEEP-DISORDERED BREATHING 
+
+Mean CSA Minimum CSA 
+Characteristic n (cm2; mean  SD)(cm2; mean  SD) 
+
+Age 
+ 9 yr old 92 1.90  0.34 1.09  0.24 
+ 9 yr old 111 1.99  0.36 1.19  0.26 
+% Difference 4.5 8.4 
+p Value 0.07 0.003 
+
+Ethnicity 
+White 92 1.93  0.34 1.15  0.25 
+Nonwhite* 111 1.96  0.37 1.14  0.27 
+% Difference 1.5 0.9 
+p Value 0.43 0.70 
+
+Sex 
+Male 95 1.94  0.32 1.13  0.24 
+Female 108 1.95  0.38 1.16  0.27 
+% Difference 0.5 2.6 
+p Value 0.89 0.53 
+
+Gestation 
+Full-term 95 1.99  0.39 1.18  0.28 
+Preterm 108 1.91  0.31 1.11  0.23 
+% Difference 4.0 5.9 
+p Value 0.10 0.046 
+
+Obesity† 
+No 166 1.93  0.35 1.13  0.24 
+Yes 34 2.04  0.35 1.18  0.31 
+% Difference 5.4 4.2 
+p Value 0.11 0.44 
+
+Height 
+ 50th percentile 85 1.88  0.29 1.10  0.20 
+ 50th percentile 115 2.00  0.39 1.17  0.29 
+% Difference 6.0 6.0 
+p Value 0.02 0.03 
+
+Definition of abbreviations: CSA  cross-sectional area; SD  standard deviation. 
+
+* Includes black (102), Hispanic (2), and multiracial (7) children. 
+† See online data supplement for definition. 
+tent to which subject characteristics were related independently 
+to pharyngeal CSA. In a multiple regression model, assessing 
+the joint effects of age, height, sex, and prematurity, only height 
+remained significantly related to minimal CSA (p  0.003). 
+
+Variation of Pharyngeal Measurements by 
+Sleep-related Measures 
+
+Table 3 demonstrates the variability of mean and minimum 
+CSA with degree of SDB (snoring or AHI  5). Habitual snorers 
+showed a highly significant reduction (10.3%, p  0.006) in 
+minimum CSA compared with nonsnorers. Likewise, children 
+with an AHI value of 5 or more had a significantly smaller 
+minimum CSA (10.4%, p  0.05) than those with an AHI 
+value less than 5. Furthermore, minimal CSA appeared to vary 
+in a “dose–effect” fashion with degree of SDB (1.17  0.26, 
+
+1.07  0.23, and 0.96  0.14 in nonsnorers [n  157], snorers 
+with an AHI value less than 5 [n  35], and children with an 
+AHI value of 5 or more [n  9]). Mean CSA did not vary significantly 
+across these categories. Minimum CSA also correlated 
+inversely with the degree of nocturnal snoring (assessed 
+on a 0–5 point scale, 0 being no snoring and 5 being very frequent 
+snoring over the past month) (r 0.15, p  0.03). 
+We also evaluated the association between tonsil size and 
+pharyngeal measurements. For this analysis, tonsil size was 
+analyzed both by comparing those with and without moderate–
+large tonsils and by comparing the two groups at each extreme 
+for tonsil size ( 25% of pharyngeal space, n  55 versus 
+ 75% of pharyngeal space, n  15). In both cases, no 
+significant differences in mean or minimum CSA with tonsil 
+
+Mean CSA Minimum CSA 
+Characteristic n (cm2; mean  SD)(cm2; mean  SD) 
+
+Snoring* 
+Never or rarely 161 1.97  0.35 1.17  0.26 
+Habitual 40 1.87  0.35 1.05  0.22 
+% Difference 5.1 10.3 
+p Value 0.12 0.006 
+
+SDB 
+AHI  5 194 1.95  0.36 1.15  0.26 
+AHI  5 9 1.87  0.25 0.96  140.18 
+% Difference 4.1 16.4 
+p Value 0.53 0.02 
+
+Definition of abbreviations: AHI  apnea–hypopnea index; CSA  cross-sectional 
+area; SD  standard deviation; SDB  sleep-disordered breathing. 
+
+* See online data supplement for definition. 
+size were apparent (p  0.2). In contrast, nocturnal snoring, 
+defined on the scale described previously was significantly increased 
+in subjects with larger tonsils (r  0.25, p  0.005). 
+
+Association Between Pharyngometric and 
+Cephalometric Measures 
+
+Mean, but not minimal, pharyngeal CSA was significantly correlated 
+with mandibular length as determined by cephalometry 
+(r  0.47, p  0.02). No significant relationships were observed 
+between either pharyngometric measure and hyoid 
+mandibular plane, or angle SNA or SNB. 
+
+DISCUSSION 
+
+Utility of Pharyngometry in Studies of Pediatric SDB 
+
+The usefulness of any diagnostic test depends on numerous factors, 
+including its feasibility, predictive ability (regarding predicting 
+clinical endpoints or discriminating subgroups of the 
+population), precision (or reliability), accuracy, and cost. We 
+have demonstrated that acoustic pharyngometry can be adapted 
+for use in children, and trained personnel can successfully obtain 
+highly reproducible data even in nonclinical settings (such 
+as the home). In such settings, however, only 78% of children of 
+age 8–11 years were able to produce minimally acceptable data; 
+and high quality data could only be achieved reproducibly for 
+54% of the sample studied with the improved mouthpiece. In 
+the subset able to produce three acceptable curves, reliability 
+was excellent and comparable to that reported by reports for 
+adults studied in more controlled office or laboratory settings (4, 
+6). Furthermore, as discussed subsequently, these measurements 
+provided data that discriminated children with and without 
+snoring and SDB. Measurements also varied in an expected 
+manner with indices of body size and growth (height and age). 
+In addition, pharyngeal dimensions were reduced in children 
+who had been born prematurely—a subgroup we have shown in 
+preliminary work to be at increased risk for SDB. 
+
+The failure rate reported in the current study should be 
+balanced against the portability and brevity of the measurements, 
+which generally took less than 15 minutes and were 
+conducted in the homes of study participants. Alternatives, 
+such as magnetic resonance imaging (MRI) or endoscopy, although 
+considerably more accurate and comprehensive, are also 
+much more expensive and less accessible. The variation of acoustic 
+pharyngometry measurements across snoring/SDB groups 
+suggests the utility of this technique for the clinical assessment 
+of children at risk for SDB or for phenotyping in research 
+studies, provided that increased technical experience reduces 
+the failure rates. 
+
+
+1502 AMERICAN JOURNAL OF RESPIRATORY AND CRITICAL CARE MEDICINE VOL 165 2002 
+
+This study did not directly compare acoustic pharyngometry 
+with MRI. In our epidemiologic study, such assessments 
+were not feasible and would have required comparing measurements 
+made supine (MRI) with those made upright (pharyngometry). 
+However, a previous study of adults assessed with 
+both MRI and acoustic pharyngometry showed that the two 
+techniques provided estimates of mean oropharyngeal area 
+and pharyngeal volume within approximately 20 and 10% of 
+each other, respectively (6). Radiographic comparisons have 
+shown that pharyngometry allows accurate reconstructions of 
+the geometry of other airway structures including the larynx, 
+trachea, and nasal airways (6). Airway models that have been 
+used to assess the accuracy of the technique further indicate 
+that accuracy is greater with smaller mouth areas (6). 
+
+These findings, together with the qualitatively similar curves 
+obtained in children and adults, suggest that acoustic reflectometry 
+in children who can reliably perform the maneuver 
+should provide assessments of airway size at least as accurate 
+as what has been reported for adults with larger mouths. 
+
+We did assess the relationship of pharyngometric and cephalometric 
+measurements (both made in the sitting position) in 
+a sample of the cohort who participated in a second-stage laboratory 
+study. A previous study of adults had reported that 
+subjects with severe sleep apnea had both reduced mean pharyngeal 
+CSA and mandibular length (7). Our finding of a correlation 
+between mandibular length, which is generally considered 
+to be an important skeletal determinant of pharyngeal 
+size, and mean CSA supports the overall validity of the latter 
+noninvasive measure for estimating anatomic risk factors for 
+SDB in children. The lack of significant relationships between 
+minimal CSA and mandibular length also is not surprising because 
+minimal and mean CSA were only moderately correlated 
+(r 0.62), and minimal CSA may be influenced more 
+by discrete areas of anatomic compromise (soft tissue) than by 
+a general reduction in area. 
+
+Unlike in pediatrics, a standard curve has been established 
+for acoustic pharyngometry in adults. In 350 normal volunteers 
+(77% male), the mean CSA was 3.19  0.311 cm2 in 
+males and 2.81  0.108 cm2 in females, with a CV of 5–7% 
+(14). Clearly, our results cannot be compared directly because 
+of the disparate ages of subjects in the two studies. However, 
+both estimates of reproducibility are of the same order of 
+magnitude as in previous studies (4, 6). Thus, it appears that 
+this tool can be a precise instrument when used in pediatric 
+subjects, provided that data are screened for quality and that a 
+proper mouthpiece is used. 
+
+Relationship of Pharyngeal Dimensions to Snoring and SDB 
+
+A major objective of this study was to assess the variation of 
+pharyngeal dimensions, assessed noninvasively, with indices of 
+SDB in children. Reduced minimum pharyngeal CSA was 
+demonstrated in both habitual snorers and in children with an 
+AHI value of 5 or more when compared with nonsnorers and 
+children with lesser AHI values, respectively. Furthermore, evidence 
+of a dose–effect relationship was suggested for the relationship 
+of degree of SDB (snoring or AHI  5) with minimal 
+pharyngeal CSA. Coupled with the result that mean CSA is not 
+decreased in the snorers or those with SDB, this finding suggests 
+that minimum CSA, rather than mean CSA, may serve as 
+a “critical variable” for the development of obstructive sleep 
+apnea (OSA) in children. This observation makes sense in the 
+context of fluid flow through a nonrigid tube, as in air traveling 
+through the pharynx or blood flow through a vessel. The flow-
+limiting feature in an atherosclerotic coronary artery, for example, 
+is the point along the vessel where the lumen is most narrowed, 
+as opposed to the average CSA along the length of the 
+
+vessel. A previous study of pharyngeal dimensions in adults 
+with sleep apnea assessed by computerized tomography provides 
+further evidence in support of the concept of minimum 
+CSA as a critical variable (15). No differences in mean pharyngeal 
+CSA were observed in 12 men with sleep apnea compared 
+with 17 matched control subjects. However, minimal CSA was, 
+on average, approximately 50% the magnitude in the apneic 
+group as compared with the control group. As in that study, we 
+cannot identify the precise anatomic location of the minimal 
+CSA, which likely varies somewhat from child to child. 
+
+In the case of airflow through the oropharynx, previous investigators 
+have introduced the concept of a “critical pressure” 
+(Pcrit) to provide a mechanical basis for upper airway collapsibility. 
+In this model, pharyngeal airflow can only occur when 
+upstream pressure exceeds the intrinsic pressure in the 
+oropharynx, Pcrit, extrapolated from a plot of pharyngeal flow 
+versus nasal pressure as the applied pressure at zero flow (16– 
+18). In adults, Pcrit is negative (airways stay patent) in normal 
+subjects (19), less negative in snorers (increased susceptibility 
+to collapse), and positive (airway collapse leading to obstruction) 
+during sleep in subjects with OSA (16). Similarly, in children, 
+a positive critical pressure was found in subjects with 
+OSA and a negative Pcrit was found in primary snorers and in a 
+subset of OSA subjects after undergoing tonsillectomy and adenoidectomy 
+(20). Our findings of a relationship between indices 
+of SDB and a reduced minimum CSA may be interpreted 
+within this physiologic framework: a minimal pharyngeal CSA 
+may lead to decreased intraluminal pressure in the pharynx 
+distal to the obstruction, resulting in an increased susceptibility 
+to collapse. Other studies using pharyngometry have identified 
+a reduced mean CSA in adult snorers and subjects with OSA 
+(4, 7). However, those findings included individuals with a 
+greater degree of SDB than what was observed in our study. 
+
+Relationship of Pharyngeal Area to Subject Demographics 
+
+Our results demonstrate no difference in pharyngeal CSA between 
+white and nonwhite (predominantly black) children. In 
+light of previous findings that black children have a greater 
+chance of developing SDB than white children (21), this result 
+suggests that the racial difference in prevalence of SDB may not 
+be explained by differences in minimal pharyngeal dimensions 
+alone. These new data that address pharyngeal dimensions complement 
+our previous studies of anthropometric and cephalometric 
+measurements (1, 22). In those studies, we found that hard 
+tissue craniofacial dimensions contribute little to SDB in blacks. 
+
+In contrast to adult data (14), we did not observe significant 
+sex differences in pharyngeal dimensions in our sample of prepubertal 
+children. This result may simply reflect similarities in 
+overall body size, as there were no sex differences in height percentile 
+or BMI in our sample (male 54  27%, 18.3  3.7 kg/m2 
+versus female 58  28%, 18.1  4.2 kg/m2; p  0.41, p  0.69, 
+respectively). Longitudinal follow-up of children and young 
+adults with simple tools such as acoustic reflectometry may shed 
+further light on how pharyngeal dimensions change after puberty 
+and with growth and maturation and hormonal changes. 
+
+Reduced Pharyngeal Area and Prematurity 
+
+Minimum CSA was also significantly reduced in preterm children, 
+studied at ages 8–11 years, relative to full-term children. 
+This finding is interesting in light of our preliminary data indicating 
+that SDB is more common among children born prematurely 
+than in full-term children (6.4 versus 1.9%, p  0.06) 
+(23). In updating these preliminary results, using our larger 
+sample, we find a bigger difference in the prevalence of SDB 
+in preterm relative to full-term children (7.4 versus 1.1%, p  
+0.03). Smaller pharyngeal area appeared to relate to the 
+
+
+Monahan, Larkin, Rosen, et al.: Pharyngometry in Pediatric SDB 
+
+shorter stature of these children: the premature children are 
+significantly shorter, although still of average height for their 
+age and sex, than the full-term children (52 versus 61%, p  
+0.02). In children, it will be of especial importance to determine 
+whether small airway dimensions, occurring either in or 
+out of proportion to general body size, increases SDB risk. Future 
+work is needed to further characterize the relationship 
+between prematurity, body and pharyngeal size (and their interrelationship), 
+and susceptibility to SDB. 
+
+Relationship of Tonsil Size, Habitual Snoring, and 
+Pharyngeal Dimensions 
+
+No relationship was seen between tonsil size and minimum or 
+mean CSA. However, tonsil size (dichotomized at a cutoff 
+identified by tonsillar volume occupying 50% or more of the 
+visible airway) strongly predicted snoring (odds ratio 2.53, 
+95% confidence interval 1.25–5.14, p  0.01). A more modest, 
+nonsignificant association was seen between tonsil size and an 
+AHI value of 5 or more (odds ratio 1.96, 95% confidence interval 
+0.51–7.53; p  0.3). These results suggest that children 
+with increased tonsillar size are more likely to snore compared 
+with children with smaller tonsils; however, tonsillar size, as 
+quantified by physical examination, does not strongly predict 
+AHI levels. A small minimum pharyngeal CSA, in contrast, 
+predicted both snoring and an elevated AHI. Thus, measurement 
+of pharyngeal CSA appears to be more strongly associated 
+with AHI levels than tonsillar size as assessed by physical 
+exam. This result suggests that acoustic reflectometry may 
+provide important information in the evaluation of pediatric 
+SDB not otherwise accessible via routine examination. 
+
+The propensity for habitual snoring and SDB is likely influenced 
+by multiple factors including airway dimensions, tonsil 
+size, soft tissue mass, facial anatomy, and neuromuscular function—
+combinations of abnormalities in some or all of these 
+areas may produce the SDB phenotype. Tonsil size, as assessed 
+by physical examination, may be too crude an index of 
+anatomic compromise of the airway to differentiate children 
+in the community with and without SDB. In contrast, our data 
+suggest that pharyngometric measurements of minimum CSA 
+could contribute to the prediction of SDB in large samples of 
+unselected children. 
+
+Conclusions and Limitations 
+
+To summarize, we conclude (1) acoustic pharyngometry is a 
+useful alternative to more invasive and expensive methods of 
+measuring pharyngeal dimensions in preadolescent children 
+and may provide information beyond that available by physical 
+examination, and (2) minimum pharyngeal CSA represents 
+a potentially important metric in evaluation of pediatric 
+SDB. The application of acoustic pharyngometry, however, is 
+limited to a subset of potential subjects, presumably those 
+with the capacity to both follow the instructions and to put 
+forth the necessary effort to complete the study. 
+
+We also provide new data that suggest that preterm children 
+have smaller pharyngeal dimensions and that this may be 
+one explanation for the increased risk of SDB with prematurity 
+that we have observed. Future work is needed to further 
+assess the link between prematurity, pharyngeal measurements, 
+and subsequent development of SDB and to model additional 
+physiologic and anatomic risk factors for SDB. 
+
+Acknowledgment : The authors wish to express their gratitude for the invaluable 
+assistance of Jean Arnold, Sarah Bivins, Judy Emancipator, Najla Golebiewski, 
+Heather Rosebrock, Susan Surovec, and Dina Tell, who have recruited 
+the patients, collected the data, and worked diligently to implement the use of 
+the new pharyngometry mouthpiece. In addition, they thank Gary Glass of E. 
+Benson Hood Laboratories for customizing the pharyngometry software and 
+
+reviewing the manuscript. Finally, they are most indebted to the members of 
+the cohort who so generously continue to invite them into their homes. 
+
+References 
+
+1. Redline S, Tishler PV, Hans MG, Tosteson TD, Strohl KP, Spry K. Racial 
+differences in sleep-disordered breathing in African-Americans 
+and Caucasians. Am J Respir Crit Care Med 1997;155:186–192. 
+2. Bacon WH, Krieger J, Turlot J-C, Stierle JL. Craniofacial characteristics 
+in patients with obstructive sleep apneas syndrome. Cleft Palate J 1988; 
+25:374–378. 
+3. Guilleminault C, Riley R, Powell N. Obstructive sleep apnea and abnormal 
+cephalometric measurements: implications for treatment. Chest 
+1984;86:793–795. 
+4. Bradley TD, Brown IG, Grossman RF, Zamel N, Martinez D, Phillipson 
+EA, Hoffstein V. Pharyngeal size in snorers, nonsnorers, and patients 
+with obstructive sleep apnea. N Engl J Med 1986;315:1327–1337. 
+5. Brown IG, Bradley TD, Phillipson EA, Zamel N, Hoffstein V. Pharyngeal 
+compliance in snoring subjects with and without obstructive sleep 
+apnea. Am Rev Respir Dis 1985;132:211–215. 
+6. Marshall I, Maran NJ, Martin S, Jan MA, Rimmington JE, Best JJK, Drummond 
+GB, Douglas NJ. Acoustic reflectometry for airway measurements 
+in man: implementation and validation. Physiol Meas 1993;14:157–169. 
+7. Rivlin J, Hoffstein V, Kalbfleisch J, McNicholas W, Zamel N, Bryan AC. 
+Upper airway morphology in patients with idiopathic obstructive sleep 
+apnea. Am Rev Respir Dis 1984;129:355–360. 
+8. Youngblut JM, Loveland-Cherry CJ, Horan M. Maternal employment 
+effects on families and preterm infants at 18 months. Nurs Res 1994; 
+43:331–337. 
+9. Kump K, Whalen C, Tishler PV, Browner I, Ferrette V, Strohl KP, 
+Rosenberg C, Redline S. Assessment of the validity and utility of a 
+sleep symptom questionnaire in a community sample. Am J Respir 
+Crit Care Med 1994;150:735–741. 
+10. Brodsky L. Modern assessment of tonsils and adenoids. 
+Pediatr Clin 
+North Am 1989;36:1551–1569. 
+11. Brooks LJ, DiFiore JM, Martin RJ. Assessment of tidal volume over 
+time in preterm infants using respiratory inductance plethysmography, 
+the CHIME Study Group. Collaborative Home Infant Monitoring 
+Evaluation. Pediatr Pulmonol 1997;23:429–433. 
+12. Sackner MA, Watson H, Belsito AS, Feinerman D, Suarez M, Gonzalez 
+G, Bizousky F, Krieger B. Calibration of respiratory inductive plethysmograph 
+during natural breathing. J Appl Physiol 1989;66:410–420. 
+13. Shepard JW, Gefter WB, Guilleminault C, Hoffman EA, Hoffstein V, 
+Hudgel DW, Suratt PM, White DP. Evaluation of the upper airway in 
+patients with obstructive sleep apnea. Sleep 1991;14:361–371. 
+14. Kamal I. Normal standard curve for acoustic pharyngometry. Otolaryngol 
+Head Neck Surg 2001;124:323–330. 
+15. Stauffer JL, Zwillich CW, Cadieux RJ, Bixler EO, Kales A, Varano LA, 
+White DW. Pharyngeal size and resistance in obstructive sleep apnea. 
+Am Rev Respir Dis 1987;136:623–627. 
+16. Smith PL, Wise RA, Gold AR, Schwartz AR, Permutt S. Upper airway 
+pressure-flow relationships in obstructive sleep apnea. J Appl Physiol 
+1988;64:789–795. 
+17. Sforza E, Bacon W, Weiss T, Thibault A, Petiau C, Krieger J. Upper airway 
+collapsibility and cephalometric variables in patients with obstructive 
+sleep apnea. Am J Respir Crit Care Med 2000;161(2 Pt 1):347–352. 
+18. Sforza E, Petiau C, Weiss T, Thibault A, Krieger J. Pharyngeal critical 
+pressure in patients with obstructive sleep apnea syndrome: clinical 
+implications. Am J Respir Crit Care Med 1999;159:149–157. 
+19. Schwartz AR, Smith PL, Wise RA, Gold AR, Permutt S. Induction of 
+upper airway occlusion in sleeping individuals with subatmospheric 
+nasal pressure. J Appl Physiol 1988;64:535–542. 
+20. Marcus CL, McColley SA, Carroll JL, Loughlin GM, Smith PL, 
+Schwartz AR. Upper airway collapsibility in children with obstructive 
+sleep apnea syndrome. J Appl Physiol 1994;77:918–924. 
+21. Redline S, Tishler PV, Schluchter MD, Aylor J, Clark K, Graham G. 
+Risk factors for sleep-disordered breathing in children: associations 
+with obesity, race, and respiratory problems. Am J Respir Crit Care 
+Med 1999;159:1527–1532. 
+22. Cakirer B, Hans MG, Graham G, Aylor J, Tishler PV, Redline S. The 
+relationship between craniofacial morphology and obstructive sleep 
+apnea in Caucasians and African-Americans. Am J Respir Crit Care 
+Med 2001;163:947–950. 
+23. Redline S, Rosen C, Surovec S, Arnold J, Bivins S, DiFiore J, Emancipator 
+J, Golebiewski N, Rosebrock H, Russo L, et al. Prevalence of sleep-
+disordered breathing (SDB) in a community-based sample of 8–10 
+year old children [abstract]. Am J Respir Crit Care Med 2000;161:A26. 
+

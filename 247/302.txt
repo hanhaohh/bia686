@@ -1,0 +1,479 @@
+Sleep Medicine 6 (2005) 241–245 
+
+www.elsevier.com/locate/sleep 
+
+Original article 
+
+Structural cardiac changes as a predictor of respiratory complications after 
+adenotonsillectomy for obstructive breathing during sleep in children 
+
+Maninder Kalraa,*, Thomas R. Kimballb, Stephen R. Danielsb, Grace LeMastersc, 
+Paul J. Willgingd, Michael Rutterd, Sandra A. Wittb, Betty J. Glascockb, Raouf S. Amina 
+
+
+aDepartment of Pulmonary Medicine, Cincinnati Children’s Hospital, 3333 Burnet Avenue, Cincinnati, OH 45229, USA 
+bDepartment of Cardiology, Cincinnati Children’s Hospital, Cincinnati, OH, USA 
+cDepartment of Environmental Health, University of Cincinnati, Cincinnati, OH, USA 
+dDepartment of Otolaryngology, Cincinnati Children’s Hospital, Cincinnati, OH, USA 
+
+
+Received 2 July 2004; received in revised form 26 August 2004; accepted 14 October 2004 
+
+Abstract 
+
+Background and purpose: To determine the association between structural cardiac changes and postoperative respiratory complications after 
+
+adenotonsillectomy for obstructive breathing during sleep. 
+Patients and methods: Forty-eight children, ages 2–18 years, undergoing adenotonsillectomy for obstructive breathing during sleep were 
+recruited for this case control study. The case group consisted of 24 children with postoperative respiratory complications after 
+adenotonsillectomy who also had an echocardiogram. An equal number of children without postoperative respiratory complications after 
+adenotonsillectomy were recruited as controls. Left ventricular mass (LVM) was calculated from 2D guided M mode echocardiographic 
+measurements of the left ventricle. Left ventricular mass index (LVMI) was calculated as left ventricular mass/height2.7. Left ventricular 
+hypertrophy (LVH) was defined as LVMI index greater than the 95th percentile for age. The two groups were compared for demographic 
+variables and cardiac structure. 
+
+
+Results: The two groups did not significantly differ by age, height, gender or racial distribution. LVH and right ventricular (RV) dimension 
+greater than the 95th percentile for age remained significantly associated with the occurrence of postoperative respiratory complications after 
+controlling for body mass index (BMI) Z score, age, gender, race, systolic and diastolic blood pressure. 
+
+
+Conclusions: The increased prevalence of structural cardiac changes in the group with complications (P!0.01) suggests an underlying 
+cardiac origin for postoperative respiratory complications in this group of children. 
+q 
+2004 Elsevier B.V. All rights reserved. 
+
+
+Keywords: OSA; Left ventricular hypertrophy 
+
+Obstructive sleep apnea (OSA) is reported to occur in 
+about 2–3% of children, with approximately two million 
+children in the US affected by this syndrome [1]. 
+Untreated OSA is associated with neurocognitive, metabolic 
+and cardiovascular morbidity [2]. Adenotonsillectomy, 
+the first line of treatment for childhood OSA, is 
+associated with postoperative respiratory complications 
+including pulmonary edema in 20–25% of children with 
+
+* Corresponding author. Tel.: C1 513 636 6771; fax: C1 513 636 4615. 
+E-mail address: maninder.kalra@cchmc.org (M. Kalra). 
+1389-9457/$ -see front matter q 
+2004 Elsevier B.V. All rights reserved. 
+doi:10.1016/j.sleep.2004.10.004 
+
+OSA [3–6]. Severity of OSA, as determined by 
+polysomnogram, is reported to be the best predictor for 
+occurrence of postoperative respiratory complications [5]. 
+Recently, it was shown that OSA in normotensive 
+children is associated with both RV dilatation and LVH, 
+with the degree of LVH being related to the degree of 
+severity of OSA [7]. The purpose of this study was to 
+determine the association between structural cardiac 
+changes and postoperative respiratory complications 
+after adenotonsillectomy for obstructive breathing during 
+sleep. Identification of structural cardiac changes as risk 
+
+
+M. Kalra et al. / Sleep Medicine 6 (2005) 241–245 
+factors for postoperative respiratory complications will 
+allow us to improve the perioperative care for children 
+with OSA. 
+
+1. Methods 
+Forty-eight children, ages 2–18 years, undergoing 
+adenotonsillectomy for obstructive breathing during 
+sleep were recruited for this case control study. The 
+case group consisted of 24 children with postoperative 
+respiratory complications after adenotonsillectomy who 
+also had an echocardiogram. An equal number of children 
+without postoperative respiratory complications after 
+adenotonsillectomy were recruited as controls. This 
+study was approved by the Institutional Review Board 
+at Cincinnati Children’s Hospital and all families signed 
+consent. The presence of obstructive breathing was 
+determined by history of snoring and the presence of 
+adenotonsillar hypertrophy on examination by an otolaryngologist. 
+Children with preexisting cardiac or renal 
+disease and those undergoing any concurrent surgical 
+procedures that increased the duration of anesthesia were 
+excluded. The case definition for respiratory complication 
+was the occurrence of any of the following within 24 h 
+after adenotonosillectomy: 
+
+(a) Oxygen 
+desaturation below 90% leading to oxygen 
+supplementation for more than 8 h; 
+(b) apnea 
+or increased work of breathing leading to the 
+following interventions: nasopharyngeal airway, continuous 
+positive airway pressure, intubation and 
+mechanical ventilation; 
+(c) chest 
+X-ray changes of atelectasis, pneumonia, or 
+edema. 
+Echocardiographic studies were performed, in the 
+perioperative period, using the Hewlett Packard Sonos 
+5500 or GE vivid five Ultrasound Imaging Systems. 
+Echocardiographic measurements were made on three or 
+more cardiac cycles according to the recommendations of 
+the American Society of Echocardiography [8].The 
+sonographer was blinded to the subject’s clinical status 
+and therefore group allocation. LVM was calculated from 
+two-dimensional directed M-mode measurements of the left 
+ventricular inner dimension in end-diastole (LVID), the 
+thickness of the interventricular septum in end-diastole 
+(IVS), and the thickness of the left ventricular posterior 
+wall (PWT). End-diastole was defined as the onset of 
+the QRS complex. The equation described by Devereux 
+et al. [9], LVMðgÞZ0:8½1:04ðLVIDCPWTCIVSÞ3K 
+ðLVIDÞ3C0:6, was used for LVM calculation. An average 
+of three measurements was used in the analysis. To 
+minimize the impact of variation of heart size by body 
+size, the LV mass was divided by the subjects’ height raised 
+to the power of 2.7 as described by De Simone et al. [10] to 
+
+provide LVMI. LVH was defined as LVMI greater than 
+95th percentile for age. Based on published normative data, 
+a value of 38.6 g/ht2.7 was considered the 95th percentile for 
+LVMI [11]. The RV dimensions were determined from 
+M-mode measurements of the right ventricule at end-
+diastole. The resting blood pressure was obtained for all 
+subjects. The Z score for body mass index for age (BMI Z) 
+was calculated by the SAS program using the 2000 CDC 
+growth charts [12]. 
+
+Continuous variables and categorical outcome variables 
+were analyzed using Students’ t-test and c 2, respectively. 
+Logistic regression univariate analysis was used to identify 
+potential risk factors associated with respiratory complications. 
+Multivariate logistic regression analysis was 
+performed to develop a model predictive of the occurrence 
+of respiratory complications. In all analyses, a P-value of 
+
+0.05 or less was considered significant. 
+2. Results 
+In the group with postoperative respiratory complications 
+(NZ24), 12 children received oxygen supplementation 
+alone, three received a nasopharyngeal airway, five 
+received continuous positive airway pressure support, and 
+four received intubation and mechanical ventilation. Among 
+the 15 children who had a chest radiograph, it was reported 
+as normal in 46.6%, pulmonary edema in 26.6%, and air 
+space disease in 26.6%. The two groups did not significantly 
+differ by age, height, gender or racial distribution. The group 
+with postoperative complications had a significantly higher 
+BMI and BMI Z score (Table 1). There was no significant 
+difference between the two groups in their systolic or 
+diastolic pressure indexed to the 95th percentile for age and 
+gender (Table 1). 
+
+Table 1 
+Demographics 
+
+Group with Group without P 
+respiratory respiratory 
+complications complications 
+N 24 24 
+Mean age (yrs) 8.82G4.06 8.05G2.43 # 
+Mean weight (kg) 59.12G31.79 38.5G17.56 * 
+Mean height(m) 1.34G0.21 1.28G0.14 # 
+Mean BMI 30.0G8.92 22.77G8.58 * 
+BMI Z 2.48G1.21 1.61G1.13 * 
+Male gender (%) 17 (70) 13 (54) # 
+AA race (%) 11(45.8) 10 (41.6) # 
+SBP/95th ratio 0.88G0.24 0.82G0.11 # 
+DBP/95th ratio 0.80G0.23 0.79G0.07 # 
+
+This table shows the difference in demographic variables between the two 
+groups. BMI, body mass index; BMI Z, body mass index for age Z score; 
+AA, African American; SBP/95th ratio, systolic blood pressure as a ratio of 
+the 95th percentile for age and gender; DBP/95th ratio, diastolic blood 
+pressure as a ratio of the 95th percentile for age and gender; P, probability 
+value; *Z!0.01, #ZO0.05. 
+
+
+M. Kalra et al. / Sleep Medicine 6 (2005) 241–245 
+Table 2 
+Cardiac structure 
+
+Group with Group without P 
+respiratory respiratory 
+complications complications 
+N 24 24 
+Mean LVM 103.6G44 70.8G23.9 * 
+Mean LVMI 45.6G14.4 35.4G5.8 * 
+LVH (%) 71 21 * 
+Mean RV (cm) 1.9G0.4 1.4G0.3 * 
+RVO95th (%) 54 13 * 
+
+This table shows the difference in cardiac characteristics between the two 
+groups. LVM, left ventricular mass; LVMI, left ventricular mass index; 
+LVH, left ventricular mass index greater than 95th percentile; RV, right 
+ventricle; RVO95th, right ventricular dimension greater than 95th 
+percentile for age, P, probability value; *Z!0.01. 
+
+The two groups differed in the LVM, LVMI, proportion 
+with LVH (LVMI greater than 95th percentile), RV 
+dimension, and in the proportion with RV dimension greater 
+than 95th percentile (Table 2). Univariate logistic regression 
+analysis revealed that only BMI Z score, RV dimension 
+greater than the 95th percentile and LVH were significantly 
+associated with the occurrence of postoperative respiratory 
+complications (Table 3). LVH and RV dimension greater 
+than the 95th percentile for age remained significantly 
+associated with the occurrence of postoperative respiratory 
+complications after controlling for BMI Z score, age, 
+gender, race, systolic and diastolic blood pressure (Table 3). 
+
+3. Discussion 
+Obstructive breathing during sleep is now the major 
+indication for adenotonsillectomy in children [13]. Postoperative 
+respiratory complications, which range from 
+oxygen desaturation to respiratory failure requiring 
+mechanical ventilation, continue to represent a significant 
+
+Table 3 
+Predictors of postoperative respiratory complication 
+
+Variable O.R. 95% C.I. 
+Univariate analysis 
+LVH 9.23 2.46–34.58 
+RVO95th for age 8.33 2.0–35.7 
+BMI Z 6.99 1.13–43.30 
+Multivariate analysis 
+LVH 5.63 1.28–24.68 
+RVO95th for age 6.79 1.34–34.26 
+
+This table shows the results of logistic regression analysis to look at the 
+relationship between the presence of potential risk factors and occurrence 
+of postoperative respiratory complications. Multivariate analysis was 
+performed to study the effect of demographic variables on the association 
+between significant cardiac structure changes and the occurrence of 
+complications. LVH, left ventricular mass index greater than 95th 
+percentile; RVO95th for age, right ventricular dimension greater than 
+95th percentile for age; BMI Z, body mass index for age Z score. 
+
+morbidity following adenotonsillectomy. Neither the 
+mechanism nor the prevalence of each type of respiratory 
+complication is well defined. There are several reports of 
+postoperative pulmonary edema in children undergoing 
+adenotonsillectomy for obstructive breathing during sleep 
+[14,15]. It is believed that edema in this group of patients 
+is non-cardiogenic in origin. The balance between alveolar 
+pressure and pulmonary vascular pressure prevents movement 
+of fluid into the alveolar space. The alveolar 
+pressure is partly dependent on the peak end expiratory 
+pressure (PEEP). Sudden relief of upper airway obstruction 
+after surgery leads to a loss of PEEP thereby resulting 
+in movement of fluid from the vascular compartment into 
+the lung alveoli. There is, however, a plausible mechanism 
+for cardiogenic origin of postadenotonsillectomy 
+pulmonary edema in children with obstructive breathing 
+during sleep. LVH is associated with abnormal left 
+ventricular diastolic function [16] resulting in higher left 
+ventricular end diastolic pressure and thereby increased 
+pulmonary vascular pressures. General anesthesia has a 
+dose-dependent depressant effect on myocardial contractility 
+[17], with a greater depression of hypertrophied 
+myocardium [18]. We speculate that LVH leading to 
+diastolic dysfunction, with a further decrease in systolic 
+function under anesthesia, is a possible mechanism for 
+post-adenotonsillectomy pulmonary edema in children 
+with obstructive breathing during sleep. Pulmonary 
+hypertension leading to imbalance between starling’s 
+forces that keep fluid out of the lung alveoli could be 
+another mechanism for pulmonary edema in this group of 
+children. This explains why RV dilatation and LVH may 
+increase the risk of respiratory complications in children 
+after adenotonsillectomy for obstructive breathing during 
+sleep. 
+
+There are several plausible mechanisms for LVH in 
+children with OSA. Children with OSA have increased 
+systemic blood pressure variability and a decreased 
+nocturnal dipping as compared to children with primary 
+snoring [19]. It has been previously reported that nondipping 
+of blood pressure is associated with a greater LVMI 
+and relative thickness of the left ventricular wall [20].Itis 
+possible that the increased LVMI observed in our study 
+group is due to blood pressure dysregulation. Chronic 
+episodic hypoxia could be another mechanism for LVH in 
+children with OSA. Animal studies have demonstrated that 
+exposure to chronic episodic hypoxia was associated with 
+an increase in the LVM [21,22]. 
+
+LVM was indexed by height2.7 in this study. We have 
+published extensively on the method for indexing LVM by 
+height and have found that indexing by height2.7 provides the 
+best correlation with pathologic data [10,23,24]. 
+This method of indexing provides an approximation to 
+indexing by lean body mass and separates the influence of 
+body size from the influence of adiposity which is probably a 
+pathologic effect. In our study, the LVMI difference between 
+the two groups persisted when LVM was indexed to body 
+
+
+M. Kalra et al. / Sleep Medicine 6 (2005) 241–245 
+surface area. The normative data from our lab were derived 
+from a very large population sample which included 
+children with obesity. It is true that LVM is increased in 
+subjects with obesity but the aim of this study was to 
+determine if increased LVM is pathologic. Also, we 
+investigated the independent effects of obesity and LVH 
+by controlling for BMI in multivariate regression modeling. 
+
+The independent association of BMI with postoperative 
+respiratory complications after adenotonsillectomy in 
+children has been previously reported [25] and is 
+supported by our data. Obesity could contribute to 
+development of respiratory complications through hypo-
+ventilation and promote atelectasis. In addition, obesity 
+could contribute to the development of postoperative 
+respiratory complications by its effect on OSA severity 
+
+[26] and direct effects on left ventricular mass [27]. OSA 
+has been shown to be associated with LVH in non-obese 
+children [7]. While the independent contribution of 
+obesity and OSA towards LVH is well recognized, the 
+effect of the interaction between these factors on the 
+degree of LVH is not clear. 
+This study has some limitations. The echocardiographic 
+studies included in this study were targeted studies. We do 
+not have data for diastolic function on our subjects as this 
+was not a part of this study. However, this is an area which 
+should be investigated further in the future. Also, objective 
+data on severity of obstructive breathing during sleep was 
+not available. Hence, we cannot assess whether the two 
+groups have an equal distribution of children with severe 
+obstructive breathing. 
+
+Notwithstanding these limitations, we conclude that the 
+presence of structural cardiac changes by echocardiogram is 
+associated with the occurrence of postoperative respiratory 
+complications after adenotonsillectomy in children with 
+obstructive breathing during sleep. This is the first report on 
+cardiac risk factor for postadenotonsillectomy respiratory 
+complications in children with obstructive breathing during 
+sleep. Further studies should be carried out to understand the 
+contribution of cardiac dysfunction to the development of 
+postoperative respiratory complications in children with 
+obstructive breathing during sleep. Prospective studies 
+looking at the value of echocardiogram as a screening tool 
+in this group of children should be undertaken. In the 
+interim, clinicians should consider using echocardiography 
+as a diagnostic tool for their patients undergoing adenotonsillectomy 
+for OSA. 
+
+Acknowledgements 
+
+We thank our colleagues in the Division of Otolaryngology 
+at Cincinnati Children’s Hospital for their help with 
+study recruitment. This work was funded by American 
+Heart Association (AHA 0150895B) and NIH RO1 HL 
+7097-01A1. 
+
+References 
+
+[1] Owens J, Opipari L, Nobile C, Spirito A. Sleep and daytime behavior 
+in children with obstructive sleep apnea and behavioral sleep 
+disorders. Pediatrics 1998;102:1178–84. 
+[2] Gozal D. Morbidity of obstructive sleep apnea in children: facts and 
+theory. Sleep Breath 2001;5:35–42. 
+[3] Biavati 
+MJ, Manning SC, Phillips DL. Predictive factors 
+for respiratory complications after tonsillectomy and adenoidectomy 
+in children. Arch Otolaryngol Head Neck Surg 1997;123:517–21. 
+[4] Rosen GM, Muckle RP, Mahowald MW, Goding GS, Ullevig C. 
+Postoperative respiratory compromise in children with obstructive 
+sleep apnea syndrome: can it be anticipated? Pediatrics 1994;93: 
+784–8. 
+[5] Wilson K, Lakheeram I, Morielli A, Brouillette R, Brown K. Can 
+assessment for obstructive sleep apnea help predict postadenotonsillectomy 
+respiratory complications? Anesthesiology 2002;96: 
+313–22. 
+[6] McColley SA, April MM, Carroll JL, Naclerio RM, Loughlin GM. 
+Respiratory compromise after adenotonsillectomy in children with 
+obstructive sleep apnea. Arch Otolaryngol Head Neck Surg 1992;118: 
+940–3. 
+[7] Amin RS, Kimball TR, Bean JA, Jeffries JL, Willing JP, Cotton RT, 
+Witt SA, Glascock BJ, Daniels SR. Left ventricular hypertrophy and 
+abnormal ventricular geometry in children and adolescents with 
+obstructive sleep apnea. Am J Respir Crit Care Med 2002;165: 
+1395–9. 
+[8] Sahn 
+DJ, DeMaria A, Kisslo J, Weyman A. Recommendations 
+regarding quantitation in M-mode echocardiography: results of a 
+survey of echocardiographic measurements. Circulation 1978;58: 
+1072–83. 
+[9] Devereux RB, Alonso DR, Lutas EM, Gottlieb GJ, Campo E, Sachs I, 
+Reichek N. Echocardiographic assessment of left ventricular 
+hypertrophy: comparison to necropsy findings. Am J Cardiol 1986; 
+57:450–8. 
+[10] de Simone G, Daniels SR, Devereux RB, Meyer RA, Roman MJ, 
+de Divitiis O, Alderman MH. Left ventricular mass and body size in 
+normotensive children and adults: assessment of allometric relations 
+and impact of overweight. J Am Coll Cardiol 1992;20:1251–60. 
+[11] Daniels SR, Meyer RA, Liang YC, Bove KE. Echocardiographically 
+determined left ventricular mass index in normal children, adolescents 
+and young adults. J Am Coll Cardiol 1988;12:703–8. 
+[12] Kuczmarski 
+RJ, Ogden CL, Grummer-Strawn LM, Flegal KM, 
+Guo SS, Wei R, Mei Z, Curtin LR, Roche AF, Johnson CL. CDC 
+growth charts: United States. Adv Data 2000;1–27. 
+[13] Rosenfeld 
+RM, Green RP. Tonsillectomy and adenoidectomy: 
+changing trends. Ann Otol Rhinol Laryngol 1990;99:187–91. 
+[14] McGowan FX, Kenna MA, Fleming JA, O’Connor T. Adenotonsillectomy 
+for upper airway obstruction carries increased risk in children 
+with a history of prematurity. Pediatr Pulmonol 1992;13:222–6. 
+[15] Galvis AG. Pulmonary edema complicating relief of upper airway 
+obstruction. Am J Emerg Med 1987;5:294–7. 
+[16] Amin RS, Jeffries JL, Witt SA, Glascock BJ, Kimball TR, Daniels SR. 
+Left ventricular function in children with obstructive sleep apnea. 
+Am J Respir Crit Care Med 2003;167:A167. 
+[17] Pagel PS, Warltier DC. Anesthetics and left ventricular function. In: 
+Warltier DC, editor. Ventricular function. Baltimore: Williams and 
+Wilkins; 1995. p. 213–52. 
+[18] Vivien B, Hanouz JL, Gueugniaud PY, Lecarpentier Y, Coriat P, 
+Riou B. Myocardial effects of halothane and isoflurane in hamsters 
+with hypertrophic cardiomyopathy. Anesthesiology 1997;87: 
+1406–16. 
+[19] Amin RS, Carroll JL, Jeffries JL, Grone C, Bean JA, Chini B, 
+Bokulic R, Daniels SR. Twenty-four-hour ambulatory blood pressure 
+in children with sleep-disordered breathing. Am J Respir Crit Care 
+Med 2004;169:950–6. 
+
+M. Kalra et al. / Sleep Medicine 6 (2005) 241–245 
+[20] Hoshide S, Kario K, Hoshide Y, Umeda Y, Hashimoto T, Kunii O, 
+Ojima T, Shimada K. Associations between nondipping of nocturnal 
+blood pressure decrease and cardiovascular target organ damage in 
+strictly selected community-dwelling normotensives. Am J Hypertens 
+2003;16:434–8. 
+[21] Fletcher EC, Lesske J, Behm R, Miller 3rd CC, Stauss H, Unger T. 
+Carotid chemoreceptors, systemic blood pressure, and chronic episodic 
+hypoxia mimicking sleep apnea. J Appl Physiol 1992;72:1978–84. 
+[22] Fletcher EC, Bao G. The rat as a model of chronic recurrent episodic 
+hypoxia and effect upon systemic blood pressure. Sleep 1996;19: 
+S210–S2. 
+[23] Daniels 
+SR, Kimball TR, Morrison JA, Khoury P, Meyer RA. 
+Indexing left ventricular mass to account for differences in body size 
+in children and adolescents without cardiovascular disease. Am 
+J Cardiol 1995;76:699–701. 
+[24] Hanevold C, Waller J, Daniels S, Portman R, Sorof J. The effects of 
+obesity, gender, and ethnic group on left ventricular hypertrophy and 
+geometry in hypertensive children: a collaborative study of the 
+International Pediatric Hypertension Association. Pediatrics 2004; 
+113:328–33. 
+[25] Schechter 
+MS. Technical report: diagnosis and management of 
+childhood obstructive sleep apnea syndrome. Pediatrics 2002;109: 
+e69. 
+[26] Redline S, Tishler PV, Schluchter M, Aylor J, Clarke K, Graham G. 
+Risk factors for sleep-disordered breathing in children. Associations 
+with obesity, race, and respiratory problems. Am J Respir Crit Care 
+Med 1999;159:1527–32. 
+[27] Daniels SR, Morrison JA, Sprecher DL, Khoury P, Khimball TR. 
+Association of body fat distribution and cardiovascular risk factors in 
+children and adolescents. Circulation 1999;99:541–5. 
+

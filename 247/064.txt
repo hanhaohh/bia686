@@ -1,0 +1,403 @@
+ENURESIS IN CHILDREN WITH SLEEP APNEA 
+
+LEEJ.BROOKS,MD, AND HOWARD I.TOPOL 
+
+Objectives To test the hypothesis that the presence of nocturnal enuresis is related to the severity of sleep apnea, we examined 
+the relation between the Respiratory Disturbance Index (RDI, apneas plus hypopneas per hour of sleep) and the presence 
+and severity of enuresis. 
+
+Study design All children 4 years of age and older who were referred to our sleep center for suspected sleep disordered breathing 
+(SDB) were asked whether and how frequently they currently wet the bed. All patients underwent full overnight polysomnography 
+(PSG). The relation between RDI and enuresis was examined by .2 analysis. A value of P < .05 was considered statistically 
+significant. 
+
+Results Ninety boys and 70 girls were studied; 66 children (41%) described current enuresis. At all ages, enuresis was more 
+prevalent in our patients than control patients in the literature. Children with an RDI of =1 had a significantly lower prevalence 
+of enuresis (17%) than did children with an RDI >1 (47%) (P < .05). Fourteen percent of children with an RDI =1 had frequent 
+enuresis, compared with 32% of children with an RDI >1 (P < .05). There was no significant difference in the prevalence of 
+enuresis in children with an RDI 1 to 5, 5 to 15, or >15 (P = .92). 
+
+Conclusions There is a high prevalence of enuresis in children with suspected sleep-disordered breathing. Children with an 
+RDI >1 were at higher risk for enuresis than children with an RDI =1. This may be due to the effects of obstructive sleep apnea 
+on arousal response, bladder pressure, or urinary hormone secretion. (J Pediatr 2003;142:515-8) 
+
+S
+S
+everal anecdotal reports describe a relation between nocturnal enuresis and 
+obstructive sleep apnea (OSA) in adults1-6 and children.7-10 Weider et al11 reported 
+on 115 children with upper airway obstruction and enuresis, but only 11 of the 115 
+children had polysomnography (PSG). To determine the prevalence of nocturnal enuresis 
+in a group of children referred for suspected sleep-disordered breathing (SDB) and 
+whether the presence of enuresis is related to the severity of SDB, we examined the relation 
+between sleep disordered breathing and parental report of enuresis in 160 children referred 
+to our sleep center. 
+
+METHODS 
+
+Children who were referred to our pediatric sleep center (n = 160) underwent a detailed 
+history, including a standard questionnaire, and a full physical examination. Patients 
+and their families were asked whether or not the child currently wet the bed, and whether 
+or not they had ever been dry for a 6-month period. The severity of enuresis was defined by 
+the following criteria: frequently (=3/wk), sometimes (1 to 2/wk), rarely (<1/wk), or 
+never. All patients underwent full overnight PSG. Patients reported to the laboratory for 
+PSG 1 hour before their usual bedtime. Sixteen parameters were recorded. Six electroencephalographic 
+leads (bilateral frontal, central, and occipital), bilateral electro-oculographic 
+
+ADH Antidiuretic hormone 
+ANP Atrial natriuretic peptide 
+OSA Obstructive sleep apnea 
+PSG Polysomnography 
+RDI Respiratory disturbance index 
+SDB Sleep-disordered breathing 
+
+From the Division of Pulmonary Medicine,
+The Children’s Hospital of Philadelphia, 
+University of Pennsylvania, 
+Philadelphia, Pennsylvania, and UMDNJ 
+–New Jersey Medical School, Newark, 
+New Jersey. 
+The authors have no potential, perceived, 
+or real conflict of interest. 
+
+
+Submitted for publication Aug 21, 2001; 
+revision received Dec 23, 2002; accepted 
+Jan 22, 2003. 
+
+
+Reprint requests: Lee J. Brooks, MD, Division 
+of Pulmonary Medicine,The Children’s 
+Hospital of Philadelphia, 34th St 
+at Civic Center Blvd, Philadelphia, PA 
+19104. E-mail: brooksl@email.chop.edu. 
+
+
+Copyright © 2003 Mosby, Inc. All rights 
+reserved. 
+0022-3476/2003/$30.00 + 0 
+
+
+10.1067/mpd.2003.158 
+
+
+Figure. Prevalence of nocturnal enuresis in 160 children referred for 
+suspected SDB. Frequent enuresis was defined as wetting the bed 3 
+nights per week or more. 
+
+Table. Patient demographics 
+Male Female 
+n = 90 n = 70 
+% With enuresis 49% 31%* 
+Age (y) 9.7 ± 3.6 9.4 ± 3.6 
+BMI (kg/m2) 22.2 ± 7.9 24.0 ± 9.8 
+RDI 11.3 ± 18.8 8.3 ± 13.4 
+
+Mean ± SD. 
+
+*P < .05. 
+
+leads, and submental electromyographic leads were applied. 
+These surface leads were used to measure the stages of sleep, 
+including time spent in rapid eye movement (REM) sleep. 
+Motion of the chest wall and abdomen were measured by respiratory 
+inductance plethysmography (Respitrace, Ambulatory 
+Monitoring Inc, Ardsley, NY). Air flow from the nose and 
+mouth was measured with thermocouples. Oxyhemoglobin 
+saturation was measured by pulse oximetry (N-200, Nellcor 
+Inc, Hayward, Calif ). Body motion was recorded with pretibial 
+electromyographic leads. Cardiac rhythm was monitored 
+with standard electrocardiographic leads. All signals were 
+recorded with 18- or 21-channel recorders (Model 78D, Grass 
+Instruments, Quincy, Mass, or Model 4421A, Nihon Kohden, 
+Irvine, Calif ). The patient and the strip chart were simultaneously 
+videotaped with the use of split-screen technology to 
+allow simultaneous review of physical and electrophysiologic 
+findings. 
+
+516 Brooks and Topol 
+
+Central apnea was defined as a 10-second period without 
+air flow or respiratory effort. Obstructive apnea was defined 
+as cessation of air flow for at least 10 seconds with 
+paradoxic respiratory effort. Partial obstruction was defined as 
+reduction in air flow with paradoxic chest wall and abdominal 
+motion, resulting in either an arousal or an oxyhemoglobin 
+desaturation of at least 4%. Hypopnea was defined as a reduction 
+in air flow with synchronous chest wall and abdominal 
+motion, resulting in either arousal or oxyhemoglobin desaturation 
+of least 4%. 
+
+The type, number, and duration of respiratory events 
+were noted, as well as the median and minimum oxyhemoglobin 
+saturation. The Respiratory Disturbance Index (RDI) was 
+calculated as the average number of respiratory events per 
+hour of sleep. 
+
+Since the RDI was not normally distributed but skewed 
+toward lower values, nonparametric statistics were used. Differences 
+between boys and girls were examined by .2 or 
+Mann-Whitney rank-sum test. The relation between RDI 
+and age and body mass index (BMI) was examined by Spearman 
+rank correlation coefficient. The relation between RDI 
+and enuresis was examined by .2 analysis. A value of P < .05 
+was considered statistically significant. The research was approved 
+by the institutional review board. Informed consent 
+was deemed not necessary because these data were routinely 
+collected as part of standard clinical care. 
+
+RESULTS 
+
+The mean age of the children (n = 160) was 9.6 ± 3.58 
+SD years, ranging from 4.2 to 17.9 years. There was no relation 
+between RDI and age (rS = –.15, P > .20). There were 90 
+boys and 70 girls. A total of 66 children (41%) currently described 
+enuresis. Forty-nine percent of the boys were enuretic 
+compared with 31% of the girls (P < .05). There was no difference 
+in the RDI of the boys and girls (P = .91) (Table). The 
+mean BMI (kg/m2) was 22.6 ± 8.71, ranging from 12.9 to 
+
+64.2. There was no relation between BMI and RDI (rS = 0.09, 
+P > .5) or the presence of enuresis (.2 = 3.08, P = .55). 
+Enuresis was more prevalent in the younger children, 
+but at all ages, enuresis was more prevalent in our patients 
+than in control patients in the literature.12,13 Sixty-four percent 
+of the children who wet the bed had primary enuresis, 
+whereas 36% had secondary enuresis. 
+
+Children with an RDI =1 had a significantly lower 
+prevalence of nocturnal enuresis (27%) than did children with 
+an RDI >1 (47%; .2 = 4.13, P < .05). Fourteen percent of children 
+with an RDI =1 had enuresis frequently (=3 nights per 
+week), compared with 32% of children with an RDI >1 (.2= 
+4.52, P < .05). There was no significant difference in the 
+prevalence of enuresis between children with RDIs 1 to 5, 5 to 
+15,or >15 (.2 =.18, P = .92) (Figure). 
+
+DISCUSSION 
+
+These data demonstrate a high prevalence of nocturnal 
+enuresis in children with suspected SDB. Children with more 
+than one respiratory event per hour of sleep (RDI >1) were at 
+significantly greater risk of enuresis than were children with an 
+
+The Journal of Pediatrics • May 2003 
+
+
+RDI =1. In other studies, one obstructive apnea per hour of sleep 
+has been suggested as the upper limit of normal for children.14 
+
+The predisposition of boys to nocturnal enuresis and the 
+
+3:1 ratio of primary to secondary enuresis are similar to descriptions 
+of otherwise normal children.15 Wang et al16 found 
+nocturnal enuresis in 24 of 82 children (29%) referred for suspected 
+OSA. Eleven of the 24 had OSA confirmed on 
+polysomnography, but no data were reported on the severity 
+of OSA. Brouillette et al17 found nocturnal enuresis in 8% of 
+children with OSA compared with 4% of control children. 
+However, this was not a statistically significant difference, 
+probably because of the small number of patients.17 
+Several reports in adults2-6 and children7-11,18 describe 
+patients with obstructive sleep apnea whose enuresis resolved 
+on treating their OSA with continuous positive airway pressure 
+(CPAP), dental devices, or adenotonsillectomy. Despite 
+these reports, of 10 recent reviews of nocturnal enuresis in 
+children, only 2 reviews19,20 mention SDB as a possible cause 
+or association.21-28 
+
+Why might children with SDB be at risk for nocturnal 
+enuresis? Proposed causes for nocturnal enuresis include insufficient 
+arousal response, impaired urodynamics, and insufficient 
+vasopressin production during sleep. 
+
+Children who wet the bed are reported by their parents 
+to be more difficult to arouse from sleep than children without 
+enuresis.29 Weider reported that “...a number of patients (with 
+upper airway obstruction) who could not be aroused before 
+surgery were able to wake up and go to the bathroom by 
+themselves after surgery.”11 SDB may therefore promote 
+enuresis by decreasing the arousal response,30 perhaps because 
+of sleep fragmentation.30-32 
+
+Daytime urodynamics are similar in children with and 
+without enuresis.33 However, the increased intra-abdominal 
+pressure caused by respiratory efforts against an obstructed 
+airway can be transmitted to the bladder. Cystometrography 
+has demonstrated that bladder pressure during sleep may rise 
+as high as 60 cm H20 in conjunction with respiratory efforts 
+against an obstructed upper airway, in contrast to pressures of 
+approximately 5 cm H20 during quiet wakefulness.1 Thus, 
+OSA may promote enuresis by increasing bladder pressure. 
+
+Finally, SDB can affect the secretion of urinary hormones 
+such as atrial natriuretic peptide (ANP) and antidiuretic 
+hormone (ADH). 
+
+Adults with OSAS have elevated ANP and decreased 
+ADH,34-36 and the normal nocturnal decrease in urine output 
+does not occur.35-37 In patients with OSA, plasma ANP correlates 
+negatively with cumulative apnea duration and lowest 
+SaO2 and positively with the highest change in intrathoracic 
+pressure.34 This may be due to the more negative intrathoracic 
+pressures increasing atrial volume, thus stimulating ANP production. 
+Acute hypoxemia may result from central or obstructive 
+respiratory events and may stimulate ANP secretion.38 
+Urine output, sodium excretion, and secretion of ANP all decrease 
+while renin and aldosterone increase with successful 
+treatment of OSA.34,36,37,39,40 
+
+Our patient sample was referred for suspected SDB, and 
+it is possible that nocturnal enuresis was a factor in the pri-
+
+Enuresis in Children With Sleep Apnea 
+
+mary physicians’ decision to refer, thus inflating our reported 
+prevalence of enuresis. Despite this, we believe that the association 
+between nocturnal enuresis and OSAS is real, with a 
+reasonable physiologic basis. Obstructive sleep apnea, which 
+can usually be easily treated, should be considered in the differential 
+diagnosis of nocturnal enuresis in children. 
+
+The authors thank Diane Brandenburg and Jessica Ortiz for assistance 
+in the preparation of the manuscript. 
+
+REFERENCES 
+
+1. Yokoyama O, Amano T, Lee S, Ishiura Y, Ohkawa M, Furuta H. Enuresis 
+in an adult female with obstructive sleep apnea. Urology 1995;45:150-4. 
+2. Everaert K, Pevernagie D, Oosterlinck W. Nocturnal enuresis provoked 
+by an obstructive sleep apnea syndrome. J Urol 1995;153:1236. 
+3. Ulfberg J, Thuman R. A non-urologic cause of nocturia and enuresis: 
+obstructive sleep apnea syndrome. Scan J Urol Nephrol 1996;30:135-7. 
+4. Steers WD, Suratt P. Sleep apnoea as a cause of daytime and nocturnal 
+enuresis. Lancet 1997;349:1604. 
+5. Arai H, Furuta H, Koshino Y, Sano J. Long term effects of a dental appliance 
+therapy: a case of obstructive sleep apnea syndrome with enuresis [letter]. 
+Sleep 1997;20:158-9. 
+6. Kramer NR, Bonitati AE, Millman RF. Enuresis and obstructive sleep 
+apnea in adults. Chest 1998;114:634-7. 
+7. Wengraf C. Management of enuresis [letter]. Lancet 1997;350:221-2. 
+8. Simmons FB, Guilleminault C, Dement WC, Tilkian AG, Hill M. Surgical 
+management of airway obstructions during sleep. Laryngoscope 
+1977;87:326-38. 
+9. Timms DJ. Rapid maxillary expansion in the treatment of nocturnal 
+enuresis. Angle Orthodontist 1990;60:229-33. 
+10. Sakai J, Herbert F. Secondary enuresis associated with obstructive sleep 
+apnea [letter]. J Am Acad Child Adolesc Psychiatry 2000;39:140-1. 
+11. Weider DJ, Sateia MJ, West RP. Nocturnal enuresis in children with 
+upper airway obstruction. Otolaryngol Head Neck Surg 1991;105:427-32. 
+12. Oppel WC, Harper PA, Rider RV. The age of attaining bladder control. 
+Pediatrics 1968;42:614-26. 
+13. Sheldon SH, Spire JP, Levy HB. Sleep-related enuresis. In: Pediatric 
+sleep medicine. Philadelphia: WB Saunders; 1992. p. 151-66. 
+14. Marcus CL, Omlin KJ, Basinki DJ, Bailey SL, Rachal AB, Von Pechmann 
+WS, et al. Normal polysomnographic values for children and adolescents. 
+Am Rev Respir Dis 1992;146:1235-9. 
+15. Rushton HG. Wetting and functional voiding disorders. Urol Clin 
+North Am 1995;22:75-93. 
+16. Wang RC, Elkins TP, Keech D, Wauquier A, Hubbard D. Accuracy of 
+clinical evaluation in pediatric obstructive sleep apnea. Otolaryngol Head 
+Neck Surg 1998;118:69-73. 
+17. Brouillette RT, Hanson D, David R, Klemka L, Szatkowski A, Fernbach 
+S, et al. A diagnostic approach to suspected obstructive sleep apnea in 
+children. J Pediatr 1984;105:10-4. 
+18. Wang RC, Vordemark J. Effects of sleep apnea treatment upon enuresis 
+in children. Surg Forum 1994;45:643-4. 
+19. Neveus T, Lackgren G, Tuvemo T, Hetta J, Hjalmas K, Stenberg A. 
+Enuresis—background and treatment. Scand J Urol Nephrol Suppl 
+2000;206:1-44. 
+20. Robson WLM, Leung AKC. Secondary nocturnal enuresis. Clin Pediatr 
+2000;39:379-85. 
+21. Schmitt BD. Nocturnal enuresis. Pediatr Rev 1997;18:183-90. 
+22. Lettgen B. Differential diagnoses for nocturnal enuresis. Scand J Urol 
+Nephrol 1997;183:47-8. 
+23. Gimpel GA, Warzak WJ, Kuhn BR, Walburn JN. Clinical perspectives 
+in primary nocturnal enuresis. Clin Pediatr 1998;37:23-30. 
+24. Chandra M. Nocturnal enuresis in children. Curr Opin Pediatr 
+1998;10:167-73. 
+
+25. Goin RP. Nocturnal enuresis in children. Child Care Health Dev 
+1998;4:277-88. 
+26. Nijman RJM. Pediatric voiding dysfunction and enuresis. Current Opin 
+Urol 2000;10:365-70. 
+27. Harari MD, Moulden A. Nocturnal enuresis: what is happening? J Paediatr 
+Child Health 2000;36:78-81. 
+28. Butler RJ, Holland P. The three systems: a conceptual way of understanding 
+nocturnal enuresis. Scand J Urol Nephrol 2000;34:270-7. 
+29. Neveus T, Hetta J, Cnattingius S, Tuvemo T, Lackgren G, Olsson U, et 
+al. Depth of sleep and sleep habits among enuretic and incontinent children. 
+Acta Paediatr 1999;88:748-52. 
+30. Berry RB, Kouchi KG, Der DE, Dickel MJ, Light RW. Sleep apnea 
+impairs the arousal response to airway occlusion. Chest 1996;109:1490-6. 
+31. Phillipson EA, Bowes G, Sullivan CE, Woolf GM. The influence of 
+sleep fragmentation on arousal and ventilatory repsonses to respiratory stimuli. 
+Sleep 1980;3:281-8. 
+32. Downey B, Bonnet MH. Performance during frequent sleep disruption. 
+Sleep 1987;10:354-63. 
+33. Norgaard JP, Rittig S, Djurhuus JC. Nocturnal enuresis: an approach to 
+treatment based on pathogenesis. J Pediatr 1989;114:705-10. 
+34. Krieger J, Follenius M, Sforza E, Brandenberger G, Peter JD. Effects of 
+treatment with nasal continuous positive airway pressure on atrial natriuretic 
+peptide and arginine vasopressin release during sleep in patients with obstructive 
+sleep apnea. Clin Sci 1991;80:443-9. 
+35. Ichioka M, Hirata Y, Inase N, Tojo N, Yoshizawa M, Chida M, et al. 
+Changes of circulating atrial natriuretic peptide and antidiuretic hormone in 
+obstructive sleep apnea syndrome. Respiration 1992;59:164-8. 
+36. Lin C, Tsan K, Lin C. Plasma levels of atrial natriuretic factor in moderate 
+to severe obstructive sleep apnea syndrome. Sleep 1993;16:37-9. 
+37. Rodenstein DO, D’Odemont JP, Pieters T, Aubert-Tulkens G. Diurnal 
+and nocturnal diuresis and natriuresis in obstructive sleep apnea. Am Rev 
+Respir Dis 1992;145:1367-71. 
+38. Baertschi AJ, Adams JM, Sullivan MP. Acute hypoxemia stimulates 
+atrial natriuretic factor secretion in vivo. Am J Physiol 1988;255:H295-300. 
+39. Baruzzi A, Riva R, Cirignotta F, Zucconi M, Cappelli M, Lugaresi E. 
+Atrial natriuretic peptide and catecholamines in obstructive sleep apnea syndrome. 
+Sleep 1991;14:83-6. 
+40. Follenius M, Krieger J, Krauth MO, Sforza F, Brandenberger G. Obstructive 
+sleep apnea treatment: peripheral and central effects on plasma renin 
+activity and aldosterone. Sleep 1991;14:211-7. 
+O
+O
+Send us your new address at least six weeks ahead 
+N THE MOVE? 
+
+Don’t miss a single issue of the journal! To ensure prompt service when you change your address, 
+please photocopy and complete the form below. 
+
+Please send your change of address notification at least six weeks before your move to ensure continued service. 
+We regret we cannot guarantee replacement of issues missed due to late notification. 
+
+JOURNAL TITLE: 
+
+Fill in the title of the journal here. 
+
+OLD ADDRESS: 
+
+Affix the address label from a recent issue of the journal here. 
+
+COPY AND MAIL THIS FORM TO: 
+
+Mosby 
+Subscription Customer Service 
+6277 Sea Harbor Dr 
+Orlando, FL 32887 
+
+NEW ADDRESS: 
+
+Clearly print your new address here. 
+Name 
+Address 
+City/State/ZIP 
+
+
+OR FAX TO: OR PHONE: 
+
+407-363-9661 800-654-2452 
+
+
+Outside the US, call 
+407-345-4000 
+
+518 Brooks and Topol The Journal of Pediatrics • May 2003 
+
+

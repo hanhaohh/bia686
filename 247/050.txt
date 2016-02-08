@@ -1,0 +1,737 @@
+Copyright #ERS Journals Ltd 2001 
+Eur Respir J 2001; 18: 164–169 European Respiratory Journal 
+Printed in UK – all rights reserved ISSN 0903-1936 
+
+Total energy expenditure in children with obstructive sleep apnoea 
+syndrome 
+
+R.M. Bland*, S. Bulgarelli#,}, J.C. Ventham#, D. Jackson*, J.J. Reilly#, J.Y. Paton* 
+Total energy expenditure in children with obstructive sleep apnoea syndrome. R.M. 
+Bland, S. Bulgarelli, J.C. Ventham, D. Jackson, J.J. Reilly, J.Y. Paton. #ERS 
+Journals Ltd 2001. 
+
+ABSTRACT: Childhood obstructive sleep apnoea syndrome (OSAS) acts as a check on 
+growth and nutritional status. An increase in sleeping energy expenditure has been 
+proposed as a possible mechanism, but to date, no studies have determined whether 
+energy requirements (total energy expenditure; TEE) are raised in OSAS. The aim of 
+this study was to test the hypothesis that OSAS is associated with increased TEE. 
+
+Eleven children (mean¡SD 5.8¡2.2 yrs of age) with OSAS confirmed by nocturnal 
+polysomnography were each matched with a pair of healthy controls (n~22) of the same 
+age and sex. TEE was measured using the doubly-labelled water method in all subjects. 
+In 10/11 patients TEE was also measured after adenotonsillectomy and changes in TEE 
+assessed. 
+
+There was no significant difference in TEE between patients (mean¡SD 
+325¡44 kJ?kg-1?day-1) and controls (339¡48 kJ?kg-1?day-1), nor between patients 
+and age-and sex-specific literature data on TEE, using the doubly-labelled water 
+method. Differences in TEE within patients, before versus after surgery, were minor 
+and not statistically significant. 
+
+This study does not support the hypothesis that obstructive sleep apnoea syndrome in 
+childhood is associated with increased energy requirements, and suggests that 
+alternative explanations for the effect of this syndrome on growth and energy balance 
+should be sought. 
+Eur Respir J 2001; 18: 164–169. 
+
+University of Glasgow, Depts of *Child 
+Health and #Human Nutrition, York-
+hill Hospitals, Glasgow, UK, and }Dept 
+of Paediatrics, University of Modena, 
+Modena, Italy. 
+
+
+Correspondence: J.J. Reilly, Dept of 
+Human Nutrition, Yorkhill Hospitals, 
+Glasgow, G3 8SJ, UK. 
+Fax: 44 1412019275 
+
+
+Keywords: Adenotonsillar hypertrophy 
+doubly-labelled water method 
+failure to thrive 
+metabolic rate 
+obesity 
+
+
+Received: December 9 1999 
+Accepted after revision March 7 2001 
+
+
+The study was funded by the Royal 
+Society and by a Leonardo Scholarship 
+to S. Bulgarelli. 
+
+
+Obstructive sleep apnoea syndrome (OSAS) is 
+common in childhood, and is often associated with 
+failure to thrive [1–4]. The cause of failure to thrive in 
+children with OSAS is unknown. A number of 
+features of OSAS might predispose children to 
+growth and nutritional problems, including increased 
+energy expenditure, anorexia or dysphagia as a result 
+of adenotonsillar hypertrophy and/or recurrent infection, 
+abnormal growth hormone secretion, and 
+nocturnal hypoxia [5–8]. 
+
+Following tonsillectomy and/or adenoidectomy, 
+growth and nutritional status tend to improve in 
+children with OSAS. In children with failure to thrive, 
+this may lead to a resolution of the nutritional 
+problem [1, 4, 5, 9] while in children with OSAS 
+who are overweight or obese, the nutritional problem 
+typically becomes more severe [9]. These clinical 
+observations imply that OSAS in childhood is 
+associated with a "check" 
+on positive energy balance, 
+and that this check is not restricted to patients with 
+failure to thrive, but applies across the entire spectrum 
+of growth and nutritional status. 
+
+There is some evidence that increased energy 
+expenditure might act as the check on positive 
+energy balance in OSAS. MARCUS et al. [5] demonstrated 
+substantial declines in sleeping energy expenditure 
+(SEE) in 14 children with OSAS after 
+
+adenotonsillectomy. In the absence of obvious 
+changes in energy intake before and after surgery, 
+MARCUS et al. [5] suggested that hypermetabolism, 
+secondary to increased work of breathing during 
+sleep, might be responsible for failure to thrive in 
+OSAS. STENLOF et al. [10] studied five adults with 
+OSAS and reported that sleeping energy expenditure 
+and 24-h energy expenditure in a whole body 
+calorimeter were significantly increased relative to 
+controls, and declined after treatment. Neither of 
+these studies measured TEE, but in order to conclusively 
+demonstrate hypermetabolism, that is to establish 
+that any increase in SEE results in increased total 
+energy expenditure, it is necessary to measure TEE 
+directly in free living subjects. At present, this can only 
+be done accurately using the doubly-labelled water 
+method.An experimentofthiskindis essential 
+because any increase in SEE might be offset by 
+alterations in other components of energy balance, 
+such as reduced activity during the day [11, 12]. 
+Measurement of TEE has usefully identified causes of 
+energy imbalance in a number of chronic diseases 
+including childhood leukaemia [12, 13], human 
+immunodeficiency virus infection [14], Rett syndrome 
+
+[15] and cystic fibrosis [16]. The aim of the present 
+study was therefore to test the hypothesis that TEE is 
+increased in children with OSAS. 
+
+ENERGY EXPENDITURE IN OSAS CHILDREN 
+
+Methods 
+
+Comparison of total energy expenditure between 
+patients and healthy controls 
+
+TEE was measured before surgery in 11 patients. In 
+all cases, polysomnography was used to confirm the 
+presence of OSAS. In order to test the hypothesis that 
+OSAS is a hypermetabolic state, TEE was compared 
+with controls matched for age (within 12 months), 
+sex, and season (within 2 months), using two controls 
+for each patient with OSAS. As a further test for 
+abnormalities in TEE in OSAS, measurements of TEE 
+were compared against two published sources of data 
+on childhood energy requirements; estimated average 
+energy requirement (EAR) from UK dietary reference 
+values [17] and empirically derived values from a 
+published compilation of TEE measurements in 
+childhood [18]. 
+
+Patients and clinical assessments 
+
+Eleven patients (nine Caucasian, two Asian), with a 
+clinical history of OSAS and who were on the waiting 
+list for adenotonsillectomy were recruited (table 1). 
+Decisions in relation to clinical management were 
+made independently of the study. All children had 
+been referred to an ear/nose/throat (ENT) surgeon 
+with a history of snoring, restlessness, and periods of 
+apnoea reported by parents during sleep. In all cases, 
+the surgeons judged the children to have adenotonsillar 
+hypertrophy on clinical grounds, and had listed 
+them for adenotonsillectomy. All patients were free of 
+other diseases relevant to their energy balance, and 
+were not taking any medication that would have 
+influenced their energy balance. 
+
+For the purposes of the research, the presence of 
+OSAS was confirmed by overnight polysomnography, 
+performed using a portable digital recording polygraphic 
+system (Snytectics Medical, Stockholm, 
+Sweden). Monitoring was continuous and included 
+measurement of oxygen saturation, monitoring of 
+
+Table 1. – Characteristics of patients 
+
+oro-nasal airflow, respiratory and abdominal movements 
+by impedance (Medtronic Synectics AB, 
+Renstiernas Gata 12, Stockholm, Sweden), and heart 
+rate (both by electrocardiography and from the pulse 
+oximeter signal). Sleep states and periods of arousal 
+were not measured. No data were obtained on 
+hypoventilation index and neither end tidal nor 
+transcutaneous carbon dioxide (CO2) was measured. 
+All sleep studies were performed and analysed by an 
+experienced technician who was unaware of the 
+patients condition or whether the assessment was 
+pre-or postsurgery. Obstructive apnoeas were defined 
+as w6 s in duration. Monitoring was performed 
+overnight during a natural sleep in hospital with 
+sleeping times (presurgery) which ranged from 5 h 
+26 min-9 h 55 min. Before surgery, polysomnographic 
+studies in all patients showed evidence of obstructive 
+episodes with an apnoea index of w1.0 [5]. 
+
+Measurement of body composition and nutritional 
+status 
+
+In all patients and controls, body fatness and fat-
+free mass were estimated from total body water 
+(TBW), assumed to be equal to the dilution space of 
+
+18 (18
+
+oxygen O) [19]. Measurements of TBW were 
+converted to estimates of fat-free mass using the 
+appropriate age and sex specific "constants" 
+for 
+hydration of fat-free mass proposed by LOHMAN [20] 
+
+Nutritional status was assessed quantitatively using 
+the body mass index (BMI), expressed as an SD score 
+relative to contemporary UK reference data [21] after 
+measurement of height to 0.1 cm using a portable 
+stadiometer (Leicester Height Measure/Invitica 
+Oadby, Leicester, UK) and weight to 0.1 kg in light 
+indoor clothing using Soehule scales (Seca Alpha 
+M770, Dusseldorf, Germany). The BMI is a simple, 
+clinical proxy for body fatness and fat-free mass and is 
+a useful index of "protein-energy status" 
+[22]. Height 
+and weight were also expressed as SD scores relative to 
+UK 1990 reference data. 
+
+Adjustment of BMI to SD scores and use of energy 
+
+Patient Age 
+yrs 
+Height 
+m 
+Height 
+SD 
+Weight 
+kg 
+Weight 
+SD 
+BMI 
+kg?m -2 
+BMI 
+SD 
+Total Sleep 
+Time h 
+Minimum 
+Sa,O2 %* 
+Apnoea Index 
+Pre Post 
+1 9.1 1.33 -0.1 26.0 -0.8 14.8 -0.9 6.5 92 1.2 
+2 4.6 1.10 0.7 19.5 0.8 16.2 -0.5 8.0 91 6.7 11.0 
+3 10.2 1.32 -1.2 25.1 -1.7 14.5 -1.1 7.4 91 3.2 5.2 
+4 6.6 1.12 -1.6 17.7 -1.9 14.2 -1.1 8.0 83 9.0 8.9 
+5 3.3 0.88 -2.6 12.0 -2.2 15.5 -0.4 7.0 78 6.5 6.0 
+6 3.2 0.94 -0.9 12.9 -1.5 14.6 -1.3 5.5 63 4.4 2.4 
+7 3.4 1.00 0.4 20.2 2.2 20.1 2.6 7.7 86 5.4 
+8 5.8 1.13 -0.4 27.3 2.1 21.4 3.0 6.7 92 1.2 1.8 
+9 4.3 1.09 1.0 20.0 -0.2 16.8 0.9 8.3 83 2.2 1.3 
+10 6.7 1.07 -2.6 19.5 -1.1 16.9 0.1 9.0 88 5.2 
+11 5.6 1.11 -0.6 19.9 -0.1 16.1 0.5 9.9 87 2.3 
+Mean 5.7 0.91 -0.7 20.0 -0.4 16.5 0.2 7.6 85 4.3 5.2 
+SD 2.3 0.12 1.2 4.9 1.5 2.3 1.5 1.2 8 2.5 3.7 
+
+*: Oxygen saturation (Sa,O2) in all patients of baseline was w95% and each patient experienced a fall of ¢6%. SD: standard 
+deviation score relative to data from [21]; BMI: Body mass index. 
+
+
+R.M. BLAND ET AL. 
+expenditure per kg body mass minimized the effect of 
+any differences between patients and controls. 
+
+Measurement of energy expenditure 
+
+The doubly-labelled water method was used to 
+measure TEE over a 12/13 day period, using a 
+protocol described elsewhere [12, 16]. In brief, each 
+child received a weighed, sterilized oral dose of 
+
+1.6 mL?kg-1 18O (10% enriched) that was mixed with 
+0.06 mL?kg-1 2H (99.9% enriched deuterium oxide). 
+Isotopic enrichments of urines and diluted doses were 
+measured using isotope ratio mass spectrometry 
+(Bureau of Stable Isotope Analysis, London, UK). 
+Total energy expenditure was calculated from disappearance 
+rates of 18O and 2H using equation A6 of 
+SCHOELLER et al. [23] and a food quotient of 0.87 
+which gave an energy equivalent for CO2 production 
+of 23.7 KJ?L-1. Mean ratio of dilution spaces (2H/18O) 
+was 1.05¡0.02. 
+Statistical analyses 
+
+Paired differences in total energy expenditure between 
+patients and the mean of the two controls were 
+tested for significance using a paired t-test. Energy 
+expenditure data were expressed as kJ?kg-1?day-1 for 
+the purposes of statistical analysis. Both body mass 
+and fat-free mass were highly correlated with TEE, 
+and the conclusions obtained did not differ as a 
+function of the "denominator" 
+used to express TEE. 
+For clarity of presentation, and ease of comparison 
+with other studies, TEE data are described here as 
+kJ?kg-1?day-1. 
+
+Results 
+
+Characteristics of patients and controls 
+
+Characteristics of the patients (before and after 
+surgery) are given in table 1. None of the patients 
+had a maxillofacial syndrome recognized as being 
+
+associated with obstructive sleep apnoea (e.g. Treacher 
+Collins or Crouzons disease). 
+
+Overnight polysomnography was carried out in all 
+patients prior to surgery, but in only seven of the 11 
+patients after surgery (one moved away from the area 
+and was lost to follow-up; two did not consent to a 
+second polysomnographic procedure; technical failure 
+prevented polysomnography in one other). In the 
+seven patients with postsurgery polysomnography, 
+apnoea index improved in three, worsened in three, 
+and was identical to the presurgery assessment in 
+another. Overall, apnoea index actually worsened 
+slightly after surgery (table 1), though the change was 
+not statistically significant (paired t-test). 
+
+Age, fat-free mass, height, weight and BMI SD 
+scores did not differ significantly between patients 
+and controls. Characteristics of controls are given in 
+table 2. 
+
+Total energy expenditure: comparison between 
+patients, healthy controls, and literature values 
+
+Data on measured TEE in patients and controls, 
+together With TEE estimated from two literature 
+sources, are given in table 3. There were no significant 
+differences in TEE between patients and controls: 
+mean paired difference (patients minus controls) was 
+-14 kJ?kg-1?day-1,p~0.43. No significant differences 
+were found between patients and age/sex specific 
+estimated average requirements [17], or between 
+patients and the compilation of literature data on 
+age and sex-specific TEE measured by doubly-labelled 
+water [18]. 
+
+Discussion 
+
+The present study suggests that children who have 
+OSAS, confirmed by polysomnography do not have 
+raised TEE. TEE in patients was actually slightly 
+lower than that of the healthy control children, but 
+did not differ significantly from controls, and was not 
+markedly different from literature data. In addition, it 
+is unlikely that the levels of TEE observed in patients 
+
+Table 2. – Characteristics of controls 
+
+Control Age yrs Height m Height SD Weight kg Weight SD BMI kg?m -2 BMI SD 
+1 10.0 1.39 0.1 32.2 0.0 16.7 3.4 
+2 5.6 1.22 1.7 24.7 1.5 16.4 0.7 
+3 10.0 1.47 1.4 41.0 1.4 18.8 1.1 
+4 7.2 1.26 0.5 26.9 0.9 17.1 0.9 
+5 3.6 1.03 0.6 16.1 0.0 15.2 -0.6 
+6 3.2 0.92 -1.4 13.5 -1.4 15.8 -0.2 
+7 3.7 1.02 0.3 16.3 0.1 15.6 0.4 
+8 6.8 1.27 1.2 26.7 1.1 17.1 1.0 
+9 4.0 0.98 -1.1 16.9 0.2 17.6 1.3 
+10 7.3 1.28 0.7 27.3 0.9 16.9 0.8 
+11 6.8 1.21 0.0 25.1 0.8 17.2 1.0 
+Mean 6.2 0.92 0.3 24.0 0.4 16.8 0.6 
+SD 2.4 0.17 1.0 8.1 0.8 1.1 0.7 
+
+Each entry represents the mean of two children, and no significant differences were observed between this control data and 
+patient data (table 1); SD: standard deviation score relative to data from [21]; BMI: body mass index. 
+
+
+ENERGY EXPENDITURE IN OSAS CHILDREN 
+
+Table 3. – Total energy expenditure (kJ?kg?day-1)in 
+patients and healthy controls 
+
+Patient Patients Patients Controls EAR DLW 
+control Presurgery Postsurgery 
+1 344 317 303 255 272 
+2 342 392 318 364 339 
+3 327 332 254 288 222 
+4 382 352 342 351 292 
+5 403 410 402 405 351 
+6 293 297 323 405 351 
+7 300 307 286 405 351 
+8 241 233 344 351 292 
+9 314 334 409 393 327 
+10 311 330 362 368 292 
+11 314 390 351 292 
+Mean 325 330 339 358 307 
+SD 44 49 48 48 41 
+
+Control values represent the mean of two control subjects, 
+matched for age and sex. EAR: estimated age-and sex-
+specific average requirement for energy for each patient [17]; 
+DLW: mean age-and sex-specific total energy expenditure 
+from a compilation of doubly-labelled water measurements 
+[18]. 
+
+with OSAS in this study, lower than UK estimated 
+average requirements for energy [17], would have been 
+sufficient to produce failure to thrive or act as a 
+constraint on growth or nutritional status [11, 17, 18]. 
+
+In 10 of the 11 patients, a second measurement of 
+TEE was obtained ¢9 weeks after surgery (mean¡SD 
+14¡5 weeks; range 9–25 weeks). The change in TEE 
+postsurgery was 1¡38 kJ?kg-1?day-1 and was not 
+significant (paired t-test). The original intention was 
+to use each patient as his-her own control and use the 
+change in TEE as an additional test of whether or not 
+TEE altered as a result of surgical resolution of OSAS. 
+Since surgery did not resolve OSAS in four of the 
+seven patients for whom repeat polysomnography was 
+possible, the repeated measurement of TEE did not 
+constitute a test of the hypothesis that OSAS is 
+associated with increased TEE. However, changes in 
+TEE were generally small after surgery. This observation 
+strengthens the conclusion that TEE was not 
+abnormally high in these patients with OSAS by 
+providing repeated measures of TEE which point to 
+the same conclusions. In, effect repeating the TEE 
+measurements in the presence of OSAS provided 
+additional confidence that the TEE of these children 
+was not abnormally high. 
+
+There are a number of possible reasons for the 
+observation that TEE was not increased in the 
+patients with OSAS. In general, the patients were 
+not characterized by failure to thrive or severe OSAS. 
+This might have diminished the ability to detect any 
+abnormality in TEE. However, it is worth noting that 
+surgical resolution of OSAS is generally associated 
+with marked improvement in nutritional status across 
+the entire range of nutritional status: even in obese 
+patients, surgery tends to lead to more severe obesity 
+[9]. This implies that any effect of OSAS on energy 
+balance/growth is not restricted to children with 
+failure to thrive, and that OSAS per se acts as a 
+check on growth/energy balance. If this is the case, the 
+
+patients should have provided an adequate test of the 
+hypothesis that OSAS increases energy intake despite 
+their fairly normal nutritional status. It is possible that 
+a larger study might have revealed subtle differences 
+in TEE between patients and controls. The original 
+study design planned for measurements of TEE pre-
+and postsurgery to investigate changes in TEE within 
+patients after correction of OSAS by adenotonsillar 
+surgery. The inability to test adequately for changes 
+after surgery in some children, because of the lack of 
+improvement, was unanticipated. Nevertheless, data 
+on TEE collected presurgery do not suggest any trend 
+towards higher TEE in the patients. Finally, it is 
+possible that the apparent absence of an increase in 
+TEE in the patients with OSAS was due to the absence 
+of any effect of OSAS on TEE (the null hypothesis). A 
+number of diseases have been believed to be associated 
+with increased TEE. The availability of 
+accurate measurement of TEE by use of the doubly-
+labelled water method has recently shown that many 
+of these diseases are not "hypermetabolic" 
+[14–16]. It is 
+also worth noting that there are many other possible 
+mechanisms (independent of any effect of OSAS on 
+TEE) for the observation that OSAS acts on a "check" 
+on growth/nutritional status in OSAS. 
+
+If SEE is increased in children and adults with 
+OSAS, as has been reported [5, 10], the present 
+findings imply that any increase in SEE is offset by a 
+reduction in other components of energy expenditure. 
+This might include reductions in diet-induced thermogenesis, 
+resting energy expenditure, or, perhaps more 
+likely, activity related energy expenditure [11]. The 
+potential effects of OSAS on SEE and TEE are 
+complex. Increases in SEE could be due to the energy 
+cost of movement/arousal, the energy cost of breathing 
+while experiencing partial or complete airway 
+obstruction, or alterations in sympathetic nervous 
+system activity [10]. Hypoxia might increase or 
+decrease SEE [10]. An increase in SEE will only be 
+"clinically" 
+significant, that is will only increase energy 
+"requirements", if all other components of energy 
+expenditure remain unchanged [11]. The present data 
+confirm that measurement of TEE, rather than just 
+SEE or resting energy expenditure, is essential if 
+abnormalities in energy expenditure are to be confirmed 
+as being clinically significant [11, 12, 14, 16]: 
+the present study suggests that the effect of OSAS on 
+TEE is not clinically significant. 
+
+If OSAS is not associated with an increase in TEE, 
+alternative explanations for improved growth and 
+nutritional status after its resolution should be 
+considered: there are many alternative hypotheses 
+[1–8]. If the problem does have its origins in energy 
+imbalance but hypermetabolism is ruled out, limits on 
+energy "intake" 
+might constrain growth/nutritional 
+status in OSAS. Confirming this directly is problematical 
+because of the inaccuracy and imprecision of 
+methodology for measurement of energy intake [11]. 
+MARCUS et al. [5] reported no significant change in 
+energy intake after successful adenotonsillectomy, but 
+others have reported evidence of improved appetite 
+after surgery [4, 24]. Recently, BAR et al. [25] measured 
+changes in the IGF-1 axis before and after surgery in 
+10 children who had OSAS confirmed by nocturnal 
+
+
+R.M. BLAND ET AL. 
+polysomnography, and found a significant increase 
+in serum IGF-1 levels after surgery, which were 
+associated with improvements in nutritional status. 
+Improvements in weight SD scores observed [25] were 
+similar to the present study, though the present study 
+reported changes in BMI SD scores, a more sensitive 
+indicator of energy balance since they adjust weight 
+for height [12, 22]. If this adjustment is not made, 
+weight changes can be confounded by changes in 
+height. In 7/10 patients in the present study, BMI SD 
+score increased, and the increase overall was 0.3¡0.4, 
+though this trend did not reach significance. 
+
+The absence of grossly abnormal energy requirements 
+in patients with OSAS from the present study, 
+together with recent evidence of a role for neuroendocrine 
+disturbance [25], suggests that the cause of 
+any "check" 
+on growth and energy balance in children 
+with OSAS is unlikely to be hypermetabolism. Future 
+efforts to understand the underlying mechanism 
+should therefore focus on the neuro-endocrine axis. 
+
+In previous studies, OSAS has not always been 
+assessed using nocturnal polysomnography (the gold 
+standard technique; [3, 26–28] either before or after 
+surgery. Where nocturnal polysomnography has been 
+used in other studies, surgery did not always abolish 
+OSAS [1, 26, 28]. The present observation that surgery 
+was largely unsuccessful in resolving OSAS was 
+therefore not unique. The practical difficulties associated 
+with nocturnal polysomnography in young 
+children mean that in a number of previous studies it 
+was not performed. Since many of these studies did 
+not carry out nocturnal polysomnography on, before 
+or after surgery, and relied on either an assumption of 
+improved OSAS, subjective parental reports, or nap 
+polysomnography [9], it is possible that a sizeable 
+proportion of children studied did not have OSAS 
+[28]. For those studies in which nocturnal polysomnography 
+was carried out, it is likely that a proportion of 
+children did not experience resolution of OSAS after 
+surgery. This raises the possibility that any improvements 
+in growth/nutritional status after surgery in 
+earlier published reports were not due to the abolition 
+of OSAS/increased work of breathing, but to other 
+mechanisms, such as changes in sleep pattern. 
+
+Studies on growth, nutritional status and energy 
+balance in obstructive sleep apnoea syndrome might 
+have implications for other chronic respiratory 
+diseases which are said to be characterized by 
+increased "work of breathing". Childhood and adult 
+obstructive sleep apnoea syndrome is an interesting 
+model since, unlike other respiratory diseases, the 
+putative mechanism (increased work of breathing) is 
+potentially reversible by surgery and/or continuous 
+positive airway pressure. In the present study, no 
+evidence was found that increased work of breathing 
+in children with obstructive sleep apnoea syndrome 
+was clinically significant. This is consistent with recent 
+evidence suggesting that the effect of increased work 
+of breathing on energy requirements in cystic fibrosis 
+[11, 16, 29] and chronic obstructive pulmonary disease 
+
+[30] may have been exaggerated, and with new 
+evidence pointing to a neuro-endocrine cause of 
+growth and nutritional problems in childhood 
+obstructive sleep apnoea syndrome [25]. It may be 
+worth exploring neuro-endocrine effects in other 
+conditions where "increased work of breathing" 
+has 
+been considered important. 
+
+Acknowledgements. The authors are grateful 
+to the patients, controls and their families for 
+support, and to the staff of the Lung Function 
+Laboratory at Yorkhill Hospital, C. King and 
+
+J. Kirkpatrick, for their technical expertise and 
+assistance. 
+References 
+
+1. 
+Brouillette RT, Fernbach SK, Hunt CE. Obstructive 
+sleep apnea in infants and children. J Pediatr 1982; 
+100: 31–40. 
+2. 
+Guilleminault C, Korobkin R, Winkle R. A review of 
+50 children with OSAS. Lung 1981; 159: 275–287. 
+3. 
+Mograss MA, Duchame FM, Brouillette RT. Movement/
+arousals: description, classification and relationship 
+to sleep apnea in children. Am J Respir Crit Care 
+Med 1994; 150: 1690–1696. 
+4. 
+Everett AD, Koch WC, Saulsbury FT. Failure to 
+thrive due to obstructive sleep apnea. Clin Pediatr 
+1986; 26: 90–92. 
+5. 
+Marcus CL, Carroll JL, Koerner CB, Hamer A, Lutz 
+J, Loughlin GM. Determinants of growth in children 
+with OSAS. J Pediatr 1994; 125: 556–562. 
+6. 
+Stradling JR, Thomas G, Warley ARH, Williams P, 
+Freeland A. Effect of adenotonsillectomy on nocturnal 
+hypoxaemia, sleep disturbance and symptoms in 
+snoring children. Lancet 1990; 335: 249–253. 
+7. 
+Williams EF, Woo P, Miller R, Kellman RM. Effects 
+of adenotonsillectomy on growth in young children. 
+Otolaryngol Head Neck Surg 1991; 104: 509–516. 
+8. 
+Bate TWP, Price DA, Holme CA, McGucken RB. 
+Short stature caused by obstructive apnoea during 
+sleep. Arch Dis Child: 1984: 78–80. 
+9. 
+Soultan Z, Wadowski S, Ra M, Kravath RE. Effect of 
+treating OSA by tonsillectomy and/or adenoidectomy 
+on obesity in children. Arch Pediatr Adolesc Med 1999; 
+153: 33–37. 
+10. 
+Stenlof K, Grustein R, Hedner J, Sjostrom L. Energy 
+expenditure in obstructive sleep apnea: effects of 
+treatment with continuous positive airway pressure. 
+Am J Physiol 1996; 271: E1036–E1043. 
+11. 
+Reilly JJ, Edwards CA, Weaver LT. Malnutrition in 
+cystic fibrosis: the energy balance equation. J Pediatr 
+Gastroenterol Nutr 1997; 25: 127–136. 
+12. 
+Reilly JJ, Ventham JC, Ralston JM, Donaldson M, 
+Gibson B. Reduced energy expenditure in pre-obese 
+children treated for acute lymphoblastic leukemia. 
+Pediatr Res 1998; 44: 557–562. 
+13. 
+Warner JT, Bell W, Webb DHK, Gregory JW. Daily 
+energy expenditure and physical activity in survivors of 
+childhood malignancy. Pediatr Res 1998; 43: 607–613. 
+14. 
+Macallan DC, Noble C, Baldwin C, et al. Energy 
+expenditure and wasting in HIV infection. N Engl 
+J Med 1995; 333: 83–88. 
+15. 
+Motil KJ, Schultz RJ, Wong WW, Glaze DG. 
+Increased energy expenditure associated with repetitive 
+involuntary movement does not contribute to 
+growth failure in girls with Rett Syndrome. J Pediatr 
+1998; 132: 228–233. 
+16. 
+Reilly JJ, Ralston JM, Paton JYP, et al. Energy 
+
+ENERGY EXPENDITURE IN OSAS CHILDREN 
+
+balance during acute respiratory exacerbations in children 
+with cystic fibrosis. Eur Respir J 1999; 13: 804–809. 
+
+17. 
+Department of Health 1991. Report on Health and 
+Social Subjects No 41. Dietary Reference Values for 
+Food Energy and Nutrients for the UK. London, 
+HMSO, 1991. 
+18. 
+Torun B, Davies PSW, Livingstone MBE, Paolisso M, 
+Sackett R, Spurr GB. Energy requirements and dietary 
+energy recommendations for children and adolescents 
+1–18 years old. Eur J Clin Nutr 1996; 50: 537–581. 
+19. 
+Reilly JJ. Assessment of body composition in infants 
+and children. Nutrition 1998; 14: 821–825. 
+20. 
+Lohman TG. Advances in body composition assessment, 
+Monograph 3. Human Kinetics Publishers, 
+Champaign, IL, 1993. 
+21. 
+Cole TJ, Freeman JV, Preece MA. Body mass index 
+reference curves for the UK, 1990. Arch Dis Child 
+1995; 73: 25–29. 
+22. 
+Reilly JJ, Weir J, McColl JH, Gibson BES. Prevalence 
+of protein-energy malnutrition at diagnosis in children 
+with acute lymphoblastic leukemia. J Pediatr Gastroenterol 
+Nutr 1999; 29: 194–197. 
+23. 
+Schoeller DA, Ravussin E, Schutz Y, Acheson KJ, 
+Baertschi P, Jequier E. Energy expenditure by doubly-
+labelled water: validation in humans and proposed 
+calculation. Am J Physiol 1986; 250: R823–R830. 
+24. 
+Rosen CL. Clinical features of OSA hypoventilation 
+syndrome in otherwise healthy children.Pediatr 
+Pulmonol 1999; 27: 403–409. 
+25. 
+Bar A, Tarasiuk A, Segev Y, Phillip M, Tal A. The 
+effect of adenotonsillectomy on serum IGF-1 and 
+growth in children with obstructive sleep apnea 
+syndrome. J Pediatr 1999; 135: 76–80. 
+26. 
+Davidson Ward SL, Marcus CL. Obstructive sleep 
+apnea in infants and young children. J Clin Neurophysiol 
+1996; 13: 198–207. 
+27. 
+Lamm C, Mandeli J, Kattan M. Evaluation of home 
+audio tapes as an abbreviated test for OSAS in 
+children. Pediatr Pulmonol 1999; 27: 267–272. 
+28. 
+Suen JS, Arnold JE, Brooks EJ. Adenotonsillectomy 
+for treatment of obstructive sleep apnea in children. 
+Arch Otolaryngol Head Neck Surg 1995; 121: 525– 
+530. 
+29. 
+Reilly JJ, Paton JY, Wilkinson J, Evans TJ. Adequacy 
+of clinical formulae for estimation of energy requirements 
+in children with cystic fibrosis. Arch Dis Child 
+1999; 81: 120–124. 
+30. 
+Sridhar MK, Carter R, Lean MEJ, Banham SW. 
+Resting energy expenditure and nutritional state of 
+patients with increased oxygen cost of breathing due 
+to emphysema, scoliosis, end thoracoplasty. Thorax 
+1994; 49: 781–785. 
+

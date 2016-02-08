@@ -1,0 +1,730 @@
+Sleep Medicine 7 (2006) 357–361 
+
+www.elsevier.com/locate/sleep 
+
+Original article 
+
+Waist circumference predicts the occurrence of sleep-disordered breathing 
+in obese children and adolescents: A questionnaire-based study 
+
+Marco Carotenuto a,*, Oliviero Bruni b, Nicola Santoro c, 
+Emanuele Miraglia del Giudice c, Laura Perrone c, Antonio Pascotto a 
+
+
+a Clinic 
+of 
+Child 
+and 
+Adolescent 
+Neuropsychiatry, 
+Second 
+University 
+of 
+Naples, 
+Via 
+Luigi 
+Pansini 
+no. 
+5-PAD 
+XI, 
+80131 
+Naples, 
+Italy 
+b Department 
+of 
+Developmental 
+Neurology 
+and 
+Psychiatry, 
+University 
+of 
+Rome 
+‘La 
+Sapienza’, 
+Rome, 
+Italy 
+c Department 
+of 
+Pediatrics, 
+Second 
+University 
+of 
+Naples, 
+Via 
+L. 
+De 
+Crecchio 
+no. 
+2, 
+80138 
+Naples, 
+Italy 
+
+
+Received 9 October 2005; received in revised form 4 January 2006; accepted 10 January 2006 
+
+Abstract 
+
+
+Background 
+and 
+purpose: To assess the presence of sleep-disordered breathing (SDB) in a population of obese children and adolescents and 
+to investigate the role of fat distribution in predicting SDB. 
+Patients 
+and 
+methods: One hundred and thirty-two obese children and adolescents, aged 5.0–14.2 years, were consecutively referred to the 
+Department of Pediatrics of the Second University of Naples for screening of obesity. The control group consisted of 453, sex-and age-
+matched lean subjects selected from local schools in Campania region. The sleep disturbances scale for children (SDSC) questionnaire was 
+used to evaluate SDB prevalence. In all subjects, waist circumference, triceps and sub-scapular skin folds were measured, and Z-scores were 
+calculated. 
+Results: Obese subjects showed significantly higher SDB and sleep hyperhydrosis (SHY) scores than controls. The Z-score of waist 
+circumference correlated with SDB (rZ0.32; PZ0.006) and SHY factor scores (rZ0.37; PZ0.005), while the Z-score of body mass index 
+(BMI), triceps and sub-scapular skin folds were not correlated with any SDSC factor scores. Subjects in the higher tertile for Z-score of waist 
+circumference had a significantly higher risk for developing SDB (OR 1.9; 95% IC 1.8–3.2) and SHY (OR 2.1; 95% IC 2.0–4.5). 
+Conclusions: Waist circumference is a more reliable index than total adiposity and subcutaneous fat in predicting the risk of obese children to 
+develop SDB. 
+q 
+2006 Elsevier B.V. All rights reserved. 
+
+Keywords: 
+Obesity; Children; Sleep breathing disorders; Fat distribution 
+
+1. 
+Introduction 
+Sleep-disordered breathing (SDB) consists of frequent 
+and repetitive episodes of pharyngeal obstruction during 
+sleep, often with consequent desaturation in arterial oxygen 
+quote, sleep fragmentation and daytime sleepiness in adults. 
+
+In children, the most commonly documented cause of 
+SDB is upper airway obstruction, which can be classified 
+into three grades of severity: primary snoring with a 
+prevalence ranging from 3.2 to 10% [1,2], upper airway 
+resistance syndrome (UARS) with highly variable 
+
+* Corresponding author. Tel.: C39 0815666695; fax: C39 0815666694. 
+E-mail 
+address: 
+marco.carotenuto@unina2.it (M. Carotenuto). 
+1389-9457/$ -see front matter q 
+2006 Elsevier B.V. All rights reserved. 
+doi:10.1016/j.sleep.2006.01.005 
+
+prevalence ranging from 6 to 63% and obstructive sleep 
+apnea syndrome (OSAS) with a prevalence of about 1–3% 
+[3,4]. 
+
+Similar to adults, obesity may predispose children to 
+OSA [5,6] Obese children with SDB might experience an 
+increase in the size of the soft tissue structures surrounding 
+the upper airways, size of their tongue, soft palate, and 
+lateral pharyngeal walls [7,8]. 
+
+Marcus et al. [6] reported that obese children are at risk 
+for OSAS, and that the degree of OSAS is proportional to 
+the degree of obesity. Further, Gozal et al. [9] found that the 
+severity of the apnea index positively correlated with body 
+mass index (BMI) and with tendency to develop excessive 
+daytime somnolence. In the converse, a population-based 
+study failed to confirm that children categorized as obese are 
+more likely to have a higher respiratory disturbance index 
+(RDI) [10]. 
+
+
+M. 
+Carotenuto 
+et 
+al. 
+/ 
+Sleep 
+Medicine 
+7 
+(2006) 
+357–361 
+Different studies in adults and children reported that 
+sleep apnea is more closely related to visceral fat than BMI 
+[11,13] and, additionally, the severity of OSA in children 
+seems to be independent of degree of obesity expressed as 
+BMI [13]. 
+
+Since few studies focused on SDB in Italian children 
+[4,14,15] and did not attempt to relate SDB to obesity, in the 
+present study we aimed (a) to verify the presence of SDB in 
+a school-aged population of Italian obese children and 
+adolescents and (b) to investigate whether the fat 
+distribution, measured as waist circumference and triceps 
+and sub-scapular skin folds, may predict the SDB. 
+
+2. 
+Methods 
+2.1. 
+Subjects 
+One-hundred and thirty-two children (67 males, 65 
+females), aged 5.0–14.2 years, (mean: 8. 7G2.0 years) 
+were referred from primary care physicians to the 
+Department of Pediatrics of the Second University of 
+Naples for screening of obesity. All subjects agreed to 
+participate in the study. Informed consent was obtained 
+from parents and children. The ethical committee approved 
+the study design. The BMI (weight/height2) of all obese 
+subjects was O95th percentile for age and sex reference 
+values [16]. 
+
+Ninety (68.2%) obese children were prepubertal 
+(Tanner stage 1) while the others were pubertal: 15 
+(11.4%) Tanner stage 2, 17 (12.9%) Tanner stage 3 and 
+10 (7.5%) Tanner stage 4 [17]. 
+
+Children were excluded from the study if they had known 
+clinical conditions such as genetic diseases (Down 
+syndrome or Prader–Willi syndrome), craniofacial abnormalities, 
+or neuromuscular diseases. None of the recruited 
+children presented inter-current respiratory tract infections. 
+Another criterium for exclusion was the use of anticonvulsant 
+or psychoactive drugs. 
+
+The control group consisted of 453 normal-weight (BMI 
+!85th percentile), sex-(240 males, 213 females) and age-
+matched controls (mean age: 8.9G1.8 years) randomly 
+selected from local schools in Campania region, between 
+January 2004 and July 2004. Among controls, 97 children 
+were excluded from the original population (nZ550) 
+because they were overweight (percentile BMI O85th). 
+The Tanner stage distribution was similar to the obese 
+group: 317 controls (69.9%) were prepubertal (Tanner stage 
+1), 52 (11.6%) were in Tanner stage 2, 54 (11.9%) in Tanner 
+stage 3 and 30 (6.6%) in Tanner stage 4). 
+
+2.2. 
+Procedure 
+The University Ethics Committee approved the study, 
+and parents gave written informed consent during the first 
+screening visit. Both obese children and controls were 
+
+evaluated in the Endocrinology Unit of the Department of 
+Pediatrics of the University of Naples to undergo the body 
+measurements needed for the study. 
+
+All subjects’ mothers filled out the sleep disturbances 
+scale for children (SDSC) [18]. The SDSC is a sleep 
+questionnaire that consists of 26 items subdivided into six 
+sleep disorders subscales: disorders in initiating and 
+maintaining sleep (DIMS), sleep breathing disorders 
+(SBD), disorders of arousal (DA), sleep-wake transition 
+disorders (SWTD), disorders of excessive somnolence 
+(DES), sleep hyperhydrosis (SHY). 
+
+In all subjects, waist circumference was measured by 
+trained technicians using a tape measure at just above the 
+uppermost lateral border of the right ilium, at the end of a 
+normal expiration, and was recorded at the nearest 
+millimeter. Z-scores were calculated according to Zannolli 
+and Morgese [19]. Triceps and sub-scapular skin folds (TSF 
+and SSF), used as marker of subcutaneous fat, were 
+measured as previously described [20]. Briefly, the measure 
+was taken by the same operator using an Holtain–Tanner 
+caliper (Harpenden and Holtain, Anthropometric Instruments, 
+UK) on the non-dominant side. Measurements were 
+repeated in duplicate. Z-scores were calculated according to 
+Frisancho [21]. 
+
+2.3. 
+Statistical 
+analysis 
+Analysis of variance (ANOVA) was generated to 
+evaluate differences in clinical and anthropometric 
+measures and in the six SDSC factor scores between 
+obese and non-obese children. A Pearson’s correlation 
+was used to correlate the six SDSC factor scores in the 
+obese population with Z-score BMI, Z-score of waist 
+circumference, Z-score of triceps and sub-scapular skin 
+folds (divided into tertiles). A logistic regression analysis 
+was performed in order to assess the risk of developing 
+sleep disturbances by being in a higher tertile for the 
+Z-score BMI, waist, sub-scapular or triceps skin folds. The 
+factor scores that were significantly higher in obese 
+children were converted into a discrete variable and 
+entered in the logistic regression. 
+
+The P 
+level was set at !0.05 for statistical significance. 
+All data were coded and analyzed using the commercially 
+available STATISTICA 6.0 package for Windows (StatSoft, 
+Inc., Tulsa, OK). 
+
+3. 
+Results 
+Table 1 shows the anthropometric and clinical characteristics 
+of the two groups studied. The mean age of obese 
+and non-obese children was comparable, while the Z-score 
+BMI was obviously significantly higher in obese children. 
+The waist mean Z-score in obese children was 1.9G0.9, 
+higher than that of the non-obese group. The Z-scores for 
+
+
+M. 
+Carotenuto 
+et 
+al. 
+/ 
+Sleep 
+Medicine 
+7 
+(2006) 
+357–361 
+Table 1 
+Clinical characteristics at baseline in obese and non-obese children 
+
+Obese Non-obese P-value 
+(nZ132) (nZ453) 
+Age (y) 8.7G2.0 8.9G1.8 0.9 
+Gender (males/females) 67/65 240/213 0.7 
+Z-score height 1.2G1.9 0.9G1.8 !0.001 
+Z-score body mass index 2.7G1.4 0.6G0.4 !0.001 
+Z-score waist 1.9G0.9 K0.1G1.2 !0.001 
+circumference 
+Z-score sub-scapular skin 2.1G0.3 0.2G0.4 !0.001 
+folds (SSF) 
+Z-score triceps skin folds (TSF) 1.9G0.6 0.3G0.3 !0.001 
+Snorer (O3 times/week), n 
+(%) 32 (24.24) 24 (5.29) !0.001 
+Prior tonsillectomy and/or 7 (5.3) 33 (7.28) 0.55 
+adenoidectomy, n 
+(%) 
+
+triceps and sub-scapular skin folds were also higher in obese 
+vs. non-obese children. 
+
+The ANOVA showed significantly higher values of the 
+SDB and SHY factor scores in obese children (Table 2). The 
+DIMS and DES factor scores were slightly but significantly 
+higher in the non-obese group while no differences were 
+observed for SWTD and DA scores. 
+
+The logistic regression showed that obese subjects had a 
+higher risk to develop SDB and SHY when compared to 
+controls (Table 3). 
+
+In the obese group, the Z-score of waist circumference 
+correlated with SDB (rZ0.32; PZ0.006) and SHY factor 
+scores (rZ0.37; PZ0.005), while the Z-score of BMI, 
+triceps and sub-scapular skin folds were not associated with 
+any SDSC factor scores (Table 4). 
+
+When categorized according to three categories of 
+Z-score BMI, Z-score waist, Z-score TSF and Z-score 
+SSS, the prevalence of SDB and SHY increased significantly 
+with increasing Z-score waist (X2Z7.63, PZ0.02 for 
+SDB; 7.9, PZ0.01 for SHY). As shown in Fig. 1, the 
+regression analysis disclosed that the obese subjects in the 
+higher tertile for Z-score waist were at a significantly higher 
+risk for developing SDB (ORZ1.9; 95% CIZ1.8–3.2) and 
+SHY (ORZ2.1; 95% CIZ2.0–4.5), while no differences 
+were observed among Z-score BMI, triceps and sub-
+scapular skinfolds tertiles. 
+
+Table 2 
+Comparison of SDSC factor scores in obese and non-obese children 
+
+Obese Non-obese F 
+P-value 
+DIMS 
+SBD 
+DA 
+SWTD 
+DES 
+SHY 
+10.8G0.3 
+5.3G0.02 
+4G0.15 
+9.3G0.3 
+7.6G0.3 
+4.0G0.16 
+11.5G0.1 
+4.2G0.09 
+3.9G0.07 
+9.4G0.14 
+8.2G0.14 
+2.9G0.08 
+4.15 
+29.8 
+0.04 
+0.02 
+4.4 
+34.7 
+!0.05 
+!0.001 
+0.8 
+0.9 
+!0.05 
+!0.001 
+
+DIMS, disorders in initiating and maintaining sleep; SBD, sleep breathing 
+disorders; DA, disorders of arousal; SWTD, sleep-wake transition 
+disorders; DES, disorders of excessive somnolence; SHY, nocturnal 
+hyperhydrosis. 
+
+Table 3 
+Relative risk to develop sleep disturbances by being obese 
+
+OR 95% CI 
+DIMS 
+SBD 
+DA 
+SWTD 
+DES 
+SHY 
+0.71 
+2.08 
+1 
+1 
+0.68 
+1.98 
+0.48–1.0 
+1.42–3.0 
+0.67–1.48 
+0.46–1.01 
+0.46–1.0 
+1.62–2.8 
+
+The logistic regression showed that obese subjects had a higher risk to 
+develop SBD and SHY than non-obese controls. DIMS, disorders in 
+initiating and maintaining sleep; SBD, sleep breathing disorders; DA, 
+disorders of arousal; SWTD, sleep-wake transition disorders; DES, 
+disorders of excessive somnolence; SHY, nocturnal hyperhydrosis. 
+
+4. 
+Discussion 
+In clinical practice, the assessment of obesity is 
+performed by means of anthropomorphic measurements 
+and various body diameters and circumferences. These 
+measures are strongly related to the degree of SDB, and 
+different studies have shown that obese children are at risk 
+for OSAS, proportionate to the degree of their obesity; the 
+association between snoring and BMIO95th percentile is 
+relevant [22–25]. 
+
+However, it is known that most children with OSAS are 
+not obese, and probably other factors, such as fat 
+distribution, play a role in increasing their risk for 
+developing SDB. We should also consider that the vast 
+majority of cases of OSAS in children are associated with 
+adenotonsillar hypertrophy and that OSAS is not simply 
+caused by large tonsils and adenoids; different studies have 
+shown only a weak relationship between the severity of 
+OSAS and the size of these tissues when assessed clinically 
+or by simple radiographic methods [26–28]. The use of 
+three-dimensional magnetic resonance imaging (MRI) 
+techniques showed that the three-dimensional orientation 
+of these tissues, and how they overlap in the airway, is a 
+more important factor which can significantly affect flow 
+resistance during sleep [29,30]. 
+
+Table 4 
+Correlation (r-value) between the anthropometric features of the obese 
+subjects and the SDSC factor scores 
+
+Z-score 
+BMI 
+Z-score 
+waist 
+Z-score 
+TRF 
+Z-score SSF 
+DIMS 
+SBD 
+DA 
+SWTD 
+DES 
+SHY 
+K0.05 
+K0.05 
+K0.02 
+K0.18 
+K0.08 
+K0.05 
+K0.06 
+0.32* 
+K0.14 
+0.07 
+0.13 
+0.37* 
+K0.11 
+K0.06 
+0.01 
+K0.11 
+K0.04 
+K0.16 
+K0.08 
+K0.12 
+0.07 
+0.06 
+K0.04 
+0.01 
+
+DIMS, disorders in initiating and maintaining sleep; SBD, sleep breathing 
+disorders; DA, disorders of arousal; SWTD, sleep-wake transition 
+disorders; DES, disorders of excessive somnolence; SHY, nocturnal 
+hyperhydrosis; TRF, triceps skinfolds; SSF, sub-scapular skinfolds; *, 
+P!0.005. 
+
+
+M. 
+Carotenuto 
+et 
+al. 
+/ 
+Sleep 
+Medicine 
+7 
+(2006) 
+357–361 
+Fig. 1. Effect of waist circumference, BMI, triceps and sub-scapular skin 
+folds on the occurrence of the SDB and SHY. Subjects were grouped into 
+three categories of BMI, triceps skin folds, sub-scapular skin folds and 
+waist circumference standard-deviation scores (Z scores) with cut-offs at 
+the 33th and 66th percentiles. Being in a higher tertile for Z-score waist 
+doubled the risk factor for developing SDB and SHY. 
+
+Childhood OSAS is a dynamic process resulting from a 
+combination of structural and neuro-motor anomalies 
+rather than from structural abnormalities alone or fat 
+distribution [31]. 
+
+Our study supports the importance of fat distribution in 
+predicting the occurrence of SDB and SHY in children; in 
+fact, we found that SDB and SHY scores of obese children 
+are significantly higher than those obtained from non-obese 
+controls and that they relate to waist circumference, 
+expressed as Z-score. Further, obese subjects in the higher 
+tertile for waist Z-score have a significantly higher risk for 
+developing SDB and SHY. BMI, on the contrary, as well as 
+triceps and sub-scapular skin folds, are not reliable 
+measures in predicting the occurrence of SDB and SHY, 
+at least among obese children. 
+
+In adults, the visceral fat and the body fat composition 
+are considered crucial factors for health morbidities, rather 
+than the total adiposity, which is associated with a high risk 
+of vascular disorders (cerebral, cardiac, hypertension) and 
+metabolic diseases (type 2 diabetes, hyperlipidemia) [12]. 
+Indeed, several morbidities are more closely related to waist 
+circumference than BMI, and lower-body obese individuals 
+have an increased risk of numerous illnesses in comparison 
+to upper-body obese individuals [12,32–35]. 
+
+It has been reported that the severity of OSA in obese 
+children is correlated with fasting insulin levels and with 
+increased plasma C-reactive protein (CRP) levels. Both 
+insulin and CRP levels were also reported to be related to 
+
+waist circumference [36–38]. The correlation between OSA 
+and waist circumference could therefore be mediated by 
+insulin and CRP levels, but visceral fat accumulation per se 
+might affect breathing during sleep because of mechanical 
+compression on the diaphragm caused by the effects of 
+increased mass on the chest wall and abdomen [39]. 
+
+The correlation between waist circumference and SHY 
+score may be mediated by the SDB. It is known that night 
+sweating is a common symptom of obstructive sleep apnea. 
+The pathogenetic mechanism is still unclear. Sweating 
+might be (a) the consequence of the increased respiratory 
+effort linked to mechanical impairment, (b) the result of the 
+stimulation of a-receptors and b-receptors, or (c) the 
+indirect effect of sympathetic activation of other vasopressor 
+systems such as the renin–angiotensin–aldosterone 
+system or both [40–42]. 
+
+In contrast with the expectations, the DIMS and DES 
+scores were slightly higher in the non-obese group. We 
+suggest that the sleep fragmentation related to SDB can lead 
+to daytime somnolence and hyperactivity and inattention 
+problems, and this ‘subtle chronic sleep fragmentation due 
+to SDB’ could lead to a sleep debt that reinforces 
+homeostatic processes and increases the sleep pressure 
+leading to a reduction of DIMS in these subjects [43–46]. 
+
+We should take into account some limitations of this 
+study: our data were derived from parental questionnaires 
+and not from polysomnographic data and, therefore, its 
+accuracy in evaluating sleep disturbances is limited. We did 
+not evaluate the level of physical activity, and we did not 
+obtain specific information on dietary habits that might be 
+potential confounders. Moreover, we did not determine 
+insulin resistance, dyslipidemia and CRP levels that were 
+reported to be correlated with the degree of body adiposity. 
+
+Notwithstanding these limitations, our study shows that 
+among obese children and adolescents, visceral fat 
+(expressed as waist circumference) is a more reliable 
+index in predicting the risk for developing sleep breathing 
+disorders than total adiposity (expressed as BMI) and 
+subcutaneous fat (expressed as sub-scapular and triceps skin 
+folds). 
+
+References 
+
+
+[1] Gislason 
+T, Benediktsdottir B. Snoring, apneic episodes, and 
+nocturnal hypoxemia among children 6 months to 6 years old. 
+Chest 1995;107:963–6. 
+[2] Teculescu DB, Caillier I, Perrin P, et al. Snoring in French preschool 
+children. Pediatr Pulmonol 1992;13:239–44. 
+[3] Ali NJ, Pitson D, Stradling JR. Natural history of snoring and related 
+behaviour problems between the ages of 4 and 7 years. Arch Dis Child 
+1994;71:74–6. 
+[4] Brunetti L, Rana S, Lospalluti ML, et al. Prevalence of obstructive 
+sleep apnea syndrome in a cohort of 1207 children of southern Italy. 
+Chest 2001;120:1930–5. 
+[5] Montgomery-Downs HE, Crabtree VM, Gozal D. Cognition, sleep 
+and respiration in at-risk children treated for obstructive sleep apnoea. 
+Eur Respir J 2005;25:336–42. 
+
+M. 
+Carotenuto 
+et 
+al. 
+/ 
+Sleep 
+Medicine 
+7 
+(2006) 
+357–361 
+[6] Marcus CL, Curtis S, Koerner CB, et al. Evaluation of pulmonary 
+function and polysomnography in obese children and adolescents. 
+Pediatr Pulmonol 1996;21:176–83. 
+[7] Schwab RJ, Gupta KB, Gefter WB, et al. Upper airway and soft tissue 
+anatomy in normal subjects and patients with sleep disordered 
+breathing: significance of the lateral pharyngeal walls. Am J Respir 
+Crit Care Med 1995;152:1673–89. 
+[8] Shelton KE, Woodson H, Gay S, Suratt 
+PM. Pharyngeal fat in 
+obstructive sleep apnea. Am Rev Respir Dis 1993;148:462–6. 
+[9] Gozal D, Wang M, Pope DW. Objective sleepiness 
+measures in 
+pediatric obstructive sleep apnea. Pediatrics 2001;108:693–7. 
+[10] Goodwin JL, Kaemingk KL, Fregosi RF, et al. Clinical outcomes 
+associated with sleep-disordered breathing in Caucasian and Hispanic 
+children—the Tucson Children’s Assessment of Sleep Apnea study 
+(TuCASA). Sleep 2003;26:587–91. 
+[11] Vgontzas AN, Papanicolaou DA, Bixler EO, et al. Sleep apnea and 
+daytime sleepiness and fatigue: related to visceral obesity, insulin 
+resistance, and hypercytokinemia. J Clin Endocrinol Metab 2000;85: 
+1151–8. 
+[12] Ogretmenoglu O, Suslu AE, Yucel OT, et al. Body fat composition: a 
+predictive factor for obstructive sleep apnea. Laryngoscope 2005;115: 
+1493–8. 
+[13] de la Eva RC, Baur LA, Donaghue KC, Waters KA. Metabolic 
+correlates with obstructive apnea in obese subjects. J Pediatr 2002; 
+140:654–9. 
+[14] Ferini-Strambi 
+L, Fantini ML, Castronovo C. Epidemiology of 
+obstructive sleep apnea syndrome. Minerva Med 2004;95:187–202. 
+[15] Zucconi M, Calori G, Castronovo V, Ferini-Strambi L. Respiratory 
+monitoring by means of an unattended device in children with 
+suspected uncomplicated obstructive sleep apnea: a validation study. 
+Chest 2003;124:602–7. 
+[16] Luciano A, Bressan F, Zoppi G. Body mass index reference curves for 
+children aged 3–19 years from Verona, Italy. Eur J Clin Nutr 1997;51: 
+6–10. 
+[17] Tanner JM, Whitehouse RH. Clinical longitudinal standarSD for 
+height, weight, height velocity, weight velocity, and stages of puberty. 
+Arch Dis Child 1976;51:170–9. 
+[18] Bruni O, Ottaviano S, Guidetti V, et al. The Sleep Disturbance Scale 
+for Children (SDSC). Construction and validation of an instrument to 
+evaluate sleep disturbances in childhood and adolescence. J Sleep Res 
+1996;5:251–61. 
+[19] Zannolli 
+R, Morgese G. Waist percentiles: a simple test for 
+atherogenic disease? Acta Paediatr 1996;85:1368–9. 
+[20] Miraglia del Giudice E, Santoro N, Marotta A, et al. Inadequate leptin 
+level negatively affects body fat loss during a weight reduction 
+programme for childhood obesity. Acta Paediatr 2002;91:132–5. 
+[21] Frisancho AR. Anthropometric standards for the assessment of growth 
+and nutritional status. Ann Arbor, MI: University of Michigan Press; 
+1990. 
+[22] Corbo GM, Forastiere F, Agabiti N, et al. Snoring in 9-to 15-year-old 
+children: risk factors and clinical relevance. Pediatrics 2001;108: 
+1149–54. 
+[23] Marcus CL, Curtis S, Koerner CB, et al. Evaluation of pulmonary 
+function and polysomnography in obese children and adolescents. 
+Pediatr Pulmonol 1996;21:176–83. 
+[24] Marcus CL, Loughlin GM. Obstructive sleep apnea in children. Semin 
+Pediatr Neurol 1996;3:23–8. 
+[25] Redline S, Tishler PV, Schluchter M, et al. Risk factors for sleep-
+disordered breathing in children. Associations with obesity, race, and 
+respiratory problems. Am J Respir Crit Care Med 1999;159:1527–32. 
+[26] Fernbach 
+SK, Brouillette RT, Riggs TW, Hunt CE. Radiologic 
+evaluation of adenoids and tonsils in children with obstructive apnea: 
+plain films and fluoroscopy. Pediatr Radiol 1983;13:258–65. 
+[27] Laurikainen 
+E, Erkinjuntti M, Alihanka J, et al. Radiological 
+parameters of the bony nasopharynx and the adenotonsillar size 
+compared with sleep apnea episodes in children. Int J Pediatr 
+Otorhinolaryngol 1987;12:303–10. 
+[28] Brooks LJ, Stephens BM, Bacevice AM. Adenoid size is related to 
+severity but not the number of episodes of obstructive apnea in 
+children. J Pediatr 1998;132:682–6. 
+[29] Fregosi 
+RF, Quan SF, Kaemingk KL, et al. Sleep-disordered 
+breathing, pharyngeal size and soft tissue anatomy in children. 
+J Appl Physiol 2003;95:2030–8. 
+[30] Arens R, McDonough JM, Corbin AM, 
+et al. Upper airway size 
+analysis by magnetic resonance imaging of children with obstructive 
+sleep apnea syndrome. Am J Respir Crit Care Med 2003;167:65–70. 
+[31] Arens R, Marcus CL. Pathophysiology of upper airway obstruction: a 
+developmental perspective. Sleep 2004;27:997–1019. 
+[32] Vgontzas AN, Bixler EO, Chrousos GP. Metabolic disturbances in 
+obesity versus sleep apnoea: the importance of visceral obesity and 
+insulin resistance. J Intern Med 2003;254:32–44. 
+[33] Pouliot MC, Despres JP, Lemieux S, et al. Waist circumference and 
+abdominal sagittal diameter: best simple anthropometric indexes of 
+abdominal visceral adipose tissue accumulation and related cardiovascular 
+risk in men and women. Am J Cardiol 1994;73:460–8. 
+[34] de la Eva RC, Baur LA, Donaghue KC, Waters KA. Metabolic 
+correlates with obstructive sleep apnea in obese subjects. J Pediatr 
+2002;140:654–9. 
+[35] Maffeis C, Corciulo N, Livieri C, et al. Waist circumference as a 
+predictor of cardiovascular and metabolic risk factors in obese girls. 
+Eur J Clin Nutr 2003;57:566–72. 
+[36] Vikram NK, Misra A, Dwivedi M, et al. Correlations of C-reactive 
+protein levels with anthropometric profile, percentage of body fat and 
+lipids in healthy adolescents and young adults in urban North India. 
+Atherosclerosis 2003;168:305–13. 
+[37] Shinohara E, Kihara S, Yamashita S, et al. Visceral fat accumulation 
+as an important risk factor for obstructive sleep apnea syndrome in 
+obese subjects. J Intern Med 1997;241:11–18. 
+[38] Tauman R, Ivanenko A, O’Brien LM, Gozal D. Plasma C-reactive 
+protein levels among children with sleep-disordered breathing. 
+Pediatrics 2004;113:e564–e9. 
+[39] Silvestri JM, Weese-Mayer DE, Bass MT, et al. Polysomnography in 
+obese children with a history of sleep associated breathing disorders. 
+Pediatr Pulmonol 1993;16:124–9. 
+[40] Woodson BT, Brusky LT, Saurajen A, Jaradeh S. Association of 
+autonomic dysfunction and mild obstructive sleep apnea. Otolaryngol 
+Head Neck Surg 2004;130:643–8. 
+[41] Haynes 
+WG, Sivitz WI, Morgan DA, et al. Sympathetic 
+and cardiorenal actions of leptin. Hypertension 1997;30: 
+619–23. 
+[42] Rumantir MS, Vaz M, Jennings GL, et al. Neural mechanisms in 
+human obesity-related hypertension. J Hypertens 1999;17:1125–33. 
+[43] Chervin RD, Archbold KH, Dillon JE, et al. Inattention, hyperactivity, 
+and symptoms of sleep-disordered breathing. Pediatrics 2002;109: 
+449–56. 
+[44] O’Brien 
+LM, Mervis CB, Holbrook CR, et al. Neurobehavioral 
+implications of habitual snoring in children. Pediatrics 2004;114: 
+44–9. 
+[45] O’Brien 
+LM, Mervis CB, Holbrook CR, et al. Neurobehavioral 
+correlates of sleep-disordered breathing in children. J Sleep Res 2004; 
+13:165–72. 
+[46] Blunden S, Lushington K, Lorenzen B, et al. Neuropsychological and 
+psychosocial function in children with a history of snoring or 
+behavioral sleep problems. J Pediatr 2005;146:780–6. 
+

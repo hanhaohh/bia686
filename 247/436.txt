@@ -1,0 +1,1044 @@
+Daytime Sleepiness and Hyperactivity in Children With Suspected 
+Sleep-Disordered Breathing 
+
+
+Cecilia S. Melendres, Janita M. Lutz, Eric D. Rubin and Carole L. Marcus 
+Pediatrics 2004;114;768-775 
+DOI: 10.1542/peds.2004-0730 
+
+
+The online version of this article, along with updated information and services, is 
+located on the World Wide Web at: 
+
+
+http://www.pediatrics.org/cgi/content/full/114/3/768 
+
+
+PEDIATRICS is the official journal of the American Academy of Pediatrics. A monthly 
+publication, it has been published continuously since 1948. PEDIATRICS is owned, published, 
+and trademarked by the American Academy of Pediatrics, 141 Northwest Point Boulevard, Elk 
+Grove Village, Illinois, 60007. Copyright © 2004 by the American Academy of Pediatrics. All 
+rights reserved. Print ISSN: 0031-4005. Online ISSN: 1098-4275. 
+
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+Daytime Sleepiness and Hyperactivity in Children With Suspected 
+Sleep-Disordered Breathing 
+
+
+Ma. Cecilia S. Melendres, MD*; Janita M. Lutz, RPsgT*; Eric D. Rubin, MD‡; and 
+Carole L. Marcus, MBBCh* 
+
+
+ABSTRACT. Objectives. Excessive daytime sleepiness 
+(EDS) is seen less frequently as a presenting complaint 
+in children with sleep-disordered breathing than 
+in adults. Instead, symptoms of hyperactivity are often 
+described. We hypothesized that children with suspected 
+sleep-disordered breathing (S-SDB) were both sleepier 
+and more hyperactive than control subjects. Furthermore, 
+we hypothesized that overnight polysomnographic parameters 
+correlated with sleepiness and hyperactivity. 
+
+Methods. A cross-sectional study was conducted at a 
+university-affiliated hospital and a community-based pediatric 
+clinic. A total of 108 patients with S-SDB (mean 
+[standard deviation] age: 7 . 
+4 years) and 72 control 
+subjects (8 . 
+4 years) were recruited. A modified Epworth 
+Sleepiness Scale (ESS) and the Conners Abbreviated 
+Symptom Questionnaire were administered. Polysomnography 
+was performed in patients with S-SDB. 
+
+Results. Patients with S-SDB had a higher ESS (8.1 . 
+
+
+4.9 vs 5.3 . 
+3.9) and a higher Conners score (12.8 . 
+7.6 vs 
+9.0 . 
+6.2) than control subjects. On the basis of adult 
+criteria, 28% of patients had EDS. There was no difference 
+in the ESS and Conners scores of patients with 
+primary snoring and patients with obstructive sleep apnea. 
+The ESS had weak correlations with polysomnographic 
+parameters. 
+Conclusions. Although the ESS score of children with 
+S-SDB was within the normal range for adults, these 
+children were sleepier and more hyperactive than control 
+subjects. However, these data should be confirmed by a 
+population-based study. Pediatrics 2004;114:768–775; obstructive 
+sleep apnea, Epworth score, polysomnography. 
+
+ABBREVIATIONS. OSAS, obstructive sleep apnea syndrome; 
+EDS, excessive daytime sleepiness; SDB, sleep-disordered breathing; 
+S-SDB, suspected sleep-disordered breathing; PSG, polysomnography; 
+ESS, Epworth Sleepiness Scale; Sao2, arterial oxygen 
+saturation; ETco2, end-tidal carbon dioxide tension; PS, primary 
+snoring; PLM, periodic limb movement; REM, rapid eye movement; 
+UARS, upper airway resistance syndrome; EEG, 
+electroencephalogram. 
+
+From the *Eudowood Division of Pediatric Respiratory Sciences, Johns 
+Hopkins University School of Medicine, Baltimore, Maryland; and ‡East 
+Baltimore Medical Center, Baltimore, Maryland. 
+Accepted for publication Apr 9, 2004. 
+DOI: 10.1542/peds.2004-0730 
+Reprint requests to (C.L.M.) Children’s Hospital of Philadelphia, Pulmonary 
+Division, 5th Floor Wood, 34th St and Civic Center Blvd, Philadelphia, 
+PA 19104. E-mail: marcus@email.chop.edu 
+PEDIATRICS (ISSN 0031 4005). Copyright © 2004 by the American Academy 
+of Pediatrics. 
+
+T
+T
+he childhood obstructive sleep apnea syndrome 
+(OSAS) is a disorder of breathing during 
+sleep characterized by prolonged partial 
+upper airway obstruction and/or intermittent complete 
+obstruction that disrupts normal ventilation 
+during sleep and normal sleep patterns.1 It has an 
+estimated prevalence of 1% to 2% among young 
+children2,3 and can lead to serious morbidity and 
+even mortality if left untreated.4–7 
+
+In contrast to adults, excessive daytime sleepiness 
+(EDS) is seen less frequently as a presenting complaint 
+in children with sleep-disordered breathing 
+(SDB).4,8–10 Symptoms of inattention and hyperactivity 
+are often described.8 The prevalence of EDS in 
+children with SDB has been shown to vary over a 
+wide range, from as low as 8% to as high as 84%.7,9–12 
+The significantly differing values may be attributable 
+in part to a lack of standard assessment techniques 
+for sleepiness in children. Previous studies have used 
+different subjective criteria such as the use of parental 
+report. Only 1 previous study used objective criteria 
+to evaluate sleepiness in children with SDB.13 
+The present study aimed to use a simple and inexpensive 
+instrument, which has been validated in 
+adults,14,15 to evaluate EDS in children with suspected 
+SDB (S-SDB). 
+
+We hypothesized that children with S-SDB were 
+both sleepier and more hyperactive than control subjects. 
+Furthermore, we hypothesized that parameters 
+on overnight polysomnography (PSG) correlated 
+with EDS and hyperactivity in these children. 
+
+METHODS 
+
+The study protocol was approved by the Institutional Review 
+Board of Johns Hopkins University. Informed consent was secured 
+from the subjects’ parents or legal guardians. Assent was 
+obtained from all subjects 5 years of age. Patients with S-SDB 
+and control subjects were studied. Control subjects were screened 
+using Brouillette’s scoring system.16 A modified Epworth Sleepiness 
+Scale (ESS)14 and the Conners Abbreviated Symptom Questionnaire17 
+for hyperactivity were administered to all subjects. 
+Patients with S-SDB then underwent overnight PSG. 
+
+Study Population 
+
+S-SDB patients were recruited sequentially and prospectively 
+from all new patients who were referred to the Pediatric Sleep 
+Disorders Clinic at Johns Hopkins Hospital for evaluation of clinically 
+S-SDB secondary to adenotonsillar hypertrophy. Children 
+were included when they were aged 2 to 18 years. They were 
+excluded when they had other medical or neurologic conditions, 
+had craniofacial abnormalities, had undergone adenotonsillectomy 
+or other upper airway surgery, or were on medications that 
+could affect their level of alertness. All patients were seen by a 
+pediatric sleep specialist, and those with possible sleep disorders 
+
+768 PEDIATRICS Vol. 114 No. 3 September 2004
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+other than OSAS were excluded. Control subjects were recruited 
+from a general pediatric clinic in a primary care setting and from 
+the Dermatology Clinic at Johns Hopkins Hospital. 
+
+Screening of Control Subjects 
+
+Control subjects were screened for OSAS using Brouillette’s 
+scoring system. Brouillette et al16 formulated a scoring system to 
+determine the likelihood of OSAS on the basis of history alone. 
+Three variables were included in this score: difficulty breathing 
+during sleep, observed apnea, and snoring. A child with a score of 
+1 had no OSAS, whereas a child with a score 3.5 had OSAS; 
+scores between 1 and 3.5 were indeterminate. In our study, 
+control subjects with an OSAS score 1 were excluded. 
+
+Questionnaires 
+
+Two questionnaires (a modified ESS and the Conners Abbreviated 
+Symptom Questionnaire for hyperactivity) were administered 
+to the child’s caregiver by a trained research assistant. In 
+addition, questions were asked directly to the first 46 children 6 
+years of age. 
+
+The ESS is a measure of a person’s general level of daytime 
+sleepiness.14 It is an 8-item questionnaire detailing an individual’s 
+propensity to fall asleep during commonly encountered situations. 
+Scores can range from 0 to 24. In adults, an ESS score 10 is taken 
+to indicate increased daytime sleepiness.14 The ESS was modified 
+slightly in this study to be more applicable to children. The mention 
+of alcohol was deleted in question number 7. In addition, 
+question 8 was taken to indicate that the subject was a passenger 
+in the car (Appendix 1). 
+
+The Conners Abbreviated Symptom Questionnaire for hyperactivity 
+is a 10-item index from the Revised Conners Parent Rating 
+Scale.17 This is used in rating children who are aged 3 to 17 years 
+for the presence of inattention, distractibility, and overactivity. 
+Raw scores may range from 0 to 30, with a score of 15 considered 
+clinically relevant (Appendix 2). 
+
+PSG 
+
+Patients with S-SDB underwent an overnight polysomnogram. 
+Control subjects did not undergo PSG. Standard PSG consisted of 
+electroencephalogram (C3A2/C3O1); electromyogram (submental 
+and tibial); electrooculogram (right, left); arterial oxygen saturation 
+(Sao2), oximeter pulse wave form, and end-tidal carbon dioxide 
+tension (ETco2); oronasal airflow using a thermistor; and 
+thoracic and abdominal wall motion (piezo belts or respiratory 
+inductance plethysmography). Sleep was staged based on the 
+criteria of Rechtschaffen and Kales.18 Arousals were scored according 
+to the American Sleep Disorders Association criteria.19 
+Standard pediatric scoring criteria were used for respiratory 
+events.1 Hypopneas were scored when there was a decrease in 
+airflow 50% associated with either a 3% desaturation or an 
+arousal.1 The apnea-hypopnea index was defined as the total 
+number of obstructive apneas, hypopneas, and mixed apneas per 
+hour of sleep. OSAS was defined as an obstructive apnea index 
+
+1/hour.1,7 Severity of OSAS was classified on the basis of the 
+obstructive apnea index, with mild OSAS having an obstructive 
+index between 1 and 4/hour, moderate OSAS 5 and 9/hour, and 
+severe OSAS 10/hour.20 Primary snoring (PS) was defined as 
+snoring without episodes of apnea, desaturation, hypoventilation, 
+or excessive arousals.21 Periodic limb movements (PLMs) were 
+scored using the International Classification of Sleep Disorders 
+(Revised) criteria.21 The scorer was blinded to the results of the 
+questionnaires. 
+Statistical Analysis 
+
+Data were expressed as means and standard deviations, where 
+appropriate. 2 analysis was used for categorical variables. The 
+unpaired t test was used to compare ESS scores of patients with 
+S-SDB versus control subjects, as well as the Conners scores of 
+patients with S-SDB versus control subjects. The ESS scores of 
+children who were younger than 5 years were also analyzed 
+separately as children in this age group usually take daytime naps. 
+To assess for the contribution of puberty to the degree of daytime 
+sleepiness in our subjects, we analyzed separately the ESS scores 
+of children who were older than 12 years (which was arbitrarily 
+set as the cutoff age for puberty). One-way analysis of variance 
+was performed to test the difference in ESS scores of patients with 
+
+mild, moderate, and severe OSAS. Similarly, one-way analysis of 
+variance was used to test the difference in Conners scores between 
+patients with mild, moderate, and severe OSAS. As the Conners 
+score has been studied only in children 3 to 17 years of age, data 
+were reanalyzed with subjects younger than 3 years excluded. The 
+Spearman correlation coefficient was used to describe the relationship 
+between the ESS score and PSG variables, as well as between 
+the Conners score and PSG variables. PSG variables evaluated 
+include sleep efficiency, arousal index, apnea-hypopnea index, 
+apnea-hypopnea index during rapid eye movement (REM) sleep, 
+Sao2 nadir, duration of Sao2 92%, mean ETco2, mean ETco2 
+during REM sleep, peak ETco2, duration of ETco2 50 mm Hg, 
+and PLM index. A Bonferroni correction for multiple comparisons 
+was used. 
+
+RESULTS 
+
+Study Group 
+
+Of all subjects who were approached to join the 
+study, only 1 family refused. A total of 203 consecutive 
+children were recruited; 23 were excluded. 
+Among the patients with S-SDB, 18 were excluded. 
+Seventeen of these children failed to undergo a sleep 
+study, and 1 had a sleep study done at another 
+institution. Among the control subjects, 5 were excluded 
+because of an OSAS score 1. Therefore, 
+108 patients with S-SDB and 72 control subjects composed 
+the study population. The 2 groups were not 
+statistically different on the basis of age, gender, race, 
+and type of insurance (Table 1). The type of insurance 
+was used as a surrogate measure of socioeconomic 
+status. Snoring was present in all but 1 of the 
+patients with S-SDB. Twenty-two patients had a history 
+of daytime sleepiness by parental report. 
+
+ESS and Conners Score 
+
+The first 46 children who were 6 years of age 
+gave separate ESS scores from their parents. As the 
+correlation between parent and child ESS score was 
+good (r . 
+0.71, P . 
+.001), subsequent ESS scores were 
+obtained from the accompanying caregiver alone. 
+The mean ESS score given by parents of patients with 
+S-SDB was significantly higher than that of control 
+subjects (8.1 . 
+4.9 vs 5.3 . 
+3.9; P . 
+.001; Fig 1). 
+Taking an ESS score 10 as the cutoff for increased 
+daytime sleepiness, 32 (28%) patients with S-SDB 
+and 9 (12%) control subjects had EDS (P . 
+.007). 
+There was no significant difference in the ESS scores 
+of patients who had S-SDB and were younger than 5 
+years and those who were 5 years and older (8.2 . 
+
+
+4.2 vs 8.1 . 
+5.2, respectively). Likewise, the ESS 
+scores of children who had S-SDB and were 12 
+TABLE 1. Demographic Data of Study Population 
+
+Patients Controls 
+With S-SDB 
+N 108 72 
+Age, y, mean . 
+SD (range) 7 . 
+4(2–16) 8 . 
+4(2–17) 
+Female gender, n (%) 58 (55) 43 (60) 
+Race, n (%) 
+White 26 (24) 26 (36) 
+Black 79 (73) 46 (64) 
+Other 3 (3) 0 (0) 
+Private insurance, n (%) 37 (34) 28 (39) 
+
+There was no statistical difference between patients with S-SDB 
+and control subjects on the basis of age, gender, race, and type of 
+insurance. The type of insurance was used as a surrogate measure 
+of socioeconomic status. 
+
+ARTICLES 769 
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+Fig 1. The ESS score of patients with S-SDB was higher than the 
+score of control subjects (P .001). 
+
+
+years (8.1 4.8) were not statistically different from 
+the ESS scores of those who were older than 12 years 
+
+(8.4 6.6). The ESS scores of patients with S-SDB and 
+control subjects who were younger than 5 years (8.2 
+4.2 vs 8.0 4.2) were not significantly different, 
+but the ESS scores of patients who had S-SDB and 
+control subjects who were older than 12 years (8.4 . 
+6.6 vs 4.3 2.6) were (P .05). 
+The Conners score of patients with S-SDB (12.8 . 
+7.6) was significantly higher (P .001) than the score 
+of control subjects (9.0 6.2; Fig 2), although it was 
+lower than the score considered clinically relevant. 
+Excluding children 3 years of age, the significant 
+difference between the Conners score of patients 
+with S-SDB and controls persisted (13.0 7.5 vs 9.0 
+
+6.3, respectively). 
+Subgroup Analysis 
+
+The PSG results are shown in Table 2. Of the 108 
+patients with clinically S-SDB, 63 (58%) received a 
+diagnosis of PS on overnight PSG. The remaining 45 
+(42%) had various degrees of OSAS. Twenty-one had 
+mild, 8 had moderate, and 16 had severe OSAS. 
+None of the patients with S-SDB fulfilled the criteria 
+for PLM disorder. The ESS score of patients with 
+
+Fig 2. The Conners score of patients with S-SDB was higher than 
+the score of control subjects (P .001). 
+
+
+TABLE 2. PSG Results of Children With S-SDB 
+
+PSG Parameter Mean SD (range) 
+
+Sleep efficiency, % 83 12 (39–97) 
+Arousal index, n/h 10 8(1–53) 
+Apnea-hypopnea index, n/h 8 18 (0–48.2) 
+REM apnea-hypopnea 17 30 (0–148.2) 
+
+index, n/h REM sleep 
+REM obstructive index, n/h 10 20 (0–107.5) 
+
+REM sleep 
+Peak ETco2, mmHg 52 5 (41–67) 
+Sao2 nadir, % 88 10 (48–98) 
+Mean Sao2,% 98 2 (88–100) 
+Mean Sao2 (REM sleep), % 97 3 (73–100) 
+PLM index, n/h 0.3 0.8 (0–3.3) 
+
+OSAS (8.3 5.6) was not statistically different from 
+the ESS score of those who had a diagnosis of PS 
+alone (8.0 4.5). There was also no difference between 
+the ESS score of patients with mild, moderate, 
+and severe OSAS (Fig 3). Similarly, the Conners score 
+was not statistically different between patients with 
+OSAS and those with PS (12.6 8.3 and 13.0 7.0 
+for OSAS and PS respectively). There was also no 
+statistically significant difference in the Conners 
+scores of patients with mild, moderate, and severe 
+OSAS (Fig 4). 
+
+In children with OSAS, the ESS score had a statistically 
+significant but weak correlation with the mean 
+Sao2 during REM sleep (r 0.41, P .05), PLM 
+index (r 0.40, P .05), apnea-hypopnea index (r . 
+0.32, P .05), mean Sao2(r 0.31, P .05), and 
+Sao2 nadir (r 0.31, P .05) but not with other 
+parameters tested (Table 3). However, when the P 
+value was adjusted for multiple comparisons using 
+the Bonferroni correction factor, these correlations 
+failed to reach significance. There was no significant 
+correlation between the Conners score and PSG parameters. 
+
+
+As most children with OSAS obstruct primarily 
+during REM sleep,22 data were reanalyzed using the 
+apnea-hypopnea index during REM sleep. No significant 
+correlation was found between the ESS or Conners 
+scores and the REM apnea-hypopnea index. 
+However, ESS scores correlated with the mean Sao2 
+during REM sleep. 
+
+DISCUSSION 
+
+To our knowledge, this is the first study to evaluate 
+the use of the ESS score in children. We have 
+shown that children with S-SDB were sleepier than 
+age-, gender-, and race-matched control subjects. 
+Our data also confirmed previous reports that children 
+with S-SDB exhibit more symptoms of attention-
+deficit/hyperactivity disorder than normal children. 
+PSG parameters correlated only weakly with 
+the ESS score and had no significant correlation with 
+hyperactivity. 
+
+Daytime Sleepiness 
+
+EDS is a cardinal feature of adult OSAS.21 In children, 
+it is relatively uncommon, but its reported 
+prevalence has varied over a wide range.7,9–12 Although 
+the mean ESS score of children with S-SDB 
+
+770 SLEEPINESS AND HYPERACTIVITY IN OSAS 
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+Fig 3. One-way analysis of variance revealed 
+that the ESS scores of patients with mild, 
+moderate, and severe OSAS did not differ 
+significantly. 
+
+
+Fig 4. One-way analysis of variance revealed 
+that the Conners scores of patients with mild, 
+moderate, and severe OSAS did not differ significantly. 
+
+
+TABLE 3. Correlation Between PSG Parameters and ESS and Conners Scores 
+
+PSG Parameter Correlation With Correlation With 
+ESS Score (r) Conners Score (r) 
+
+Sleep efficiency, % 0.05 0.09 
+Arousal index, n/h 0.25 0.04 
+Apnea-hypopnea index, n/h 0.32* 0.24 
+REM apnea-hypopnea index, n/h 0.26 0.13 
+REM obstructive apnea index, n/h 0.24 0.19 
+Peak ETco2,mmHg 0.19 0.29 
+Mean ETco2,mmHg 0.04 0.12 
+Mean ETco2, REM sleep, mm Hg 0.13 0.19 
+Duration ETco2 50 mm Hg, min 0.06 0.03 
+Sao2 nadir, % 0.31* 0.22 
+Mean Sao2,% 0.31* 0.16 
+Mean Sao2, REM sleep, % 0.41* 0.27 
+Duration Sao2 92%, min 0.13 0.03 
+PLM index, n/h 0.40* 0.25 
+
+* P . 
+.05. 
+did not reach the level generally set for EDS based on 
+adult studies (ESS 10),14 it was statistically higher 
+than the ESS score of control subjects. Therefore, as a 
+group, we have shown that children with S-SDB are 
+relatively sleepy compared with nonsnoring control 
+subjects. 
+
+An interesting finding was the lack of a significant 
+difference between the ESS scores of children with 
+S-SDB and control subjects who were younger than 5 
+
+years. That children in this age group usually nap 
+during the day may account for this lack of difference 
+in parental perception of sleepiness. 
+
+After classifying children who were referred for 
+S-SDB into those with PS and those with OSAS, there 
+was no significant difference in daytime sleepiness 
+between these 2 groups. Daytime symptoms are traditionally 
+thought to be absent in patients with PS.21 
+Our results, however, suggest that snoring may in 
+
+ARTICLES 771 
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+itself be associated with sleepiness in children. Similar 
+findings have been shown in adult studies.23,24 In 
+a cross-sectional cohort of 5777 adults, the authors 
+found that snoring was independently associated 
+with excess sleepiness.23 In another adult study, daytime 
+sleepiness, as measured by both ESS and multiple 
+sleep latency test, was compared between normal 
+controls and patients with either upper airway 
+resistance syndrome (UARS), sleep hypopnea syndrome, 
+or OSAS.25 There was a significant difference 
+between the ESS scores of the controls versus the 
+patients with SDB. However, the ESS and multiple 
+sleep latency test were similar for the 3 patient 
+groups. 
+
+Classifying the children with OSAS in our study 
+according to severity did not yield a significant relationship 
+between the severity of OSAS and the degree 
+of daytime sleepiness. It is possible that children 
+may have varying susceptibility to the effects of 
+OSAS severity, accounting for the lack of relationship. 
+Previous studies have shown conflicting results 
+in this area. Some adult studies have similarly shown 
+this lack of relationship,26–28 whereas others have 
+shown a positive relationship between OSAS severity 
+and the degree of sleepiness.13,29 As there were 
+only a small number of children with moderate to 
+severe OSAS, it is also possible that our study was 
+underpowered to detect a significant relationship. 
+
+Relationship Between PSG Parameters and Daytime 
+Sleepiness 
+
+We found weak correlations between daytime 
+sleepiness and the mean Sao2 during REM sleep, 
+PLM index, the apnea-hypopnea index, and the lowest 
+recorded Sao2. There was no significant relationship 
+between daytime sleepiness and sleep efficiency 
+or the arousal index. 
+
+The link between the ESS score and PSG parameters 
+is unclear. Some studies have shown significant 
+correlation between these, whereas others have not. 
+In adults with OSAS, sleep fragmentation as a result 
+of recurrent arousal is thought to be the primary 
+reason for EDS.30,31 Other factors have also been 
+shown to correlate with daytime sleepiness, such as 
+nocturnal hypoxemia and the apnea-hypopnea index.
+32,33 In our study, none of the PSG parameters 
+could be used to predict daytime sleepiness, as the 
+correlations were weak. Similar findings have been 
+shown in a number of adult studies.26,27,34 
+
+The PLM disorder, defined as a PLM index 5, is 
+believed to cause daytime sleepiness due to recurrent 
+arousals, resulting in sleep fragmentation.21 Although 
+none of the patients in the present study 
+satisfied the criteria for this disorder, the PLM index 
+showed a weak correlation with daytime sleepiness 
+(Table 2). With this weak correlation, it is unlikely 
+that PLMs contribute significantly to the daytime 
+sleepiness in children with S-SDB. Using both objective 
+and subjective measures of daytime sleepiness, a 
+recent study also showed comparable findings.35 
+
+The absence of a strong relation between PSG pa
+
+
+rameters and daytime sleepiness in this study brings 
+up the possibility either that we are not measuring 
+the right parameter during routine PSG or that the 
+commonly measured parameters in PSG are not sensitive 
+determinants of daytime sleepiness. Sleep fragmentation 
+seems not to be a major factor in the 
+development of daytime sleepiness in children with 
+OSAS, as there was no significant correlation between 
+daytime sleepiness and the arousal index. In 
+fact, previous studies have shown that apneas in 
+children are terminated by arousal less often than in 
+adults, leading to less fragmented sleep.36 Theoretically, 
+measures of increased upper airway resistance, 
+such as esophageal pressure swings, may be more 
+sensitive determinants of daytime sleepiness. 
+
+UARS, which is part of the spectrum of SDB, is 
+characterized by EDS as a result of fragmented sleep 
+caused by brief arousals not associated with discrete 
+apneas or gas exchange abnormalities.25 It is diagnosed 
+by demonstrating an association between 
+esophageal pressure swings and arousals.37 As 
+esophageal pressure was not measured in this study, 
+it is possible that some of the subjects who were 
+labeled as PS may actually have had UARS. However, 
+in that case, we would have expected to see a 
+correlation between the arousal index and the ESS 
+score. 
+
+Alternatively, subcortical arousals that have been 
+shown to be common in children may also be contributing 
+to sleepiness.38 The pulse transit time, 
+which is a noninvasive measure of subcortical 
+arousal, was found to be a more sensitive measure of 
+sleep disruption than visible electroencephalogram 
+(EEG) arousals.39 In addition, significant changes in 
+spectral EEG characteristics have been shown in obstructive 
+events not terminated by EEG arousal.40 
+These measures of subcortical arousal, which are not 
+part of the routinely measured parameters on PSG 
+and were not analyzed in this study, may perhaps 
+have a stronger relation with daytime sleepiness. 
+This may be an area for future research. With the 
+correlation, although weak, between sleepiness and 
+oxygen saturation, hypoxemia may play a bigger role 
+in the cause of sleepiness in children with SDB than 
+EEG arousals. 
+
+Attention Deficit and Hyperactivity 
+
+On the basis of the Conners score, we found that 
+children with S-SDB had more symptoms of attention-
+deficit/hyperactivity disorder than control subjects 
+(Fig 2). There was no difference in attentiondeficit/
+hyperactivity symptoms between the PS and 
+OSAS groups. 
+
+These data confirm previous reports that children 
+with SDB commonly manifest neurobehavioral complications, 
+specifically hyperactivity and inattention.
+2,5,41–43 It is interesting that the Conners score of 
+children with OSAS was not statistically different 
+from the Conners score of children with PS alone. 
+Similar findings were shown in a recent study of 113 
+children who were referred for S-SDB.42 There was 
+no difference in the hyperactivity scores of children 
+
+772 SLEEPINESS AND HYPERACTIVITY IN OSAS 
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+who subsequently received a diagnosis of SDB by 
+polysomnography and those without. These findings 
+suggest that snoring by itself may affect a child’s 
+daytime behavior. 
+
+None of the PSG parameters measured in our 
+study correlated to a significant degree with symptoms 
+of attention-deficit/hyperactivity disorder. 
+Likewise, Chervin et al42 found no correlation between 
+hyperactivity and respiratory parameters on 
+PSG. However, they found a correlation between 
+hyperactivity and the PLM index. This association 
+was found only in patients with SDB. 
+
+The absence of a relation between PSG parameters 
+and symptoms of attention deficit and hyperactivity 
+again indicates that we may be measuring the wrong 
+parameters or that commonly measured parameters 
+on nocturnal PSG are not sensitive determinants of 
+hyperactivity. Hyperactivity has been proposed to be 
+a child’s way of acting out daytime sleepiness. As 
+such, measures of subcortical arousal associated with 
+respiratory events may give better correlations with 
+hyperactivity. 
+
+It is important to note that we excluded children 
+who were taking medications that could affect their 
+level of alertness, including those who were taking 
+drugs used for attention-deficit/hyperactivity disorder. 
+As such, our data may have underestimated 
+attention-deficit and hyperactivity in children with 
+S-SDB. In addition, differences in birth history and 
+other medical conditions may have played a role. 
+However, as we excluded those with significant 
+medical conditions, it is unlikely that these factors 
+played a major role. 
+
+Study Limitations 
+
+This study compared clinically referred children 
+with S-SDB with control subjects from other clinics. 
+Thus, clinical referral bias may account for the difference 
+in ESS and Conners scores between patients 
+and control subjects. The ESS and the Conners score 
+are subjective methods of assessing sleepiness and 
+hyperactivity and as such may also be prone to report 
+bias. Of note, however, is that only 22 of the 108 
+patients with S-SDB had a history of daytime sleepiness 
+by parental report. Most children presented 
+with chief complaints of snoring and witnessed apnea 
+during sleep. Furthermore, all children were 
+seen by a sleep specialist, and children with other 
+types of sleep disorders were excluded. Nevertheless, 
+it would be important to confirm these results 
+with a population-based study. 
+
+Our control subjects did not undergo a sleep study 
+but were screened for OSAS on the basis of history 
+using the OSAS score developed by Brouillette et 
+al.16 This score has been shown to differentiate am 
+individual with no SDB from one with OSAS, although 
+it has not been shown to be effective at differentiating 
+PS from OSAS. 
+
+The use of a thermistor to measure nasal airflow 
+has its limitations. Being a qualitative measurement, 
+it is not as sensitive in detecting flow limitation, 
+which may be associated with increased upper airway 
+resistance or hypopneas.1 Nasal cannula pres
+
+
+sure measurements, which have been validated in 
+adults,44 have been shown to detect apneas, hypopneas, 
+and flow-limited events not identified by thermistors 
+in children.45,46 However, as this detects only 
+nasal airflow, it may miss events in children who 
+frequently mouth-breathe45,46 and in those who experience 
+nasal obstruction.47 As such, to minimize 
+the limitations associated with the use of a thermistor, 
+we used the ETco2 wave form as an additional 
+means of measuring airflow. 
+
+It should be noted that the majority of subjects in 
+both the S-SDB and control groups were black, reflecting 
+the ethnic mix of our hospital’s clinical population. 
+Thus, the study sample may not be representative 
+of the rest of the United States. 
+
+CONCLUSIONS 
+
+In summary, we have shown that although the 
+mean ESS score of patients was within the normal 
+range for adults, children with S-SDB were sleepier 
+and more hyperactive than control subjects. These 
+findings have important implications in clinical practice 
+as we have shown that even the mildest form of 
+SDB may be associated with daytime symptoms. The 
+long-term consequence of this is currently unknown, 
+but it is possible that the neurocognitive functioning 
+of a child may be affected. We have also shown that 
+the ESS is a simple and useful test to administer to 
+children. However, the results of this study need to 
+be confirmed by a population-based study with a 
+more representative population. Additional studies 
+are needed to elucidate the causative factors for EDS 
+and hyperactivity in children with S-SDB. 
+
+APPENDIX 1: MODIFIED EPWORTH 
+SLEEPINESS SCALE 
+
+
+How likely are you/your child to doze off or fall 
+asleep in the following situations, in contrast to feeling 
+just tired? This refers to your usual way of life in 
+recent times. Even if you/your child have not done 
+some of these things recently, try to work out how 
+they would have affected you/your child. Use the 
+following scale to choose the most appropriate number 
+for each situation: 
+
+0 . 
+no chance of dozing 
+
+1 . 
+slight chance of dozing 
+
+2 . 
+moderate chance of dozing 
+
+3 . 
+high chance of dozing 
+
+Situation Chance of 
+Dozing 
+
+Sitting and reading 
+
+Watching TV 
+
+Sitting inactive in a public place (eg, movie theater 
+or a meeting) 
+
+As a passenger in a car for an hour without a 
+break 
+
+Lying down to rest in the afternoon when 
+circumstances permit 
+
+Sitting and talking to someone 
+
+Sitting quietly after lunch 
+
+In a car, while stopped for a few minutes in traffic 
+
+ARTICLES 773 
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+APPENDIX 2: CONNERS ABBREVIATED 
+SYMPTOM QUESTIONNAIRE 
+
+
+Observation Not Just a Pretty Very 
+at All Little Much Much 
+
+1. Restless or overactive 
+2. Excitable, impulsive 
+3. Disturbs other children 
+4. Fails to finish things he/she 
+starts–short attention span 
+5. Constantly fidgeting 
+6. Inattentive, easily distracted 
+7. Demands must be met 
+immediately–easily 
+frustrated 
+8. Cries often and easily 
+9. Mood changes quickly and 
+drastically 
+10. Temper outbursts, explosive 
+and unpredictable behavior 
+ACKNOWLEDGMENTS 
+
+This study was funded through National Heart, Lung, and 
+Blood Institute Grant HL 58585. 
+
+We thank all of the children and their parents who participated 
+in this study. 
+
+REFERENCES 
+
+1. Standards and indications for cardiopulmonary sleep studies in children. 
+American Thoracic Society. Am J Respir Crit Care Med. 1996;153: 
+866–878 
+2. Ali NJ, Pitson DJ, Stradling JR. Snoring, sleep disturbance, and behaviour 
+in 4-5 year olds. Arch Dis Child. 1993;68:360 –366 
+3. Redline S, Tishler PV, Schluchter M, Aylor J, Clark K, Graham G. Risk 
+factors for sleep-disordered breathing in children. Associations with 
+obesity, race, and respiratory problems. Am J Respir Crit Care Med. 
+1999;159:1527–1532 
+4. Cardiorespiratory sleep studies in children. Establishment of normative 
+data and polysomnographic predictors of morbidity. American Thoracic 
+Society. Am J Respir Crit Care Med. 1999;160:1381–1387 
+5. Ali NJ, Pitson D, Stradling JR. Sleep disordered breathing: effects of 
+adenotonsillectomy on behaviour and psychological functioning. Eur 
+J Pediatr. 1996;155:56 –62 
+6. Gozal D. Sleep-disordered breathing and school performance in children. 
+Pediatrics. 1998;102:616 –620 
+7. Marcus CL, Carroll JL. Obstructive sleep apnea syndrome. In: Loughlin 
+GM, Eigen H, eds. Respiratory Disease in Children: Diagnosis and Management. 
+Baltimore, MD: Williams & Wilkins; 1994:475–499 
+8. Arens R. Obstructive sleep apnea in childhood: clinical features. In: 
+Loughlin GM, Carroll J, Marcus CL, eds. Sleep and Breathing in Children: 
+A Developmental Approach. New York, NY: Marcel Dekker; 2000:575–600 
+9. Frank Y, Kravath RE, Pollak CP, Weitzman ED. Obstructive sleep apnea 
+and its therapy: clinical and polysomnographic manifestations. Pediatrics. 
+1983;71:737–742 
+10. Rosen CL. Clinical features of obstructive sleep apnea hypoventilation 
+syndrome in otherwise healthy children. Pediatr Pulmonol. 1999;27: 
+403–409 
+11. Carroll J, Loughlin GM. Obstructive sleep apnea syndrome in infants 
+and children: clinical features and pathophysiology. In: Ferber R, Kryger 
+M, eds. Principles and Practice of Sleep Medicine in the Child. Philadelphia, 
+PA: WB Saunders Company; 1995:163–191 
+12. Guilleminault C, Korobkin R, Winkle R. A review of 50 children with 
+obstructive sleep apnea syndrome. Lung. 1981;159:275–287 
+13. Gozal D, Wang M, Pope DW Jr. Objective sleepiness 
+measures in 
+pediatric obstructive sleep apnea. Pediatrics. 2001;108:693–697 
+14. Johns MW. A new method for measuring daytime sleepiness: the Epworth 
+sleepiness scale. Sleep. 1991;14:540 –545 
+15. Johns MW. Reliability and factor analysis of the Epworth Sleepiness 
+Scale. Sleep. 1992;15:376 –381 
+16. Brouillette R, Hanson D, David R, et al. A diagnostic approach to 
+suspected obstructive sleep apnea in children. J Pediatr. 1984;105:10 –14 
+17. Casat CD, Norton HJ, Boyle-Whitesel M. Identification of elementary 
+school children at risk for disruptive behavioral disturbance: validation 
+of a combined screening method. J Am Acad Child Adolesc Psychiatry. 
+1999;38:1246–1253 
+
+18. Rechtschaffen A, Kales A. A Manual of Standardized Terminology, Techniques 
+and Scoring Systems for Sleep Stages of Human Subjects. Los Angeles, 
+CA: UCLA Brain Information Service/Brain Research Institute; 1968 
+19. EEG arousals: scoring rules and examples: a preliminary report from 
+the Sleep Disorders Atlas Task Force of the American Sleep Disorders 
+Association. Sleep. 1992;15:173–184 
+20. Katz ES, Greene MG, Carson KA, et al. Night-to-night variability of 
+polysomnography in children with suspected obstructive sleep apnea. 
+J Pediatr. 2002;140:589 –594 
+21. American Sleep Disorders Association. International Classification of Sleep 
+Disorders, Revised: Diagnostic and Coding Manual. Rochester, MN: American 
+Sleep Disorders Association; 1997 
+22. Goh DY, Galster P, Marcus CL. Sleep architecture and respiratory 
+disturbances in children with obstructive sleep apnea. Am J Respir Crit 
+Care Med. 2000;162:682–686 
+23. Gottlieb DJ, Yao Q, Redline S, Ali T, Mahowald MW. Does snoring 
+predict sleepiness independently of apnea and hypopnea frequency? 
+Am J Respir Crit Care Med. 2000;162:1512–1517 
+24. Guilleminault C, Do KY, Chowdhuri S, Horita M, Ohayon M, Kushida 
+C. Sleep and daytime sleepiness in upper airway resistance syndrome 
+compared to obstructive sleep apnoea syndrome. Eur Respir J. 2001;17: 
+838–847 
+25. Guilleminault C, Stoohs R, Clerk A, Cetel M, Maistros P. A cause of 
+excessive daytime sleepiness. The upper airway resistance syndrome. 
+Chest. 1993;104:781–787 
+26. Cheshire K, Engleman H, Deary I, Shapiro C, Douglas NJ. Factors 
+impairing daytime performance in patients with sleep apnea/hypopnea 
+syndrome. Arch Intern Med. 1992;152:538 –541 
+27. Guilleminault C, Partinen M, Quera-Salva MA, Hayes B, Dement WC, 
+Nino-Murcia G. Determinants of daytime sleepiness in obstructive sleep 
+apnea. Chest. 1988;94:32–37 
+28. Kingshott RN, Sime PJ, Engleman HM, Douglas NJ. Self assessment of 
+daytime sleepiness: patient versus partner. Thorax. 1995;50:994 –995 
+29. Gottlieb DJ, Whitney CW, Bonekat WH, et al. Relation of sleepiness to 
+respiratory disturbance index: the Sleep Heart Health Study. Am J Respir 
+Crit Care Med. 1999;159:502–507 
+30. Colt HG, Haas H, Rich GB. Hypoxemia vs sleep fragmentation as cause 
+of excessive daytime sleepiness in obstructive sleep apnea. Chest. 1991; 
+100:1542–1548 
+31. Roehrs T, Zorick F, Wittig R, Conway W, Roth T. Predictors of objective 
+level of daytime sleepiness in patients with sleep-related breathing 
+disorders. Chest. 1989;95:1202–1206 
+32. Chervin RD, Aldrich MS. Characteristics of apneas and hypopneas 
+during sleep and relation to excessive daytime sleepiness. Sleep. 1998; 
+21:799–806 
+33. Punjabi NM, O’Hearn DJ, Neubauer DN, et al. Modeling hypersomnolence 
+in sleep-disordered breathing. A novel approach using survival 
+analysis. Am J Respir Crit Care Med. 1999;159:1703–1709 
+34. Kingshott RN, Engleman HM, Deary IJ, Douglas NJ. Does arousal 
+frequency predict daytime function? Eur Respir J. 1998;12:1264 –1270 
+35. Chervin RD. Periodic leg movements and sleepiness in patients evaluated 
+for sleep-disordered breathing. Am J Respir Crit Care Med. 2001; 
+164:1454–1458 
+36. McNamara F, Issa FG, Sullivan CE. Arousal pattern following central 
+and obstructive breathing abnormalities in infants and children. J Appl 
+Physiol. 1996;81:2651–2657 
+37. Exar EN, Collop NA. The upper airway resistance syndrome. 
+Chest. 
+1999;115:1127–1139 
+38. Mograss MA, Ducharme FM, Brouillette RT. Movement/arousals. Description, 
+classification, and relationship to sleep apnea in children. 
+Am J Respir Crit Care Med. 1994;150:1690 –1696 
+39. Katz ES, Lutz J, Marcus CL. Pulse transit time as a measure of arousal 
+and respiratory effort in children with sleep-disordered breathing. J Pediatr 
+Res. 2002;52:580 –588 
+40. Bandla HP, Gozal D. Dynamic changes in EEG spectra during obstructive 
+apnea in children. Pediatr Pulmonol. 2000;29:359 –365 
+41. Chervin RD, Dillon JE, Bassetti C, Ganoczy DA, Pituch KJ. Symptoms of 
+sleep disorders, inattention, and hyperactivity in children. Sleep. 1997; 
+20:1185–1192 
+42. Chervin RD, Archbold KH. Hyperactivity and polysomnographic findings 
+in children evaluated for sleep-disordered breathing. Sleep. 2001; 
+24:313–320 
+774 SLEEPINESS AND HYPERACTIVITY IN OSAS 
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+43. Chervin RD, Archbold KH, Dillon JE, et al. Inattention, hyperactivity, 
+by a nasal cannula pressure transducer system. Pediatr Pulmonol. 2002; 
+and symptoms of sleep-disordered breathing. Pediatrics. 2002;109: 33:380–387 
+449–456 46. Trang H, Leske V, Gaultier C. Use of nasal cannula for detecting sleep 
+44. Hosselet JJ, Norman RG, Ayappa I, Rapoport DM. Detection of flow 
+apneas and hypopneas in infants and children. Am J Respir Crit Care 
+limitation with a nasal cannula/pressure transducer system. Am J Respir Med. 2002;166:464 –468 
+Crit Care Med. 1998;157:1461–1467 47. Heitman SJ, Atkar RS, Hajduk EA, Wanner RA, Flemons WW. Valida45. 
+Serebrisky D, Cordero R, Mandeli J, Kattan M, Lamm C. Assessment of 
+tion of nasal pressure for the identification of apneas/hypopneas durinspiratory 
+flow limitation in children with sleep-disordered breathing ing sleep. Am J Respir Crit Care Med. 2002;166:386 –391 
+EUROPEAN ENVIRONMENTAL RULES PROPEL CHANGE IN U.S. 
+
+“Generally stricter European laws reflect a different philosophical approach to 
+regulation, says Dr Indra Spiecker, a lawyer specializing in comparative law and 
+assistant professor for American law at the University of Osnabruck in Germany. 
+American lawmakers primarily look to cost-benefit analysis, which holds that the 
+benefit of imposing regulation should outweigh its cost. European nations have 
+more readily embraced what is called the precautionary principle. Essentially, 
+Europeans emphasize the cost of inaction, while Americans tend to focus on the 
+cost of action.... The EU is now considering sweeping new regulation of its 
+chemical industry that has unleashed what analysts here say is the biggest lobbying 
+effort in Brussels ever mounted by American industry. The new law, known as 
+Reach, would place the burden of proof of safety on the producers before its sale, 
+rather than waiting for the problems to spur regulation later. It would force 
+American chemical companies to comply with the legislation in order to continue 
+exporting to Europe—and raises the fear of similar legislation in the United States. 
+The chemical industry points out that few if any of the unregulated chemicals are 
+causing obvious health crises and says the legislation is overly bureaucratic and 
+expensive. The American Chemical Council has marshaled its members to alter or 
+derail the legislation.” 
+
+Pohl O. New York Times. July 6, 2004 
+
+Noted by JFL, MD 
+
+ARTICLES 775 
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+Daytime Sleepiness and Hyperactivity in Children With Suspected 
+Sleep-Disordered Breathing 
+
+
+Cecilia S. Melendres, Janita M. Lutz, Eric D. Rubin and Carole L. Marcus 
+Pediatrics 2004;114;768-775 
+
+
+DOI: 10.1542/peds.2004-0730 
+& Services 
+Updated Information 
+http://www.pediatrics.org/cgi/content/full/114/3/768 
+including high-resolution figures, can be found at: 
+References 
+http://www.pediatrics.org/cgi/content/full/114/3/768#BIBL 
+at: 
+This article cites 41 articles, 24 of which you can access for free 
+Citations 
+s 
+http://www.pediatrics.org/cgi/content/full/114/3/768#otherarticle 
+This article has been cited by 14 HighWire-hosted articles: 
+Subspecialty Collections 
+try 
+http://www.pediatrics.org/cgi/collection/neurology_and_psychia 
+Neurology & Psychiatry 
+following collection(s): 
+This article, along with others on similar topics, appears in the 
+Permissions & Licensing 
+http://www.pediatrics.org/misc/Permissions.shtml 
+tables) or in its entirety can be found online at: 
+Information about reproducing this article in parts (figures, 
+Reprints 
+http://www.pediatrics.org/misc/reprints.shtml 
+Information about ordering reprints can be found online: 
+
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+

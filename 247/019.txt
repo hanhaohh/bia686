@@ -1,0 +1,1452 @@
+Pediatric Pulmonology 43:550–560 (2008) 
+
+Absence of Blood Pressure, Metabolic, and Inflammatory 
+Marker Changes After Adenotonsillectomy for Sleep 
+Apnea in Greek Children 
+
+
+1 23
+
+Maria T. Apostolidou, MD, Emmanouel I. Alexopoulos, MD, Eleni Damani, MD, 
+
+32 2
+
+Nikolaos Liakos, BSc, MSc, Konstantinos Chaidas, MD, Evangelos Boultadakis, MD, 
+
+1 22
+
+Theoharis Apostolidis, MD, Konstantinos Gourgoulianis, MD, and Athanasios G. Kaditis, MD * 
+
+Summary. Aim: Pediatric studies revealed associations of obstructive sleep-disordered 
+breathing (SDB) with inflammation, metabolic dysfunction, and elevated blood pressure. Evidence 
+about effects of adenotonsillectomy on these abnormalities is scarce. Aim of this investigation was 
+to assess changes in C-reactive protein (CRP), circulating intercellular adhesion molecule-1 
+(cICAM-1), insulin and blood pressure levels after adenotonsillectomy for SDB in Greek children. 
+Methods: Polysomnography was performed pre-and postoperatively in children with SDB and 
+controls undergoing adenotonsillectomy for recurrent tonsillitis or otitis. Outcome measures were 
+changes in serum markers and blood pressure. Results: Fifty-eight patients (6.2 . 
+2.5 years old) 
+and 17 controls (6.5 . 
+2) were studied. After surgery, apnea–hypopnea index (AHI) decreased 
+(mean: 5.9 episodes/hr; 95% confidence interval: 7.8 to 4) in patients. Patients and controls 
+were similar regarding outcomes: CRP (0.11 mg/dl [0.25 to 0.02] vs. 0.13 [0.19 to 0.46]; 
+P ¼ 
+0.11), cICAM-1 (11.6 ng/ml [38.6 to 15.4] vs. 46.6 [101.7 to 8.6]; P ¼ 
+0.23), insulin 
+
+(2.49 mU/L [0.32–4.67] vs. 0.16 [2.47 to 2.16]; P ¼ 
+0.21), systolic blood pressure index (5.2% 
+[2.1–8.3] vs. 10.8 [3.6–17.9]; P ¼ 
+0.1) and diastolic blood pressure index (3.2% [7.2 to 0.8] vs. 
+2.8 [5.5 to 11.2]; P ¼ 
+0.16). Patients with CRP > 
+0.3 mg/dl had reduced values after 
+AT (P ¼ 
+0.003) and those with postoperative AHI . 
+1 had a decrease in diastolic blood 
+pressure (P ¼ 
+0.02). Conclusions: Although adenotonsillectomy improves SDB, it has variable 
+effects on inflammatory and metabolic markers or blood pressure. Pediatr Pulmonol. 2008; 
+43:550–560. . 
+2008 Wiley-Liss, Inc. 
+Key words: adhesion molecules; C-reactive protein; insulin; obstructive sleep apnea. 
+
+INTRODUCTION 
+
+It has been postulated that episodic hypoxemia 
+and arousals related to obstructive sleep apnea lead to 
+productionofreactiveoxygenspecies1–3 andsympathetic 
+nervous system activation4 triggering endothelial dysfunction,
+5,6 systemic inflammation,7 insulin resistance,8 
+and increased blood pressure.9 Persistence of the above 
+abnormalities in untreated subjects may be responsible for 
+the increased cardiovascular morbidity reported in adults 
+with sleep apnea.10 In children, evidence for the presence 
+of chronic inflammation, metabolic dysfunction and 
+elevation of blood pressure related to obstructive sleep-
+disordered breathing (SDB) is inconclusive. Pediatric 
+studies from the United States documented positive 
+correlation between C-reactive protein (CRP) and severity 
+of sleep apnea,11,12 but this finding was not reproduced 
+by two investigations that recruited subjects residing in 
+Greece or Australia.13,14 Moreover, a significant association 
+was identified between the metabolic syndrome or 
+insulin resistance and sleep apnea inadolescents,15–18 but 
+two reports in younger individuals several of whom were 
+nonobese did not detect correlation of fasting insulin 
+
+. 
+2008 Wiley-Liss, Inc. 
+levels with SDB.19,20 Finally, increased blood pressure 
+was not consistently found in all pediatric reports.21 
+
+1Department of Otorhinolaryngology, University of Thessaly School of 
+Medicine, Larissa University Hospital, Larissa, Greece. 
+
+2Sleep Disorders Laboratory, University of Thessaly School of Medicine, 
+Larissa University Hospital, Larissa, Greece. 
+
+3Department of Biochemistry, University of Thessaly School of Medicine, 
+Larissa University Hospital, Larissa, Greece. 
+
+None of the authors have any conflicts of interest to disclose. 
+
+Grant sponsor: University of Thessaly Research Committee. 
+
+*Correspondence to: Athanasios G. Kaditis, MD, Sleep Disorders 
+Laboratory, Larissa University Hospital, P.O. Box 1425, Larissa 41110, 
+Greece. E-mail: kaditia@hotmail.com 
+
+Received 6 November 2007; Revised 29 January 2008; Accepted 
+31 January 2008. 
+
+DOI 10.1002/ppul.20808 
+Published online in Wiley InterScience 
+(www.interscience.wiley.com). 
+
+
+Discrepancies in results of published investigations 
+could be attributed to genetic and environmental differences 
+between recruited groups of children.22 Even in 
+adults, not all studies have confirmed that obstructive 
+sleep apnea is related to higher levels of CRP or to 
+insulin resistance.23,24 Interventional investigations may 
+be helpful in exploring whether a causal association exists 
+between intermittent upper airway obstruction during 
+sleep and chronic inflammation, endothelial activation, 
+metabolic abnormalities, or blood pressure. For example, 
+treatment of obstructive sleep apnea in adults with 
+nasal continuous positive airway pressure (nCPAP) can 
+decrease CRP levels, insulin resistance, and blood 
+
+7,25,26
+
+pressure,although some investigators did not detect 
+any beneficial effect of nCPAP.23,27–30 
+
+To our knowledge, few pediatric studies have measured 
+fasting insulin and CRP levels in children with obstructive 
+SDB before and after adenotonsillectomy.31–33 In one of 
+them, CRP levels decreased after surgical resection of 
+tonsils and adenoids in 20 children with SDB living in the 
+United States but a control group without sleep apnea was 
+not recruited for comparison.31 In another report from 
+Australia, fasting insulin levels were similar in children 
+with resolved and persistent obstructive sleep apnea 
+following surgery and in control subjects without apnea.32 
+Thus, the aims of the present investigation were: (i) to 
+assess the effect of adenoidectomy and/or tonsillectomy 
+(AT) on serum markers of inflammation (CRP) and 
+endothelial activation (cICAM-1), and on fasting insulin 
+levels and blood pressure in a group of Greek children 
+with obstructive SDB; (ii) to compare children after 
+AT for SDB to control subjects who underwent AT for 
+other indications, regarding postoperative changes in 
+CRP, cICAM-1, insulin and blood pressure. No previous 
+pediatric investigations have explored the effect of AT on 
+cICAM-1 concentration or blood pressure levels. 
+
+PATIENTS AND METHODS 
+
+Participants 
+
+Children with SDB who were referred for polysomnography 
+by the Otorhinolaryngology Department at Larissa 
+University Hospital between January 2004 and December 
+2006 were eligible for recruitment. Referral for a sleep 
+study was based solely on the availability of appointments 
+at the Sleep Disorders Laboratory and not on severity of 
+SDB symptoms or on size of tonsils and adenoids. 
+Community hospitals, private pediatricians and ear, nose 
+
+ABBREVIATIONS 
+
+BMI Body mass index 
+cICAM-1 Circulating intercellular adhesion molecule-1 
+CRP C-reactive protein 
+nCPAP Nasal continuous positive airway pressure 
+SDB Sleep-disordered breathing 
+
+Effects of Adenotonsillectomy for Sleep Apnea 551 
+
+and throat surgeons also refer patients to the same Sleep 
+Disorders Laboratory, which is the only center in Central 
+Greece for pediatric sleep studies. After the result of 
+polysomnography was available, AT was proposed by 
+the ear, nose, and throat surgeon based on the presence 
+of: (i) adenotonsillar hypertrophy; (ii) symptoms of 
+SDB > 
+3 nights/week; and (iii) apnea–hypopnea index 
+(AHI) > 
+1 episode/hr. During the same time period 
+children without symptoms of SDB, who were scheduled 
+for AT for recurrent tonsillitis or recurrent otitis media, 
+were offered participation to the study as controls. Since 
+most of these patients had enlarged tonsils and adenoids, 
+diagnosis of unrecognized SDB was one potential benefit 
+for children participating in the study. 
+
+Exclusion criteria for both patients and controls were: 
+
+(i) history of cardiovascular, neuromuscular or genetic 
+disorders; (ii) previous AT; and (iii) symptoms and signs 
+consistent with any acute or chronic inflammatory 
+disorder (e.g., acute tonsillitis or otitis media) during 
+the preoperative or follow-up evaluation. The study was 
+approved by the Institutional Review Board and informed 
+consent for postoperative evaluation was obtained from 
+parents and child assent from subjects older than 7 years. 
+Preoperative Evaluation 
+
+During preoperative evaluation of both patients and 
+controls, information about symptoms of SDB and past 
+medical history was collected. Somatometrics were 
+recorded and body mass index (BMI) z-score was 
+calculated.34 Children were obese if BMI z-score was 
+over 1.645 (95th percentile for BMI).34 Tonsils and 
+adenoids were graded from 0 to 4þ 
+(direct inspection and 
+trans-oral mirror visualization).35 
+
+Overnight polysomnography was performed under the 
+supervision of trained personnel. The Alice 4 computerized 
+system (Healthdyne, Marietta, GA) was used to 
+record the following parameters: electroencephalogram 
+(C3/A2, C4/A1, O1/A2); right and left oculogram; 
+submental and tibial electromyogram; body position; 
+electrocardiogram; thoracic and abdominal wall motion 
+(piezoelectric transducers); oronasal airflow (3-pronged 
+thermistor); and oxygen saturation of hemoglobin. Bedtime 
+was determined by each child’s routine and 
+polysomnography was terminated upon final awakening. 
+Arousals and sleep stages were assessed using standard 
+criteria.36,37 Obstructive apnea was defined as the presence 
+of chest/abdominal wall motion in the absence of 
+airflow for at least two breaths in duration.38 Hypopnea 
+was: (i) a reduction in the airflow signal amplitude of at 
+least 50% compared to baseline; (ii) in the presence of 
+chest/abdominal wall motion; and (iii) associated with 
+oxygen desaturation of hemoglobin equal to or greater 
+than 4% or with an arousal. 
+
+Blood pressure was measured three times (Dinamap 
+Pro 100; Critikon, Tampa, FL) using the right arm in the 
+
+Pediatric Pulmonology 
+
+
+552 Apostolidou et al. 
+
+morning after polysomnography. Prior to the measurement, 
+the child was sitting quietly for 5 min, with her back 
+supported and the right cubital fossa at the level of the 
+heart.39 To control for the effect of age, gender, and height 
+on blood pressure an index was calculated: (average 
+measured value95th percentile value) . 
+100/95th percentile 
+value.39 Venipuncture was conducted for routine 
+preoperative laboratory tests which included measurement 
+of CRP level by a high sensitivity method and serum 
+glucose concentration. Part of the obtained serum was 
+stored immediately after venipuncture at 708C. 
+
+Postoperative Evaluation 
+
+Children who underwent AT and their parents consented 
+for the postoperative evaluation, had a second 
+polysomnogram scheduled according to availability of 
+appointments at the Sleep Laboratory. Somatometrics and 
+blood pressure were measured again, a second morning 
+venipuncture was performed and serum was stored at 
+
+708C. CRP and serum glucose concentration were 
+measured shortly after venipuncture. Preoperative and 
+postoperative cICAM-1 and fasting insulin levels were 
+determined later in the stored and frozen serum samples. 
+A high sensitivity immunonephelometric method with 
+lowest detection limit of 0.0175 mg/dl (N High Sensitivity 
+CRP; Dade Behring, Marburg, Germany) was used for 
+quantification of CRP levels. Inter-assay coefficients of 
+variation were: 3.8% at 0.13 mg/dl, 2.6% at 1.4 mg/dl, and 
+5.7% at 5.6 mg/dl. cICAM-1 concentration was measured 
+in serum by an enzyme-linked immunosorbent assay for 
+quantitative detection of soluble human ICAM-1 (Human 
+sICAM-1 ELISA; Bender MedSystems, Vienna, Austria). 
+The lowest detection limit of the method was 2.17 ng/ml. 
+Insulin values were determined with an electrochemiluminescent 
+immunoassay in a Modular E170 analyzer (Roche, 
+Mannheim, Germany). Serum glucose levels were measured 
+in an Olympus AU 600 analyzer (Olympus, Lismeehan, 
+Ireland), by standard enzymatic colorimetric procedure. 
+
+Outcome Measures: Changes in CRP, cICAM-1, 
+Insulin, HOMA Index, and Blood Pressure 
+
+Homeostasis Model Assessment (HOMA) index was 
+equal to: (fasting insulin [mU/L] X fasting glucose [mmol/ 
+L])/22.5.40 Changes in CRP, cICAM-1, insulin, and HOMA 
+index were defined as: (postoperative valuepreoperative 
+value). Blood pressure change was equal to: (postoperative 
+blood pressure indexpreoperative blood pressure index). 
+
+Independent Variables of Interest 
+
+Independent variables possibly affecting outcome 
+measures were changes in AHI, oxygen desaturation of 
+hemoglobin index or oxygen saturation of hemoglobin 
+(SpO2) nadir (postoperative valuepreoperative value) 
+
+and change in BMI z-score (postoperative z-scorepreopreoperative 
+z-score). Other independent variables 
+were: time between surgery and postoperative evaluation, 
+obesity and gender. Long time between AT and follow-up 
+evaluation potentially influences postoperative insulin and 
+blood pressure values due to the effect of somatic growth. 
+
+Data Analysis 
+
+Three study groups were formed: (i) subjects with AT for 
+SDB and postoperative AHI . 
+1 episode/hr (complete 
+resolution of SDB); (ii) children with AT for SDB and 
+postoperative AHI > 
+1 episode/hr; and (iii) controls with AT. 
+They were compared regarding preoperative characteristics 
+and time between AT and second polysomnogram by one-
+way analysis of variance (continuous variables) or Chi-
+squared test (categorical variables). One-way analysis of 
+variance was followed by post hoc tests for pair comparisons 
+between groups. Two types of comparisons were completed 
+concerning the outcome measures: (i) comparisons of serum 
+markers concentrations and blood pressure levels before 
+and after AT within each group (paired-samples t test); 
+
+(ii) comparisons between the three study groups regarding 
+changes in serum markers and blood pressure after AT (oneway 
+analysis of variance and post hoc tests). Stepwise 
+multiple linear regression analysis was applied to test the 
+independent variables (change in AHI, oxygen desaturation 
+of hemoglobin index or SpO2 nadir, change in BMI 
+z-score, time between surgery and follow-up, obesity and 
+gender) as predictors of the outcome measures. 
+Three subgroup comparisons were performed regarding 
+postoperative changes of outcome measures: (i) children 
+with preoperative AHI > 
+5 episodes/hr versus control 
+participants; (ii) overweight subjects versus participants 
+of normal weight. An additional subgroup comparison 
+was carried out specifically for CRP: subjects with SDB 
+and preoperative CRP values over 0.3 mg/dl were 
+compared with controls. Values higher than 0.3 mg/dl in 
+adults predict increased cardiovascular morbidity.41 
+
+Sample Size 
+
+In one pediatric study identifying reduction in a serum 
+marker of inflammation after AT,31 mean CRP decreased by 
+
+0.44 mg/dl. The required sample size to detect such mean 
+difference in CRP change between children with SDB and 
+controls, assuming a standard deviation of 0.21 with 99% 
+power at the 1% level is 11 children per group. 
+RESULTS 
+
+Subjects’ Characteristics and Polysomnography 
+Findings Before and After Surgery 
+
+Figure 1 presents the study profile. Between January 
+2004 and December 2006, 117 children with symptoms 
+suggestive of obstructive SDB were referred by the 
+
+Pediatric Pulmonology 
+
+
+Otorhinolaryngology Department for polysomnography. 
+Sixty-three of them underwent surgery and 58 were 
+recruited to the study in order to undergo the postoperative 
+follow-up evaluation. Sixty-five subjects who had AT for 
+recurrent episodes of tonsillitis and/or otitis media were 
+considered for recruitment as controls and parents of 
+17 children consented for participation in the study. 
+
+Subjects’ characteristics, frequency of preoperative 
+symptoms and type of surgery are summarized in Table 1, 
+and polysomnography indices before and after AT are 
+presented in Table 2. Preoperative AHI ranged between 
+
+1.6 and 36.6 episodes/hr in patients and between 0.2 and 
+0.9 episodes/hr in control subjects. The three study 
+groups were similar regarding age at surgery, female-tomale 
+ratio, BMI z-score, proportion of obese participants, 
+tonsillar and adenoidal size, type of surgery (adenoidectomy 
+or tonsillectomy vs. adenoidectomy and tonsillectomy), 
+and time between surgery and follow-up sleep 
+study. 
+The three study groups did not differ significantly 
+relative to the time interval between surgery and follow-up 
+polysomnography which ranged from 2 to 14 months 
+(Table 1). Apnea–hypopnea index decreased postoper-
+
+Fig. 1. Study profile. Abbreviations: AT, Adenoidectomy and/or 
+tonsillectomy; Obstructive SDB, obstructive sleep-disordered 
+breathing. 
+
+
+Effects of Adenotonsillectomy for Sleep Apnea 553 
+
+atively in the two groups with SDB (P < 
+0.05), but not 
+in controls (P ¼ 
+0.42; Table 2). Similarly, SpO2 nadir 
+increased postoperatively in subjects with SDB 
+(P < 
+0.05), but not in controls (P ¼ 
+0.87; Table 2). Oxygen 
+desaturation of hemoglobin index decreased in patients 
+(P < 
+0.001) and slightly increased in the control group 
+(P ¼ 
+0.03). 
+
+Thirty of 58 (51.7%) children with SDB had 
+a preoperative AHI > 
+5 episodes/hr that decreased 
+postoperatively: from 12.8 . 
+7.7 episodes/hr to 2.1 . 
+
+
+1.6 episodes/hr (P < 
+0.001). BMI z-score at follow-up 
+increased in patients and controls compared to the 
+respective index at the preoperative evaluation 
+(P < 
+0.05) but these changes were similar in all three 
+study groups (P ¼ 
+0.39; Table 2). 
+Changes in CRP and cICAM-1 
+
+Before AT, subjects with SDB and controls were similar 
+in CRP levels (P ¼ 
+0.6; Table 3). There was no significant 
+change in CRP levels after AT within the SDB or the 
+control groups (P > 
+0.05; Table 3). Also, the three groups 
+were not different regarding CRP concentration change 
+after surgery (P ¼ 
+0.25; Table 3). 
+
+When only subjects with preoperative AHI > 
+5 
+episodes/hr were considered (n ¼ 
+30), children with 
+SDB tended to have more pronounced postoperative 
+reduction in CRP compared to controls (P ¼ 
+0.07). 
+Mean CRP change (95% confidence interval) within the 
+subgroup with high AHI was: 0.24 mg/dl (0.49 to 
+0.005; P ¼ 
+0.06). Children with complete resolution of 
+SDB after AT (postoperative AHI . 
+1 episode/hr), did not 
+have significant reduction in CRP and did not differ 
+from controls relative to this outcome measure (P ¼ 
+0.32; 
+Table 3). Presence or absence of overweight was not 
+related to significant postoperative CRP change in 
+children with or without complete cure of SDB (P > 
+0.05). 
+
+Eight of 58 (13.7%) children with SDB had CRP values 
+greater than 0.3 mg/dl preoperatively (mean CRP . 
+standard deviation: 1.19 . 
+0.63 mg/dl). High CRP values 
+of these eight subjects decreased significantly after AT. 
+Mean CRP decrease was 1.05 mg/dl (1.6 to 0.5; P ¼ 
+0.003). Children with SDB and CRP concentration 
+> 
+0.3 mg/dl were significantly different from controls 
+regarding mean CRP change after AT (P < 
+0.001). 
+
+Before AT, there was no difference between patients 
+and controls in cICAM-1 levels (P ¼ 
+0.74; Table 3). After 
+surgery, cICAM-1 levels did not change in either children 
+with SDB or in control subjects (P > 
+0.05; Table 3). 
+Subjects with preoperative AHI > 
+5 episodes/hr (n ¼ 
+30) 
+did not have a significant postoperative reduction in 
+cICAM-1 compared to controls (P ¼ 
+0.19). Mean cICAM1 
+change in the subgroup with high preoperative AHI 
+(n ¼ 
+30) was 3.4 ng/ml (42.6 to 35.9; P ¼ 
+0.86). 
+Children with complete resolution of SDB after AT did not 
+
+Pediatric Pulmonology 
+
+
+554 Apostolidou et al. 
+
+TABLE 1— Summary Statistics and Significance of Comparisons Regarding Preoperative Characteristics of Children Who 
+Underwent Adenoidectomy (A) and/or Tonsillectomy (T) for Obstructive Sleep-Disordered Breathing (SDB) and Controls 
+Who Had Surgery for Other Indications 
+
+Subjects with SDB and 
+AHI . 
+1 after AT, n ¼ 
+13 
+Subjects with SDB and 
+AHI > 
+1 after AT, n ¼ 
+45 
+Control subjects, 
+n ¼ 
+17 P 
+Age at surgery, years 7.4 . 
+3.3 5.9 . 
+2.1 6.5 . 
+2 0.12 
+Gender, female (%) 6 (46.2) 15 (33.3) 9 (52.9) 0.33 
+BMI z-score 0.96 . 
+1 0.66 . 
+1.8 0.55 . 
+1.17 0.77 
+Obese (%) 4 (30.8) 15 (33.3) 3 (17.6) 0.48 
+Symptoms 
+Snoring > 
+3 nights/week (%) 13 (100) 45 (100) 0 (0) <0.01 
+Apneas (%) 8 (61.5) 32 (71.1) 6 (35.3) 0.04 
+Mouth-breathing (%) 12 (92.3) 44 (97.8) 4 (23.5) <0.01 
+Tonsil size 
+2þ 
+(%) 1 (7.7) 
+>2þ 
+(%) 12 (92.3) 
+Adenoid size 
+6 (13.3) 
+39 (86.7) 
+4 (23.5) 
+13 (76.5) 0.44 
+1þ 
+(%) 1 (7.7) 
+2þ 
+(%) 12 (92.3) 
+Type of surgery (%) 
+4 (8.9) 
+41 (91.1) 
+4 (23.5) 
+13 (76.5) 0.25 
+A or T 1 (7.7) 5 (11.1) 2 (11.8) 
+A and T 12 (92.3) 40 (88.9) 15 (88.2) 0.93 
+Time between surgery and follow-up 5.8 . 
+2.9 6.1 . 
+3.5 5.4 . 
+3 0.78 
+polysomnogram, months 
+Continuous variables are presented as mean . 
+standard deviation. 
+AHI, apnea–hypopnea index; BMI, body mass index. 
+
+have significant reduction in cICAM-1 and they did not 
+differ from controls relative to this outcome measure 
+(P ¼ 
+0.26; Table 3). No significant change in cICAM-1 
+was noted in overweight or normal-weight participants 
+with or without residual SDB after surgery (P > 
+0.05). 
+
+Changes in Insulin and HOMA Index 
+
+Before surgery, the two study groups were similar in 
+morning fasting insulin and HOMA index values 
+(P ¼ 
+0.77 and P ¼ 
+0.77, respectively; Table 3). Both 
+fasting insulin levels and HOMA index increased postoperatively 
+in children with SDB (P < 
+0.05), but did not 
+change in controls (P ¼ 
+0.89 and P ¼ 
+0.71, respectively; 
+Table 3). The three study groups were not different 
+regarding changes of insulin levels and HOMA index after 
+surgery (P ¼ 
+0.35 and P ¼ 
+0.32, respectively; Table 3). 
+
+Children with complete resolution of SDB after AT had 
+also a postoperative increase in both insulin levels and 
+HOMA index: mean insulin change (95% confidence 
+interval) was þ1.08 mU/L (0.02–2.16) and mean 
+HOMA index change was þ0.28 (0.06–0.49; P ¼ 
+0.04 
+and P ¼ 
+0.02, respectively). However, the subgroup of 
+children with complete resolution of SDB was not 
+significantly different from controls regarding changes 
+of insulin and HOMA index (P ¼ 
+0.66 and P ¼ 
+0.61, 
+respectively). When only data from subjects with 
+preoperative AHI > 
+5 episodes/hr (n ¼ 
+30) were analyzed, 
+both fasting insulin and HOMA index tended to increase 
+
+after AT, but this trend did not achieve statistical 
+significance (P ¼ 
+0.07 and P ¼ 
+0.24, respectively). No 
+significant changes of insulin or HOMA index values were 
+noted when children with or without residual SDB after 
+AT were divided in subgroups according to presence or 
+absence of overweight (P > 
+0.05). 
+
+Changes in Blood Pressure 
+
+Before AT, the three study groups were similar in 
+morning systolic and diastolic blood pressure index 
+(P ¼ 
+0.48 and P ¼ 
+0.67, respectively; Table 3). Systolic 
+blood pressure index increased after surgery in controls 
+and in children with residual SDB (P < 
+0.05; Table 3). 
+This increase in systolic blood pressure was significant 
+in nonobese subjects with residual SDB (P < 
+0.01) but 
+not significant in obese participants of the same group 
+(P > 
+0.05). 
+
+Children with complete resolution of SDB had a 
+significant reduction in diastolic blood pressure postoperatively 
+(P ¼ 
+0.02) and this change tended to be 
+significantly different from the respective change in 
+controls (P ¼ 
+0.07; Table 3). Diastolic blood pressure 
+decreased postoperatively in obese children with cure of 
+SDB (P ¼ 
+0.03) but it did not change in obese participants 
+of the same group (P > 
+0.05). 
+
+When only subjects with AHI > 
+5 episodes/hr were 
+considered, there was no significant increase in systolic 
+blood pressure index after AT (P ¼ 
+0.35). Mean systolic 
+
+Pediatric Pulmonology 
+
+
+TABLE 2— Summary Statistics and Signifi cance of Comparisons Regarding Body Mass Index z-Score (BMI z-Score) and Polysomnography Indices Before and AfterAdenoidectomy and/or Tonsillectomy (AT) in Children With Obstructive Sleep-Disordered Breathing (SDB) and in Controls Who Had AT for Other Indications
+
+Subjects with SDB andSubjects with SDB andChange in: GroupAHI 
+. 
+1 after surgeryMean change1 AHI 
+> 
+1 after surgeryMean change1 Controls (n 
+¼ 
+17) Mean change1 1 vs. Group 3/Group(n 
+¼ 
+13) before AT, after AT (95% CI) P (n 
+¼ 
+45) before AT, after AT (95% CI) P before AT, after AT (95% CI) P 2 vs. Group 3, P 
+
+BMI z-score 0.96 
+. 
+1, 1.18 
+. 
+1.06 0.2 (0.08–0.5) 0.04 0.66 
+. 
+1.8, 1.25 
+. 
+1.26 0.6 (0.31–0.89) <0.001 0.55 
+. 
+1.17, 1.2 
+. 
+0.9 0.61 (0.13–1.1) 0.02 0.25/0.97 
+AHI, episodes/hr 5.6 
+. 
+4.2, 0.7 
+. 
+0.2 5(7.6 to 2.4) 0.001 8.6 
+. 
+8, 2.4 
+. 
+1.5 6.2 (8.6 to 3.8) <0.001 0.7 
+. 
+0.2, 0.8 
+. 
+0.4 0.07 (0.1 to 0.24) 0.42 0.038/0.001 
+SpO2 nadir, % 88.4 
+. 
+3.9, 92.7 
+. 
+1.5 4.3 (1.6–7) 0.004 85 
+. 
+6.6, 89.6 
+. 
+2.4 4.7 (2.5–6.8) <0.001 91 
+. 
+3, 90.8 
+. 
+2.7 0.12 (1.6 to 1.4) 0.87 0.049/0.007Oxygen desaturation5.3 
+. 
+5.4, 0.7 
+. 
+0.2 4.6 (7.8 to 1.4) 0.008 8.6 
+. 
+9.5, 2.5 
+. 
+1.7 6.2 (9.1 to 3.3) <0.001 0.7 
+. 
+0.4, 1.2 
+. 
+0.8 0.5 (0.04–0.8) 0.03 0.07/0.004 
+
+of hemoglobin
+(4%) index,
+episodes/hr
+
+
+% Sleep time2.5 
+. 
+2.7, 0.2 
+. 
+0.3 2.2 (3.9 to 0.6) 0.013 6.7 
+. 
+9.3, 1.3 
+. 
+3.6 5.5 (8.4 to 2.7) <0.001 0.6 
+. 
+0.5, 0.4 
+. 
+0.4 0.2 (0.6 to 0.2) 0.26 0.49/0.005 
+with SpO2 
+< 
+95%
+Respiratory arousal2.2 
+. 
+1.5, 0.3 
+. 
+0.2 1.9 (2.9 to 0.9) 0.001 3.5 
+. 
+4.3, 1.2 
+. 
+0.7 2.3 (3.6 to 1) 0.001 0.5 
+. 
+0.3, 0.7 
+. 
+0.3 0.12 (0.1 to 0.4) 0.27 0.12/0.019 
+index, episodes/hr 
+
+Continuous variables are presented as mean 
+. 
+standard deviation or mean (95% confi dence interval, CI)
+.
+AHI, apnea–hypopnea index; SpO2, oxygen saturation of hemoglobin.
+1Change 
+¼ 
+Postoperative valuePreoperative value. 
+
+
+TABLE 3— Summary Statistics and Signifi cance of Comparisons Regarding Changes in Serum Infl ammatory and Metabolic Markers and Blood Pressure IndicesBefore and After Adenoidectomy and/or Tonsillectomy (AT) (Outcome Variables) in Children With Obstructive Sleep-Disordered Breathing (SDB) and in Controls WhoHad AT for Other Indications
+
+Subjects with SDB andSubjects with SDB andChange in: Group 1 vs.
+AHI 
+. 
+1 after surgery (n 
+¼ 
+13) AHI 
+> 
+1 after surgery (n 
+¼ 
+45) Mean change1 Controls (n 
+¼ 
+17) before AT,Group 3/Group 2 vs.
+before AT, after AT Mean change1 (95% CI) P before AT, after AT (95% CI) P after AT Mean change1 (95% CI) P Group 3, P 
+
+CRP,* mg/dl 0.19 
+. 
+0.26, 0.13 
+. 
+0.16 0.05 (0.22 to 0.12) 0.52 0.25 
+. 
+0.5, 0.12 
+. 
+0.21 0.13 (0.3 to 0.04) 0.12 0.13 
+. 
+0.22, 0.21 
+. 
+0.56 0.13 (0.19 to 0.46) 0.41 0.32/0.095 
+cICAM-1,* ng/ml 302.3 
+. 
+116, 301.9 
+. 
+86.3 0.3 (69.7 to 69) 0.99 320.1 
+. 
+103.4, 305.3 
+. 
+86.5 14.8 (45 to 15.4) 0.33 337.1 
+. 
+149.7, 294.3 
+. 
+93.2 46.6 (101.7 to 8.6) 0.09 0.26/0.29 
+Fasting7.22 
+. 
+3.02, 8.3 
+. 
+3 1.08 (0.02–2.16) 0.04 6.13 
+. 
+4.7, 9.03 
+. 
+9.99 2.9 (0.1–5.7) 0.04 6.46 
+. 
+5.9, 6.3 
+. 
+3 0.16 (2.47 to 2.16) 0.89 0.66/0.16 
+
+insulin,* mU/L 
+HOMA index* 1.62 
+. 
+0.73, 1.9 
+. 
+0.7 0.28 (0.06–0.49) 0.02 1.36 
+. 
+1.23, 2.14 
+. 
+2.71 0.77 (0.002–1.55) 0.04 1.54 
+. 
+1.7, 1.4 
+. 
+0.9 0.12 (0.81 to 0.57) 0.71 0.61/0.15 
+Systolic blood11.8 
+. 
+6, 5.7 
+. 
+14.8 6.1 (3.5 to 15.7) 0.19 14.6 
+. 
+10, 9.6 
+. 
+8.3 5(1.8–8.1) 0.03 12 
+. 
+8.4, 1.2 
+. 
+14 10.8 (3.6–17.9) 0.006 0.31/0.1 
+
+pressure index,* % 
+Diastolic blood11.7 
+. 
+7.6, 18.4 
+. 
+8.3 6.7 (12.1 to 1.4) 0.02 14.5 
+. 
+15.1, 16.8 
+. 
+12.9 2.2 (7.2 to 2.8) 0.37 16.2 
+. 
+13.8, 13.4 
+. 
+14.4 2.8 (5.5 to 11.2) 0.48 0.07/0.25 
+pressure Index,* % 
+
+Effects of Adenotonsillectomy for Sleep Apnea 555 
+
+Pediatric Pulmonology 
+
+Continuous variables are presented as mean 
+. 
+standard deviation or mean (95% confi dence interval, CI)
+.
+cICAM-1, circulating intercellular adhesion molecule 1; CRP, C-reactive protein; HOMA: Homeostasis Model Assessment.
+1Change 
+¼ 
+Postoperative valuePreoperative value.
+*P 
+> 
+0.05 for the comparison between study groups regarding serum markers and blood pressure before AT. 
+
+
+
+556 Apostolidou et al. 
+
+blood pressure index change was higher in controls than in 
+the subgroup with high AHI: þ10.8% (3.6% to 17.9%) 
+versus þ1.9% (2.1% to 6%), respectively (P ¼ 
+0.019). 
+Diastolic blood pressure index in the subgroup with high 
+AHI did not change postoperatively: 3.1% (8.5% to 
+2.2%; P ¼ 
+0.24). 
+
+Summary of Findings and Significant Predictors of 
+Postoperative Changes in Outcome Measures 
+
+In summary, after AT in controls, diastolic blood 
+pressure and all markers of inflammation and metabolic 
+dysfunction remained unchanged while systolic blood 
+pressure increased. Time between surgery and follow-up 
+evaluation was significant predictor of the systolic blood 
+pressure index increase (P ¼ 
+0.007). 
+
+After surgery in patients with SDB, fasting insulin and 
+HOMA index increased. Systolic blood pressure also 
+increased in children with residual SDB after surgery, 
+whereas diastolic blood pressure decreased in subjects 
+without SDB postoperatively. All other outcome measures 
+remained unchanged. Time between surgery and follow-
+up evaluation was significant predictor of the systolic 
+blood pressure index increase and the diastolic blood 
+pressure decrease (P ¼ 
+0.03 and P ¼ 
+0.029, respectively). 
+Changes in AHI, oxygen desaturation of hemoglobin 
+index, SpO2 nadir, presence of obesity or BMI z-score did 
+not predict the recorded changes in blood pressure, fasting 
+insulin and HOMA index after AT. 
+
+When subgroups of children with SDB were analyzed, 
+CRP decreased in participants with high preoperative 
+values (>0.3 mg/dl). No independent variables predicted 
+the observed CRP reduction in subjects with SDB and high 
+preoperative CRP level. 
+
+DISCUSSION 
+
+In the present investigation, the effect of AT on a 
+number of predictors of future cardiovascular morbidity 
+has been evaluated in Greek children with and without 
+SDB. It has been proposed that obstructive sleep apnea in 
+both childhood and adulthood is causally related to 
+systemic inflammation, endothelial activation, metabolic 
+
+–9,11,17,42,43
+
+dysfunction, and blood pressure elevation.5,7If this speculation is valid, then complete resolution of 
+sleep apnea after AT in children should be followed by a 
+decrease in serum CRP, cICAM-1, insulin, HOMA index, 
+and blood pressure. 
+
+We found no significant postoperative CRP concentration 
+change in subjects with SDB or in control 
+participants. However, a significant CRP decrease was 
+noted after AT in the subgroup of children with SDB and 
+preoperative levels higher than 0.3 mg/dl. Levels of 
+cICAM-1 and insulin did not decrease after surgery in any 
+of the study groups, but diastolic blood pressure became 
+lower in subjects with complete resolution of SDB 
+
+postoperatively. Overall the results of the current study 
+concur with findings of the pediatric report by Waters 
+et al.32 in which AT for sleep apnea did not have any effect 
+on insulin levels. This study is also in agreement with 
+several investigations conducted in sleep apneic adults 
+which did not detect beneficial effects of treatment with 
+nCPAP on inflammation, metabolic dysfunction and 
+
+–29,44
+
+blood pressure.23,27
+
+It should be noted that absence of end-tidal CO2 and 
+nasal pressure monitoring in the present study might have 
+not allowed detection of mild SDB among children of the 
+control group undergoing AT for recurrent tonsillitis or 
+otitis media. Of interest, an association of otitis media with 
+increased prevalence of obstructive sleep apnea has been 
+reported recently.45 The unstandardized time between AT 
+and follow-up polysomnography is a potential study 
+limitation. 
+
+Effects on CRP and cICAM-1 
+
+Studies in adults have assessed the potential role of 
+inflammation in the association between obstructive sleep 
+apnea and cardiovascular disease with conflicting results. 
+Some authors have found a positive correlation of CRP 
+concentrations with severity of sleep apnea,7,46 while 
+other investigators did not reproduce this finding.23,24 
+
+Pediatric studies can be divided in those reporting an 
+association between CRP and SDB11,12,47 and others that 
+did not find such a relationship.13,14 The former investi
+
+
+gations11,12,47 
+
+were carried out in children living in the 
+United States, whereas the latter13,14 were performed in 
+non-US populations (Greece and Australia). 
+
+One recent study by Gozal et al.22 shed some light on the 
+yet unresolved issue of inflammation and SDB. It was 
+noted that not all studied children with sleep apnea had 
+elevated CRP concentrations. CRP levels were higher 
+among sleep apneic subjects with altered cognitive 
+performance compared to children with sleep apnea and 
+normal cognitive scores.22 Children with obstructive 
+sleep apnea and no cognitive dysfunction had low mean 
+CRP concentrations which were comparable to values in 
+controls without SDB (0.21 . 
+0.08 vs. 0.18 . 
+0.05 mg/dl, 
+respectively). It is possible that genetic and environmental 
+factors determine subgroups of children within different 
+populations with discrepant responses to intermittent 
+upper airway obstruction during sleep.22 This interpretation 
+is supported by a pediatric study assessing endothelial 
+function before and after AT for obstructive sleep apnea.48 
+Endothelial function improved in all participants except 
+for those with a strong family history of ischemic heart 
+disease. 
+
+In the current investigation, no significant postoperative 
+decrease in CRP was noted in any of the three study 
+groups. In contrast, children with preoperative serum 
+CRP > 
+0.3 mg/dl—asignificant predictor of cardiovascular 
+
+Pediatric Pulmonology 
+
+
+morbidity in adulthood41—had significant reduction in this 
+outcome measure after AT. This finding is consistent with 
+the concept introduced by Gozal and colleagues that there 
+are subgroups of children with a more intense inflammatory 
+response to obstructive sleep apnea than others. It is likely 
+that patients with the most pronounced inflammatory 
+response get the most benefitfromAT. In a small 
+uncontrolled study, 20 children with obstructive sleep 
+apnea and abnormal preoperative CRP levels (0.67 . 
+
+
+0.21 mg/dl) had lower CRP concentrations postoperatively 
+(0.23 . 
+0.07 mg/dl).31 Furthermore, in a second uncontrolled 
+investigation median CRP decreased from 0.13 to 
+0.04 mg/dl in 16 children who had SDB and were treated 
+with adenotonsillectomy, noninvasive positive pressure 
+ventilation or nasal corticosteroids.33 Finally, AT in 
+children with obstructive SDB was associated with a 
+decrease of the pro-inflammatory cytokine IL-6 and an 
+increase of the anti-inflammatory cytokine IL-10.49 
+Measurement of plasma or serum levels of adhesion 
+molecules is one of the methods used in adults with sleep 
+apnea to assess endothelial activation.50 Subjects with 
+obstructive sleep apnea have higher serum concentrations 
+of cICAM-1 and E-selectin than controls50,51 and these 
+levels decrease after treatment with nCPAP.50 Morning 
+plasma levels of P-selectin-but not of cICAM-1-correlated 
+with severity of SDB in children.42 In a second pediatric 
+study, there was only a trend for higher overnight change 
+in cICAM-1 concentration for subjects with SDB and the 
+most severe nocturnal hypoxemia.52 In the present report, 
+treatment of obstructive SDB was not accompanied by 
+reduced postoperative levels of cICAM-1. It is possible 
+that levels of circulating intercellular adhesion molecules 
+do not accurately reflect the state of endothelial activation 
+in children with sleep apnea. An alternative explanation 
+is that children have milder episodes of upper airway 
+obstruction and nocturnal hypoxemia compared to 
+adults and subsequently minimal degree of endothelial 
+activation. 
+
+Effects on Insulin and HOMA Index 
+
+Insulin resistance is defined as decreased responsiveness 
+to its metabolic effects. It is a key feature of the metabolic 
+syndrome that is characterized by central obesity, glucose 
+intolerance, dyslipidemia, and hypertension all of which are 
+related to increased risk for cardiovascular disease.53 In a 
+recently published study,15 Redline and colleagues reported 
+a close association between SDB and the metabolic 
+syndrome. The above relationship was confirmed by 
+a second study of overweight and obese children and 
+adolescents with a mean age of about 11 years.16 It is 
+unclear whether the association between SDB and the 
+metabolic syndrome is causal. 
+
+Contrary to the results of pediatric studies relating the 
+metabolic syndrome to sleep apnea,15,16,54 two published 
+
+Effects of Adenotonsillectomy for Sleep Apnea 557 
+
+pediatric reports did not demonstrate a relationship of 
+fasting insulin levels, a surrogate measure of insulin 
+
+SDB.19,20
+
+resistance, with severity of Redline and 
+colleagues made the observation that investigations 
+supporting a correlation of SDB with insulin resistance 
+and the metabolic syndrome recruited predominantly 
+adolescents15–18 as opposed to studies with negative 
+results that included younger children.19,20 The observation 
+by Redline and colleagues is supported by evidence 
+indicating that the role of adiposity in the pathogenesis 
+of obstructive sleep apnea increases as the child grows 
+older.55,56 
+
+In the current study, there was no decrease in fasting 
+insulin levels after surgery in patients with SDB or in 
+controls. This finding is in complete agreement with the 
+results of the published pediatric report by Waters et al.32 
+Both the present report and the investigation by Waters 
+and colleagues included rather young children (mean age 
+at AT: 6.2 . 
+2.5 years and 6.9 . 
+3.5 years, respectively). 
+Moreover, even in adults treatment of sleep apnea with 
+nCPAP is not always accompanied by an improvement in 
+insulin resistance.23,30 
+
+Effects on Blood Pressure 
+
+Population studies in adults revealed that SDB is 
+associated with increased risk for hypertension9 and a 
+number of reports showed the beneficial effect of treating 
+sleep apnea with nCPAP on blood pressure levels.26,57 Most 
+investigations assessing blood pressure levels in children 
+with SDB included small numbers of subjects58–60 and 
+their main finding was that the higher the severity of SDB, 
+the higher the level of systemic arterial pressure although 
+not in the hypertensive range. A recent meta-analysis of the 
+previous studies found insufficient evidence to support an 
+association between SDB and blood pressure.21 
+
+To our knowledge, no previous investigations have 
+evaluatedtheeffect ofATas treatmentofobstructiveSDB 
+on blood pressure levels. In the current study, surgical 
+treatment of sleep apnea reduced diastolic blood pressure 
+in the subgroup with complete resolution of SDB. Systolic 
+blood pressure increased significantly in controls and 
+children with residual SDB after surgery. Time between 
+AT and follow-up evaluation was significant predictor of 
+this change and thus we speculate that the recorded 
+increase in systolic blood pressure was the result of 
+increasing age and somatic growth. 
+
+Three factors may explain the absence of a significant 
+decrease in blood pressure levels in all participants with 
+SDB. First, increasing age is accompanied by somatic 
+growth and subsequent increase in blood pressure levels.39 
+This increase could potentially overcome the reduction in 
+absolute blood pressure values resulting from treatment of 
+SDB. Although a blood pressure index was calculated to 
+adjust the absolute values for the effect of changing age 
+
+Pediatric Pulmonology 
+
+
+558 Apostolidou et al. 
+
+and somatic stature, this statistical adjustment can still be 
+incomplete. Of note, when children with postoperative 
+AHI . 
+1 episode/hr were considered, systolic blood 
+pressure did not change significantly in patients postoperatively 
+whereas it increased in controls. It is possible 
+that surgical cure of SDB in this group of patients with 
+SDB had a lowering effect on systolic blood pressure 
+values which prevented the blood pressure increase 
+associated with aging and somatic growth. 
+
+Second, in the current and other studies,61,62 AT was 
+inadequate as a treatment method to achieve complete 
+cure of SDB and possibly of associated morbidity. In the 
+group of patients with postoperative AHI . 
+1 episode/hr, a 
+reduction in diastolic blood pressure was documented. 
+Third, 24-hr ambulatory blood pressure monitoring may 
+be a more sensitive method to detect the effects of surgery 
+on the cardiovascular system. Measuring only morning 
+blood pressure is a potential limitation of the current 
+report. 
+
+CONCLUSION 
+
+Although AT ameliorates severity of intermittent upper 
+airway obstruction during sleep, it is not always followed 
+by dramatic reductions in serum concentrations of 
+inflammatory or metabolic markers or a decrease in 
+morning blood pressure levels. Children with complete 
+cure of SDB after resection of tonsils and adenoids may 
+get the most benefit regarding alleviation of cardiovascular 
+morbidity related to obstructive sleep apnea. 
+
+ACKNOWLEDGMENTS 
+
+We thank Professor Elias Zintzaras, MSc, PhD, Department 
+of Biomathematics, University of Thessaly School 
+of Medicine for statistical advice and comments on the 
+manuscript. 
+
+REFERENCES 
+
+1. Lavie L. Obstructive sleep apnoea syndrome—an oxidative stress 
+disorder. Sleep Med Rev 2003;7:35–51. 
+2. Montgomery-Downs 
+HE, Krishna J, Roberts LJ II, Gozal D. 
+Urinary F(2)-isoprostane metabolite levels in children with sleep-
+disordered breathing. Sleep Breath 2006;10:211–215. 
+3. Verhulst SL, Van Hoeck K, Schrauwen N, Haentjens D, Rooman 
+R, Van Gaal L, De Backer WA, Desager KN. Sleep-disordered 
+breathing and uric acid in overweight and obese children and 
+adolescents. Chest 2007;132:76–80. 
+4. Somers VK, Dyken ME, Clary MP, Abboud FM. Sympathetic 
+neural mechanisms in obstructive sleep apnea. J Clin Invest 
+1995;96:1897–1904. 
+5. Dyugovskaya L, Lavie P, Lavie L. Increased adhesion molecules 
+expression and production of reactive oxygen species in 
+leukocytes of sleep apnea patients. Am J Respir Crit Care Med 
+2002;165:934–939. 
+6. Kato M, Roberts-Thomson P, Phillips BG, Haynes WG, Winnicki 
+M, Accurso V, Somers VK. Impairment of endotheliumdependent 
+vasodilation of resistance vessels in patients with 
+obstructive sleep apnea. Circulation 2000;102:2607–2610. 
+
+7. Yokoe T, Minoguchi K, Matsuo H, Oda N, Minoguchi H, Yoshino 
+G, Hirano T, Adachi M. Elevated levels of C-reactive protein and 
+interleukin-6 in patients with obstructive sleep apnea syndrome 
+are decreased by nasal continuous positive airway pressure. 
+Circulation 2003;107:1129–1134. 
+8. Punjabi NM, Shahar E, Redline S, Gottlieb DJ, Givelber 
+R, 
+Resnick HE. Sleep-disordered breathing, glucose intolerance, and 
+insulin resistance: the Sleep Heart Health Study. Am J Epidemiol 
+2004;160:521–530. 
+9. Peppard PE, Young T, Palta M, Skatrud J. Prospective study of the 
+association between sleep-disordered breathing and hypertension. 
+N Engl J Med 2000;342:1378–1384. 
+10. Marin 
+JM, Carrizo SJ, Vicente E, Agusti AG. Long-term 
+cardiovascular outcomes in men with obstructive sleep apnoeahypopnoea 
+with or without treatment with continuous positive 
+airway pressure: an observational study. Lancet 2005;365:1046– 
+1053. 
+11. Tauman R, Ivanenko A, O’Brien LM, Gozal D. Plasma C-reactive 
+protein levels among children with sleep-disordered breathing. 
+Pediatrics 2004;113:e564–569. 
+12. Larkin EK, Rosen CL, Kirchner HL, Storfer-Isser A, Emancipator 
+JL, Johnson NL, Zambito AM, Tracy RP, Jenny NS, Redline S. 
+Variation of C-reactive protein levels in adolescents: association 
+with sleep-disordered breathing and sleep duration. Circulation 
+2005;111:1978–1984. 
+13. Kaditis 
+AG, Alexopoulos EI, Kalampouka E, Kostadima E, 
+Germenis A, Zintzaras E, Gourgoulianis K. Morning levels of C-
+reactive protein in children with obstructive sleep-disordered 
+breathing. Am J Respir Crit Care Med 2005;171:282–286. 
+14. Tam 
+CS, Wong M, McBain R, Bailey S, Waters KA. 
+Inflammatory measures in children with obstructive sleep apnoea. 
+J Paediatr Child Health 2006;42:277–282. 
+15. Redline S, Storfer-Isser A, Rosen CL, Johnson NL, Kirchner HL, 
+Emancipator J, Kibler AM. Association between metabolic 
+syndrome and sleep-disordered breathing in adolescents. Am J 
+Respir Crit Care Med 2007;176:401–408. 
+16. Verhulst SL, Schrauwen N, Haentjens D, Rooman RP, Van Gaal 
+L, De Backer WA, Desager KN. Sleep-disordered breathing and 
+the metabolic syndrome in overweight and obese children and 
+adolescents. J Pediatr 2007;150:608–612. 
+17. de la Eva RC, Baur LA, Donaghue KC, Waters KA. Metabolic 
+correlates with obstructive sleep apnea in obese subjects. J Pediatr 
+2002;140:654–659. 
+18. Li AM, Chan MH, Chan DF, Lam HS, Wong EM, So HK, Chan 
+IH, Lam CW, Nelson EA. Insulin and obstructive sleep apnea in 
+obese Chinese children. Pediatr Pulmonol 2006;41:1175–1181. 
+19. Tauman R, O’Brien LM, Ivanenko A, Gozal D. Obesity rather 
+than severity of sleep-disordered breathing as the major 
+determinant of insulin resistance and altered lipidemia in snoring 
+children. Pediatrics 2005;116:66–73. 
+20. Kaditis AG, Alexopoulos EI, Damani E, Karadonta I, Kostadima 
+E, Tsolakidou A, Gourgoulianis K, Syrogiannopoulos GA. 
+Obstructive sleep-disordered breathing and fasting insulin levels 
+in nonobese children. Pediatr Pulmonol 2005;40:515–523. 
+21. Zintzaras E, Kaditis AG. 
+Sleep-disordered breathing and blood 
+pressure in children: a meta-analysis. Arch Pediatr Adolesc Med 
+2007;161:172–178. 
+22. Gozal 
+D, Crabtree VM, Sans Capdevila O, Witcher LA, 
+Kheirandish-Gozal L. C-reactive protein, obstructive sleep apnea, 
+and cognitive dysfunction in school-aged children. Am J Respir 
+Crit Care Med 2007;176:188–193. 
+23. Barcelo A, Barbe F, Llompart E, Mayoralas LR, Ladaria A, Bosch 
+M, Agusti AG. Effects of obesity on C-reactive protein level and 
+Pediatric Pulmonology 
+
+
+metabolic disturbances in male patients with obstructive sleep 
+apnea. Am J Med 2004;117:118–121. 
+
+24. Guilleminault C, Kirisoglu C, Ohayon MM. C-reactive protein 
+and sleep-disordered breathing. Sleep 2004;27:1507–1511. 
+25. Harsch IA, Schahin SP, Radespiel-Troger M, Weintz O, Jahreiss 
+H, Fuchs FS, Wiest GH, Hahn EG, Lohmann T, Konturek PC, 
+Ficker JH. Continuous positive airway pressure treatment rapidly 
+improves insulin sensitivity in patients with obstructive sleep 
+apnea syndrome. Am J Respir Crit Care Med 2004;169:156–162. 
+26. Becker HF, Jerrentrup A, Ploch T, Grote L, Penzel T, Sullivan CE, 
+Peter JH. Effect of nasal continuous positive airway pressure 
+treatment on blood pressure in patients with obstructive sleep 
+apnea. Circulation 2003;107:68–73. 
+27. Akashiba T, Akahoshi T, Kawahara S, Majima T, Horie T. Effects 
+of long-term nasal continuous positive airway pressure on C-
+reactive protein in patients with obstructive sleep apnea 
+syndrome. Intern Med 2005;44:899–900. 
+28. Ryan S, Nolan GM, Hannigan E, Cunningham S, Taylor C, 
+McNicholas WT. Cardiovascular risk markers in obstructive sleep 
+apnoea syndrome and correlation with obesity. Thorax 
+2007;62:509–514. 
+29. Mansfield DR, Gollogly NC, Kaye DM, Richardson M, Bergin P, 
+Naughton MT. Controlled trial of continuous positive airway 
+pressure in obstructive sleep apnea and heart failure. Am J Respir 
+Crit Care Med 2004;169:361–366. 
+30. Coughlin SR, Mawdsley L, Mugarza JA, Wilding JP, Calverley 
+PM. Cardiovascular and metabolic effects of CPAP in obese 
+males with OSA. Eur Respir J 2007;29:720–727. 
+31. Kheirandish-Gozal L, Capdevila OS, Tauman R, Gozal D. Plasma 
+C-reactive protein in nonobese children with obstructive sleep 
+apnea before and after adenotonsillectomy. J Clin Sleep Med 
+2006;2:301–304. 
+32. Waters KA, Sitha S, O’Brien LM, Bibby S, de Torres C, Vella S, 
+de la Eva R. Follow-up on metabolic markers in children treated 
+for obstructive sleep apnea. Am J Respir Crit Care Med 2006; 
+174:455–460. 
+33. Li AM, Chan MH, Yin J, So HK, Ng SK, Chan IH, Lam CW, 
+Wing YK, Ng PC. C-reactive protein in children with obstructive 
+sleep apnea and the effects of treatment. Pediatr Pulmonol 
+2008;43:34–40. 
+34. Ogden CL, Kuczmarski RJ, Flegal KM, Mei Z, Guo S, Wei R, 
+Grummer-Strawn LM, Curtin LR, Roche AF, Johnson CL. 
+Centers for Disease Control and Prevention 2000 growth charts 
+for the United States: improvements to the 1977 National Center 
+for Health Statistics version. Pediatrics 2002;109:45–60. 
+35. Brodsky L. Modern assessment of tonsils and adenoids. Pediatr 
+Clin North Am 1989;36:1551–1569. 
+36. Rechtschaffen A, Kales A. A Manual of Standardized Terminology: 
+Techniques and Scoring Systems for Sleep Stages of Human 
+Subjects. Los Angeles: UCLA Brain Information Service/Brain 
+Research Institute; 1968. 
+37. American Sleep Disorders Association. EEG arousals: scoring 
+rules and examples: a preliminary report from the Sleep Disorders 
+Atlas Task Force of the American Sleep Disorders Association. 
+Sleep 1992;15:173–184. 
+38. American 
+Thoracic Society. Standards and indications for 
+cardiopulmonary sleep studies in children. Am J Respir Crit 
+Care Med 1996;153:866–878. 
+39. National 
+High Blood Pressure Education Program Working 
+Group. The fourth report on the diagnosis, evaluation, and 
+treatment of high blood pressure in children and adolescents. 
+Pediatrics 2004;114:555–576. 
+40. Matthews DR, Hosker JP, Rudenski AS, Naylor BA, Treacher DF, 
+Turner RC. Homeostasis model assessment: insulin resistance and 
+beta-cell function from fasting plasma glucose and insulin 
+concentrations in man. Diabetologia 1985;28:412–419. 
+Effects of Adenotonsillectomy for Sleep Apnea 559 
+
+41. Ridker PM. High-sensitivity C-reactive protein: potential adjunct 
+for global risk assessment in the primary prevention of 
+cardiovascular disease. Circulation 2001;103:1813–1818. 
+42. O’Brien LM, Serpero LD, Tauman R, Gozal D. Plasma adhesion 
+molecules in children with sleep-disordered breathing. Chest 
+2006;129:947–953. 
+43. Enright PL, Goodwin JL, Sherrill DL, Quan JR, Quan SF. Blood 
+pressure elevation associated with sleep-related breathing disorder 
+in a community sample of white and Hispanic children: the 
+Tucson Children’s Assessment of Sleep Apnea study. Arch 
+Pediatr Adolesc Med 2003;157:901–904. 
+44. Smurra M, Philip P, Taillard J, Guilleminault C, Bioulac B, Gin H. 
+CPAP treatment does not affect glucose-insulin metabolism in 
+sleep apneic patients. Sleep Med 2001;2:207–213. 
+45. Gozal 
+D, Kheirandish-Gozal L, Capdevila OS, Dayyat E, 
+Kheirandish E. Prevalence of recurrent otitis media in habitually 
+snoring school-aged children. Sleep Med 2007. 
+46. Shamsuzzaman AS, Winnicki M, Lanfranchi P, Wolk R, Kara T, 
+Accurso V, Somers VK. Elevated C-reactive protein in patients 
+with obstructive sleep apnea. Circulation 2002;105:2462–2464. 
+47. Tauman 
+R, O’Brien LM, Gozal D. Hypoxemia and obesity 
+modulate plasma C-reactive protein and interleukin-6 levels in 
+sleep-disordered breathing. Sleep Breath 2007;11:77–84. 
+48. Gozal D, Kheirandish-Gozal L, Serpero LD, Sans Capdevila O, 
+Dayyat E. Obstructive sleep apnea and endothelial function in 
+school-aged nonobese children: effect of adenotonsillectomy. 
+Circulation 2007;116:2307–2314. 
+49. Gozal D, Serpero LD, Sans Capdevila O, Kheirandish-Gozal L. 
+Systemic inflammation in non-obese children with obstructive 
+sleep apnea. Sleep Med 2008;9:254–259. 
+50. Chin K, Nakamura T, Shimizu K, Mishima M, Miyasaka M, Ohi 
+M. Effects of nasal continuous positive airway pressure on soluble 
+cell adhesion molecules in patients with obstructive sleep apnea 
+syndrome. Am J Med 2000;109:562–567. 
+51. Ohga E, Tomita T, Wada H, Yamamoto H, Nagase T, Ouchi Y. 
+Effects of obstructive sleep apnea on circulating ICAM-1, IL-8, 
+and MCP-1. J Appl Physiol 2003;94:179–184. 
+52. Kaditis AG, Alexopoulos EI, Kalampouka E, Hatzi F, Karadonta 
+I, Kyropoulos T, Kaditis DG, Gourgoulianis K, Syrogiannopoulos 
+GA. Nocturnal change of circulating intercellular adhesion 
+molecule 1 levels in children with snoring. Sleep Breath 2007; 
+11:267–274. 
+53. Cook 
+S, Weitzman M, Auinger P, Nguyen M, Dietz WH. 
+Prevalence of a metabolic syndrome phenotype in adolescents: 
+findings from the third National Health and Nutrition Examination 
+Survey, 1988–1994. Arch Pediatr Adolesc Med 2003;157: 
+821–827. 
+54. Waters KA, Mast BT, Vella S, de la Eva R, O’Brien LM, Bailey S, 
+Tam CS, Wong M, Baur LA. Structural equation modeling of 
+sleep apnea, inflammation, and metabolic dysfunction in children. 
+J Sleep Res 2007;16:388–395. 
+55. Kaditis AG, Alexopoulos EI, Hatzi F, Karadonta I, Chaidas K, 
+Gourgoulianis K, Zintzaras E, Syrogiannopoulos GA. Adiposity 
+in relation to age as predictor of severity of sleep apnea in 
+children with snoring. Sleep Breath 2008;12:25–31. 
+56. Ievers-Landis CE, Redline S. Pediatric sleep apnea: implications 
+of the epidemic of childhood overweight. Am J Respir Crit Care 
+Med 2007;175:436–441. 
+57. Pepperell JC, Ramdassingh-Dow S, Crosthwaite N, Mullins R, 
+Jenkinson C, Stradling JR, Davies RJ. Ambulatory blood pressure 
+after therapeutic and subtherapeutic nasal continuous positive 
+airway pressure for obstructive sleep apnoea: a randomised 
+parallel trial. Lancet 2002;359:204–210. 
+58. Marcus CL, Greene MG, Carroll JL. Blood pressure in children 
+with obstructive sleep apnea. Am J Respir Crit Care Med 1998; 
+157:1098–1103. 
+Pediatric Pulmonology 
+
+
+560 Apostolidou et al. 
+
+59. Kohyama 
+J, Ohinata JS, Hasegawa T. Blood pressure in 
+sleep disordered breathing. Arch Dis Child 2003;88:139– 
+142. 
+60. Leung LC, Ng DK, Lau MW, Chan CH, Kwok KL, Chow PY, 
+Cheung JM. Twenty-four-hour ambulatory BP in snoring children 
+with obstructive sleep apnea syndrome. Chest 2006;130:1009– 
+1017. 
+61. Tauman 
+R, Gulliver TE, Krishna J, Montgomery-Downs HE, 
+O’Brien LM, Ivanenko A, Gozal D. Persistence of obstructive 
+sleep apnea syndrome in children after adenotonsillectomy. 
+J Pediatr 2006;149:803–808. 
+62. O’Brien LM, Sitha S, Baur LA, Waters KA. Obesity increases the 
+risk for persisting obstructive sleep apnea after treatment in 
+children. Int J Pediatr Otorhinolaryngol 2006;70:1555–1560. 
+Pediatric Pulmonology 
+
+

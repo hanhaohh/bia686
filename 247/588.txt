@@ -1,0 +1,624 @@
+Otolaryngology–Head and Neck Surgery (2007) 137, 878-882 
+
+ORIGINAL 
+RESEARCH—PEDIATRIC 
+OTOLARYNGOLOGY 
+
+
+Prevalence 
+and 
+ethnicity 
+of 
+sleep-disordered 
+breathing 
+and 
+obesity 
+in 
+children 
+
+
+Emily 
+F. 
+Rudnick, 
+MD, 
+Jonathan 
+S. 
+Walsh, 
+BS, 
+Mark 
+C. 
+Hampton, 
+PhD, 
+and 
+Ron 
+B. 
+Mitchell, 
+MD, 
+Richmond, VA; and St Louis, MO 
+
+OBJECTIVES: 
+To compare the prevalence of obesity in children 
+with sleep-disordered breathing (SDB) who undergo adenotonsillectomy 
+to that in the general pediatric population. 
+DESIGN: 
+Cross-sectional controlled study. 
+METHODS: 
+A body-mass-index (BMI-for-age) percentile was 
+determined for children with SDB and for matched controls from 
+a general pediatric clinic. Children who were obese (85th %) 
+were analyzed. Groups were compared using a t 
+test or 2 analysis. 
+Risk factors were estimated with logistic regression. 
+RESULTS: 
+The study population included 299 children, of 
+whom 170 (56.9%) had SDB. Compared with controls, more 
+children with SDB were obese (46% vs 33%, P 
+. 
+0.029) or 
+underweight (8% vs 3%, P 
+. 
+0.110), and fewer children with SDB 
+were healthy weight (46% vs 64%, P 
+. 
+0.002). Among African 
+American children, those who were obese were more likely to have 
+SDB (OR, 2.22, P 
+. 
+0.01). 
+CONCLUSIONS: 
+Children with SDB who undergo adenotonsillectomy 
+are more likely to be obese than children seen in a 
+general pediatric clinic. African American children who are obese 
+are more likely to have SDB. 
+© 2007 American Academy of Otolaryngology–Head and Neck 
+Surgery Foundation. All rights reserved. 
+
+O
+O
+besity in children is a rising national and global concern. 
+In 2004, one third of all children in the United 
+States aged two through 19 years were overweight or at-risk 
+for overweight1 (greater than the 85th percentile in body 
+mass index [BMI]), representing a dramatic increase in the 
+prevalence of obese children over the past three decades. 
+Although an increase in obesity has been seen in children of 
+all racial and ethnic backgrounds, significantly more African 
+American children are affected.2,3 Childhood obesity is 
+associated with numerous sequelae that affect the health of 
+cardiovascular, pulmonary, metabolic, endocrine, psychosocial, 
+and neurocognitive systems.4-6 These sequelae make 
+childhood obesity a priority in national health research and 
+initiatives. 
+
+Sleep-disordered breathing (SDB) is closely associated 
+with obesity in children. SDB includes a broad spectrum of 
+sleep disturbances that range in severity from primary snoring 
+to obstructive sleep apnea (OSA). Approximately 30% 
+
+of children with obesity are thought to have OSA compared 
+with 1% to 3% of children in the general population.7 
+Previous studies have shown that children with OSA, characterized 
+by periods of apneas and hypopneas, experience 
+partial or complete resolution of symptoms as well as an 
+improved health-related quality-of-life after surgical therapy 
+with adenotonsillectomy.8-10 In obese children, these 
+improvements are significant but not as dramatic as those 
+seen in normal-weight children.7-9 
+
+Despite a known correlation between SDB and obesity in 
+children, there is limited awareness of how demographic, 
+socioeconomic, and environmental factors influence the 
+relationship between these two entities. Furthermore, as the 
+prevalence of obesity in the general pediatric population 
+increases, it is unknown how many children may have 
+unrecognized SDB. Therefore, the goals of the present report 
+were 1) to examine the prevalence of obesity in children 
+who presented for adenotonsillectomy with SDB as 
+compared with children in the general pediatric population, 
+and 2) to evaluate demographic predictive risk factors for 
+obesity and SDB and identify possible trends or weaknesses 
+in referral patterns for adenotonsillectomy. 
+
+METHODS 
+
+
+Approval for this study was obtained from the Institutional 
+Review Board at Virginia Commonwealth University 
+School of Medicine in Richmond, Virginia. Included in the 
+study were: 1) children scheduled to undergo adenotonsillectomy 
+for a diagnosis of SDB between April 1, 2004 and 
+October 1, 2005, and 2) children who presented to the 
+primary care pediatric clinic for well-child visits on randomly 
+selected dates in April 2005 (controls). Both groups 
+of children were derived from the same population in a 
+single urban tertiary-care facility. Children in the control 
+population were assumed to represent the general population 
+and were not screened for SDB. 
+
+Children were excluded from the study if they were less 
+than two or greater than 19 years of age. This age exclusion 
+
+Received January 15, 2007; revised May 21, 2007; accepted August 3, 
+2007. 
+
+0194-5998/$32.00 © 2007 American Academy of Otolaryngology–Head and Neck Surgery Foundation. All rights reserved. 
+doi:10.1016/j.otohns.2007.08.002 
+
+
+Rudnick et al Prevalence and ethnicity of sleep-disordered . . . 879 
+
+Table 
+1 
+Patient 
+demographics 
+(all 
+patients, 
+N 
+. 
+299) 
+
+
+SDB Control P 
+value 
+N (%)* 170 (57%) 129 (43%) 
+Mean BMI (range) 19.6 (6.5-43.1) 18.7 (11.8-43.4) NS** 
+Mean age, years (range) 7.3 (2.1-18.0) 6.9 (2.0-17.3) NS 
+Age 
+2to 6 73 (43%) 71 (55%) 0.040 
+6 to 18 97 (57%) 58 (45%) 
+Gender 
+Male 87 (51%) 62 (48%) NS 
+Ethnicity 
+African American 90 (53%) 103 (80%) 0.001 
+White 45 (26%) 20 (16%) NS 
+Asian 13 (8%) 0 NS 
+Hispanic 7 (4%) 2 (2%) NS 
+Native American 3 (2%) 0 NS 
+Other 12 (7%) 4 (3%) NS 
+BMI Classification 
+Underweight (BMI 5th %) 14 (8%) 4 (3%) NS 
+Healthy weight (BMI 5th-85th %) 78 (46%) 82 (64%) 0.002 
+At-risk (BMI 85th-95th %) 28 (17%) 12 (9%) NS 
+Overweight (BMI 95th %) 50 (29%) 31 (24%) NS 
+*Percentages are rounded to the nearest whole digit. 
+**NS, Not significant; P 
+value 0.05. 
+
+reflects the prevalence estimates of pediatric obesity most 
+recently obtained from the National Health and Nutrition 
+Examination Survey (NHANES).1 
+
+Each child’s chart was reviewed for the following demographic 
+data: age, gender, race/ethnicity, height, and 
+weight. BMI was calculated from the height and weight of 
+each child. An age-and gender-adjusted BMI percentile was 
+plotted with the CDC-standardized BMI-for-age growth 
+charts (Centers for Disease Control and Prevention, Atlanta, 
+GA). Each BMI percentile was then assigned a weight-
+status category that were as follows: 1) underweight, less 
+than 5th percentile; 2) healthy weight, 5th percentile up to 
+the 85th percentile; 3) at-risk for overweight, 85th to less 
+than the 95th percentile; and 4) overweight, equal to or 
+greater than the 95th percentile. Children in the third and 
+fourth category, with a BMI-for-age greater than the 85th 
+percentile, were considered “obese.” All data were stored in 
+a confidential computer database, where identifiers were 
+removed to protect patient privacy. 
+
+Overall prevalence of obesity was estimated for the entire 
+group of children and the two separate groups (children 
+with SDB scheduled to undergo adenotonsillectomy and the 
+control group of children who presented for well-child visits). 
+Prevalence estimates were also obtained for two subsets 
+of age (2 to 6 and 6 to 18 as divided by prevalence 
+reported with data from NHANES1), gender, and ethnicity. 
+
+The demographic variables between the two groups were 
+compared with unpaired t 
+tests (continuous variables) or 2 
+analyses (categorical variables), with the use of continuity 
+correlation for all 2 . 
+2 analyses. A P 
+value less than 0.05 
+was considered significant. Logistic regression models were 
+
+used to determine the odds ratio of the impact of age, 
+gender, and ethnicity on the frequency of obesity in each 
+population, and a likelihood ratio was then calculated to 
+confirm the independent effects of these demographic variables 
+between the two groups. All statistical analyses were 
+performed with SPSS version 13.0 (Chicago, IL). 
+
+RESULTS 
+
+
+The study included 299 children, 170 (57%) of whom had 
+SDB and presented for adenotonsillectomy. Demographics 
+of the 2 groups of children enrolled in the study (children 
+
+Figure1Prevalence of BMI-for-age categories in children with 
+SDB as compared to controls. 
+
+
+
+Otolaryngology–Head and Neck Surgery, Vol 137, No 6, December 2007 
+
+Table 
+2 
+Relationship 
+of 
+demographic 
+factors 
+and 
+SDB 
+in 
+obese 
+children 
+
+
+SDB Control Odds ratio (95% CI) P 
+value 
+N, Children at-risk for overweight 78 (46%)* 43 (33%) 1.70 (1.06-2.73) 0.03 
+or overweight 
+Age 
+2to 6 30 (38%) 21 (49%) NS** NS 
+6 to 18 48 (62%) 22 (51%) 
+Gender 
+Male 38 (49%) 23 (53%) NS NS 
+Ethnicity 
+African American 49 (63%) 36 (84%) 0.33 (0.13-0.83) 0.02 
+Other 29 (37%) 7 (16%) 
+*Percentages are rounded to the nearest whole digit. 
+**NS, Not significant; P 
+value 0.05. 
+
+with SDB and controls) are compared in Table 1. The mean 
+age of all children was 7.1 years (range, 2.1 to 18 years). 
+The mean BMI for all children was 19.2 (range, 6.5 to 43.4). 
+A total of 149 (49.8%) of the children were boys, and the 
+predominant ethnic group was African American (193 children, 
+64.5%). 
+
+The prevalence of the four CDC-defined BMI-for-age 
+classifications in children with SDB and of controls is 
+shown in Figure 1. In the SDB group, 14 (8%) children 
+were underweight, whereas, in the control group, four 
+(3%) children were underweight (P 
+. 
+0.11). Seventy-
+eight (46%) children in the SDB group were healthy 
+weight, whereas 82 (64%) controls were healthy weight 
+(P 
+. 
+0.004). The prevalence of at-risk for overweight 
+and overweight combined was 46% for children with 
+SDB and 33% for controls (P 
+. 
+0.038). The overall 
+distribution of BMI-for-age categories (underweight, 
+healthy weight, at-risk for overweight, overweight) differed 
+significantly in children with SDB from those in the 
+control group (P 
+. 
+0.011). Children in the SDB group 
+had higher frequencies in the underweight, at-risk for 
+overweight, and overweight categories. 
+
+Table 2 shows demographic variables as they relate to 
+SDB for children who were obese (85th percentile). 
+Within this subset of children, the mean BMI and mean age 
+did not differ significantly between the two groups. However, 
+African American children in this subset were one 
+third less likely to be in the SDB group (OR, 0.33; 95% CI, 
+
+0.13 to 0.83; P 
+. 
+0.02). 
+Results of the multivariate analyses that examined the 
+frequency of obesity while adjusting for age, gender, and 
+ethnicity are shown in Table 3. Likelihood ratio tests that 
+control for demographic variables in all children confirmed 
+that while gender and age made no significant 
+difference in the prediction of prevalence of obesity, 
+
+DISCUSSION 
+
+
+This article shows an increased prevalence of obesity in 
+children with SDB who present for adenotonsillectomy 
+compared with a population of healthy children. An evaluation 
+of demographic variables shows that children who are 
+African American and have SDB are significantly more 
+likely to be obese. 
+
+Previous articles have shown a high prevalence of obesity 
+in children with SDB and that obesity is an independent 
+risk factor for SDB in children and adolescents.7,11-14 As the 
+numerous sequelae of SDB in childhood obesity are increasingly 
+understood, the role of adenotonsillectomy as treatment 
+for SDB in obese children is more apparent. Although 
+it has been shown that obesity in children persists after 
+adenotonsillectomy, the severity of SDB often lessens or 
+resolves, which may result in fewer long-term cardiopulmonary 
+consequences.10 Moreover, children who are obese 
+have been noted to have a reduced health-related qualityof-
+life that improves after surgical therapy with adenotonsillectomy.
+9,15,16 Thus far, measures of outcome that assess 
+the efficacy of adenotonsillectomy for SDB in obese children 
+have been limited to BMI, polysomnography changes, 
+and quality-of-life instruments. Future studies may identify 
+
+Table 
+3 
+Independent 
+predictors 
+of 
+obesity 
+(multivariate 
+analyses) 
+
+
+Odds ratio 95% CI 
+P 
+value 
+SDB 
+African American 
+All children 
+SDB 
+African American 
+2.15 
+2.01 
+1.9 
+1.16-4.00 
+1.21-3.33 
+1.12-3.22 
+0.02 
+0.01 
+0.02 
+
+African American children in the SDB group were more 
+
+Gender and age for the SDB and All Children groups not 
+likely to be obese (OR, 2.15; 95% CI, 1.16 to 4.01; P 
+. 
+significant. 
+
+0.02). 
+
+
+Rudnick et al Prevalence and ethnicity of sleep-disordered . . . 881 
+
+changes and/or improvements in metabolic factors, neurocognition, 
+behavior, and self confidence after adenotonsillectomy 
+in children with obesity and SDB. 
+
+In the current study, we demonstrate that children with 
+SDB who present for adenotonsillectomy are more likely 
+to be obese than children in the general pediatric population. 
+Prevalence estimates from recent studies state that 
+in the general pediatric population, approximately 1% to 
+3% of children have SDB, and in obese children, approximately 
+30% to 40% of children have SDB.7,14 On the 
+basis of these estimates, we would expect that obesity in 
+children with SDB would occur approximately 10 times 
+more commonly than obesity in the general pediatric 
+population. This expected ratio is far greater than that 
+demonstrated by the children in the present report. This 
+observation may have two explanations. First, this study 
+included two groups of children who are not representative 
+of the overall population. Rather, the group of children 
+with SDB and the control population were reflective 
+of the ethnic and racial composition of the tertiary inner 
+city hospital in Richmond. In addition, children were 
+given a clinical diagnosis of SDB, based on symptoms 
+and physical examination in the absence of polysomnography. 
+Therefore a wide spectrum of severity of SDB and 
+OSA may have been present. A more likely explanation 
+for the closer than expected ratio of obesity in children 
+with SDB compared to controls is that a lack of awareness 
+of the association between obesity and SDB exists 
+among primary health care providers and caregivers. 
+Based on the population study estimates of SDB in obesity 
+in children, it is highly probable that many children 
+in the control population of children had unrecognized 
+SDB worthy of referral for evaluation and surgical intervention. 
+
+
+There is clearly a complex role that race and ethnicity 
+play in predicting obesity and SDB in children. In this 
+study, African American children were less likely overall 
+to be in the SDB group. This finding is possibly due to the 
+increased prevalence of underweight children in the SDB 
+group when compared with controls. African American 
+children have indeed been shown to be more likely to 
+exhibit SDB when compared with children of other ethnicities. 
+Redline et al13 estimated that African American 
+children were 3.5 times more likely to have SDB than 
+white children, independent of the presence of obesity. 
+Likewise, Stepanski et al3 measured more oxygen desaturations 
+and EEG disturbances in African American children 
+when compared with white or Hispanic children, 
+indicating a higher propensity for SDB. In the present 
+study, being African American was an independent risk 
+factor for obesity, especially among those children in the 
+SDB group, a finding that is reflective of other reports. 
+The most recent national data by Ogden et al1 showed 
+that between 1999 and 2004, African American girls 
+were significantly more likely to be overweight when 
+compared with white girls. The results of the present 
+
+study, in conjunction with other reports, stress a need for 
+screening and prevention of obesity in African American 
+children. The need to promote awareness of the association 
+between SDB and obesity, particularly in African 
+American children and adolescents, among educators, 
+caregivers, primary care providers, and the general public 
+cannot be overemphasized. 
+
+Many limitations were present in this study. First, 
+children in the study population were diagnosed by clinical 
+symptoms and physical examination and did not 
+undergo polysomnography to document the presence or 
+severity of OSA. Moreover, all children were diagnosed 
+with SDB in the presence of adenotonsillar hypertrophy 
+and were therefore selected for surgical intervention. 
+There may be obese children with SDB who do not have 
+adenotonsillar hypertrophy and were not included in this 
+cohort, and likewise, many of the children in this cohort 
+with adenotonsillar hypertrophy may not have had OSA 
+if polysomnography had been used for diagnosis. In addition, 
+this report discusses the prevalence of SDB and 
+risk factors for SDB in children who are “at-risk for 
+overweight” and “overweight,” or have a BMI-for-age 
+
+85th percentile. The significance of this grouping is 
+unknown and may be too inclusive. The highest probability 
+of childhood obesity leading to adult morbid obesity 
+is seen in children who are older than 13 with a 
+BMI-for-age 95th percentile.6 Another limitation of 
+this article is that it is a cross-sectional study and does 
+not determine long-term outcomes of obesity in children 
+with SDB after adenotonsillectomy compared with controls. 
+There are also some limitations to this study that are due 
+to the nature of the control population. First, these children 
+may have had undiagnosed SDB or other health comorbidities 
+and may therefore not represent a “healthy” sample of 
+children for comparison. In addition, the control group had 
+many more African American children than the SDB group, 
+perhaps signifying different referral patterns among children 
+in different ethnic or racial groups. Although the children 
+with SDB were referred to the otolaryngology service 
+by providers from the general pediatric clinic, it was not 
+possible to identify the source of referral for every patient. 
+These issues are beyond the scope of this report but should 
+be addressed in future studies. 
+
+Despite these limitations, this report shows a higher 
+prevalence of obesity in children who present for adenotonsillectomy 
+when compared with healthy controls. It demonstrates 
+a closer than expected ratio of obese children with 
+SDB to obese children in the general population, and 
+thereby suggests a pattern of decreased awareness of SDB 
+in children who are obese. The report also reinforces that 
+being African American is an independent risk factor for 
+obesity and that African American children with SDB are at 
+even greater risk of obesity. These findings help to better 
+define the relationship of SDB to obesity in children and to 
+
+
+Otolaryngology–Head and Neck Surgery, Vol 137, No 6, December 2007 
+
+emphasize the need for a public health focus on childhood 
+obesity and SDB. 
+
+CONCLUSIONS 
+
+
+The prevalence of obesity in children with SDB who present 
+for adenotonsillectomy is higher than that seen in a population 
+of healthy children. However, the difference in prevalence 
+of obesity between the two groups of children is far 
+less than would be expected. Children who are African 
+American are significantly more likely to be obese, especially 
+among those who have SDB. These findings may be 
+indicative of a decreased awareness of the relationship between 
+SDB and obesity in children, particularly in children 
+who are African American. 
+
+AUTHOR 
+INFORMATION 
+
+
+From the University of Washington School of Medicine, Children’s Hospital 
+and Regional Medical Center, Seattly, WA (Dr Rudnick) and the 
+Department of Otolaryngology–Head and Neck Surgery, University of 
+Rochester, NY (Dr Walsh) and the Center for Institutional Effectiveness 
+(Dr Hampton), Virginia Commonwealth University, and the Division of 
+Pediatric Otolaryngology, Department of Otolaryngology–Head and Neck 
+Surgery (Dr Mitchell), St Louis University School of Medicine. 
+
+Corresponding author: Emily F. Rudnick, MD, Division of Otolaryngology– 
+Head and Neck Surgery, Children’s Hospital and Regional Medical Center, 
+4800 NE Sand Point Way, W-7729, Seattle, WA 98105. 
+
+Presented in the Annual Meeting of the American Academy of Otolaryngology-
+Head and Neck Surgery Foundation, Toronto, Ontario, September 
+20, 2006. 
+
+E-mail address: emily.rudnick@seattlechildrens.org. 
+
+AUTHOR 
+CONTRIBUTIONS 
+
+
+Emily 
+Rudnick, 
+primary author; Jonathan 
+Walsh, 
+secondary author assisting 
+with data collection and interpretation; Mark 
+Hampton, 
+statistician; 
+Ron 
+Mitchell, 
+senior author. 
+
+FINANCIAL 
+DISCLOSURE 
+
+
+None. 
+
+REFERENCES 
+
+
+1. 
+Ogden CL, Carroll MD, Curtin LR, et al. Prevalence of overweight and 
+obesity in the United States, 1999-2004. JAMA 2006;295(13):1549–55. 
+2. Redline S, Tishler PV, Hans MG, et al. Racial differences in sleep-
+disordered breathing in African-Americans and Caucasians. Am J 
+Respir Crit Care Med 1997;155(1):186–92. 
+3. Stepanski E, Zayyad A, Nigro C, et al. Sleep-disordered breathing in 
+a predominantly African American pediatric population. J Sleep Res 
+1999;8(1):65–70. 
+4. Dietz WH. Health consequences of obesity in youth: childhood predictors 
+of adult disease. Pediatrics 1998;101(3 Pt 2):518–25. 
+5. Ogden CL, Carroll MD, Flegal KM. Epidemiologic trends in overweight 
+and obesity. Endocrinol Metab Clin North Am 2003;32(4): 
+741–60., vii. 
+6. Whitlock EP, Williams SB, Gold R, et al. Screening and interventions 
+for childhood overweight: a summary of evidence for the US Preventive 
+Services Task Force. Pediatrics 2005;116(1):e125–44. 
+7. Shine NP, Coates HL, Lannigan FJ. Obstructive sleep apnea, morbid 
+obesity, and adenotonsillar surgery: a review of the literature. Int 
+J Pediatr Otorhinolaryngol 2005;69(11):1475–82. 
+8. Kudoh F, Sanai A. Effect of tonsillectomy and adenoidectomy on 
+obese children with sleep-associated breathing disorders. Acta Otolaryngol 
+Suppl 1996;523:216 –8. 
+9. 
+Mitchell RB, Kelly J. Adenotonsillectomy for obstructive sleep 
+apnea in obese children. Otolaryngol Head Neck Surg 2004;131(1): 
+104 – 8. 
+10. Soultan Z, Wadowski S, Rao M, et al. Effect of treating obstructive 
+sleep apnea by tonsillectomy and/or adenoidectomy on obesity in 
+children. Arch Pediatr Adolesc Med 1999;153(1):33–7. 
+11. Mallory GB, Jr, Fiser DH, Jackson R. Sleep-associated breathing 
+disorders in morbidly obese children and adolescents. J Pediatr 1989; 
+115(6):892–7. 
+12. O’Brien LM, Sitha S, Baur LA, et al. Obesity increases the risk for 
+persisting obstructive sleep apnea after treatment in children. Int J Pediatr 
+Otorhinolaryngol 2006;70(9):1555–60. 
+13. Redline S, Tishler PV, Schluchter M, et al. Risk factors for sleep-
+disordered breathing in children: associations with obesity, race, and 
+respiratory problems. Am J Respir Crit Care Med 1999;159(5 Pt 
+1):1527–32. 
+14. Rosen CL, Larkin EK, Kirchner HL, et al. Prevalence and risk factors 
+for sleep-disordered breathing in 8-to 11-year-old children: association 
+with race and prematurity. J Pediatr 2003;142(4):383–9. 
+15. Fallon EM, Tanofsky-Kraff M, Norman AC, et al. Health-related 
+quality of life in overweight and nonoverweight black and white 
+adolescents. J Pediatr 2005;147(4):443–50. 
+16. Schwimmer JB, Burwinkle TM, Varni JW. Health-related quality of 
+life of severely obese children and adolescents. JAMA 2003;289(14): 
+1813–9. 
+

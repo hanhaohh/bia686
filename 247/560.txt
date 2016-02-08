@@ -1,0 +1,525 @@
+Act. 
+Pñdiat. 
+89. 
+708±12. 
+200. 
+
+
+Can parents predict the severity of childhood obstructive sleep apnoea? 
+
+
+A Preutthipan1, T Chantarojanasiri1, S Suwanjutha1 and U Udomsubpayakul2 
+
+Division of Paediatric Pulmonology, Department of Paediatrics1, and Statistical Unit, Research Centre2, Faculty of Medicine, 
+Ramathibodi Hospital, Bangkok, Thailand 
+
+Preutthipan A, Chantarojanasiri T, Suwanjutha S, Udomsubpayakul U. Can parents predict the 
+severity of childhood obstructive sleep apnoea? Acta Pædiatr 2000; 89: 708–12. Stockholm. ISSN 
+0803–5253 
+
+Objective: To determine whether parents’ observations can be used to predict the severity of the 
+obstructive sleep apnoea syndrome (OSAS) in children. Study design: Sixty-five children with 
+OSAS diagnosed by overnight polysomnography were consecutively recruited and classified as 
+having severe or non-severe OSAS according to the obstructive apnoea index (OAI) and the 
+oxygen saturation measured by pulse oximetry (SpO2) nadir. Parents were asked to complete a 
+questionnaire about the child’s breathing difficulties at night. Results: Twenty-eight patients were 
+classified as severe OSAS and 37 as non-severe OSAS. There were no differences between the 
+two groups with respect to age, sex or body mass index. Male to female ratio was 5:1. Parents of 
+children with severe OSAS more frequently reported observed cyanosis (35 vs 8%; p = 0.02); 
+obstructive apnoea (60 vs 35%; p = 0.04); snoring extremely loudly (52 vs 22%; p = 0.01); shaking 
+the child (64 vs 35%; p = 0.02); watching the child during sleep and being afraid of apnoea (85 vs 
+60%; p = 0.03). However, neither any single nor combinations of observations showed high values 
+for both sensitivity and specificity. 
+
+Conclusions: Although some parents’ observations are more frequently reported in children with 
+severe OSAS, neither any single nor combinations of observations accurately predict the severity of 
+OSAS. Polysomnography is still needed to determine the severity of obstruction. 
+
+Key words: Children, diagnosis, obstructive sleep apnoea, severity 
+
+A Preutthipan, Department of Paediatrics, Ramathibodi Hospital, Mahidol University, Bangkok, 
+Thailand (Tel. .66 2 201 18 15, fax. .66 2 201 18 50, e-mail. raapt@mahidol.ac.th) 
+
+The obstructive sleep apnoea syndrome (OSAS) is 
+increasingly being recognized in the paediatric population. 
+It is characterized by prolonged partial upper 
+airway obstruction and/or intermittent complete obstructions 
+(obstructive apnoeas) during sleep that 
+disrupt normal oxygenation, ventilation and sleep 
+architecture (1, 2). If the diagnosis is delayed and the 
+disease is left untreated, it can lead to failure to thrive, 
+cor pulmonale, mental retardation and even death (2, 3). 
+
+We previously reported that among 39 Thai children 
+with breathing difficulties during sleep who were 
+referred to the paediatric chest clinic at Ramathibodi 
+Hospital, 85% were diagnosed with OSAS by polysomnography 
+(PSG) and 36% were found to have 
+severe OSAS (4). The prevalence and the severity of 
+childhood OSAS is frighteningly high compared to a 
+similarly designed Western study (5). This may be due 
+to a relatively lower awareness of OSAS among 
+primary physicians. Therefore, patients are more likely 
+referred late in the course of the disease. 
+
+The standard testing procedure for documenting and 
+grading the severity of OSAS is the overnight PSG (6). 
+However, such testing is expensive, time-consuming 
+
+and not readily available throughout the country. A 
+number of children have to wait for extended periods of 
+time until they are seen by sleep specialists and PSG can 
+be performed. These children, especially those with 
+severe OSAS, should be diagnosed and treated 
+promptly, as they are at greater risk for serious 
+complications (7). Parents’ observation of the child’s 
+sleep, if reliable, would be a valuable and simple 
+screening tool for primary physicians to identify which 
+children need early referral and investigation. Brouillette 
+et al (8) investigated the clinical usefulness of 
+historical data obtained from the parents to diagnose 
+OSAS. They found that a clinical scoring system based 
+on three questions about breathing during sleep could be 
+used to distinguish children with OSAS requiring 
+adenotonsillectomy from those without OSAS. By 
+contrast, Caroll et al. (9) reported that, in a paediatric 
+sleep apnoea clinic setting where most children were 
+referred because of possible OSAS, it was not possible 
+to classify children with primary snoring from those 
+with OSAS from the answers to questions obtained from 
+the parents about breathing during sleep. The present 
+study aimed to determine whether parents’ observations 
+
+Ó 2000 Taylor & Francis. ISSN 0803-5253 
+
+
+ACTA PÆDIATR 89 (2000) 
+
+of their child’s sleep were useful in predicting the 
+severity of OSAS in children. 
+
+Patients and methods 
+
+Consecutive children, aged less than 15 y, referred to 
+the paediatric chest clinic at Ramathibodi Hospital for 
+evaluation of OSAS, were recruited from November 
+1995 through October 1998. The study was approved by 
+our institutional review board: parental written consent 
+was obtained. At the first visit to our clinic, parents were 
+verbally instructed to observe their child’s sleep and 
+breathing pattern overnight at home for at least 2 wk. 
+An overnight PSG was then performed on each child in 
+a quiet, comfortable, darkened room, with one parent 
+sleeping in the same room with the child. No sedation or 
+sleep deprivation was used on any child. 
+
+Questionnaire 
+
+We modified a portion of the expanded obstructive 
+sleep apnoea questionnaires developed by Caroll et al. 
+
+(9) to obtain information on the parents’ observations of 
+the child’s sleep. The parents completed the questionnaire 
+at night prior to performing the PSG. The 
+questionnaire consisted of 10 questions regarding the 
+child’s breathing patterns and parental reactions to the 
+child’s breathing during sleep 
+Polysomnographic studies 
+
+The PSG (PolyG; CNS Inc., Chanhassen, MN, USA) 
+included oronasal airflow (thermister), chest and abdominal 
+impedance plethysmography, pulse oximetry 
+and electrocardiogram. The child’s sleep behaviour and 
+respiratory pattern were also continuously observed and 
+recorded by a special nurse trained in PSG. The PSG 
+respiratory events were visually reviewed and manually 
+edited by the first author, who was not aware of any 
+questionnaire results. Obstructive apnoea (OA) was 
+defined as cessation of oronasal airflow associated with 
+the out-of-phase movement of the rib cage and abdomen 
+(6). The number and duration of OA lasting for two or 
+more consecutive breaths were determined (6, 9). Total 
+sleep time of each child was based on the nurse’s 
+observations. The obstructive apnoea index (OAI), 
+defined as the number of OAs per hour of sleep, was 
+calculated. We defined the arterial oxygen saturation 
+(SpO2) nadir as that measured by pulse oximetry while 
+the patient was asleep, without any movement artifact, 
+and where the pulse rate detected by the oximeter was 
+comparable to the heart rate detected by electrocardiography. 
+The out-of-phase movement of the rib cage and 
+abdomen indicating airway obstruction was determined 
+by the display of PSG tracings corresponding with the 
+nurse’s observation. 
+
+The child was considered to have OSAS if the OAI 
+was greater than one per hour of total sleep time (6, 10) 
+or if desaturation episodes (oxygen saturation <90%) 
+
+Parents’ observations in childhood obstructive sleep apnoea 709 
+
+were associated with the presence of OA and/or the out-
+of-phase movement of the rib cage and abdomen, 
+indicating partial airway obstruction (6). Children 
+whose PSG findings did not meet the criteria of OSAS 
+were excluded from the study. Since there was no 
+consensus on guidelines for rating the severity of 
+childhood OSAS based on PSG findings, we classified 
+children with SpO2 nadir <75% and/or an OAI >10 per 
+hour of sleep time as having severe OSAS. Those who 
+did not meet the criteria of severe OSAS were classified 
+as having non-severe OSAS. 
+
+Statistical analysis 
+
+Nominal and ordinal variables were compared between 
+the two groups and analysed using the Chi-squared or 
+Fisher’s exact test for 2 . 
+2 tables (Epi Info 6, World 
+Health Organization, Geneva, Switzerland, 1994). Two-
+tailed t-tests were used for comparing continuous 
+variables (SPSS for Windows 7.52, SPSS Inc, USA, 
+1997). Means are presented as mean (SD). A probability 
+value of less than 0.05 was considered significant. The 
+sensitivity, specificity and positive and negative predictive 
+values of the observation that showed statistically 
+significant differences between the severe and 
+non-severe groups were calculated using standard 
+formulas (11). 
+
+Results 
+
+Sixty-five children met the PSG criteria of OSAS. 
+Twenty-eight patients were classified as having severe 
+OSAS and 37 as non-severe OSAS. Demographic data 
+and PSG findings are given in Table 1. There were no 
+significant statistical differences between severe and 
+non-severe OSAS with respect to age, sex or body mass 
+index. The male to female ratio was approximately 5 to 
+1 in both groups. All patients snored. 
+
+By definition, the SpO2 nadir of the severe group was 
+statistically less than those of the non-severe group 
+
+Table 1. Patient demographics and polysomnographic findings. 
+
+Severe OSAS Non-severe OSAS 
+(n = 28) (n = 37) 
+Age 
+Mean (y) 5.1 (SD 3.1) 5.8 (SD 3.0) 
+Range (y) 1.9–13.4 2.0–13.4 
+Sex (M: F) 23: 5 31: 6 
+BMI 23.1 (SD 9.7) 20.2 (SD 6.5) 
+Total sleep time (h) 6.1 (SD 1.5) 6.3 (SD 1.8) 
+Peak SpO2 (%) 99 (SD 1) 100 (SD 1) 
+SpO2 nadir (%) 64 (SD 10)* 84 (SD 4) 
+Obstructive apnoea index 7.6 (SD 6.0)* 2.9 (SD 2.0) 
+Average duration of 12.5 (SD 8.5) 9.2 (SD 5.5) 
+obstructive apnoea (sec) 
+
+*Values demonstrating a significant difference between groups (two
+
+
+tailed t-test, p . 
+0.01). 
+SpO2 = Arterial oxygen saturation measured by pulse oximetry. 
+BMI = Body mass index (weight in kilograms/height in meters2). 
+
+
+710 A Preutthipan et al. 
+ACTA PÆDIATR 89 (2000) 
+
+Fig. 1. The oxygen saturation measured by pulse oximetry (SpO2) 
+nadir of children with severe versus non-severe obstructive sleep 
+apnoea syndrome (OSAS) (p <0.01). Thick horizontal lines = mean 
+values; thin horizontal lines = mean SD values. 
+
+
+Fig. 2. The obstructive apnoea index (OAI), defined as the number of 
+obstructive apnoea per hour of sleep, in children with severe versus 
+non-severe obstructive sleep apnoea syndrome (OSAS) (p <0.01). 
+Thick horizontal lines = mean values; thin horizontal lines = 
+mean SD values. 
+
+
+(p . 
+0.01) (Fig. 1). The OAI of the severe group was 
+statistically greater than the non-severe group 
+(p . 
+0.01) (Fig. 2). The average duration of OA did 
+not differ significantly between the two groups (Table 
+1). 
+
+The parents’ observations obtained from the questionnaires 
+are given in Table 2. Parental observations of 
+“observed cyanosis”, “observed OA” and “snoring 
+extremely loud” were significantly greater in the severe 
+group. “Observed cyanosis” was the least common 
+parental observation in the non-severe group. In the 
+severe group, “shaking the child to make him or her 
+breathe” was nearly twice as frequent as those in the 
+non-severe group. “Watching the child sleeping, afraid 
+about his or her breathing” was present in 85% and 60% 
+
+Table 2. Parents’ observations during sleep of severe vs. non-severe 
+OSAS. 
+
+Severe Non-severe 
+(%) (%) p-value 
+
+Observed cyanosis (63) 35 8 0.02 
+Observed obstructive apnoea (65) 61 35 0.04 
+Observed child struggling to 85 84 NS 
+
+breathe (64) 
+Snoring extremely loudly (64) 52 22 0.01 
+Snores “most nights” (65) 86 73 NS 
+Excessive movement (64) 19 11 NS 
+Nocturnal sweating most nights 50 32 NS 
+
+(65) 
+Mouth breathing “every night” 29 54 0.04 
+(65) 
+Shakes child to make him/her 64 35 0.02 
+breathe (65) 
+Watches child sleeping, afraid 
+85 60 0.03 
+about breathing (64) 
+
+*Number of subjects in parentheses; NS = not significant. 
+
+of the severe and non-severe OSAS, respectively. These 
+two parental responses to the child’s breathing were 
+significantly more prevalent in the severe group. It 
+should be noted that “mouth breathing every night” was 
+surprisingly less in the severe group. 
+
+Table 3 gives the sensitivity, specificity, positive and 
+negative predictive values of five significant questions. 
+“Watching the child, afraid about breathing” had the 
+highest sensitivity (85%) and negative predictive value 
+(79%), but its specificity was only 41%. “Observed 
+cyanosis” had the highest specificity (92%) and positive 
+predictive value (75%), but its sensitivity was only 
+35%. “Observed cyanosis” and “snoring extremely 
+loud” were two observations that showed the highest 
+values for specificity. When these two observations 
+were combined, the specificity increased to 100%, but 
+the sensitivity dropped to 15.4%. Neither any single nor 
+combinations of observations showed high values for 
+both sensitivity and specificity. None had positive or 
+negative predictive values close to 100%. 
+
+Discussion 
+
+This study examined whether parents’ observations of a 
+child’s sleep could be used to predict the severity of 
+OSAS in children. We have found that parents of 
+children with severe OSAS were more likely to report 
+observed cyanosis, OA or extremely loud snoring than 
+parents of the non-severe group. In addition, parents of 
+children with severe OSAS were more frightened by the 
+child’s breathing difficulties, as shown by the more 
+prevalent reports of watching and shaking the child 
+during sleep in the severe group, than parents of the 
+non-severe group. 
+
+
+ACTA PÆDIATR 89 (2000) Parents’ observations in childhood obstructive sleep apnoea 711 
+Table 3. Validity of parents’ observations in predicting severe OSAS. 
+
+Sensitivity Specificity Positive predictive value Negative predictive value 
+(%) (%) (%) (%) 
+
+Observed cyanosis 35 92 75 67 
+Observed obstructive apnoea 61 65 57 69 
+Snoring extremely loudly 52 78 64 69 
+Shakes child to make him/her breathe 64 65 58 71 
+Watches child sleeping, afraid about breathing 85 41 51 79 
+
+Our results are similar to those of a previous study 
+examining the value of the clinical history in distinguishing 
+primary snoring from OSAS in children (9). 
+They found that parents’ observations and interventions, 
+including observed OA, shaking the child and 
+watching the child during sleep, were statistically more 
+prevalent in OSAS than in primary snoring (9). In our 
+study, these three particular observations were also 
+found to be statistically more common in the severe 
+OSAS than in the non-severe group. Accordingly, 
+children whose parents report these observations 
+probably have more serious OSAS than those without 
+them. 
+
+Of all parents’ observations, “watching the child, 
+afraid about breathing” had the highest sensitivity, 
+indicating that 85% of children with severe OSAS 
+would be correctly identified by this observation. 
+However, because of its low specificity, nearly 60% 
+of children with non-severe OSAS would be falsely 
+labelled as severe OSAS. Parents’ observation of 
+cyanosis is highly specific, but is insensitive for severe 
+OSAS. When negative, 92% of children with non-
+severe OSAS would be accurately identified as non-
+severe OSAS. However, because of its low sensitivity, 
+only 35% of children with severe OSAS would be 
+correctly identified as having severe OSAS by this 
+observation. Neither any single nor combinations of 
+observations had sufficient sensitivity and specificity to 
+identify severe OSAS. None had high values for 
+positive and negative predictive values. Thus, considering 
+parents’ observations alone does not precisely 
+predict the severity of OSAS in children. The data in 
+this study confirm the crucial role of PSG in assessing 
+the severity of OSAS in children, as recommended by 
+the American Thoracic Society (6). 
+
+Parents in our study, compared with those reported by 
+Caroll et al., more frequently reported observed 
+cyanosis. We found that observed cyanosis was reported 
+in 34.6% and 8.1% of the severe and non-severe groups, 
+respectively. In the study by Caroll et al. (9), cyanosis 
+was observed only in 6% of the entire OSAS group. The 
+higher prevalence of observed cyanosis may have been 
+due to our studied patients having more severe 
+desaturation, as demonstrated by the lower mean value 
+of the SpO2 nadir. 
+
+One surprising finding was that “mouth-breathing 
+every night” was reported half as commonly in the 
+severe OSAS compared to the non-severe group. A 
+previous study by Nieminen et al. (12) showed that 
+
+mouth-breathing during sleep was equally common in 
+children with OSAS as in those without OSAS. This 
+suggests that mouth-breathing during sleep is of little 
+help in predicting the severity of OSAS. 
+
+In contrast to other studies in children (5, 13), we 
+found a preponderance of boys in the Thai children with 
+OSAS. The overall male to female ratio was 5 to 1, 
+which is comparable to our previous finding (4). In 
+Western countries, OSAS in children occurs equally 
+amongst boys and girls (1, 14), whereas in adults it 
+occurs predominantly in males (15, 16). The difference 
+in sex ratios between Thai and Caucasian children 
+requires further investigation. However, since our 
+hospital statistical report revealed that, in 1998, the 
+male to female ratio of children attending the general 
+paediatric clinic was 1.2 to 1, a cultural selection bias is 
+unlikely to be the cause of the extreme male preponderance 
+in our OSAS children. 
+
+The limitation of the PSG device used in this study 
+must be recognized. It did not measure electroencephalograms 
+or end tidal CO2. The total sleep time of all 
+children was quantitated by direct nursing observations 
+of sleep versus wakefulness. The magnitude of both 
+sleep fragmentation and hypoventilation was unknown. 
+Nevertheless, we were able to grade the severity of 
+OSAS by demonstrating the presence and numbers of 
+OA, oxygen desaturation and the out-of-phase movement 
+of the rib cage and abdomen. The PSG device 
+(PolyG1) used in this study has been assessed for 
+accuracy by comparing the results with a gold standard 
+PSG. It was shown that the accuracy of this device was 
+greater than 90% (17). We trained a team of special 
+paediatric nurses to provide us with additional important 
+information regarding OSAS, including sleep 
+versus wakefulness and the presence of the out-ofphase 
+movement of the rib cage and abdomen. The 
+combined information obtained from the attending 
+nurses and the PSG data, which had been manually 
+edited and scored, would thus be adequate to diagnose 
+and classify the severity of OSAS. To our knowledge, 
+there is no consensus for grading the severity of OSAS 
+in children. In adults, the severity of OSAS is mainly 
+based on the number of the OAI (15, 18). In children, 
+the OAI exceeding 1 per hour of sleep time is 
+considered abnormal, indicating that the child has 
+OSAS (6). As such, it is reasonable to classify a child 
+with OAI >10 per hour of sleep time as having severe 
+OSAS. 
+
+In conclusion, parents of children with severe OSAS 
+
+
+712 A Preutthipan et al. 
+
+are more likely to report observed cyanosis, OA and 
+extremely loud snoring. They more frequently shake 
+and watch their child during sleep and are afraid of the 
+child’s breathing at night. However, neither any single 
+nor combinations of observations can confidently 
+predict severe OSAS. Thus, children still require overnight 
+PSG to assess the severity of OSAS. 
+
+Acknowledgements.—We are grateful to Dr Carole Marcus for her advice 
+and critical review of this manuscript. We thank Wanchai Tachatagkiyapan, 
+Tipsuda Thavaramara, Metta Kum-in, Suputchrin Meesawadkul and 
+Ammarin Thakkinstian for their efficient assistance. This study was 
+supported by the Ramathibodi Foundation and conducted at the Clinical 
+Research Ward, Ramathibodi Hospital. 
+
+References 
+
+1. Guilleminault C, Korobkin R, Winkle R. A review of 50 children 
+with obstructive sleep apnea syndrome. Lung 1981; 159: 275–87 
+2. Brouillette RT, Fernbach SK, Hunt CE. Obstructive sleep apnea 
+in infants and children. J Pediatr 1982; 100: 31–40 
+3. Bradley TD, Phillipson EA. Pathogenesis and pathophysiology 
+of the obstructive sleep apnea syndrome. Med Clin North Am 
+1985; 69: 1169–85 
+4. Preutthipan A, Suwanjutha S, Chantarojanasiri T. Obstructive 
+sleep apnea syndrome in Thai children diagnosed by polysomnography. 
+Southeast Asian J Trop Med Public Health 1997; 28: 
+62–8 
+5. Leach J, Olson J, Hermann J, Manning S. Polysomnographic and 
+clinical findings in children with obstructive sleep apnea. Arch 
+Otolaryngol Head Neck Surg 1992; 118: 741–4 
+6. American Thoracic Society. Medical Section of American Lung 
+Association. Standards and indications for cardiopulmonary 
+sleep studies in children. Am J Respir Crit Care Med 1996; 
+153: 866–78 
+ACTA PÆDIATR 89 (2000) 
+
+7. He 
+J, Kryger M, Zorick F. Mortality and apnea index in 
+obstructive sleep apnea. Chest 1988; 89: 331–4 
+8. Brouillette R, Hanson D, David R, Klemka L, Szatkowski A, 
+Fernbach S, et al. A diagnostic approach to suspected obstructive 
+sleep apnea in children. J Pediatr 1984; 105: 10–4 
+9. Caroll JL, McColley SA, Marcus CL, Curtis S, Loughlin GM. 
+Inability of clinical history to distinguish primary snoring from 
+obstructive sleep apnea syndrome in children. Chest 1995; 101: 
+610–8 
+10. Marcus CL, Omlin KJ, Basinki DJ, Bailey SL, Rachal AB, Von 
+Pechmann WS, et al. Normal polysomnographic values for 
+children and adolescents. Am Rev Respir Dis 1992; 146: 1234–9 
+11. Fletcher RH, Fletcher SW, Wagner EH. Clinical epidemiology: 
+the essentials, 2nd ed. London: Williams & Wilkins, 1988 
+12. Nieminen P, Tolonen U, Lopponen H, Lopponen T, Luotonen J, 
+Jokinen K. Snoring children: factors predicting sleep apnea. Acta 
+Otolaryngol (Stockh) 1997; Suppl 529: 190–4 
+13. Gozal D, Marcus CL, Keens TG, Ward SLD. Characteristics and 
+polysomnographic abnormalities of children with the obstructive 
+sleep apnea syndrome [Abstract]. Pediatr Pulmonol 1991; 11: 
+372 
+14. Frank Y, Kravath RE, Pollak CP, Weitzman ED. Obstructive 
+sleep apnea and its therapy: clinical and polysomnogrphic 
+manifestations. Pediatrics 1983; 71: 737–42 
+15. Strohl KP, Redline S. Recognition of obstructive sleep apnea. 
+Am J Respir Crit Care Med 1996; 154: 279–89 
+16. Young T, Palta M, Dempsey J, Skatrud J, Weber S, Badr S. The 
+occurrence of sleep-disordered breathing among middle-aged 
+adults. N Engl J Med 1993; 328: 1230–5 
+17. Man GCW. Validation of 
+a portable sleep apnea monitoring 
+device (PolyG1). Am J Respir Crit Care Med 1994; 149: A51 
+18. Berry DTR, Webb WB, Block AJ. Sleep apnea syndrome. A 
+critical review of the apnea index as a diagnostic criterion. Chest 
+1984; 86: 529–31 
+Received July 15, 1999; revision received Nov. 22, 1999; accepted 
+Jan. 12, 2000 
+
+

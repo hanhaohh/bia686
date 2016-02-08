@@ -1,0 +1,710 @@
+Pediatric Pulmonology 27:267–272 (1999) 
+
+Evaluation of Home Audiotapes as an Abbreviated Test 
+for Obstructive Sleep Apnea Syndrome (OSAS) 
+in Children 
+
+
+Carin Lamm, MD,1* John Mandeli, PhD,2 and Meyer Kattan, MD1 
+
+Summary. Snoring occurs commonly in children and is sometimes associated with obstructive 
+sleep apnea syndrome (OSAS). Based on clinical history alone, it is difficult to distinguish 
+primary snoring, characterized by noisy breathing during sleep without apnea or hypoventilation, 
+from snoring indicative of OSAS. An overnight polysomnogram (PSG) is required to establish a 
+definitive diagnosis of OSAS. Because sleep evaluations are costly and resources are limited, 
+we evaluated whether a home audiotape recording could accurately identify children with OSAS. 
+We studied 36 children referred by pediatricians and otolaryngologists for possible OSAS. 
+Parents completed a questionnaire about their child’s sleep and breathing and made a 15-min 
+audiotape of the child’s breath sounds during sleep. Overnight PSGs were performed on all 
+patients. 
+
+There were 29 patients who completed the study: 15 patients in the Primary Snoring group 
+(apnea/hypopnea index <5) and 14 patients in the OSAS group (apnea/hypopnea index ù5). No 
+significant statistical differences existed between the two groups for physical characteristics or 
+questionnaire responses. Seven observers analyzed the audiotapes for the presence of a 
+struggle sound and respiratory pauses. The median sensitivity of the audiotape as a predictor of 
+OSAS was 71% (range 43–86%), and the median specificity was 80% (range 67–80%). The 
+presence of a struggle sound on the audiotape was the parameter most predictive of OSAS. 
+There was a good level of agreement among the seven audiotape observers, as demonstrated 
+by a mean and range kappa statistic of 0.70 (0.50–0.93) for the 21 pairs of observers. Using a 
+clinical score to predict OSAS, the sensitivity was 46%, and the specificity was 83%. 
+
+We conclude that findings on a home audiotape can be suggestive of OSAS, but are not 
+
+sufficiently specific to reliably distinguish primary snoring from OSAS. Pediatr Pulmonol. 1999; 
+
+27:267–272. © 1999 Wiley-Liss, Inc. 
+
+Key words: obstructive sleep apnea; primary snoring; polysomnogram; questionnaires. 
+
+INTRODUCTION 
+
+Snoring is a common and generally benign condition 
+in children, but at times may be indicative of upper airway 
+obstruction.1–4 Loud snoring in sleep is a common 
+feature in both primary snoring, characterized by snoring 
+without apnea, hypoventilation or sleep fragmentation, 
+and obstructive sleep apnea syndrome (OSAS). Unlike 
+primary snoring, OSAS can result in significant morbidity, 
+including daytime neurobehavioral abnormalities, 
+cor pulmonale, systemic hypertension, failure to thrive, 
+and sudden death.5 It is important, therefore, to distinguish 
+primary snoring from OSAS so that appropriate 
+treatment can be initiated. 
+
+Clinical history alone has proven to be a limited tool 
+for diagnosing OSAS. Brouilette et al.6 used a clinical 
+score to separate patients into groups that were at high, 
+indeterminate, or low risk for OSAS and performed overnight 
+polysomnograms (PSGs) on these groups. They 
+
+found a good correlation between the clinical score and 
+the PSG only in those patients with high and low clinical 
+scores, suggesting that patients with an indeterminate 
+clinical score require further evaluation to diagnose 
+OSAS. By contrast, Carroll et al.7 found a poor correlation 
+between clinical history and PSG, concluding that 
+patients with OSAS could not be identified by clinical 
+history alone. Suen et al.8 showed that 50% of patients 
+with a clinical history highly suggestive of OSAS, in
+
+
+1Pediatric Pulmonary and Critical Care Division, Mount Sinai School 
+of Medicine, New York, New York. 
+
+2Department of Biomathematical Sciences, Mount Sinai School of 
+Medicine, New York, New York. 
+
+*Correspondence to: Carin Lamm, M.D., Pediatric Pulmonary and 
+Critical Care Division, Mount Sinai School of Medicine, One Gustave 
+
+L. Levy Place, New York, NY 10029. 
+Received 16 March 1998; Accepted 12 November 1998. 
+
+© 1999 Wiley-Liss, Inc. 
+
+
+268 Lamm et al. 
+
+cluding snoring, observed apnea, daytime somnolence, 
+and large tonsils, had no evidence of OSAS on PSG. 
+Because the clinical history can be misleading, many 
+pulmonologists and sleep specialists feel that an overnight 
+PSG is necessary to diagnose OSAS. However, 
+PSGs are expensive and labor-intensive, and require use 
+of limited resources. 
+
+Several abbreviated tests to assess for OSAS have 
+been proposed. Potsic9 studied sleep sonography using a 
+stethoscope attached to a microphone and a recorder that 
+detected respiratory irregularities and apneas. He found a 
+good correlation between respiratory pattern irregularities 
+and apneas detected by sonography as compared to a 
+limited 2-h PSG. Sivan et al.10 showed that home video-
+recordings of sleeping patients evaluated for several parameters, 
+including breath sound characteristics, were 
+predictive for OSAS as diagnosed by PSGs limited to the 
+respiratory channels in 84% of patients. 
+
+We evaluated 36 patients to determine whether an inexpensive, 
+and readily available technique, namely, a 
+home audiotape of a child’s breath sounds during sleep, 
+was useful in distinguishing patients with primary snoring 
+from those with OSAS. 
+
+METHODS 
+
+Population 
+
+Thirty-six children with no prior chronic medical disorders, 
+upper airway surgery, craniofacial abnormalities, 
+or neuromuscular disorders consecutively referred for 
+loud snoring and possible OSAS by pediatricians and 
+otolaryngologists to our Sleep Disorders Center over a 
+1-year period, were entered in the study. The study was 
+approved by our institutional review board; parental written 
+consent was obtained. The children were 1.5–18 
+years old (mean age . 
+5.7 years). Seven children were 
+unable to complete the study, six parents failed to bring 
+in a satisfactory audiotape, and one patient was uncooperative 
+during the overnight polysomnogram. 
+
+Clinical Evaluation 
+
+Upon entry to the study, all parents were asked to 
+complete a questionnaire about their child’s sleep and 
+
+Abbreviations 
+
+AHI Apnea hypopnea index 
+BMI Body mass index 
+EEG Electroencephalogram 
+OSAS Obstructive sleep apnea syndrome 
+PETCO2 End-tidal carbon dioxide tension 
+PSG Polysomnogram 
+REM Rapid eye movement 
+SaO2 Arterial oxygen saturation 
+
+breathing. The questionnaire consisted of 19 questions 
+regarding the child’s sleep-disordered breathing patterns 
+and cognitive behavior. The possible responses were 
+given arbitrary scores as follows: 1, never; 2, rarely; 3, 
+sometimes; 4, most nights; and 5, every night. Positive 
+responses were those scored 4 or 5. Each child was examined, 
+noting weight, height, and tonsillar size, grades 
+1–4.11 
+
+The parents were instructed to make a 15-min home 
+audiotape that demonstrated the characteristics of their 
+child’s breathing patterns during sleep that concerned 
+them. They were to include a typical period when the 
+child was snoring loudly and struggling to breathe. The 
+tape recorder was to be placed as close to the child’s head 
+as possible. 
+
+Polysomnographic Monitoring 
+
+All children were evaluated with an overnight PSG in 
+the sleep laboratory to detect obstructive apnea/ 
+hypopnea. A parent slept in the same room, and a sleep 
+technician was in attendance. The PSGs were performed 
+within 3 weeks following the home audiotape recording. 
+No sedation or sleep deprivation was used on any patient. 
+Continuous monitoring of several physiologic parameters 
+were recorded on a Grass recorder (Model 78E, 
+Grass Instruments, Quincy, MA). Sleep stages were assessed 
+by the EEG leads (C3,O2A2/C4,A1), bilateral 
+electrooculographic leads, and submental electromyographic 
+leads. Chest and abdominal bands detected respiratory 
+effort. Oronasal airflow was semiquantitatively 
+measured using oronasal thermistors. The electrocardiogram 
+was recorded. Arterial oxygen saturation (SaO2) 
+was assessed using a Nellcor N-1000 pulse oximeter 
+(Nellcor, Hayward, CA). End-tidal carbon dioxide tension 
+(PETCO2) was measured continuously by nasal cannula, 
+using a Nellcor N-1000 monitor. The patient was 
+videotaped during the entire evaluation. 
+
+Polysomnographic Scoring 
+
+Sleep was staged using the manual of Rechtschaffen 
+and Kales.12 Obstructive apnea was defined as the cessation 
+of oronasal airflow despite respiratory effort for a 
+minimum duration of two respiratory cycles associated 
+with a ù4% decrease in arterial saturation or an arousal. 
+Obstructive hypopnea was defined as at least 50% reduction 
+in oronasal airflow despite respiratory effort for a 
+minimum duration of two respiratory cycles associated 
+with a ù4% decrease in SaO2 or an arousal.13,14 Arousals 
+were scored according to the guidelines of the American 
+Sleep Disorders Association atlas.15 The obstructive apnea 
+index was calculated to be the number of obstructive 
+apneas per hour. The obstructive apnea/hypopnea index 
+
+
+was calculated to be the number of obstructive apneas + 
+hypopneas per hour (AHI). 
+
+Analysis of Data 
+
+The polysomnographic records were analyzed with the 
+reader unaware of the clinical history. Polysomnograms 
+were classified as Primary Snoring (AHI <5), and OSAS 
+(AHI ù5) according to the method used by Guilleminault 
+et al.16 These scoring criteria were established prior 
+to the onset of data collection. The audiotapes were analyzed 
+independently by seven observers unaware of the 
+clinical history and the polysomnographic results (3 pulmonologists, 
+2 pediatricians, and 2 nurses). All observers 
+were trained by one of the authors using standardized 
+written and verbal instructions. The observers listened to 
+the audiotape for 15 min for the presence of struggle 
+sounds and respiratory pauses. The struggle sound was 
+demonstrated as a snort or a vocalization with minimal 
+air entry; a minimum of three struggle sounds was required. 
+The respiratory pause was defined as the absence 
+of breath sounds for a minimum of 5 s. 
+
+Statistical Analysis 
+
+Physical characteristics and questionnaire responses 
+were compared between the two groups using the Chi 
+square test or, if the sample size was too small, Fisher’s 
+exact test for2×2 tables. Polysomnographic differences 
+between the two groups were analyzed using the Wilcoxon 
+rank sum test. P < 0.05 was considered significant. 
+The sensitivity, specificity, and positive and negative 
+predictive values of the home audiotape as a predictor of 
+OSAS were determined for each evaluator, and the median 
+and range were computed. Level of agreement 
+among the observers was calculated using kappa analysis 
+on each pair of observers. A clinical score as described 
+by Brouilette et al.6 was used for the patients studied, and 
+the sensitivity, specificity, and predictive value of the 
+score were calculated. The clinical score was calculated 
+as 1.42D + 1.41A + 0.71S - 3.83, where D is difficulty 
+breathing, A is apnea, and S is snoring during sleep. 
+Scores >3.5 were highly predictive of OSAS, and <-1 
+indicated the absence of OSAS, scores between -1 and 
+
+3.5 were indeterminate. 
+RESULTS 
+
+Twenty-nine children (age range, 1.5–18 years) completed 
+the study. There were 15 patients in the Primary 
+Snoring group and 14 patients in the OSAS group. There 
+were 60% males in the Primary Snoring group and 86% 
+males in the OSAS group. Results of the questionnaires 
+as well as the physical characteristics of the patients are 
+presented in Table 1. There were no significant statistical 
+
+Audiotape as a Test for OSAS 269 
+
+TABLE 1—Physical Characteristics and Positive 
+Questionnaire Responses for Patients With Primary 
+Snoring and OSAS1 
+
+Primary snoring OSAS 
+Nocturnal symptoms (AHI <5) (AHI ù5) 
+n 15 14 
+Age (years)2 6.0 ± 4.1 5.5 ± 4.5 
+Enlarged tonsils (grades 3, 4)3 42.9% 46.2% 
+BMI ø15th percentile 21.4% 16.7% 
+BMI ù85th percentile 28.6% 58.3% 
+Observed apnea 41.7% 66.7% 
+Loud snoring 85.7% 100% 
+Struggles to breathe 78.6% 71.4% 
+Restless sleep 35.7% 46.2% 
+Diaphoresis 30.8% 25.0% 
+Snorts, respiratory pauses 69.2% 90.9% 
+Daytime mouth breather 38.5% 60.0% 
+
+1AHI, apnea hypopnea index; BMI, body mass index (kg/m2). Questions 
+were scored as 1, never; 2, rarely; 3, sometimes; 4, most nights; 
+and 5, every night. Positive responses were those scored 4 or 5. There 
+were no statistically significant differences between the two groups 
+using the chi square test, or when sample size was too small, Fisher’s 
+exact test for2×2 tables. 
+2Values are means ± standard deviation. 
+3Tonsil size was graded 0–4: 0, not visible; 4, touching in the middle.11 
+
+differences for the parameters studied between the two 
+groups for any of the questionnaire responses or physical 
+characteristics. 
+
+Table 2 shows the polysomnographic results for the 
+patients with Primary Snoring (AHI <5) and OSAS (AHI 
+
+ù5). There were statistically significant differences between 
+the two groups for mean SaO2 during respiratory 
+events and lowest SaO2. 
+Table 3 shows the median sensitivity, specificity, and 
+ranges for the audiotape analyses of the seven observers 
+using the presence of a struggle sound, respiratory 
+pauses, and both parameters combined. A struggle sound 
+was the parameter most predictive of OSAS, whereas 
+when respiratory pauses alone or both parameters combined 
+were used, the sensitivity decreased without improving 
+specificity. 
+
+The sensitivity for the audiotape analyzed for the presence 
+of a struggle sound was the highest for the observer 
+most experienced in sleep disorders: 86% as compared to 
+the median of 71%, but there was no difference based on 
+level of experience for specificity. The sensitivity and 
+specificity for the audiotape analyzed for the presence of 
+pauses or both parameters combined was not affected by 
+the level of experience of the observers. 
+
+Clinical scoring as described by Brouilette et al.6 was 
+applied to the study patients. The clinical score had a low 
+sensitivity of 46%, but a good specificity of 83%. Patients 
+with indeterminate values for the clinical score 
+were treated as not having OSAS, which reduced sensitivity 
+but increased specificity. Sensitivity increased to 
+91%, but specificity dropped to 8% when patients with 
+
+
+270 Lamm et al. 
+
+TABLE 2—Polysomnographic Results1 
+
+Primary 
+snoring OSAS 
+(AHI <5) (AHI ù5) P* 
+Total sleep time (h) 5.0 ± 1.2 5.7 ± 1.5 NS 
+Obstructive AHI 1.7 ± 1.5 19.6 ± 13.1 0.0001** 
+SaO2 percentage (awake) 98.1 ± 1.2 96.9 ± 2.0 NS 
+Mean SaO2 percentage2 95.1 ± 2.3 89.3 ± 5.3 0.002** 
+Lowest SaO2 percentage 93.5 ± 2.8 82.1 ± 8.9 0.0002** 
+PETCO2 (mm Hg) (awake) 40.2 ± 3.2 42.3 ± 5.7 NS 
+Mean PETCO2 (mm Hg) 
+(asleep) 41.5 ± 3.6 44.4 ± 5.0 NS 
+Peak PETCO2 (mm Hg) 49.1 ± 4.5 51.8 ± 6.9 NS 
+
+1Values are means ± SD. AHI, apnea hypopnea index; SaO2, arterial 
+oxygen saturation; PETCO2, end-tidal carbon dioxide tension; NS, not 
+significant. 
+2Mean SaO2 percentage during respiratory events. 
+*P value by Wilcoxon rank sum test. 
+**P < 0.05 was considered significant. 
+
+
+TABLE 3—Sensitivity and Specificity of a Home Audiotape 
+as a Predictor for OSAS 
+
+Sensitivity1 Specificity1 
+Audiotape (struggle sound) 71% (43–86%) 80% (67–80%) 
+Audiotape (respiratory pauses) 43% (29–57%) 80% (73–87%) 
+Audiotape (struggle sound + 
+pauses) 43% (29–50%) 80% (73–87%) 
+
+1Median and range for the seven observers. 
+
+indeterminate values were treated as having OSAS. It is 
+important to note that only 23 patients or parents fully 
+completed the questionnaire and therefore had clinical 
+scores calculated. Fourteen (61%) of the patients had 
+indeterminate values. 
+
+Table 4 shows positive and negative predictive values 
+for the audiotape as a test for OSAS. In this population of 
+patients referred for possible OSAS, the prevalence rate 
+of OSAS was 48%. If a patient had an audiotape demonstrating 
+struggle sounds, the likelihood of OSAS increased 
+to 75%, as indicated by the median positive predictive 
+value. 
+
+The mean and range of kappa statistics for all pairs of 
+observers using audiotape analysis for the presence of a 
+struggle sound was 0.70 (0.50–0.93), indicating a good 
+level of agreement among the seven observers. 
+
+DISCUSSION 
+
+This study shows that a home audiotape has limitations 
+as an abbreviated test for OSAS in children with 
+loud snoring during sleep. The presence of a struggle 
+sound on an audiotape in this population referred for 
+possible OSAS increased the likelihood of OSAS in this 
+group from 48% to 75%. Patients with OSAS, as compared 
+with those with primary snoring, tended to have a 
+struggle sound or respiratory pauses more often on their 
+
+TABLE 4—Predictive Values for a Home Audiotape as a 
+Test for OSAS 
+
+Audiotape1 
+Positive predictive 
+value 
+Negative predictive 
+value 
+Struggle 
+Pause 
+Struggle/pause 
+75% (60–80%) 
+67% (57–75%) 
+67% (57–75%) 
+73% (58–86%) 
+62% (56–80%) 
+60% (57–87%) 
+
+1Median (range) for the seven observers. 
+
+audiotapes, but these findings were not sufficiently specific 
+to distinguish patients with primary snoring from 
+those with OSAS. This method for evaluating the audiotapes 
+was transferable to other health care providers, who 
+demonstrated a good level of agreement. 
+
+All subjects in this study were referred for loud snoring. 
+Snoring occurs commonly in children and fluctuates 
+in frequency and intensity with upper respiratory infections.
+2–4 Owen et al.3 described two peaks in snoring 
+prevalence, the first at age 4 years and a second at age 
+8–9 years. He postulated the 4-year-old peak was secondary 
+to adenotonsillar hypertrophy and that the 8–9year-
+old peak a result of atopy or allergic rhinitis. Ali et 
+al.2,4 found a 12.1% snoring prevalence in a cohort of 
+4–5-year-olds. This group was studied 2 years later, and 
+more than half of the children who snored originally had 
+ceased doing so.2,4 
+
+OSAS or lesser degrees of sleep-disordered breathing 
+were detected in 1–2% of children, all of whom had 
+presented with loud snoring.2,6 Because snoring is so 
+common and generally of little clinical significance, children 
+with OSAS are commonly underrecognized, resulting 
+in significant delay in diagnosis and needless morbidity.
+1,17 
+
+Using questionnaire responses and physical findings, 
+we were unable to distinguish primary snoring from 
+OSAS. We also used the clinical scoring of Brouilette et 
+al.6 and found that it had a low sensitivity. Brouilette et 
+al.6 found this clinical score useful in predicting OSAS 
+only when they used a control group consisting of patients 
+taken from a general pediatric population. However, 
+in a subset of patients referred for possible OSAS 
+similar to those in this study, they found that the clinical 
+score misclassified 12.5% of patients subsequently diagnosed 
+by PSG with OSAS as normal, and 57.1% of patients 
+with normal PSGs were misclassified as OSAS 
+cases. Our findings are also in agreement with those of 
+Carroll et al.,7 who used a questionnaire for patients referred 
+to a sleep disorders clinic and showed that history 
+could not separate patients with primary snoring from 
+those with OSAS. 
+
+Because the history can be inconclusive, the gold standard 
+for the diagnosis of OSAS remains the overnight 
+PSG. Resources for sleep evaluations are limited, and an 
+inexpensive abbreviated test would be useful. Observation 
+of the sleeping child by medical personnel for ap
+
+
+
+neas, chest wall retractions, paradoxical chest and abdominal 
+movements, and oxygen desaturation has been 
+used to diagnose OSAS.17 This method is useful for the 
+more severe cases that readily exhibit oxygen desaturation. 
+Often patients exhibit sleep-disordered breathing 
+only after several hours of sleep. In a study comparing 
+nap to overnight PSGs, Marcus et al.18 showed that nap 
+PSGs had a positive predictive value for OSAS of 100% 
+and a negative predictive value of 17%. They concluded 
+that nap PSGs are helpful when respiratory parameters 
+are abnormal, but when the findings are negative, an 
+overnight PSG is necessary. In that study, sedation with 
+chloral hydrate, which can depress upper airway muscle 
+tone, was required for naps in 77.5% of patients. 
+
+Home pulse oximetry has been used to evaluate patients 
+suspected of having OSAS.19 Frequently, there is 
+much artifact with this technique secondary to motion or 
+loose leads, causing difficulties in data interpretation. By 
+contrast, in the sleep laboratory a trained technician observes 
+the patient throughout the study, noting movement 
+and reapplying leads as needed. A simultaneous pulse 
+wave tracing assesses the accuracy of the oxygen saturation 
+measurement in the sleep laboratory. Oximetry 
+alone will not detect some patients with significant airway 
+obstruction because sometimes the obstruction is not 
+associated with hypoxia but rather with sleep fragmentation. 
+
+
+Potsic9 studied sleep sonography as a diagnostic 
+method for OSAS, using a computer-assisted program. 
+Sonography equipment is not readily available to most 
+general physicians, and the technique was only compared 
+to a 2-h PSG limited to the respiratory channels. Video 
+recordings of sleeping children have been compared to 
+PSGs without sleep staging and were found to be predictive 
+for OSAS with a sensitivity of 94% and specificity 
+of 68%.10 A high or low videotape score correlated 
+with PSG findings, but an intermediate score was inconclusive. 
+One study was able to detect similar numbers of 
+apneas, hypopneas, and levels of oxygen desaturation on 
+an unattended home test using five respiratory channels 
+and video-recording, as compared to overnight PSGs performed 
+in the sleep laboratory, indicating that such a 
+simplified unattended home test may be useful in selected 
+patients.20 
+
+Abbreviated tests that employ or are compared to 
+PSGs without sleep staging are limited in that the study 
+period may lack an assessment of REM (rapid eye movement) 
+sleep, a phase when sleep-disordered breathing is 
+prevalent. Daytime naps often have inadequate or no 
+REM periods. These abbreviated PSGs prevent detection 
+of respiratory events associated with only EEG arousals 
+rather than hypoxemia. Respiratory obstruction associated 
+with hypoventilation will also be missed without an 
+assessment of either PETC02 or esophageal pressure. 
+Overnight PSGs with sleep staging have an added benefit 
+
+Audiotape as a Test for OSAS 271 
+
+in that they allow assessment of severity of OSAS, which 
+is predictive of respiratory compromise following surgery.
+21 
+
+We chose to evaluate patients using an audiotape, 
+which is inexpensive and widely available, and compared 
+it to an overnight PSG with sleep staging. The taping was 
+limited to 15 min for the convenience of the parent and 
+physician. Some patients did not have struggle sounds or 
+respiratory pauses on their audiotapes, despite having 
+polysomnographic evidence of OSAS. These subjects 
+may have had only partial airway obstruction and hypoventilation 
+that would be accompanied by loud continuous 
+snoring without respiratory pauses, a common 
+finding in children with OSAS.16 Other abbreviated tests 
+such as sonography and videotaping have this limitation. 
+It is possible that the parents may have missed the time 
+period when there were significant respiratory abnormalities 
+because the tape was made only for a short portion 
+of the total sleep time. Most apnea/hypopnea occurs 
+during REM sleep, a stage of sleep most prevalent in the 
+early morning, when the parents are likely to be asleep. 
+Sleep staging was included in the overnight PSGs so that 
+sufficient REM sleep could be assured. 
+
+Goldstein et al.22 clinically evaluated 30 children by 
+history, physical examination, and audiotape, classifying 
+them as definite, possible, or unlikely to have OSAS. 
+They validated the clinical diagnosis with overnight 
+PSGs, using adult criteria for numbers of apneas and 
+hypopneas, and found a 92.3% sensitivity and 29.4% 
+specificity for the clinical evaluation. In our study, the 
+PSGs were scored using the criteria recommended for 
+pediatric patients.16 Additionally, Goldstein et al.22 analyzed 
+the tapes only for the presence of respiratory 
+pauses, whereas we chose struggle sounds, respiratory 
+pauses, and the combination of the two because children 
+often have periods of partial airway obstruction without 
+discrete apneas. As seen in Table 3, the presence of a 
+struggle sound was a more sensitive parameter for predicting 
+OSAS than respiratory pauses. 
+
+Some patients had struggle sounds and pauses on their 
+audiotapes but normal PSGs. An important limitation to 
+our study is that taping and the PSG were performed on 
+different nights. There may have been different levels of 
+airway obstruction depending on body position, concomitant 
+upper respiratory infection, or allergic rhinitis 
+between the nights the audiotape and the PSG were recorded. 
+Even though taping was not done the same night 
+as the PSG, it is unlikely that the sensitivity and specificity 
+could have been significantly different from the 
+night of the study because these patients all had chronic 
+symptoms ranging from 6 months to several years. In 
+addition, by history there was no evidence of acute respiratory 
+infections on the night the tape or PSG was 
+performed. The sensitivity and specificity might have 
+improved if tape recordings had been made for longer 
+
+
+272 Lamm et al. 
+
+time periods to capture different sleep stages, or on several 
+different nights and in different body positions. 
+
+It is also possible that defining airway obstruction by 
+changes detected on the nasal thermistor and oximeter 
+recordings may have been too insensitive for detecting 
+patients with significant obstruction, and that these patients 
+could be more accurately identified using esophageal 
+pressure measurements.23 Patients with upper airway 
+resistance syndrome have increased respiratory effort, 
+without clearly defined apneas, hypopneas, or 
+oxygen desaturation. The increased respiratory effort is 
+only detected by large negative esophageal pressure 
+swings and can sometimes be associated with sleep fragmentation. 
+
+
+In this study, we investigated whether a method of 
+analyzing tapes was transferable to other health care providers, 
+including 3 pulmonologists, 2 nurses, and 2 general 
+pediatricians. We found a good level of agreement 
+among the observers. The observer most experienced in 
+sleep disorders had the best sensitivity when analyzing 
+the tapes for the presence of a struggle sound, suggesting 
+that additional training of the evaluators might increase 
+accuracy. 
+
+We conclude that in children with loud snoring during 
+sleep, findings on a home audiotape, as analyzed by a 
+standardized scoring system, were suggestive of OSAS. 
+However, the findings were not specific enough to reliably 
+distinguish patients with primary snoring from those 
+with OSAS. Other objective measurements such as a 
+PSG are still necessary to document the presence and 
+severity of OSAS in these patients. 
+
+ACKNOWLEDGMENTS 
+
+The authors thank Adrienne Goldberg, M.D., Linda 
+Peters, R.N., M.S., C.P.N.P., Eduardo Sembrano, M.D., 
+Andrew Ting, M.D., Gloria Xanthos, R.N., and Michael 
+Yaeker, M.D., for their assistance in evaluating the audiotapes. 
+
+
+REFERENCES 
+
+1. Warwick B, Robertson C, Phelan P. Snoring in children: is it 
+pathological? Med J Aust 1985;143:335–336. 
+2. Ali NJ, Pitson DJ, Stradling JR. Snoring, sleep disturbance and 
+behavior in 4–5 year olds. Arch Dis Child 1993;68:360–366. 
+3. Owen GO, Canter RJ, Robinson A. Snoring apnea and ENT symptoms 
+in the paediatric community. Clin Otolaryngol 1996;21:130– 
+134. 
+4. Ali NJ, Pitson D, Stradling JR. Natural history of snoring and 
+related behaviour problems between the ages of 4 and 7 years. 
+Arch Dis Child 1994;71:74–76. 
+5. Marcus CL, Carroll JL. Obstructive sleep apnea syndrome. In: 
+Loughlin GM, Eigen H, editors. Respiratory disease in children: 
+diagnosis and management. Baltimore: Williams & Wilkins; 
+1994. p 475–500. 
+
+6. Brouilette R, Hanson D, David R, Klemka L, Szatkowski A, Fernbach 
+S, Hunt C. A diagnostic approach to suspected obstructive 
+sleep apnea in children. J Pediatr 1984;105:10–14. 
+7. Carroll JL, McColley SA, Marcus CL, Curtis S, Loughlin GM. 
+Inability of clinical history to distinguish primary snoring from 
+obstructive sleep apnea syndrome in children. Chest 1995;108: 
+610–618. 
+8. Suen JS, Arnold JE, Brooks LJ. Adenotonsillectomy for treatment 
+of obstructive sleep apnea in children. Arch Otolaryngol Head 
+Neck Surg 1995;121:525–530. 
+9. Potsic WP. Comparison of polysomnography and sonography for 
+assessing regularity of respiration during sleep in adenotonsillar 
+hypertrophy. Laryngoscope 1987;97:1430–1437. 
+10. Sivan Y, Kornecki A, Schonfeld T. Screening obstructive sleep 
+apnea syndrome by home videotape recording in children. Eur 
+Respir J 1996;9:2127–2131. 
+11. Cable HR, Batch AG, Stevens DJ. The relevance of physical signs 
+in recurrent tonsillitis in children. J Laryngol Otol 1986;100: 
+1047–1051. 
+12. Rechtschaffen A, Kales A. A manual of standardized terminology, 
+techniques and scoring systems for sleep stages of human subjects. 
+Los Angeles: Brain Information Service/Brain Research Institute, 
+UCLA; 1968. 
+13. Carroll JL, Loughlin GM. Diagnostic criteria for obstructive sleep 
+apnea in children. Pediatr Pulmonol 1992;14:71–74. 
+14. Marcus CL, Omlin KJ, Basinski DJ, Bailey SL, Rachal AB, Von 
+Pechman WS, Keens TG, Ward SL. Normal polysomnographic 
+values for children and adolescents. Am Rev Respir Dis 1992; 
+146:1235–1239. 
+15. Atlas Task Force of the American Sleep Disorders Association. 
+EEG arousals: scoring rules and examples. Sleep 1992;15:174– 
+183. 
+16. Guilleminault C, Pelayo R, Leger D, Clark A, Bocian RCZ. Recognition 
+of sleep-disordered breathing in children. Pediatrics 
+1996;98:871–882. 
+17. Brouilette RT, Fernbach SK, Hunt CE. Obstructive sleep apnea in 
+infants and children. J Pediatr 1982;100:31–40. 
+18. Marcus CL, Keens TG, Ward SLD. Comparison of nap and overnight 
+polysomnography in children. Pediatr Pulmonol 1992;13: 
+16–21. 
+19. Stradling JR, Thomas G, Warley ARH, Williams P, Freeland A. 
+Effect of adenotonsillectomy on nocturnal hypoxemia, sleep, and 
+symptoms in snoring children. Lancet 1990;335:249–253. 
+20. Jacob SV, Morrelli A, Mograss MA, Ducharme FM, Schloss MD, 
+Brouilette RT. Home testing for pediatric obstructive sleep apnea 
+syndrome secondary to adenotonsillar hypertrophy. Pediatr Pulmonol 
+1995;20:241–252. 
+21. McColley SA, April MM, Carroll JL, Naclerio RM, Loughlin 
+GM. Respiratory compromise after adenotonsillectomy in children 
+with obstructive sleep apnea. Arch Otolaryngol Head Neck 
+Surg 1992;118:940–943. 
+22. Goldstein NA, Sculerati N, Walsleben JA, Bhatia N, Friedman 
+DM, Rapoport DM. Clinical diagnosis of pediatric obstructive 
+sleep apnea validated by polysomnography. Otolaryngol Head 
+Neck Surg 1994;111:611–617. 
+23. Guilleminault C, Winkle R, Korokin R, Simmons B. Children and 
+nocturnal snoring: Evaluation of the effects of sleep related respiratory 
+resistive load and daytime functioning. Eur J Pediatr 1982; 
+139:165–171. 
+

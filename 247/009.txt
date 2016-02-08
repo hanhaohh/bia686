@@ -1,0 +1,612 @@
+International Journal of Pediatric Otorhinolaryngology (2007) 71, 729—734 
+
+www.elsevier.com/locate/ijporl 
+
+
+Adenotonsillectomy 
+in 
+obstructive 
+sleep 
+apnea 
+syndrome 
+Proposal 
+of 
+a 
+surgical 
+decision-taking 
+algorithm 
+
+
+Franco 
+Ameli 
+*, 
+Fabio 
+Brocchetti 
+1, 
+Lucia 
+Semino 
+2, 
+Antonio 
+Fibbi 
+3 
+
+
+ENT 
+Department, 
+San 
+Paolo 
+Hospital, 
+Savona, 
+Italy 
+
+
+Received 18 October 2006; received in revised form 7 January 2007; accepted 7 January 2007 
+
+KEYWORDSAdenotonsillectomy; 
+Sleep disorders; 
+OSAS; 
+Primary snoring; 
+Children; 
+Algorithm 
+Summary 
+
+
+Objective: 
+The incidence of snoring in the pediatric population is 10% and the 
+incidence of OSAS is equal to 2—3%. Sometimes, primary snoring and OSAS overlap 
+and only polysomnography can differentiate the two disorders but its use is complex, 
+expensive and highly controversial. The purpose of this paper is to demonstrate the 
+value of the clinical assessment associated with the patient’s history in selecting 
+children with OSAS and to validate the therapeutic algorithm, thereby employing 
+polysomnography only for selected cases. 
+Methods: 
+A population of 118 patients was considered, selected by means of a 
+questionnaire that indicated OSAS and a clinical evaluation that confirmed the 
+diagnosis. The studied group underwent clinical assessment complete with fibreoptic 
+survey as well as nocturnal pulse oxymetry, orthodontic and phoniatric evaluation. 
+Regardless of the adenotonsillar size, all the selected children underwent adenotonsillectomy 
+and were evaluated after 3 months with the help of a questionnaire, 
+ORL examination and nocturnal pulse oxymetry. 
+Results: 
+In all the patients we witnessed the disappearance of apnea. A 80.5% of 
+children benefited from the surgical procedure.A 12.7% continued to present minor 
+symptoms.A6.8% continuedto snoreina discontinuous manner,but without apnea: 
+these children were re-assessed after a further 6 months with nocturnal pulse 
+oxymetry and no oxymetric alteration was demonstrated. There were no significant 
+differences between the degree of upper airway obstruction and the surgical outcome. 
+
+
+* Corresponding author. Present address: Via Liri 10/7, 16145 Genova, Italy. Tel.: +39 0103621202; fax: +39 0198404322. 
+E-mail 
+addresses: 
+franco.ameli@fastwebnet.it (F. Ameli), fabio.brocchetti@fastwebnet.it (F. Brocchetti), luciasemino@yahoo.it 
+(L. Semino), otorino.sv@asl2.liguria.it (A. Fibbi). 
+1 Corso Italia 6/8, 17100 Savona, Italy. Tel.: +393355331583; fax: +39 0198404322. 
+2 Via A. Centurione 15/17, 16100 Genova, Italy. Tel.: +393479484550; fax: +39 0198404322. 
+3 Via Pirandello, 16145 Genova, Italy. Tel.: +393474246456; fax +39 0198404322. 
+0165-5876/$ — see front matter # 
+2007 Elsevier Ireland Ltd. All rights reserved. 
+doi:10.1016/j.ijporl.2007.01.007 
+
+
+F. Ameli et al. 
+Conclusion: 
+The history and clinical exam are sensitive tools, even though relatively 
+aspecific. Our results confirm the validity of the history and clinical exam as a 
+screening method as well as the role of the surgical procedure that can re-establish 
+the patency of the upper airways and to contrast the neuromuscular hypotonia as a 
+resultof the effectof the surgical scar.Ifitis true that primary snoring and OSAS area 
+continuum, our approach regarding surgery may be defined as a form of prevention 
+regarding a pathology with potential complications. Polysomnography cannot be 
+carried out routinely due to the lack of specialised centres and because of its 
+excessive cost. It is an option to be used only in unsuccessful adenotonsillectomies 
+and for those children who have complicated presentations from the outset. 
+# 
+2007 Elsevier Ireland Ltd. All rights reserved. 
+
+1. 
+Introduction 
+In children, the obstructive sleep apnea syndrome 
+(OSAS) is an alteration of the breathing pattern 
+during sleep, characterised by the partial or complete 
+obstruction of the upper airways, that interrupts 
+normal nocturnal ventilation and the normal 
+architectureof sleep [1].Primarysnoring (PS), however, 
+is featured by snoring without obstructive 
+apnea, frequent awakenings during sleep and abnormal 
+pulmonary gaseous exchange [2]. 
+
+The symptoms correlated with OSAS present various 
+degrees of severity, bothduring the day and at 
+night. Diurnal symptoms include the alteration of 
+normal behaviour such as more pronounced irritability, 
+attention deficit and poorer performance at 
+school; excessive daytime sleepiness or morning 
+headache are also possible, even though not as 
+common. Conversely, chronic diurnal nasalobstruction, 
+rhinorrhea or hyponasal speech are commonly 
+present. 
+
+The nocturnal symptoms are snoring, agitated 
+and discontinuous sleep, apnea, decubitus with 
+hyperextended head, nightmares, diaphoresis, 
+enuresis. In the most severe cases, cardiac and 
+pulmonary complications may be present as well 
+as neurological disorders and poor growth. Approximately 
+10% of children under 6 years of age are 
+common snorers but do not present OSAS, nor are 
+they predisposed to it [3]. The incidence of OSASin 
+the pediatric population is 2—3% [4,5]. 
+
+The natural history of OSAS has not yet been 
+clearly defined even though it is now an accepted 
+tenet of clinical practice that simple snoring is one 
+of the risk factors that indicates the possibility of 
+developing the disease. 
+
+The criteria for diagnosis and treatment differ 
+from those of the adult population and, even though 
+there have been attempts to standardise them, 
+these are not universally accepted [6]. 
+
+The most frequent cause of OSAS in children is 
+adenotonsillar hypertrophy [7—9]. Other causes are 
+nasal obstruction (caused by allergic rhinitis, sinusitis,
+cysticfibrosis, laryngeal masses,laryngomalacia, 
+
+tracheomalacia), cleft palate, malformations associated 
+to cranialand facial alterations, neurological 
+or neuromuscular disorders. 
+
+Numerous studies have already reported an 
+improvement in snoring and in OSAS following adenotonsillectomy. 
+The first therapeutic step in cases 
+of unresponsive OSAS in children usually is adenotonsillectomy, 
+even in the presence of rather small 
+adenotonsillar sizes, especially in uncomplicated 
+children, i.e. children older than 2 years of age, 
+without pulmonary, neuromuscular, genetic or 
+metabolic diseases or Down’s syndrome [10,11]. 
+
+The presenting symptoms of PS and OSAS often 
+overlap, and onlypolysomnography (PSG)can determine 
+the presence and severity of nocturnal respiratory 
+disorders and hence differentiate the two 
+diseases. However, there is a long-standing controversy 
+over the need to carry out such a complex and 
+expensive test in all the children that presentsymptoms 
+that suggest either PS or OSAS [12]. 
+
+Our approach to OSASin the pediatric population 
+is primarilybased on clinical assessment. Depending 
+on the results of the questionnaire, designed to 
+separate minor from major symptoms, and also 
+depending on the results of the clinical exam, we 
+currently select children with suspect OSASwithout 
+other causes of nasal obstruction, malformations, 
+metabolic or neuromuscular diseases who may benefit 
+from an adenotonsillectomy. Polysomnography 
+is carried out onlyin caseof therapeutic failure orin 
+selected children. 
+
+The purpose of the paper is to demonstrate the 
+validity of the clinical and medical history assessment 
+to select children with OSAS and to validate 
+the algorithm for the management of surgical 
+options for OSAS, keeping polysomnography for 
+selected cases only. 
+
+2. 
+Methods 
+In the period between January 2000 and December 
+2003, we assessed 420 consecutive children, who 
+presented to our tertiary hospital with nocturnal 
+
+
+Adenotonsillectomy in obstructive sleep apnea syndrome 
+
+and diurnal respiratory disorders. Patient inclusion 
+involved the drawing-up of their history with the 
+helpoftheirparentsand completingaquestionnaire 
+designed to highlight the presence of: 
+
+. 
+Major 
+symptoms: (1) Habitual snoring (constant 
+nocturnal snoring in the absence of acute phlogosis 
+of the airways) since at least 6 months 
+unresponsive to therapy; (2) frequent apnea 
+(interrupted breathing for more than 10 s, followed 
+by a noisy breath) either observed or 
+recorded with a camera; (3) fragmented sleep 
+(frequent changes of position or awakening). 
+. 
+Minor 
+symptoms: Hyperextension of the head 
+during sleep, irritability, failure to thrive, attention 
+deficit, hyperactivity disorder; this was completed 
+with a detailed ENT examination. 
+The examination was completed with a detailed 
+ENT examination. 
+
+We defined suspected OSAS in children with three 
+major symptoms and at least one minor symptom, 
+presence of tonsils, with or without adenoids. Children 
+defined as having suspected OSAS were 
+included in a prospective study, approved by the 
+ethical committee. 
+
+The studied population included 118 patients 
+ranging between 2 and 8 years of age (mean age 
+
+5.11 . 
+1.22 years), with a male:female ratio of 4:1, 
+with history and clinicalevaluation both suggesting 
+OSAS. 
+We excluded 320 children from the study: 
+
+. 
+One hundred and twenty-seven children with 
+simple snoring who underwent specific treatment 
+or follow up. 
+. 
+Thirty-two children defined as complicated, i.e. 
+affected with cranio-facial disorders, neuromuscular 
+disorders, chronic lung disease, genetic-
+metabolic diseases, laryngomalacia, or Down 
+syndrome who were sent for specific treatment. 
+. 
+Thirty-seven children under 2 years of age. 
+. 
+One hundred and thirty-four children who after 
+adequate antimicrobial therapyfor chronic infectious 
+disease or antiallergictherapyforimmunophlogosis 
+presented marked symptomatic relief. 
+The group studied underwent complete clinical 
+evaluation, paying special attention to the upper 
+airways so as to exclude malformations or pharyngeal—
+laryngeal reflux pathologies, if necessary 
+using a pediatric flexible endoscope and Muller’s 
+manoeuvre. The nasal and rhinopharyngeal region 
+was assessed with a rigid endoscope with a 2.7 mm 
+08 
+optics. Adenoidal hypertrophy was gradedfrom1 
+to 3 following Wang’s classification [13]. 
+
+Palatinetonsilswere clinically graded from1to4 
+depending on the occupied oropharyngeal space as 
+follows: grade 1, from 0 to 25% of the oropharynx, 
+grade 2, from 25 to 50%, grade 3, from 50 to 75% and 
+grade4above 75%.The patientswere assessed with 
+nocturnal pulse oxymetry. 
+
+The clinical exam was completed with an phoniatric 
+and orthodontic examination to evaluate the 
+morphology of dental arch and the occlusion. 
+
+
+Fig. 
+1 
+Surgical decision-taking algorithm for suspected apnea. 
+
+
+F. Ameli et al. 
+Regardless of the size of the pharyngeal tonsils, 
+all the selected children underwent adenotonsillectomy 
+and were re-assessed after 3 months by 
+means of a questionnaire, ORL examination and 
+nocturnalpulse oxymetry. PSGwas kept for selected 
+cases(Fig. 1). 
+
+Data were evaluated using the x 
+2-test. All tests 
+with p-value less than .05 were considered statistically 
+significant. 
+
+3. 
+Results 
+We found a significant obstruction of the upper 
+airways in 72% of the patients (adenoids grade 3, 
+tonsils grade 3 or 4, or both conditions) (85/118); 
+the remaining patients (33/118), that is 28%, presenteda 
+non significant obstruction (adenoidsgrade 
+1—2, tonsils grade 1—2). Ten percent of patients 
+presented a mild deviation of the nasal septum (12/ 
+118). The presence of malocclusion was highlighted 
+in 65% of patients (77/118), such as open bite, cross-
+bite, posterior occlusion or multiple simultaneous 
+alterations. Nocturnal pulse oxymetry highlighted 
+significant cyclic desaturation episodes in 83% of 
+cases (98/118). 
+
+Three months after adenotonsillectomy, the history 
+of the patient was re-examined and the questionnaire 
+readministered. The ENT examination and 
+a nocturnal pulse oxymetry were carried out at 
+home. All patients were apnea-free. A 80.5% of 
+children (95/118) were symptom-free. A 12.5% 
+(15/118) continued to present minor symptoms. 
+Seven percent (8/118) of children continued to 
+snore in a discontinuous fashion without apnea: 
+these were further assessed after 6 months with 
+nocturnal pulse oxymetry and no oxymetric alteration 
+was demonstrated. Most of these patients 
+underwent orthodontic treatment with rapidpalate 
+dilator, which entailed the disappearance of minor 
+symptoms. In one case alone we conducted a polysomnography 
+which revealed sporadic snoring episodes 
+(20% of total sleep) without apnea or oxygen 
+desaturation. 
+
+Regarding adenotonsillar size, the group with 
+significant obstruction showed complete response 
+in 80% of cases (68/85) while in 20% of cases (17/85) 
+minor symptoms were still present. The group with 
+
+non significant obstruction showed complete 
+response in 82% of cases (27/33) while in 18% of 
+cases (6/33) minor symptoms were still present 
+(Table1). The comparison between the two groups 
+with the x 
+2-test(a 
+= 95%) did not show statistically 
+significant differences (p 
+= 0.05) between adenotonsillar 
+size and surgical result. 
+
+4. 
+Discussion 
+This last decade has been marked by increasing 
+attention being paid to OSAS in the pediatric age 
+group. 
+
+The failure to diagnose or treat OSAS may lead to 
+serious, even though reversible, consequences for 
+the child such as failure to thrive, behaviour alterations, 
+neurocognitive disorders and, more rarely, 
+cardiopulmonary defects such as cor 
+pulmonale. 
+
+Current effortsbypediatricians and specialists in 
+this disease focus on increasing the ability to diagnose 
+OSAS and to decrease diagnostic delay. 
+
+The recently drawn-up guidelines [6] that envisage 
+the use of PSG as the reference method to 
+differentiate PS from OSAS, are inapplicable in 
+clinical practice due to the cost of this test and 
+lack of laboratories that study sleep in the pediatric 
+age group. 
+
+Hence, the history and the clinical exam remain 
+fundamentallyimportant in the diagnosis of respiratory 
+disorders in sleep and, above all, in identifying 
+those children who need to be evaluated with a 
+polysomnography and who need to undergo all the 
+other tests to diagnose the disease undergoing surgery 
+or prosthesis deployment [14—20]. Conversely, 
+some authors consider that the sole clinical evaluation 
+is not enough to identify OSASchildren and that 
+PSG should be carried out in all suspected cases 
+[16,20]. 
+
+Ourpaper demonstrates that the selection of 
+children with suspect OSAS, based on the history 
+and clinical evaluation, plays a very important and 
+useful role: a significant proportion of the children 
+we selected with this method (80.5%) are now 
+completely symptom-free and the remaining 
+(19.5%) children no longer present the problem 
+of apnea, even though they still do present a 
+few minor symptoms. We employed nocturnal 
+
+Table 
+1 
+Surgical results in significant and not significant obstruction of upper airway groups 
+
+Symptom free after AT Minor symptoms after AT 
+Significant obstruction 
+Not significant obstruction 
+68 (80%) 
+27 (82%) 
+95 (80.5%) 
+17 (20%) 
+6 (18%) 
+23 (19.5%) 
+85 
+33 
+118 
+
+
+Adenotonsillectomy in obstructive sleep apnea syndrome 
+
+pulsoximetry notasa diagnosticpredictorof OSAS 
+but as an additional examination in our clinical 
+assessment. 
+
+Taking the decision to proceed with surgery by 
+simplyrelying on the history and the clinicalexam is 
+a sensitive method but not too specific. OSAS symptoms 
+sometimes overlap those ofprimary snoring: in 
+this way the indication for surgery may represent an 
+excessive form of treatment. However, if it is true 
+that primary snoring, mild OSASand severe OSAS are 
+different steps of the same continuum, our 
+approach to surgery may be viewed as a form of 
+prevention regarding a disease that presents important 
+potential complications. 
+
+In accordance with the literature, one should 
+always attempt medical treatment or watchful 
+waiting before proceeding with surgery, bearing in 
+mind that primary snoring may be considered a 
+common feature of childhood andthat it may spontaneously 
+regress [3]. 
+
+It shouldbe pointed out that the decision-taking 
+algorithm that we propose(Fig.1)does not consider 
+adenotonsillar hypertrophy as the only factor that 
+warrants a surgical procedure. 
+
+In fact, the pathogenesis of OSAS is multifactorial 
+while adenotonsillar hypertrophy is, in the majority 
+of cases, the primary factor, especially in children 
+under 6 years of age, when the lymphatic tissue 
+reaches a size that is disproportionate to that of the 
+upper airways. However, there is no relationship 
+between tonsil size and OSAS severity since its 
+pathogenesis is a combination between adenotonsillar 
+hypertrophy, cranio-facial anatomy (so-called 
+thin face) [21,22] and alteration of the muscular 
+tone of the respiratory pathway during sleep [23]. 
+
+In the literature, there is unanimous consensus 
+for surgery in case of adenotonsillar hypertrophy: 
+the resolution of symptoms, in these cases, reaches 
+success percentages of 100% in several series 
+[16,17,24,25]. Instead, it ought to be underlined 
+that adenoidectomy aloneis not enoughto cure this 
+disease with the exception of special cases such as 
+newborn infants [17,24]. 
+
+As our results have demonstrated, it should be 
+noted that in the presence of symptoms that indicate 
+OSAS, an adenotonsillectomy is indicated even 
+when adenotonsillar size is not too significant, and 
+this underscores the multifactorial nature of its 
+pathogenesis [21,26,27]. The analysis of the results 
+achieved with our series confirms what the literature 
+reports. The explanation lies, we believe, in 
+the fact that the adenotonsillectomy is capable,due 
+to the scarring process that involves the pillars, of 
+stiffening the sides of the pharynx and the upper 
+part of the palate which is what presumably takes 
+place with a palatopharyngoplasty. 
+
+In case of failure, the adenotonsillectomy should 
+alwaysbe followedby a PSG before proceeding with 
+orthodontic treatment or with further therapies 
+(CPAP, uvulopalatopharyngoplasty,cranio-facial surgery, 
+hypopharyngeal surgery, tracheostomy). 
+
+Furthermore, PSG must always be performed in 
+all the cases that present contraindications for 
+surgery and in complicated children, and it should 
+be repeated at 6 months after treatment. 
+
+References 
+
+
+[1] C.L. Rosen, 
+Obstructive sleep apnea syndrome (OSAS) in 
+children: diagnostic challenges, Sleep 19 (1996) s274—s277. 
+[2] American Sleep Disorders Association, International Classification 
+of Sleep Disorders, Revised: Diagnostic and Coding 
+Manual, American Sleep Disorders Association, Rochester, 
+MN, 1997, pp. 195—197. 
+[3] N.J. Ali,D.Pitson, J.R. Strandling, Natural historyof snoring 
+and related behaviour problems between the age of4and7 
+years, Arch. Dis. Child. 71 (1994) 74—76. 
+[4] T. Gislason, B. Benediktsdottir, Snoring, apneic episodes, 
+and nocturnal hypoxemia among children 6 months to 6 
+years old. An epidemiologic study of lower limit of prevalence, 
+Chest 107 (1995) 963—966. 
+[5] S.Redline,P.V.Tishler,M. Schluchter,J.Aylor,K. Clark,G. 
+Graham, Risk factors for sleep-disordered breathing in children. 
+Associations with obesity, race, and respiratory problems, 
+Am. J.Resp. Crit. Care Med. 159 (1999) 1527—1532. 
+[6] Section 
+on Pediatric Pulmonology, Subcommittee on 
+obstructive sleep apnea syndrome. American academy of 
+pediatrics. Clinical practice guideline: diagnosis and management 
+of childhood obstructive sleep apnea syndrome, 
+Pediatrics 109 (2002) 704—712. 
+[7] R.T. Brouillette, S.K. Fernbach, C.E. Hunt, Obstructive sleep 
+apnea in infants and children, J.Pediatr. 100 (1982) 31—40. 
+[8] C.B. 
+Croft, H.G. Thomson, M.P. Samuels, D.P. Southall, 
+Endoscopic evaluation and treatment of sleep-associated 
+upper airway obstruction in infants and young children, Clin. 
+Otolaryngol. Allied Sci. 15 (1990) 209—216. 
+[9] L.M.Elden,R.F.Wetmore,W.P.Potsic,Snoringandobstructive 
+sleep apneainchildren,in:D.N.F.Fairbanks,S.A.Mickelson, 
+T.B.Woodson(Eds.),SnoringandObstructiveSleepApnea,3th 
+ed.,LippincottWilliams&Wilkins,Philadelphia, 2003. 
+[10] S.K. Fernbach, R.T. Brouillette,T.W. Riggs, C.E. Hunt, Radiologic 
+evaluation of adenoids and tonsils in children with 
+obstructive sleep apnea: plain films and fluoroscopy,Pediatr. 
+Radiol. 13 (1983) 258—265. 
+[11] E. Laurikainen, M. Erkinjuntti, J. Alihanka, H. Rikalainen, J. 
+Suonpaa, Radiological parameters of the bony nasopharynx 
+and the adenotonsillar size compared with sleep apnea 
+episodes in children, Int. J. Pediatr. Otorhinolaryngol. 12 
+(1987) 303—310. 
+[12] A.H. 
+Messner, Evaluation of obstructive sleep apnea by 
+polysomnography prior to pediatric adenotonsillectomy, 
+Arch. Otolaryngol. Head Neck Surg. 125 (1999) 353—356. 
+[13] D.Y. Wang, N. Bernheim, L. Kaufman, P. Clement, Assessment 
+of adenoid size in children by fibreoptic examination, 
+Clin. Otolaryngol. Allied Sci. 22 (1997) 172—177. 
+[14] C. Lamm, J. Mandeli,M. Kattan, Evaluation of home audiotapes 
+as an abbreviated test for obstructive sleep apnea 
+syndrome (OSAS) in children, Pediatr. Pulmonol. 27 (1999) 
+267—272. 
+
+F. Ameli et al. 
+[15] J.L. 
+Carroll, S.A. McColley, C.L. Marcus, S. Curtis, G.M. 
+Loughlin, Inability of clinical history to distinguish primary 
+snoring from obstructive sleep apnea syndrome in children, 
+Chest 108 (1995) 610—618. 
+[16] J.S. Suen, J.E. Arnold, L.J. Brooks, Adenotonsillectomy for 
+treatment of obstructive sleep apnea in children, Arch. 
+Otolaryngol. Head Neck Surg. 121 (1995) 525—530. 
+[17] P. Nieminen, U. Tolonen, H. Lopponen, T. Lopponen, J. 
+Luotonen,K.Jokinen,Snoringchildren:factorspredicting 
+sleep apnea, Acta Otolaryngol. Suppl. 529 (1997) 190— 
+194. 
+[18] J. Leach, 
+J. Olson, J. Hermann, S. Manning, Polysomnographic 
+and clinical findings in children with obstructive 
+sleep apnea, Arch. Otolaryngol. Head Neck Surg. 118 
+(1992) 741—744. 
+[19] R.C. Wang, T.P. Elkins, D. Keech, A. Wauquier, D. Hubbard, 
+Accuracy of clinical evaluation in pediatric obstructive sleep 
+apnea, Otolaryngol. Head Neck Surg. 118 (1998) 69—73. 
+[20] N.A. Goldstein,N. Sculerati, J.A.Walsleben,N. Bhatia, D.M. 
+Friedman, D.M. Rapoport, Clinical diagnosis of pediatric 
+obstructive sleep apnea validated by polysomnography, 
+Otolaryngol. Head Neck Surg. 111 (1994) 611—617. 
+[21] D. Bresolin, 
+G.G. Shapiro, P.A. Shapiro, S.W. Dassel, C.T. 
+Furukawa, W.E. Pierson, et al., Facial characteristics of 
+children who breathe through the mounth, Pediatrics 73 
+(1984) 622—625. 
+
+[22] R. Brouillette, D. 
+Hanson, R. David, L. Klemka, A. Szatkowski, 
+S. Fernbach, et al., A diagnostic approach to suspected 
+obstructive sleep apnea in children, J. Pediatr. 105 
+(1984) 10—14. 
+[23] A.E. Sher, R.J. Shprintzen, M.J. Thorpy, Endoscopic observations 
+of obstructive sleep apnea in children with anomalous 
+upper airways: predictive and therapeutic value, Int. J. 
+Pediatr. Otorhinolaryngol. 11 (1986) 135—146. 
+[24] M. Zucconi, 
+L.F. Strambi, G. Pestalozza, E. Tessitore, S. 
+Smirne, Habitual snoring and obstructive sleep apnea in 
+children: effects of early tonsil surgery, Int. J. Pediatr. 
+Otorhinolaryngol. 26 (1993) 235—243. 
+[25] K. Agren, B. Nordlander,S. Linder-Aronsson, L. Zettergren-
+Wijk, E. Svanborg, Children with nocturnal upper airway 
+obstruction: postoperative orthodontic and respiratory 
+improvement, Acta Otolaryngol. 118 (1998) 581—587. 
+[26] J. Ahlqvist-Rastad, E. Hultcrantz, H. 
+Svanholm, Children 
+with tonsillar obstruction: indications for and efficacy of 
+tonsillectomy, Acta Paediatr. Scand 77 (1988) 831—835. 
+[27] I. Eliaschar,P. Lavie, E. Halperin, C. Gordon, G. Alroy, Sleep 
+apneic episodes as indications for adenotonsillectomy, Arch. 
+Otolaryngol. 106 (1980) 492—496. 
+

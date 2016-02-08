@@ -1,0 +1,967 @@
+Rev Bras Otorrinolaringol 
+2006;72(6):747-56. 
+
+ORIGINAL ARTICLE 
+Quality of life in children with 
+sleep-disordered breathing: 
+evaluation by OSA-18 
+
+Viviane Carvalho da Silva 1, Alvaro Jorge Madeiro 
+Leite 2 
+
+Keywords: adenoid, children, quality of life, sleep 
+disturbance. 
+
+Summary 
+
+Sleep-disordered breathing (SDB) is prevalent. There 
+is evidence of their effect on quality of life. Aim: To 
+assess the quality of life in children with SDB before and 
+after adenoidectomy or adenotonsillectomy. Methods: A 
+prospective ‘before and after’ interventional study, with a 
+component for assessment. A consecutive sample of children 
+referred to adenoidectomy or adenotonsillectomy was 
+recruited from the otolaryngology clinic; guardians answered 
+a specific survey for the evaluation of quality of life in 
+children with SDB, the OSA-18, before and at least 30 days 
+after surgery. Nasofibroscopic and otolaryngological exams 
+and a semi-structured survey on the child’s social and clinical 
+profile were done on both appointments. Results: 48 children 
+with a mean age of 5.93 years (SD=2.43) were evaluated. 
+The mean number of schooling years for guardians was 8.29 
+years (SD=3.14). The most frequent symptoms were: agitated 
+sleep, apnea and snoring. The total mean score of the initial 
+OSA-18 was 82.83 (major impact); following surgery, the total 
+mean score was 34.15. The differences in the total scores and 
+in the domains between the initial OSA-18 and post-surgery 
+scores were all significant (p<0.00). Conclusion: SDB has a 
+relevant impact on quality of life, and patients show dramatic 
+improvements after surgical treatment. 
+
+1 Specialized in Otorhinopediatrics at UNIFESP. Master’s degree in Public Health from the Ceara Federal University. Assistant medical doctor of the Otorhinolaryngology 
+Unit at the Walter Cantideo University Hospital/Ceara Federal University Medical School. 
+2 Doctor on Pediatrics at UNIFESP, Professor of the Mother-Child Health Department of the Ceara Federal University Medical School. 
+Otorhinolaryngology Unit at the Walter Cantideo University Hospital/Ceara Federal University Medical School. 
+Address for correspondence: Viviane Carvalho da Silva - Rua Delmiro de Farias 1825, Bairro Roldofo Teofilo, CEP 60430-170, Fortaleza, CE. 
+Paper submitted to the ABORL-CCF SGP (Management Publications System) on March 8th, 2006 and accepted for publication on May 10th, 2006. cod. 1765 
+
+
+BRAZILIAN JOURNAL OF OTORHINOLARYNGOLOGY 72 (6) NOVEMBER/DECEMBER 2006 
+
+http://www.rborl.org.br / e-mail: revista@aborlccf.org.br 
+747 
+
+
+INTRODUCTION 
+
+
+Sleep-disordered breathing (SDB) refers to a spectrum 
+of sleep-related breathing disorders sufficiently intense 
+to cause clinical symptoms. This includes children with 
+obstructive sleep apnea/hypopnea syndrome (OSAHS) or 
+with upper airway resistance syndrome, in which the apnea 
+index is frequently normal in standard polysomnography 
+tests.1-2 The estimated occurrence of obstructive sleep 
+apnea is 1-3% in preschool age children.3 The incidence 
+of upper airway resistance syndrome is unknown, but 
+appears to be even more prevalent than apnea.4 
+
+Pharyngeal and palatine tonsillar hyperplasia is a 
+frequent cause of nasal obstruction and chronic mouth 
+breathing in childhood and the main cause of sleep-disordered 
+breathing.1-13 Various clinical alterations may ensue, 
+ranging from apnea with or without cardiopulmonary 
+repercussions, to changes in craniofacial development, 
+postural changes, atypical swallowing and unhealthy eating 
+habits, among others.6 
+
+Other than these widely studied and documented 
+clinical findings, most SDB children are affected by the 
+disease and/or the treatment, with serious repercussions on 
+their quality of life. Zeitlhofer states that the quality of life 
+(QOL) concept is an unique and personal perception of the 
+state of health and/or non-medical aspects of life, which 
+may be measured by asking the opinions of individuals 
+(patients) through specific tools.14 Scientific studies have 
+only recently began studies on this theme.8-10 A review of 
+literature found a single published study in Brazilian scientific 
+literature,11 which demonstrates the lack of research 
+on sleep-disordered breathing in Brazil. 
+
+Tools to measure QOL may be general or specific.15 
+The former are descriptive instruments used to compare 
+different populations and diseases, at the risk of being 
+less sensitive to clinical aspects.15 The latter are based on 
+the special features of a specific disease, aimed mostly at 
+assessing physical aspects and the effect of treatment over 
+time.15 These (specific) tools are more discriminative and 
+predictive, being particularly useful in clinical trials.16 
+
+Most of the available QOL tools are in English 
+language, which means that their use in other languages 
+requires not only validated translation but also awareness 
+that they are specific to a social context. The researcher 
+should then be sure that the domains under investigation 
+are appropriate to the population in which the QOL tool 
+is applied.15 
+
+QOL and health state measures assessed from the 
+perspective of the patient may be difficult or impossible 
+in children, due to vocabulary differences and the varying 
+sophistication of language in different age groups. The 
+solution, then, is to use the answers provided by parents 
+or caretakers to questionnaires, and then establish parallels 
+with answers given by the children.8-9 Although 
+
+debatable, this approximation method for answers is 
+both necessary and desirable for a pediatric population, 
+as children have different vocabulary levels which they 
+use to answer assessment tool questions; added to this is 
+the fact that in practice, adults will be the ones to apply 
+medical decisions.17 
+
+This study aims to assess the quality of life of sleep-
+disordered breathing children prior to and following 
+adenoidectomy or adenotonsillectomy.
+
+ METHOD 
+
+
+The trial was a prospective interventional non-
+controlled before and after study using an evaluation 
+component (QOL assessment). The study was conducted 
+at the Walter Cantidio University Hospital otorhinolaryngology 
+outpatient clinic in the Medical School of the Ceara 
+Federal University, a reference hospital in the Brazilian 
+public Unified Health System (Sistema Unico de Saude - 
+SUS), located in the city of Fortaleza, Ceara state (Brazil). 
+The study was approved by the hospital research ethics 
+committee, protocol # 0105/04. 
+
+A consecutive sample of children in which adenoidectomy 
+or adenotonsillectomy had been indicated 
+was recruited at the aforementioned otorhinolaryngology 
+outpatient clinic. After signing a free consent form, a validated 
+QOL assessment questionnaire specific for children 
+with SDB (OSA-18 survey) was applied prior to surgery 
+(base or preoperative assessment) and between 30 and 
+90 days postoperatively (postoperative assessment). A 
+questionnaire of symptoms was also applied, and children 
+underwent a standard physical examination. The OSA-18 
+survey is a health-geared QOL assessment tool and focuses 
+on physical problems, functional limitations and emotional 
+distress resulting from disease. It is a valid and reliable 
+QOL measurement tool with sufficient discrimination for 
+children with sleep-disordered breathing. In previous trials, 
+the OSA-18 survey has demonstrated test-retest reliability 
+and internal consistency. The questionnaire includes 18 
+items grouped in 5 domains, where items are scored in an 
+ordinal 7-point classification (1-none of the time, 2-hardly 
+any of the time, 3- a little of the time, 4- some of the time, 
+5- a good bit of the time, 6- most of the time, 7- all of the 
+time). OSA-18 domains yield the following scores: 
+
+a) sleep disturbances (4 items with scores between 
+4 and 28) 
+
+b) physical suffering (4 items with scores between 
+4 and 28) 
+
+c) emotional distress (3 items with scores between 
+3 and 21) 
+
+d) daytime problems (3 items with scores between 
+3 and 21) 
+
+e) parent or caretaker concern (4 items with scores 
+between 4 and 28). The total OSA-18 score may therefore 
+be between 18 and 126. 
+
+BRAZILIAN JOURNAL OF OTORHINOLARYNGOLOGY 72 (6) NOVEMBER/DECEMBER 2006 
+
+http://www.rborl.org.br / e-mail: revista@aborlccf.org.br 
+748 
+
+
+Total OSA-18 survey scores were classified into 
+three groups according to the impact on the QOL of children: 
+minor (scores below 60), moderate (scores between 
+60 and 80) and major (scores above 80); we followed 
+Franco et al’s18 prior validation. The OSA-18 survey also 
+provides a global rate of obstructive sleep disorder related 
+to the QOL through a 10-point analog visual scale with 
+specific semantic anchors (smiles faces). Its translation 
+into Portuguese for this study was done using the back-
+translation technique in which, following a first translation 
+from English into Portuguese by fluent and knowledgeable 
+(of specific terms) professionals, a second translation is 
+done back to English by similarly trained professionals, 
+to check whether specific terms conform exactly to those 
+used in the original document. 
+
+Children aged below 12 years, with sleep-disordered 
+breathing and an indication for adenoidectomy and/or 
+adenotonsillectomy, all in treatment at the Otorhinolaryngology 
+outpatient clinic, were included. Exclusion criteria 
+were: children residing far from the outpatient clinic, 
+children in situations where outpatient follow-up would 
+have been impossible, immunocompromised children (severely 
+malnourished, with primary immune deficiency and 
+AIDS), children with craniofacial malformation causing or 
+worsening the clinical picture of mouth breathing, children 
+whose parents refused to participate in the study, children 
+with a history of previous surgery or that had undergone 
+inferior turbinate cauterization. 
+
+Data was analyzed with Epi-info and Stats Direct 
+software. The statistical significance level was p<0.05 
+(bicaudal). A global score was calculated by summing 
+the points in each domain (values between 18 and 126) 
+to define the impact of SDB on QOL at the preoperative 
+visit and postoperative consultation. The impact on QOL 
+was classified in three groups: a) minor (scores below 
+60); b) moderate (scores between 60 and 80) and major 
+(scores above 80). Partial scores were also calculated for 
+each domain by summing the items within each domain. 
+The OSA-18 difference score was obtained from the difference 
+between the preoperative and postoperative score 
+means. The standard response mean (SRM) is defined as 
+the score of the difference between the means divided 
+by the standard deviation of the difference score, and is 
+classified into three groups according to value: a) value of 
+
+0.2 (minor effect), b) value of 0.5 (moderate effect), and c) 
+value equal to or higher than 0.8 (major effect). Peason’s 
+correlation was used for statistical analysis. The paired t-
+test was used to compare score means and to establish the 
+significance of score changes (before and after surgery). 
+Non-parametric tests were used in cases where parametric 
+tests were inadequate.
+Three were not operated due to upper airway infection 
+on the day of surgery, and three children did not return to 
+the follow-up visit. The study population, therefore, was 
+composed of 48 children, of which 58.30% (n=28) were 
+male. The mean age at inclusion into the study was 5.93 
+years (SD=2.43). The OSA-18 survey was answered by the 
+main caretaker (the mother in over 80% of cases). 62.50% 
+of the children slept in the same bedroom as the main 
+caretaker. 23 of the caretakers (68.70%) had incomplete 
+or complete junior or middle school education, and only 
+2 (4.2%) were illiterate. The mean duration of caretaker 
+school education was 8.29 years (SD=3.14). The mean 
+duration of the complaint of respiratory disturbance was 
+
+4.62 years (SD= 2.49). 
+Clinical Assessment prior to surgery (Base Assessment) 
+
+Patients presented nasal obstruction symptoms such 
+as sialosis, restless sleep, apnea, snoring, repeat upper 
+airway infection, repeat otitis, rhinorrhea and frequent 
+sneezing during the preoperative assessment, as shown 
+on Table 1. 
+
+A history of disease included: pneumonia in 6 children 
+(12.6%), repeat tonsillitis in 5 children (10.5%), asthma 
+in 2 children (4.2%), prolonged stay in an incubator in 1 
+child (2.1%), streptococcal glomerulonephritis in 1 child 
+(2.1%), and early puberty in 1 child (2.1%). 
+
+Otoscopy was normal in 33 patients (68.8%), revealed 
+tympanic membrane opacification in 12 children 
+(25.0%) and impacted cerumen in 3 children (6.2%) 
+
+-which was removed prior to surgery for adequate otoscopy. 
+Patients were distributed according to the degree 
+of oropharyngeal obstruction by the palatine tonsils 
+(Brodsky): grade I in 6 children (12.5%), grade II in 5 
+children (10.4%), grade III in 22 children (45.8%), and 
+grade IV in 5 children (31.3%). The classification of the 
+degree of choanal obstruction by the pharyngeal tonsil 
+(adenoid) seen during nasofibroscopy was: mild (up to 
+40% obstruction) in 3 children (6.3%), moderate (between 
+40 and 70%) in 9 children (18.8%), and severe (over 70%) 
+in 36 children (74.9%). The mean choanal obstruction was 
+73.65% (SD=14.86). 
+Nasofibroscopy showed nine patients (18.8%) with 
+secretion of mucous or pus in the middle meatus, suggesting 
+rhinosinusitis. Thirty-seven patients (77.1%) presented 
+combined palatine tonsil and adenoid hyperplasia. 
+
+Forty-five patients underwent laryngoscopy as well 
+as nasofibroscopy, of which 23 (51.1%) had a normal exam, 
+19 (33.1%) presented signs of esophagopharyngolaryngeal 
+reflux, 7 (14.4%) had vocal fold nodules, and 1 (2.2%) had 
+signs of acute laryngitis. 
+
+The body mass index (BMI) varied from 12.00 to 
+22.60, with a mean value of 16.15 (SD=2.5) during the 
+preoperative assessment, and 11.70 to 22.10 with a mean 
+value of 16.46 (SD=2.48) during the second visit, which was 
+
+ RESULTS 
+
+
+Fifty-four children were included in the study. 
+
+
+BRAZILIAN JOURNAL OF OTORHINOLARYNGOLOGY 72 (6) NOVEMBER/DECEMBER 2006 
+
+http://www.rborl.org.br / e-mail: revista@aborlccf.org.br 
+749 
+
+
+Table 1. Frequency of symptoms found in children with sleep-disordered breathing in the preoperative assessment 
+
+Symptoms Frequency n (%) 
+
+Nasal obstruction 42 (87,5) 
+Sialosis 37 (77,1) 
+Restless sleep 48 (100,0) 
+Apnea 48 (100,0) 
+Snoring 47 (97,9) 
+Repeat upper airway infection 22 (45,8) 
+Repeat otitis 1 (2,10) 
+Frequent rhinorrhea 34 (70,8) 
+Frequent sneezing 28 (58,3) 
+Frequent sneezing due to dust 26 (54,2) 
+Frequent sneezing due to changes in weather 23 (47,9) 
+Frequent sneezing due to other causes 5 (11,40) 
+
+not statistically significant (Fisher test = 0.31, p= 0.5419). 
+
+Table 2 shows the total OSA-18 item and domain 
+mean scores and the QOL score in the global QOL visual 
+scale on the preoperative assessment. The preoperative 
+OSA-18 survey demonstrated minor impact on the QOL 
+in 1 child (2.1%), moderate impact in 24 children (50%), 
+and major impact in 23 children (47.9%). 
+
+Since the mean duration of the complaint of SDB 
+was approximately 5 years, this time period was used as 
+the cutoff point to evaluate the duration of the complaint 
+of respiratory disturbance and the impact on QOL. Only 
+one child had a mild impact, which was discarded in 
+the statistical analysis. There was no correlation between 
+duration of the complaint equal to or over 5 years and 
+the impact on QOL, according to OSA-18 survey criteria 
+(Table 3). 
+
+The correlation between the caretaker education 
+level of 8 years or less (average number of study years 
+of the caretaker and also the number of years required 
+to complete basic schooling) and the degree of impact of 
+sleep disturbance on QOL was not significant in the preoperative 
+assessment (Table 3). Given that only one child 
+presented mild impact, this datum was discarded in the 
+statistical analysis. Even when the cutoff point was taken 
+as 4 years or less (required time for completion of junior 
+school) there was no statistical significance (p= 0.448). 
+
+There was no significant difference in preoperative 
+QOL scores in patients with findings suggesting esophagopharyngolaryngeal 
+reflux compared to the impact detected 
+on the preoperative assessment (Table 3). 
+
+Postoperative assessment 
+
+The mean time between surgery and the follow-up 
+visit was 38.17 days (SD= 10.65). 
+
+Nasofibroscopy was done in every child at this time. 
+Only one child had persistent lymphoid tissue in the cavum 
+
+(adenoid) that obstructed 60% of the choanae (moderate 
+hyperplasia). All other children had postoperative remains 
+of the adenoid obstructing 30% or less of the choanae. 
+
+A correlation of the medical assessment after surgery 
+with the impact on QOL according to the postoperative 
+OSA-18 survey revealed that 47 (97.9%) of children were 
+classified as having mild or low impact. 
+
+Table 2 shows the mean preoperative and postoperative 
+scores and their difference based on the OSA-18 
+survey, as well as the standardized response mean (SRM) 
+obtained through dividing the difference between mean 
+scores by the standard deviation of the difference between 
+the mean scores. The mean preoperative total score 
+was 82.83 (SD=12.57), and the mean postoperative total 
+score 34.30 (SD = 9.95), a statistically significant difference 
+(p=0.000). The domain that presented the greatest pre and 
+postoperative difference was sleep disturbances, followed 
+by caretaker concern. The domain with the lowest difference 
+was daytime problems. All total differences and 
+domain scores (before and after surgery) were statistically 
+significant (p= 0.000). Chart 1 illustrates the change pattern 
+of the domain score means in the preoperative and 
+postoperative OSA-18 surveys. 
+
+There was a statistically significant difference (F 
+test=443.70; p=0.0000) in the relation between the difference 
+of the OSA-18 total score means compared to 
+the visual scale score means (global assessment of SDB 
+related to QOL). 
+
+There was no statistically significant difference (F 
+test=0.841; p=0.6714; Kruskal-Wallis p=0.472) in the assessment 
+of the correlation between duration of complaint 
+of sleep disturbances and the score differences in the 
+preoperative and postoperative OSA-18 surveys. 
+
+There was no statistically significant difference in 
+the mean difference of scores in the preoperative and 
+postoperative OSA-18 surveys according to female gender 
+
+BRAZILIAN JOURNAL OF OTORHINOLARYNGOLOGY 72 (6) NOVEMBER/DECEMBER 2006 
+
+http://www.rborl.org.br / e-mail: revista@aborlccf.org.br 
+750 
+
+
+Table 2. Total and domain pre and postoperative scores. 
+
+Mean of pre-ope-Mean differences between the
+
+Mean of post-operative OSA-
+
+Domain rative OSA-18 preoperative and postoperative SRM
+
+18 survey
+
+survey means (CI 95%)* 
+
+Sleep disturbances 21.19 5.06 16.13 (14.74 a 17.51) 3.39 
+...loud snoring? 6.02 1.31 4.71 (4.29 a 5.13) 3.27 
+...periods in which breathing 
+stopped or air seemed trapped 4.62 1.04 3.58 (3.07 a 4.09) 2.03 
+during the night? 
+...choking noise or breathlessness 
+while sleeping? 
+5.12 1.40 3.73 (3.13 a 4.33) 1.81 
+...restless sleep or frequent 
+awakening during sleep? 
+5.41 1.31 4.10 (3.59 a 4.62) 2.30 
+Physical suffering 18.35 7.33 11.02 (9.66 a 12.39) 2.35 
+...mouth breathing due to nasal 
+obstruction? 
+6.00 1.83 4.17 (3.59 a 4.74) 2.10 
+...frequent common colds or 
+upper airway infection? 
+3.92 1.81 2.10 (1.56 a 2.64) 1.13 
+...nasal secretion or runny nose? 3.85 1.85 2.00 (1.42 a 2.58) 0.99 
+...eating difficulties? 4.58 1.77 2.81 (2.08a 3.55) 1.11 
+Emotional distress 13.27 9.15 4.13 (2.63 a 5.62) 0.80 
+...change in humor or rage? 4.73 2.71 2.02 (1.36 a 2.68) 0.89 
+...aggressive or hyperactive 
+behavior? 
+4.65 2.79 1.85 (1.21 a 2.50) 0.83 
+... problems with discipline? 3.90 3.64 0.25 (0.34 a 0.84) 0.12 
+Daytime problems 8.77 6.49 2.31 (1.24 a 3.39) 0.62 
+...drowsiness or excessive daytime 
+naps? 
+1.94 1.25 0.69 (0.19 a 1.19) 0.40 
+...poor concentration or attention? 
+3.68 2.48 0.69 (0.13 a 1.25) 0.36 
+...difficulty to wake up in the 
+morning? 
+3.67 2.73 0.94 (0.26 a 1.62) 0.40 
+Caretaker concern 21.35 6.13 15.23 (13.67 a 16.79) 2.84 
+...leave you worried about the 
+general health of your child? 
+6.27 1.75 4.52 (4.12 a 4.92) 3.30 
+...created a concern that your 
+child is not breathing enough air? 
+5.79 1.75 4.04 (3.56 a 4.52) 2.45 
+...interfered in your ability to carry 
+out your daily activities? 
+3.85 1.29 2.56 (1.83 a 3.30) 1.01 
+...made you feel frustrated? 5.46 1.33 4.13 (3.53 a 4.72) 2.02 
+Total OSA 82.83 34.15 48.69 (44.45 a 52.93) 3.33 
+Visual scale score - global quality 
+of life 
+6.04 9.60 -3.56 (-4.09 a -3.03) -1.96
+
+ * There was statistical significance (p< 0.05) for every difference in means in the preoperative and postoperative scores except for the item 
+discipline problems (p=0.395). CI = confidence interval. SRM = standardized response mean. 
+BRAZILIAN JOURNAL OF OTORHINOLARYNGOLOGY 72 (6) NOVEMBER/DECEMBER 2006 
+
+http://www.rborl.org.br / e-mail: revista@aborlccf.org.br 
+751 
+
+
+Table 3. Relation between variables and the impact on quality of life according to the preoperative OSA-18 survey. 
+
+Impact on quality of life - OSA-18 survey (n)
+
+Variables 
+
+Moderate Major Test P 
+
+1. Duration of complaint of sleep disturbances 
+< 5years 13 10 
+= 5years 11 13 0,1941 0,659 
+2. Education (time) of caretaker 
+Education = 8years 13 13 
+Education >8 years 11 10 0,021 0,896 
+3. Signs of GERD* on laryngoscopy 
+YES 8 10 
+NO 14 12 (2) 0,759 
+
+(1) x2 test; (2) x2 test with Yates’s correction. * GERD= gastroesophageal reflux disease. 
+(47.96) and male gender (49.35). 
+The OSA-18 survey total score following surgery, 
+compared to the classification of the impact on QOL 
+seen in the preoperative assessment OSA-18 survey, 
+changed from 73.20 to 33.87 in children with moderate 
+impact on the QOL (preoperative assessment), and from 
+
+94.13 to 35.13 in children with major impact on the 
+QOL. The change rate of the latter was approximately 
+1.2 times higher than that of the former. 
+DISCUSSION 
+
+
+Graph 1. Mean of OSA-18 survey domain scores - Domains: 1. Sleep 
+disturbances; 2. Physical suffering; 3. Emotional distress; 4. Daytime 
+problems; 5. Caretaker concern. 
+
+
+Many published studies have demonstrated the 
+impact of sleep-disordered breathing on the quality of 
+life of children with this condition.4-5,8-10,18-33 Until recently, 
+there was a single published Brazilian study on 
+this theme.11 In this trial, Di Francesco et al. assessed 
+the responses of parents or other caretakers of children 
+undergoing adenotonsillectomy due to palatine and 
+pharyngeal tonsil hyperplasia associated with sleep-
+related breathing disorders. They analyzed 36 children 
+aged between 2 and 15 years, with adenoids obstructing 
+at least 75% of the air column as seen on a cavum 
+radiograph, associated with increased palatine tonsils 
+(grade II or more). The conclusion was that increased 
+palatine tonsils and obstructive sleep apnea worsened 
+the quality of life of these children, mostly due to physical 
+suffering and sleep disturbances, and that adenoamigdalectomy 
+results in a significant improvement of 
+their quality of life.11 However, Di Francesco et al. used 
+the OSD-6, an instrument that was not validated with 
+polysomnography and with an unknown discriminating 
+capability.4 Sohn et al.23 studied children with sleep-
+related breathing disorders, comparing their quality 
+of life before and after adenotonsillectomy, using the 
+OSA-18 and the OSD-6 surveys. The authors concluded 
+that the OSA-18 survey is adequate for a variety of situations, 
+particularly when the progression of the patient 
+is to be studied. It is easy to apply and may be used 
+by physicians to generate marketing information, to 
+improve the quality of service, for comparison purposes 
+with findings of peers, or in association with objective 
+research methods.23 
+
+We used the OSA-18 survey because this tool 
+
+
+BRAZILIAN JOURNAL OF OTORHINOLARYNGOLOGY 72 (6) NOVEMBER/DECEMBER 2006 
+
+http://www.rborl.org.br / e-mail: revista@aborlccf.org.br 
+752 
+
+
+has been more completely validated and is thus able 
+to provide a better assessment of the quality of life in 
+children with sleep-disordered breathing. It is the first 
+study on the quality of life of sleep-disordered breathing 
+children in Brazil using this instrument. Consistency was 
+assured by the fact that data was collected only by the 
+main researcher. 
+
+The OSA-18 survey was shown to be an adequate 
+tool to study the quality of life of sleep-disordered breathing 
+children. Over half of the caretakers in this study 
+slept in the same room as the children we assessed; 
+therefore, one may assume that the information they 
+provided is of good quality. 
+
+Few caretakers in this study had university level 
+education, which reflects the Brazilian social reality. 
+The sample included mostly low-income individuals, 
+who use the Brazilian public Unified Health System. We 
+know that in Brazil only 9% of people aged between 18 
+and 24 years have access to university education, and 
+that this percentage is even lower in the low-income 
+strata of the population.34 
+
+Sleep apnea in children and other sleep disturbances 
+secondary to adenotonsillar hyperplasia are 
+commonly found in the pediatric population. These conditions 
+affect approximately 11% of children,1 similarly 
+distributed between both sexes.19 Our study contained 
+a similar number of males and females, different from 
+studies such as the Mitchell et al. trial, in which males 
+predominated.24-27 
+
+Our study population presented a high rate of 
+apnea (according to the caretaker’s perception), restless 
+sleep and snoring (roughly 100% of our sample). This 
+is probably due to the fact that these children had been 
+previously selected as sleep-disordered breathing cases, 
+both during outpatient care as in the clinical visit to 
+confirm surgery and for inclusion into the study. Rather 
+than evidence of any bias, this suggests an adequate 
+selection of participants, namely children with sleep-
+disordered breathing. 
+
+In a similar trial, Franco Jr et al.18 found that 89% 
+(61 children) of the participants had a BMC equal to 
+or below 25kg/m2. According to this same criterion, 
+no child in our study was overweight; comparing the 
+proportions, there is a significant difference (p=0.04). 
+However, this classification is based on first world 
+parameters and does take into account the age of children 
+and their origin, which in our case is composed 
+of children with a low social and economic status. 
+Participants of the study mentioned above18 also were 
+mostly low income individuals, compared to North 
+American standards. 
+
+There was a minor impact on the quality of life in 
+
+only 2.1% of our sample, as seen during the preoperative 
+assessment; most of the sample showed moderate 
+or major impact in roughly equal proportions. Franco 
+Jr et al.18 found a more homogeneous distribution of 
+the impact of sleep-disordered breathing on quality of 
+life in their sample. However, this happened because 
+children with indication for surgery due to repeat tonsillitis 
+and without sleep-disordered breathing were 
+also included. 
+
+The average OSA-18 survey scores showed that 
+the item with the highest mean score was loud snoring. 
+There are controlled studies assessing children with 
+polysomnography showing that the quality of life and 
+the behavior of children without apnea but with primary 
+snoring is altered compared to the control group.22,29,35 
+The suggestion is that snoring needs to be investigated 
+with greater care in clinical practice. 
+
+The highest mean scoring domain during the preoperative 
+assessment was caretaker concern, different 
+from various other studies, in which sleep disturbance 
+had the highest score.4,5,11,18,23-28,30 In our trial, sleep disturbance 
+had the second highest score, which was the 
+position of the item caretaker concern in the studies of 
+Mitchell et al.24-27 and Tran et al.30 Other authors have 
+found physical suffering as the second most affected 
+domain.19,23 
+
+The lowest mean scoring item in the preoperative 
+assessment was drowsiness or excessive daytime 
+naps, which is in line with current findings. Different 
+from adults with obstructive sleep apnea, who generally 
+present drowsiness, children tend to be more 
+hyperactive. 
+
+The average time between the beginning of 
+respiratory complaints and surgery was considered 
+high, especially if we take into account the mean age 
+of our sample (5.93 years). Franco Jr et al.18 found an 
+average symptom duration of 2 years. This may reflect 
+the difficulty of accessing otorhinolaryngological health 
+care -particularly surgical care -faced by patients using 
+the Brazilian public Unified Health System, as detailed 
+by Sarmento Júnior et al.36 The long waiting time may 
+worsen the quality of life of these patients, which is 
+a different situation from what is seen in studies in 
+developed countries. On the other hand, there was 
+no correlation between the duration of the complaint 
+of sleep disturbance (less or more than 5 years) and 
+the degree of impact on the quality of life as seen on 
+the preoperative assessment. Our sample, however, is 
+somewhat small. There is no information about this 
+correlation so far in published quality of life and sleep-
+disordered breathing studies. Therefore, we were unable 
+to assess whether this is or not a peculiar finding in our 
+
+BRAZILIAN JOURNAL OF OTORHINOLARYNGOLOGY 72 (6) NOVEMBER/DECEMBER 2006 
+
+http://www.rborl.org.br / e-mail: revista@aborlccf.org.br 
+753 
+
+
+sample, possibly due to social and cultural factors. This 
+may reflect a cultural passive acceptance of suffering 
+among the low-income population in Northeastern Brazil 
+that use the public health system, and frequently do 
+not enforce their right to question long waiting times, 
+merely accepting this fact as if it where normal.36 
+
+Adenoidectomy and adenotonsillectomy 
+are the most common surgical procedures in 
+otorhinolaryngology.8-10,19 In adequately selected children, 
+these measures can change the perception of 
+quality of life and solve obstructive problems.19 We 
+had a short follow-up period in our sample, which is a 
+limitation of many of our analyses. Undeniably there is 
+a substantial short-term improvement in the perception 
+of quality of life by parents and caretakers of children 
+with sleep-disordered breathing following surgery. 
+
+Similar to international studies,19,23,24-27,29-31 we 
+found significant improvements in all OSA-18 survey 
+domains assessed before and after surgery. Follow-up 
+time between surgery and the quality of life assessment 
+was short. However, Mitchell et al. published a long-
+term evaluation of quality of life changes (between 9 
+and 24 months) following adenotonsillectomy for the 
+treatment of obstructive sleep apnea, documented by 
+full-night polysomnography, and concluded that parents 
+perceived more pronounced short-term than long-term 
+significant improvements in the quality of life of children 
+after surgery, which were not uniformly distributed 
+between all OSA-18 survey domains.25 
+
+The standardized response mean (SRM) revealed 
+a marked impact on all of the domains (SRM equal to 
+or higher than 0.8), except for daytime problems, an 
+item that showed a moderate impact. This confirms 
+the significant effect of surgery on the quality of life of 
+sleep-disordered breathing children. 
+
+The most affected domain was sleep disturbances, 
+similar to findings in international medical 
+literature.19,23,25-27,29,30 However, the less affected position 
+in our study was daytime problems, different from 
+those studies, in which emotional distress was the least 
+affected domain. This may be a cultural difference, 
+as Latin populations are more expansive and active 
+compared to the North American population, which 
+was surveyed in the aforementioned studies. A second 
+explanation would be the climate, as Brazil is mostly a 
+tropical and subtropical country where, particularly in 
+the Northeastern region, days are clear and sunny for 
+most of the year, different from places in which those 
+studies mentioned above were carried out. Although 
+the domain daytime problems was the least affected 
+in our study, the only item that did not show a statistically 
+significant difference between the preoperative 
+
+and postoperative assessments (with SRM showing a 
+weak change effect) was discipline problems, which is 
+included in the domain emotional distress. 
+
+The change rate of the mean OSA-18 survey scores 
+before and after surgery did not vary in patients with 
+mild, moderate or major impact during the preoperative 
+assessment. These findings are similar to those presented 
+by Mitchell et al. in 2004.24 However, both studies 
+have relatively small samples, which is a limitation. 
+
+Similar to findings by Mitchell et al.,24 there was 
+no significant gender difference in the mean preoperative 
+and postoperative OSA-18 survey scores or the mean 
+of the difference between scores. It should be noted 
+that males predominate in Mitchell’s sample.24 
+
+De Serres et al.5 remind us that resource allocation 
+is currently a growing problem; they state that 
+the personal impact of diseases and their treatments 
+should be better understood, taking into account their 
+standard medical morbidity or functional limitations, 
+which should be included in the decision-making 
+process. We saw a significant short-term change in the 
+quality of life of sleep-disordered breathing children 
+following surgery. We disapprove the long waiting 
+time these children face until treatment. The Brazilian 
+constitution assures universal health care, but political 
+and economical reasons have made it impossible for the 
+Brazilian public Unified Health System (Sistema Unico 
+de Saude - SUS) to provide adequate care as originally 
+intended.37 Resource allocation needs to be better 
+equated, including observations of the impact diseases 
+have on quality of life, especially in sleep-disordered 
+breathing children, the object of this trial. 
+
+Our study had limitations that should be considered. 
+The sample size was small, and originated from 
+a previously selected group, meaning that inferences 
+about the general population may be somewhat jeopardized. 
+However, the basic aim of this study was to 
+analyze quality of life related specifically to a disease 
+group, namely sleep-disordered breathing - which the 
+sample fully supported. 
+
+Polysomnography was not done in our sample. 
+In daily clinical practice, high cost and difficulty in 
+doing the exam preclude its use; in sleep-disordered 
+breathing cases, it is only applied when a differential 
+diagnosis is required. On the other hand, certain studies 
+have suggested that even children with mild sleep-disordered 
+breathing (primary snoring) show changes in 
+measurements of attention, memory and intelligence 
+compared to non-snorers.35 Furthermore, Flanary19 has 
+demonstrated that, although polysomnography may 
+provide information about children with sleep-disordered 
+breathing, this exam is not necessary to establish 
+
+BRAZILIAN JOURNAL OF OTORHINOLARYNGOLOGY 72 (6) NOVEMBER/DECEMBER 2006 
+
+http://www.rborl.org.br / e-mail: revista@aborlccf.org.br 
+754 
+
+
+which patients will show improvements in quality of 
+life following adenotonsillectomy. 
+
+Another limitation of our study was the short 
+follow-up time, not allowing inferences about the sustainability 
+of quality of life improvements in children. 
+There are studies such as those by Flanary19 and 
+Mitchell,25 that have demonstrated this premise.
+
+ CONCLUSION 
+
+
+Sleep-disordered breathing due to adenotonsillar 
+hyperplasia causes moderate to major repercussions on 
+the quality of life of children. 
+
+Adenoidectomy or adenotonsillectomy results 
+in a significant quality of life improvement in these 
+children.
+
+ REFERENCES 
+
+
+1. Guilleminault C, Pelayo R. Sleep -disordered in children. Ann 
+Med 1998;30:350-6. 
+2. Guilleminault C, Khramtsov A. Upper airway resistance syndrome 
+in children: a clinical review. Semin Pediatr Neurol 
+2001;8:207-15. 
+3. Ali N, Pitson D, Stradling J. Snoring, sleep disturbance, and 
+behaviour in 4-5 year olds. Arch Dis Child 1993;68:360-6. 
+4. De Serres LM, Derkay C, Astley S, Deyo RA, Rosenfeld RM, 
+Gates GA. Measuring quality of life in children with obstructive 
+sleep disorders. Arch Otolaryngol Head Neck Surg 
+2000;126(12):1423-9. 
+5. De Serres LM, Derkay C, Astley S, Sie K, Biavati M, Jones J, et 
+al. Impact of adenotonsillectomy on quality of life in children 
+with obstructive sleep disorders. Arch Otolaryngol Head Neck 
+Surg 2002;128(5):489-96. 
+6. Saffer M. A criança respiradora bucal. In: Chinski A, Sih T. 
+II Manual de otorrinolaringologia pediátrica da IAPO. IAPO- 
+International Association of Pediatric Otorhinolaryngology; 
+1999. p.170-81. 
+7. Cavalcanti Filho POC. Síndrome da apnéia obstrutiva do Sono 
+na infância. In: Campos CAH, Costa HOO, editores. Tratado 
+de otorrinolaringologia. São Paulo: Roca; 2002. v. 3, p. 5813. 
+8. Stewart, MG. Pediatric outcomes research: development of 
+an outcomes instrument for tonsil and adenoid disease. Laryngoscope 
+2000;110(3 pt. 3):12-5. 
+9. Stewart MG, Friedman EM, Sulek M, Hulka GF, Kuppersmith 
+RB, Harril WC, Bautista MH. Quality of life and health status 
+in pediatric tonsil and adenoid disease. Arch Otolaryngol 
+Head Neck Surg 2000;126(1):45-8. 
+10. Stewart MG, Friedman EM, De Jong A, Hulka GF, Bautista 
+MH, Anderson SE. Validation of an outcomes instrument for 
+tonsil and adenoid disease. Arch Otolaryngol Head Neck Surg 
+2001;127(1):29-35. 
+11. Di Francesco RC, Komatsu CL. Melhora da qualidade de vida 
+em crianças após adenoamigdalectomia. Rev Bras Otorrinolaringol 
+2004;70(6):748-51. 
+12. Endo LH, Barcelos IK, Sakano E. 
+Radiological evaluation 
+of adenoid size before and after antihistaminic treatment in 
+allergic children. Ann Otorrinolaringol Mex 1995;40:17-9. 
+13. Messner AH, Pelayo R. Pediatric sleep-related breathing disorders. 
+Am J Otolaryngol 2000;21(2):98-107. 
+14. Zeitlhofer J, Schmeiser-Reider A, Tribl G, Rosenberger A, 
+Bolitschek J, Kapfhammer G. Sleep and quality of life in the 
+austrian population. Acta Neurol Scand 2000;102:249-57. 
+15. Verlade-Jurado E, Avila-Figueroa C. Consideraciones metodológicas 
+para evaluar la calidad de vida. Salud Publ Méx 
+2002;44(5):448-62. 
+16. Patrick Dl, Deyo RA. Generic and disease specific measures 
+in assessing health status and quality of life. Med Care 
+1989;27:217-32. 
+17. Pal DK. 
+Quality of life assessment in children: review of 
+conceptual and methodological issues in multidimensional 
+issues in multidimensional health status measures. J Epidemiol 
+Commun Health 1996;50:391-96. 
+18. Franco RA Jr., Ronsenfeld RM, Rao M. First place-resident 
+clinical science award 1999. Quality of life for children obstructive 
+sleep apnea. Otolaryngol Head Neck Surg 2000;123(1 
+pt.1):9-16. 
+19. Flanary, VA. Long-term effect of adenotonsillectomy on quality 
+of life in pediatric patients. Laryngoscope 2003;113(10):163944. 
+20. Nelson R. Obstructive sleep apnea in children might impair 
+cognition and behavior. Lancet 2002;359(9319):1754. 
+21. Rosen Cl, Parlermo TM, Larkin, EK, Redline S. Health-related 
+quality of life and sleep-disordered breathing in children. 
+Sleep 2002;25(6):657-66. 
+22. Goldstein NA, Fatima M, Campbell TF, Rosenfeld RM. Child 
+behavior and quality of life before and after tonsillectomy 
+and adenoidectomy. Arch Otolaryngol Head Neck Surg 
+2002;128(7):770-5. 
+23. Sohn 
+H, Rosenfeld RM. Evaluation of sleep-disordered 
+breathing in children. Otolaryngol Head Neck Surg 
+2003;128(3):344-52. 
+24. Mitchell RB, Kelly J, Call E, Yao O. Quality of life adenotonsillectomy 
+for obstructive sleep apnea in children. Arch 
+Otolaryngol Head Neck Surg 2004;130(2):190-4. 
+25. Mitchell RB, Kelly J, Call E, Yao O. Long- term changes in 
+quality of life after surgery for pediatric obstructive sleep apnea. 
+Arch Otolaryngol Head Neck Surg 2004;130(4):409-12. 
+26. Mitchell RB, Kelly J. 
+Adenotonsillectomy for obstructive 
+sleep apnea in obese children. Otolaryngol Head Neck Surg 
+2004;131(1):104-8. 
+27. Mitchell RB, KELLY J. Outcome of adenotonsillectomy for 
+severe obstructive sleep apnea in children. Int J Pediatr 
+Otorhinolaryngol 2004;68(11):1375-9. 
+28. Crabtree VM, VarnI JW, Gozal D. Health-related quality of 
+life and depressive symptoms in children with suspect sleep-
+disordered breathing Sleep 2004;27(6):1131-8. 
+29. Montgomery-Downs HE, Crabtree VM, Gozal D. Cognition, 
+sleep and respiration in a at-risk children treated for obstructive 
+sleep apnoea. Eur Resp J 2005;25(2):336-42. 
+30. Tran KD, Nguyen CD, Weedon J, Goldstein NA. Child behaviour 
+and quality of life in pediatric obstructive sleep apnea. 
+Arch Otolaryngol Head Neck Surg 2005;131(1):52-7. 
+31. Stewart MG, Glaze DG, Friedman EM, Smith EO, Bautista 
+M. Quality of life and sleep study findings after adenotonsillectomy 
+in children with obstructive sleep apnea. Arch 
+Otolaryngol Head Neck Surg 2005;131(4):308-14. 
+32. Hart CN, Palermo TM, Rosen CL. Health-related quality of 
+life among children presenting to a paediatric sleep disorders 
+clinic. Behav Sleep Med 2005;3(1):4-17. 
+33. Mitchell RB Sleep disordered breathing in children: are we 
+underestimating the problem. Eur Resp J 2005;25:216-7. 
+34. Ministério da Educação (BR). 
+Assessoria de Comunicação 
+Social. Título. Acessado 2005 ago 21. Disponível: http://www. 
+mec.gov.br/acs/pdf/prouni1.pdf. 
+BRAZILIAN JOURNAL OF OTORHINOLARYNGOLOGY 72 (6) NOVEMBER/DECEMBER 2006 
+
+http://www.rborl.org.br / e-mail: revista@aborlccf.org.br 
+755 
+
+
+35. Blunden S, Lushington K, Kennedy D et al. Behavior and 
+neurocognitive performance in children age 5-10 years 
+who snore compared to controls. J Clin Exp Neuropsychol 
+2003;22:554-68. 
+36. Sarmento Junior KMA, Tomita S, Kos AOA. O problema da 
+fila de espera para cirurgias otorrinolaringológicas em serviços 
+públicos. Rev Bras Otorrinolaringol 2005;71(3):256-62. 
+37. Pontifícia Universidade Católica do Paraná. Título. Acessado 
+2005 ago 21. Disponível em: http://www2.pucpr/multimidia/ 
+proj_comunitario. 
+BRAZILIAN JOURNAL OF OTORHINOLARYNGOLOGY 72 (6) NOVEMBER/DECEMBER 2006 
+
+http://www.rborl.org.br / e-mail: revista@aborlccf.org.br 
+756 
+
+

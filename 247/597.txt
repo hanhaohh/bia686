@@ -1,0 +1,714 @@
+PEDIATRICS 
+Patients With Attention-Deficit/Hyperactivity Disorder Without Observed Apneic 
+Episodes in Sleep or Daytime Sleepiness Have Normal Sleep on Polysomnography 
+
+R. Bart Sangal1; Judith A. Owens2; JoAnne Sangal1 
+1Sleep Disorders Institute, Troy, MI; 2Department of Pediatrics, Rhode Island Hospital,Providence, RI 
+
+Study Objective: There is continuing speculation about the relationship 
+between attention-deficit/hyperactivity disorder (ADHD) and obstructive 
+sleep apnea (OSA) or periodic limb movement disorder (PLMD)/restless 
+legs syndrome. The objective was to determine if a significant portion 
+of children with ADHD diagnosed using DSM-IV criteria have OSA 
+or PLMD. 
+Setting: Sleep disorders centers in a private practice setting and a hospital 
+setting. 
+Participants: Children aged 6 to 14 years with ADHD were enrolled. Patients 
+with snoring were not excluded. Although patients with snoring plus 
+either observed apneic episodes in sleep or excessive daytime sleepiness 
+were to be excluded, as were patients with restless legs at night, only 1 
+subject actually had to be excluded because of these criteria. 
+Measurements and Results: Forty children were evaluated with a polysomnogram. 
+A respiratory disturbance index cut-off of more than 5 per 
+hour of sleep was used to diagnose OSA, and a periodic limb movement 
+(with arousal) index cut-off of 5 or more per hour of sleep was used to diagnose 
+PLMD. The Attention-Deficit/Hyperactivity Disorder Rating Scale
+
+
+IV-Parent Version: Investigator Administered and Scored was used to 
+determine severity of inattentive, hyperactive, and total ADHD symptoms. 
+Except for a somewhat longer rapid eye movement sleep latency and decreased 
+percentage of rapid eye movement sleep, polysomnography was 
+essentially normal. No patient had OSA or PLMD on polysomnography. 
+Conclusions: OSA or PLMD is not a common underlying disorder or etiologic 
+factor in patients who meet the criteria for ADHD. In the absence 
+of symptoms suggesting a primary sleep disorder, such as snoring with 
+observed apneic episodes in sleep or daytime sleepiness or restless legs, 
+polysomnographic evaluation does not seem indicated in patients with 
+ADHD. 
+Keywords: Obstructive sleep apnea, OSA, periodic limb movement disorder, 
+PLMD, attention-deficit/hyperactivity disorder, ADHD, polysomnography 
+Citation: Sangal RB; Owens J; Sangal J. Patients with attention-deficit/
+hyperactivity disorder without observed apneic episodes in sleep or 
+daytime sleepiness have normal sleep on polysomnography. SLEEP 
+2005;28(9): 1143-1148. 
+
+INTRODUCTION Other authors have reported that children and adults with snor
+
+
+ing or OSA syndrome have inattention and hyperactivity. Blunden 
+THERE IS CONTINUING SPECULATION ABOUT THE RE-
+LATIONSHIP BETWEEN ATTENTION-DEFICIT/HYPERAC-
+apnea (OSA) or periodic limb movement disorder (PLMD)/rest-
+TIVITY DISORDER (ADHD) AND OBSTRUCTIVE SLEEP 
+et al11 reported that children who snore showed significantly im-
+paired attention and lower memory and intelligence scores than 
+controls. However, examination of their participant information 
+shows that controls were drawn predominantly from professional 
+less legs syndrome (RLS). There has even been speculation that and managerial families, whereas primary snorers and OSA pa-
+OSA may be the cause for ADHD in a substantial number of tients were not (71% of controls vs 8% of primary snorers and 
+ADHD patients and that polysomnography (PSG) should be per-OSA patients). Attention, memory, and intelligence are known to 
+formed in many or most patients with ADHD. A recent editorial1 be correlated with socioeconomic status,12-14 and this discrepancy 
+opines that several studies demonstrate that a large percentage of rather than snoring or apnea may explain the difference noted by 
+children diagnosed with ADHD have underlying OSA syndrome2-Blunden et al. 
+
+6 or PLMD/RLS.7-10 Gozal15 performed a questionnaire study in 297 low-performance 
+children (in the lowest tenth percentile of their class in first 
+grade). Among the children with snoring and sleep-associated 
+
+Disclosure Statement 
+
+gas-exchange abnormalities, those who underwent adenotonsil-
+
+This was an industry supported study supported by Lilly. Dr. R. Bart Sangal 
+
+lectomy showed improvement in school grades compared with 
+
+has participated as the Principal Investigator in studies supported by Lilly, 
+
+those who did not. However, Gozal did not examine or quantitate 
+
+Merck, Organon, Cephalon, Takeda, and Novartis. Dr. Owens is a consultant 
+for Pfizer, Sanofi-Synthelabo, Eli Lilly, Cephalon, Johnson & Johnson, and attention deficit in these patients. 
+Sepracor; has received research support from Sanofi-Synthelabo, Eli Lilly, Gozal and Pope16 performed a questionnaire study that includand 
+Cephalon; is a member of the speakers’ bureau for Eli Lilly; and serves ed 1588 children aged 13 to 14 years. Children with low school 
+on the advisory board for Cephalon and Select Comfort. Dr. JoAnne San-performance (in the lowest 25th percentile of their class) reported 
+gal has participated as Co-Investigator in studies supported by Lilly, Merck, frequent and loud snoring more often during early childhood, as 
+Organon, Cephalon, Takeda, and Novartis. The authors were principally re-compared with high-performance children (in the highest 25th 
+sponsible for data analysis (with minimal additional analysis by Lilly) and the percentile) (12.9% vs 5.1%), and were more likely to have under-
+authors wrote the paper with minimal assistance from Lilly. gone adenotonsillectomy for snoring (odds ratio 3.4). However, 
+
+despite the surgery, they remained in the low-performance group, 
+
+Submitted for publication November 2004 
+
+suggesting that adenotonsillectomy for snoring did not improve 
+
+Accepted for publication May 2005 
+
+school performance. Attention deficit was not examined or quan-
+
+Address correspondence to: R. Bart Sangal, MD, Sleep Disorders Insti
+
+
+tified in this report, either. 
+
+tute, Beaumont Professional Medical Building 44199 Dequindre, Suite 
+
+On the other hand, Gruber and Sadeh17 studied 25 controls and 
+
+311, Troy, MI 48085; Tel: (248) 879-0707; Fax: (248) 879-2704; E-mail: 
+
+24 boys with ADHD, aged 7 to 11 years, and found an associa
+
+
+sangalrb@sbcglobal.net 
+
+SLEEP, Vol. 28, No. 9, 2005 1143 Patients with ADHD Have Normal Sleep on PSG—Sangal et al 
+
+
+tion between severity of sleep disturbance and problems in neurobehavioral 
+function for a healthy comparison group but not for 
+patients with ADHD. They suggest that, despite the similarity in 
+symptoms caused by sleep fragmentation and ADHD symptoms, 
+the 2 are different clinical conditions. 
+
+Even if we accept that OSA or PLMD can truly cause symptoms 
+similar to those of ADHD, do a large percentage of children 
+diagnosed with ADHD really have OSA or PLMD? Are OSA and 
+PLMD really significant etiologies of ADHD? If yes, then it is a 
+reasonable hypothesis that a significant portion of children with 
+ADHD should have OSA or PLMD on clinical history, PSG, or 
+both. The alternative hypothesis is that a significant portion of 
+children with ADHD do not have evidence of OSA or PLMD. If 
+this is the finding, then it is reasonable to suggest that inattention 
+or hyperactivity seen in ADHD patients is a different clinical condition 
+from inattention or hyperactivity seen in patients with OSA 
+or PLMD. 
+
+This is a report of a PSG study on 40 children with clear ADHD 
+without clinical evidence of restless legs at night, observed apneic 
+episodes, or snoring with excessive daytime sleepiness (EDS). 
+Patients with snoring without observed apneic episodes in sleep 
+or daytime sleepiness were not excluded, and only 1 patient was 
+excluded because of snoring with EDS (and none for restless legs 
+at night). 
+
+METHODS 
+
+
+This report is based on the first part of a double-blind crossover 
+study of treatment effects of atomoxetine and methylphenidate in 
+ADHD. Inclusion criteria included age 6 to 14 years; a diagnosis 
+of ADHD (inattentive, hyperactive, or combined) based on Diagnostic 
+and Statistical Manual of Mental Disorders, Fourth Edition 
+(DSM-IV) criteria,18 as well as Kiddie Schedule for Affective Disorders 
+and Schizophrenia for School Aged Children-Present and 
+Lifetime Version (K-SADS-PL); Attention-Deficit/Hyperactivity 
+Disorder Rating Scale-IV-Parent Version: Investigator Administered 
+and Scored (ADHD-RS)19,20 scores greater than 1 SD from 
+normal; full-scale Wechsler Intelligence Scale for Children, of 80 
+or higher; normal lab results, including serum chemistries, hematology, 
+and urinalysis; normal electrocardiogram; agreement by 
+subject not to use caffeinated beverages during the study; ability 
+to maintain a consistent “lights-out” time during the study of no 
+more than 30 minutes before or after the habitual bedtime (could 
+be 30 minutes later on nonschool nights than on school nights); 
+weight between 25 and 60 kg; and a score of 4 (moderate) or 
+higher on the Clinical Global Impression-Severity on a 7-point 
+scale. Exclusion criteria included treatment with any investigational 
+drug within 30 days of study entry; participation in a previous 
+atomoxetine investigational study; presence of primary sleep 
+disorders or other disorders commonly associated with secondary 
+alterations in normal sleep patterns not attributable to ADHD; 
+history of bipolar disorder or psychosis or taking antipsychotic 
+medicines within 4 weeks of study entry; a DSM-IV diagnosis of 
+major depression or Children’s Depression Rating Scale-Revised 
+score of 36 or more; at serious suicidal or homicidal risk; current 
+or past alcohol or drug abuse; pregnant or breast-feeding; any 
+history of seizure disorder (excluding febrile seizures) or of anticonvulsant 
+treatment; taking any prescription or over-the-counter 
+central nervous system-active medicines (except sympathomimetic 
+medicines used not on a daily basis or diphenhydramine 
+
+used for reason other than sedation); significant prior or current 
+medical conditions that could be exacerbated by atomoxetine; 
+any medical condition that has sympathomimetic activity; use of 
+a monoamine oxidase inhibitor within 2 weeks of starting active 
+study drug; history of glaucoma; elevated blood pressure greater 
+than 90th percentile; and no previous response to an adequate trial 
+of stimulants or desipramine. 
+
+For purposes of this study, patients were considered to have 
+a primary sleep disorder if they reported restless legs at bedtime 
+or if the parent reported that the child snored and had observed 
+apneic episodes in sleep or snored and had EDS. Patients whose 
+parents reported that the child snored but did not have EDS or 
+observed apneic episodes in sleep were not excluded. 
+
+The study was approved by an Investigational Review Board. 
+The study was conducted at 2 centers (RBS and JO). At the screening 
+visit, a parent or guardian of all patients signed an informed 
+consent. The patient signed an assent form. A detailed history and 
+physical and psychiatric examination were then conducted. Laboratory 
+assessments and an electrocardiogram were performed. KSADS-
+PL and Children’s Depression Rating Scale-Revised were 
+administered. The ADHD-RS, created by rating each of the 18 
+DSM-IV ADHD symptoms on a scale of 0 to 3, was administered 
+by the investigator at the screening visit based on information 
+from the parent, and a Clinical Global Impression-Severity was 
+determined. The subject’s usual lights-out time was established. 
+At visit 2, which occurred 5 to 12 days after the screening visit, 
+compliance with consistent lights-out time was reviewed. The 
+Wechsler Intelligence Scale for Children was administered either 
+at the screening visit (JO) or at visit 2 (RBS). This difference was 
+related to scheduling issues. 
+
+One investigator (RBS) excluded 1 subject from the protocol 
+at the screening visit because of history of snoring with EDS. No 
+other subjects were excluded because of a primary sleep disorder. 
+The investigator at center 2 (JO) did not exclude any subjects. 
+
+Visit 3 was the baseline visit occurring 5 to 12 days after 
+visit 2. The ADHD symptoms and their severity were reviewed 
+to make sure patients still met inclusion criteria. Upon completion 
+of visit 3, patients entered the double-blind treatment phase. 
+Subjects were offered participation in additional PSG studies to 
+be conducted at visit 3 (as well as at further time points along 
+the way during the double-blind treatment trials). The PSG was 
+performed on the night after the assessment of ADHD severity 
+at visit 3 and prior to randomization to double-blind treatment. 
+About half the subjects (40 out of 85 subjects completing visit 3) 
+volunteered to participate in these additional PSG studies. This 
+is a report on the first night PSG for the 40 subjects (30 from 1 
+center [RBS] and 10 from the other [JO]) who volunteered to 
+participate in the PSG studies. 
+
+Subjects who volunteered for the PSG studies did not differ 
+from those that did not in terms of sex, age, height, weight, body 
+mass index, Clinical Global Impression, ADHD-RS, ADHD subtype, 
+inattention subscore of the ADHD-RS, or hyperactivity sub-
+score of the ADHD-RS. The PSG on the first night consisted of 
+2 channels of central electroencephalogram, electrooculogram, 
+submental electromyogram, electrocardiogram, nasal pressure, 
+respiratory effort, oximetry, and leg movement recordings. Subjects 
+went to bed at their usual bedtime. At center 1 (RBS), they 
+stayed in bed until spontaneous awakening or 8:00 AM, whichever 
+was earlier. At center 2 (JO), they stayed in bed until 5:30 AM 
+because of scheduling issues. All patients had a usual bedtime 
+
+SLEEP, Vol. 28, No. 9, 2005 1144 
+Patients with ADHD Have Normal Sleep on PSG—Sangal et al 
+
+
+Table 1—Attention-Deficit/Hyperactivity Disorder Severity and Polysomnography 
+Variables 
+
+Minimum Maximum Mean SD 
+Age, y 6.3 15 10.5 2 
+ADHD-RS, score 21 54 38.8 8 
+Inattention subscore 12 27 21.7 3.5 
+Hyperactivity subscore 3 27 17.1 6.5 
+CDRS 17 35 25.9 4.8 
+Time in bed, min 364 600 530.1 54.4 
+Total sleep time, min 342 576 458.2 49.6 
+Sleep efficiency, % 65.5 98.8 91.8 6 
+Stage 1, min 3 77 23.3 18 
+Stage 2, min 144.3 348.7 236.9 47.4 
+Stage 3, min 0 56 20.7 12.9 
+Stage 4, min 0 224 114.3 43.3 
+Stage REM, min 26 148 81 31 
+Stage 1, % 0.6 16.8 5 4.1 
+Stage 2, % 28.4 66.3 48.7 7.6 
+Stage 3, % 0 12.6 4.4 2.9 
+Stage 4, % 0 44.2 23.5 8.2 
+Stage REM, % 5.9 29.8 17.8 5.9 
+Sleep latency, min 1 66.5 19.6 16.5 
+Latency to persistent 1 67.5 22.9 17.5 
+sleep, min 
+REM latency, min 65 342 179.1 61.8 
+Arousals, no. 38 376 135.7 94.6 
+Wake after sleep 2 166.5 24.6 29.6 
+onset, min 
+Central apneas/ 0 9 0.4 1.5 
+hypopneas, no./h sleep 
+Obstructive apneas/ 0 44 14.5 12.5 
+hypopneas, no./h sleep 
+Total apneas/hypopneas, 0 44 14.9 12.4 
+no./h sleep 
+RDI, no./h sleep 0 4.9 1.9 1.5 
+Obstructive RDI, no./ 0 4.9 1.8 1.5 
+h sleep 
+NREM RDI, no./h sleep 0 5.2 1.5 1.4 
+REM RDI, no./h sleep 0 13.2 3.5 3.9 
+Lowest SaO2, % 82 100 91.2 4 
+PLMAI, no./h sleep 0 5 0.5 1.1 
+
+ADHD-RS refers to the Attention-Deficit/Hyperactivity Disorder Rating 
+Scale-IV-Parent Version: Investigator Administered and Scored; 
+CDRS, Children’s Depression Rating Scale-Revised; REM, rapid eye 
+movement; RDI, respiratory disturbance index; NREM, non-rapid eye 
+movement; PLMAI, number of periodic limb movements per hour of 
+sleep, associated with an arousal. 
+
+PLMAI to define the presence of PLMD. Persistent sleep latency 
+was defined as latency to 20 continuous epochs of sleep. 
+
+Data Analysis 
+
+Data from the screening-visit ADHD assessments and the first 
+night of PSG (which included cardiorespiratory and leg movement 
+monitoring) were analyzed. Descriptive statistical analysis 
+of PSG and clinical data was performed using SPSS (SPSS, Inc., 
+Chicago, Ill). Correlation coefficients between PSG data and clinical 
+data were calculated. 
+
+RESULTS 
+
+The 40 patients (mean age 10.5, SD 2.0, range 6.3-15.0, 32 
+boys, 8 girls) had moderate to severe ADHD. Table 1 gives the 
+information on their PSG variables and the ADHD-RS and its 
+inattention and hyperactivity components. 
+
+PSG recordings were essentially normal except, possibly, the 
+latency to rapid eye movement (REM) sleep (179.1 minutes, SD 
+61.8, range 65-342) and percentage of stage REM sleep (17.8%, 
+SD 5.9%, range 5.9%-29.8%). The mean RDI was 1.9 per hour 
+of sleep (SD 1.5, range 0-4.9). After excluding central events, the 
+mean obstructive RDI was 1.8 per hour of sleep (SD 1.5, range 04.9). 
+The mean PLMAI was 0.5 per hour of sleep (SD 1.1, range 
+0-5.0). 
+
+Seventeen subjects (42.5%) had an obstructive RDI between 
+0 and 1 per hour of sleep, 7 (17.5%) between 1 and 2 per hour of 
+sleep, 7 (17.5%) between 2 and less than 3 per hour of sleep, 4 
+(10%) between 3 and 4 per hour of sleep, and 5 (12.5%) between 
+4 and 5 per hour of sleep. No patient had an RDI greater than 5 
+per hour of sleep or a PLMAI greater than 5 per hour of sleep. 
+RDI and PLMAI were not correlated with any ADHD ratings. 
+The alternative hypothesis (that a significant portion of children 
+with ADHD do not have evidence of OSA or PLMD) was found 
+to be correct. 
+
+Total time in bed was truncated by awakening the patients at 
+
+5:30 am at center 2 (JO), which would be expected to also decrease 
+total sleep time. Intercenter comparisons revealed higher 
+total time in bed (553 vs 463 minutes, P < .001) and total sleep 
+time (498 vs 447 minutes, P = .003) at center 1 (RBS), along with 
+higher ADHD-RS (40.5 vs 33.6, P = .016). Therefore, total sleep 
+time and total time in bed were not used in the correlational analysis. 
+Specifically, there were no intercenter differences in latency 
+to REM sleep or in percentage of time spent in REM sleep. The 
+correlation coefficients are shown in Table 2. The only significant 
+correlations between ADHD ratings and PSG variables on night 1 
+
+earlier than 12:00 AM. 
+
+were negative correlations for percentage of stage 1 sleep with the 
+
+We defined apneas as disturbances characterized by absence of 
+
+inattention score (r = -0.52, P = .001) and with the total ADHD-
+
+airflow for 2 breaths or more on the nasal pressure cannula signal. 
+
+RS (r = -0.38, P = .016). 
+
+Hypopneas were defined as decrease in airflow on the nasal pressure 
+cannula signal for 2 breaths or more, accompanied by either 
+
+DISCUSSION
+
+an arousal or a desaturation (or both). The respiratory disturbance 
+index (RDI) was calculated based on the total number of apneas In this sample of 40 children with ADHD, PSG results were 
+and hypopneas counted, divided by the number of hours of sleep. essentially normal except, possibly, for an increase in latency to 
+Periodic limb movements were counted when they were followed REM sleep and a decrease in percentage of stage REM. No pa-
+by an arousal, and a periodic limb movement (with arousal) index tient had an RDI greater than 5 per hour of sleep or a PLMAI 
+(PLMAI) was calculated. Our focus was on objective PSG find-greater than 5 per hour of sleep. A significant portion of children 
+ings, not on subjective diagnosis of RLS. We used cut-off points with ADHD were not found to have evidence of OSA or PLMD. 
+of greater than 5 per hour of sleep on the RDI to define the pres-Lewin and DiPinto1 editorialized that several studies demonstrate 
+ence of sleep apnea, and greater than 5 per hour of sleep on the that a large percentage of children diagnosed with ADHD have 
+
+SLEEP, Vol. 28, No. 9, 2005 1145 Patients with ADHD Have Normal Sleep on PSG—Sangal et al 
+
+
+Table 2—Correlation Coefficients Between Attention-Deficit/Hyperactivity 
+Disorder Ratings, Age, and Polysomnography Variables 
+
+ADHD-RS AD-RS HD-RS 
+ADHD-RS 1 .610*** .903*** 
+Inattention subscore .610*** 1 .209 
+Hyperactivity subscore .903*** .209 1 
+Age in yrs -.369* .014 -.463** 
+changes to wake -.132 -.332 .018 
+Arousals .154 .139 .114 
+Latency to persistent sleep .142 .142 .098 
+Sleep efficiency -.037 -.020 -.035 
+Wake after sleep onset -.040 -.046 -.024 
+Latency to sleep .229 .149 .201 
+REM latency .149 .130 .113 
+Stage 1, % -.378* -.516** -.186 
+Stage 2, % -.010 .048 -.038 
+Stage 3, % -.254 -.177 -.217 
+Stage 4, % .244 .197 .194 
+Stage REM, % .034 .033 .025 
+Obstructive RDI -.132 -.159 -.076 
+NREM RDI -.047 -.137 .017 
+REM RDI -.175 -.085 -.170 
+Lowest SaO2 .115 .169 .050 
+PLMAI .221 .005 .270 
+
+***Correlation is significant at the .001 level (2-tailed). 
+**Correlation is significant at the .01 level (2-tailed). 
+*Correlation is significant at the .05 level (2-tailed). 
+ADHD-RS refers to the Attention-Deficit/Hyperactivity Disorder Rating 
+Scale-IV-Parent Version: Investigator Administered and Scored; 
+AD-RS, the inattention component of the ADHD-RS; HD-RS, the hyperactivity-
+impulsivity component of the ADHD-RS; REM, rapid eye 
+movement; RDI, respiratory disturbance index; NREM, non-rapid eye 
+movement; PLMAI, number of periodic limb movements per hour of 
+sleep, associated with an arousal. 
+
+
+children referred for sleep-disordered breathing and found that 
+children with or without sleep-disordered breathing on PSG had 
+similar levels of hyperactivity. The hyperactivity actually showed 
+no association with rate of apneas and hypopneas or minimum 
+oxygen saturation. In the fifth paper, Chervin et al6 reported that 
+children with borderline high Conner’s Parent Rating Scale hyperactivity 
+index (> 60, which is 1 SD above age and sex norms) 
+were more likely to have habitual snoring and sleepiness. One 
+SD from mean on the Conner’s Parent Rating Scale hyperactivity 
+index does not suggest ADHD. It merely suggests mild hyperactivity. 
+
+
+An examination of the next 4 papers quoted by Lewin and 
+DiPinto,1 purportedly showing that a large percentage of children 
+diagnosed with ADHD have underlying PLMD and RLS, shows 
+mixed results. Wackermann et al7 actually report on brain electric 
+maturation in normal subjects and not on PLMD or RLS in 
+ADHD. Walters et al8 reported on 7 patients with diagnosed RLS/ 
+PLMD and ADHD. They specifically included only patients with 
+ADHD and RLS and were not attempting to show that a large percentage 
+of patients with ADHD have PLMD or RLS. Dopaminergic 
+agents improved the Total Conners Parent Rating Scale score 
+for these patients from a mean baseline of 15.1 to a posttreatment 
+score of 6.26. Although a Total Conners Parent Rating Scale of 
+
+15.1 may be higher than normal, it is not typically considered 
+suggestive of ADHD. Patients with ADHD typically have significantly 
+higher scores. Therefore, Walters et al’s patients, if they 
+had ADHD, had very mild cases. Picchietti et al9 did show that 
+27% of children with ADHD (compared with 5% of controls) had 
+a periodic limb movements index (PLMI) greater than 5 per hour 
+of sleep. Crabtree et al10 found that 8.4% of a clinic sample and 
+11.9% of a community sample of 5- to 7-year-old children had a 
+PLMI greater than 5 per hour of sleep. Of these children, 44.4% 
+were identified as having ADHD, based on parents’ reporting on 
+a questionnaire that the child had ADHD, without a medical or 
+underlying OSA syndrome or PLMD/RLS. However, examina-psychiatric diagnostic interview. Further, when they separated 
+tion of the first 5 quoted papers, purporting to show that a large out patients who had a PLMI greater than 5 per hour of sleep 
+percentage of children diagnosed with ADHD have underlying with purported ADHD and those who had a PLMI greater than 5 
+OSA syndrome, reveals that such a conclusion (that a large per-per hour of sleep without ADHD, the PLMAI were similar (1.1 
+centage of children diagnosed with ADHD have underlying OSA or 1.9/h sleep), suggesting little sleep disturbance and little evisyndrome) 
+is hard to justify for OSA. dence that the periodic limb movements were causing the ADHD. 
+
+In the first paper, Goodwin et al2 did a questionnaire study Despite this, the authors postulated that the relationship between 
+on 1494 children aged 4 to 11 years. They found that parents of ADHD and PLMD may be associated with the sleep fragmenta-
+Hispanic children reported more learning problems and frequent tion associated with (these infrequent) periodic limb movements-
+snoring than did parents of Caucasian children, as well as report-induced arousals. 
+ing more EDS and witnessed apnea. Children with learning prob-ADHD is likely a multietiologic syndrome. However, in our 
+lems were more likely to have snoring and EDS. Firstly, learning study, there was no evidence of OSA or PLMD being 1 of the 
+problems do not constitute ADHD. Secondly, the relationship be-significant etiologies in this sample of patients. Clinical screen-
+tween learning problems and snoring or EDS could be explained ing for snoring accompanied by EDS or observed apneic episodes 
+by their presence together in 1 racial group. In the second paper, successfully eliminated any patients who might have had OSA. 
+O’Brien et al,3 reporting on 77 patients “with characteristics of Patients did not have to be excluded simply for snoring. Clinical 
+ADHD” and 53 normal controls, found, on a questionnaire, more screening for restless legs at night successfully eliminated any 
+sleep disturbances in patients than in controls and, on PSG, de-patients who might have had PLMD with frequent arousals. 
+creased percentage of REM sleep. Their patients were apparently Our choices of cut-off points for defining OSA and PLMD can 
+not rigorously diagnosed for ADHD, and they did not report on be criticized. Various authors have suggested an RDI cut-off of 
+underlying OSA. In the third paper, O’Brien et al4 reported that, 1 per hour of sleep. However, Golan et al21 used a higher RDI 
+although children with mild symptoms of ADHD showed a high cut-off of 2 per hour of sleep and reported that 50% of 32 patients 
+prevalence of snoring, children with significant ADHD symptoms with ADHD had OSA, but so did 22% of normal control chilactually 
+showed no increase in OSA, and no sleep variable ac-dren. Is a criterion that labels 22% of normal children as having 
+counted for a significant proportion of the neurobehavioral dys-OSA really a useful criterion? Should one fifth of normal children 
+function. In the fourth paper, Chervin and Archbold5 studied 112 have a tonsillectomy and adenoidectomy? Goodwin et al22 show 
+
+SLEEP, Vol. 28, No. 9, 2005 1146 
+Patients with ADHD Have Normal Sleep on PSG—Sangal et al 
+
+
+that, in a community sample, a meaningful RDI in terms of higher 
+prevalence of clinical symptoms is 1 per hour of sleep with 3% 
+desaturations, but it is 5 per hour of sleep if desaturations are not 
+required. This would correspond closely with our cut-off point of 
+5 per hour of sleep when requiring either desaturations or arousals 
+(our criterion would be somewhat more liberal than Goodwin’s, 
+as it would include events with desaturations without arousals). 
+Additional support for this cut-off is found in Tang et al’s23 report 
+that, using an index derived from all obstructive apneas and 
+hypopneas regardless of desaturation, more than half (52.7%) of 
+children have an RDI greater than 1 per hour of sleep, while 3.9% 
+have an RDI greater than 5 per hour of sleep (52.5% of our sample 
+had an RDI > 1/h of sleep and 0% had an RDI >5/h of sleep using 
+similar definitions). 
+
+Periodic limb movements may not always be clinically significant, 
+and there has been a need to define a disorder associated 
+with them, PLMD.24 Although most authors have set a PLMI of 5 
+as significant, the American Academy of Sleep Medicine practice 
+parameters on the use of PSG in insomnia25 propose that a finding 
+of greater than 10 to 15 PLMAI would seem to warrant consideration 
+of treatment. Therefore, we defined significant periodic 
+limb movements as those associated with arousals for the purpose 
+of this report. The general lack of significant correlation between 
+ADHD severity ratings and PSG variables strengthens the findings 
+of Gruber et al that there is no association between measures 
+of sleep and performance on complicated neurobehavioral tasks 
+in patients with ADHD. If anything, patients with more severe 
+ADHD had a lower percentage of stage 1 sleep, which is the opposite 
+of what would be expected if sleep fragmentation is causing 
+the ADHD symptoms. 
+
+Wagner et al26 recently reported increased symptoms of ADHD 
+in adults with RLS. Our focus was on objective PSG findings, not 
+on subjective restless legs ratings, and we can neither confirm nor 
+deny any relationship between RLS and ADHD. 
+
+The only PSG findings among ADHD patients that were unusual, 
+in comparison with findings reported by Kirov et al in control 
+subjects aged 8 to 14 years,27 were longer REM latency (mean 
+REM latency 131.7 minutes, SD 40.6, for their controls; mean 
+
+179.1 minutes, SD 61.8, for our ADHD subjects) and lower percentages 
+of REM sleep (mean REM percentage 22.1%, SD 6.1%, 
+for their controls; 17.8%, SD 5.9%, for our ADHD subjects.). 
+O’Brien et al4 also reported longer REM latencies and lower percentages 
+of REM sleep in patients with ADHD compared with 
+children with mild ADHD symptoms and normal controls, as 
+did Lecendreux et al28 in patients with ADHD as well as in patients 
+with a reading disorder. On the other hand, Kirov et al27 
+reported increased absoluted duration of REM in children with 
+ADHD (along with increased time in bed), as compared with 17 
+age-matched controls, with no difference between the 2 groups 
+in REM latency or percentage of REM sleep. The significance of 
+these findings remains unknown. 
+Our findings agree with those of O’Brien et al4 that children 
+with significant symptoms of ADHD showed no increase in OSA, 
+and no sleep variable accounted for a significant proportion of 
+the neurobehavioral dysfunction. It seems to us that, although it 
+is possible (based on the literature) that OSA can cause mild inattention 
+or hyperactivity, children with a diagnosis of moderate 
+to severe ADHD are unlikely to be suffering from inattention or 
+hyperactivity as a result of OSA or PLMD. 
+
+Taken together with the findings reported by Gruber and Sa
+
+
+deh17 and O’Brien et al,4 it seems that OSA or PLMD is not a 
+common underlying disorder or etiologic factor in patients who 
+meet the diagnostic criteria for ADHD. This does not mean that 
+OSA or PLMD cannot cause symptoms similar to those seen in 
+ADHD. However, such patients seem to form a different clinical 
+entity from patients who meet the criteria for ADHD. Therefore, 
+we conclude that, in the absence of symptoms suggesting a primary 
+sleep disorder (such as snoring with observed apneic episodes 
+in sleep or daytime sleepiness or restless legs at night), PSG 
+evaluation does not seem indicated in patients with ADHD. 
+
+Limitations 
+
+
+The shortcomings of this analysis are that our sample size was 
+not large and we did plan to exclude patients with clinical suspicion 
+of primary sleep disorders from the protocol. However, 
+we excluded only 1 subject for clinical suggestion of sleep apnea 
+(snoring with EDS) and none for clinical suspicion of restless legs 
+at night. We specifically included patients who reported snoring 
+into the protocol. 
+
+A more liberal cut-off point for OSA would have shown a 
+larger prevalence of OSA in these ADHD patients. However, as 
+Golan et al21 and Tang et al23 have shown, a more liberal cut-off 
+point for OSA also raises the prevalence of OSA in normal subjects 
+so drastically that the significance of the diagnosis becomes 
+questionable. Our choice of cut-off point is borne out by the community-
+based study reported by Goodwin et al.22 
+
+REFERENCES 
+
+
+1. 
+Lewin DS, DiPinto M. Sleep disorders and ADHD: shared and 
+common phenotypes. Sleep 2004;27:188-9. 
+2. 
+Goodwin JL, Babar SI, Kaemingk KL et al. Symptoms related 
+to sleep-disordered breathing in white and Hispanic children: 
+the Tucson Children’s Assessment of Sleep Apnea Study. Chest 
+2003;124:196-203. 
+3. 
+O’Brien LM, Ivanenko A, Crabtree VM, et al. The effect of stimulants 
+on sleep characteristics in children with attention deficit/hyperactivity 
+disorder. Sleep Med 2003;4:309-16. 
+4. 
+O’Brien LM, Holbrook CR, Mervis CB, et al. Sleep and neurobehavioral 
+characteristics of 5- to 7-year-old children with parentally 
+reported symptoms of attention-deficit/hyperactivity disorder. Pediatrics 
+2003;111:554-63. 
+5. 
+Chervin RD, Archbold KH. Hyperactivity and polysomnographic 
+findings in children evaluated for sleep-disordered breathing. Sleep 
+2001;24:313-20. 
+6. 
+Chervin RD, Archbold MH, Dillon JE, et al. Inattention, 
+Hyperactivity, and Symptoms of Sleep-Disordered Breathing. 
+Pediatrics 2002;109:449-56. 
+7. 
+Wackerman J, Matousek M. From the ‘EEG age’ to a rational scale 
+of brain electric maturation. Electroencephalogr Clin Neurophysiol 
+1998;107:415-21. 
+8. 
+Walters A, Mandelbaum DE, Lewin DS, et al. Dopaminergic therapy 
+in children with restless legs/periodic limb movements in sleep and 
+ADHD. Pediatr Neurol 2000;22:182-6. 
+9. 
+Pichietti DL, England SJ, Walters AS, Willis K, Verrico T. Periodic 
+limb movement disorder and restless legs syndrome in children 
+with attention-deficit hyperactivity disorder. J Child Neurol 
+1998;13:588-94. 
+10. 
+Crabtree VM, Ivanenko A, O’Brien LM, Gozal D. Periodic limb 
+movement disorder of sleep in children. J Sleep Res 2003;12:7381. 
+11. 
+Blunden S, Lushington K, Kennedy D, Martin J, Dawson D. Behavior 
+and neurocognitive performance in children aged 5-10 years 
+SLEEP, Vol. 28, No. 9, 2005 
+1147 
+Patients with ADHD Have Normal Sleep on PSG—Sangal et al 
+
+
+who snore compared to controls. J Clinical Experimental Neuropsychology 
+2000;22:554-68. 
+
+12. 
+Pineda D, Ardila A, Rosselli M, et al. Prevalence of attention-deficit/
+hyperactivity disorder symptoms in 4- to 17-year-old children in 
+the general population. J Abnorm Child Psychol 1999;27:455-62. 
+13. 
+Dorado JS, Saywitz KJ. Interviewing preschoolers from low- and 
+middle-SES communities: a test of the narrative elaboration recall 
+improvement technique. J Clin Child Psychol 2001;30:568-80. 
+14. 
+Jefferis BJ, Power C, Hertzman C. Birth weight, childhood socioeconomic 
+environment, and cognitive development in 1958 British 
+birth cohort study. BMJ 2002;325:05. 
+15. 
+Gozal D. Sleep-disordered breathing and school performance in 
+children. Pediatrics 1998;102:616-20. 
+16. 
+Gozal D, Pope DW. Snoring during early childhood and academic 
+performance at ages thirteen to fourteen years. Pediatrics 
+2001;107:1394-9. 
+17. 
+Gruber R, Sadeh A. Sleep and Neurobehavioral functioning in boys 
+with Attention-Deficit/Hyperactivity Disorder and no reported 
+breathing problems. Sleep 2004;27:267-73. 
+18. 
+Diagnostic and Statistical Manual of Mental Disorders, 4th ed. Washington: 
+American Psychiatric Association; 1994. 
+19. 
+DuPaul GJ, Power TJ, Anastopoulos AD, Reid R. ADHD Rating 
+Scale-IV: Checklists, Norms, and Clinical Interpretations. New 
+York: Guilford Press; 1998. 
+20. 
+Faries DE, Yalcin I, Harder D, Heiligenstein JH. Validation of the 
+ADHD Rating Scale as a clinician administered and scored instrument. 
+J Attention Disord 2001;5:39-47. 
+21. 
+Golan N, Shahar E, Ravid S, Pillar G. Sleep Disorders and daytime 
+sleepiness in children with attention-deficit/hyperactive disorder. 
+Sleep 2004;27:261-6. 
+22. 
+Goodwin JL, Kaemingk KL, Fergosi RF, et al. Clinical outcomes associated 
+with sleep-disordered breathing in Caucasian and Hispanic 
+Children—the Tucson Children’s Assessment of Sleep Apnea Study 
+(TuSASA). Sleep 2003;26:587-91. 
+23. 
+Tang JPL, Rosen CL, Larkin EK, et al. Identification of sleep-disordered 
+breathing in children: variation with event definition. Sleep 
+2002;25:72-9. 
+24. 
+Hening W, Allen W, Earley C, et al. The treatment of restless legs 
+syndrome and periodic limb movement disorder. An American 
+Academy of Sleep Medicine Review. Sleep 1999;22:970-99. 
+25. 
+Reite M, Buysse D, Reynolds C, Mendelson W. The use of polysomnography 
+in the evaluation of insomnia. Sleep 1995;18:58-70. 
+26. 
+Wagner ML, Walters AS, Fisher BC. Symptoms of attention-deficit/ 
+hyperactivity disorder in adults with restless legs syndrome. Sleep 
+2004;27:1499-504. 
+27. 
+Kirov R, Kinkelbur J, Heipke S, et al. Is there a specific polysomnographic 
+sleep pattern in children with attention deficit/hyperactivity 
+disorder? J Sleep Res 2004;13:87-93. 
+28. 
+Lecendreux M, Konofal E, Bouvard M, Falissard B. Sleep and 
+alertness with children with ADHD. J Child Psychol Psychiatry 
+2000;41:803-12. 
+SLEEP, Vol. 28, No. 9, 2005 
+1148 
+Patients with ADHD Have Normal Sleep on PSG—Sangal et al 
+
+

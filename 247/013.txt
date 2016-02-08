@@ -1,0 +1,661 @@
+Left Ventricular Hypertrophy and Abnormal Ventricular 
+Geometry in Children and Adolescents with Obstructive 
+Sleep Apnea 
+
+Raouf S. Amin, Thomas R. Kimball, Judy A. Bean, Jenny L. Jeffries, J. Paul Willging, Robin T. Cotton, 
+Sandra A. Witt, Betty J. Glascock, and Steven R. Daniels 
+
+Department of Pulmonary Medicine, Allergy & Clinical Immunology; and Departments of Cardiology and Otolaryngology, 
+Children’s Hospital Medical Center, Cincinnati, Ohio 
+
+Obstructive sleep apnea (OSA) has been shown to be an independent 
+risk factor for cardiovascular disease in adults. However, there 
+are severe limitations in the extent to which the cardiovascular 
+consequences of OSA are being studied in children. To investigate 
+the echocardiographic changes in children with OSA, right and left 
+ventricular (RV, LV) dimensions and LV mass index and geometry 
+were measured in 28 children with OSA and 19 children with primary 
+snoring (PS). The study showed that LV mass index and relative 
+wall thickness were greater in the OSA group compared with 
+those with PS (p  0.012 and p &BLDlt; 0.0001, respectively). An 
+apnea–hypopnea index of more than 10 per hour was significantly 
+associated with RV dimension above the 95th percentile (odds ratios, 
+6.7; 95% confidence interval, 1.4–32) and LV mass index 
+above the 95th percentile (odds ratios, 11.2; confidence interval, 
+1.9–64). Abnormality of LV geometry was present in 15% of children 
+with PS compared with 39% of children with OSA. We conclude 
+that OSA in children is associated with increased LV mass. 
+
+Keywords: obstructive sleep apnea; children; adolescents; left ventricular 
+hypertrophy; cardiovascular morbidity 
+
+Adult patients with obstructive sleep apnea (OSA) have higher 
+morbidity and mortality due to cardiovascular disease compared 
+with the general population (1–6). Cardiac dysfunction, 
+nocturnal hypertension, and myocardial and cerebral ischemia 
+during obstructive apnea have been documented in adults (7– 
+10). Several epidemiologic studies have demonstrated that OSA 
+in adults is associated with high prevalence of sustained systemic 
+hypertension, which is an independent risk factor for cardiovascular 
+morbidity (11–13). In pediatric patients, severe OSA 
+can lead to congestive heart failure. However, neither the early 
+stages of the pathophysiologic changes that link OSA to cardiovascular 
+disease nor the long-term impact of milder degrees 
+of the disorder on the cardiovascular system are well understood. 
+The goal of this study is to evaluate cardiac structure in 
+children with OSA. We hypothesized that the intermittent increase 
+in systemic and pulmonary vascular resistance that occurs 
+with OSA leads to elevation of systemic and pulmonary 
+pressures and subsequent remodeling and hypertrophy of the 
+left and right ventricles (LV, RV). 
+
+(Received in original form May 24, 2001; accepted in final form March 13, 2002) 
+Supported by the Children’s Hospital Research Foundation. 
+
+Correspondence and requests for reprints should be addressed to Raouf S. Amin, 
+M.D., Children’s Hospital Medical Center, Division of Pulmonary Medicine, Allergy 
+& Clinical Immunology, 3333 Burnet Avenue, Cincinnati, OH 45229. E-mail: 
+aminr0@chmcc.org 
+
+Am J Respir Crit Care Med Vol 165. pp 1395–1399, 2002 
+DOI: 10.1164/rccm.2105118 
+Internet address: www.atsjournals.org 
+
+METHODS 
+
+Study Design 
+
+Pediatric patients who were referred for evaluation of obstructive 
+breathing disorder during sleep underwent a polysomnography followed 
+by echocardiography. The evaluation at the time of enrollment 
+consisted of a history and physical examination, resting blood pressure, 
+and body mass index (BMI). BMI was expressed as a percentage 
+of the 50th percentile for age and sex (14). In the history, snoring was 
+quantified as less than 1, 1–2, 3–5, or 7 nights/week (15). All subjects 
+presented with a history of snoring 7 nights/week. Polysomnography 
+results were used to subdivide subjects into those with OSA and those 
+with primary snoring (PS). Subjects classified as having PS presented 
+with a history of snoring nightly, snored during the polysomnogram, 
+and had an obstructive apnea–hypopnea index (AHI) between 0 and 
+1 per hour of sleep. Children with an obstructive AHI higher than 1 
+per hour of sleep were classified as having OSA. Informed consent 
+was obtained from the parents/legal guardian of each child, and assent 
+was obtained from children older than 11 years of age. The Institutional 
+Review Board of Children’s Hospital Medical Center in Cincinnati, 
+Ohio, approved the study. 
+
+Study Group 
+
+Patients aged 2–18 years who were referred to the pediatric Sleep Disorder 
+Clinic at Children’s Hospital Medical Center for evaluation for 
+obstructive breathing during sleep were recruited sequentially. Children 
+with genetic syndromes or congenital or acquired cardiac diseases 
+were excluded from the study. 
+
+Polysomnography 
+
+Polysomnography studies were performed overnight according to the 
+American Thoracic Society Standards (16) using computerized systems 
+(Grass; Telefactor, West Warwick, RI). The following parameters 
+were recorded during the study: (1) electroencephalogram, (2) 
+right and left electrooculogram, (3) submental and tibial electromyogram, 
+(4) electrocardiography, (5) nasal/oral airflow measured by 
+thermocouple, (6) end-tidal CO2 tension measured at the nose by infrared 
+capnometry and oxygen saturation using the Nelcor N1000 
+(Van Nuys, CA) and oximeter pulse waveform, (7) snoring microphone, 
+(8) video monitoring using an infrared video camera, (9) chest 
+and abdominal wall motion by computer-assisted respiratory inductance 
+plethysmograph (Somnostar; Noninvasive Monitoring System 
+Inc., Miami Beach, FL). The following parameters were measured. (1) 
+Sleep architecture—sleep staging was scored according to published 
+standards (17). Arousals were defined as recommended by the American 
+Sleep Disorders Association (18). (2) OSA was defined as the 
+presence of chest/abdominal wall motion in the absence or decrease 
+of airflow and/or the sum channel from the inductive plethysmography 
+by more than 80% of the preceding breath. All obstructive 
+events greater than or equal to two breaths duration were counted. 
+
+(3) Obstructive hypopnea was defined as reduction in airflow and/or 
+the sum channel from the inductive plethysmography between 20 and 
+50%, in the presence of chest/abdominal wall motion, associated with 
+oxyhemoglobin desaturation 4% or less and/or followed by arousal. 
+(4) Apnea index was defined as the number of obstructive apnea per 
+hour of sleep. (5) AHI was defined as the number of obstructive apnea 
+and obstructive hypopnea per hour of sleep. (6) Oxyhemoglobin 
+
+1396 AMERICAN JOURNAL OF RESPIRATORY AND CRITICAL CARE MEDICINE VOL 165 2002 
+
+desaturation index was defined as the number of events per hour of 
+sleep where oxygen saturation decreased by 4% or greater. (7) Peak 
+end-tidal CO2 tension during sleep was determined. 
+
+Echocardiography 
+
+Echocardiographic examinations were performed using the Sonos 
+5,500 Ultrasound Imaging System (Agilent, Andover, MA) and Vivid 5 
+(General Electric, Milwaukee, WI). Two-dimensional and two-dimensionally 
+directed M-mode echocardiographic images were recorded to 
+determine LV mass and relative wall thickness. Echocardiographic 
+measurements were made on three or more cardiac cycles according 
+to the recommendations of the American Society of Echocardiography 
+(19). All measurements were made under standardized resting 
+conditions with the subjects in the supine position after a minimum 
+rest period of 5 minutes in a quiet, darkened examination room. The 
+sonographer was blinded to the results of the polysomnography. The 
+correlation for intraobserver and interobserver has been 0.96 and 
+0.84, respectively (20). 
+
+Left Ventricular Structure 
+
+The primary measure of LV structure is the LV mass. This was calculated 
+from M-mode measurements of the LV end-diastolic dimension, 
+the thickness of the interventricular septum, and the thickness of the 
+LV posterior wall. End-diastole was defined as the onset of the QRS 
+complex. 
+
+LV mass was calculated using the equation described by Devereux 
+and colleagues (21). 
+
+LV mass (g)  0.8 (1.04[IVS  PWT  LVED]3  [LVED]3)  
+0.06, where LVED is LV end-diastolic dimension, IVS is interventricular 
+septum, and PWT is LV posterior wall. Relative wall thickness 
+was calculated by RWT  2(PWT)/(LVED), where RWT is relative 
+wall thickness, PWT is LV posterior wall, and LVED is LV end-diastolic 
+dimension. To minimize the impact of variation of body size on 
+heart size, LV mass was divided by the subject’s height raised to the 
+power of 2.7 as described by de Simone and colleagues (22) to provide 
+LV mass index. 
+
+Left Ventricular Geometry 
+
+The LV geometry was categorized as normal, concentric remodeling, eccentric 
+hypertrophy, or concentric hypertrophy on the basis of LV mass 
+and relative wall thickness as described by Ganau and colleagues (23). 
+
+Right Ventricular Structure 
+
+The RV end-diastolic dimension was calculated from the M-mode 
+echocardiographic images. RV dimension was indexed to height by 
+dividing the dimension by the subject’s height. RV dimension was also 
+indexed to body surface area by dividing the dimension by the square 
+root of the body surface area (19). 
+
+Statistical Analysis 
+
+Demographic and polysomnographic differences between OSA and 
+PS subjects were compared using Student’s t test. All results are ex
+
+
+pressed as mean  SD. All variables except age and blood pressure 
+were log-transformed to improve normality, and the log-transformed 
+values were used in the analyses. Pearson correlation was performed 
+between log-transformed echocardiographic measurements and log-
+transformed polysomnographic and demographic variables. Multiple 
+regression analysis was performed to identify demographic and polysomnographic 
+factors that might predict LV mass index, relative wall 
+thickness, and RV dimension. The following independent variables 
+were entered in a stepwise regression analysis: age, race, sex, BMI as a 
+percentage of 50th percentile for age and sex, AHI, desaturation index, 
+maximum end-tidal CO2, arousal index, and systolic and diastolic 
+blood pressure. Variables with a p value of 0.05 or less were kept in 
+the model. To control for possible effects of age, sex, and BMI on the 
+echocardiographic measurements, we forced these three variables in 
+the model generated by stepwise regression. Logistic regression analysis 
+was performed to determine the odds ratios for having RV dimension 
+or LV mass index above the 95th percentile if AHI was 
+greater than 10 per hour relative to AHI below 10 per hour while controlling 
+for age, sex, and BMI. A value of 38.6 was used as the cutoff 
+point for the 95th percentile for LV mass index (24). Published age-
+appropriate values for the 95th percentile for RV dimension were 
+used in calculating the odds ratios (19). Chi-square analysis was performed 
+to examine the differences between groups regarding presence 
+or absence of abnormal LV geometry. 
+
+RESULTS 
+
+Study Population 
+
+The total number of study participants was 47 (Table 1). 
+There was no difference between the two groups regarding 
+age, race, BMI, and systolic and diastolic blood pressure. Patients 
+with OSA were more likely than those with PS to be 
+males. 
+
+Polysomnographic Variables and Cardiac Structure 
+
+Of the subjects with OSA, 13 had an AHI of 1.1–10 per hour, 
+and 15 had an AHI greater than 10 per hour. Children with 
+OSA had a statistically significant increased LV mass index 
+and LV relative thickness compared with children with PS. 
+There was no difference in the RV dimension adjusted for height 
+or for body surface area between the two groups (Table 2). 
+
+Bivariate Correlations 
+
+LV mass index and relative wall thickness of the LV correlated 
+with measures of severity of the disorder, namely AHI 
+and desaturation index, and with lowest oxygen saturation 
+(Table 3). LV mass index correlated negatively with age, suggesting 
+a differential effect of OSA on LV mass in younger 
+compared with older children. RV dimension adjusted for 
+height correlated with AHI, maximum end-tidal CO2, and 
+with frequency of arousals from sleep (Table 3). 
+
+TABLE 1. DEMOGRAPHIC CHARACTERISTICS OF CHILDREN WITH SNORING AND CHILDREN WITH 
+OBSTRUCTIVE SLEEP APNEA 
+
+All Patients Primary Snoring OSA 
+Number 47 19 28 
+Age, years 8.8  4.2 9.5  3.6 8.4  4.6 
+Females, n, % 17 (36) 11 (58) 6 (21) 
+Black, n, % 17 (36) 6 (32) 11 (39) 
+Height, m 1.3  0.24 1.29  0.26 1.32  0.21 
+BMI, kg/m2 23.2  8.8 22.2  8.8 23.9  8.9 
+BMI as % of median 138  50 130  43 143  55 
+SBP, mm Hg 111  14 110  12 112  16 
+DBP, mm Hg 57  10 57  9 58  11 
+Subjects with SBP above the 95th percentile, n, % 111 (23%) 2 (10) 9 (32%) 
+Subjects with DBP above the 95th percentile, n, % 1 (2%) 0 1 (3.5%) 
+
+Definition of abbreviations: BMI  body mass index; BMI as % of median  body mass index expressed as percentage of the 50th percentile 
+for age and sex; DBP  diastolic blood pressure; OSA  obstructive sleep apnea; SBP  systolic blood pressure. 
+
+
+Amin, Kimball, Bean, et al.: Sleep Apnea in Children 
+
+TABLE 2. POLYSOMNOGRAPHIC VARIABLES AND CARDIAC 
+STRUCTURE OF CHILDREN WITH PRIMARY SNORING AND 
+CHILDREN WITH OBSTRUCTIVE SLEEP APNEA 
+
+Primary Snoring OSA 
+
+n 19 28 
+Polysomnographic variables 
+AHI 0.15  0.31 18.2  21.0* 
+Desaturation index 1.07  1.96 13.6  17.3* 
+Lowest O2 saturation 93.4  2.6 73.6  19* 
+Maximum ETCO2, mm Hg 49.5  3.6 55.3  9.1† 
+Arousal index 9.25  3.6 16.8  11† 
+Cardiac structure 
+Left ventricular mass index, g/ht2.7 30.1  6.5 36.8  10.8‡ 
+Relative wall thickness 0.28  0.05 0.346  0.07§ 
+RV dimension adjusted for body 
+surface area, cm/m 1.43  0.45 1.52  0.52 
+RV dimension adjusted for 
+height, cm/m 1.21  0.26 1.39  0.34 
+Number of subjects with RV 
+dimension above the 95th 
+percentile, n (%) 5 (26) 14 (50) 
+
+Definition of abbreviations: AHI  apnea–hypopnea index; ETCO2  end-tidal CO2; ht  
+height in m; OSA  obstructive sleep apnea; RV  right ventricle. 
+
+All data displayed as mean  SD unless otherwise specified. 
+
+* p Value  0.001. 
+† p  0.002–0.005. 
+‡ p  0.012. 
+§
+
+ p  0.001. 
+
+Multiple Regression Analysis 
+
+LV Parameters. Multiple regression analysis showed that 19% 
+of the variability of LV mass index (squared correlation  
+0.19) was predicted by a model that only included AHI. (p  
+0.0027). When age, sex, and BMI were forced in the model, 
+AHI remained the only significant variable (p  0.048). AHI 
+and systolic blood pressure predicted 30% of the variability of 
+relative wall thickness (p  0.0001) (squared correlation  
+0.3). When age, sex, and BMI were forced in the model, AHI 
+remained the only significant variable (p  0.0004). The addition 
+of age, sex, and BMI to either regression equation increased 
+the squared correlation by only 7%, which demonstrates 
+that most of the LV mass index and relative wall 
+thickness variability is explained by the AHI. 
+
+RV Dimension. RV dimension adjusted for height was predicted 
+by arousal index (p  0.01). The model, however, loses 
+its statistical significance when age, sex, and BMI are forced in 
+the model. 
+
+Logistic Regression 
+
+Out of 47 subjects, 20 had RV dimension above the 95th percentile, 
+12 had an LV mass index above the 95th percentile, 
+and eight had both RV and LV masses above the 95th percentile. 
+After controlling for age, sex, and BMI, subjects with 
+AHI more than 10 per hour compared with subjects with AHI 
+of less than 10 per hour had an odds ratios of 6.7 for the presence 
+of RV dimension above the 95th percentile (confidence 
+interval, 1.4–32) or of 11.2 for LV mass index above the 95th 
+percentile (confidence interval, 1.9–64). 
+
+The results of logistic regression indicate that patients with 
+OSA are more likely to have RV and LV abnormalities than 
+patients with PS. 
+
+Left Ventricular Geometry 
+
+A total of 14 subjects (29%) had abnormal geometry of the 
+
+LV. Three subjects had an AHI between 0 and 1 (PS group), 
+and 11 subjects had an AHI more than 1 (OSA group). Thirteen 
+subjects had LV hypertrophy and one subject had LV re-
+TABLE 3. PEARSON CORRELATION BETWEEN 
+ECHOCARDIOGRAPHIC MEASUREMENTS AND DEMOGRAPHIC 
+AND POLYSOMNOGRAPHIC VARIABLES 
+
+LV Mass Relative Wall 
+Index Thickness RV Dimension/HT 
+Age 0.30 (p  0.039) NS NS 
+AHI 0.41 (p  0.003) 0.49 (p  0.0004) 0.34 (p  0.02) 
+DI 0.41 (p  0.005) 0.32 (p  0.026) NS 
+Lowest saturation 0.4 (p  0.004) 0.37 (p  0.009) NS 
+AI NS 0.33 (p  0.02) 0.36 (p  0.012) 
+Max ETCO2 NS NS 0.31 (p  0.031) 
+SBP NS 0.33 (p  0.019) NS 
+
+Definition of abbreviations: AHI  apnea–hypopnea index; AI  arousal index; DI  
+desaturation index; HT  height in m; LV  left ventricle; Max. ETCO2  maximum 
+end-tidal CO2; NS  not significant; RV  right ventricle; SBP  systolic blood pressure. 
+
+
+All variables were log-transformed except for age and systolic blood pressure. 
+
+modeling. Eleven subjects had eccentric hypertrophy, and two 
+had concentric hypertrophy. There was a trend toward increased 
+prevalence of abnormal LV geometry with increased 
+severity of OSA. Three subjects (15%) in the PS group, two 
+subjects (16%) in the group with apnea index less than 10 per 
+hour, and nine subjects (60%) in the group with apnea index 
+more than 10 per hour had abnormal LV geometry. However, 
+this trend did not reach statistical significance due to the small 
+sample size. 
+
+Blood Pressure 
+
+Neither resting systolic blood pressure nor diastolic blood 
+pressure was a statistically significant predictor for LV mass 
+index or RV dimension adjusted for height in patients with 
+OSA. This suggests that the effects of OSA on the heart do 
+not operate through elevation of daytime blood pressure. There 
+was a tendency toward higher blood pressures in the OSA 
+group compared with the snoring group. Two out of 19 subjects 
+in the PS group had systolic blood pressure above the 
+95th percentile, whereas 9 out of 28 subjects in the OSA group 
+had systolic blood pressure above the 95th percentile (p  
+NS). One patient in the OSA group had diastolic blood pressure 
+above the 95th percentile. 
+
+DISCUSSION 
+
+This study has shown for the first time that OSA in children is 
+associated with cardiac remodeling and hypertrophy involving 
+both RV and LV and that the degree of LV hypertrophy is related 
+to the degree of severity of OSA. In contrast, most previous 
+studies that have examined the structural changes of the 
+heart in children with OSA have focused on the changes in the 
+dimension of the RV (25–28). The importance of this observation 
+stems from the knowledge that LV hypertrophy is an independent 
+risk factor for future cardiovascular disease (29, 30). 
+
+The relationship between LV hypertrophy and adverse cardiovascular 
+outcomes has been investigated in the context of 
+systemic hypertension. Investigators in the Framingham study 
+have demonstrated the relationship between hypertension, 
+LV hypertrophy, and the development of congestive heart 
+failure. Adults with longstanding hypertension and electrocardiographic 
+evidence of LV hypertrophy had a risk of developing 
+congestive heart failure 10 times greater than that of those 
+without hypertrophy (31). The Framingham study demonstrated 
+a significant association between LV mass and cardiovascular 
+mortality (32). Koren and colleagues have shown that 
+LV mass stratifies risk of morbidity and mortality of adult patients 
+with hypertension independently and more strongly 
+
+
+1398 AMERICAN JOURNAL OF RESPIRATORY AND CRITICAL CARE MEDICINE VOL 165 2002 
+
+than do blood pressure and other modifiable risk factors (33). 
+The association between OSA and LV hypertrophy in children 
+is therefore likely to increase their risks for cardiovascular 
+morbidity and mortality at an older age. 
+
+This study has shown that OSA in children is associated 
+with an at least 11-fold increase in the risk for LV hypertrophy. 
+The mechanism whereby OSA leads to changes in cardiac 
+structure remains to be further investigated. Hedner and 
+colleagues showed that adult normotensive patients with OSA 
+had a higher LV mass index compared with normotensive 
+control patients (34). Ventricular hypertrophy may either be 
+eccentric, which occurs primarily in response to volume overload, 
+or concentric, which occurs primarily in response to 
+pressure overload. Among the 12 patients with LV hypertrophy 
+in our study, 10 had eccentric hypertrophy, whereas 2 had 
+concentric hypertrophy. Finding a majority of patients with 
+eccentric hypertrophy among patients with OSA and abnormal 
+LV geometry suggests that, at least in the initial phase of 
+the disease, sustained pressure overload is probably not the 
+main mechanism of LV hypertrophy. 
+
+Several animal studies have examined the relationship between 
+chronic episodic hypoxia and LV mass. Studies have 
+demonstrated that exposure to chronic episodic hypoxia in a 
+rat model was associated with an increase in the ratio of LV 
+weight to total body weight compared with control subjects 
+(35). The same studies have also demonstrated that animals 
+exposed to episodic hypoxia develop persistent elevation of 
+mean arterial pressure (36). In an attempt to separate the effect 
+of hypertension on LV from the effect of hypoxia, Fletcher 
+and associates performed the same experiments on animals 
+that had chemical sympathectomy. These studies show that, 
+although mean arterial pressure was not different from baseline 
+values after a period of episodic hypoxia, the animals still 
+showed evidence of LV hypertrophy (35). These observations, 
+like those from the present study, suggest that LV hypertrophy 
+secondary to episodic hypoxia may develop independent 
+of persistent elevation of blood pressure, suggesting that more 
+than one mechanism could be implicated in the development 
+of LV hypertrophy in patients with OSA. 
+
+The role of humoral factors and cytokines in mediating myocardial 
+hypertrophy has also been examined in animal models. 
+Animal studies have shown that continuous intravenous infusion 
+of norepinephrine induces LV hypertrophy in rats even 
+when the LV afterload is maintained within a normal range. 
+LV hypertrophy seems to be mediated through a series of cytokines 
+such as interleukin 6 and interleukin 1. The use of 
+adrenergic receptor blockers prevents the release of these cytokines 
+and the development of LV hypertrophy (37). Therefore, 
+several mechanisms could contribute to LV hypertrophy in 
+patients with OSA besides persistent elevation of systemic 
+blood pressure. 
+
+Our study has arrived at a different conclusion from that of 
+Niroumand and colleagues (38), which did not detect a relationship 
+between OSA in adults and LV mass after adjusting 
+for age, sex, and BMI. A possible explanation for the difference 
+between the two studies could be due to the different 
+methods used to index LV mass to body size. Whereas we indexed 
+LV mass to height raised to power 2.7, Niroumand and 
+associates indexed LV mass to height. There has been much 
+research on determining the best method for standardizing 
+LV mass for body size so that comparisons among individuals 
+of different sizes can be made. One suggestion has been to use 
+height as a method for indexing. Although this method would 
+not allow for the effect of obesity on LV mass, de Simone and 
+colleagues have suggested that it is more appropriate to use a 
+higher power of height because it would be expected that the 
+
+relationship of mass of LV to other measures of body size would 
+reflect the geometric relationships between variables with different 
+dimensions (22). Height, which is one dimension, would 
+be a poor variable with which to standardize LV mass, which 
+is three-dimensional. Research into these allometric relationships 
+across the age range from childhood to adulthood has 
+determined that height raised to the power of 2.7 provides the 
+best method for standardizing LV mass for body size. 
+
+There are several limitations to this study. Although a larger 
+number of subjects in the OSA group had RV dimension above 
+the 95th percentile compared with the PS group and more subjects 
+with severe OSA had abnormal LV geometry compared 
+with subjects with mild OSA and the PS group, these trends 
+did not reach statistical significance. It is likely that the small 
+sample size provided limited scope to detect a significant difference 
+among these variables. It is also possible that a significant 
+difference could have been identified if a group of normal 
+children without evidence of obstructive breathing during sleep 
+had been used as the control group rather than children with 
+PS. This study did not show an association between increase in 
+LV mass, altered LV geometry, and elevation of systemic 
+blood pressure. Without 24-hour ambulatory blood pressure 
+recording, it is not possible to examine the association between 
+abnormalities in nocturnal blood pressure, increased 
+blood pressure load, and variability and end organ damage in 
+the form of LV hypertrophy. 
+
+In summary, this study demonstrates that OSA in children 
+causes structural changes involving both RV and LV, independent 
+of body weight and blood pressure elevation. These cardiac 
+changes are helpful in understanding better the effects of 
+OSA on the cardiovascular system over time. The presence of 
+LV hypertrophy may also be useful in determining a subset of 
+patients for whom more aggressive management of OSA is indicated. 
+
+
+References 
+
+1. Leung RS, Bradley TD. Sleep apnea and cardiovascular disease. Am J 
+Respir Crit Care Med 2001;164:2147–2165. 
+2. He J, Kryger MH, Zorick FJ, Conway W, Roth T. Mortality and apnea 
+index in obstructive sleep apnea: experience in 385 male patients. 
+Chest 1988;94:9–14. 
+3. Shahar E, Whitney CW, Redline S, Lee ET, Newman AB, Javier Nieto 
+F, O’Connor GT, Boland LL, Schwartz JE, Samet JM. Sleep-disordered 
+breathing and cardiovascular disease: cross-sectional results of 
+the Sleep Heart Health Study. Am J Respir Crit Care Med 2001;163: 
+19–25. 
+4. Lindberg E, Janson C, Svardsudd K, Gislason T, Hetta J, Boman G. Increased 
+mortality among sleepy snorers: a prospective population 
+based study. Thorax 1998;53:631–637. 
+5. Ancoli-Israel S, Kripke DF, Klauber MR, Fell R, Stepnowsky C, Estline 
+E, Khazeni N, Chinn A. Morbidity, mortality and sleep-disordered 
+breathing in community dwelling elderly. Sleep 1996;19:277–282. 
+6. Hung J, Whitford EG, Parsons RW, Hillman DR. Association of sleep 
+apnoea with myocardial infarction in men. Lancet 1990;336:261–264. 
+7. Nelesen RA, Yu H, Ziegler MG, Mills PJ, Clausen JL, Dimsdale JE. 
+Continuous positive airway pressure normalizes cardiac autonomic 
+and hemodynamic responses to a laboratory stressor in apneic patients. 
+Chest 2001;119:1092–1101. 
+8. Garpestad E, Katayama H, Parker JA, Ringler J, Lilly J, Yasuda T, 
+Moore RH, Strauss HW, Weiss JW. Stroke volume and cardiac output 
+decrease at termination of obstructive apneas. J Appl Physiol 1992;73: 
+1743–1748. 
+9. Balfors EM, Franklin KA. Impairment of cerebral perfusion during obstructive 
+sleep apneas. Am J Respir Crit Care Med 1994;150(6 Pt 1): 
+1587–1591. 
+10. Philip P, Guilleminault C. ST segment abnormality, angina during sleep 
+and obstructive sleep apnea. Sleep 1993;16:558–559. 
+11. Hla KM, Young TB, Bidwell T, Palta M, Skatrud JB, Dempsey J. Sleep 
+apnea and hypertension: a population-based study. Ann Intern Med 
+1994;120:382–388. 
+
+Amin, Kimball, Bean, et al.: Sleep Apnea in Children 
+
+12. Nieto FJ, Young TB, Lind BK, Shahar E, Samet JM, Redline S, D’Agostino 
+RB, Newman AB, Lebowitz MD, Pickering TG. Association of 
+sleep-disordered breathing, sleep apnea, and hypertension in a large 
+community-based study: Sleep Heart Health Study. JAMA 2000;283: 
+1829–1836. 
+13. Peppard PE, Young T, Palta M, Skatrud J. Prospective study of the association 
+between sleep-disordered breathing and hypertension. N Engl 
+J Med 2000;342:1378–1384. 
+14. Ogden CL, Kuczmarski RJ, Flegal KM, Mei Z, Guo S, Wei R, Grummer-
+Strawn LM, Curtin LR, Roche AF, Johnson CL. Centers for disease 
+control and prevention 2000 growth charts for the United States: 
+improvements to the 1977 national center for health statistics version. 
+Pediatrics 2002;109:45–60. 
+15. Gottlieb DJ, Yao Q, Redline S, Ali T, Mahowald MW. Does snoring 
+predict sleepiness independently of apnea and hypopnea frequency? 
+Am J Respir Crit Care Med 2000;162(4 Pt 1):1512–1517. 
+16. American Thoracic Society. Standards and indications for cardiopulmonary 
+sleep studies in children. Am J Respir Crit Care Med 1996;153: 
+866–878. 
+17. Rechtschaffen A, Kales A, editors. A manual of standardized terminology: 
+techniques and scoring systems for sleep stages of human subjects. 
+UCLA Brain Information Service. Los Angeles, CA: Brain Research 
+Institute; 1968. 
+18. American Sleep Disorders Association. EEG arousals: scoring rules and 
+examples: a preliminary report from the Sleep Disorders Atlas Task 
+Force of the American Sleep Disorders Association. Sleep 1992;15: 
+173–184. 
+19. Sahn DJ, DeMaria A, Kisslo J, Weyman A. Recommendations regarding 
+quantitation in M-mode echocardiography: results of a survey of 
+echocardiographic measurements. Circulation 1978;58:1072–1083. 
+20. Daniels SR, Meyer RA, Liang YC, Bove KE. Echocardiographically determined 
+left ventricular mass index in normal children, adolescents 
+and young adults. J Am Coll Cardiol 1988;12:703–708. 
+21. Devereux RB, Alonso DR, Lutas EM, Gottlieb GJ, Campo E, Sachs I, 
+Reichek N. Echocardiographic assessment of left ventricular hypertrophy: 
+comparison to necropsy findings. Am J Cardiol 1986;57:450–458. 
+22. de Simone G, Daniels SR, Devereux RB, Meyer RA, Roman MJ, de Divitiis 
+O, Alderman MH. Left ventricular mass and body size in normotensive 
+children and adults: assessment of allometric relations and impact 
+of overweight. J Am Coll Cardiol 1992;20:1251–1260. 
+23. Ganau A, Devereux RB, Roman MJ, de Simone G, Pickering TG, Saba 
+PS, Vargiu P, Simongini I, Laragh JH. Patterns of left ventricular hypertrophy 
+and geometric remodeling in essential hypertension. J Am 
+Coll Cardiol 1992;19:1550–1558. 
+24. Daniels SR, Kimball TR, Morrison JA, Khoury P, Meyer RA. Indexing 
+left ventricular mass to account for differences in body size in children 
+and adolescents without cardiovascular disease. Am J Cardiol 1995;76: 
+699–701. 
+
+25. Brouillette RT, Fernbach SK, Hunt CE. Obstructive sleep apnea in infants 
+and children. J Pediatr 1982;100:31–40. 
+26. Hunt CE, Brouillette RT. Abnormalities of breathing control and airway 
+maintenance in infants and children as a cause of cor pulmonale. 
+Pediatr Cardiol 1982;3:249–256. 
+27. Brown OE, Manning SC, Ridenour B. Cor pulmonale secondary to tonsillar 
+and adenoidal hypertrophy: management considerations. Int J 
+Pediatr Otorhinolaryngol 1988;16:131–139. 
+28. Tal A, Leiberman A, Margulis G, Sofer S. Ventricular dysfunction in 
+children with obstructive sleep apnea: radionuclide assessment. Pediatr 
+Pulmonol 1988;4:139–143. 
+29. Prineas RJ, Rautaharju PM, Grandits G, Crow R. Independent risk for 
+cardiovascular disease predicted by modified continuous score electrocardiographic 
+criteria for 6-year incidence and regression of left 
+ventricular hypertrophy among clinically disease free men: 16-year 
+follow-up for the multiple risk factor intervention trial. J Electrocardiol 
+2001;34:91–101. 
+30. Vakili BA, Okin PM, Devereux RB. Prognostic implications of left ventricular 
+hypertrophy. Am Heart J 2001;141:334–341. 
+31. Kannel WB, Castelli WP, McNamara PM, McKee PA, Feinleib M. Role 
+of blood pressure in the development of congestive heart failure: the 
+Framingham study. N Engl J Med 1972;287:781–787. 
+32. Levy D, Garrison RJ, Savage DD, Kannel WB, Castelli WP. Prognostic 
+implications of echocardiographically determined left ventricular mass 
+in the Framingham Heart Study. N Engl J Med 1990;322:1561–1566. 
+33. Koren MJ, Devereux RB, Casale PN, Savage DD, Laragh JH. Relation 
+of left ventricular mass and geometry to morbidity and mortality in 
+uncomplicated essential hypertension. Ann Intern Med 1991;114:345–352. 
+34. Hedner J, Ejnell H, Caidahl K. Left ventricular hypertrophy independent 
+of hypertension in patients with obstructive sleep apnoea. J Hypertens 
+1990;8:941–946. 
+35. Fletcher EC, Lesske J, Behm R, Miller CC III, Stauss H, Unger T. Carotid 
+chemoreceptors, systemic blood pressure, and chronic episodic 
+hypoxia mimicking sleep apnea. J Appl Physiol 1992;72:1978–1984. 
+36. Fletcher EC, Bao G. The rat as a model of chronic recurrent episodic hypoxia 
+and effect upon systemic blood pressure. Sleep 1996;19(Suppl 
+10):S210–S212. 
+37. Barth W, Deten A, Bauer M, Reinohs M, Leicht M, Zimmer HG. Differential 
+remodeling of the left and right heart after norepinephrine 
+treatment in rats: studies on cytokines and collagen. J Mol Cell Cardiol 
+2000;32:273–284. 
+38. Niroumand M, Kuperstein R, Sasson Z, Hanly PJ. Impact of obstructive 
+sleep apnea on left ventricular mass and diastolic function. Am J 
+Respir Crit Care Med 2001;163:1632–1636. 
+

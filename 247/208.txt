@@ -1,0 +1,1689 @@
+Clinical Assessment of Pediatric Obstructive Sleep Apnea 
+
+Nira A. Goldstein, Vasanthi Pugazhendhi, Sudha M. Rao, Jeremy Weedon, Thomas F. 
+Campbell, Andrew C. Goldman, J. Christopher Post and Madu Rao 
+Pediatrics 2004;114;33-43 
+DOI: 10.1542/peds.114.1.33 
+
+
+The online version of this article, along with updated information and services, is 
+located on the World Wide Web at: 
+
+
+http://www.pediatrics.org/cgi/content/full/114/1/33 
+
+
+PEDIATRICS is the official journal of the American Academy of Pediatrics. A monthly 
+publication, it has been published continuously since 1948. PEDIATRICS is owned, published, 
+and trademarked by the American Academy of Pediatrics, 141 Northwest Point Boulevard, Elk 
+Grove Village, Illinois, 60007. Copyright © 2004 by the American Academy of Pediatrics. All 
+rights reserved. Print ISSN: 0031-4005. Online ISSN: 1098-4275. 
+
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+Clinical Assessment of Pediatric Obstructive Sleep Apnea 
+
+Nira A. Goldstein, MD*; Vasanthi Pugazhendhi, MD‡; Sudha M. Rao, MD§; Jeremy Weedon, PhD; 
+Thomas F. Campbell, PhD¶; Andrew C. Goldman, MD*; J. Christopher Post, MD, PhD#; and 
+Madu Rao, MD‡ 
+
+
+ABSTRACT. Objective. To determine whether children 
+with a clinical assessment suggestive of obstructive 
+sleep apnea (OSA) but with negative polysomnography 
+(PSG) have improvement in their clinical assessment 
+score after tonsillectomy and adenoidectomy (T&A) as 
+compared with similar children who do not undergo 
+surgery. 
+
+Methods. In a prospective, randomized, investigator-
+blinded, controlled trial, 59 otherwise healthy children 
+(mean age: 6.3 years [3.0]; 31 boys, 28 girls) with a clinical 
+diagnosis of OSA (clinical assessment score >40) were 
+recruited from the pediatric otolaryngology and pediatric 
+pulmonary private offices and clinics of a tertiary care, 
+academic medical center. A standardized assessment was 
+performed on all patients, including history, physical 
+examination, voice recording, tape recording of breathing 
+during sleep, lateral neck radiograph, echocardiogram, 
+and PSG. A clinical assessment score was assigned. Children 
+with positive PSG (n . 
+27) were scheduled for T&A, 
+whereas children with negative PSG (n . 
+29) were randomized 
+to T&A (n . 
+15) or no surgery (n . 
+14). Children 
+were reassessed in an identical manner at a planned 
+6-month follow-up. 
+
+Results. Follow-up was available for 21 patients with 
+positive PSG, 11 patients with negative PSG randomized 
+to T&A, and 9 nonsurgery patients. In the randomized 
+subjects, the median reduction in clinical assessment 
+score was 49 (range: 32–61) for the T&A patients as compared 
+with 8 (range: 9 to 29) for the nonsurgery patients. 
+Nine (82%) of the T&A patients were asymptomatic 
+(clinical assessment score <20) compared with 2 
+(22%) of the nonsurgery patients. 
+
+Conclusion. Children with a positive clinical assessment 
+of OSA but negative PSG have significant improvement 
+after T&A as compared with observation alone, 
+thus validating the clinician’s role in diagnosing upper 
+airway obstruction. Pediatrics 2004;114:33–43; obstructive 
+
+From the *Division of Pediatric Otolaryngology, State University of New 
+York Downstate Medical Center, Brooklyn, New York; ‡Division of Pediatric 
+Pulmonology, State University of New York Downstate Medical Center, 
+Brooklyn, New York; §Division of Pediatric Cardiology, State University 
+of New York Downstate Medical Center, Brooklyn, New York; 
+
+Scientific Computing Center, State University of New York Downstate 
+Medical Center, Brooklyn, New York; ¶Department of Communication 
+Science and Disorders, University of Pittsburgh and the Department of 
+Audiology and Communication Disorders, Children’s Hospital of Pittsburgh, 
+Pittsburgh, Pennsylvania; and #Department of Pediatric Otolaryngology, 
+Allegheny General Hospital, Pittsburgh, Pennsylvania. 
+Received for publication May 27, 2003; accepted Oct 23, 2003. 
+Dr Pugazhendhi’s current affiliation is the Department of Pediatrics, Medical 
+College of Virginia, Richmond, Virginia. 
+Reprint requests to (N.A.G.) Department of Otolaryngology, SUNY Downstate 
+Medical Center, 450 Clarkson Ave, Box 126, Brooklyn, NY 11203. 
+E-mail: ngoldstein@downstate.edu 
+PEDIATRICS (ISSN 0031 4005). Copyright © 2004 by the American Academy 
+of Pediatrics. 
+sleep apnea, polysomnography, tonsillectomy, adenoidectomy, 
+sleep-disordered breathing, snoring. 
+
+ABBREVIATIONS. OSA, obstructive sleep apnea; PSG, polysomnography; 
+UARS, upper airway resistance syndrome; T&A, 
+tonsillectomy and adenoidectomy; BMI, body mass index; RDI, 
+respiratory disturbance index; ROC, receiver operating characteristic; 
+AI, apnea index. 
+
+O
+O
+bstructive sleep apnea (OSA) was first described 
+in children in the medical literature 
+by Guilleminault et al1 in 1975. They and 
+subsequent investigators described the clinical features 
+found in children with overnight polysomnography 
+(PSG) positive for OSA. The prevalence of 
+pediatric OSA has been estimated to be between 1% 
+and 3% in preschool and school-aged children.2 Additional 
+work in pediatric sleep disorders has shown 
+that sleep-disordered breathing is a continuum of 
+severity from partial obstruction of the upper airway, 
+producing snoring, to increased upper airway 
+resistance syndrome (UARS) to continuous episodes 
+of complete upper airway obstruction or OSA.3 Tonsillectomy 
+and adenoidectomy (T&A) is successful in 
+eliminating obstruction in 85% to 95% of otherwise 
+normal children with OSA.4,5 
+
+Although the clinical effects of OSA in children 
+have been well described, reports have documented 
+the inaccuracy of predicting which children with 
+histories and physical examinations suggestive of 
+OSA will have positive PSG. In 7 trials, the accuracy 
+of clinical evaluation of pediatric OSA in predicting 
+positive sleep studies was poor, ranging from 30% to 
+85%.5–11 On the basis of the published studies and 
+because only 20% to 30% of snoring children have 
+positive PSG, the 1996 American Thoracic Society 
+Consensus Committee recommended that PSG be 
+obtained before T&A to differentiate primary snoring 
+from OSA.12 Although the published studies suggest 
+that clinical evaluation is inaccurate in diagnosing 
+OSA in children, most of the studies used adult 
+criteria for interpretation of the sleep studies, which 
+are now recognized to be inappropriate for children. 
+In addition, none of the studies considered the diagnosis 
+of UARS in the evaluations, which requires 
+esophageal pressure monitoring and is not routine in 
+most centers. Therefore, it is likely that the number of 
+children with significant sleep-disordered breathing 
+was underestimated in these studies, as was the 
+value of clinical assessment.13 
+
+Children with a clinical assessment suggestive of 
+
+PEDIATRICS Vol. 114 No. 1 July 2004 33 
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+TABLE 1. Clinical Assessment Scores* 
+
+Clinical Feature Frequency or Severity of Symptom, Physical Finding, 
+or Result of Ancillary Study (Score) 
+Nighttime symptoms 
+Snoring Every night 4 to 6 nights per wk 1 to 3 nights per wk Never 
+6 4 2 0 
+Pauses Every night 4 to 6 nights per wk 1 to 3 nights per wk Never 
+6 4 2 0 
+Duration of pauses . 
+15 s 5 to 15 s . 
+5 s No pauses 
+6 4 2 0 
+Chest wall motion associated Every night 4 to 6 nights per wk 1 to 3 nights per wk Never 
+with pauses 6 4 2 0 
+Gasping Every night 4 to 6 nights per wk 1 to 3 nights per wk Never 
+6 4 2 0 
+Choking Every night 4 to 6 nights per wk 1 to 3 nights per wk Never 
+3 2 1 0 
+Restless sleep Every night 4 to 6 nights per wk 1 to 3 nights per wk Never 
+3 2 1 0 
+Night sweats Every night 4 to 6 nights per wk 1 to 3 nights per wk Never 
+3 2 1 0 
+Frequent awakenings Every night 4 to 6 nights per wk 1 to 3 nights per wk Never 
+3 2 1 0 
+Enuresis (for children 4y)† Every night 4 to 6 nights per wk 1 to 3 nights per wk Never 
+6 4 2 0 
+Sleeps with neck extended Every night 4 to 6 nights per wk 1 to 3 nights per wk Never 
+6 4 2 0 
+Sleeps in fetal position Every night 4 to 6 nights per wk 1 to 3 nights per wk Never 
+3 2 1 0 
+Daytime symptoms 
+Daytime sleepiness Every day 4 to 6 days per wk 1 to 3 days per wk Never 
+6 4 2 0 
+Morning headache Every day 4 to 6 days per wk 1 to 3 days per wk Never 
+3 2 1 0 
+Irritability Every day 4 to 6 days per wk 1 to 3 days per wk Never 
+3 2 1 0 
+Hyperactivity Every day 4 to 6 days per wk 1 to 3 days per wk Never 
+3 2 1 0 
+Developmental delay Gross delay‡ 1 activity 1 activity None 
+3 2 1 0 
+School/daytime performance§ Poor C/D B/C A/B 
+3 2 1 0 
+Hypertrophy of Waldeyer’s ring 
+Mouthbreathing Every day 4 to 6 days per wk 1 to 3 days per wk Never 
+6 4 2 0 
+Chronic rhinorrhea Every day 4 to 6 days per wk 1 to 3 days per wk Never 
+3 2 1 0 
+Recurrent tonsillitis. 
+6 to 10/y 4 to 5/y 2 to 3/y 0 to 1/y 
+3 2 1 0 
+
+OSA but negative PSG are a treatment dilemma. PSG 
+has been considered the “gold standard” diagnostic 
+tool to determine which children with symptoms of 
+upper airway obstruction would benefit from T&A,12 
+yet numerous previous reports have shown that 
+children’s symptoms of upper airway obstruction 
+improve after T&A regardless of whether apnea is 
+documented by PSG.5,14–18 Reports have also documented 
+improvement in children’s behavior and 
+quality of life.19–22 
+
+Our objective was to determine whether otherwise 
+healthy children with a positive clinical assessment 
+of significant upper airway obstruction but with PSG 
+negative for OSA have improvement in their clinical 
+assessment score after T&A as compared with children 
+who do not undergo surgery. If children with a 
+clinical assessment of pediatric OSA but with negative 
+PSG do not improve with observation alone, 
+then we will validate the clinician’s role in diagnosing 
+significant upper airway obstruction. 
+
+METHODS 
+
+Participants 
+
+Fifty-nine children with a clinical diagnosis of OSA were evaluated 
+prospectively by a standardized history, physical examination, 
+voice recording, review of a tape recording of breathing 
+during sleep, lateral neck radiograph to assess adenoid size, and 
+echocardiogram to evaluate for pulmonary hypertension. A clinical 
+assessment score was assigned to each child. PSG was then 
+used as the gold reference standard to determine the presence or 
+absence of sleep apnea. Children with a positive PSG (PSG) 
+underwent T&A. Children with a negative PSG were randomized 
+to undergo T&A (PSG. 
+T&A) or no surgery (PSG. 
+nonsurgery). 
+It was planned that children would be reassessed in an identical 
+manner 6 months later. 
+
+Children who were between 2 and 14 years of age and were 
+suspected of having sleep-disordered breathing were recruited 
+from the pediatric otolaryngology private office and clinic at the 
+University Hospital of Brooklyn, SUNY Downstate Medical Center, 
+and the otolaryngology and pediatric pulmonary clinics at the 
+Kings County Hospital Center in Brooklyn, NY, from March 1999 
+through May 2001. Children were referred to the specialty offices 
+by their primary care physicians for evaluation of snoring and 
+nighttime breathing difficulties. All children were evaluated by 
+the principal investigator and were required to have a clinical 
+
+34 CLINICAL ASSESSMENT OF PEDIATRIC OSA 
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+TABLE 1. Continued* 
+
+Clinical Feature Frequency or Severity of Symptom, Physical Finding, 
+or Result of Ancillary Study (Score) 
+Physical Examination 
+Height¶ 5th percentile 5th and 10th percentile 
+6 4 
+10th percentile 
+0 
+Body mass index¶ 5th or 95th percentile 
+6 
+5th and 10th or 90th 
+and 95th percentile 
+4 
+10th or 90th percentile 
+0 
+Blood pressure¶,# 95th percentile 
+6 
+90th and 95th percentile 
+4 
+90th percentile 
+0 
+Mouthbreathing Present 
+4 
+Absent 
+0 
+Hyponasal voice Present 
+4 
+Absent 
+0 
+Adenoid facies Severe Mild Absent 
+6 4 0 
+Tonsil size** 4. 
+3. 
+2. 
+0–1. 
+6 4 2 0 
+Ability to fog mirror 
+with nasal breathing 
+Sleep tape 
+None 
+6 
+Severe apnea (snoring, 
+struggling sound, 
+. 
+10 s pauses) 
+12 
+Poor 
+4 
+Moderate apnea (snoring, 
+5 to 10 s pauses or 
+struggling sound) 
+6 
+Fair 
+2 
+No apnea (snoring, 
+no pauses or 
+struggling sound) 
+0 
+Well 
+0 
+Lateral neck radiograph Severe adenoid 
+hypertrophy 
+6 
+Moderate adenoid 
+hypertrophy 
+4 
+Mild adenoid 
+hypertrophy 
+2 
+Normal adenoid 
+pad 
+0 
+Echocardiogram Pulmonary 
+hypertension 
+12 
+No pulmonary 
+hypertension 
+0 
+
+* Total score, sum of all the items; score 20, asymptomatic; score A, sum of items for nighttime symptoms, daytime symptoms, 
+hypertrophy of Waldeyer’s ring, sleep tape, echocardiogram; score B, sum of items for physical examination and lateral neck radiograph. 
+† Item scored as 2 for children . 
+4 years of age. 
+‡ Gross delay: motor, speech, cognitive. 
+§ Item scored as poor (left back or failed 1 subject), below average (C/D), average (B/C), above average (A/B). 
+. 
+Item scored as episodes/year. 
+¶ Items scored as percentiles for age and gender. 
+# Systolic and diastolic were measured; the higher percentile was scored. 
+** Item scored for the larger of the tonsils. 
+assessment score 40 to be included in the study (Table 1). Children 
+with recognized craniofacial syndromes, neuromuscular disorders, 
+or known cranial nerve palsies were excluded. The protocol 
+was approved by the SUNY Downstate Medical Center 
+Institutional Review Board, informed consent was obtained from 
+the parents, and a consecutive sample was recruited. 
+
+Interventions 
+
+A standardized history and physical examination were performed. 
+The history evaluated the frequency (every night, 4 –6 
+nights per week, 1–3 nights per week, never) of symptoms of 
+nighttime upper airway obstruction, daytime effects, and symptoms 
+associated with hypertrophy of Waldeyer’s ring (Table 1). 
+The duration of apneic pauses was recorded as 15 seconds, 5 to 
+15 seconds, 5 seconds, and none. School/daytime performance 
+was recorded as poor (left back or failed 1 subject), below average 
+(C/D), average (B/C), and above average (A/B). Recurrent tonsillitis 
+was recorded as 6 to 10 episodes per year, 4 to 5 episodes 
+per year, 2 to 3 episodes per year, and 0 to 1 episode per year. An 
+episode of tonsillitis required a physician visit and treatment with 
+an antibiotic. 
+
+The physical examination included the patient’s height, weight, 
+blood pressure, presence or absence of mouthbreathing and hyponasality, 
+degree of adenoid facies (open mouth, long face, mandibular 
+hypoplasia scored as severe, mild, absent), tonsil size, and 
+the ability to fog a mirror with nasal breathing (none, poor, fair, 
+well). Body mass index (BMI) was calculated by dividing the 
+child’s weight in kilograms by the square of the height in meters. 
+Hyponasality was scored as present or absent by review of a 2-to 
+5-minute audiotape recording of patient conversation by a speech 
+pathologist who was blinded to patient group. Tonsil size was 
+graded as the reduction in pharyngeal luminal diameter: 1,0% 
+to 25%; 2, 26% to 50%; 3, 51% to 75%; and 4, 76% to 100% as 
+described by Brodsky.23 
+
+An audiotape recording of the child’s breathing while asleep 
+(sleep tape) was performed during the PSG by the technician, who 
+was instructed to record the child’s breathing at its worst. At least 
+20 minutes of the tape was evaluated by the principal investigator 
+and scored as no apnea, snoring without apneic pauses (pauses in 
+breathing of at least 5 seconds) or a struggling sound; moderate 
+apnea, snoring with 5-to 10-second apneic pauses or a struggling 
+sound; or severe apnea, snoring with 10-second apneic pauses 
+and a struggling sound. 
+
+The lateral neck radiographs and echocardiograms were obtained 
+by standard techniques. The lateral neck radiograph was 
+graded according to the degree of adenoid hypertrophy: normal 
+adenoid pad, mild adenoid hypertrophy, moderate adenoid hypertrophy, 
+and severe adenoid hypertrophy. The presence or absence 
+of pulmonary hypertension was assessed on the echocardiogram 
+by estimating the pulmonary artery systolic pressure from 
+the tricuspid regurgitation jet using the Bernoulli equation. The 
+pulmonary artery systolic pressure was considered abnormal 
+when it was 30 mm Hg.24 The lateral neck radiographs and 
+echocardiograms were interpreted by clinicians who were blinded 
+to patient group. 
+
+Clinical Assessment Score 
+
+Each child was assigned a clinical assessment score (Table 1). 
+Symptoms highly suggestive of OSA (pauses, gasping, sleeping 
+with neck extended, daytime sleepiness) contributed more than 
+those that were nonspecific (morning headache, poor school performance, 
+rhinorrhea). The more frequent the symptom, the 
+higher the score. Enuresis was scored only for children aged 4 and 
+above. A score of 2 was given to all children younger than 4. 
+Similarly, height, BMI, and blood pressure were compared with 
+standard percentiles for age and gender, and those at the extremes 
+contributed more than those closer to the norm.25,26 The more 
+severe the adenotonsillar hypertrophy seen on physical examina-
+
+ARTICLES 35 
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+tion or demonstrated by the lateral neck radiograph, the higher 
+the score. A high sleep tape score or an echocardiogram demonstrating 
+pulmonary hypertension contributed heavily to the clinical 
+assessment score. In addition to the overall score, each child 
+received a separate score for symptoms, sleep tape, and echocardiogram 
+(score A; Table 1) and physical examination and lateral 
+neck radiograph (score B; Table 1). Surgical removal of the tonsils 
+and adenoids automatically lowered score B in the surgical patients, 
+whereas improvement in score A reflected only clinical 
+improvement. 
+
+Although the clinical assessment score has not been previously 
+validated against PSG, the overall score was developed from the 
+clinical assessment used in the first author’s previous prospective 
+study of the clinical assessment of pediatric OSA.7 Clinical features 
+were weighted more or less heavily depending on the factor’s 
+association with OSA according to the statistical analysis 
+performed during the previous data review. The current score also 
+included an assessment of hyponasality as a measure of adenotonsillar 
+hypertrophy27 and an objective measurement of adenoid 
+size from the lateral neck film. The highest possible score was 164. 
+Children with a score 40 were considered to have OSA, children 
+with a score 20 but 40 were considered to have moderate 
+symptoms of upper airway obstruction but not apnea, and children 
+with a score 20 were considered to be asymptomatic. These 
+subdivisions were based on the collective opinion of 2 pediatric 
+otolaryngologists (Dr Goldstein and Dr Post) and a pediatric 
+pulmonologist as well as review of the published studies. 
+
+Interobserver Reliability 
+
+Clinical assessments were performed by the principal investigator 
+for every child. Additional assessments were performed by 
+1 or 2 independent examiners, a pediatric pulmonary fellow, and 
+an otolaryngology resident for 25 patients. The additional assessments 
+were limited to the 25 items scored by the examining 
+physician and not independent evaluators (hyponasality, sleep 
+tape, lateral neck radiograph, echocardiogram) or the nursing staff 
+(height, weight, blood pressure). The initial assessments were 
+performed before the PSG. The follow-up assessments were performed 
+by the investigators who were blinded to whether the 
+child had had surgery. Evaluation of tonsil size was performed as 
+the last part of the physical examination after the remainder of the 
+clinical assessment had been recorded. For determining interrater 
+reliability for coding the presence or absence of hyponasality, 20 
+conversational samples were randomly selected and rated by a 
+second examiner, who was blinded to the treatment status of the 
+child. Subject-to-subject agreement for the presence or absence of 
+hyponasality between the 2 raters was .90 (18 of 20). 
+
+PSG 
+
+PSG was performed at the SUNY Downstate Pediatric Pulmonary 
+Function, Exercise, and Sleep Physiology Laboratories and 
+consisted of respiratory rate, pulse rate, pulse oximetry, inductive 
+plethysmography of the chest and abdomen and the mathematical 
+sum of the 2 for respiratory effort, and oronasal airflow from a 
+loose mask or oral and nasal thermistors. Obstructive apnea was 
+defined as the cessation of oronasal airflow with continued respiratory 
+effort for at least 2.5 times the typical breath interval, and 
+obstructive hypopnea was defined as a decrease in amplitude of 
+oronasal airflow of at least 50% with no decrease in respiratory 
+effort for the same duration. PSG was considered positive for OSA 
+when the number of obstructive apneas plus hypopneas per hour 
+of sleep (respiratory disturbance index [RDI]) was at least 5 or at 
+least 10% of the night was spent with oxygen saturation 90%. 
+The 6-month follow-up PSG was analyzed by a pulmonologist 
+who was blinded to whether the patient had had surgery. 
+
+Randomization 
+
+Randomization was performed by using a computerized list 
+generated by the biostatistician in blocks of 2 to ensure equal size 
+treatment groups. T&A was performed at the University Hospital 
+of Brooklyn or the Kings County Hospital Center by a pediatric 
+otolaryngologist who was not 1 of the investigators. 
+
+Sample Size Estimation 
+
+Because clinical assessment of OSA has been shown to have a 
+positive predictive value of 50%,7 we predicted that half of the 
+
+36 CLINICAL ASSESSMENT OF PEDIATRIC OSA 
+
+patients enrolled would have positive PSG. Because T&A relieves 
+symptoms of upper airway obstruction, we expected that 10% of 
+the PSG. 
+T&A children would remain symptomatic at the 
+6-month follow-up (overall clinical assessment score 20) and that 
+90% would be asymptomatic (overall clinical assessment score 
+
+20). We estimated that 80% of children who had negative PSG 
+and did not undergo surgery would remain symptomatic at the 
+6-month follow-up and that 20% would be asymptomatic. Assuming 
+. 
+of .05 and power of .9, we estimated that we would need a 
+total of 22 children with negative PSG to find a significant difference 
+between the patients who had negative PSG and underwent 
+T&A and those who did not. Of the 22 with negative PSG, 11 
+would be randomized to the surgery group and 11 to the no 
+surgery group. Therefore, we needed a total of 44 patients for 22 
+to have negative PSG. Assuming that 10 (23%) patients would 
+drop out, a total of 54 children were initially recruited. When the 
+dropout rate after the recruitment of the initial 54 children was 
+31%, an additional 5 patients were recruited to help achieve an 
+adequate sample size. 
+Statistical Methods 
+
+The initial clinical assessment scores and change in clinical 
+assessment scores were compared between the PSG. 
+T&A and 
+PSG. 
+nonsurgery groups using the Wilcoxon rank sum test; the 
+initial and final PSG parameters between the PSG. 
+T&A and 
+PSG. 
+nonsurgery groups were also compared using the Wilcoxon 
+test. The proportion of patients with final clinical assessment score 
+20 and 40 in the PSG. 
+T&A and PSG. 
+nonsurgery groups 
+were compared using Fisher exact test. Comparisons of age and 
+length of follow-up between the PSG. 
+T&A and PSG. 
+nonsurgery 
+groups were performed using the Wilcoxon test; comparison 
+of the gender and race distributions were compared using Fisher 
+exact test. Interrater agreement for the clinical assessment score 
+was measured by intraclass correlations using 2-way random 
+effects models. A mixed linear model was used to test for differences 
+among observers in mean clinical assessment scores. The 
+positive predictive value of the total clinical assessment score in 
+predicting a positive PSG was calculated. The sensitivity, specificity, 
+and positive and negative predictive values of the sleep tape 
+score in predicting a positive PSG were calculated, and Fisher 
+exact test was used to determine their significance. A subset of 
+items from the clinical assessment score (snoring, pauses, gasping, 
+neck extension, daytime sleepiness, adenoid facies, sleep tape) 
+were analyzed by logistic regression to determine the utility of the 
+items in predicting a positive PSG. The area under the receiver 
+operating characteristic (ROC) curve was used as a measure of 
+predictive utility for logistic regression analysis. P . 
+.05 was 
+considered statistically significant. SAS (SAS Institute, Cary, NC) 
+software was used for data analysis. 
+
+RESULTS 
+
+The flow of participants through the study protocol 
+is presented in Fig 1. Of the 59 children who 
+entered the study, 3 would not sleep in the laboratory, 
+so a PSG could not be obtained. Of the 56 
+children who underwent PSG, 27 (48%) had positive 
+PSG and 29 (52%) had negative PSG. Of the 29 children 
+with negative PSG, 15 were randomized to T&A 
+and 14 were randomized to no surgery. The parents 
+of 3 children in the PSG. 
+group and the parents of 2 
+children in the PSG. 
+T&A group refused surgery. A 
+high rate of attrition occurred during the study period 
+as 13 (23%) of 56 were lost to follow-up before 
+the final study visit. Of the 13, 8 had moved and were 
+unable to be contacted, and 5 refused to bring the 
+child back usually stating time constraints. One child 
+in the PSG. 
+group was excluded because his parents 
+refused T&A, although he did have follow-up. One 
+child in the PSG. 
+nonsurgery group had an adenoidectomy 
+alone because of parental concern and 
+was withdrawn from the study. 
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+Fig 1. The clinical assessment of pediatric OSA: study profile, 1999 –2001. 
+TABLE 2. Patient Demographics 
+
+Characteristic Initial Study Population With PSG Patients Who Completed Protocol 
+(n . 
+56) (n . 
+41) 
+
+PSG. 
+PSG. 
+T&A PSG. 
+Nonsurgery PSG. 
+PSG. 
+T&A PSG. 
+Nonsurgery 
+(n . 
+27) (n . 
+15) (n . 
+14) (n . 
+21) (n . 
+11) (n . 
+9) 
+
+Age (y; mean [SD]) 7.0 (3.6) 5.9 (1.8) 5.8 (2.6) 7.0 (3.6) 6.3 (1.8) 5.8 (2.6) 
+
+Gender (n [%]) 
+Male 14 (52) 5 (33) 9 (64) 10 (48) 4 (36) 4 (44) 
+Female 13 (48) 10 (67) 5 (36) 11 (52) 7 (64) 5 (56) 
+
+Race (n [%]) 
+Black 21 (78) 12 (80) 10 (71) 17 (81) 10 (91) 7 (78) 
+Hispanic 6 (22) 2 (13) 2 (14) 4 (19) 0 1 (11) 
+Asian 0 1(7) 1(7) 0 1(9) 0 
+White 0 0 1(7) 0 0 1(11) 
+
+Patient demographics are presented in Table 2. 
+The mean age of the children who completed the 
+protocol was between 5.8 (2.6) and 7.0 (3.6) years, 
+depending on patient group. There were almost 
+equal numbers of boys and girls in the study population, 
+although more girls with negative PSG were 
+randomized to surgery and more boys with negative 
+PSG were randomized to no surgery. The patient 
+population was predominantly black, which reflects 
+the racial composition of central Brooklyn. Mean 
+follow-up after initial evaluation and after T&A is 
+presented in Table 3. There was no significant difference 
+in age, gender distribution, racial distribution, 
+and length of follow-up after initial evaluation 
+between the PSG. 
+T&A and PSG. 
+nonsurgery 
+groups. 
+
+PSG results for the 41 children who completed the 
+protocol and were included in the analysis are presented 
+in Table 3. The median initial RDI was 8.8 
+(range: 5.0 –79.7) in the PSG. 
+children, 1.5 (range: 
+0–4.7) in the PSG. 
+T&A children, and 1.3 (range: 
+0–2.6) in the PSG. 
+nonsurgery children. There was 
+no significant difference between the PSG. 
+T&A 
+children and the PSG. 
+nonsurgery children in me
+
+
+dian RDI, median apnea index (AI), and median 
+percentage of the night spent with oxygen saturation 
+
+90% for the initial and final sleep studies. Of the 
+PSG. 
+children, 2 (10%) had positive follow-up PSG. 
+One child is undergoing treatment with nasal bilevel 
+positive airway pressure and the other has been lost 
+to follow-up. The child who had an initial positive 
+PSG and whose parents refused T&A but returned 
+for follow-up evaluation had a normal study at follow-
+up. As expected, no child in the PSG. 
+T&A 
+group had a positive PSG at follow-up, although 1 
+(11%) child in the PSG. 
+nonsurgery group did have 
+a positive study. T&A has been recommended. 
+The intraclass correlations between the principal 
+investigator and the 2 independent examiners for the 
+clinical assessment score were .80 and .65. The mean 
+total score for the principal investigator (50.7 [12.2], 
+n . 
+60) and the independent examiners (51.9 [15.1], 
+n . 
+26 and 49.0 [12.8], n . 
+29) did not differ significantly 
+(P . 
+.194). An additional child who underwent 
+a clinical assessment but was not entered into 
+the study because his clinical assessment score was 
+
+40 was included in these analyses. 
+The initial and change total clinical assessment 
+ARTICLES 37 
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+TABLE 3. Polysomnography Results for Children Who Completed the Protocol (n . 
+41) 
+PSG Parameters Initial Final 
+PSG. 
+PSG. 
+T&A PSG. 
+Nonsurgery 
+PSG. 
+PSG. 
+T&A PSG. 
+Nonsurgery 
+n 
+Follow-up between PSG (mo; mean [SD]) 
+Follow-up after T&A (mo; mean [SD]) 
+RDI 
+Median 
+Range 
+P value* 
+AI 
+Median 
+Range 
+P value* 
+% of night with oxygen saturation 90% 
+Median 
+Range 
+P value* 
+Positive studies (n [%]) 
+21 
+8.8 
+5.0–79.7 
+6.2 
+3.4–77.0 
+0.4 
+0–41.7 
+21 (100) 
+11 
+1.5 
+0–4.7 
+.31 
+0.5 
+0–3.6 
+.97 
+0 
+0–5.6 
+.59 
+0 
+9 
+1.3 
+0–2.6 
+0.6 
+0–2.0 
+0 
+0–0.7 
+0 
+21 
+11.3 (4.9) 
+7.9 (3.4) 
+1.8 
+0–15.9 
+0.9 
+0–9.4 
+0.4 
+0–75.6 
+2 (10) 
+11 
+8.3 (4.6) 
+5.4 (4.3) 
+0.6 
+0–4.2 
+.50 
+0.4 
+0–3.1 
+1.00 
+0 
+0–0.5 
+.20 
+0 
+9 
+8.8 (2.5) 
+NA 
+1.2 
+0–13.0 
+0 
+0–8.4 
+0 
+0–0.5 
+1 (11) 
+* Wilcoxon rank-sum test of difference between PSG. 
+T&A and PSG. 
+nonsurgery groups. 
+TABLE 4. Initial and Change Clinical Assessment Scores 
+Initial Score Change Score (Initial-Final) 
+PSG* PSG. 
+T&A PSG. 
+Nonsurgery 
+PSG. 
+PSG. 
+T&A PSG. 
+Nonsurgery 
+n 
+Total score 
+Median 
+Range 
+P value* 
+Score A 
+Median 
+Range 
+P value* 
+Score B 
+Median 
+Range 
+P value* 
+21 
+77 
+49–114 
+51 
+36–82 
+24 
+8–38 
+11 
+64 
+42–77 
+.034 
+42 
+31–59 
+.154 
+20 
+10–30 
+.074 
+9 
+50 
+40–64 
+40 
+26–44 
+14 
+6–24 
+21 
+59 
+26–106 
+36 
+18–78 
+14 
+4–30 
+11 
+49 
+32–61 
+.001 
+31 
+21–53 
+.002 
+16 
+4–24 
+.007 
+9 
+8 
+9–29 
+8 
+9–22 
+2 
+2–8 
+
+* Wilcoxon rank-sum test of difference between PSG. 
+T&A and PSG. 
+nonsurgery groups. 
+score, score A and score B, are presented in Table 4 
+for the 41 children who were included in the final 
+analysis. The median initial total score was 77 with a 
+range of 49 to 114 for the PSG. 
+group. The median 
+initial total score was 64 with a range of 42 to 77 for 
+the PSG. 
+T&A group and 50 with a range of 40 to 64 
+for the PSG. 
+nonsurgery group. Although there was 
+no significant difference in the initial score A between 
+the PSG. 
+T&A and PSG. 
+nonsurgery 
+groups, the initial total score was significantly lower 
+in the PSG. 
+nonsurgery group (P . 
+.034) and the 
+difference in score B approached significance (P . 
+.074). The median total change score (initial total 
+score minus final total score) was 59 with a range of 
+26 to 106 for the PSG. 
+children. The total change 
+score was 49 with a range of 32 to 61 for the PSG. 
+
+
+T&A children and 8 with a range of 9 to 29 for the 
+PSG. 
+nonsurgery children. The total change score, 
+score A change score, and score B change score all 
+were significantly higher in the PSG. 
+T&A than the 
+PSG. 
+nonsurgery children (P . 
+.001, .002, and .007, 
+respectively). 
+
+Initially, no child in any of the groups had a total 
+clinical assessment score 20 or 40 (Table 5). The 
+final score was 20 for 14 (67%) children in the 
+PSG. 
+group, 9 (82%) children in the PSG. 
+T&A 
+group, and 2 (22%) children in the PSG. 
+nonsurgery 
+group. The final score was 40 for 19 (90%) children 
+in the PSG. 
+group, 11 (100%) children in the PSG. 
+T&A, and 5 (56%) children in the PSG. 
+nonsurgery 
+group. The number of children with final scores 20 
+and 40 were significantly lower for the PSG. 
+T&A 
+
+TABLE 5. Initial and Final Clinical Assessment Scores 20 and 40 
+Initial Score Final Score 
+PSG. 
+PSG. 
+T&A PSG. 
+Nonsurgery 
+PSG. 
+PSG. 
+T&A PSG. 
+Nonsurgery 
+No. of Patients with a score 20, % 
+No. of Patients with a score 40, % 
+0/21 (0) 
+0/21 (0) 
+0/11 (0) 
+0/11 (0) 
+0/9 (0) 
+0/9 (0) 
+14/21 (67) 
+19/21 (90) 
+9/11 (82)* 
+11/11 (100)† 
+2/9 (22)* 
+5/9 (56)† 
+
+Fisher exact test of difference between PSG. 
+T&A and PSG. 
+nonsurgery groups: * P . 
+.022, † P . 
+.026. 
+38 CLINICAL ASSESSMENT OF PEDIATRIC OSA 
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+group than for the PSG. 
+nonsurgery group (P . 
+.022 
+and P . 
+.026, respectively). The final scores for the 2 
+PSG. 
+children who still had positive studies at follow-
+up were 45 and 23, and the final score for the 
+PSG. 
+nonsurgery patient who had a positive PSG at 
+follow-up was 71. An intent-to-treat analysis was not 
+performed because all but 1 of the children who did 
+not receive their assigned treatment allocation were 
+lost to follow-up. 
+
+Initial and final mean and median scores for all of 
+the individual items of the clinical assessment score 
+are presented in Table 6. On initial evaluation, BMI 
+
+95th percentile was found in 14 (34%) children: 9 in 
+the PSG. 
+group, 3 in the PSG. 
+T&A group, and 2 in 
+the PSG. 
+nonsurgery group. At follow-up evaluation, 
+BMI 95th percentile was found in 17 (41%) 
+children: 11 in the PSG. 
+group, 4 in the PSG. 
+T&A 
+group, and 2 in the PSG. 
+nonsurgery group. The 
+BMI of all 3 children with positive PSG at final evaluation 
+was 95th percentile. BMI was 5th percentile 
+for only 2 (5%) children at both initial and final 
+evaluations: 1 in the PSG. 
+T&A group and 1 in the 
+PSG. 
+nonsurgery group. 
+Systemic hypertension was found in a total of 8 
+(20%) children initially: 6 in the PSG. 
+group, 1 in the 
+PSG. 
+T&A group, and 1 in the PSG. 
+nonsurgery 
+group. It was 95th percentile in 4 children and 
+between the 90th and 95th percentile in 4 children. 
+
+Three of these children also had a BMI 95th percentile. 
+The hypertension had resolved by follow-up 
+evaluation in all children, but 3 (7%) additional children 
+(all in the initial PSG. 
+group) developed systemic 
+hypertension. It was 95th percentile in 1 patient 
+and between the 90th and 95th in the other 2 
+children. All 3 children had negative PSG at final 
+evaluation, although 2 had a BMI 95th percentile. 
+
+Only 1 child had an echocardiogram suggestive of 
+pulmonary hypertension. The child, in the PSG. 
+group, had a peak velocity of tricuspid regurgitation 
+jet of 24 to 36 mm Hg, estimating right ventricular 
+pressures of 29 to 41 mm Hg on his initial echocardiogram. 
+The estimated pressure gradient was 19.4 
+mm Hg, estimating normal right ventricular pressures 
+on his follow-up echocardiogram, and his follow-
+up sleep study was normal. 
+
+The positive predictive value of the initial total 
+clinical assessment score for predicting a positive 
+PSG was 48% (27 of 56). Of the 27 children with 
+positive PSG at their initial evaluation, 10 had sleep 
+tapes scored as severe apnea, 13 had sleep tapes 
+scored as moderate apnea, 3 had sleep tapes negative 
+for apnea, and 1 did not have a sleep tape. Of the 15 
+children in the PSG. 
+T&A group, initial sleep tapes 
+were scored as severe apnea in 2 children, moderate 
+apnea in 7 children, and negative for apnea in 6 
+children. Of the 14 children in the PSG. 
+nonsurgery 
+
+TABLE 6. Initial and Final Item Scores of the Clinical Assessment Score 
+
+Clinical Feature Initial Score (Mean [SD], Median) Final Score (Mean [SD], Median) 
+
+PSG. 
+PSG. 
+T&A PSG. 
+PSG. 
+PSG. 
+T&A PSG. 
+Nonsurgery Nonsurgery 
+
+n 21 119 21119 
+Snoring 6.0 (0), 6 5.3 (1.3), 6 4.9 (1.8), 6 1.0 (1.6), 0 0.18 (0.60), 0 2.9 (2.3), 2 
+Pauses 4.8 (1.9), 6 3.1 (1.6), 2 2.7 (1.4), 2 0.10 (0.44), 0 0 (0), 0 1.1 (1.8), 0 
+Duration of pauses 2.4 (1.2), 2 2.2 (0.60), 2 2.0 (0), 2 0.10 (0.44), 0 0 (0), 0 0.67 (1.0), 0 
+Chest wall motion 3.0 (2.7), 2 1.6 (2.0), 2 1.1 (1.1), 2 0.10 (0.44), 0 0 (0), 0 0.89 (1.1), 0 
+Gasping 3.2 (2.5), 2 1.5 (1.3), 2 1.3 (1.4), 2 0 (0), 0 0 (0), 0 1.3 (2.0), 0 
+Choking 1.5 (1.2), 1 0.64 (0.50), 1 0.33 (0.50), 0 0.05 (0.22), 0 0 (0), 0 0.56 (1.0), 0 
+Restless sleep 2.8 (0.77), 3 2.2 (1.2), 3 2.6 (0.88), 3 1.1 (1.3), 0 1.0 (1.3), 0 1.7 (1.3), 1 
+Night sweats 1.5 (1.4), 1 1.7 (1.3), 2 1.3 (1.3), 1 0.57 (0.93), 0 0.36 (0.50), 0 1.6 (1.1), 1 
+Frequent awakenings 1.3 (1.2), 1 1.5 (1.1), 1 1.2 (1.2), 1 0.71 (0.78), 1 0.64 (0.92), 0 1.1 (1.1), 1 
+Enuresis 1.4 (1.6), 2 1.5 (2.0), 0 0.89 (1.1), 0 0.67 (1.5), 0 1.3 (1.8), 0 1.1 (1.1), 2 
+Neck extension 3.0 (2.3), 2 2.7 (2.7), 2 3.6 (2.2), 4 0.57 (1.4), 0 0 (0), 0 2.2 (2.5), 2 
+Fetal position 1.3 (1.3), 1 0.91 (1.1), 1 0.89 (0.93), 1 0.71 (0.96), 0 0.45 (0.52), 0 0.89 (0.93), 1 
+Daytime sleepiness 2.0 (2.4), 2 1.8 (2.3), 2 1.3 (2.2), 0 0.48 (0.89), 0 0.73 (1.3), 0 1.6 (1.9), 2 
+Morning headache 0.43 (0.75), 0 0.64 (1.2), 0 0.22 (0.44), 0 0.19 (0.40), 0 0.09 (0.30), 0 0.22 (0.44), 0 
+Irritability 0.86 (1.2), 0 1.3 (1.4), 1 1.1 (1.2), 1 0.57 (0.93), 0 0.36 (0.67), 0 0.78 (1.1), 0 
+Hyperactivity 1.5 (1.4), 1 1.5 (1.3), 1 1.2 (1.4), 1 1.4 (1.3), 1 0.82 (1.3), 0 1.3 (1.6), 0 
+Developmental delay 0.52 (1.0), 0 0.09 (0.30), 0 0.22 (0.44), 0 0.19 (0.51), 0 0 (0), 0 0.11 (0.33), 1 
+School/daytime performance 0.62 (0.67), 1 0.91 (0.54), 1 1.1 (0.33), 1 0.57 (0.75), 0 0.55 (0.52), 1 1.1 (0.33), 1 
+Mouthbreathing (history) 5.4 (1.4), 6 4.0 (2.4), 6 3.8 (2.7), 6 0.86 (1.9), 0 0.36 (0.81), 0 3.6 (2.4), 2 
+Chronic rhinorrhea 0.90 (1.1), 1 0.18 (0.40), 0 1.2 (1.4), 1 0.14 (0.65), 0 0.09 (0.30), 0 0.89 (1.4), 0 
+Recurrent tonsillitis 1.1 (1.1), 1 0.91 (1.0), 1 1.2 (0.83), 1 0 (0), 0 0 (0), 0 0.11 (0.33), 0 
+Height 0.19 (0.87), 0 0.55 (1.8), 0 0.44 (1.3), 0 0.19 (0.87), 0 0.55 (1.8), 0 0 (0), 0 
+BMI 2.8 (3.0), 0 2.2 (3.0), 0 2.0 (3.0), 0 3.3 (3.0), 6 3.1 (3.0), 4 2.4 (3.0), 0 
+Blood pressure 1.4 (2.4), 0 0.55 (1.8), 0 0.44 (1.3), 0 0.67 (1.7), 0 0 (0), 0 0 (0), 0 
+Mouthbreathing (physical 3.6 (1.2), 4 2.9 (1.9), 4 2.2 (2.1), 4 0.76 (1.6), 0 0.36 (1.2), 0 1.8 (2.1), 0 
+
+examination) 
+Hyponasal voice 2.9 (1.9), 4 2.9 (1.9), 4 1.3 (2.0), 0 0.76 (1.6), 0 0.36 (1.2), 0 1.3 (2.0), 0 
+Adenoid facies 2.5 (2.3), 4 3.5 (1.8), 4 0.89 (1.8), 0 1.0 (2.0), 0 0.73 (1.6), 0 0.44 (1.3), 0 
+Tonsil size 4.3 (1.6), 4 4.2 (1.1), 4 3.8 (1.9), 4 0 (0), 0 0 (0), 0 4.0 (1.0), 4 
+Ability to fog mirror with 1.9 (2.0), 2 1.1 (1.0), 2 0.67 (1.0), 0 0.29 (0.72), 0 0 (0), 0 0.44 (1.3), 0 
+
+nasal breathing 
+Sleep tape 8.3 (3.5), 6 5.5 (4.2), 6 2.0 (3.0), 0 0.86 (2.9), 0 0 (0), 0 2.0 (3.0), 0 
+Lateral neck radiograph 4.4 (1.5), 4 2.7 (1.8), 2 2.9 (2.3), 2 0.76 (1.2), 0 0.73 (1.0), 0 2.2 (1.9), 2 
+Echocardiogram 0.57 (2.6), 0 0 (0), 0 0 (0), 0 0 (0), 0 0 (0), 0 0 (0), 0 
+
+ARTICLES 39 
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+group, initial sleep tapes were scored as severe apnea 
+in 1 child, moderate apnea in 4 children, and negative 
+for apnea in 9 children. Thus, the sleep tape had 
+a sensitivity of 88% (23 of 26), a specificity of 52% (15 
+of 29), a positive predictive value of 62% (23 of 37), 
+and a negative predictive value of 83% (15 of 18) in 
+predicting a positive PSG (Phi coefficient . 
+.43, P . 
+.002, Fisher exact test). Of the 3 children with positive 
+PSG at the final evaluation, 1 had a sleep tape scored 
+as severe apnea (initial PSG. 
+group), 1 had a sleep 
+tape scored as moderate apnea (PSG. 
+nonsurgery 
+group), and 1 had a sleep tape negative for apnea 
+(initial PSG. 
+group). Of the 38 patients with negative 
+PSG at final evaluation, 3 had sleep tapes scored 
+as moderate apnea (all in the PSG. 
+nonsurgery 
+group), and 35 had sleep tapes scored as negative for 
+apnea. 
+
+Logistic regression using 7 items from the clinical 
+assessment score (snoring, pauses, gasping, neck extension, 
+daytime sleepiness, adenoid facies, and 
+sleep tape) as predictors was conducted. Only sleep 
+tape was a significant predictor (P . 
+.009); the area 
+under the ROC curve was .84. A simpler model 
+containing only the sleep tape predictor was not 
+significantly inferior to the full model (likelihood 
+ratio test P . 
+.090); area under the ROC curve for this 
+reduced model was .75. In other words, although the 
+sleep tape was a moderately useful predictor, the 
+addition of the other items did not significantly increase 
+the predictive utility. 
+
+Of the 37 children who underwent T&A, the only 
+major complication was a right thigh burn to 1 child 
+in the initial PSG. 
+group secondary to improper 
+application of the grounding of the electrocautery 
+unit. The wound healed with dressing changes, but 
+the child was hospitalized for 3 days. Children were 
+observed in the hospital for a mean of 21 (12) hours 
+after surgery. Children in the PSG. 
+T&A group who 
+were at least 3 years of age were usually discharged 
+from the hospital 6 hours after surgery, whereas the 
+children in the PSG. 
+group were admitted for pulse 
+oximetry observation for 1 night unless the PSG was 
+considered mild enough to warrant a 6-hour stay. 
+Children were observed either on the floor or in a 
+monitored unit at the discretion of the attending 
+surgeon. There were no postoperative respiratory 
+complications, episodes of postoperative hemorrhage, 
+or readmissions to the hospital. 
+
+DISCUSSION 
+
+PSG has been recommended to differentiate children 
+with primary snoring from children with OSA. 
+Children with primary snoring do not have other 
+nighttime and daytime symptoms and have normal 
+sleep studies. Primary snoring is considered to be a 
+benign condition that will resolve in 50% of children 
+over time.28 Snoring has been shown to progress to 
+mild OSA in only 10% of cases.29 Children with 
+negative PSG have not been considered to be surgical 
+candidates for treatment of upper airway obstruction 
+even when they have symptoms related to enlarged 
+tonsils and adenoids. 
+
+Our results demonstrate that the signs and symptoms 
+of OSA improve after T&A regardless of 
+
+whether OSA is documented by PSG. At follow-up, 
+the children in the PSG. 
+T&A group had significant 
+improvement in the total clinical assessment score as 
+well as the subset scores as compared with children 
+in the PSG. 
+nonsurgery group. The subset scores 
+were designed to separate the items that would automatically 
+be decreased after T&A (tonsil size and 
+adenoid size on the lateral neck radiograph, score B) 
+from the items that would solely reflect clinical improvement 
+(score A). Eighty-two percent of the 
+PSG. 
+T&A group were asymptomatic at follow-up 
+as compared with 22% of the PSG. 
+nonsurgery patients, 
+resulting in a statistically significant difference 
+between the groups. Our findings were close to the 
+assumptions in our sample size estimation, which 
+predicted that 90% of the PSG. 
+T&A children and 
+20% of the PSG. 
+nonsurgery children would be 
+asymptomatic at follow-up. There was also a significant 
+difference between the groups in children who 
+were moderately symptomatic (clinical assessment 
+score 20 but 40) at final evaluation. One (11%) 
+child in the PSG. 
+nonsurgery group developed OSA 
+at follow-up, a finding that is comparable to the 10% 
+reported rate of the progression of primary snoring 
+to OSA. 
+
+A weakness of our findings is that despite randomization 
+at study outset, the PSG. 
+nonsurgery 
+group had a significantly lower initial total clinical 
+assessment score than the PSG. 
+T&A group. The 
+difference resulted from findings on the physical 
+examination (score B) as opposed to differences in 
+symptoms (score A) and occurred because of the 
+small sample size of our patient population. To correct 
+for the differences in initial clinical assessment 
+scores, we compared changes in clinical assessment 
+scores between the 2 groups at the final evaluation. 
+
+The clinical assessment score may prove to be a 
+useful tool for the office diagnosis of pediatric OSA. 
+Additional study to validate the score against PSG 
+and other external measures such as quality-of-life 
+instruments is needed. Its responsiveness to longitudinal 
+change must also be evaluated further. Our 
+study demonstrated a significant difference in 
+change scores between the PSG. 
+T&A and PSG. 
+nonsurgery groups using a score of 40 as the requirement 
+for entry, but there also may be a role for 
+treatment of children with scores 20 but 40. 
+
+Although we demonstrated significant improvement 
+in clinical scores, are these changes clinically 
+relevant? Snoring was only 1 of 20 nighttime and 
+daytime symptoms that brought these children to 
+medical attention. Entry into the study required a 
+clinical assessment that revealed more than just snoring. 
+Symptoms of upper airway obstruction have 
+been shown to have a significant impact on children’s 
+quality of life. De Serres et al19 administered 
+the Obstructive Sleep Disorders-6 Survey, a validated 
+health-related quality-of-life instrument, to the 
+caregivers of 101 children from 7 tertiary care pediatric 
+otolaryngology practices across the United 
+States, before and after T&A performed for treatment 
+of sleep-disordered breathing. Children’s sleep-disordered 
+breathing was diagnosed on the basis of 
+clinical assessment as only 8% had preoperative 
+
+40 CLINICAL ASSESSMENT OF PEDIATRIC OSA 
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+sleep studies. Domains of the survey most affected at 
+initial evaluation were physical suffering, sleep disturbance, 
+and caregiver concern. Postoperatively, 
+90% of children had improvement in quality of life, 
+which was considered large in 75% and moderate in 
+6%. 
+
+Goldstein et al20 administered another validated 
+quality-of-life survey, the OSA-18, along with a standardized 
+measure of children’s behavior, the Child 
+Behavior Checklist, to the caregivers of 64 children 
+before T&A and 3 months postoperatively. Surgery 
+was performed for the treatment of upper airway 
+obstruction in 84% of children, 92% of whom received 
+a diagnosis on a clinical basis as only 8% had 
+preoperative PSG. Postoperatively, a large change in 
+quality of life was found for the OSA-18 domains of 
+sleep disturbance, caregiver concerns, and physical 
+symptoms, and a moderate change was found for 
+emotional symptoms and daytime function. As in the 
+study by de Serres et al,19 the change in the impact of 
+sleep-disordered breathing on quality of life was 
+highly significant after T&A. The study also found 
+significant improvement in behavioral and emotional 
+difficulties after T&A as measured by the 
+Child Behavior Checklist Total Problem Score and 
+the individual scales of Withdrawn, Somatic Complaints, 
+Anxious/Depressed, Thought Problems, Attention 
+Problems, Delinquent Behavior, Aggressive 
+Behavior, Sleep Problems, and Destructive Behavior. 
+
+As in the other studies of the accuracy of clinical 
+diagnosis in predicting a positive PSG, esophageal 
+pressure monitoring for detecting UARS was not 
+performed. Children with UARS demonstrate abnormally 
+increased upper airway resistance, resulting in 
+increased respiratory effort and sleep fragmentation 
+without apneic or hypopneic episodes or desaturation. 
+The clinical effects of UARS are identical to OSA 
+and treatment is the same.30 The children with negative 
+PSG in our study may have been experiencing 
+UARS, with the resulting resolution of signs and 
+symptoms in those who underwent T&A. Because 
+the measurement of UARS is not routine in most 
+centers, children with sleep-disordered breathing are 
+often missed by standard PSG.13 Clinical assessment 
+remains a valuable tool in assessing upper airway 
+obstruction and sleep-disordered breathing and determining 
+the need for T&A. 
+
+Our accuracy of predicting a positive PSG in children 
+with a clinical assessment suggestive of OSA 
+(48%) when UARS is not evaluated agrees with the 
+findings of previous studies of pediatric OSA.5–11 
+Our definition of a positive PSG was an RDI 5. 
+Many sleep laboratories consider an AI 1tobe 
+abnormal, based on studies of normal children.31 If 
+we considered children with an AI 1 to have abnormal 
+PSG, then 6 of the 15 PSG. 
+T&A children 
+and 5 of the14 PSG. 
+nonsurgery children would 
+have had initial positive sleep studies, increasing our 
+clinical accuracy to 68%. However, 13 (41%) of the 32 
+children who underwent T&A would have had positive 
+PSG at final evaluation, which is much higher 
+than the published reports. Because most of the children 
+were asymptomatic at final evaluation, an AI 
+
+1 seems too strict a definition for a positive PSG. 
+Using the RDI 5 as the definition of a positive PSG, 
+10% of the children with initial PSG positive for OSA 
+had final PSG still positive for apnea. This finding 
+agrees with previous studies that report that T&A is 
+curative in 85% to 95% of otherwise healthy children.
+4,5 
+
+Using a logistic regression model, only sleep tape 
+was a moderately useful predictor of a positive PSG. 
+The addition of 6 items from the clinical assessment 
+did not increase the predictive utility of the model. 
+Previous studies have also demonstrated that scores 
+that were based on a subset of items from the clinical 
+assessment were not sufficiently predictive to determine 
+which children would have a positive 
+
+PSG.6,7,11,32 
+
+The sleep tape had a sensitivity of 88%, a specificity 
+of 52%, and a positive predictive value of 62% in 
+predicting a positive PSG. These results are similar to 
+those of Lamm et al,33 who found that an audiotape 
+had a median sensitivity of 71% and median specificity 
+of 80% in predicting a positive PSG in 29 children 
+who were referred to a sleep laboratory for 
+evaluation of sleep-disordered breathing. Although 
+not specific enough to distinguish children with positive 
+and negative studies, the sleep tape is an inexpensive, 
+convenient method to confirm the parents’ 
+description of the child’s nighttime breathing difficulties. 
+Home videotape recording of the child’s 
+nighttime breathing has also been shown to be a 
+reliable screening method for OSA with a sensitivity 
+of 94% and a specificity of 68% in predicting a positive 
+study.34 
+
+In early studies of pediatric OSA, 27% to 69% of 
+children presented with failure to thrive.3 Now that 
+affected children are identified earlier, failure to 
+thrive is less common. Five percent of the children in 
+our study presented with failure to thrive, which 
+agrees with more recent reports of a 4% to 13% 
+incidence.6,7 Thirty-four percent of the children in 
+our study presented with obesity (BMI 95th percentile), 
+which is similar to recent reports of an incidence 
+of 26% to 40%.6,7 As demonstrated in previous 
+studies, substantial weight gain is often found after 
+T&A even in children who are obese preoperatively.
+35 
+
+In adults, hypertension is a common complication 
+of OSA. Early reports found systemic hypertension 
+in 10% to 25% of children with OSA, although these 
+children were severely affected.36,37 In a more recent 
+report, Kunzman et al38 found no increased incidence 
+of systemic hypertension in 22 children with 
+OSA as compared with control subjects. Goldstein et 
+al7 found that 18% of children who presented for 
+evaluation of OSA were hypertensive. Marcus et al39 
+found that 41 children with OSA had a significantly 
+higher diastolic blood pressure than 26 children with 
+primary snoring, although there was no significant 
+difference in systolic blood pressure between the 2 
+groups. BMI was a significant predictor of elevated 
+blood pressure. In our study, 20% of the children 
+presented with systemic hypertension, 38% of whom 
+were obese. It resolved in all children by final evaluation, 
+although 3 new children were hypertensive, 2 
+of whom were obese. As indicated in previous re-
+
+ARTICLES 41 
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+ports, systemic hypertension is a complication of 
+sleep-disordered breathing, especially in obese children. 
+Early studies reported that between 10% and 
+56% of children with OSA had pulmonary hypertension 
+or cor pulmonale.8,14,36 Now that children receive 
+a diagnosis at a much earlier stage, the incidence 
+is much lower. In our study of otherwise 
+healthy children, only 1 (2%) child presented with 
+mild pulmonary hypertension diagnosed by echo-
+cardiography. 
+
+PSG has been recommended before T&A to identify 
+children who are at risk for postoperative respiratory 
+complications. Although the risk of postoperative 
+respiratory complications in the general 
+pediatric population ranges from 0% to 1.3%, rates of 
+16% to 27% have been reported in children with 
+OSA.40–43 Risk factors are age under 3, pulmonary 
+hypertension or other cardiac abnormalities, craniofacial 
+syndromes, failure to thrive, hypotonia, acute 
+airway obstruction, morbid obesity, and severe sleep 
+study indices. Anesthetic technique including the 
+use of opioids has not been shown to influence the 
+rate of postoperative respiratory complications.43 
+The majority of children described in these studies 
+would have been identified by preoperative clinical 
+assessment without the need for sleep studies. In 
+addition, most postoperative respiratory complications 
+occur within 2 hours after surgery.44,45 As long 
+as appropriate facilities and staff are available for 
+treatment of these children, including the option for 
+overnight observation, a preoperative sleep study is 
+not necessarily needed. PSG has been most useful to 
+confirm the diagnosis of OSA and document its severity 
+in the following situations: children who are 
+younger than 2 years; high-risk patients for which 
+surgery is contraindicated; children with craniofacial 
+anomalies, morbid obesity, or cerebral palsy; when 
+there is a discrepancy between the history and physical 
+examination; and children who remain symptomatic 
+after T&A. PSG is also a prerequisite to treatment 
+with nasal continuous or bilevel positive 
+airway pressure in high-risk children or surgical fail
+
+
+ures.13,46 
+
+CONCLUSIONS 
+
+Otherwise healthy children with clinical assessments 
+suggestive of OSA benefit from T&A even 
+when PSG is normal. A significant reduction in a 
+clinical assessment score based on the symptoms and 
+signs of upper airway obstruction occurs in children 
+who undergo T&A as compared with children who 
+do not undergo surgery. Our results agree with reports 
+of improvement in health-related quality of life 
+after T&A performed for treatment of sleep-disordered 
+breathing. The current standards for the 
+proper definition of a positive PSG in a child as well 
+as the appropriate parameters to monitor are currently 
+in evolution. If we had evaluated our study 
+children for UARS, then our clinical accuracy for 
+predicting a positive PSG would have improved. 
+Until a noninvasive, reliable, routinely available test 
+to diagnosis the full spectrum of sleep-disordered 
+
+breathing is available, clinical assessment remains a 
+valuable tool in diagnosing upper airway obstruction 
+in children and determining the need for T&A. 
+
+ACKNOWLEDGMENTS 
+
+This study was supported by research grant 5 R03 HD37386-02 
+from the National Institute of Child Health and Human Development, 
+Bethesda, MD (Dr Goldstein). 
+
+Presented at the Annual Meeting of the American Society of 
+Pediatric Otolaryngology; May 4, 2003; Nashville, TN. 
+
+We thank Alex Sternberg, ScD, for performing the polysomnograms; 
+Jennifer J. Black for assistance with analysis of the voice 
+tapes; and Kazi Azam, RDCS, FASE, and Denise Lei, RDCS, for 
+performing the echocardiograms. Ari J. Goldsmith, MD; Jessica W. 
+Lim, MD; and Krishnamurthi Sundaram, MD, along with the 
+SUNY Downstate otolaryngology residents, performed the T&A 
+procedures. We thank Ellen M. Mandel, MD, and Jonathan D. 
+Finder, MD, for assistance with study design and Richard M. 
+Rosenfeld, MD, MPH, for critical review of the manuscript. We 
+thank Tiffany Morgan for administrative support. 
+
+REFERENCES 
+
+1. Guilleminault C, Peraita R, Souquet M, Dement WC. Apneas during 
+sleep in infants: possible relationship with sudden infant death syndrome. 
+Science. 1975;190:677–679 
+2. Ali NJ, Pitson DJ, Stradling JR. Snoring, sleep disturbance, and behaviour 
+in 4 –5 year olds. Arch Dis Child. 1993;68:360–366 
+3. Greene MG, Carroll JL. Consequences of sleep-disordered breathing in 
+childhood. Curr Opin Pulm Med. 1997;3:456–463 
+4. Marcus CL. Management of obstructive sleep apnea in childhood. Curr 
+Opin Pulm Med. 1997;3:464–469 
+5. Suen JS, Arnold JE, Brooks LJ. Adenotonsillectomy for treatment of 
+obstructive sleep apnea in children. Arch Otolaryngol Head Neck Surg. 
+1995;121:525–530 
+6. Carroll JL, McColley SA, Marcus CL, Curtis S, Loughlin GM. Inability of 
+clinical history to distinguish primary snoring from obstructive sleep 
+apnea syndrome in children. Chest. 1995;108:610–618 
+7. Goldstein NA, Sculerati N, Walsleben JA, Bhatia N, Friedman DM, 
+Rapoport DM. Clinical diagnosis of pediatric obstructive sleep apnea 
+validated by polysomnography. Otolaryngol Head Neck Surg. 1994;111: 
+611–617 
+8. Leach J, Olson J, Hermann J, Manning S. Polysomnographic and clinical 
+findings in children with obstructive sleep apnea. Arch Otolaryngol Head 
+Neck Surg. 1992;118:741–744 
+9. Nieminen P, Tolonen U, Lo¨ppo¨nen H. Snoring and obstructive sleep 
+apnea in children: a 6-month follow-up study. Arch Otolaryngol Head 
+Neck Surg. 2000;126:481–486 
+10. Preutthipan A, Suwanjutha S, Chantarojanasiri T. Obstructive sleep 
+apnea syndrome in Thai children diagnosed by polysomnography. 
+Southeast Asian J Trop Med Public Health. 1997;28:62–68 
+11. Wang RC, Elkins TP, Keech D, Wauquier A, Hubbard D. Accuracy of 
+clinical evaluation in pediatric obstructive sleep apnea. Otolaryngol Head 
+Neck Surg. 1998;118:69–73 
+12. American Thoracic Society. Standards and indications for cardiopulmonary 
+sleep studies in children. Am J Respir Crit Care Med. 1996;153: 
+866–878 
+13. Messner AH. Evaluation of obstructive sleep apnea by polysomnography 
+prior to pediatric adenotonsillectomy. Arch Otolaryngol Head Neck 
+Surg. 1999;125:353–356 
+14. Brouillette RT. Fernbach SK, Hunt CE. Obstructive sleep apnea in 
+infants and children. J Pediatr. 1982;100:31–40 
+15. Frank Y, Kravath RE, Pollak CP, Weitzman ED. Obstructive sleep apnea 
+and its therapy: clinical and polysomnographic manifestations. Pediatrics. 
+1983;71:737–742 
+16. Guilleminault C, Winkle R, Korobkin R, Simmons B. Children and 
+nocturnal snoring: evaluation of the effects of sleep related respiratory 
+resistive load and daytime functioning. Eur J Pediatr. 1982;139:165–171 
+17. Potsic WP, Pasquariello PS, Corso Baranak C, Marsh RR, Miller LM. 
+Relief of upper airway obstruction by adenotonsillectomy. Otolaryngol 
+Head Neck Surg. 1986;94:476–480 
+18. Rosenfeld RM, Green RP. Tonsillectomy and adenoidectomy: changing 
+trends. Ann Otol Rhinol Laryngol. 1990;99:187–191 
+19. de Serres LM, Derkay C, Sie K, et al. Impact of adenotonsillectomy on 
+quality of life in children with obstructive sleep disorders. Arch Otolaryngol 
+Head Neck Surg. 2002;128:489–496 
+42 CLINICAL ASSESSMENT OF PEDIATRIC OSA 
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+20. Goldstein NA, Fatima M, Campbell TF, Rosenfeld RM. Child behavior 
+and quality of life before and after tonsillectomy and adenoidectomy. 
+Arch Otolaryngol Head Neck Surg. 2002;128:770–775 
+21. Goldstein NA, Post JC, Rosenfeld RM, Campbell TF. Impact of tonsillectomy 
+and adenoidectomy on child behavior. Arch Otolaryngol Head 
+Neck Surg. 2000;126:494–498 
+22. Gozal D. Sleep-disordered breathing and school performance in children. 
+Pediatrics. 1998;102:616–620 
+23. Brodsky L. Modern assessment of tonsil and adenoid. Pediatr Clin North 
+Am. 1989;36:1551–1569 
+24. Bridges ND, Freed MD. Cardiac catheterization. In: Emmanouilides GC, 
+Riemenschneider TA, Allen HD, Gutgesell HP, eds. Moss and Adams 
+Heart Disease in Infants, Children, and Adolescents Including the Fetus and 
+Young Adult. 5th ed. Baltimore, MD: Williams & Wilkins; 1995:310 –329 
+25. Ingelfinger JR. Systemic hypertension. In: Adams FH, Emmanouilides 
+GC, Riemenschneider TA, eds. Moss’ Heart Disease in Infants, Children, 
+and Adolescents. 4th ed. Baltimore, MD: Williams & Wilkins; 1989: 
+1018–1019 
+26. Hammer LD, Kraemer HC, Wilson DM, Ritter PL, Dornbusch SM. 
+Standardized percentile curves of body-mass index for children and 
+adolescents. Am J Dis Child. 1991;145:259–263 
+27. Kummer AW, Myer CM III, Smith ME, Shott SR. Changes in nasal 
+resonance secondary to adenotonsillectomy. Am J Otolaryngol. 1993;14: 
+285–290 
+28. Ali NJ, Pitson D, Stradling JR. Natural history of snoring and related 
+behaviour problems between the ages of 4 and 7 years. Arch Dis Child. 
+1994;71:74–76 
+29. Marcus CL, Hamer A, Loughlin GM. Natural history of primary snoring 
+in children. Pediatr Pulmonol. 1998;26:6–11 
+30. Guilleminault C, Pelayo R, Leger D, Clerk A, Bocian RCZ. Recognition 
+of sleep-disordered breathing in children. Pediatrics. 1996;98:871–882 
+31. Marcus CL, Omlin KJ, Basinki DJ, et al. Normal polysomnographic 
+values for children and adolescents. Am Rev Respir Dis. 1992;146: 
+1235–1239 
+32. Brouilette R, Hanson D, David R, et al. A diagnostic approach to 
+suspected obstructive sleep apnea in children. J Pediatr. 1984;105:10–14 
+33. Lamm C, Mandeli J, Kattan M. Evaluation of home audiotapes as an 
+abbreviated test for obstructive sleep apnea syndrome (OSAS) in children. 
+Pediatr Pulmonol. 1999;27:267–272 
+34. Sivan Y, Kornecki A, Schonfeld T. Screening obstructive sleep apnoae 
+syndrome by home videotape recording in children. Eur Respir J. 1996; 
+9:2127–2131 
+35. Soultan Z, Wadowski S, Rao M, Kravath RE. Effect of treating obstructive 
+sleep apnea by tonsillectomy and/or adenoidectomy on obesity in 
+children. Arch Pediatr Adolesc Med. 1999;153:33–37 
+36. Guilleminault C, Korobkin R, Winkle R. A review of 50 children with 
+obstructive sleep apnea syndrome. Lung. 1981;159:275–287 
+37. Richardson MA, Seid AB, Cotton RT, Benton C, Kramer M. Evaluation 
+of tonsils and adenoids in sleep apnea syndrome. Laryngoscope. 1980;90: 
+1106–1110 
+38. Kunzman LA, Keens TG, Davidson Ward SL. Incidence of systemic 
+hypertension in children with obstructive sleep apnea syndrome. Am 
+Rev Respir Dis. 1990;141:A808 
+39. Marcus CL, Greene MG, Carroll JL. Blood pressure in children with 
+obstructive sleep apnea. Am J Respir Crit Care Med. 1998;157:1098–1103 
+40. McColley SA, April MM, Carroll JL, Naclerio RM, Loughlin GM. Respiratory 
+compromise after adenotonsillectomy in children with obstructive 
+sleep apnea. Arch Otolaryngol Head Neck Surg. 1992;118: 
+940–943 
+41. Rosen GM, Muckle RP, Mahowald MW, Goding GS, Ullevig C. Postoperative 
+respiratory compromise in children with obstructive sleep 
+apnea syndrome: can it be anticipated? Pediatrics. 1994;93:784–788 
+42. Ruboyianes JM, Cruz RM. Pediatric adenotonsillectomy for obstructive 
+sleep apnea. Ear Nose Throat J. 1996;75:430–433 
+43. Wilson K, Lakheeram I, Morielli A, Brouillette R, Brown K. Can assessment 
+for obstructive sleep apnea help predict postadenotonsillectomy 
+respiratory complications? Anesthesiology. 2002;96:313–322 
+44. 
+Lalakea ML, Marquez-Biggs I, Messner AH. Safety of pediatric short-
+stay tonsillectomy. Arch Otolaryngol Head Neck Surg. 1999;125: 
+749 –752 
+45. Postma DS, Folsom F. The case for an outpatient 
+“approach” for all 
+pediatric tonsillectomies and/or adenoidectomies: a 4-year review of 
+1419 cases at a community hospital. Otolaryngol Head Neck Surg. 2002; 
+127:101–108 
+46. Goldstein NA. Pediatric obstructive sleep apnea. In: Alper CM, Myers 
+EN, Eibling DE, eds. Decision Making in Ear, Nose, and Throat Disorders. 
+Philadelphia, PA: WB Saunders Company; 2001:142–144 
+ARTICLES 43 
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+Clinical Assessment of Pediatric Obstructive Sleep Apnea 
+
+Nira A. Goldstein, Vasanthi Pugazhendhi, Sudha M. Rao, Jeremy Weedon, Thomas F. 
+Campbell, Andrew C. Goldman, J. Christopher Post and Madu Rao 
+Pediatrics 2004;114;33-43 
+
+
+DOI: 10.1542/peds.114.1.33 
+& Services 
+Updated Information 
+http://www.pediatrics.org/cgi/content/full/114/1/33 
+including high-resolution figures, can be found at: 
+References 
+http://www.pediatrics.org/cgi/content/full/114/1/33#BIBL 
+at: 
+This article cites 43 articles, 21 of which you can access for free 
+Citations 
+http://www.pediatrics.org/cgi/content/full/114/1/33#otherarticles 
+This article has been cited by 8 HighWire-hosted articles: 
+Subspecialty Collections 
+n 
+http://www.pediatrics.org/cgi/collection/premature_and_newbor 
+Premature & Newborn 
+following collection(s): 
+This article, along with others on similar topics, appears in the 
+Permissions & Licensing 
+http://www.pediatrics.org/misc/Permissions.shtml 
+tables) or in its entirety can be found online at: 
+Information about reproducing this article in parts (figures, 
+Reprints 
+http://www.pediatrics.org/misc/reprints.shtml 
+Information about ordering reprints can be found online: 
+
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+

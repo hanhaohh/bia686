@@ -1,0 +1,674 @@
+Toddler Behavior Following Polysomnography: Effects of Unintended Sleep 
+Disturbance 
+
+Hawley E. Montgomery-Downs, PhD1; David Gozal, MD2 
+
+1West Virginia University; Department of Psychology, Morgantown, WV; 2University of Louisville, Division of Pediatric Sleep Medicine; Department of 
+
+Pediatrics, Louisville, KY 
+
+Study Objectives: Childhood sleep disorders are consistently shown to 
+affect behavior and cognition, but first-night effects on these measures are 
+generally unknown. We sought to examine how sleep in the home versus 
+the laboratory differed among healthy toddlers and how such differences 
+relate to standardized scores on assessments the morning following polysomnography. 
+Design, Setting, and Participants: Twenty healthy 14-month-olds wore 
+actigraphs during nighttime sleep at home for 5 nights preceding and during 
+standard overnight laboratory polysomnography. The Bayley Scales of 
+Infant Development (BSID-II) were administered once the morning after 
+polysomnography. 
+Measurements and Results: All subjects had normal polysomnography. 
+Sleep-start times at home and during polysomnography did not differ, 
+whereas, during polysomnography, subjects awoke earlier (p = .008, d 
+= .58), their total sleep time (p <. 001, d = 1.1) and sleep efficiency (p = 
+.004, d = .57) were reduced, and they had shorter sleep-bout lengths (p 
+= .004, d = .03), less immobility (p = .003, d = .62), and greater average 
+
+INTRODUCTION 
+
+THE CUMULATIVE EVIDENCE OF DELETERIOUS EFFECTS 
+FROM SLEEP-DISORDERED BREATHING (SDB) 
+DURING EARLY CHILDHOOD IS SUBSTANTIAL AND compelling. 
+Impairments in cognition and school performance associated 
+with pediatric SDB have been shown repeatedly.1-6 Furthermore, 
+pediatric SDB leads to greater utilization of healthcare 
+resources,7 more-frequent dose-dependent cardiovascular morbid-
+ity,8 reversible failure to thrive,9 and comorbid chronic illnesses,10 
+as well as more psychiatric and behavioral comorbidities.4,5,11-13 
+Evidence from animal models14,15 and interventional studies16-19 
+suggest that treatment leads to at least partial reversibility of these 
+morbidities, highlighting the importance of early detection. 
+
+In addition to SDB, “primary snoring” is increasingly recognized 
+as not just innocent noise during sleep but, rather, a condition 
+that may lead to reduced daytime functioning.20,21 Compared 
+with nonsnoring controls, 5- to 8-year-old children who snore but 
+have an obstructive apnea-hypopnea index of less than 1 per hour 
+of total sleep time (TST) show impaired verbal and global IQ and 
+
+Disclosure Statement 
+
+This was not an industry supported study. Dr. Montgomery-Downs has participated 
+in speaking engagements supported by Mini Mitter/Respironics. Dr. 
+Gozal has indicated no financial conflict of interest. 
+
+Submitted for publication March 24, 2006 
+Accepted for publication July 31, 2006 
+
+Address correspondence to: Dr. Montgomery-Downs, West Virginia University, 
+Department of Psychology, 1130 Life Sciences Building, PO Box 6040, 
+Morgantown, WV 26506-6040; Tel: (304) 293-2001 ext. 31610; Fax: (304) 
+293-6606; E-mail: Hawley.Montgomery-Downs@mail.wvu.edu 
+
+SLEEP, Vol. 29, No. 10, 2006 
+
+activity during sleep (p <. 001, d = .98). Standardized assessments were 
+not affected by differences between home and polysomnography night 
+sleep, but children with greater emotional regulation difficulty had a lower 
+percentage of immobility (r = -0.67, p = .001) and increased sleep fragmentation 
+(r = -0.60, p = .005) during polysomnography. 
+Conclusions: Although sleep-onset times were preserved, sleep in the 
+laboratory was disrupted, compared with at home. These differences did 
+not affect standardized scores, but the magnitude of the difference was 
+associated with worse emotional regulation. The effects of sleep disturbance 
+during polysomnography, or the influence of poor emotional regulation 
+on sleep in the laboratory, should be considered in studies of young 
+children. 
+Keywords: Actigraphy, pediatric, sleep deprivation, polysomnography, 
+behavior, MDI, PDI, emotional regulation 
+Citation: Montgomery-Downs HE; Gozal D. Toddler behavior following 
+polysomnography: effects of unintended sleep disturbance. SLEEP 
+2006;29(10):1282-1287. 
+
+reduced selective and sustained attention and memory6,22 Furthermore, 
+we have recently shown that, among snoring infants with 
+no evidence for either apnea or hypopnea during sleep, snore-related 
+arousals are related to decreased indexes of mental development.
+23 
+
+Despite the rather extensive work assessing cognitive development 
+and overall health consequences within the spectrum of pediatric 
+SDB, few studies have included an adaptation night in the 
+laboratory to compensate for first-night effects. Although SDB is 
+apparently not vulnerable to first-night effects,24-27 Suratt and colleagues 
+recently found that children ages 6 to 12 years old with 
+mild to moderate SDB were able to partially compensate for sleep 
+loss due to SDB by sufficiently increasing sleep time in the home 
+to avoid impairment to intelligence scores.28 Thus, truncated TST 
+due to first-night effects in the laboratory may not affect measures 
+of SDB but may alter overall cognitive or developmental scores. 
+The purpose of the present study was to objectively compare sleep 
+in the home and during 1 night of laboratory polysomnography 
+among healthy toddlers and to determine whether the differences 
+between sleep in the home versus in the sleep lab affect scores on 
+standardized mental and motor scales or behavior. 
+
+METHODS 
+
+Subjects were recruited as part of a larger study through local 
+hospitals in which the Institutional Review Boards approved 
+the study: Clark Memorial Hospital, Baptist Hospital East, Floyd 
+Memorial Hospital, Norton Healthcare, Norton Suburban Hospital, 
+and the University of Louisville Hospital. A parent or both 
+parents signed informed consent and Health Information Portability 
+and Accountability Act authorization for participation in 
+the study, as approved by the Institutional Review Board at the 
+
+1282 Behavior Following Polysomnography Montgomery-Downs and Gozal 
+
+
+I-----------------Actigraph worn at night----------------I 
+I-----------------5 Home Nights----------------I 1 PSG 
+Night 
+BSID-II 
+testing in 
+morning 
+Figure 1—Study design flow chart. At-home actigraphy for 5 nights 
+was followed by actigraphy during laboratory-based polysomnogra-
+phy (PSG). The Bayley Scales of Infant Development-II (BSID-II) 
+was administered once on the morning after PSG. 
+Figure 1—Study design flow chart. At-home actigraphy for 5 nights 
+was followed by actigraphy during laboratory-based polysomnogra-
+phy (PSG). The Bayley Scales of Infant Development-II (BSID-II) 
+was administered once on the morning after PSG. 
+
+Table 1—Demographics and Family Characteristics of the 20 Sub
+
+
+jects 
+Characteristic 
+Age, mo 14.5 ± .48 (13.7-15.9) 
+Females, % 40 
+Whitea, % 85 
+Birth weight, lb 7.7 ± .92 
+Gestational age, wk at birth 38.4 ± 1.8 
+Primipara, % 40 
+Maternal age, y 30.5 ± 5.1 
+Maternal education, y 16.1 ± 2.9 
+
+Data are presented as mean ± SD or percentages; age includes range 
+in parentheses. 
+aNon-White: Hispanic (5%), biracial (10%) 
+
+
+abilities. Vocalizations and the beginnings of verbal communication 
+are measured as early evidence of the ability to form generalizations 
+and classifications, which are a basis of abstract thinking. 
+The PDI measures fine and gross motor skills relating to reaching, 
+quality of movement, functional hand skills, and sensory integration. 
+
+
+The MDI and PDI are each expressed as a standard score ranging 
+from 50 to 150 and encompassing 3 standard deviations (15 
+points) on either side of the mean (100 points). Higher scores indicate 
+better performance. When administered at the same age, 
+there is a correlation between the MDI and the Stanford-Binet IQ 
+test.34 The MDI at 12 and 18 months is correlated with IQ at 2.5 
+and 3 years,36 and, at 24 months, the MDI is correlated with IQ at 
+3 and 5 years.37 
+
+The behavior rating scale consists of 30 child behaviors rated by 
+the test administrator on a 4-point scale; the behaviors are scored 
+as percentiles based on norms for children older than 6 months 
+on 3 factors: Orientation/Engagement, Emotional Regulation, and 
+Motor Quality. A higher percentile score on each indicates better 
+performance. 
+
+Statistical Analyses 
+
+Descriptive statistics were calculated. Repeated-measures 
+analysis of variance was used for comparisons between home- 
+and polysomnography-night actigraphy measures. The Cohen d 
+was calculated to determine effect sizes. z Scores were calculated 
+for the differences between home- and polysomnography-night 
+actigraphy measures (home-night value minus polysomnographynight 
+value). Regression analysis was used to examine the relationship 
+between z scores for the differences between home- and 
+polysomnography-night actigraphy measures in relation to BSIDII 
+measures. Data were analyzed using SPSS version 13.0 (SPSS, 
+Inc., Chicago, IL) and, due to the small number of subjects, a p 
+value less than .01 was considered significant. 
+
+RESULTS 
+
+Twenty-two subjects were recruited for participation in the 
+study and completed the protocol. Data from 2 subjects were 
+dropped from analysis because the subjects’ sleep-wake schedules 
+in the home were highly irregular; 1 subject had an average 
+sleep onset of 01:32 AM 
+and rise time of 13:04 PM; the other had 
+an average sleep onset time of 12:51 AM 
+and rise time of 07:58 AM. 
+Data from the remaining 20 subjects were available for analyses. 
+
+Table 2—Results of Polysomnography From the 20 Subjects 
+
+Parameter 
+Bedtimea 20:55 ± 10.5 
+Rise time 6:50 ± 14.3 
+TST, min 505.70 ± 20.5 
+Awake timea 11.10 ± 1.3 
+Sleep stage, as a percentage of TST 
+1 5.60 ± .75 
+2 42.40 ± 1.2 
+Delta 19.00 ± 1.3 
+REM 33.10 ± 6.9 
+Spontaneous Arousal Index 7.01 ± .61 
+Total Arousal Index 7.46 ± .67 
+Apnea-Hypopnea Index 0.85 ± .17 
+Central Apnea Index 0.85 ± .17 
+SpO2 nadir, % 89.20 ± .93 
+
+Data are presented as mean ± SEM. Data for bedtime and rise time 
+are shown as mean clock time ± SEM, in minutes. TST refers to total 
+sleep time; REM, rapid eye movement. 
+aBased on lights off to lights on. 
+
+
+Twelve of these toddlers wore an actigraph all 5 nights preceding 
+the polysomnography night; 8 wore the actigraph only 4 nights 
+because the caretaker forgot to put the actigraph on the subject on 
+1 night (N=5), put it on after sleep onset (N=2), or the actigraph 
+was delivered late (N=1). During the polysomnography night, 4 
+participants were administered prophylactic ibuprofen for teething 
+and 1 was administered topical hydrocortisone; these medications 
+were also administered during the preceding home nights. 
+Subject demographics and family information are shown in Table 
+
+1. 
+All subjects had normal sleep measures on polysomnography. 
+Central apneas accounted entirely for apnea-hypopnea index indexes; 
+no subject had any obstructive apneas, hypopneas, or significant 
+desaturations (Table 2). 
+
+Individual bedtimes were preserved in the laboratory; sleep 
+start on the polysomnography night did not differ significantly 
+from the averaged values for home nights. Compared with home 
+nights, during the polysomnography night, sleep end was earlier 
+and there was less TST, lower sleep efficiency, shorter sleep-bout 
+lengths, a lower percentage of immobility time, and higher activity 
+scores during sleep (Table 3). 
+
+All MDI and PDI values were within normal. There was a wide 
+range of percentile scores on the subscales of the Behavior Rating 
+subcales. Two subjects scored in the questionable or nonoptimal 
+range of the Orientation/Engagement subscale, and 1 scored in 
+the nonoptimal range on the Emotional Regulation subscale. No 
+subjects scored within clinical range on the Motor Quality sub-
+scale (Table 4). There were no significant correlations between 
+actigraphy measures in the home and BSID-II indexes or scales 
+the morning following polysomnography. Greater sleep fragmentation 
+during the polysomnography night was significantly 
+associated with worse percentile score on the Behavior Rating 
+Scale Emotional Regulation subscale (r = -.59, p = .006). Lower 
+Emotional Regulation subscale scores were also significantly associated 
+with greater difference scores for both Immobility percentage 
+(r = .665, p = .001) (Figure 2) and Fragmentation Index (r 
+= .60, p = .005) (Figure 3), indicating that subjects who had less 
+immobility and more fragmentation during their night in the sleep 
+lab, compared with at home, had greater difficulty with emotional 
+
+SLEEP, Vol. 29, No. 10, 2006 1284 Behavior Following Polysomnography Montgomery-Downs and Gozal 
+
+
+Table 3—Mean Actigraphy Values During Home Nights, Actigraphy Values During In-Laboratory Night, and Difference Scoresa 
+
+Parameter Home Nights PSG Night p Value Cohen d Difference Scores 
+
+Sleep start time 21:06 ± 67.8 21:27 ± 44 .192 
+Sleep end time 7:35 ± 57.8 7:03 ± 53 .008 .58 32.0 ± 48.4 
+TST, min 547.1 ± 59.5 480.5 ± 65.0 <. 001 1.1 66.6 ± 66.9 
+Sleep efficiency % 87.0 ± 5.5 83.7 ± 5.1 .004 .57 3.4 ± 4.8 
+Mean sleep bout time, min 359.5 ± 140.5 356.5 ± 89.4 .004 .03 15.2 ± 20.6 
+Immobile percentage, % 87.3 ± 5.8 84.0 ± 4.8 .003 .62 3.5 ± 4.6 
+Mean activity in sleep, score 5.4 ± 2.8 8.6 ± 3.7 <. 001 .98 3.2 ± 2.7 
+Movement & Fragmentation Index 19.9 ± 5.3 22.4 ± 5.6 .043 .46 2.6 ± 5.4 
+
+
+Data are presented as mean ± SD. Data for bedtime and rise time are shown as mean clock time ± SD, in minutes. TST refers to total sleep time. 
+aDifference scores are calculated as the average of the value of the sleep parameter 
+night. 
+
+
+MDI 103.9 ± 2.0 (90-122) 
+PDI 96.6 ± 3.0 (69-112) 
+BRS 69.5 ± 4.8 (21-96) 
+BRS subscale percentiles 
+Orientation/Engagement 65.6 ± 5.9 (2-95) 
+Emotional Regulation 65.9 ± 5.9 (21-98) 
+Motor Quality 72.6 ± 6.1 (25-99) 
+
+-2.5-1.5-0.50.51.52.502040608010Emotional Regulation Percentile 
+ommI0bytili% Di ff erence z score 
+Figure 2—The immobility percentage for home night minus poly-
+Table 4—Ratings From the Bayley Scales of Infant Development-II 
+Scale 
+
+Data are presented as mean ± SEM (range). The Bayley Scales of 
+Infant Development-II consists of a mental scale (MDI), a motor scale 
+(PDI), and a behavior rating scale (BRS). 
+
+regulation when tested on the morning following polysomnography. 
+Differences scores and standard deviations are in Table 3. 
+
+somnography night, converted to Z-scores and plotted against Emotional 
+Regulation percentile; less immobility on the polysomnography 
+DISCUSSION 
+night, as compared with on the home night, is associated with worse 
+subscale scores on the Behavior Rating Scale.
+
+This study shows that, even when sleep-onset times are preserved 
+during laboratory-based polysomnography, measures of 
+
+note that this was strictly a research study using a community 
+
+children’s sleep are highly disrupted, as compared with during 
+
+sample and that the polysomnography protocol was arranged 
+
+their sleep at home. These differences did not affect standardized 
+
+to accommodate each subject’s normal schedule. Appointments 
+
+development indexes (MDI and PDI) administered the morning 
+
+were scheduled and polysomnography hookups organized to pre-
+
+following polysomnography but were associated with behavioral 
+
+serve the routine bedtimes, subjects were allowed to sleep in the 
+
+difficulty. In contrast, there were no significant relationships be-
+
+morning until they awoke spontaneously, and the ambient noise 
+
+tween sleep in the home and BSID-II indexes or behavior scales 
+
+in the sleep center was kept to a minimum for this purpose. Such 
+
+following polysomnography, indicating that the behavior diffi
+
+
+conditions are fairly impractical and unlikely to be followed in a 
+
+culty was due to sleep on the polysomnography night rather than 
+
+clinical setting, and, therefore, we anticipate that our findings are 
+
+poor sleep in general. Indeed, the data indicate that, the larger the 
+
+rather conservative and would likely be more pronounced if sub-
+
+differences in sleep fragmentation and percentage of immobility 
+
+jects were expected to follow artificial bedtimes and rise times, 
+
+between the home night and polysomnography night, the worse 
+
+as dictated by standard sleep clinic schedules. Second, there has 
+
+the percentile scores on emotional regulation. 
+
+been criticism of the use of actigraphy in pediatric populations 
+
+Interestingly, difference scores for TST and sleep efficiency 
+
+as a proxy for sleep architecture from polysomnography. For this 
+
+were unrelated to behavior, suggesting that altered or interrupted 
+
+reason, we exclusively used the actigraphic recordings to com
+
+
+sleep architecture, rather than sleep deprivation per se, increases 
+
+pare nights at home and in the laboratory. Furthermore, the same 
+
+behavioral changes the following morning. It is remarkable that 
+
+device and recording protocol were used, and the actigraph was 
+
+a single night of sleep disturbance induced by sleep in a labora
+
+
+placed by the parent both at home and in the laboratory. Finally, 
+
+tory setting was associated with behavior ratings. However, it is 
+
+the number of participants in the study was relatively low, requir
+
+
+also possible that the children with greater emotional-regulation 
+
+ing a more stringent criterion for accepting significant differences 
+
+difficulties may have been more vulnerable to having their sleep 
+
+and relationships (p > .01).
+
+disturbed by the novel sleep-lab environment and multiple poly-
+
+This study shows that several actigraphic sleep measures are 
+
+somnography sensors. 
+
+disrupted in toddlers during a night in the sleep laboratory, when 
+
+Before we discuss the potential implications of our findings, 
+
+compared with measures obtained in the home setting. Further-
+
+some technical issues deserve comment. First, it is important to 
+
+more, the degree of sleep disruption correlates with emotional 
+
+SLEEP, Vol. 29, No. 10, 2006 1285 
+Behavior Following Polysomnography Montgomery-Downs and Gozal 
+
+
+Fragmn a ion Index
+
+ettDiff rencezsoe 
+
+e cr
+
+2.5 
+1.5 
+0.5 
+-0.5 
+-1.5 
+-2.5 
+0 
+20 
+40 
+60 
+80 
+010 
+
+
+Emotional Regulation Percentile 
+
+Figure 3—The Fragmentation Index for the polysomnography night 
+minus the home night, converted to Z-scores and plotted against the 
+Emotional Regulation percentile; more fragmentation on the polysomnography 
+night, as compared with on the home night, is associated 
+with worse subscale scores on the Behavior Rating Scale. 
+
+disturbance. However, although TST differed at home compared 
+with the sleep lab, this measure was not associated with assessment 
+scores. This was somewhat surprising considering the evidence 
+from experimental and intentional sleep restriction in older 
+children. Indeed, mild reductions in the opportunity to sleep in 
+school-age children has been associated with substantial difficulties 
+in attention and impulsivity control.38,39 Similar findings are 
+reported in naturalistic studies in which the overall duration of 
+sleep in the home has been linked to aggressive and delinquent 
+behavior as well as social and attention problems.12 Of interest, 
+when a 2-hour sleep restriction has been imposed on children, the 
+most prominent manifestation of sleepiness occurs around 10:00 
+am, usually the time at which neurobehavioral testing will take 
+place after the sleep study in the laboratory.40 
+
+One concern of the current findings is how to interpret previous 
+studies that have used the standard protocol of administering assessments 
+the morning following the polysomnography. Based on 
+our results, we would not expect a night of disturbed sleep to alter 
+standardized testing scores when there are no time limits or pressures 
+to perform. However, the data suggest that administration 
+of tests that may be affected by emotional regulation the morning 
+following polysomnography without an adjustment night should 
+be considered a study limitation. Further, it is unknown whether 
+a single adjustment night would eliminate the effects of sleep disturbance 
+in the laboratory. 
+
+Based on our current findings, the effects of unintended sleep 
+disturbance during laboratory-based polysomnography should be 
+considered in behavioral studies of young children, particularly 
+those using measures vulnerable to impaired emotional regulation. 
+These data recommend that behavioral assessments, especially 
+those vulnerable to difficulty with emotional regulation, be 
+administered at a time when the subject is not likely to have experienced 
+sleep disruption. 
+
+ACKNOWLEDGMENT 
+
+
+National Institutes of Health Grants F32 HL-074591 (HM-D) 
+and HL65270 (DG), The Children’s Foundation Endowment for 
+Sleep Research, and the Commonwealth of Kentucky Challenge 
+for Excellence Trust Fund (DG). We are grateful to the parents 
+and their children who participated in the study. 
+
+REFERENCES 
+
+
+1. 
+Gozal, D. Sleep-disordered breathing and school performance in 
+children. Pediatrics 1998;102:616-20. 
+2. 
+Gozal D, Pope DW. Snoring during early childhood and academic 
+performance at ages 13-14 years. Pediatrics 2001;107:1394-9. 
+3. 
+Blunden S, Lushington K, Kennedy D. Cognitive and behavioural 
+performance in children with sleep-related obstructive breathing 
+disorders. Sleep Med Rev 2001;5:447-61. 
+4. 
+Lewin DS, Rosen RC, England SJ, Dahl RE. Preliminary evidence 
+of behavioral and cognitive sequelae of obstructive sleep apnea in 
+children. Sleep Med 2002;3:5-13. 
+5. 
+O’Brien LM, Holbrook CR, Mervis CB, et. al. Sleep and neurobehavioral 
+characteristics of 5-7 year-old children with parentally reported 
+symptoms of ADHD. Pediatrics 2003;111:554-63. 
+6. 
+O'Brien LM, Mervis CB, Holbrook CR, et al. Neurobehavioral 
+correlates of sleep-disordered breathing in children. J Sleep Res 
+2004;13:165-72. 
+7. 
+Reuveni H, Simon T, Tal A, Elhayany A, Tarasiuk A. Health care 
+services utilization in children with obstructive sleep apnea syndrome. 
+Pediatrics 2002;110:68-72. 
+8. 
+Amin RS, Kimball TR, Kalra M, et. al. Left ventricular function 
+in children with sleep-disordered breathing. Am J Cardiol 
+2005;95:801-4. 
+9. 
+Freezer NJ, Bucens IK, Robertson CF. Obstructive sleep apnoea 
+presenting as failure to thrive in infancy. J Paediatr Child Health 
+1995; 31:172-5. 
+10. 
+Rona RJ, Li L, Gulliford MC, Chinn S. Disturbed sleep: effects of 
+sociocultural factors and illness. Arch Dis Child 1998;78:20-5. 
+11. 
+Chervin RD, Dillon JE, Bassetti C, Ganoczy DA, Pituch KJ. Symptoms 
+of sleep disorders, inattention, and hyperactivity in children. 
+Sleep 1997;20:1187-92. 
+12. 
+Aronen ET, Paavonen EJ, Fjällberg M, Soininen M, Törrönen J. 
+Sleep and psychiatric symptoms in school-age children. J Am Acad 
+Child Adolesc Psychiatry 2000;39:502-8. 
+13. 
+Crabtree VM, Varni JW, Gozal D. Health-related quality of life and 
+depressive symptoms in children with suspected sleep-disordered 
+breathing. Sleep 2004;27:1131-8. 
+14. 
+Row BW, Kheirandish L, Neville JJ, Gozal D. Impaired spatial 
+learning and hyperactivity in developing rats exposed to intermittent 
+hypoxia. Pediatric Res 2002;52:449-53. 
+15. 
+Kheirandish L, Gozal D, Pequignot JM, Pequignot J, Row BW. 
+Intermittent hypoxia during development induces long-term alterations 
+in working spatial memory, monoamine turnover, and dendritic 
+branching in rat frontal cortex. Pediatr Res 2005;58:594-9. 
+16. 
+Goldstein NA, Post C, Rosenfeld RM, Campbell TF. Impact of tonsillectomy 
+and adenoidectomy on child behavior. Arch Otolaryngol 
+Head Neck Surg 1998;124:494-8. 
+17. 
+Friedman BC. Hendeles-Amitai A. Kozminsky E. et al. Adenotonsillectomy 
+improves neurocognitive function in children with obstructive 
+sleep apnea syndrome. Sleep 2003;26:999-1005. 
+18. 
+Tarasiuk A, Simon T, Tal A, Reuveni H. Adenotonsillectomy in 
+children with obstructive sleep apnea syndrome reduces health care 
+utilization. Pediatrics 2004;113:351-6. 
+19. 
+Montgomery-Downs HE, Crabtree VM, Gozal D. Cognition, sleep 
+and respiration in at-risk children treated for obstructive sleep apnoea. 
+Eur Respir J 2005;25:336-42. 
+20. 
+Guilleminault C, Winkle R, Korobkin R, Simmons B. Children 
+and nocturnal snoring: evaluation of the effects of sleep related 
+respiratory resistive load and daytime functioning. Eur J Pediatr 
+1982;139:165-71. 
+21. 
+Archbold KH, Giordani B, Ruzicka DL, Chervin RD. Cognitive executive 
+dysfunction in children with mild sleep-disordered breathing. 
+Biol Res Nurs 2004;5:168-76. 
+22. 
+Kennedy JD, Blunden S, Hirte C, et al. Reduced neurocognition in 
+children who snore. Pediatr Pulmonol 2004;37:330-7. 
+23. 
+Montgomery-Downs HE, Gozal D. Snore-associated sleep frag-
+SLEEP, Vol. 29, No. 10, 2006 
+1286 
+Behavior Following Polysomnography Montgomery-Downs and Gozal 
+
+
+mentation in infancy: mental development effects and contribution 
+of secondhand cigarette smoke exposure. Pediatrics 2006;117:e496
+
+
+502. 
+24. 
+Scholle S, Scholle HC, Kemper A et al. First night effect in children 
+and adolescents undergoing polysomnography for sleep-disordered 
+breathing. Clin Neurophysiol 2003;114:2138-45. 
+25. 
+Verhulst SL, Schrauwen N, De Backer WA, Desager KN. First night 
+effect for polysomnographic data in children and adolescents with 
+suspected sleep disordered breathing. Arch Dis Child 2006;91:2337. 
+26. 
+Li AM, Wing YK, Cheung A, et al. Is a 2-night polysomnographic 
+study necessary in childhood sleep-related disordered breathing? 
+Chest 2004;126:1467-72. 
+27. 
+Katz ES, Greene MG, Carson KA, et al. Night-to-night variability 
+of polysomnography in children with suspected obstructive sleep 
+apnea. J Pediatr 2002;140:589-94. 
+28. 
+Suratt PM, D’Andrea LA, Diamond R, Barth JT, Peruggia M. Relative 
+contribution of average sleep time at home and sleep disordered 
+breathing to tests of intelligence & hyperactivity in children. Am J 
+Respir Crit Care Med 2003;ATS abstract supplement:A013. 
+29. 
+Sadeh, A, Hauri, PJ, Kripke, DF, Lavie, P. The role of actigraphy in 
+the evaluation of sleep disorders. Sleep 1995;18:288-302. 
+30. 
+Rechtschaffen A, Kales A, eds. A Manual of Standardized Terminology, 
+Techniques and Scoring System for Sleep Stages of Human 
+Subjects. Brain Information Services/Brain Research Institute; University 
+of California, Los Angeles; 1968. 
+31. 
+Montgomery-Downs HE, O’Brien LM, Gulliver TM, Gozal D. 
+Polysomnographic characteristics in normal preschool and early 
+school-age children. Pediatrics 2006;117:741-53. 
+32. 
+Standards and indications for cardiopulmonary sleep studies in 
+children. American Thoracic Society. Am J Respir Crit Care Med 
+1996;153:866-78. 
+33. 
+EEG arousals: scoring rules and examples: a preliminary report 
+from the Sleep Disorders Atlas Task Force of the American Sleep 
+Disorders Association. Sleep 1992;15:173-84. 
+34. 
+Bayley N. Bayley Scales of Infant Development. San Antonio: The 
+Psychological Corporation; 1969. 
+35. 
+Bayley N. Bayley Scales of Infant Development. San Antonio: The 
+Psychological Corporation; 1993. 
+36. 
+Siegel LS. Infant perceptual, cognitive, and motor behaviors as predictors 
+of subsequent cognitive and language development. Canadian 
+Journal of Psychology 1979;33:382-95. 
+37. 
+Ulvund SE, Smith L. The predictive validity of nonverbal communicative 
+skills in infants with perinatal hazards. Infant Behav Develop 
+1996;19:441-9. 
+38. 
+Fallone G, Acebo C, Seifer R, Carskadon MA. Experimental restriction 
+of sleep opportunity in children: effects on teacher ratings. 
+Sleep 2005;28:1561-7. 
+39. 
+Sadeh A, Gruber R, Raviv A. The effects of sleep restriction and 
+extension on school-age children: what a difference an hour makes. 
+Child Dev 2003;74:444-55. 
+40. 
+Ishihara K. The effect of 2-h sleep reduction by a delayed bedtime 
+on daytime sleepiness in children. Psychiatry Clin Neurosci 
+1999;53:113-5. 
+SLEEP, Vol. 29, No. 10, 2006 
+1287 
+Behavior Following Polysomnography Montgomery-Downs and Gozal 
+
+

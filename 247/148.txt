@@ -1,0 +1,1101 @@
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+NIH Public Access 
+
+Author Manuscript 
+
+J Am Acad Child Adolesc Psychiatry. Author manuscript; available in PMC 2008 November 1. 
+
+Published in final edited form as: 
+J Am Acad Child Adolesc Psychiatry. 2007 November ; 46(11): 1425–1436. 
+
+DSM-IV DIAGNOSES AND OBSTRUCTIVE SLEEP APNEA IN 
+
+CHILDREN BEFORE AND 1 YEAR AFTER 
+
+ADENOTONSILLECTOMY 
+
+James E. Dillon, M.D., Sarah Blunden, Ph.D., Deborah L. Ruzicka, R.N.Ph.D., Kenneth E. 
+Guire, M.S., Donna Champine, M.D., Robert A. Weatherly, M.D., Elise K. Hodges, Ph.D, Bruno 
+
+J. Giordani, Ph.D., and Ronald D. Chervin, M.D., M.S. 
+Drs. Dillon and Champine are with the Division of Child and Adolescent Psychiatry, University of 
+Michigan Medical School; Dr. Blunden is with the Centre for Sleep Research of the University of 
+South Australia; Dr. Ruzicka is at the Sleep Disorders Center, of which Dr. Chervin is the director, 
+within the Department of Neurology of the University of Michigan Medical School; Mr. Guire is from 
+the Department of Biostatistics at the University of Michigan School of Public Healt; Dr. Weatherly 
+is in the Division of Pediatric Otolaryngology at the University of Kansas; Drs. Hodges and Giordani 
+are with the Neuropsychology Section, Department of Psychiatry, University of Michigan Medical 
+School 
+
+Abstract 
+
+Objectives—Obstructive sleep apnea, a common indication for adenotonsillectomy in children, 
+has been linked to behavioral morbidity. We assessed psychiatric diagnoses in children before and 
+after adenotonsillectomy and examined whether baseline sleep apnea predicted improvement after 
+surgery. 
+
+Method—Subjects of this prospective cohort study were children aged 5.0–12.9 years-old who had 
+been scheduled for adenotonsillectomy (n = 79), or care for unrelated surgical conditions (n=27, 
+among whom 13 had surgery after baseline assessment). Prior to intervention and one year later, 
+subjects underwent structured diagnostic interviews and polysomnography. The main outcome 
+measure was frequency of DSM-IV attention and disruptive behavior disorder diagnoses (A&DBDs) 
+at baseline and follow-up. 
+
+Results—At baseline, A&DBDs were diagnosed in 36.7% of adenotonsillectomy subjects and 
+11.1% of controls (p<.05); attention-deficit/hyperactivity disorder was found in 27.8% and 7.4%, 
+respectively (p<.05). One year later, group differences were non-significant, A&DBDs were 
+diagnosed in only 23.1% (p<.01), and 50% of subjects with baseline attention-deficit/hyperactivity 
+disorders no longer met diagnostic criteria. Obstructive sleep apnea on polysomnography at baseline 
+did not predict concurrent psychiatric morbidity or later improvement. 
+
+Conclusions—Attention and disruptive behavior disorders, diagnosed by DSM-IV criteria, were 
+more common before clinically-indicated adenotonsillectomy than one year later. Surgery may be 
+associated with reduced morbidity even among subjects lacking polysomnographic evidence of 
+obstructive sleep apnea. 
+
+Keywords 
+
+sleep apnea; obstructive; sleep disorders; child behavior disorders; attention deficit disorder with 
+hyperactivity; adenotonsillectomy 
+
+Inquiries should be addressed to the corresponding author: James E. Dillon, M.D., 5600 Meadow Drive, Ann Arbor, MI 48105, 
+dillonje@michigan.gov, phone: 734-657-3832, FAX: 734-484-6913. 
+
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+Dillon et al. Page 2 
+
+INTRODUCTION 
+
+Obstructive sleep apnea (OSA) affects 1 to 3% of children (Gislason and Benediktsdottir, 
+1995), while subtle forms of sleep-disordered breathing may affect many more (Downey et al., 
+1993). Although most affected children are probably undiagnosed (Chervin et al., 2001), 
+adenotonsillectomy (AT) is an effective treatment in up to 80% of all cases (Suen et al., 
+1995). Indeed, OSA now rivals recurrent throat infections as the most common indication for 
+this procedure (Weatherly et al., 2003). 
+
+Childhood OSA is associated with disruptive behavior (Section on Pediatric Pulmonology and 
+Subcommittee on Obstructive Sleep Apnea Syndrome, 2002). Numerous studies of children 
+with sleep-disordered breathing have reported inattentiveness, hyperactivity, oppositional 
+behavior and conduct problems (Chervin et al., 2002; Chervin et al., 2003a; Guilleminault et 
+al., 1976); mood and anxiety symptoms (Goldstein et al., 2002; Goldstein et al., 2004; 
+Guilleminault et al., 1976; O’Brien et al., 2004); and enuresis (Basha et al., 2005; Umlauf and 
+Chasens, 2003). Several clinical series have shown improvement in behavioral symptoms (Ali 
+et al., 1996; Goldstein et al., 2004; Guilleminault et al., 1976; Mitchell and Kelly, 2005) or 
+neurocognitive measures (Avior et al., 2004; Friedman et al., 2003) after treatment of 
+coexisting sleep disorders. 
+
+Pre-operative clinical diagnoses of OSA appear to predict symptomatic improvement after AT 
+whether or not baseline polysomnography confirms OSA (Goldstein et al., 2004). Similarly, 
+behavioral and cognitive impairments can be detected in children with clinical evidence of 
+sleep-disordered breathing even in the absence of compelling polysomnographic findings 
+(Blunden et al., 2000; Crabtree et al., 2004; Gottlieb et al., 2003) (Ali et al., 1996). Furthermore, 
+baseline polysomnographic measures correlate only modestly with quality-of-life changes after 
+surgery (Stewart et al., 2005). The American Academy of Pediatrics recommends objective 
+testing for OSA prior to AT to treat the condition, but acknowledges that such testing may not 
+be necessary if primary snoring (in the absence of sleep fragmentation and hypoxemia) should 
+prove consequential (American Academy of Pediatrics, 2002). 
+
+Although OSA and psychiatric morbidity are probably common among children referred for 
+AT (Weatherly et al., 2003), no prospective studies have been designed specifically to ascertain 
+the prevalence of DSM-IV diagnoses among such children. In one recent report of 40 cases 
+undergoing AT, the prevalence of psychiatrist-diagnosed DSM-IV attention-deficit/ 
+hyperactivity disorder (ADHD) was 40%. That study, however, expressly excluded subjects 
+with “psychiatric disorders,” and did not report diagnostic changes following surgery (Li et 
+al., 2006). Studies finding neurobehavioral morbidity in the setting of OSA have used parental 
+histories, clinic notes, parent rating scales, or cognitive testing to define the pathology (Chervin 
+et al., 2002; Goodwin et al., 2003; Gottlieb et al., 2004; O’Brien et al., 2003). None have 
+employed structured interviews keyed to the DSM-IV and administered by psychiatrists or 
+other trained clinicians. Nor has any single study among children undergoing AT evaluated a 
+wide range of categorically defined mental disorders, as distinct from dimensions of behavior 
+derived from checklist inventories; thus, the prevalence of clinically established DSM-IV 
+diagnoses in such children is unknown. Finally, no previous study has reported the extent to 
+which DSM-IV diagnoses remit after treatment for OSA. 
+
+The primary goals of this study were, first, to examine the frequency of mental disorders among 
+children referred for AT and second, to assess the impact of surgery on psychiatric status. A 
+secondary goal was to ascertain whether surgical response was related to the baseline 
+polysomnographic diagnosis of OSA. To address these questions, we followed a cohort of 106 
+children, including an index group scheduled for AT and a control group receiving unrelated 
+care, from the weeks preceding surgery to follow-up one year after surgery. We have previously 
+
+J Am Acad Child Adolesc Psychiatry. Author manuscript; available in PMC 2008 November 1. 
+
+
+Dillon et al. Page 3 
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+reported that the AT subjects, in comparison to controls, exhibited more baseline hyperactivity, 
+inattention, and sleepiness, but improved substantially a year later (Chervin et al., 2006a; 
+Chervin et al., 2006b). Here we focus on unique DSM-IV-based diagnostic data from this 
+intensively studied cohort. 
+
+METHODS 
+Subjects 
+
+Demographic data for subjects are shown in Table 1. 
+
+Participants and non-participants in this study have been described in detail elsewhere (Chervin 
+et al., 2006a) (here we include one additional subject omitted in previous analyses because of 
+inadequate polysomnographic data). Briefly, children were recruited and studied between 
+December, 1999 and January, 2004. Each participant had been referred for adenotonsillectomy 
+(n=79 studied at baseline, 78 at follow-up) to any of 8 otolaryngology practices, except for 
+control children (n=27 at baseline, 23 at follow-up), 8 of whom had been scheduled for inguinal 
+hernia repair, 4 for umbilical herniorrhaphy, 1 for repair of ureteropelvic junction obstruction, 
+and 14 for no surgery. Among those receiving no surgery within the protocol parameters, four 
+had had surgical procedures within the preceding year, including inguinal node biopsy, excision 
+of nevi from face and chest, hernia repair, and a procedure for an injured toe. Patients with a 
+history of treatment for sleep-disordered breathing, and children with severe medical or preexisting 
+psychiatric conditions were excluded from AT and control groups, in order to limit 
+the subject population to cases for whom AT would be expected to eliminate OSA, and 
+neurobehavioral outcomes would not be obscured. Children whose surgeons sought 
+polysomnography for clinical purposes were excluded in order to blind parents and 
+psychiatrists to polysomnographic data and to ensure that the protocol itself did not affect 
+surgical decisions. Control candidates with a history of large tonsils, frequent throat infections, 
+adenoidectomy, or tonsillectomy were excluded to minimize the likelihood that such children 
+would be candidates for AT, in the past or at present, while ensuring comparability to AT 
+subjects with respect to absence of any baseline history of AT. 
+
+Surgical indications for AT, as endorsed by the referring surgeons, included obstructed 
+breathing while awake (n=30), obstructed breathing while asleep (n=72), and recurrent 
+tonsillitis (n=20). Seventy-two subjects had obstructed breathing as at least one of the 
+indications for surgery, while seven had recurrent tonsillitis without obstructed breathing. 
+Supplemental indications such as chronic pharyngitis, chronic sinusitis, enuresis, daytime 
+sleepiness, inattention, and adenoidal hypertrophy with hyponasal speech were noted in six 
+cases. 
+
+Among 106 children who participated in the baseline study, 101 (95.3%) returned for follow-
+up examinations. At each session one child had incomplete polysomnographic results and could 
+not be classified as to OSA status. 
+
+Parents and children were compensated for their participation. Informed consent from a parent 
+and assent from the child were obtained. The study was approved by the Institutional Review 
+Board for Human Subjects Research of the University of Michigan Medical School. 
+
+Design 
+
+Polysomonographic and psychiatric assessments were performed before adenotonsillectomy 
+or control procedures (if any), usually within two weeks of the procedure, and identical 
+assessments were performed at a mean of 13.0 +/- 1.4 (s.d.) months later. Parent rating scales 
+and neurocognitive measures, obtained contemporaneously, have been described elsewhere 
+(Chervin et al., 2006a). 
+
+J Am Acad Child Adolesc Psychiatry. Author manuscript; available in PMC 2008 November 1. 
+
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+Dillon et al. Page 4 
+
+Psychiatric Diagnosis 
+
+Psychiatric diagnoses for attention and disruptive behavior disorders (A&DBDs) were the 
+primary outcome variables. All diagnoses were anchored in the Computerized Diagnostic 
+Interview Schedule for Children, Present State Edition, parent interview (DISC), administered 
+by three board certified child and adolescent psychiatrists trained in use of the instrument. 
+Pervasive developmental disorders were diagnosed on clinical grounds alone. 
+
+The computerized version of the DISC has proven validity and reliability (Shaffer et al., 
+1996). The present state interview focuses on psychopathology present during the previous 
+month, addressing the longitudinal course of symptoms to the extent necessary to satisfy 
+diagnostic criteria related to age of onset and duration of symptoms. The interview answers 
+the question, “Was the diagnosis present in the preceding month?” The inter-rater reliability 
+of DISC diagnoses, assessed by having two psychiatrists simultaneously coding endorsements 
+on separate computers during seven interviews, was 100%. 
+
+The direct child interview was structured around the content of the Children’s Psychiatric 
+Rating Scale (CPRS) (Anonymous, 1985). 
+
+Following administration of the DISC interview, psychiatrists were permitted to clarify 
+symptom endorsements if the parent appeared to misunderstand the intent of specific questions 
+or if data obtained during the child interview seemed to contradict parent endorsements. For 
+example, if the parent had denied symptoms of inattention and hyperactivity in the course of 
+the DISC administration, yet the child was unusually distractible and active during the 
+interview, the parent would be asked additional questions to clarify whether the observed 
+behavior was typical or unusual, whether teachers had observed such behavior in school, how 
+long the child had exhibited such behavior, etc. Similarly, if a child acknowledged an 
+internalizing symptom that the parent had denied, additional questions would be directed to 
+the parent to help ascertain the significance and validity of the child report. The final diagnosis 
+strictly applied DSM-IV criteria and was based upon all relevant information from these 
+interviews. 
+
+Psychiatric Ratings 
+
+Ratings performed by the psychiatrist conducting the DISC interview were used as secondary 
+outcome variables. The DSM-IV – based Disruptive Behavior Disorder Rating Scale 
+(DBDRS) is similar to instruments such as the SNAP-IV (Swanson, 1992) and the ADHD 
+Rating Scale (DuPaul et al., 1998), a family of scales that place criteria for A&DBDs on a 4point 
+(0–3) Likert scale. A rating of “2” was defined as the severity threshold for an attribute 
+to be considered a symptom. 
+
+The Children’s Psychiatric Rating Scale (CPRS), which contains 73 items addressing a wide 
+range of psychopathology, has established reliability and validity (Anonymous, 1985). 
+Applying principle components analysis with varimax rotation to the baseline data, we 
+extracted factors for “depression” and “anxiety.” 
+
+The Children’s Global Assessment Scale (CGAS) (Shaffer et al., 1983), a pediatric version of 
+the Global Assessment Scale, resembles DSM-IV’s axis V Global Assessment of Functioning. 
+The Clinical Global Impressions scale (CGI) calls for the clinician to rate overall illness along 
+a 7-point continuum from “not ill” to “extremely ill” (Guy, 1976). 
+
+Socioeconomic Class 
+
+Socioeconomic status was classified according to the Hollingshead Two-Factor Index of Social 
+Position (Hollingshead, 1958), based upon parental education and occupation. Families are 
+
+J Am Acad Child Adolesc Psychiatry. Author manuscript; available in PMC 2008 November 1. 
+
+
+Dillon et al. Page 5 
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+classified into one of five categories, “1” representing the highest and “5” representing the 
+lowest socioeconomic class. 
+
+Integrity of Psychiatric Measures 
+
+Psychiatrists were masked to all polysomnographic results but could not be masked to the 
+nature of the research and the operative status of subjects. Therefore, we needed to ensure that 
+psychiatric ratings were generally in accord with related measures from other sources. To assess 
+this, we compared DBDRS scores, reflecting psychiatrist endorsements of the major criterion 
+symptoms, with scores in related domains from the Conners Parent Rating Scale and the 
+Integrated Visual and Auditory (IVA) continuous performance test (Tinius, 2003), to which 
+psychiatrists were blind. Correlations (Pearson r) between clinician ratings and parent ratings 
+for comparable domains on the Conners Parent Rating Scale were .83 (p < .0001) for 
+inattention, .67 (p < .0001) for impulsivity/hyperactivity, .65 (p < .0001) for ADHD, and .82 
+(p < .0001) for oppositional symptoms. Correlations between clinician ratings and full-scale 
+attention and response control scores on the IVA were -0.36 (p = .0002) and -0.25 (p = .0110), 
+respectively. These correlations are more robust than those reported elsewhere between TOVA 
+variables and ratings on the Revised Conners Teacher Rating Scale (Forbes, 1998) and provide 
+external validation of the clinical ratings. Psychiatric diagnoses were made without access to 
+any data from the IVA. 
+
+Sleep Classification and Variables 
+
+All children in this study underwent polysomnography (PSG) for investigative purposes. 
+Conducted in a private room at the Michael S. Aldrich Sleep Disorders Laboratory, 
+polysomnography included a standard pediatric montage that has been described in detail 
+elsewhere (Chervin et al., 2006a). Nasal and oral airflow were monitored with thermocouples, 
+thoracic and abdominal excursion with piezoelectric strain gauges, and end-tidal CO2 by 
+pediatric nasal cannula. Esophageal pressure (Pes) was monitored with a thin, water-filled 
+catheter that has negligible effects on sleep in children (Chervin et al., 2006a; Chervin and 
+Aldrich, 2002) and was tolerated by most, but not all subjects (Chervin et al., 2003b). Snoring 
+was assessed in the laboratory by a sound sensor and by technician observations. The snoring 
+history was recorded by parents in items from the Pediatric Sleep Questionnaire (Chervin et 
+al., 1997). 
+
+Sleep stages were scored according to a standard protocol (Rechtschaffen and Kales, 1968). 
+Apneas and hypopneas were required to last the length of 2 or more respiratory cycles. 
+Respiratory event-related arousals, as defined using esophageal pressure results (Chervin et 
+al., 2006a), were counted with apneas and hypopneas per hour of sleep to generate a respiratory 
+disturbance index. The condition of OSA was considered to be present when the obstructive 
+apnea index (OAI, events per hour of sleep) was = 1 (Katz and Marcus, 2005) (operationalized 
+as = 0.5 to minimize false-negative classification and identify a group of children who clearly 
+have no OSA). Polysomnograms were scored blindly by one experienced, board-certified 
+polysomnographic technician. 
+
+Table 2 shows the obstructive apnea indices (number of events per hour of sleep) for children 
+at baseline and follow-up. Pediatric obstructive sleep apnea can be considered mild when the 
+apnea index is 1 – 4, moderate when this index is 5 – 10, and severe when this index is > 10 
+(Katz and Marcus, 2005). Nearly all subjects were thought by their referring otolaryngolgists 
+to have OSA, based on office-based histories and examinations, though this clinical impression 
+was not an inclusion criterion. Additional details of the polysomnographic findings have been 
+published (Chervin et al., 2006a;Chervin et al., 2006b). 
+
+J Am Acad Child Adolesc Psychiatry. Author manuscript; available in PMC 2008 November 1. 
+
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+Dillon et al. Page 6 
+
+Analyses 
+
+Data were entered into a database by a professional company that used double entry for 
+verification. Major analyses were conducted with SAS®, version 9.1 (SAS Institute Inc., Cary, 
+NC). Primary outcomes were assessed using Fisher’s Exact Test, to compare diagnostic rates 
+in AT and control subjects at baseline and at follow-up; and McNemar’s Test, to compare pre-
+and post-operative diagnostic rates in AT subjects. For non-categorical psychiatric ratings, the 
+SAS “PROC MIXED” procedure was used to conduct a two-way, repeated measures analysis 
+of variance employing two levels for each independent variable, with age and socioecomomic 
+class as covariates. This procedure generated main effects for group (AT vs. control), treatment 
+(baseline vs. follow-up), and for group by treatment interactions. “Slice” effects from the same 
+statistical routine contrast AT with control subjects at baseline and changes in AT subjects 
+before and after treatment. A similar analysis using a three-level group variable generated 
+adjusted mean scores for controls and the AT+OSA and AT-OSA subgroups, and significance 
+levels for comparisons between subgroups at baseline and follow-up. Parallel analyses treating 
+sex as an independent variable produced similar results, and are therefore not reported here. 
+Correlations (Spearman’s rho) between psychiatric ratings and several measures of OSA 
+severity (obstructive apnea index, apnea/hypopnea index, respiratory disturbance index, and 
+minimum percent oxygen saturation), and sleep (EEG arousal index, total sleep time, percent 
+sleep efficiency, and percent of sleep time spent in stages 1, 2, 3+4, and REM sleep) were 
+calculated in post hoc analyses. 
+
+The level of significance was set at p = .05 for primary outcomes. For many low-frequency 
+diagnoses, such as conduct disorder, tic disorders, encopresis, and pervasive developmental 
+disorder, statistically significant differences between groups or times were not anticipated. 
+
+RESULTS 
+Frequency of psychiatric diagnoses before adenotonsillectomy 
+
+
+Psychiatric diagnoses at baseline and follow-up are presented in Table 3. 
+
+Before surgery, 29 AT children (36.7%) had at least one disruptive behavior disorder, whereas 
+only 3 (11.1%) of the controls were similarly diagnosed (p = .015). Twenty-two (27.8 %) of 
+the AT children received an ADHD diagnosis, while only 3 (7.4%) of the control children 
+received one (p = .033). Oppositional defiant disorder (ODD) was diagnosed in 14 AT children 
+(17.7%) and in only 1 control (3.7%), a difference which fell short of significance (p = .108). 
+Fourteen (17.7%) children referred for AT and 2 (7.4%) controls had anxiety disorders or 
+dysthymic disorder (p = .35). Enuresis was found in 14 (17.7%) AT children and in 3 (11.1%) 
+controls. 
+
+Effects of treatment on psychiatric diagnosis 
+
+The frequency of psychiatric disorders among controls changed minimally from baseline to 
+follow-up. In contrast, the frequency of A&DBDs in AT children dropped from 36.7% to 23.1% 
+(p = .008). Among the 29 children diagnosed at baseline, 14 (48.3%) remitted and 15 (51.7%) 
+continued to have disruptive disorders. The overall prevalence of ADHD declined modestly 
+from 27.8% to 20.5% (n.s.); among the 22 children diagnosed with ADHD at baseline, 11 
+(50%) remitted. Among five cases receiving ADHD diagnoses for the first time at follow-up, 
+two had been diagnosed with another disruptive behavior disorder at baseline; in three cases 
+A&DBDs were diagnosed only at follow-up. Two children with persisting ADHD had been 
+diagnosed with the combined type at baseline but with the inattentive type after intervention. 
+ODD diagnoses declined after surgery from 17.7% to 9.0% (p = .020); among 14 ODD cases 
+at baseline, 8 (57.1%) remitted. The overall prevalence of mood and anxiety disorders declined 
+somewhat, from 17.7% to 10.3% (n.s.). Among those initially diagnosed with at least one of 
+
+J Am Acad Child Adolesc Psychiatry. Author manuscript; available in PMC 2008 November 1. 
+
+
+Dillon et al. Page 7 
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+these disorders, however, 64.3% remitted after surgery. Enuresis declined among AT subjects 
+from 17.7% to 6.4% (p = .007). Among OSA subgroups, 8 of 11 with OSA dropped the 
+diagnosis of enuresis while only 1 of 3 without OSA improved (n.s.). 
+
+Following surgery, AT and control groups were statistically indistinguishable for any diagnosis 
+or cluster of diagnoses. 
+
+No cases of post-traumatic stress disorder, major depression, mania, or hypomania were 
+diagnosed at baseline or follow-up in either group. 
+
+Magnitude of change among children with attention and disruptive behavior disorders whose 
+condition remitted after surgery 
+
+Among 11 children whose ADHD remitted after AT, rating changes on the DBDRS subscales 
+corresponding to pre-operative diagnosis changed by an average of 51.1%. The mean decrease 
+in DBDRS-IA scores was 8.4; in DBDRS-H/I scores, 6.0; and in DBDRS-combined scores, 
+18.0, for children with the respective baseline diagnoses. Similarly, DBDRS-ODD scores 
+among children with diagnoses of ODD at baseline dropped by 48.5%, with mean score 
+decrements of 5.2. 
+
+Psychiatric ratings 
+
+Psychiatric ratings, examined as secondary variables, are summarized in Table 4. 
+
+The DBDRS inattention, hyperactivity/impulsivity, and combined scores were somewhat 
+higher in AT subjects than in controls before and after surgery, though neither the main effects 
+nor slice effects, comparing baseline scores, were significant. AT subjects had significantly 
+higher DBDRS-ODD scores, lower CGAS scores, and higher CGI ratings than controls, both 
+at baseline and overall. Among children diagnosed with A&DBDs, the mean CGI score was 
+3.3, where “3” is mild and “4” is moderate severity. 
+
+Change after treatment was reflected in significant main effects for the CGAS, the CGI, and 
+all DBDRS subscales except DBDRS-IA, which fell just short of significance (p = .071). The 
+impact of treatment for the AT group alone was highly significant for all measures. 
+
+Scores for the depression factor on the CPRS differed between the AT group and controls (p 
+= .041). A modest treatment effect on the anxiety factor (p =.026) did not differentiate AT from 
+control subjects. 
+
+Comparison of AT groups with and without obstructive sleep apnea 
+
+Eleven children (27.5%) in the AT+OSA group but only 3 (7.9%) in the AT-OSA group had 
+baseline enuresis (p=.037). Otherwise there were no discernible differences between these 
+subgroups in baseline frequencies of DSM-IV diagnoses. Figure 1 illustrates psychiatric ratings 
+in the OSA subgroups -and in controls at baseline and a year later. 
+
+The AT children without baseline OSA improved significantly after surgery on ratings for 
+inattention, oppositional defiant behavior, global functioning, and clinician’s global 
+impression. Only the oppositional-defiant score improved significantly for the AT children 
+with baseline OSA. Although AT children without OSA appeared to be slightly more 
+symptomatic at baseline than AT children with OSA, none of the measures differed statistically 
+between the two groups, either at baseline or post-operatively. Controls did not change between 
+baseline and follow-up on these measures. 
+
+J Am Acad Child Adolesc Psychiatry. Author manuscript; available in PMC 2008 November 1. 
+
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+Dillon et al. Page 8 
+
+Sleep-Related Breathing, Esophageal Pressure (Pes), and Behavior Ratings 
+
+Parents reported loud snoring in 35/40 (88%) AT+OSA children, in 24/38 (63%) AT-OSA 
+children, and in 0/27 controls. They reported snoring more than half the time while asleep in 
+38/39 (97%) AT+OSA subjects, in 23/35 (66%) AT-OSA subjects, and in 2/26 (8%) controls. 
+Parents witnessed apneas in 14/37 (38%) AT+OSA children, in 10/35 (29%) AT-OSA 
+children, and in 1/27 (4%) controls. At least one laboratory measure of snoring was positive 
+in 28/38 (73.7%) AT+OSA subjects, in 7/33 (21%) of AT-OSA subjects, and in 3/26 (12%) 
+controls. Correlations between laboratory and parent measures of snoring were modest; for 
+example, the correlation between any positive laboratory measure and parent-reported snoring, 
+r, was 0.40 
+
+Correlations of behavioral ratings with polysomnographic measures were generally small and 
+non-significant. Oppositional behavior, however, was modestly correlated with the obstructive 
+apnea index (rho = 0.17, p = 0.077); apnea/hypopnea index (rho = 0.21, p = .035); respiratory 
+distress index (rho = 0.20, p = 0.037); percent sleep time in stages 3 and 4 sleep (rho = 0.25, 
+p = .009); and percent sleep time in REM sleep (rho = -.26, p = .008). In addition, the percent 
+of sleep time spent in REM sleep was correlated with the CGAS (rho = .26, p = .008) and 
+negatively correlated with CGI (rho = -.23, p = .019), both associations indicating that more 
+REM sleep was better. 
+
+DISCUSSION 
+
+In this longitudinal study of children who received AT or unrelated surgical care, several key 
+findings emerged. First, AT children had notably more psychopathology, especially A&DBDs, 
+than did controls. This was true for diagnoses, symptom ratings, and global ratings of 
+psychopathology and functioning. Second, the frequency of most diagnoses and severity of 
+associated psychiatric ratings dropped after AT. These changes were statistically significant 
+for A&DBDs overall and for oppositional defiant disorder. Remission rates for A&DBDs as 
+a whole, for ADHD, and for mood and anxiety disorders were substantial, ranging from 42% 
+to 64%. Among children in remission at follow-up, the magnitude of change as reflected in 
+psychiatric ratings was generally high, with improvements of about 50%. The third key finding 
+was that, contrary to expectation, polysomnographic evidence of obstructive sleep apnea did 
+not predict psychopathology at baseline or improvement at follow-up among children 
+scheduled for AT. 
+
+Current understanding of behavior in children with sleep disorders is based mainly on parent 
+report or is anecdotal in nature. To our knowledge only one previous pediatric study evaluated 
+DSM-IV criteria in children with primary sleep disorders (Ivanenko et al., 2004). In that study 
+50% of children presenting to a pediatric sleep center for insomnia had a DSM-IV diagnosis 
+based upon psychiatric interview. Conversely, a few studies have now assessed for OSA in 
+children with DSM-IV-defined ADHD. Two reported high frequencies of OSA (50% or more) 
+in these children (Golan et al., 2004; Huang et al., 2004); another found no OSA among 40 
+children screened for an ADHD study (Sangal et al., 2005), possibly because of a somewhat 
+insensitive definition of OSA and a lack of control subjects (Chervin, 2005). The present study, 
+in contrast, examined children who had not presented because of specific behavioral symptoms, 
+but because of symptoms associated with adenotonsillar hypertrophy. 
+
+Our study is unusual in that we were able to include some subjects treated for clinically 
+diagnosed OSA that could not be demonstrated on polysomnography. Unexpectedly, AT 
+subjects with and without polysomnographically verified OSA were statistically 
+indistinguishable with respect to psychiatric symptom severity and response to surgery. 
+Although respiratory disturbance, psychiatric diagnoses, and behavioral ratings all improved 
+after AT, the initial and follow-up psychiatric status bore no apparent relationship to the 
+
+J Am Acad Child Adolesc Psychiatry. Author manuscript; available in PMC 2008 November 1. 
+
+
+Dillon et al. Page 9 
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+presence of OSA at baseline. After AT there were fewer A&DBDs and substantial reductions 
+in symptom ratings irrespective of the initial OSA status. Mood and anxiety disorders showed 
+trends in a similar direction that did not reach significance, leaving unsettled whether the 
+benefits observed are specific for externalizing symptoms or extend to a wider range of 
+symptoms and disorders. 
+
+Our data cannot explain these results, but several hypotheses bear examination in future 
+research. First, the threshold for manifesting neurobehavioral problems in OSA may be quite 
+low, and the impact of milder sleep-disordered breathing may be substantial. Referring 
+otolaryngologists suspected that nearly all AT subjects had OSA, yet about half did not satisfy 
+an inclusive polysomnographic criterion. The obstructive apnea index is strongly correlated 
+with the apnea/hypopnea index and the respiratory disturbance index (Chervin et al., 2006b), 
+so exclusion of milder respiratory events from the obstructive apnea index (with use of 
+appropriate cut-offs) does not explain our findings. All of these laboratory methods may prove 
+insensitive to mild forms of obstructed breathing during sleep that have important clinical 
+effects. Others also have suggested that clinical diagnoses of OSA are sensitive but rather nonspecific 
+with respect to polysomnographic findings (Goldstein et al., 1994). Whether such 
+symptom constellations in the absence of polysomnographic findings are correctly 
+denominated OSA or would be better designated by the more inclusive term “sleep-disordered 
+breathing,” they are commonly managed surgically as part of the OSA spectrum and, as our 
+baseline data suggest, they appear to be associated with similar psychiatric morbidity. 
+
+Second, the AT+OSA subjects may have experienced more severe states of sleep deprivation 
+that suppressed the manifestation of psychopathology by rendering the children listless and 
+somnolent. While it is often assumed that children who are “overtired” are irritable and 
+inattentive, excessive sleepiness may also induce a passive state that reduces externalizing 
+behaviors, perhaps explaining why several new cases of ADHD emerged after surgery. 
+
+A third possibility is that the association between adenotonsillar hypertrophy and behavior 
+problems arises from another mechanism entirely, such as allergy or chronic infection (Swedo 
+and Grant, 2005), and that sleep disturbance is an epiphenomenon rather than a causal factor. 
+
+A fourth possibility is that clinical diagnoses of OSA and decisions on surgical management 
+were influenced by behavioral morbidity. Among the indications for surgery, however, 
+behavior was never listed as such and in only one instance was inattention an explicit indication 
+for surgery. Thus preferential referral to surgery of children with behavior problems seems 
+unlikely to explain our findings. 
+
+Finally, we cannot dismiss the possibility that parental bias and expectancy effects produced 
+illusory improvements. Neither parents nor psychiatrists were privy to the polysomnographic 
+findings, and almost all AT families had been told by their otolaryngologists, after an office-
+based evaluation, that their children had sleep-disordered breathing. It is conceivable that many 
+parents anticipated treatment benefits and thus offered biased accounts of behavior problems 
+a year after surgery, thereby obscuring real differences between OSA subgroups. It is unlikely, 
+however, that similar expectations altered baseline perceptions of longstanding behavioral 
+problems. 
+
+Limitations 
+
+Some weaknesses inherent in the study design may have biased our results. First, controls were 
+difficult to recruit, as discussed elsewhere (Chervin et al., 2006a). Second, because our study 
+offered a comprehensive, expensive battery of tests and professional evaluations without 
+charge, and because the protocol required overnight participation, families who believed that 
+their children required psychiatric, neuropsychological, or sleep assessments may have 
+
+J Am Acad Child Adolesc Psychiatry. Author manuscript; available in PMC 2008 November 1. 
+
+
+Dillon et al. Page 10 
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+enrolled preferentially. Any such bias, however, should have influenced controls to a similar 
+degree, preserving the validity of comparisons. Moreover, diagnostic rates among controls did 
+not deviate substantially from rates reported in epidemiological samples (Offord et al., 1987), 
+suggesting that the referral bias could not have been very great. A third potential limitation in 
+the study design is that a year elapsed between surgery and follow-up, during which many 
+intervening variables could have influenced behavior. Spontaneous remissions during the year 
+between sessions may explain the high remission rate for anxiety disorders. The DSM-IV 
+behavior disorders, in contrast, usually persist beyond a year’s time. 
+
+A fourth limitation is that both the detailed assessments and the longitudinal design made it 
+impractical to sustain a blind condition for the psychiatrist diagnosticians. We believe this 
+weakness was offset by the high reliability of the DISC, but we cannot dismiss the possibility 
+that psychiatrists introduced some bias. Indeed, because the psychiatric diagnosis hinges in 
+large part upon parent report, bias of the caretakers who are the key informants is a greater 
+threat to validity than bias of the psychiatrists. Parental bias is inevitable in a diagnostic study 
+of children undergoing surgery but may be offset to some degree by astute psychiatrists making 
+allowances for this in their ratings and symptom endorsements. In children who remitted, 
+changes in symptom ratings were substantial, on the order of 50% or more; relatively few cases 
+improved just enough to cross the threshold from diagnosis to normalcy. Changes of this large 
+magnitude, reported by parents and confirmed by psychiatrists a year after the procedure, are 
+not likely to represent expectancy effects alone. “Placebo” effects, in contrast, typically occur 
+earlier in treatment and are far less durable than the outcomes presented here (Rothschild and 
+Quitkin, 1992). Similarly, psychiatric ratings showed robust correlations with parent ratings 
+and modest (as expected) correlations with objective measures of attention and impulsivity. If 
+bias was introduced, there is some indication that psychiatrists may have overcompensated for 
+parental optimism, in that five new cases of ADHD emerged postoperatively, reducing the 
+apparent impact of treatment. 
+
+The absence of teacher ratings is a fifth limitation of the study. Because a year’s interval 
+separated baseline and follow-up measures, different sets of teachers would have supplied such 
+ratings, introducing reliability variance of uncertain magnitude, potentially confounding the 
+evaluation of intra-subject change. Nevertheless, it would have been useful to know whether 
+the direction of group changes, as rated by teachers, paralleled diagnostic impressions. 
+
+Clinical Implications 
+
+While considerably more research is required to improve the diagnosis and management of 
+OSA in children, we cautiously suggest that our findings have several implications for clinical 
+practice. Surgical intervention may help to ameliorate psychiatric disorders that are common 
+among children who undergo AT. The purpose of this study was to assess neurobehavioral 
+morbidity among children referred for AT before and after the procedure, but this was clearly 
+not a double-blind, controlled clinical trial that could prove the efficacy of AT as a treatment 
+for psychiatric disorders. All children in this study underwent surgery for standard surgical 
+indications, none primarily on account of behavioral morbidity. Accordingly, it would be 
+imprudent to conclude that children presenting for behavioral problems with incidental findings 
+suggestive of OSA would necessarily benefit from surgical intervention. In such children, 
+surgical intervention should be based upon standard surgical indications and not primarily on 
+behavioral morbidity. Furthermore, the study should not be interpreted as an argument for 
+deferring standard treatment of serious psychiatric disorders on the expectation that surgery 
+will provide a remedy. On the other hand, child and adolescent psychiatrists should be attentive 
+to OSA symptoms and physical signs when they evaluate school-age children. Snoring, mouth-
+breathing, recurrent infections of the throat and middle ears, dysphagia, facial maldevelopment 
+(adenoid facies), high hard palate, tonsillar hypertrophy, dental malocclusion, and hyponasal 
+
+J Am Acad Child Adolesc Psychiatry. Author manuscript; available in PMC 2008 November 1. 
+
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+Dillon et al. Page 11 
+
+speech may warrant otolaryngologic or pediatric referral. Finally, as surgeons increasingly 
+recognize behavioral changes in patients who undergo AT, the behavior problems themselves 
+may seem to support decisions to operate in otherwise borderline cases. Many individuals in 
+our study, however, did not experience improved behavior after surgery, and several 
+deteriorated to some extent. Existing data neither fully explain the association between surgical 
+intervention and reported behavioral outcomes, nor offer much guidance in predicting which 
+children will experience important psychiatric and cognitive changes after surgery. 
+
+Acknowledgements 
+
+The authors gratefully acknowledge support from NIH grants HD38461, HL80941, NS02009, and RR00042. 
+
+References 
+
+Ali NJ, Pitson D, Stradling JR. Sleep disordered breathing: effects of adenotonsillectomy on behaviour 
+and psychological functioning. European Journal of Pediatrics 1996;155:56–62. [PubMed: 8750813] 
+
+American Academy of Pediatrics SoPP, Subcommittee on Obstructive Sleep Apnea Syndrome. Clinical 
+practice guideline: diagnosis and management of childhood obstructive sleep apnea syndrome. 
+Pediatrics 2002;109:704–712. [PubMed: 11927718] 
+
+Anonymous. (National Institute of Mental Health) Special feature: rating scales and assessment 
+instruments for use in pediatric psychopharmacology research. Psychopharmacology Bulletin 
+1985;21:839–843. 
+
+Avior G, Fishman G, Leor A, Sivan Y, Kaysar N, Derowe A. The effect of tonsillectomy and 
+adenoidectomy on inattention and impulsivity as measured by the Test of Variables of Attention 
+(TOVA) in children with obstructive sleep apnea syndrome. Otolaryngology - Head & Neck Surgery 
+2004;131:367–71. [PubMed: 15467601] 
+
+Basha S, Bialowas C, Ende K, Szeremeta W. Effectiveness of adenotonsillectomy in the resolution of 
+nocturnal enuresis secondary to obstructive sleep apnea. Laryngoscope 2005;115:1101–3. [PubMed: 
+15933530] 
+
+Blunden S, Lushington K, Kennedy D, Martin J, Dawson D. Behavior and neurocognitive performance 
+in children aged 5–10 years who snore compared to controls. Journal of Clinical & Experimental 
+Neuropsychology 2000;22:554–68. [PubMed: 11094391] 
+
+Chervin R. How many children with ADHD have sleep apnea or periodic leg movements on 
+polysomnography? Sleep 2005;28:1041–1042. [PubMed: 16268369] 
+
+Chervin R, Ruzicka D, Giordani B, Weatherly R, Dillon J, Hodges E, Marcus C, Guire K. Sleep-
+disordered breathing, behavior, and cognition in children before and after adenotonsillectomy. 
+Pediatrics 2006a;117:e769–78. [PubMed: 16585288] 
+
+Chervin R, Weatherly R, Ruzicka D, Burns J, Giordani B, Dillon J, Marcus C, Garetz S, Hoban T, Guire 
+
+K. Subjective sleepiness and polysomnographic correlates in children scheduled for 
+adenotonsillectomy vs. other surgical care. Sleep 2006b;29:495–501. [PubMed: 16676783] 
+Chervin RD, Aldrich MS. Effects of esophageal pressure monitoring on sleep architecture. American 
+Journal of Respiratory & Critical Care Medicine 2002:156. 
+Chervin RD, Archbold KH, Dillon JE, Panahi P, Pituch KJ, Dahl RE, Guilleminault C. Inattention, 
+hyperactivity, and symptoms of sleep-disordered breathing.[see comment]. Pediatrics 2002;109:449– 
+
+56. [PubMed: 11875140] 
+Chervin RD, Archbold KH, Panahi P, Pituch KJ. Sleep problems seldom addressed at two general 
+pediatric clinics. Pediatrics 2001;107:1375–1380. [PubMed: 11389260] 
+Chervin RD, Dillon JE, Archbold KH, Ruzicka DL. Conduct problems and symptoms of sleep disorders 
+in children. Journal of the American Academy of Child & Adolescent Psychiatry 2003a;42:201–8. 
+[PubMed: 12544180] 
+Chervin RD, Dillon JE, Bassetti C, Ganoczy DA, Pituch KJ. Symptoms of sleep disorders, inattention, 
+and hyperactivity in children. Sleep 1997;20:1185–92. [PubMed: 9493930] 
+Chervin RD, Ruzicka DL, Wiebelhaus JL, Hegeman GLr, Marriott DJLMC, Giordani BJ, Weatherly RA, 
+Dillon JE. Tolerance of esophageal pressure monitoring during polysomnography in children. Sleep 
+2003b;26:1022–1026. [PubMed: 14746385] 
+
+J Am Acad Child Adolesc Psychiatry. Author manuscript; available in PMC 2008 November 1. 
+
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+Dillon et al. Page 12 
+
+Crabtree VM, Varni JW, Gozal D. Health-related quality of life and depressive symptoms in children 
+with suspected sleep-disordered breathing. Sleep 2004;27:1131–8. [PubMed: 15532207] 
+
+Downey R 3rd, Perkin RM, MacQuarrie J. Upper airway resistance syndrome: sick, symptomatic but 
+underrecognized. Sleep 1993;16:620–3. [PubMed: 8290854] 
+
+DuPaul, GJ.; Power, TJ.; Anastopoulos, AD.; Reid, R. ADHD rating scale-IV. New York: Guilford; 1998. 
+
+Forbes GB. Clinical utility of the Test of Variables of Attention (TOVA) in the diagnosis of attentiondeficit/
+hyperactivity disorder. Journal of Clinical Psychology 1998;54:461–76. [PubMed: 9623751] 
+
+Friedman B-C, Hendeles-Amitai A, Kozminsky E, Leiberman A, Friger M, Tarasiuk A, Tal A. 
+Adenotonsillectomy improves neurocognitive function in children with obstructive sleep apnea 
+syndrome. Sleep 2003;26:999–1005. [PubMed: 14746381] 
+
+Gislason T, Benediktsdottir B. Snoring, apneic episodes, and nocturnal hypoxemia among children 6 
+months to 6 years old. An epidemiologic study of lower limit of prevalence. Chest 1995;107:963–6. 
+[PubMed: 7705162] 
+
+Golan N, Shahar E, Ravid S, Pillar G. Sleep disorders and daytime sleepiness in children with attentiondeficit/
+hyperactive disorder.[see comment]. Sleep 2004;27:261–6. [PubMed: 15124720] 
+
+Goldstein NA, Fatima M, Campbell TF, Rosenfeld RM. Child behavior and quality of life before and 
+after tonsillectomy and adenoidectomy. Archives of Otolaryngology -- Head & Neck Surgery 
+2002;128:770–5. [PubMed: 12117332] 
+
+Goldstein NA, Pugazhendhi V, Rao SM, Weedon J, Campbell TF, Goldman AC, Post JC, Rao M. Clinical 
+assessment of pediatric obstructive sleep apnea. Pediatrics 2004;114:33–43. [PubMed: 15231905] 
+
+Goldstein NA, Sculerati N, Walsleben JA, Bhatia N, Friedman DM, Rapoport DM. Clinical diagnosis of 
+pediatric obstructive sleep apnea validated by polysomnography. Otolaryngology - Head & Neck 
+Surgery 1994;111:611–7. [PubMed: 7970800] 
+
+Goodwin JL, Kaemingk KL, Fregosi RF, Rosen GM, Morgan WJ, Sherrill DL, Quan SF. Clinical 
+outcomes associated with sleep-disordered breathing in Caucasian and Hispanic children--the Tucson 
+Children’s Assessment of Sleep Apnea study (TuCASA). Sleep 2003;26:587–91. [PubMed: 
+12938812] 
+
+Gottlieb DJ, Chase C, Vezina RM, Heeren TC, Corwin MJ, Auerbach SH, Weese-Mayer DE, Lesko SM. 
+Sleep-disordered breathing symptoms are associated with poorer cognitive function in 5-year-old 
+children.[see comment]. Journal of Pediatrics 2004;145:458–64. [PubMed: 15480367] 
+
+Gottlieb DJ, Vezina RM, Chase C, Lesko SM, Heeren TC, Weese-Mayer DE, Auerbach SH, Corwin MJ. 
+Symptoms of sleep-disordered breathing in 5-year-old children are associated with sleepiness and 
+problem behaviors. Pediatrics 2003;112:870–7. [PubMed: 14523179] 
+
+Guilleminault C, Eldridge FL, Simmons FB, Dement WC. Sleep apnea in eight children. Pediatrics 
+1976;58:23–30. [PubMed: 934781] 
+
+Guy, W. ECDEU assessment manual for psychopharmacology, revised. Bethesda, MD: U.S. Department 
+of Health, Education, and Welfare; 1976. 
+
+Hollingshead, AB. Hollingshead two factor index of social position. New Haven, CT: Yale University; 
+1958. 
+
+Huang Y-S, Chen N-H, Li H-Y, Wu Y-Y, Chao C-C, Guilleminault C. Sleep disorders in Taiwanese 
+children with attention deficit/hyperactivity disorder. Journal of Sleep Research 2004;13:269–77. 
+[PubMed: 15339263] 
+
+Ivanenko A, Barnes ME, Crabtree VM, Gozal D. Psychiatric symptoms in children with insomnia referred 
+to a pediatric sleep medicine center. Sleep Medicine 2004;5:253–9. [PubMed: 15165531] 
+
+Katz, ES.; Marcus, CL. Diagnosis of obstructive sleep apnea syndrome in infants and children. In: 
+Sheldon, SH.; Ferber, R.; Kryger, MH., editors. Principles and Practice of Pediatric Sleep Medicine. 
+Elsevier Saunders; 2005. p. 197-210. 
+
+Li H-Y, Huang Y-S, Chen N-H, Fang T-J, Lee L-A. Impact of adenotonsillectomy on behavior in children 
+with sleep-disordered breathing. Laryngoscope 2006;116:1142–7. [PubMed: 16826049] 
+
+Mitchell RB, Kelly J. Child behavior after adenotonsillectomy for obstructive sleep apnea syndrome. 
+Laryngoscope 2005;115:2051–5. [PubMed: 16319623] 
+
+O’Brien LM, Holbrook CR, Mervis CB, Klaus CJ, Bruner JL, Raffield TJ, Rutherford J, Mehl RC, Wang 
+M, Tuell A, Hume BC, Gozal D. Sleep and neurobehavioral characteristics of 5- to 7-year-old children 
+
+J Am Acad Child Adolesc Psychiatry. Author manuscript; available in PMC 2008 November 1. 
+
+
+Dillon et al. Page 13 
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+with parentally reported symptoms of attention-deficit/hyperactivity disorder.[see comment]. 
+
+Pediatrics 2003;111:554–63. [PubMed: 12612236] 
+
+O’Brien LM, Mervis CB, Holbrook CR, Bruner JL, Klaus CJ, Rutherford J, Raffield TJ, Gozal D. 
+Neurobehavioral implications of habitual snoring in children. Pediatrics 2004;114:44–9. [PubMed: 
+15231906] 
+
+Offord DR, Boyle MH, Szatmari P, Rae-Grant NI, Links PS, Cadman DT, Byles JA, Crawford JW, Blum 
+HM, Byrne C, et al. Ontario Child Health Study. II. Six-month prevalence of disorder and rates of 
+service utilization. Archives of General Psychiatry 1987;44:832–6. [PubMed: 3498458] 
+
+Rechtschaffen, A.; Kales, A. A manual of standardized terminology, techniques and scoring system for 
+sleep stages of human subjects. Los Angeles: Brain Information Service/Brain Research Institute, 
+University of California, Los Angeles; 1968. 
+
+Rothschild R, Quitkin FM. Review of the use of pattern analysis to differentiate true drug and placebo 
+responses. Psychotherapy & Psychosomatics 1992;58:170–7. [PubMed: 1488501] 
+
+Sangal RB, Owens JA, Sangal JM. Patients with Attention-Deficit/Hyperactivity Disorder without 
+observed apneic episodes in sleep or daytime sleepiness have normal sleep on polysomnography. 
+Sleep 2005;28:1143–1148. [PubMed: 16268384] 
+
+Section on Pediatric Pulmonology and Subcommittee on Obstructive Sleep Apnea Syndrome. Clinical 
+practice guideline: diagnosis and management of childhood obstructive sleep apnea syndrome. 
+Pediatrics 2002;109:704–12. [PubMed: 11927718] 
+
+Shaffer D, Fisher P, Dulcan MK, Davies M, Piacentini J, Schwab-Stone ME, Lahey BB, Bourdon K, 
+Jensen PS, Bird HR, Canino G, Regier DA. The NIMH Diagnostic Interview Schedule for Children 
+Version 2.3 (DISC-2.3): description, acceptability, prevalence rates, and performance in the MECA 
+Study. Methods for the Epidemiology of Child and Adolescent Mental Disorders Study. Journal of 
+the American Academy of Child & Adolescent Psychiatry 1996;35:865–77. [PubMed: 8768346] 
+
+Shaffer D, Gould MS, Brasic J, Ambrosini P, Fisher P, Bird H, Aluwahlia S. A children’s global 
+assessment scale (CGAS). Archives of General Psychiatry 1983;40:1228–31. [PubMed: 6639293] 
+
+Stewart MG, Glaze DG, Friedman EM, Smith EOb, Bautista M. Quality of life and sleep study findings 
+after adenotonsillectomy in children with obstructive sleep apnea. Archives of Otolaryngology -Head 
+& Neck Surgery 2005;131:308–14. [PubMed: 15837898] 
+
+Suen JS, Arnold JE, Brooks LJ. Adenotonsillectomy for treatment of obstructive sleep apnea in children. 
+Archives of Otolaryngology -- Head & Neck Surgery 1995;121:525–30. [PubMed: 7727086] 
+
+Swanson, JM. School-based assessments and interventions for ADD students. Irvine, CA: KC Publishing; 
+1992. 
+
+Swedo SE, Grant PJ. Annotation: PANDAS: a model for human autoimmune disease. Journal of Child 
+Psychology & Psychiatry & Allied Disciplines 2005;46:227–34. 
+
+Tinius TP. The Integrated Visual and Auditory Continuous Performance Test as a neuropsychological 
+measure. Archives of Clinical Neuropsychology 2003;18:439–54. [PubMed: 14591441] 
+
+Umlauf MG, Chasens ER. Bedwetting--not always what it seems: a sign of sleep-disordered breathing 
+in children. Journal for Specialists in Pediatric Nursing: JSPN 2003;8:22–30. [PubMed: 12715403] 
+
+Weatherly RA, Mai EF, Ruzicka DL, Chervin RD. Identification and evaluation of obstructive sleep 
+apnea prior to adenotonsillectomy in children: a survey of practice patterns.[see comment]. Sleep 
+Medicine 2003;4:297–307. [PubMed: 14592302] 
+
+J Am Acad Child Adolesc Psychiatry. Author manuscript; available in PMC 2008 November 1. 
+
+
+Dillon et al. Page 14 
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+
+Figure 1. Psychiatric Ratings at Baseline and Follow-Up in Three Groups of Subjects 
+
+Statistical associations shown here reflect effect slices (univariate analyses based on adjusted 
+means, equivalent to paired student’s t-tests) showing the significance of change in subgroups 
+of children with or without OSA from pre-op to post-op assessment. There were no significant 
+differences between OSA subgroups at baseline or at follow-up. DBDRS = Disruptive 
+Behavior Disorders Rating Scale. 
+
+* p < .05 
+** p < .01 
+*** p < .001 
+J Am Acad Child Adolesc Psychiatry. Author manuscript; available in PMC 2008 November 1. 
+
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+
+Subject Demographics 
+
+
+Table 1
+
+AT Group Controls p1 
+Total AT group AT - OSA AT + OSA 
+
+Group (n) 79 2 38 4027 
+Sex # (% male) 41 (51.9) 19 (50.0) 22 (45.0) 19 (70.4) 0.1183 
+Age 8.1 (1.8) 8.4 (1.7) 7.8 (1.8) 9.3 (2.0) 0.0074 
+Caucasian subjects (%) 67 (84.8) 31 (81.6) 35 (87.5) 20 (70.4) 0.2483 
+Socioeconomic status (mean)5 2.6 2.8 2.4 2.5 0.0366 
+
+Special services 15 (19.0) 8 (21.0) 7 (17.5) 2 (7.4) 0.228 
+
+AT - OSA = adenotonsillectomy subjects without obstructive sleep apnea at baseline;
+AT + OSA = adenotonsillectomy subjects with obstructive sleep apnea at baseline.
+
+1 
+
+p is for comparison of the AT group as a whole with controls at baseline.
+2 
+
+One child’s sleep data were inadequate for classification of OSA status. One subject from the AT group and four from the control group did not complete the follow-up examination.
+
+3 
+
+Fisher’s exact test, 2-sided probability.
+
+4 
+
+Student’s t-test, 2-sided probability.
+
+5 
+
+Hollingshead classification, 1 = highest socioeconomic status, 5 = lowest.
+
+6 
+
+Chi-square test, 2 × 5 table, df = 4, testing distribution of AT subjects and controls at five levels of socioeconomic status. Although the mean socioeconomic level was very similar among groups, ATsubjects came from all socioeconomic levels, whereas controls, with only a single exception, came only from levels 2 and 3. 
+
+Dillon et al. Page 15 
+
+J Am Acad Child Adolesc Psychiatry. Author manuscript; available in PMC 2008 November 1. 
+
+
+Dillon et al. Page 16 
+
+Table 2 
+
+Obtructive Apnea Index (OAI) Before and After Adenotonsillectomy 
+
+Group 
+
+AT - 
+OSA (baseline) 
+AT + OSA (baseline) 
+Controls 
+
+OAI Mean(SD) 
+
+0.1 (.2) 
+5.6 (8.0) 
+0.2 (0.4) 
+Pre-operative OAI 
+Subjects with OAI =0.5/
+number in group(%) 
+0/38 (0%) 
+40/40 (100%) 
+1/27 (3.7%)
+
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+AT - OSA = adenotonsillectomy subjects without obstructive sleep apnea at baseline; 
+AT + OSA = adenotonsillectomy subjects with obstructive sleep apnea at baseline. 
+
+OAI Mean(SD) 
+
+0.1 (0.3) 
+0.2 (0.3) 
+0.2 (0.5) 
+Post-operative OAI 
+Subjects with OAI =0.5/
+number in group(%) 
+1/38 (2.6%) 
+8/39 (20.5%) 
+3/23 (13.0%) 
+
+
+J Am Acad Child Adolesc Psychiatry. Author manuscript; available in PMC 2008 November 1. 
+
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+Table 3 
+
+Psychiatric Diagnoses at Baseline and One Year Later 
+
+Baseline, n (%) Follow-Up, n (%) 
+
+Adenotonsillectomy group Controls Adenotonsillectomy group Controls 
+
+Diagnosis All AT n= 79 AT - OSA nAT + OSA n =N=27 All AT n = 78 AT - OSAAT + OSA n =n=23 
+=38 40 n=38 39 
+
+Disruptive disorders (any),12 29 (36.7) 14 (36.8) 14 (35.0) 3 (11.1) 18 (23.1) 8 (21.0) 10 (25.6) 2 (8.7) 
+ADHD (any)3 22 (27.8) 11 (29.0) 11 (27.5) 2 (7.4) 16 (20.5) 7 (18.4) 9 (23.1) 2 (8.7) 
+ADHD-inattentive 9 (11.4) 3 (7.9) 6 (15.0) 1 (3.7) 8 (10.3) 2 (5.3) 6 (15.4) 2 (8.7) 
+ADHD-hyperactive 2 (2.5) 0 (0) 2 (5.0) 1 (3.7) 2 (2.6) 1 (2.6) 1 (2.6) 0 (0) 
+ADHD-combined,45 11 (13.9) 8 (21.1) 3 (7.5) 0 (0) 6 (7.7) 4 (10.5) 2 (5.1) 0 (0) 
+ODD67 14 (17.7) 6 (15.8) 7 (17.5) 1 (3.7) 7 (9.0) 4 (10.5) 3 (7.7) 0 (0) 
+Conduct Disorder 1 (1.3) 0 (0) 1 (2.5) 0 (0) 0 (0) 0 (0) 0 (0) 0 (0) 
+Anxiety/mood disorders (any)8 14 (17.7) 7 (18.4) 6 (15.0) 2 (7.4) 8 (10.3) 3 (7.9) 4 (10.3) 0 (0) 
+Social Phobia 4 (5.1) 1 (2.6) 3 (7.5) 1 (3.7) 2 (2.6) 0 (0) 2 (5.1) 0 (0) 
+SAD 6 (7.6) 4 (10.5) 2 (5.0) 2 (7.4) 4 (5.1) 2 (5.3) 2 (5.1) 0 (0) 
+GAD 4 (5.1) 1 (2.6) 2 (5.0) 0 (0) 3 (3.8) 0 (0) 2 (5.1) 0 (0) 
+OCD 2 (2.5) 1 (2.6) 1 (2.5) 0 (0) 1 (1.3) 0 (0) 1 (2.6) 0 (0) 
+Dysthymic Disorder 1 (1.3) 0 (0) 1 (2.5) 0 (0) 1 (1.3) 1 (2.6) 0 (0) 0 (0) 
+
+OtherEnuresis9 14 (17.7) 3 (7.9) 11 (27.5) 3 (11.1) 5 (6.4) 2 (5.3) 3 (7.7) 1 (4.4) 
+Encopresis 2 (2.5) 0 (0) 2 (5.0) 0 (0) 0 (0) 0 (0) 0 (0) 0 (0) 
+Tic Disorder 2 (2.5) 1 (2.6) 1 (2.5) 0 (0) 2 (2.6) 2 (5.3) 0 (0) 1 (4.4) 
+PDD 2 (2.5) 0 (0) 2 (5.0) 0 (0) 1 (1.2) 0 (0) 1 (2.6) 0 (0) 
+
+Italicized rates within rows indicate statistically significant contrasts at baseline. Boldface rates within rows indicate statistically significant contrasts at baseline and follow-up. ADHD = attention-deficit/
+hyperactivity disorder; ODD = oppositional defiant disorder; SAD = separation anxiety disorder; GAD = generalized anxiety disorder; OCD = obsessive-compulsive disorder; PDD = pervasivedevelopmental disorder. There were no cases of post-traumatic stress disorder, major depression, mania, or hypomania at baseline or at follow-up. Baseline rates for AT versus control subjects arecompared with Fisher’s exact test (2-sided). Rates in AT subjects before and after surgery are compared with McNemar’s test.
+
+1 
+
+p = .015 (Fisher’s exact test)
+
+2 
+
+p = .008 (McNemar’s test)
+
+3 
+
+p = .033 (Fisher’s exact test)
+
+4 
+
+p = .062 (Fisher’s exact test)
+
+5 
+
+p = .096 (McNemar’s test)
+
+6 
+
+p = .108 (Fisher’s exact test)
+
+7 
+
+p = .020 (McNemar’s test)
+
+8 
+
+p = .132 (McNemar’s test)
+
+9 
+
+p = .007 (McNemar’s test) 
+
+Dillon et al. Page 17 
+
+J Am Acad Child Adolesc Psychiatry. Author manuscript; available in PMC 2008 November 1. 
+
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+Table 4
+
+Psychiatric Ratings, for AT and Control Groups at Baseline and Follow-Up, and Significance of Group and Treatment Effects1 
+
+Clinician Rating Adenotonsillectomy:Controls: adjusted meansEffects 
+adjusted means (SE) (SE) 
+Baseline Follow- Up Baseline Follow- Up Group (AT vs.TreatmentGroup XAT Group vs.Effect ofControls) main(Baseline vs.TreatmentControls atTreatment oneffect Follow-up)main effect Baseline2 AT Group3 
+main effect 
+
+FpFpFpFp Fp 
+(1,99) (1,99) (1,99) (1,99) (1,99) 
+DBDRS-IA 7.5 (1.2) 5.9 (0.7) 4.6 (1.3) 4.1 (1.3) 2.76 .33.34 .0.84 .3.55 .063 8.28 .005 
+100 071 360 
+DBDRS-HI 6.4 (0.6) 4.7 (0.6) 5.9 (1.1) 4.4 (1.1) 0.14 .9.89 .0.09 .0.21 .644 12.98 .708 002 770 0005 
+DBDRS-combined 13.9 (1.1) 10.6 (1.1) 10.4 (2.1) 8.5 (2.1) 1.57 .7.64 .0.53 .2.07 .154 13.39 .214 007 468 0004 
+DBDRS-ODD 4.8 (0.4) 3.4 (0.4) 1.4 (0.8) 1.3 (0.8) 10.32 .4.35 .3.38 .13.47 .16.90 <.
+002 040 069 0004 0001 
+CGAS 68.2 (1.4) 72.3 (1.4) 76.0 (2.6) 77.5 (2.6) 5.51 .4.58 .1.01 .6.51 .012 10.85 .001 
+021 035 318 
+CGI 2.5 (0.1) 2.0 (0.1) 1.7 (0.2) 1.5 (0.2) 8.77 .9.28 .1.71 .10.48 .002 20.82 <.
+004 003 194 0001 
+CPRS Depression4 0.186 (.-0.001 (.-0.178 (.-0.448 (.4.28 .3.19 .0.10 .2.42 .123 2.35 .128 
+11) 11) 21) 21) 041 077 748 
+CPRS Anxiety4 0.173 (.-0.075 (.-0.047 (.-0.286 (.1.05 .5.12 .0.00 .0.87 .353 5.85 .01711) 11) 21) 21) 308 026 964
+
+DBDRS = Disruptive Behavior Disorders Rating Scale; DBDRS-IA = inattentive score from DBDRS (range 0 – 27); DBDRS-H/I = hyperativity/impulsivity score from DBDRS (range 0 – 27); DBDRS-
+combined = total ADHD score on DBDRS (range 0 – 54); DBDRS-ODD = oppositional defiant score on DBDRS (range 0 – 24); CGAS = Children’s Global Assessment Scale (range 1 – 100); CGI =
+Clinical Global Impressions (1 = no illness; 2 = borderline illness; 3 = mild illness, etc.); CPRS Depression = depression factor score derived from the Children’s Psychiatric Rating Scale; CPRS Anxiety= anxiety factor score derived from the Children’s Psychiatric Rating Scale.
+
+1 
+
+Means are adjusted for age and social status. Analyses are for a 2-way, repeated measures ANOVA covarying for age and social status. Group, treatment, and group-by-treatment are main effects forthe 2-way ANOVA, reflecting overall differences between groups both before and after surgery and overall change for subjects, whether or not they underwent surgery. Comparison of AT group vs.
+controls at baseline and effect of treatment on AT group, outcomes of particular interest for this study, are slice effects that are equiralent to conducting one-way ANOVA’s with the same covariates.
+
+2 
+
+Effect slice limiting comparison to baseline scores for AT group versus controls.
+
+3 
+
+Effect slice isolating treatment effect for the AT group alone.
+
+4 
+
+Standardized least squares means (standard error) for these items are reported in the first four columns; higher (positive) scores reflect more psychopathology. 
+
+Dillon et al. Page 18 
+
+J Am Acad Child Adolesc Psychiatry. Author manuscript; available in PMC 2008 November 1. 
+
+

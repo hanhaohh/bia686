@@ -1,0 +1,554 @@
+Migraine Headaches and Sleep Disturbances in Children 
+
+V.A. Miller, MA; T.M. Palermo, PhD; S.W. Powers, PhD; M.S. Scher, MD; A.D. Hershey, MD, PhD 
+Objective.—The aim of the present study was to investigate the prevalence of sleep disturbances in children 
+with migraine headaches and to describe individual differences in sleep behaviors based on headache features (eg, 
+frequency, duration, intensity). 
+
+Background.—A relationship between migraine headaches and sleep disturbances has been suggested in both 
+children and adults, but there is a lack of research examining the relationship between specific headache features 
+and the range of sleep behaviors in children. 
+
+Methods.—One hundred eighteen children, aged 2 to 12 years (mean, 9.1; standard deviation, 2.3) were evaluated 
+for headaches at two pediatric neurology departments. Parents completed the Children’s Sleep Habits 
+Questionnaire and a standardized questionnaire regarding headache characteristics. 
+
+Results.—Parents reported a high rate of sleep disturbances in children, including sleeping too little (42%), 
+bruxism (29%), child co-sleeping with parents (25%), and snoring (23%). Children with migraine headaches experienced 
+more sleep disturbances compared to published healthy control norms. After controlling for child demographics, 
+we found that the frequency and duration of migraine headaches predicted specific sleep disturbances, 
+including sleep anxiety, parasomnias, and bedtime resistance. 
+
+Conclusions.—Children with migraine headaches have a high prevalence of sleep disturbances. The direction 
+of the relationship between headaches and sleep is unknown. Regardless, interventions targeting sleep habits may 
+improve headache symptoms, and effective treatment of headaches in children may positively impact sleep. 
+
+Key words: migraine, headache, sleep, children 
+
+(Headache 2003;43:362-368) 
+
+Primary headaches occur frequently in childhood. 
+In large population-based studies, approximately 10% 
+of children meet International Headache Society 
+(IHS) criteria for migraine headache.1,2 Tension-type 
+and nonspecific recurrent headaches have been reported 
+in another 2% to 3% of children.1 
+
+Inadequate sleep duration or poor sleep quality 
+are common triggering factors for migraine headaches.
+3 There have been several observations of the 
+
+From the Case Western Reserve University (Ms. Miller) and 
+Case Western Reserve University School of Medicine (Drs. 
+Palermo and Scher), Cleveland and Cincinnati Children’s 
+Medical Center, University of Cincinnati College of Medicine 
+(Drs. Powers and Hershey), Ohio. 
+
+Address all correspondence to Dr. Tonya M. Palermo, Division 
+of Behavioral Pediatrics and Psychology, Rainbow Babies 
+and Children’s Hospital, 11100 Euclid Avenue, Cleveland, OH 
+44106-6038. 
+
+Accepted for publication October 27, 2002. 
+
+co-occurrence of sleep disturbances and headaches in 
+children.4,5 In fact, sleep disturbances and migraine 
+are part of a cluster of recurrent clinical symptoms 
+that make up what has been called the periodic syndrome 
+of childhood.5 It has been proposed that sleep 
+and migraines may be aspects of a common genetic, 
+pathophysiological, or biobehavioral substrate, accounting 
+for the comorbidity of these problems in 
+children. 
+
+However, while a relationship between migraine 
+headaches and sleep disturbances has been found in 
+adults, research with pediatric populations remains 
+limited.6 One case-control study demonstrated that 
+children with headaches had a higher prevalence of a 
+variety of sleep problems compared to healthy controls, 
+including insufficient sleep, co-sleeping, difficulty 
+getting to sleep at night, anxieties about going to 
+sleep, restless sleep, nighttime wakings, nightmares, 
+and daytime sleepiness.7 Previous findings in children 
+
+362 
+
+
+
+Headache 
+
+also suggest that the type of headache diagnosis may 
+be related to specific sleep behaviors, with migraine 
+headache shown to relate to breathing difficulties, 
+sleep talking, bruxism, somnambulism (sleepwalking), 
+and enuresis.7,8 
+
+Apart from the potential direct effects in triggering 
+migraine headaches, recent research has suggested 
+that disruptions in sleep can have far-reaching 
+consequences on the quality of children’s lives and, 
+thus, are important to treat. For example, disruptions 
+in sleep can impact school attendance and performance, 
+daily activities, and emotional status.9,10 
+
+Despite their potential importance, there is a 
+lack of research on how specific migraine headache 
+characteristics (eg, frequency, duration, pain intensity) 
+relate to sleep behaviors. For example, children 
+with more frequent, longer, or more severe headaches 
+may have more sleep difficulties. Previous 
+studies have assessed sleep disturbances in a variety 
+of ways, making it difficult to compare results across 
+studies. The aim of the present study was to contribute 
+further descriptive data on the prevalence of 
+sleep disturbances in children with migraines using a 
+validated sleep screening instrument and to describe 
+individual differences in sleep behaviors based on 
+headache and pain features. 
+
+METHODS 
+
+Participants.—One hundred eighteen children, 
+aged 2 to 12 years (mean, 9.1; standard deviation, 2.3) 
+were seen for new patient appointments at an outpatient 
+pediatric neurology clinic (Cleveland site) and 
+an outpatient Pediatric Headache Center (Cincinnati 
+site) from September 1999 to June 2000. For the total 
+sample, diagnoses using IHS criteria included migraine 
+(96%) and migraine with aura (4%). Only patients 
+diagnosed with migraine headache by IHS criteria 
+were included in this report. 
+
+Procedure and Measures.—Sleep Disturbances.— 
+The Children’s Sleep Habits Questionnaire (CSHQ) is 
+a parent-report measure designed to examine the sleep 
+behaviors of school-aged children over a typical week.11 
+The 45-item Likert-type questionnaire yields a total 
+score (“total sleep disturbance”) and 8 conceptually 
+grouped subscales based on the primary presenting 
+clinical sleep problems in this age group: bedtime resis
+
+
+tance, sleep onset delay, sleep duration, sleep anxiety, 
+parasomnias, sleep-disordered breathing, daytime 
+sleepiness, and night wakings. Parents rate the frequency 
+of sleep behaviors on a 3-point scale: “usually” 
+(5 to 7 times per week), “sometimes” (2 to 4 times per 
+week), or “rarely” (0 to 1 time per week). For example, 
+one item on the bedtime resistance subscale is “child 
+struggles at bedtime (cries, refuses to stay in bed, etc).” 
+Higher scores indicate greater sleep disturbance. Previous 
+studies demonstrated adequate internal consistency 
+for the total sleep disturbance scale in both a 
+community sample (.68) and a sample of children 
+with sleep disorders (.78). The internal consistency 
+of the subscales ranged from .36 to .70 for the community 
+sample and from .56 to .93 for the clinic sample.11 
+The low values for some of the subscales may be due to 
+the multidimensional nature of the items that comprise 
+the subscales. Test-retest reliability was acceptable, and 
+good validity was established.11 
+
+Headache Characteristics.—Headache frequency, 
+duration, pain severity, and history of onset were examined 
+with the Headache Intake Questionnaire.12 The 
+neurologist treating each patient verified information, 
+and IHS criteria were used for the diagnosis. The 
+questionnaires were completed by parents and patients 
+as part of their initial headache evaluation and 
+management. 
+
+Statistical Analyses.—Data were analyzed using 
+the Statistical Package for the Social Sciences, version 
+
+9.0. Chi-square and t tests were used to compare the 
+samples from the 2 sites on demographic variables and 
+headache characteristics. One-sample t tests were used 
+to compare the sleep behaviors of children with migraine 
+headaches to published norms. The relationships 
+among migraine characteristics and sleep behaviors 
+were examined using Pearson product moment 
+correlation coefficients. Hierarchical multiple regression 
+analyses were used to examine relationships between 
+headache characteristics and sleep disturbances 
+after controlling for child demographics. P values of 
+.05 were considered to be statistically significant. 
+RESULTS 
+
+Comparison of Sample Characteristics From the 
+Two Sites.—As can be seen in Table 1, demographic 
+variables (age, sex, and race) and headache charac
+
+
+
+364 April 2003 
+
+Table 1.—Subject Characteristics* 
+
+Feature Cleveland Site Cincinnati Site P 
+No. of participants 52 (44) 66 (56) 
+Age, mean (SD), y 9.2 (2.4) 9.1 (2.2) .85 
+Sex .99 
+Male 30 (57.7) 38 (57.6) 
+Race .66 
+White 46 (88.5) 60 (90.9) 
+African American 6 (11.5) 6 (9.1) 
+International Headache Society diagnosis .10 
+Migraine 48 (92.3) 65 (98.5) 
+Migraine with aura 4 (7.7) 1 (1.5) 
+Headache frequency .42 
+1/month 5 (9.8) 1 (1.5) 
+1-3/month 13 (25.5) 26 (39.4) 
+1/week 6 (11.8) 6 (9.1) 
+2-5/week 18 (35.3) 22 (33.3) 
+Daily 9 (17.6) 11 (16.7) 
+Headache duration, h .57 
+1 9 (18.4) 7 (10.6) 
+1-6 23 (46.9) 40 (60.6) 
+6-12 8 (16.3) 7 (10.6) 
+12-24 7 (14.3) 9 (13.6) 
+Once a day 2 (4.1) 3 (4.5) 
+Pain severity, 0-10 scale, mean (SD) 6.2 (1.9) 6.6 (1.6) .29 
+Onset, mean (SD), y prior 2.6 (2.1) 2.4 (1.9) .67 
+Parent report of sleep duration, mean (SD), h 9.4 (.92) 9.1 (1.1) .12 
+
+*Values are number (percentage) unless otherwise indicated. 
+
+teristics (frequency, duration, length of time since 
+headache onset, and pain intensity) in participants 
+from the 2 sites were equivalent. Therefore, all analyses 
+include the combined sample. 
+
+Sleep Behaviors Compared to Published Norms.— 
+Children’s Sleep Habits Questionnaire subscale 
+scores for children with migraine headaches were 
+compared to published healthy control norms using 
+one-sample t tests. The normative community sample 
+consisted of 469 students, aged 4 to 10 years, from a 
+predominantly white middle-income suburban school 
+system.9 Children with migraine were found to have 
+more sleep disturbances related to sleep onset delay, 
+bedtime resistance, duration of sleep, daytime sleepiness, 
+night wakings, sleep anxiety, parasomnias, and 
+sleep-disordered breathing compared to the control 
+norms (see Figure). 
+
+Prevalence of Specific Sleep Behaviors in Children 
+With Migraine Headaches.—The prevalence of 
+
+specific sleep behaviors was examined. Parents 
+of children with migraine reported a high rate of child 
+sleeping too little (42%), bruxism (29%), child cosleeping 
+with parents (25%), and snoring (23%). 
+
+Relationship Between Demographics and Sleep 
+Behaviors.—Pearson product moment correlation 
+coefficients were used to describe associations between 
+demographic variables (age, sex, and minority 
+status) and sleep behaviors. Younger age was associated 
+with longer duration of sleep (r .37, P.0001), 
+and higher rates of bedtime resistance (r .37, 
+P.0001), night wakings (r .34, P.0001), sleep 
+anxiety (r .28, P.002), parasomnias (r .25, 
+P.002), restless sleep (r .20, P.03), and bruxism 
+(r .21, P.02). Female gender was associated 
+with more daytime sleepiness (r .23, P.01), while 
+male gender was associated with more frequent enuresis 
+(r .19, P.04). Minority status was associated 
+with more daytime sleepiness (r .20, P.03) 
+
+
+Headache 365 
+
+
+Children’s Sleep Habits Questionnaire (CSHQ) subscale scores for children with migraine headaches compared to published control 
+norms. Higher scores indicate greater sleep disturbance in that domain. 
+
+and a higher frequency of co-sleeping (r .18, 
+P.05). 
+
+Relationship Between Migraine Headache Characteristics 
+and Sleep Behaviors.—The relationships 
+of the frequency, severity, duration, and length of 
+time with migraines to sleep behaviors were examined 
+with Pearson product moment correlation coefficients. 
+No significant correlations were found between 
+migraine characteristics and the subscales of 
+the CSHQ. Based on previous research demonstrating 
+relationships between headaches and specific 
+sleep behaviors, specific items from the CSHQ were 
+also examined (nightmares, restless sleep, co-sleeping, 
+bruxism, sleep talking, sleepwalking, enuresis, and 
+parent report of total sleep duration) and are reported 
+in Table 2. The frequency of migraines was 
+positively related to the frequency of somnambulism 
+(r .21, P.05) and bruxism (r .26, P.01). The 
+pain intensity of migraines was negatively related to 
+parent report of sleep duration with children with 
+more intense migraines demonstrating shorter sleep 
+duration (r .21, P.05). Specific migraine characteristics 
+were not related to nightmares, restless 
+sleep, sleep talking, or enuresis. 
+
+Hierarchical multiple regression analyses were 
+computed to identify predictors of children’s sleep 
+disturbances. Child age, sex, and minority status were 
+entered first. Headache characteristics (frequency, 
+severity, duration, and length of time with migraine 
+headaches) were entered last to examine the effect of 
+these characteristics after controlling for the separate 
+
+Table 2.—Relationship Between Child Sleep Behaviors 
+and Migraine Headache Characteristics* 
+
+Frequency Intensity Duration Onset 
+Nightmares .05 .04 .06 .08 
+Restless sleep .11 .01 .15 .05 
+Co-sleeping .07 .00 .17 .14 
+Bruxism .26† .13 .10 .09 
+Sleep talking .03 .02 .03 .04 
+Somnambulism .21‡ .09 .06 .05 
+Enuresis .01 .11 .12 .14 
+Total nightly sleep .04 .21‡ .06 .12 
+
+*Higher scores for sleep behaviors indicate higher frequency. 
+
+†P.01. 
+‡P.05. 
+
+366 April 2003 
+
+influence of child demographic variables. Child de-Table 3.—Results of Hierarchical Multiple Regression 
+Analyses for Predicting Sleep Disturbances*
+
+mographics and headache characteristics were signifi
+
+
+cant predictors of several sleep disturbances. Headache 
+characteristics independently predicted sleep 
+anxiety (P.05), parasomnias (P.03), bedtime resistance 
+(P.03), sleepwalking (P.03), and bruxism 
+(P.01), after controlling for the effects of child demographics 
+(see Table 3). 
+
+COMMENTS 
+
+Children with migraine headaches appear to 
+have a range of sleep disturbances. Insufficient sleep, 
+bruxism, and co-sleeping are common. Consistent 
+with prior research, children with migraine experienced 
+significantly more frequent sleep disturbances 
+compared to children from a normative community 
+sample.7 Children with migraine experienced greater 
+sleep disturbances in all domains including longer 
+sleep onset delay, more bedtime resistance, shorter 
+sleep duration, more daytime sleepiness, more night 
+wakings, greater sleep anxiety, more parasomnias, 
+and more sleep-disordered breathing. 
+
+The present study extended previous findings by 
+examining the relationships between specific migraine 
+headache characteristics (frequency, intensity, 
+duration, and onset of headaches) and sleep disturbances. 
+Frequency, duration, and intensity of pain associated 
+with migraine were found to significantly relate 
+to the occurrence of specific sleep-related behaviors, 
+including shortened sleep duration, somnambulism, 
+bruxism, sleep anxiety, and bedtime resistance. The 
+frequency and duration of headaches were associated 
+with sleep disturbances even after controlling for demographic 
+variables. However, it is unclear if frequent, 
+long-lasting, and intense migraine led to specific 
+sleep disturbances, whether sleep disturbances 
+increased the occurrence of migraine, or whether 
+sleep disturbances and migraine are part of a separate 
+clinical syndrome. Several hypotheses have been 
+put forth to explain the relationship between sleep 
+and headaches, but the nature of the sleep-headache 
+relationship remains unknown and warrants further 
+investigation.13 
+
+Cumulative 
+Variable R2F . 
+
+
+Sleep anxiety 
+Step 1 
+Child age .31† 
+Gender .10 
+Minority .10 3.29 .12 
+Step 2 
+Duration .20‡ 
+Frequency .06 
+Onset .07 
+Pain intensity .17 2.51 .16 
+Parasomnias 
+Step 1 
+Child age .32† 
+Gender .08 
+Minority .08 2.38 .12 
+Step 2 
+Duration .07 
+Frequency .23‡ 
+Onset .11 
+Pain intensity .14 2.02 .03 
+Bedtime resistance 
+Step 1 
+Child age .36† 
+Gender .03 
+Minority .14 4.7 .05 
+Step 2 
+Duration .22‡ 
+Frequency .05 
+Onset .14 
+Pain intensity .21 3.16 .07 
+Sleepwalking 
+Step 1 
+Child age .17 
+Gender .08 
+Minority .04 1.17 .11 
+Step 2 
+Duration .05 
+Frequency .23‡ 
+Onset .02 
+Pain intensity .10 1.31 .06 
+Bruxism 
+Step 1 
+Child age .24‡ 
+Gender .04 
+Minority .05 1.55 .03 
+Step 2 
+Duration .07 
+Frequency .30† 
+Onset .01 
+Pain intensity .15 2.13 .10 
+
+Findings suggest that pediatric primary care pro
+
+
+*Only significant multiple regression analyses reported. 
+viders and neurologists may want to include ques-†P.01. 
+
+‡P.05.
+tions about sleep behaviors as part of the standard 
+
+
+Headache 
+
+headache assessment. For example, questions about 
+sleep duration, pattern, and behaviors may provide 
+additional information about the course of children’s 
+headaches. Such questions are especially important 
+because children may not independently raise concerns 
+about sleep-related problems.7 Furthermore, 
+parents may underestimate or miss such problems or 
+may not mention their concerns during a headache 
+evaluation.7 Therefore, sleep-related problems may 
+remain undetected in the absence of screening for 
+such difficulties. 
+
+It is unknown how children presenting with cooccurring 
+sleep problems and migraine headaches respond 
+to standard headache treatment (eg, migraine 
+prophylactic medication). Interventions with children 
+with migraine and sleep problems remain an important 
+area for future investigation. Increasing total 
+sleep time may impact the occurrence of children’s 
+headaches. Bruni and colleagues evaluated the effects 
+of sleep hygiene education (eg, conformity of 
+bedtime and waking time, regularity of sleep schedule 
+on weekdays and weekends, and restriction of 
+beverages and foods that disrupt sleep) on headache 
+symptoms in a sample of children with migraine.14 
+Their findings demonstrated a reduction in the frequency 
+and duration of migraine in the group of children 
+who received sleep hygiene education compared 
+to those who received no education. 
+
+One limitation of the present study was its correlational 
+design. Future research is needed to determine 
+the direction of the relationship between 
+migraine headaches and sleep disturbances. Longitudinal 
+studies examining changes in migraine and 
+sleep behaviors over time may shed light on this issue. 
+In addition, assessment of dietary habits is important 
+for future research, due to the influence of 
+specific foods and beverages (eg, caffeine) on sleep. 
+Furthermore, in future studies the use of daily diaries 
+may allow for more accurate reporting of both 
+sleep and headache characteristics. For example, in 
+a recent study of adults with headache, Penzien and 
+colleagues examined relationships of daily stress, 
+sleep, and headache using prospective diary data to 
+support anecdotal observations regarding temporal 
+patterning of stress-headache and sleep-headache 
+associations.15 Such research could be extended to 
+
+the pediatric population to identify associations between 
+migraine and sleep. 
+
+Acknowledgments: This study was supported in part 
+by NIMH Grant K23 MH01837 (TP) and NIMH Grant 
+18830 (VM). Appreciation is expressed to Anna-Liisa 
+Bentti Vockell, PNP; Sarah Lengen; Susan L. LeCates, 
+FNP; Melissa K. Maynard; and C. Curtis McAfee for 
+their assistance on the project. 
+
+REFERENCES 
+
+1. Abu-Arefeh I, Russell G. Prevalence of headache and 
+migraine in schoolchildren. BMJ. 1994;309:765-769. 
+2. Lee L, Olness K. Clinical and demographic characteristics 
+of migraine in urban children. Headache. 
+1997;37:269-276. 
+3. Sahota PK, Dexter JD. Sleep and headache syndromes: 
+a clinical review. Headache. 1990;30:80-84. 
+4. Lanzi G, Balottin U, Fazzi E, Rosano FB. The periodic 
+syndrome in pediatric migraine sufferers. Cephalalgia. 
+1983;3:218-220. 
+5. Lanzi G, Zambrino CA, Balottin U, Tagliasacchi M, 
+Vercelli P, Termine C. Periodic syndrome and migraine 
+in children and adolescents. Ital J Neurol Sci. 
+1997;18:283-288. 
+6. Paiva T, Martins P, Batista A, Esperanca P, Martins 
+I. Sleep disturbances in chronic headache patients: a 
+comparison with healthy controls. Headache Q. 
+1994;5:135-141. 
+7. Bruni O, Fabrizi P, Ottaviano S, Cortesi F, Giannotti 
+F, Guidetti V. Prevalence of sleep disorders in childhood 
+and adolescence with headache: a case-control 
+study. Cephalalgia. 1997;17:492-498. 
+8. Barabas G, Ferrari M, Matthews W. Childhood migraine 
+and somnambulism. Neurology. 1983;33:948949. 
+9. Wolfson A, Carskadon M. Sleep schedules and daytime 
+functioning in adolescents. Child Dev. 1998;69: 
+875-887. 
+10. Hershey A, Powers S, Bentti A, LeCates S, de-
+Grauw T. Characterization of chronic daily headaches 
+in children in a multidisciplinary headache 
+center. Neurology. 2001;56:1032-1037. 
+11. Owens J, Spirito A, McGuinn M. The children’s 
+sleep habits questionnaire (CSHQ): psychometric 
+properties of a survey instrument for school-aged 
+children. Sleep. 2000;23:1043-1051. 
+12. Hershey AD, Powers SW, Bentti AL, Degrauw TJ. 
+Effectiveness of amitriptyline in the prophylactic 
+
+management of childhood headaches. Headache. 
+2000;40:539-549. 
+
+13. Paiva T, Batista A, Martins P, Martins A. The relationship 
+between headaches and sleep disturbances. 
+Headache. 1995;35:590-595. 
+14. Bruni O, Galli F, Guidetti V. Sleep hygiene and mi-
+April 2003 
+
+graine in children and adolescents. Cephalalgia. 
+1999;(suppl 25):57-59. 
+
+15. Penzien DB, Rains JC, Andrew ME, Galovski TE, 
+Mohammad Y, Mosley TH. Relationships of daily 
+stress, sleep, and headache: a time-series analysis. 
+Cephalalgia. 2001;21:262-263. 
+

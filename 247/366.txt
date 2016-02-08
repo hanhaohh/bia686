@@ -1,0 +1,601 @@
+ORIGINAL ARTICLE ORIGINAL ARTICLE 
+Safety of Pediatric Short-Stay Tonsillectomy 
+
+M. Lauren Lalakea, MD; Irene Marquez-Biggs, MD; Anna H. Messner, MD 
+Objective: To determine the safety of a relatively brief 
+(,3-hour) period of postoperative observation prior 
+to discharge in children undergoing outpatient tonsillectomy. 
+
+
+Design: Retrospective chart review. 
+
+Setting: Tertiary care children’s hospital and public 
+teaching hospital. 
+
+Patients: The records of all patients (12 years of age who 
+underwent tonsillectomy or adenotonsillectomy from November 
+1995 through July 1997 were reviewed. A total 
+of 143 patients scheduled for ambulatory treatment were 
+identified; 9 were excluded owing to insufficient follow-
+up. The remaining 134 patients made up the study group. 
+
+Main Outcome Measures: (1) Duration of observation 
+prior to discharge; (2) complication rates. 
+
+Results: The mean age of the study population was 
+
+6.1 ± 2.6 (mean ± SD) years. Obstructive sleep apnea was 
+an indication for surgery in 86.5%. Eleven (8.2%) of 134 
+planned outpatients were electively admitted from the recovery 
+room for inpatient observation, most often because 
+of respiratory compromise. Patients admitted from 
+the recovery room were significantly younger (mean age, 
+
+4.0 years) than those who were discharged as planned (6.3 
+years, P,.001). One hundred twenty-three patients were 
+discharged from the recovery room as anticipated, following 
+a mean ± SD duration of postoperative observation of 
+144 ± 48 minutes. Overall, 5 (4.1%) of these 123 outpatients 
+suffered complications after discharge. Two patients 
+(1.6%) experienced primary bleeding, both at 8 hours 
+after surgery. Four patients (3.2%) were readmitted. The 
+complication rate did not vary significantly with the duration 
+of postoperative observation (P = .71). 
+Conclusion: A short postoperative observation period 
+is safe, with a low rate of complications, in appropriately 
+selected children scheduled for ambulatory tonsillectomy. 
+
+
+Arch Otolaryngol Head Neck Surg. 1999;125:749-752 
+
+From the Divisions of 
+Otolaryngology–Head and 
+Neck Surgery, Santa Clara 
+Valley Medical Center, 
+San Jose, Calif (Dr Lalakea), 
+Stanford University School of 
+Medicine, Stanford, Calif 
+(Drs Lalakea and Messner), 
+and Lucile Salter Packard 
+Children’s Hospital at Stanford 
+(Dr Messner), and the 
+Department of Pediatrics, 
+University of California at San 
+Francisco (Dr Marquez-Biggs). 
+
+I
+I
+N THE LAST DECADE, children 
+undergoing tonsillectomy and 
+adenotonsillectomy have increasingly 
+been treated on an ambulatory 
+basis. While outpatient 
+treatment has been documented to be safe 
+for appropriately selected patients,1-4 the 
+optimum length of postoperative observation 
+before discharge has not clearly been 
+established. Ideally, patients should be observed 
+for a sufficient period to minimize 
+complications, while maximizing the cost-
+effective use of healthcare resources. 
+
+As we have gained experience with 
+ambulatory tonsillectomy at our institutions, 
+we have been encouraged to gradually 
+decrease the length of postoperative 
+observation before discharge. At present, 
+it is our practice to perform tonsillectomy 
+in children for both obstructive and 
+inflammatory indications without a fixed 
+mandatory minimum observation pe
+
+
+riod. Because we commonly discharge patients 
+far earlier than 6 hours after surgery, 
+the goal of the present study was to 
+determine the safety and efficacy of our 
+relatively brief (,3-hour) observation period 
+compared with the standard observation 
+periods (#6 hours) reported in the 
+literature. 
+
+RESULTS 
+Of the 134 patients in the study group, 50 
+(37.3%) were female and 84 (62.7%) were 
+male, with a mean ± SD age of 6.1 ± 2.6 
+years (median age, 5.7 years; age range, 
+0.9-12.6 years) (Figure 1). Twenty-
+nine patients (21.6%) were 3 years of age 
+or younger. Evidence of obstructed breathing, 
+including OSAS, was the primary indication 
+for surgery in 96 patients (71.6%), 
+with an additional 20 patients (14.9%) un-
+
+ARCH OTOLARYNGOL HEAD NECK SURG/ VOL 125, JULY 1999 
+
+749 
+
+Downloaded from www.archoto.com on March 4, 2009 
+
+©1999 American Medical Association. All rights reserved. 
+
+
+PATIENTS AND METHODS 
+
+All patients 12 years of age or younger who underwent 
+tonsillectomy or adenotonsillectomy at Lucile 
+Salter Packard Children’s Hospital at Stanford, Stanford, 
+Calif (a tertiary care children’s hospital), and 
+Santa Clara Valley Medical Center, San Jose, Calif (a 
+public teaching hospital), from November 1995 
+through July 1997 were identified through a search 
+of operating room databases. The records of 189 patients 
+thus identified were retrospectively reviewed. 
+All patients scheduled for ambulatory treatment were 
+eligible for inclusion. Fifty-four patients were excluded; 
+46 owing to planned inpatient admission (24% 
+of the total population), and 9 owing to insufficient 
+follow-up. Inpatient admission was elected according 
+to individual physician judgment, most commonly 
+for significant coexisting illnesses (such as severe 
+asthma, developmental delay, cerebral palsy or 
+hypotonia, morbid obesity, seizure disorder, or a history 
+of organ transplantation), evidence of severe sleep 
+apnea, social issues, or occasionally for age 3 years 
+or younger. Neither age 3 years or younger nor obstructive 
+sleep apnea syndrome (OSAS) was considered 
+an absolute indication for inpatient treatment. 
+The remaining 134 patients scheduled for ambulatory 
+treatment made up the study group. 
+
+The following data were extracted from the records 
+of study patients: age, sex, presence of associated 
+medical conditions, indication for surgery, surgical 
+technique, and duration of postoperative 
+observation (time from admission to the recovery room 
+[RR] until discharge from the hospital). In one hospital, 
+patients were discharged directly from the RR, 
+while in the other, the total duration of observation 
+included a period of observation in the ambulatory surgical 
+unit (ASU) prior to discharge. The incidence of 
+unplanned admission from the RR, as well as the 
+incidence of postoperative complications after discharge, 
+was noted. Charts were reviewed for evidence 
+of bleeding, respiratory events, emesis, or insufficient 
+oral intake requiring an emergency 
+department visit or readmission to the hospital. Data 
+were analyzed using descriptive statistics. The significance 
+of differences between groups was evaluated 
+using the Student t test. 
+
+dergoing surgery for the combined indications of obstructed 
+breathing and tonsillitis. Tonsillitis without evidence 
+of obstruction was the indication for surgery in 11 
+patients (8.2%). 
+
+One hundred twenty-two children (91.0%) underwent 
+adenotonsillectomy, and 12 (9.0%) underwent tonsillectomy 
+alone. Electrodissection tonsillectomy was performed 
+in 88 cases (65.7%), while 46 patients (34.3%) 
+underwent sharp dissection tonsillectomy according to 
+individual surgeon preference. Adenoidectomies were performed 
+with a curette. Hemostasis was obtained with electrocautery 
+and nasopharyngeal packs. With occasional 
+exception, procedures were performed by resident surgeons 
+with attending supervision. Forty-six patients 
+
+No. of Patients 
+
+35 
+
+34 
+30 
+25 
+
+24 
+20 
+
+19 
+15 
+
+12 
+11 
+
+10 
+
+8 8 
+
+6 
+4
+
+45 
+
+211 
+
+0 
+
+<1 1 2 3 4 5 6 7 8 9 10 11 12 
+Age, y 
+
+Figure 1. Age distribution in years for patients scheduled to undergo 
+ambulatory tonsillectomy or adenotonsillectomy. 
+
+(34.3%) received an intravenous antibiotic, and 61 
+(45.5%) received intravenous dexamethasone before surgery, 
+most commonly at a dose of approximately 0.5 mg/ 
+kg. All patients were discharged on a regimen of oral antibiotics, 
+most commonly amoxicillin. 
+
+Eleven (8.2%) of 134 planned outpatients required 
+an unscheduled inpatient admission based on clinical assessment 
+in the RR, including 7 (24%) of 29 patients 3 
+years of age or younger. 
+
+Age/Sex Reason 
+
+14 mo/M Stridor 
+
+2 y/F Failure to void 
+
+3 y/M Desaturation to 68 
+
+3 y/M Desaturation to 75 
+
+3 y/F Desaturation to 80 
+
+3 y/F Protracted emesis 
+
+3 y/M Protracted emesis 
+
+5 y/M Apnea, desaturation to 89% O2 
+
+5 y/M Desaturation to 88% O2 
+
+6 y/M Purulent sputum, rule out pneumonia 
+
+6 y/M Apnea/hypopnea 
+
+Conversion to inpatient status was most frequently 
+prompted by respiratory events, including apnea, de-
+saturation, and/or stridor (7 patients [5%]). Respiratory 
+compromise occurred in 4 (14%) of 29 patients 3 years 
+of age or younger, but in only 3 (3%) of 105 children older 
+than 3 years. All patients experiencing airway complications 
+had a preoperative diagnosis of OSAS. Once discharged 
+from the hospital, none of these patients experienced 
+further complications. 
+
+Patients admitted from the RR were significantly 
+younger (mean age, 4.0 ± 1.6 years) than those who were 
+discharged as planned (6.3 ± 2.6 years, P,.001). While 
+1 patient had an additional underlying diagnosis of mild 
+asthma, there were no complicating medical illnesses in 
+the remainder of these patients. There were no differences 
+in operative technique, steroid use, or indication 
+for surgery in patients requiring unscheduled admission 
+as compared with the outpatient group as a whole. 
+
+One hundred twenty-three patients (91.8%) were 
+discharged as anticipated, including 22 (76%) of 29 patients 
+3 years of age or younger. Patients were discharged 
+when fully awake, with stable vital signs and without 
+evidence of bleeding, ongoing emesis, or airway signs 
+or symptoms. There was no requirement for a specific 
+length of observation or for demonstration of oral in-
+
+ARCH OTOLARYNGOL HEAD NECK SURG/ VOL 125, JULY 1999 
+
+750 
+
+Downloaded from www.archoto.com on March 4, 2009 
+
+©1999 American Medical Association. All rights reserved. 
+
+
+No. of Patients 
+
+70 
+60 
+50 
+40 
+30 
+20 
+10 
+0 
+
+1 
+40 
+63 
+11 
+7 
+1 
+<60 61-120 121-180 181-240 241-300 >300 
+
+
+Time, min 
+
+Figure 2. Duration of postoperative observation in 123 patients before 
+discharge after tonsillectomy or adenotonsillectomy. 
+
+take before discharge. The duration of postoperative observation 
+for the patients in the RR/ASU ranged from 55 
+to 310 minutes (mean ± SD, 144 ± 48 minutes [2.4 ± 0.8 
+hours]) (Figure 2). Observation time in the RR/ASU was 
+occasionally prolonged by nonclinical factors, such as 
+transportation and medication delays. 
+
+Patients in the outpatient group were followed up 
+after surgery for 30 ± 44 (mean ± SD) days. Five (4.1%) 
+of these 123 outpatients suffered complications (Table). 
+Four patients (3.2%) were readmitted to the hospital after 
+discharge from the RR/ASU. Two patients experienced 
+primary bleeding, for a rate of 1.6%. No patients 
+experienced secondary bleeding. Among patients initially 
+discharged as planned, the incidence of emesis and/or 
+inadequate oral intake requiring readmission or an emergency 
+department visit was 2.4%. No respiratory complications 
+were noted after discharge. 
+
+The duration of postoperative observation in the RR/ 
+ASU did not vary significantly between patients with and 
+without complications (157 ± 76 minutes vs 143 ± 46 minutes, 
+respectively, P = .71). While patients who suffered 
+a complication tended to be somewhat older than patients 
+whose course was uncomplicated (8.2 ± 2.4 years 
+vs 6.2 ± 2.5 years), this difference was not statistically significant 
+(P = .14). There were no complications in patients 
+3 years of age or younger after discharge from the 
+RR/ASU. 
+
+COMMENT 
+Ambulatory management has become the standard of care 
+for many children undergoing tonsillectomy and adenotonsillectomy. 
+Since Chiang et al5 reported in 1968 on 
+40 000 cases of outpatient tonsillectomy with little morbidity 
+and no mortality, numerous other authors have 
+documented the safety and cost-effectiveness of this approach.
+1-4 However, there has been ongoing and justifiable 
+concern regarding what constitutes an adequate period 
+of postoperative observation before discharge. Based 
+on a retrospective study of 2600 inpatient tonsil and adenoid 
+procedures, Carithers et al6 in 1987 recommended 
+that patients should be observed for 8 to 10 hours 
+after surgery. Subsequent studies suggest that many authors 
+consider a minimum postoperative observation period 
+of 6 to 8 hours to be standard.2,3,7-9 
+
+Postdischarge Complications 
+Age, y/Sex 
+Complication 
+(Time After Surgery) Treatment 
+5/M 
+6/F 
+7/F 
+9/F 
+11/F 
+Adenoid bleed (8 h) 
+Fever, emesis (11 h) 
+Bleed, not observed (8 h) 
+Poor oral intake (3 d) 
+Emesis, poor 
+oral intake (1 d) 
+Admission; return to 
+operating room 
+Outpatient; antiemetic, 
+dexamethasone, analgesic 
+in emergency department 
+Admission; 1-d observation 
+Admission; supportive care 
+Admission; supportive care 
+
+There are few studies in the literature suggesting that 
+shorter periods of observation may be equally safe. Mitchell 
+et al10 and Gabalski et al11 have suggested that posttonsillectomy 
+observation may be safely reduced to 4 hours. In 
+a retrospective study, Colclasure and Graham4 reported a 
+complication rate of 1.4% among 3340 children and adults 
+observed for an average of 2.25 hours after tonsil and adenoid 
+procedures. Finally, Nicklaus et al12 reported a retrospective 
+series involving 233 children who underwent 
+ambulatory tonsillectomy, with a mean postoperative observation 
+period of 136 ± 48 minutes, and an overall complication 
+rate of 9%, including primary and secondary bleeding 
+(1.7% and 3.0%, respectively), nausea and vomiting 
+(2.5%), and dehydration (1.3%). The incidence of complications 
+after discharge from the hospital was 4.3%. While 
+Nicklaus and colleagues concluded that short periods of 
+observation are safe and cost-effective, letters of response 
+to their article were highly critical of this approach.13,14 
+
+The current article provides additional support for 
+the safety and efficacy of a short period of postoperative 
+observation in ambulatory pediatric adenotonsillectomy. 
+The average length of observation in our study of 144 ± 48 
+minutes is nearly identical to that reported by Colclasure 
+and Graham4 and Nicklaus et al.12 Although retrospective 
+and modest in size, our overall outpatient complication 
+rate of 4.1% confirms our clinical impression of 
+excellent clinical outcomes. Specific complications will 
+be discussed in turn. 
+
+Postoperative hemorrhage is clearly the most dangerous 
+potential complication after adenotonsillectomy. 
+In the present series, 2 patients had primary hemorrhages, 
+for a rate of 1.6%, with spontaneous resolution 
+in 1 case. Our experience compares favorably with the 
+primary hemorrhage rates of 0.006% to 4.2% reported 
+in the literature for large series of patients observed for 
+a minimum of 6 hours after surgery.4-6,8,9 Without question, 
+careful patient selection, with attention to the availability 
+of transportation and proximity to the hospital, 
+is critical to the safety of ambulatory adenotonsillectomy, 
+regardless of the length of observation. 
+
+Refractory or problematic emesis has been reported 
+in 1.1% to 10.0% of patients after adenotonsillectomy.
+3,4,6,8,9,12,15 Poor oral intake and/or dehydration occurs 
+in 0.05% to 1.9% of patients in all age groups,2,4,7,8,12 
+but may be as high as 4.0% to 9.7% in children 3 years of 
+age or younger.10,16 For purposes of the present study, emesis 
+and poor oral intake were recorded as complications 
+
+ARCH OTOLARYNGOL HEAD NECK SURG/ VOL 125, JULY 1999 
+
+751 
+
+Downloaded from www.archoto.com on March 4, 2009 
+
+©1999 American Medical Association. All rights reserved. 
+
+
+when they were sufficient to prompt an emergency department 
+visit or readmission to the hospital. The 2.4% incidence 
+of emesis and poor oral intake recorded for patients 
+discharged as anticipated, prompting readmission in 1.6%, 
+is well within the range outlined in the literature. Including 
+2 additional patients admitted from the RR for vomiting, 
+overall 5 (3.7%) of 134 patients scheduled for ambulatory 
+management experienced problematic emesis and/or 
+poor oral intake after surgery. 
+
+The incidence of respiratory compromise reported after 
+adenotonsillectomy varies greatly. While some authors 
+have noted respiratory complications in as few as 0% 
+to 0.4% of their patients,6,8,12 Gerber et al17 reported a rate 
+of 15.1% in pediatric patients undergoing adenotonsillectomy 
+for obstructive as well as inflammatory indications. 
+Higher rates of respiratory complications have been noted 
+in patients with OSAS documented by polysomnogram 
+(23%-27%)18,19 and in children 3 years of age or younger 
+(7%-52%),15-17,19,20 leading some authors to recommend admission 
+for very young children and those with OSAS. 
+Clearly, patients with postoperative respiratory compromise 
+are best treated in the inpatient setting. It is less clear, 
+however, whether all patients deemed to be at increased 
+risk for airway complications should be scheduled for a 
+planned postoperative admission. Reports of respiratory 
+compromise in the literature do not note whether difficulties 
+are evident in the early postoperative period, or whether 
+problems were first noted many hours after surgery in a 
+patient who was otherwise doing well. 
+
+It has been our clinical impression that those children 
+who experience respiratory difficulties are readily 
+identified early, while asleep in the RR and still under 
+the effects of various anesthetic and analgesic agents. It 
+has therefore been our practice to schedule a majority 
+of children, notwithstanding age or diagnosis of OSAS, 
+for ambulatory surgery. Those who experience respiratory 
+difficulties in the RR (5.2% in this series) are admitted 
+for inpatient care as required. In agreement with 
+the findings of others,15-17,19,20 children aged 3 years or 
+younger in our study had a higher rate of respiratory compromise 
+(13.8%) than did those older than 3 years (2.8%). 
+
+With respect to unplanned admission to the hospital, 
+a total of 8.2% of children initially scheduled as outpatients 
+were admitted from the RR, and an additional 3.2% 
+of patients were readmitted following RR discharge. Other 
+authors have reported similar unplanned admission rates 
+for pediatric adenotonsillectomy.7,10 The rate of admission 
+from the RR is not related to the length of observation, 
+but should be attributed to complications of the procedure 
+itself. We believe that the low postdischarge 
+complication rate of 4.1% for patients released from the RR/ 
+ASU as planned reflects the safety and efficacy of our management 
+practices. This postdischarge complication rate is 
+virtually identical to that reported by Nicklaus et al12 (4.3%). 
+
+Our approach to outpatient adenotonsillectomy is 
+not only safe, but has resulted in significant cost savings 
+as well. The current charge for routine RR care at our institutions 
+is $38 to $39.90 per 15 minutes. An average 
+uncomplicated RR stay of 2.5 hours, compared with 6 
+hours, results in a savings of $504 to $559 per child. Thus, 
+for the 123 outpatients cared for over the period of this 
+study, RR charges were reduced by at least $61 990. 
+
+CONCLUSIONS 
+The mean duration of observation following ambulatory 
+adenotonsillectomy in this study was 144 ± 48 minutes. 
+Young age and sleep-disordered breathing were associated 
+with some increased risk; nonetheless, respiratory 
+complications were identified early, and the majority of 
+children in these categories were successfully treated on 
+an outpatient basis. Our posttonsillectomy management 
+protocol is associated with a low rate of complications 
+that compares favorably with the complication rates 
+reported in the literature for standard observation periods 
+of 6 hours or more. While the length of observation 
+may vary for individual patients, our study confirms that 
+a relatively short period of postoperative observation is 
+both safe and cost-effective for selected children undergoing 
+ambulatory adenotonsillectomy. 
+
+Accepted for publication December 9, 1998. 
+
+Presented in part at the annual meeting of the American 
+Academy of Pediatrics, Section on Otolaryngology-
+Bronchoesophagology, San Francisco, Calif, October 18, 
+1998. 
+
+Reprints not available from the authors. 
+
+REFERENCES 
+1. Maniglia AJ, Kushner H, Cozzi L. Adenotonsillectomy: a safe outpatient procedure. 
+Arch Otolaryngol Head Neck Surg. 1989;115:92-94. 
+2. Reiner SA, Sawyer WP, Clark KF, Wood MW. Safety of outpatient tonsillectomy 
+and adenoidectomy. Otolaryngol Head Neck Surg. 1990;102:161-168. 
+3. 
+Helmus C, Grin M, Westfall R. Same-day-stay adenotonsillectomy. Laryngoscope. 
+1990;100:593-596. 
+4. Colclasure JB, Graham SS. Complications of outpatient tonsillectomy and adenoidectomy: 
+a review of 3,340 cases. Ear Nose Throat J. 1990;69:155-160. 
+5. Chiang TM, Sukis AE, Ross DE. Tonsillectomy performed on an outpatient basis: 
+report of a series of 40,000 cases performed without a death. Arch Otolaryngol. 
+1968;88:105-108. 
+6. Carithers JS, Gebhart DE, Williams JA. Postoperative risks of pediatric tonsilloadenoidectomy. 
+Laryngoscope. 1987;97:422-429. 
+7. Shott SR, Myer CM, Cotton RT. Efficacy of tonsillectomy and adenoidectomy as 
+an outpatient procedure: a preliminary report. Int J Pediatr Otorhinolaryngol. 1987; 
+13:157-163. 
+8. Crysdale WE, Russel D. Complications of tonsillectomy and adenoidectomy in 
+9409 children observed overnight. CMAJ. 1986;135:1139-1142. 
+9. Guida RA, Mattucci KF. Tonsillectomy and adenoidectomy: an inpatient or outpatient 
+procedure? Laryngoscope. 1990;100:491-493. 
+10. 
+Mitchell RB, Pereira KD, Friedman NR, Lazar RH. Outpatient adenotonsillectomy. 
+Arch Otolaryngol Head Neck Surg. 1997;123:681-683. 
+11. Gabalski EC, Mattucci KF, Setzen M, Moleski P. Ambulatory tonsillectomy and 
+adenoidectomy. Laryngoscope. 1996;106:77-80. 
+12. Nicklaus PJ, Herzon FS, Steinle EW. Short-stay outpatient tonsillectomy. Arch 
+Otolaryngol Head Neck Surg. 1995;121:521-524. 
+13. Goodman RS. Short-stay outpatient tonsillectomy. Arch Otolaryngol Head Neck 
+Surg. 1996;122:897. 
+14. Berry YJ. Short-stay outpatient tonsillectomy. Arch Otolaryngol Head Neck Surg. 
+1996;122:897. 
+15. Tom LWC, DeDio RM, Cohen DE, Wetmore RF, Handler SD, Potsic WP. Is outpatient 
+tonsillectomy appropriate for young children? Laryngoscope. 1992;102: 
+277-280. 
+16. Wiatrak BJ, Myer CM, Andrews TM. Complications of adenotonsillectomy in children 
+under 3 years of age. Am J Otolaryngol. 1991;12:170-172. 
+17. Gerber ME, O’Connor DM, Adler E, Myer CM. Selected risk factors in pediatric 
+adenotonsillectomy. Arch Otolaryngol Head Neck Surg. 1996;122:811-814. 
+18. Rosen GM, Muckle RP, Mahowald MW, Goding GS, Ullevig C. Postoperative respiratory 
+compromise in children with obstructive sleep apnea syndrome: can it 
+be anticipated? Pediatrics. 1994;93:784-788. 
+19. McColley SA, April MM, Carroll JL, Naclerio RM, Loughlin GM. Respiratory compromise 
+after adenotonsillectomy in children with obstructive sleep apnea. Arch 
+Otolaryngol Head Neck Surg. 1992;118:940-943. 
+20. Biavati, MJ, Manning SC, Phillips DL. Predictive factors for respiratory complications 
+after tonsillectomy and adenoidectomy in children. Arch Otolaryngol Head 
+Neck Surg. 1997;123:517-521. 
+ARCH OTOLARYNGOL HEAD NECK SURG/ VOL 125, JULY 1999 
+
+752 
+
+Downloaded from www.archoto.com on March 4, 2009 
+
+©1999 American Medical Association. All rights reserved. 
+
+

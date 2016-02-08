@@ -1,0 +1,530 @@
+Singapore Med J2003 Vol 44(11) : 570-573 Original Article 
+
+Clinical Risk Factors for 
+Obstructive Sleep Apnoea in Children 
+
+K W Chau, D K K Ng, C K L Kwok, P Y Chow, J C S Ho 
+
+ABSTRACT 
+
+Objective: To identify the clinical factor(s) that 
+identify obstructive sleep apnoea syndrome (OSAS) 
+in children. 
+
+Methods: A prospective study of children referred 
+to the sleep clinic of the paediatric department 
+was conducted in a public non-teaching regional 
+hospital in Hong Kong.A standard questionnaire was 
+administered and overnight sleep polysomnography 
+was performed in a consecutive series of patients. 
+Logistic regression analysis was performed to 
+obtain significant risk factors for prediction of 
+OSAS in this series of patients. 
+
+Results: Sixty-two children were enrolled into the 
+study and 22 were diagnosed to have OSAS. Logistic 
+regression analysis showed that, among all the 
+answers, ‘snoring every night’ is the single most 
+significant risk factor (p<0.0001) to predict OSAS. 
+‘Snoring every night’ has a sensitivity of 91% and 
+specificity of 75% for OSAS patients. It also has a 
+positive predictive value of 67% and negative 
+predictive value of 94%. 
+
+Conclusion: Snoring every night is an important 
+risk factor in identifying OSAS in children. Priority 
+for an overnight sleep polysomnogram should 
+be given to those with this symptom. 
+
+Keywords: children, obstructive sleep apnoea, 
+OSAS, risk factors, questionnaire 
+
+Singapore Med J 2003 Vol 44(11):570-573 
+
+INTRODUCTION 
+
+Obstructive sleep apnoea syndrome (OSAS) in 
+children was estimated to affect 1-4% of children(1,2). 
+The underlying pathogenesis involves an interaction 
+of anatomical factors (e.g. adenotonsillar hypertrophy, 
+subtle retrognathia, craniofacial malformation) and 
+dynamic factors such as muscle tone of the pharyngeal 
+airway(3). Snoring is the cardinal symptom. Other typical 
+clinical features include difficulty in breathing during 
+sleep, observed apnoea, restlessness, enuresis, 
+
+and daytime symptoms like sleepiness, hyperactivity, 
+behavioural and learning problems. However, previous 
+studies showed that clinical risk factors are not well-
+related to OSAS(4-6). Among the snoring children, only 
+about 10 to 30% of them(1,7-10) were actually found to 
+have OSAS as diagnosed by the sleep polysomnograph 
+(PSG). Given the potentially serious sequel of untreated 
+OSAS, e.g. cor pulmonale, respiratory failure and 
+intellectual impairment(11), and the expenses of performing 
+PSG, identification of significant clinical risk factors 
+in different population remains an important task. 
+This study aims at identification of clinical risk factors 
+for OSAS in Chinese children in Hong Kong. 
+
+METHODS 
+
+Sixty-two children were referred to our sleep clinic 
+for suspected OSAS by paediatricians or general 
+practitioners from January 1998 to December 1999. 
+All of them presented with snoring with or without 
+other symptoms of OSAS. A questionnaire modified 
+from a validated questionnaire by Brouillette et al(12) was 
+filled in by one of the three authors. If the informants, 
+usually the parents, were not sure about some of the 
+answers, they would undertake an observation period 
+of a few weeks. The clinician would also perform a 
+standard clinical assessment for them. Those children 
+who had neurological abnormalities or craniofacial 
+syndromes were excluded from the study. 
+
+All of them underwent an overnight polysomnogragh 
+(PSG) in our sleep laboratory. Alice 3 (Respironics, 
+Pittsburgh, USA) computerised sleep monitoring 
+system was used. Sleep stages were scored according 
+to the Rechtschaffen & Kales criteria by one of the 
+following authors (DN,KC,KK)(13). The scorers 
+were not blinded. The following 15 channels were 
+monitored: 4 electroencephalogram (EEG) channels, 
+2 electrooculogram (EOG) channels, chin and leg 
+electromyogram (EMG) channels, oro-nasal airflow 
+thermistor, chest and abdominal respiratory impedance 
+plethysmography, electrocardiogram, oxygen saturation, 
+snoring and body positioning sensor. An obstructive 
+apnoeic episode was defined by the decrease of airflow 
+by more than 80% for more than two respiratory cycles 
+
+Department of 
+Paediatrics 
+Kwong Wah 
+
+Hospital 
+Waterloo Road 
+Kowloon 
+Hong Kong 
+People s Republic 
+
+of China 
+
+K W Chau, MRCP, 
+FHKAM (Paed) 
+Currently in 
+Private Practice 
+
+D K K Ng, 
+MMed Sc, FRCP 
+Consultant 
+
+C K L Kwok, 
+MB ChB, MRCP, 
+FHKAM (Paed) 
+
+Senior Medical Officer 
+
+J C S Ho, FRCP, 
+FRCR, FRCPCH 
+Chief of Service 
+
+Correspondence to: 
+
+D K K Ng 
+Tel: (852) 2781 5055 
+Fax: (852) 2781 5261 
+Email: dkkng@ 
+ha.org.hk 
+
+
+571 : 2003 Vol 44(11) Singapore Med J 
+Table 1. Demographic data of 62 children with and without OSAS. 
+
+To find out the possible risk factors for OSAS, 
+OSAS Non-OSAS p-value answers to the questionnaire and physical finding of 
+
+tonsil size were compared between those with and
+
+Male: Female 12:10 24:16 0.79 
+
+without OSAS (Appendix 1). Tonsil size was classified 
+
+Age, mean+/-S.D. 6.24 yrs +/- 3.15 yrs 6.98yrs+/- 3.45 yrs 0.35 
+
+from grade 1 to 5. Grade 1 means that the tonsils are 
+not visible. Grade 2 is between grade 1 and 3. Grade 3 
+Table II. Common symptoms of OSAS and non-OSAS groups. means they are at the midline between the anterior 
+
+faucial pillar and the uvula. Grade 4 is between 3 and 5.
+
+AHI>1 AHI<1 RR 95% CI 
+(n=22) (n=40) Grade 5 means both tonsils touching each other. 
+
+
+Observed apnoea 
+always 
+sometimes 
+4 
+8 
+1 
+3 
+2.53 
+3.45 
+1.42-4.53 
+1.86-6.39 
+rarely 
+never 
+1 
+9 
+1 
+35 
+3.53 1.84-6.76 
+Snoring 
+always 
+sometimes 
+20 
+1 
+10 
+27 
+10.67 
+1.45 
+2.72-41.8 
+0.26-8.18 
+rarely 
+never 
+1 
+0 
+3 
+0 
+Breathing difficulty 
+always 
+sometimes 
+9 
+6 
+3 
+5 
+2.89 
+3.63 
+1.63-5.1 
+1.74-7.58 
+rarely 
+never 
+0 
+7 
+8 
+23 
+2.14 1.02-4.52 
+Tonsillar hypertrophy 
+grade 4 
+grade 3 
+grade 2 
+grade 1 
+4 
+14 
+2 
+2 
+5 
+12 
+11 
+12 
+1.31 
+3.47 
+2.92 
+0.58-2.98 
+1.31-9.1 
+0.78-11.0 
+Obesity 4 8 0.93 0.38-2.24 
+Poor academic performance 
+or behavioural problems 4 6 1.16 0.5-2.69 
+
+RR= relative risk, expressed at various levels with cumulative numbers of cases. 
+CI= confidence interval. 
+
+Table III. Logistic regression analysis of significance of various factors 
+in relation to OSAS. 
+
+Effect Significance (p) 
+Difficult breathing 0.966 
+Observed apnoea 0.055 
+Regular snoring <0.001 
+Restlessness during sleep 0.317 
+Obesity 0.300 
+Poor academic performance 0.066 
+Enlarged tonsils 0.722 
+
+Data were analysed by the Statistical Programs for 
+Social Science (SPSS Inc., Chicago, IL, USA). Mean 
+and standard deviations (S.D) were used to describe 
+continuous variables. Logistic regression analysis of 
+the risk factors for OSAS (i.e. AHI >1) were performed. 
+A p-value of less than 0.05 was considered significant. 
+
+RESULTS 
+
+Sixty-two children were recruited consecutively from 
+the sleep clinic. The mean age was 6.79 years +/- 3.6 years 
+(range: 2-13 years). Male to female ratio was 36 to 26 
+
+(1.38 : 1). Twenty-two of them (12 boys and 10 girls) 
+were diagnosed to have OSAS. AHI ranged from 
+1.62 to 72.4, mean AHI 8.62 +/- 8.12. There was no 
+statistically significant difference in gender and age 
+distribution between the OSAS and the non-OSAS 
+group (Table I). The common symptoms of the two 
+groups were listed in Table II. Logistic regression 
+analysis for various factors that contribute to OSAS 
+was performed. Snoring every night turned out to be 
+the only significant risk factors although observed 
+apnea was found to approach significance with a 
+p value of 0.055. (Table III) All other factors were not 
+statistically significant. Regular snoring every night 
+was found to be the most significant risk factor of OSAS. 
+The odds ratio was 10.67 (95% C.I. 2.72-41.8). For the 
+current studied population of children suspected to 
+in the presence of respiratory effort. Obstructive 
+hypopnoea was defined as a decrease in airflow by 50 to 
+80% in the presence of respiratory effort, together with 
+the presence of desaturation of more than 4% or EEG 
+arousal. Each PSG was scored by one of the authors 
+blindly in the absence of any clinical data. For the current 
+study, the diagnostic criteria of OSAS is an obstructive 
+apnoea-hypopnoea index (AHI) of more than one(14). 
+
+have OSAS, the positive predictive value of nightly 
+snoring was of 67% and absence of nightly snoring 
+had a negative predictive value of 94%. Its sensitivity 
+was 91% and the specificity was 75%. 
+
+DISCUSSION 
+
+There are several important observations in the current 
+prospective study. Firstly, the overall prevalence of 
+OSAS in our patients is 36%. This is much higher than 
+the reported OSAS prevalence of 0.7 to 10.3% in the 
+literature. The reasons are several-fold. Our patients 
+were of higher risk groups as all were referrals from 
+the inpatient service, the outpatient clinics and 
+community-based doctors because of sleep disordered 
+breathing symptoms. Moreover, the heterogeneity 
+of diagnostic criteria of OSAS in children in the 
+worldwide literature also contributes to a wide difference 
+in the prevalence of this disease. Some studies did 
+
+
+Singapore Med J 2003 Vol 44(11) : 572 
+
+Appendix 1 
+
+Key : Rarely = Monthly 
+Sometimes = Weekly 
+Always > Every other day to daily 
+
+
+Never Rarely Sometimes Always Don’t know 
+
+1. Difficulty of breathing during sleep? (1) (2) (3) (4) (5) 
+2. Stop breathing during sleep? (1) (2) (3) (4) (5) 
+3. Snoring during sleep (1) (2) (3) (4) (5) 
+4. Restless sleep? (1) (2) (3) (4) (5) 
+5. Chronic rhinorrhoea or nasal symptoms? (1) (2) (3) (4) (5) 
+6. Mouth-breathing when awake? (1) (2) (3) (4) (5) 
+7. Frequent upper respiratory tact infections? (1) (2) (3) (4) (5) 
+8. Increased difficulty of breathing during URTI? (1) (2) (3) (4) (5) 
+9. Frequent nausea and vomiting? (1) (2) (3) (4) (5) 
+10. Swallowing difficulty? (1) (2) (3) (4) (5) 
+11. Excessive sweating during sleep? (1) (2) (3) (4) (5) 
+12. Excessive daytime somnolence? (1) (2) (3) (4) (5) 
+13. Any nightmares? (1) (2) (3) (4) (5) 
+14. Early morning headache? (1) (2) (3) (4) (5) 
+15. Secondary Nocturnal enuresis/Nocturia? (1) (2) (3) (4) (5) 
+16. Hearing problems? Yes / No 
+17. Poor appetite? Yes / No 
+18. Recurrent middle ear disease? Yes / No 
+19. Speech problems? Yes / No 
+20. Delayed development? Yes / No 
+21. Obesity Yes / No (i.e. body weight >120% of weight for height) 
+22. Tonsil size Grade 1 to 4 
+not use PSG for the diagnosis. For example, Ali et al(1) 
+reported an estimated prevalence of sleep-disordered 
+breathing of 0.7% in a group of children without PSG. 
+For studies that employed PSG as diagnostic criteria, 
+Gislason et al(8) reported a prevalence of 2.9% among 
+a group of habitual snorers and their diagnostic criteria 
+was an apnoea-hypopnoea index of greater than 3. Redline 
+et al(15) reported the prevalence in a general population 
+of children to be 1.6% and 10.3% by using a diagnostic 
+criteria of AHI more than 10 and 5 respectively. Hence, 
+our high prevalence results from both our lower 
+threshold of diagnosing OSAS, i.e. AHI >1 and our 
+patients came from a selected high-risk group of 
+children. The sex ratio showed no statistically significant 
+difference between the OSAS and non-OSAS groups 
+and this is in line with the worldwide literature about 
+the equal sex ratio of OSAS in children(15,16). The mean 
+age of our OSAS patients was 6.24 years and 14 out of 
+22 of them (63.6%) were within three to six years old, 
+the reported peak age group of OSAS(2). 
+
+Mallory et al(17) studied 41 obese children with the 
+mean age of 10.3 years and 24% of these children had 
+AHI more than five. Marcus et al(18) studied 22 obese 
+children with the mean age of 10-year and 27% of these 
+children were found to have OSAS. Redline et al(15) 
+reported that obesity increased the risk for OSAS by 
+four to five folds in 364 children with the mean age of 
+11 years. In contrast to these previous studies, the current 
+series showed no difference in prevalence of obesity in 
+the OSAS and non-OSAS group. These could be 
+explained by the following factors: the relatively small 
+sample size in the current series; the younger age of 
+children in the current series (mean age of 6.2-year 
+vs. 10-year in the previous series); the high risk OSAS 
+status of the children in the current series may obscure 
+the effect of obesity on OSAS. 
+
+In children, normal value of obstructive apnoea of 
+any duration was found to be 0.1 +/- 0.5 per hour(14). 
+However, OSAS is best quantified by the combined 
+apnoea and hyponoea episodes per hour, apnoea
+
+
+
+573 : 2003 Vol 44(11) Singapore Med J 
+hyponoea index (AHI). Unfortunately, normal values 
+of AHI are not available for children. AHI values of 
+5,10,15, 20 or 30 were used as indicative of OSAS 
+in different studies(19). AHI more than one was 
+regarded as OSAS in the authors’ department because 
+all the cases were referred for suspected OSAS and 
+represented a high risk group and a high sensitivity 
+was desirable. 
+
+Considering the individual risk factors, snoring 
+every night is the most powerful predictor for OSAS 
+and the presence of it signified a significantly increased 
+risk of OSAS. It also gives a very good sensitivity (91%) 
+and a reasonable specificity (75%) when used as a 
+screening question for suspected OSAS. Enlarged tonsils 
+are a common finding in children and no difference was 
+found in the current study regarding size of tonsils 
+as judged by clinical assessment and OSAS status. 
+However, a recent study of volume measurement of 
+tonsils by magnetic resonance imaging study showed 
+that the volume of tonsils were indeed larger in children 
+with OSAS compared with control, 9.1 ml vs. 5.8 ml 
+(p<0.0005)(20). It reflects clearly that clinical estimation 
+of tonsil volume is far too inaccurate to be useful as a 
+risk estimate. We did also evaluate the relative risks 
+of some other well-known features in OSAS like 
+restlessness, daytime sleepiness, enuresis (see 
+questionnaire) but none of them were significantly 
+related to OSAS. 
+
+Previous studies showed that symptoms and 
+signs were not reliable in the diagnosis of OSAS(4,21). 
+The inaccuracy was attributed to the fact that 
+questionnaire depends highly on the accuracy of 
+reporting by the caretakers who could be quite 
+ignorant about the sleep symptoms. For example, it 
+is well known that the apnoeic episodes occur more 
+during the latter half of the night when children are 
+in rapid-eye movement (REM) sleep. Their parents 
+who would be asleep would not note such symptoms. 
+However, it is evident from our present study that a 
+carefully administered standardised questionnaire 
+by trained clinicians together with an observation 
+period in cases of doubt would help select out the 
+high risk cases of OSAS in children. 
+
+There are some limitations in our study. We had 
+not measured the intrascorer and interscorer 
+variability although all the scorers had received a 
+standard training programme and followed a standard 
+scoring protocol under close supervision of the 
+consultant, DKN. The second limitation was the 
+selection bias that was introduced when parents who 
+could not give answers to the questions at the first 
+contact were allowed to take a further observation 
+
+again. The third limitation is the small number of 
+patients studied. 
+
+In conclusion, our study showed that nightly 
+snoring is an important risk factor of OSAS. PSG 
+should be arranged to those children who have 
+this symptom. 
+
+REFERENCES 
+
+1. 
+Ali NJ, Pitson D, Stradling JR. Snoring, sleep disturbance, and 
+behaviour in 4-5 years old. Arch Dis Child 1993; 68:360-6. 
+2. 
+Marcus CL, Loughlin GM. Obstructive sleep apnea in children. Sem 
+Ped Neuro 1996; 3:23-8. 
+3. 
+Carroll JL. Sleep-related upper airway obstruction in children and 
+adolescents. Child Adole Psych Clinic N Am 1996; 5:617-47. 
+4. 
+Carroll JL, et al. Inability of clinical history to distinguish primary 
+snoring from Obstructive sleep apnea in children. Chest 1995; 
+108:610-8. 
+5. 
+Goldstein NA, Sculerati N, Walsleben JA, Bhatia N, Friedman DM, 
+Rappaport DM. Clinical diagnosis of pediatric obstructive sleep apnea 
+validated by polysomnography. Otolaryngol Head Neck Surg 1994; 
+111:611-7 
+6. 
+Wang RC, Elkins TP, Keech D, Wauquier A, Hubbard D. Accuracy 
+of clinical evaluation in pediatric obstructive sleep apnea. Otolaryngol 
+Head Neck Surg 1998; 118:69-73 
+7. 
+Teculescu DB, Caillier I, Perrin P, Rebstock E, Rauch A. Snoring in 
+French preschool children. Ped Pulmonol 1992; 13:239-44. 
+8. 
+Gislason T, Benediktsdottir B. Snoring, apnoeic episodes, and 
+nocturnal hypoxaemia among children 6 months to 6 years old: an 
+epidemiologic study of lower limit of prevalence. Chest 1995; 107:963-6. 
+9. 
+Owen GO, Canter RJ, Robinson A. Snoring, apnoea, and ENT symptoms 
+in the paediatric community. Clin Otolaryngol 1996; 21:130-4. 
+10. Ali NJ, Pitson D, Stradling JR. Snoring, disturbaance and sleep-related 
+breathing disorders and their relation to daytime sleepiness in 4-5 years 
+old children. Am Rev Respir Dis 1991; 143:A381. 
+11. Carroll JL. Loughlin GM. Obstructive Sleep Apnea Syndrome in 
+infants and children: clinical features and pathophysiology. In: Ferber R, 
+Kryger M. editors. Principles and Practice of Sleep Medicine in the 
+Child. Philadelphia: Saunders. 1995, 163-92. 
+12. Brouillette R, Hanson D, David R, et al. A diagnostic approach to 
+suspected obstructive sleep apnea in children. J Pediatr 1984; 105:10-4. 
+13. Rechtschaffen A, Kales A. A manual of standardized terminology, 
+techniques and scoring systems for sleep stages of human subjects. 
+National Institutes of Health, 1968. Washington D.C. 
+14. Marcus CL, Omlin KJ, Basinki DJ, et al. Normal polysomnographic 
+values for children and adolescents. Am Rev Respir Dis 1992; 
+146:1235-9. 
+15. Redline S, Tishler PV, Schluchter M, Aylor J, Clark K, Graham G. 
+Risk factors for sleep-disordered breathing in children. Associations 
+with obesity, race and respiratory problems. Am J Respir Crit Care 
+Med 1999; 159:1527-32 
+16. Gozal D, Marcus CL, Keens TG, Ward SLD. Characteristics and 
+polysomnographic abnormalities of children with obstructive sleep 
+apnea syndrome. Pediatr Pulmonol 1991; 11:372-5. 
+17. Mallory GB, Fisher DH, Jackson R. Sleep-associated breathing 
+disorders in morbidly obese children and adolescents. J Pediatr 1989; 
+115:892-7. 
+18. Marcus CL, Curtis S, Koerner CB, Joffe A, Serwint JR, Loughlin GM. 
+Evaluation of pulmonary function and polysomnography in obese 
+children and adolescents. Pediatr Pulmonol 1996; 176-83. 
+19. Redline S, Sanders M. Hypopnea, a floating metric: implications 
+for prevalence, morbidity estimates, and case finding. Sleep 1997; 
+20:1209-17. 
+20. Arens R, Mcdonough JM, Costarino AT, et al. Magnetic resonance 
+imaging of the upper airway structure of children with obstructive 
+sleep apnoea syndrome. Am J Respir Crit Care Med 2001; 164:698-703. 
+21. Leach J, Olson J, Hermann J, Manning S. Polysomnography and 
+clinical findings in children with obstructive sleep apnea. Arch 
+Otolaryngol H&N Surg 1992; 118:741-4. 
+

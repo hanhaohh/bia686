@@ -1,0 +1,479 @@
+J. Paediatr. Child Health (1999) 35, 136–139 
+Six-month follow-up of children with obstructive 
+sleep apnoea 
+
+
+JMM HARVEY,1 MJ O’CALLAGHAN,1 PD WALES,2 MA HARRIS2 and IB MASTERS2 
+
+1The Developmental Clinic and 2Department of Respiratory Medicine, Mater Children’s Hospital, South Brisbane, 
+Queensland, Australia 
+
+Objectives: This study examined prospectively changes in development, temperament and sleep related behaviour 
+in children referred for obstructive sleep apnoea (OSA) and polysomnographic sleep study, some of whom had surgical 
+intervention. 
+Methodology: Using a prospective cohort study design, parents of 56 children referred for OSA completed sleep and 
+temperament questionnaires and their child was assessed developmentally at the time of the polysomnographic sleep study. 
+Forty (72%) of the children were neurologically normal. At 6 months, 42 children were reassessed using sleep and temperament 
+questionnaires and a developmental assessment. After excluding the primary snorers, subjects were categorised as 
+having had intervention (n = 24) or not (n = 15), and differences over the 6-month period in Griffiths scores, temperament and 
+sleep related behaviour were examined. 
+Results: Regardless of intervention status, there was an improvement in night-time and day-time sleep behaviour for the 
+total group, though the extent of improvement was more marked in the intervention group. For the neurologically normal 
+children, improvement in the sleep behaviour was only significant for the intervention group (P < 0.05). Intervention did not 
+result in any significant changes in Griffiths developmental score or temperament. 
+Conclusion: Surgical intervention improves sleep behaviour in children though not temperament or development. 
+
+Key words: OSA; development; intervention; sleep. 
+
+Obstructive sleep apnoea (OSA) has been associated with 
+developmental and behavioural difficulty in young children. As 
+children with pre-existing neurological or developmental disorder 
+appear to be at increased risk of OSA,1 it may be difficult to 
+differentiate the effects of the OSA from that of the primary 
+disorder. While the benefits of intervention on certain respiratory 
+indices have been reported in children with OSA2,3 there is 
+limited information concerning improvement in development or 
+behaviour in children.4 Improvement in memory, cognition and 
+attention have, however, been observed in adult patients with 
+OSA.5,6 
+
+The hypothesis of this study was that surgical intervention for 
+OSA will lead to improvement not only in night and day symptoms 
+of OSA, but also in the child’s development and temperament. 
+
+METHODS 
+
+Subjects 
+
+Fifty-six children (35 ± 16 months), 40 of whom were neurologically 
+normal, were referred for OSA and attended a medical 
+review, developmental assessment and overnight polysomno-
+
+Correspondence: JMM Harvey, Rm 203, Aubigny Place, Mater Children’s 
+Hospital, Mater Hill, Brisbane, Qld 4101, Australia. Fax: 617 38401744; 
+e-mail: jharvey@mater.org.au 
+
+JMM Harvey, Grad Dip Lib Sci, Med, Research Officer. MJ O’Callaghan, 
+FRACP, MSc, Director of Developmental and Rehabilitative Medicine. 
+PD Wales, B. Nsg, Clinical Nurse. MA Harris, FRACP, Respiratory 
+Physician. IB Masters, FRACP, Director of Respiratory Medicine. 
+
+Accepted for publication 16 September 1998. 
+
+graphic (PSG) sleep study at the Mater Children’s Sleep Unit. All 
+children presented with frequent snoring, plus either witnessed 
+apnoea, day-time sleepiness or restless sleep. OSA was defined 
+according to the obstructive event index (OEI) from PSG study.7 
+Children were rated as primary snorers (OEI < 1, n = 5), or as 
+having mild OSA (OEI ³ 1 and < 5, n = 26), or moderate/severe 
+OSA (³ 5, n = 25). The OEI definition differs slightly to that of 
+Carroll et al.7 in that no attempt was made to temporally link 
+the oxygen desaturation to the respiratory events of apnoea 
+and hypopnoea. Forty-two (75%) children attended follow up 
+6 months later (range 5.7–6.7 months) and, excluding 3 primary 
+snorers, were categorised as having had intervention (n = 24) 
+(tonsillectomy and/or adenoidectomy, T & A), waiting on intervention 
+(n = 5), or not requiring intervention (n = 10). Because 
+they were generally similar apart from a higher OEI (median 
+
+5.5 vs. 3.1, P = 0.14), children waiting on intervention and 
+those not receiving intervention were combined as the nonintervention 
+group for analysis. The mean age at follow up was 
+40 ± 17 months; 29 (69%) children were male and 31 (74%) 
+children were neurologically normal. 
+Initial assessments (Time 1) 
+
+Overnight PSG: A detailed PSG study was performed. Details 
+regarding the PSG study are describe elsewhere.8 OEI was 
+formulated using the sum of obstructive apnoeas, obstructive 
+hypopnoeas, mixed apnoeas, and mixed hypopnoeas divided by 
+the total sleep time in minutes then multiplied by 60. 
+Night Symptoms Questionnaire: A questionnaire outlining 
+snoring and sleeping behaviour derived from other paediatric 
+studies on OSA9–11 was administered. A total score was 
+
+
+Six month follow-up of children with OSA 
+
+Table 1 Night Symptoms Questionnaire 
+
+†Does your child….. 
+snore 
+snort during sleep 
+have pauses in breathing 
+have difficult sounding breathing when asleep 
+snore continuously throughout the night 
+snore when he/she has a cold 
+have trouble falling asleep 
+wake during the night 
+wake up fearful during the night 
+have unusual sleeping positions 
+sleep with head thrown back/back arched 
+sweat at night/have a restless sleeping pattern 
+breathe through the mouth when asleep 
+eat excessively at night 
+drink fluids during night 
+wet the bed 
+
+pass urine during night 
+
+† (0) never, (1) 1–2 times/week, (2) 3–6 nights/week, (3) always. 
+computed with the higher score (maximum = 51) indicating more 
+severe symptoms (Table 1). 
+Day Symptoms Questionnaire: Parents completed a questionnaire 
+similar to the Night Symptoms Questionnaire regarding the 
+day-time performance of their child, including aspects of sleepiness, 
+behaviour and appetite which have been reported in 
+children with OSA.12–14 A total score was computed, with the 
+higher score (maximum = 36) indicating poor performance. 
+Development: All children were assessed using the Griffiths 
+Scales of Mental Ability.15 
+Temperament: Parents completed a temperament questionnaire 
+derived from the Australian Temperament Project for either 
+infants, toddlers or children.16 Common to all three questionnaires 
+were the areas of Easy/Difficult, Approachability and 
+Rhythmicity. A child was considered problematic if they were 
+more than one standard deviation above the mean for that age 
+group in any of the areas. 
+Demographic Data: Maternal education, maternal age and 
+employment were recorded. 
+
+Six month follow-up assessment (Time 2) 
+
+The questionnaires for night and day symptoms of OSA, the 
+child temperament questionnaires and the Griffiths Scales of 
+Mental Abilities were readministered by the same researcher 
+blinded to the intervention status of the child. The PSG study 
+was not repeated. 
+
+DESIGN AND STATISTICAL ANALYSIS 
+
+This was a prospective cohort study. Excluding the primary 
+snorers, children were divided into two groups: those who had 
+surgical intervention, or those who were either waiting on intervention 
+or not requiring intervention. Changes in individual 
+Griffiths developmental scores, night symptoms of OSA and 
+day-time symptoms scores after a 6-month period were 
+examined in the two groups using the paired t-test. When the 
+data were not normally distributed, the Wilcoxon Rank Sum Test 
+was used. Overall group changes in temperament were also 
+
+examined using the chi square test with Yates correction as 
+appropriate. This analysis was repeated for the neurologically 
+normal subset of children. Statistical significance was considered 
+if a two-tailed P-value was less than or equal to 0.05. 
+Analysis was performed using SPSS PC+.17 Confidence 
+intervals were calculated using CIA.18 
+
+RESULTS 
+
+After excluding children with primary snoring, comparison was 
+made between those children seen (n = 39) at 6 months follow-
+up with those lost to follow-up (n = 12) (Table 2). Children 
+attending follow-up had a more severe OEI though differences 
+were not statistically significant. 
+
+For children with OSA attending follow-up (n = 39), the intervention 
+group (n = 24) was compared to the non-intervention 
+group (n = 15). Gender, mean age prevalence of neurological 
+abnormality and median OEI were not significantly different. 
+
+Changes in scores for individual children over the 6-month 
+period for night and day symptoms of OSA were expressed as 
+mean differences for the total intervention and non-intervention 
+groups (Table 3). There were significant improvements in night-
+and day-time symptoms score for the intervention group, and 
+while not as marked, children who had no intervention also 
+improved significantly in these symptoms. For the neurologically 
+normal children, both intervention and non-intervention groups 
+improved, though this was only statistically significant for the 
+intervention group. 
+
+Mean changes in individual Griffiths scores are shown for the 
+intervention and non-intervention groups (Table 4). Differences 
+were statistically significant for the total group of children who 
+were either waiting on or not requiring intervention. Within the 
+neurologically normal children, there were no significant 
+improvements in GQ over the 6-month period in either the intervention 
+or non-intervention group. Though not presented in the 
+table, there were no statistically significant differences in 
+subscale scores for the Griffiths assessment. 
+
+Adverse temperament scores for the overall easy/difficult, 
+approachability and rhythmicity scales improved for both intervention 
+and non-intervention groups. Improvements were only 
+significant, however, for the easy/difficult scale in the nonintervention 
+group (36% vs 13%, P = 0.002). 
+
+As intervention did not result in any improvement in Griffith 
+General Quotient (GQ) compared to non-intervention, other 
+
+Table 2 Comparison of waiting for intervention and non-intervention 
+OSA children 
+
+Lost to 
+follow-up Attended 
+(n = 12) (n = 39) 
+n (%) n (%) P-value 
+Gender 8 (67) 26 (67) 1.0 
+Difficult temperament 2 (17) 14 (37) 0.2 
+Neurological abnormality 4 (33) 10 (26) 0.6 
+median median 
+Day-time Questionnaire 11.4 10.0 0.6 
+Night-time Questionnaire 26.2 30.2 0.2 
+OEI (median) 4.6 4.8 0.5 
+mean (SD) mean (SD) 
+Age (months) 41.9 (12.6) 32.8 (17) 0.06 
+GQ (Time 1) 90 (28) 96 (21) 0.5 
+
+
+JMM Harvey et al. 
+
+Table 3 Changes in night and day symptoms of OSA within the intervention and non-intervention groups for the total group and the neurologically 
+normal children 
+
+No 
+
+†T & A 
+Intervention/waiting 
+Total group (n = 24) (n = 15) 
+Night symptoms total mean difference – 16.3 – 7.5 
+(95% CI) (– 9.1, – 2.8) (– 12.2, – 2.8) 
+P-value < 0.0001 0.004 
+Day symptoms total mean difference – 5.5 – 2.6 
+(95% CI) (– 7.3, – 3.6) (– 5.6, – 0.31) 
+P-value < 0.0001 0.017 
+
+Neurologically normal 
+subset (n = 17) (n = 12) 
+
+Night symptoms total mean difference – 15.0 – 5.9 
+(95% CI) (– 19.5, – 10.6) (– 11.5, – 0.4) 
+P-value < 0.0001 0.04 
+Day symptoms total mean difference – 5.98 – 3.05 
+(95% CI) (– 8.0, – 4.0) (– 6.8, 0.7) 
+P-value < 0.0001 0.1 
+
+†Tonsillectomy and adenoidectomy (or just adenoidectomy). 
+Table 4 Change in GQ score within the total group and the neurologically 
+normal children who had either intervention or no intervention 
+
+†T & A No intervention/ 
+waiting 
+Total group 
+(n = 24) (n = 15) 
+
+General Quotient (GQ) 
+mean difference 2.0 3.6 
+(95% CI) (– 2.6, 6.6) (0.06, 7.2) 
+P-value NS 0.05 
+
+Neurologically normal (n = 17) (n = 12) 
+subset 
+General Quotient (GQ) mean difference 2.8 3.8 
+(95% CI) (– 3.1, 8.7) (– 0.5, 8.0) 
+P-value NS NS 
+
+†Tonsillectomy and/or adenoidectomy. 
+predictors of changes in GQ in the total OSA group were 
+examined. Factors including age, gender, neurological status, 
+severity of OSA, and percentage of study time on PSG for 
+desaturations less than 92% did not significantly predict change 
+in GQ in either the total OSA group or the neurologically normal 
+subset. 
+
+DISCUSSION 
+
+In this study we found that night-time and day-time symptoms of 
+OSA improved for the total group and the neurologically normal 
+children regardless of intervention status. The extent of 
+improvement, however, was more marked in children who had 
+intervention. For children who were neurologically normal, the 
+improvement was only statistically significant for the intervention 
+group. There was improvement of 2–3 points in Griffiths 
+scores for intervention and non-intervention children in the total 
+group and the neurologically normal subset. The only group 
+where the improvement was statistically significant was for the 
+non-intervention children and the total group. There was no 
+
+significant reduction in adverse temperament traits in either the 
+intervention or non-intervention groups. 
+
+Other studies have reported the improvements in day-time 
+performance of children who were snorers and who had 
+surgical intervention. Stradling et al.9 examined 61 children who 
+were selected for adenotonsilectomy compared to 31 healthy 
+children for symptoms of apnoea, sleep hypoxemia, sleep 
+disturbance, aspects of behaviour and learning. As with our 
+study, significant improvements in sleep disturbance occurred 
+in the OSA children postoperatively and improvements in 
+learning difficulty, hyperactivity and aggression were reported, 
+though not documented in detail. In this study, the comparison 
+group was a convenience sample of controls matched for 
+gender and age rather than snoring children not undergoing 
+intervention. Had such comparisons been made, it is possible 
+that findings similar to those in this study may have resulted 
+because of the fluctuating history of the condition and regression 
+towards the mean in reporting of extreme symptoms. 
+Similarly, the study19 followed only those children who had intervention, 
+and reported improvements in sleep parameters. 
+Neither the study of Frank et al.19 or that of Guilleminault et al.13 
+reported systematically measures of development or intelligence 
+post intervention. 
+
+In the adult literature, the effects of intervention for OSA are 
+more clearly defined with improvements reported as early as 
+within 1 week post treatment in the areas of vigilance5 attention 
+and non-verbal general intellectual functioning.6 
+
+Improvements in various sleep indices of OSA have also been 
+reported as a result of treatment.3,6,19 In our study, there was a 
+significant improvement in GQ scores in the non-intervention 
+group over the 6-month period, though this was no longer significant 
+after adjusting for neurological abnormality. Furthermore, 
+numbers were small and results must therefore be interpreted 
+with some caution. 
+
+Limitations of this study include absence of randomisation to 
+intervention or non-intervention, loss to follow-up, limited 
+measures of more specific cognitive abilities, and study size. 
+Although intervention decisions were made clinically, it is likely 
+that these were also children with more severe OSA and who 
+
+
+Six month follow-up of children with OSA 
+
+therefore had greater potential to benefit from intervention. 
+Loss to follow-up is unlikely to effect the validity of study 
+conclusions given the similarity between the study and the loss 
+to follow-up groups and the small changes in GQ reported. 
+Though a beta error is possible, differences of 2–3 points in 
+GQ are unlikely to be clinically important. While it is possible 
+there were changes in more specific areas of development 
+including attention and vigilance, these areas are difficult to 
+test in children of such a young age. Though the study is relatively 
+small, which affects the precision of the estimate of 
+change due to intervention, PSG studies are expensive and 
+time consuming with this study reflecting the experience of a 
+tertiary sleep unit. 
+
+The findings of this study suggest that intervention for OSA 
+does not result in improved overall development and temperament, 
+at least at 6-months follow-up, though improvements in 
+more specific aspects of cognitive function or behaviour cannot 
+be excluded. 
+
+ACKNOWLEDGEMENTS 
+
+The authors wish to thank Julia Wang in association with the Tzu 
+Chi Charity Foundation, and the JP Kelly Research Foundation 
+at the Mater Hospital, Brisbane. 
+
+REFERENCES 
+
+1 
+Kasian GF, Duncan WJ, Tyrrell MJ, Oman-Ganes LA. Elective oro
+
+
+tracheal intubation to diagnose sleep apnea syndrome in children 
+
+with Down’s syndrome and ventricular septal defect. Can. J. Cardiol. 
+
+1987; 3: 2–5. 
+
+2 
+Mauer KW, Staats BA, Olsen KD. Upper airway obstruction and 
+
+disordered nocturnal breathing in children. Mayo Clin. Proc. 1983; 
+
+58: 349–53. 
+3 
+Waters KA, Everett FM, Bruderer J, Sullivan CE. Obstructive sleep 
+
+apnea: the use of nasal CPAP in 80 children. Am. J. Respir. Crit. 
+
+Care Med. 1995; 152: 780–5. 
+
+4 
+Ali NJ, Pitson D, Stradling JR. Sleep disordered breathing: effects of 
+adenotonsillectomy on behaviour and psychological functioning. 
+Eur. J. Paediatrics 1996; 155: 56–62. 
+
+5 
+Scheltens P, Visscher F, Van Keimpema AR et al. Sleep Apnoea 
+Syndrome presenting with cognitive impairment. Neurology 1991; 
+
+41: 155–6. 
+6 
+Bedard MA, Montplaisir J, Malo J, et al. Persistent neuropsychological 
+deficits and vigilence impairment in sleep apnea syndrome 
+after treatment with continuous positive airway pressure (CPAP). 
+
+J. Clin. Exp. Neuropsychol. 1993; 15: 330–41. 
+7 
+Carroll JL, Loughlin GM. Obstructive sleep apnea syndrome in 
+infants and children: clinical features and pathophysiology. In: Ferber 
+R, Kryger M, eds. Principles and Practice of Sleep Medicine in the 
+Child. W.B. Saunders Company, Philadelphia, 1995: 163–91. 
+
+8 
+Masters IB, Harvey JM, Wales PD, O’Callagahn MJ, Harris M. 
+Clinical versus polysonmographic profiles in children with OSA. 
+
+J. Paediatr. Child Health 1999; 35: 49–54. 
+9 
+Stradling JR, Thomas G, Warley ARH, Williams P, Freeland A. Effect 
+of adenotonsillectomy on nocturnal hypoxaemia, sleep disturbance, 
+and symptoms in snoring children. Lancet 335: 249–53. 
+
+10 
+Gaultier C. Obstructive sleep apnoea syndrome in infants and children: 
+established facts and unsettled issues. Thorax 1995; 50: 1204–10. 
+
+11 
+Ali NJ. Sleep disturbance and behaviour in 4–5 year olds. Arch. Dis. 
+Child. 1993; 68: 360–6. 
+
+12 
+Weissbluth M, Davis T, Poncher J, Reiff J. Signs of airway obstruction 
+during sleep and behavioural, developmental, and academic 
+performance. Dev. Behav. Pediatr. 1983; 4: 119–21. 
+
+13 
+Guilleminault C, Korobkin R, Winkle R. A review of 50 children with 
+obstructive sleep apnea syndrome. Lung 1981; 159: 275–87. 
+
+14 
+Gaultier C. Sleep related breathing disorders. 6. Obstructive sleep 
+apnoea syndrome in infants and children: established facts and 
+unsettled issues. Thorax 1995; 50: 1204–10. 
+
+15 
+Griffiths R. The abilities of young children: a comprehensive system 
+of mental measurement for the first eight years of life. The Test 
+Agency, High Wycombe, UK, 1970. 
+
+16 
+Prior M, Sanson A, Oberklaid F. The Australian Temperament 
+Project. In: Kohnstamm G, Bates J, Rothbart M, eds. Temperament 
+in Childhood. John Wiley and Sons, New York, 1989: 537–54. 
+
+17 
+Norusis MJ. SPSS for Windows (6.0). SPSS Inc, Michigan USA, 
+1993. 
+
+18 
+Gardner MJ, Gardner SB, Winter PD. Confidence Interval Analysis 
+(CIA), Version 1.2. BMJ Publishing, London, 1980. 
+
+19 
+Frank Y, Kravath RE, Pollack CP, et al. Obstructive sleep apnoea 
+syndrome and its therapy; clinical and polysomnographic manifestations. 
+Pediatrics 1983; 71: 737–42. 
+
+20 
+Aljadeff G, Gozal D, Bailey Wahl SL, et al. Effects of overnight 
+supplemental oxygen in obstructive sleep apnea in children. Am. J. 
+Respir. Crit. Care Med. 1996; 153: 51–5. 
+
+

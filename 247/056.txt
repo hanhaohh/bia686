@@ -1,0 +1,824 @@
+ORIGINAL ARTICLE 
+
+Symptoms of Sleep Breathing Disorders in 
+Children Are Underreported by Parents at 
+General Practice Visits 
+
+Sarah Blunden, Ph.D. ,1 Kurt Lushington, Ph.D.,1,2 
+Berndt Lorenzen, B.S.M.B.,3 Johnny Wong, M.B.B.S.,3 
+
+R. Balendran, B.S.M.B.,3 and Declan Kennedy, M.D.4 
+ABSTRACT 
+
+Sleep breathing disorders (SBD) in children are reportedly underdiagnosed 
+in general practice. A contributory factor may be parental underreporting 
+of symptoms. This possibility was examined by comparing the frequency with which 
+snoring was mentioned at general practitioner visits by parents with frequency 
+that snoring was reported on questionnaire evaluation immediately prior to consultation. 
+We also examined the effects of age and gender on SBD symptoms. 
+Parents of 626 children aged 0 to 16 years attending their general practitioner for 
+sick child visits completed selected items from the Sleep Disturbance Scale for 
+Children and the Obstructive Sleep Apnea Syndrome Expanded Childhood 
+Questionnaire. Parents and general practitioners were also asked if snoring was 
+discussed at the current consultation visit or at a prior consultation visit in the 
+previous 12 months. Eighteen percent (112 of 626) of children were frequent 
+snorers (more than three times per week), whereas 0.6 to 5.0% of children snored 
+and had one or more additional SBD symptom suggestive of obstructive sleep 
+apnea. SBD symptoms tended to peak in early to middle childhood with few 
+gender differences. We found that snoring was patently underreported by parents. 
+In the children with a history of frequent snoring on questionnaire evaluation 
+and where the reason for the consultation visit was documented, snoring was 
+mentioned by parents at the current consultation visit in only 8% (8 of 100) of 
+cases and at a prior consultation visit in only 15% (15 of 100) of cases. The pres-
+
+Sleep and Breathing, volume 7, number 4, 2003. Address for correspondence and reprint requests: Sarah Blunden, Ph.D., Centre for Sleep 
+Research, 5th Floor, Basil Hetzel Institute, Queen Elizabeth Hospital, Woodville Rd., Woodville, SA 5011, Australia. E-mail: 
+sblunden_sleepclinic@hotmail.com. 1Centre for Sleep Research, Queen Elizabeth Hospital, Woodville, South Australia; 2School of 
+Psychology, University of South Australia, Adelaide, South Australia; 3Adelaide Northern Division of General Practice, Elizabeth, South 
+Australia; 4University of Adelaide, Department of Respiratory Medicine/Pediatrics, Women’s and Children’s Hospital, North Adelaide, 
+South Australia. Copyright © 2003 by Thieme Medical Publishers, Inc., 333 Seventh Avenue, New York, NY 10001, USA. Tel: +1(212) 
+584-4662. 1520-9512,p;2003,07,04,167,176,ftx,en;sbr00243x. 
+
+
+168 SLEEP AND BREATHING/VOLUME 7, NUMBER 4 2003 
+
+ent findings support a need for increased parental education regarding the symptoms 
+and clinical significance of SBD. 
+
+KEYWORDS: Snoring, sleep breathing disorders, children, general 
+practitioners 
+
+Sleep breathing disorders (SBD) range in 
+severity from primary snoring to obstructive sleep 
+apnea syndrome (OSAS). In children, OSAS is 
+known to interfere with nocturnal ventilation and, 
+if severe, results in cor pulmonale, systemic hypertension, 
+and failure to thrive.1–6 In addition, both 
+snoring and OSAS have been associated with cognitive-
+behavioral deficits and poorer school performance.
+2,3,7–14 It is estimated that 8 to 12% of children 
+snore most nights,8,9,15–20 whereas nearly 1 to 
+3% of children have OSAS.16,17,21 However, despite 
+their clinical significance and relatively high prevalence 
+rates, SBD in children are reported to be underdiagnosed 
+in general practice.22–26 A possible 
+contributory factor may be poor awareness among 
+parents regarding the clinical significance of SBD 
+and, hence, the underreporting of symptoms at consultation 
+visits with general practitioners. This remains 
+to be investigated. 
+
+An additional issue that remains to be more 
+fully examined is the effects of age, gender, and 
+symptom frequency on the reporting of SBD symptoms 
+in children. Apart from snoring, which is reported 
+to decrease with age16,17,20 and possibly have 
+a higher prevalence rate in males,16,27 little is known 
+about the effects of age and gender on the reporting 
+of other SBD symptoms such as gasping for 
+breath, mouth breathing, witnessed apnea, watching 
+the child because of fears about breathing, etc. 
+In addition, although snoring is reported to decrease 
+with age, it has generally been examined over 
+limited age-ranges (e.g., 4 to 5,17 4.5 to 5.5,9 0.5 to 
+6,16 5 to 6,20 5 to 7,28 6.5 to 7.5,8 0 to 10,19 3 to 
+11,21 6 to 11,29 4 to 12,30 6 to 13,15 6 to 13,18 and 9 
+to 15 years27) and there is a need to examine the effect 
+of age more broadly from infancy to adoles
+
+
+cence. A similar need exists for other SBD symptoms. 
+Finally, although likely, it remains to be established 
+whether the severity of symptoms predicts 
+parental reporting of SBD symptoms at consultation 
+visits with general practitioners. 
+
+The aims of the present study were two-fold. 
+The first aim was to examine in children aged 0 to 
+16 years the correspondence between parental-
+reporting on a questionnaire of a key SBD symptom, 
+namely snoring, with the frequency that parents 
+and general practitioners discuss snoring at 
+consultation in symptomatic children. The second 
+aim was to examine more broadly the effects of age, 
+gender, and symptom frequency on parental reporting 
+of SBD symptoms. 
+
+METHODS 
+
+Participants 
+
+Parents of children aged 0 to 16 years awaiting consultation 
+with their general practitioner were recruited 
+by medical support staff over an 8-month period 
+at five established (all operating for more than 
+12 months) general medical practices in South Australia. 
+We excluded any child who had not visited his 
+or her general practitioner at least once in the previous 
+12 months. All children were attending consultations 
+for sick child visits. The frequency of visits over 
+the previous 12 months was not collected. On the 
+basis of noncompleted questionnaires, we estimate a 
+> 90% response rate and, as estimated by clinic 
+records, we surveyed 26.4% of the total number of 
+child patients attending their general practitioner. 
+
+
+REPORTING OF SBD IN CHILDREN/BLUNDEN ET AL 169 
+
+Fifteen general practitioners participated in 
+the postconsultation assessment of snoring. They 
+were all employed in nonspecialist general community 
+practice clinics that were established for more 
+than 12 months and located in the same geographical 
+location (Northern Division of Adelaide, South 
+Australia) with comparable patient profiles. The general 
+practitioners were all briefed about the study 
+prior to its commencement. 
+
+Apparatus and Procedure 
+
+Prior to consultation with their child’s general practitioner, 
+parents were asked to complete a demographic 
+checklist. They then were asked to complete 
+three items from the Sleep Disturbance Scale 
+for Children (SDSC)31 (i.e., “Does your child snore?,” 
+“Does your child have breathing difficulties at 
+night?,” and “Does your child gasp for breath during 
+sleep?” [1 = never, 2 = occasionally or 1 to 2 
+times per month, 3 = sometimes or 1 to 2 times per 
+week, 4 = often or 3 to 5 times per week, and 5 = always 
+or every night]) and seven items from the Obstructive 
+Sleep Apnea Syndrome Expanded Childhood 
+Questionnaire (OSASECQ)32 (i.e., “If your 
+child snores, how loud is the snoring?” [1 = nil, 2 = 
+quiet, 3 = medium loud, 4 = loud, and 5 = extremely 
+loud], “Is your child a daytime mouth breather?” [1 
+= never, 2 = rarely, 3 = frequently, and 4 = constantly], 
+and “During your child’s sleep do you ever: (a) see 
+your child stop breathing, (b) see your child struggling 
+to breathe, (c) need to shake him or her to 
+start breathing again, (d) see your child’s lips or skin 
+turn blue or purple, and (e) watch your child because 
+you are afraid about his or her breathing?” 
+[yes or no]). Parents were instructed to give the response 
+that best represented their child over the 
+last 12 months and when their child was not sick. 
+
+Parents were also asked if they had sought 
+medical advice in the previous 12 months because 
+their child snored (yes; yes, more than once; and no) 
+and if snoring was mentioned at consultation in the 
+previous 12 months by their general practitioner 
+
+(yes, no, and don’t know). In addition, they were 
+asked to give the current reason at the time of completing 
+the questionnaires for the child’s visit to the 
+general practitioner (snoring, other sleep problem, 
+and other medical problem). 
+
+Immediately after the consultation visit, general 
+practitioners completed a checklist that asked 
+the current reason for the child’s visit (snoring, other 
+sleep problem, and other medical problem) and if 
+parents had discussed snoring in the last 12 months 
+(yes, no, don’t know, and new patient). The general 
+practitioners had access to case notes at the time 
+the checklist was completed. 
+
+The study was approved by the Human Ethics 
+Committee of the University of South Australia. 
+
+Statistical Analysis 
+
+Where appropriate, either chi-square or two-way 
+analysis of variance (ANOVA) analyses were undertaken 
+with age and gender as independent variables 
+and questionnaires responses as dependent 
+variables. Statistical significance was set at 0.05. For 
+the chi-square analyses, a Bonferroni correction was 
+made for multiple comparisons. Significant main 
+effects on ANOVA were examined using Games-
+Howell post-hoc tests. Age was collapsed into 2year 
+intervals for analyses. 
+
+RESULTS 
+
+From 668 questionnaires we excluded 16 containing 
+two or more missing items (12 because age was not 
+reported and 14 because they were new patients), 
+leaving a total of 626. The sample contained 54.5% 
+(n = 341) males and 45.5% (n = 285) females with 
+55.4% (n = 347) in the preschool age group (0 to 6 
+years). The mean (standard deviation [SD]) age of the 
+cohort was 6.1 (4.4) years with no significant age difference 
+between gender [t(624) = 0.18, not significant 
+[ns]; female = 6.2 (4.4) and male = 6.0 (4.4) years]. 
+
+
+170 SLEEP AND BREATHING/VOLUME 7, NUMBER 4 2003 
+
+Discussion of Snoring at Current 
+Consultation Visit 
+
+Parents reported that the reason for their child’s current 
+consultation visit with their general practitioner 
+was for snoring in 9 cases [4 female and 5 males; 
+mean (SD) age = 5.6 (2.0) years; range = 2.8 to 10.1 
+years], other sleep problems in 13 cases, and other 
+medical problems in 581cases; no reason was given 
+in 23 cases. Of the 9 children visiting their general 
+practitioner for snoring, 7 were reported to snore 
+every night, 1 often and 1 occasionally. General practitioners 
+reported that 10 children visited for help 
+at the current consultation for snoring [all males; 
+age = 6.0 (2.5) years; range 2.8 to 10.4 years], 16 
+visited for other sleep problems, and 559 visited for 
+other medical reasons, whereas 41 provided no reason. 
+In only 3 cases did both parents and general 
+practitioners agree that the reason for the current 
+consultation visit was snoring. 
+
+Discussion of Snoring at Consultation 
+Visits during the Previous 12 Months 
+
+To examine the correspondence between parental 
+and general practitioner reporting of snoring over 
+the previous 12 months, we excluded those cases with 
+missing responses (40 parents, 43 general practitioners, 
+and 10 both) leaving a final total of 553. 
+The percentage of parents and general practitioners 
+in the subsample who discussed snoring at a consultation 
+visit in the previous 12 months is summarized 
+in Table 1. In this subsample, parental report 
+indicated that 18.1% (100 of 553) of children snored 
+often or always (i.e., frequently). In this salient subgroup 
+of 100 children with a history of frequent 
+snoring on questionnaire evaluation, 15% (15 of 553) 
+of parents reported that they discussed snoring at 
+consultation in the previous 12 months (7 indicated 
+once and 8 indicated more than once) and 17% (17 
+of 553) recalled that their general practitioner inquired 
+about snoring in the previous 12 months. 
+General practitioners recalled that 18% (18 of 553) 
+
+parents raised concerns about snoring at a consultation 
+visit in the previous 12 months. Examination 
+of the correspondence between parents and general 
+practitioners about whether snoring was discussed 
+at a prior consultation visit over the previous 12 
+months revealed agreement in 10 cases. 
+
+Despite the relatively small number of parents 
+that discussed snoring at consultation, a general 
+trend was observed for snoring to be mentioned 
+more often in children who snored more frequently 
+on questionnaire evaluation (Table 1). Likewise, general 
+practitioners were more likely to have discussed 
+snoring at consultation over the previous 12 months 
+in children with a history of frequent snoring on 
+questionnaire evaluation (Table 1). 
+
+SBD Symptoms: Age and Gender 
+
+Parental responses to the dichotomous rated OSASECQ 
+items for each age cohort are given in 
+Table 2. In order of increasing magnitude, 0.6% of 
+parents reported that they “needed to shake their 
+child to start them breathing again,” 2.6% “witnessed 
+their child stop breathing while sleeping,” 2.9% “witnessed 
+their child’s lips or skin turn blue or purple,” 
+10.3% “saw their child struggle to breathe,” and 
+18.6% “watched their child during sleep because 
+they were afraid about his or her breathing.” Chi-
+square analyses (corrected for multiple comparisons 
+p < 0.008) revealed a significant effect for age on 
+“watching child’s breathing pattern during sleep” (2 
+= 34.6; p < 0.0001), with parents reporting more 
+watchfulness in children aged 0 to 6 years compared 
+with 8 to 16 years. A nonsignificant trend was also 
+found for child’s “lips or skin turning blue or purple” 
+to decrease with age (2 = 17.8; p < 0.02). No 
+significant effect of gender was observed on any dichotomous 
+SBD symptoms (all p > 0.05). 
+
+The frequency distribution of responses to 
+the SDSC (snoring, nighttime breathing difficulty, 
+and gasping for breath) and continuous OSASECQ 
+(loudness of snoring and mouth breathing) SBD 
+symptoms collapsed across age are given in Table 3. 
+
+
+Table 1 The Percentage (n) of Parents and General Practitioners Who Reported that Snoring Was the Reason for the Child’s Current ConsultationVisit and Whether Snoring Was Ever Raised at a Consultation Visit in the Previous 12 Months*
+
+Snoring Frequency (Sleep Disturbance Scale for ChildrenSnoring Item) [percentage (n)]
+
+Never Occasionally Sometimes Often Always Total 
+Responder 26.9% (149) 40.3% (223) 14.6% (81) 10.5% (58) 7.6% (42) (553) 
+
+Parent
+
+Snoring given as the reason for 0.0% (0 of 149) 0.0% (0 of 223) 1.2% (1 of 81) 1.7% (1 of 81) 16.7% (7 of 42) 1.6% (9 of 553)
+the current consultation
+
+Sought medical advice in the 0.6% (1 of 149) 1.3% (3 of 223) 8.6% (7 of 81) 10.3% (6 of 81) 21.4% (9 of 42) 4.7% (26 of 553)
+previous 12 months becausetheir child snored
+
+General practitioner raised snoring 3.3% (5 of 149) 6.2% (14 of 223) 13.5% (11 of 81) 13.7% (8 of 81) 21.4% (9 of 42) 8.4% (47 of 553)
+at consultation in the previous12 months
+
+General practitioner
+
+Snoring given as the reason for 0.0% (0 of 149) 1.3% (3 of 223) 2.5% (2 of 81) 3.4% (2 of 81) 7.1% (3 of 42) 1.8% (10 of 553)
+the current consultation
+
+Parents raised snoring at 0.6% (1 of 149) 3.5% (8 of 223) 9.8% (8 of 81) 10.3% (6 of 81) 28.5% (12 of 42) 6.3% (35 of 553)
+consultation in the previoustwelve months
+
+*The analysis was restricted to cases where both parents and general practitioners provided responses (n = 553). The parental and general practitioner percentages were calculated 
+according to the number of cases in each snoring frequency response category. 
+
+REPORTING OF SBD IN CHILDREN/BLUNDEN ET AL 171 
+
+
+172 SLEEP AND BREATHING/VOLUME 7, NUMBER 4 2003 
+
+Table 2 Percentage (n) of “Yes” Responses to Dichotomous Obstructive Sleep Apnea Syndrome Expanded 
+Childhood Questionnaire Questions* 
+
+“Need to “WatchYour 
+Shake Your “See Your Child Because 
+“See Your Child to Start Child’s Lips You Are 
+“See Your Child Him or Her or Skin Turn Afraid About 
+Child Stop Struggling Breathing Blue or His or Her 
+Age Breathing?” to Breathe?” Again?” Purple?” Breathing?” 
+(years) (n = 619) (n = 619) (n = 617) (n = 617) (n = 618) 
+0–2 1.4% (2 of 135) 11.7% (14 of 120) 0.0% (0 of 134) 6.7% (9 of 135) 21.9% (36 of 134) 
+2–4 3.6% (4 of 111) 9.7% (11 of 113) 0.9% (1 of 112) 0.9% (1 of 112) 23.4% (26 of 111) 
+4–6 5.2% (5 of 96) 12.6% (12 of 95) 1.0% (1 of 95) 1.0% (1 of 94) 29.5% (28 of 95) 
+6–8 3.4% (3 of 85) 12.9% (11 of 85) 2.4% (2 of 84) 1.2% (1 of 85) 14.1% (12 of 85) 
+8–10 3.5% (2 of 52) 7.7% (4 of 52) 0.0% (0 of 52) 0.0% (0 of 52) 5.7% (3 of 52) 
+10–12 0.0% (0 of 54) 7.4% (4 of 54) 0.0% (0 of 54) 5.6% (3 of 54) 5.6% (3 of 54) 
+12–14 0.0% (0 of 47) 4.3% (2 of 47) 0.0% (0 of 47) 0.0% (0 of 46) 6.4% (3 of 47) 
+14–16 0.0% (0 of 39) 15.4% (6 of 39) 0.0% (0 of 39) 7.7% (3 of 39) 10.0% (4 of 40) 
+0–16 2.6% (16 of 619) 10.3% (64 of 619) 0.6% (4 of 617) 2.9% (18 of 617) 18.6% (115 of 618) 
+
+*Because of missing responses, n varies between items. 
+
+The percentage of the children with SDSC and 
+continuous OSASECQ responses in the high frequency 
+range according to age cohort are given in 
+Table 4. 
+
+As detailed in Table 3, we found that 1.9% 
+(12 of 626) of children gasped for breath often or 
+always, 3.2% (20 of 624) had nighttime breathing 
+difficulties often or always, 5.3% (33 of 620) had 
+
+loud or extremely loud snoring, 17.9% (112 of 626) 
+snored often or always, and 23.1% (136 of 589) had 
+frequent or constant mouth breathing. Examination 
+of the frequency responses given in Table 4 suggests 
+a trend for the SDSC and continuous OSASECQ 
+SBD symptoms to be reported more often in early-
+middle childhood. ANOVA confirmed a significant 
+main effect for age on loudness of snoring 
+
+Table 3 Response Frequency for Sleep Disturbance Scale for Children and Continuous Obstructive Sleep 
+Apnea Syndrome Expanded Childhood Questionnaire SBD Items* 
+
+Sleep Disturbances Scale for Children [percentage (n)] 
+SBD Item Never 
+Occasionally 
+(1–2 times 
+per month) 
+Sometimes 
+(1–2 times 
+per week) 
+Often 
+(3–5 times 
+per week) Always 
+Snoring (n = 626) 
+Nighttime breathing 
+difficulties (n = 624) 
+Gasping for breath (n = 626) 
+27.5% (172) 
+75.6% (472) 
+88.1% (554) 
+40.6% (254) 
+15.9% (102) 
+7.1% (43) 
+14.1% (88) 
+4.8% (30) 
+2.8% (17) 
+10.1% (63) 
+1.8% (10) 
+0.8% (5) 
+7.8% (49) 
+1.5% (10) 
+1.1% (7) 
+Obstructive Sleep Apnea Syndrome Expanded Childhood Questionnaire 
+[percentage (n)] 
+Nil Quiet Medium Loud Loud Extremely Loud 
+Snoring loudness (n = 620) 24.3% (151) 44.5% (282) 24.3% (154) 4.5% (27) 1.0% (6) 
+Never Rarely Frequently Constantly 
+Mouth breathing (n = 589) 37.8% (235) 34.3% (218) 16.4% (101) 5.6% (35) 
+
+*Because of missing responses, n varies between items. 
+
+
+REPORTING OF SBD IN CHILDREN/BLUNDEN ET AL 173 
+
+Table 4 Percentage (n) of Each Age Group Reporting Frequent SBD Symptoms* 
+
+Obstructive Sleep Apnea 
+Syndrome Expended Childhood 
+Questionnaire Continuous SBS 
+Sleep Disturbance Scale for Children SBD Items Items 
+Nighttime Gasping for 
+Breathing Breath Snoring (loud Mouth Breathing 
+Snoring (often Difficulty (often (often and and extremely (frequently and 
+Age and always) and always) always) loud) constantly) 
+0–2 13.3% (18 of 135) 3.0% (4 of 134) 1.5% (2 of 135) 1.5% (2 of 134) 13.3% (16 of 120) 
+2–4 19.3% (22 of 114) 3.6% (4 of 113) 4.4% (5 of 114) 3.6% (4 of 113) 24.0% (25 of 104) 
+4–6 24.5% (24 of 98) 3.0% (3 of 98) 0.0% (0 of 98) 11.3% (11 of 97) 20.4% (19 of 93) 
+6–8 25.6% (22 of 86) 7.0% (6 of 86) 4.7% (4 of 86) 9.3% (8 of 86) 32.6% (28 of 86) 
+8–10 21.2% (11 of 52) 0.0% (0 of 52) 0.0% (0 of 52) 3.8% (2 of 52) 22.4% (11 of 49) 
+10–12 13.0% (7 of 54) 2.0% (1 of 54) 0.0% (0 of 54) 3.8% (2 of 52) 21.6% (11 of 51) 
+12–14 8.5% (4 of 47) 2.1% (1 of 47) 2.1% (1 of 47) 4.2% (2 of 47) 29.8% (14 of 47) 
+14–16 10.0% (4 of 40) 2.5% (1 of 40) 0.0% (0 of 40) 5.1% (2 of 39) 20.8% (12 of 39) 
+0–16 17.9% (112 of 626) 3.2% (20 of 624) 1.9% (12 of 626) 5.3% (33 of 620) 23.1% (136 of 589) 
+
+Because of missing responses, n varies between items. 
+
+[F(7, 604) = 5.5; p < 0.0001], daytime mouth breathing 
+[F(7, 573) = 2.7; p < 0.05], and frequency of 
+snoring [F(7, 610) = 3.9; p < 0.0005]. Post-hoc 
+analyses indicated that snoring was significantly 
+more frequent in children aged 4 to 8 years compared 
+with 0 to 2 years and louder in children aged 
+2 to 8 years compared with 0 to 2 years, whereas 
+mouth breathing was more frequent in children 
+aged 6 to 8 years compared with 0 to 2 years (all p 
+< 0.05). A significant main effect was observed for 
+gender on loudness of snoring [F(1, 604) = 6.0; p 
+< 0.05; mean (SD) male = 2.1 (0.8) > female = 2.0 
+(0.8)] and daytime mouth breathing [F(1, 573) = 
+4.2; p < 0.05; male = 2.0 (0.9) > female = 1.8 (0.8)]. 
+No other significant main or age by gender interaction 
+effects were observed. 
+
+Estimate of OSAS Frequency 
+
+To obtain an approximate prevalence estimate of 
+OSAS, we tabulated the number of children that 
+were frequent (often or always) snorers and had 
+one other SBD symptom in the severe range. This 
+cross-tabulation revealed that 0.5% (3 of 617) of 
+children snored frequently and needed to be shaken 
+
+to start breathing again, 0.6% (4 of 617) snored frequently 
+and had lips or skin turn purple, 0.6% (4 of 
+626) snored frequently and always gasped for breath 
+during sleep, 0.8% (5 of 620) snored frequently and 
+extremely loudly, 0.8% (5 of 624) snored frequently 
+and often had nighttime breathing difficulties, 1.0% 
+(6 of 619) snored frequently and parents had witnessed 
+breath holding, 2.7% (16 of 589) snored frequently 
+and had constant daytime mouth breathing, 
+4.2% (26 of 619) snored frequently and were 
+observed to struggle with breathing, and 5.0% (31 
+of 618) snored frequently and were watched during 
+sleep by parents because of fears about their 
+breathing. 
+
+DISCUSSION 
+
+This study addresses the important issue of how 
+often childhood snoring is discussed between parents 
+and general practitioners during a consultation 
+visit in a large community sample of convenience. 
+We found that snoring was not discussed at consultation 
+over the previous 12 months in approximately 
+80% of symptomatic children with a history 
+
+
+174 SLEEP AND BREATHING/VOLUME 7, NUMBER 4 2003 
+
+of frequent snoring (i.e., more than three times a 
+week) on questionnaire evaluation. It is also noteworthy 
+that only 8 of the 112 children with a history 
+of frequent snoring on questionnaire evaluation were 
+currently visiting their general practitioners because 
+of parental concerns about snoring. Although the 
+magnitude of the rate of parental underreporting 
+may be explained, in part, by problems with recall 
+and a range of rater biases,33 a major contributory 
+factor may be the general lack of awareness in the 
+community about the clinical significance of SBD, 
+with parents being unlikely to discuss sleep symptoms 
+in general22,23,28,30 and snoring in particular.
+25,34,35 Despite the weak trend for snoring to be 
+mentioned more often at consultation in children 
+who snored more frequently on questionnaire evaluation, 
+the present findings suggest that parents are 
+not sensitive to the importance of reporting snoring 
+and other SBD symptoms at consultation. Taken 
+together, the present findings indicate an increased 
+need for education within the general community 
+about the symptoms and clinical significance of SBD 
+in children. 
+
+General practitioners are also reported to 
+underreport SBD symptoms at consultation. Chervin 
+et al22 report that snoring was only documented in 
+11 of 100 children identified by sleep questionnaire 
+to be at risk of SBD. As has been suggested by 
+three recent studies in the United States, there is 
+also an increased need for greater awareness about 
+pediatric sleep problems in clinical practice23 and 
+an increased need for education on sleep in medical 
+curricula.36,37 
+
+The importance of timely recognition of snoring 
+in children lies in its potential to indicate OSAS. 
+The true prevalence of OSAS cannot be determined 
+without physiologic measures such as polysomnography 
+(PSG).38 Despite this caveat, however, 
+the SBD symptoms selected in the present study 
+are reported to be potential indicators of OSAS.32,38 
+On the basis of the criteria of frequent snoring and 
+a history of one or more SBD symptoms in the severe 
+range, we estimate that 0.6 to 5.0% of the children 
+in the present study had symptoms suggestive 
+of OSAS. This is comparable to previous preva
+
+
+lence estimates of OSAS that were based on polysomnography 
+measurement (e.g., 0.7,18 0.7,9 0.7,29 
+0.8,21 2.9,16 and 2.9%17). 
+
+The potential sequelae of OSAS, if unrecognized, 
+are wide ranging and include cor pulmonale, 
+developmental delay, failure to thrive, and systemic 
+hypertension.1–6 There is, in some quarters, a clinical 
+view that if the snoring child does not present 
+with severe OSAS, then the likelihood of clinically 
+significant morbidity is rare. This view is now being 
+challenged by several recent studies that suggest 
+that milder degrees of SBD also result in daytime 
+sequelae, including impaired attention, memory, intelligence, 
+learning, and school performance, and increased 
+problematic behavior,8,10,12 whereas primary 
+snoring has recently been shown to affect vascular 
+reactivity.39 Given this evidence, it is of considerable 
+clinical significance that potentially up to 80% of 
+symptomatic children in this study remained undiagnosed. 
+This is of particular consequence because 
+treatment of SBD in children is reported to reverse 
+decrements in daytime performance.8,10,12,40 
+
+In this survey of children attending their general 
+practitioner, we found that 17.9% (112 of 626) 
+of children snored often or always. Although differences 
+in duration criteria and sample characteristics 
+make comparisons difficult, the present estimate is 
+broadly comparable to those obtained from previous 
+general practice surveys.19,26,30 Owen et al19 examined 
+snoring frequency in 245 children attending 
+a large general practice surgery and found that 
+16% of children snored “sometimes,” whereas an 
+additional 11% snored “often.” Similarly, Archbold 
+et al26 reported in 1038 children visiting their general 
+practitioner that 17% of snored more than half 
+the time. Stein et al30 found in their sample of 472 
+children attending a general pediatric clinic that 
+11% snored more than once per week and 12% snored 
+more than seven times per week. The present estimate 
+of “frequent” snoring, however, is higher than 
+comparable estimates obtained from general community 
+surveys (e.g., 3.2,16 6.2,17 5.1,32 7.3,15 7.7,28 
+8.5,18 10.0,20 11.4,8 and 12.1%9), thus suggesting that 
+children visiting their general practitioner are more 
+likely to report snoring. 
+
+
+REPORTING OF SBD IN CHILDREN/BLUNDEN ET AL 175 
+
+In addition to identifying the frequency of 
+snoring, the present study permits a cross-sectional 
+evaluation and, therefore, a better understanding of 
+the natural history of snoring. In general, we found 
+that snoring is more common during early to middle 
+childhood. Owen et al19 report similar findings 
+in a sample of children visiting their general practitioner, 
+with snoring showing a peak in 4 to 8 years. 
+It is of note in the present study that although snoring 
+showed an age-related decline, it was still relatively 
+common in older children, with parental report 
+indicating that 10.7% of children aged 10 to 
+16 years snored more than three times per week. 
+Similar to results found for snoring, the other SBD 
+symptoms also tended to peak in early to middle 
+childhood, especially snoring loudness and mouth 
+breathing. 
+
+The present study also explored the effect of 
+gender on SBD symptoms. We found that males 
+had significantly louder snoring and more mouth 
+breathing. Three previous studies have found an 
+overrepresentation of snoring in male children and 
+adolescents,16,27,41 but most report no gender difference.
+8,9,15,17,18,29,30 Only one group has re-evaluated 
+children with SBD later in life and that study suggests 
+that male children may be at increased risk of 
+recurrence during adulthood.42 Indeed, in adults there 
+is a significant overrepresentation of males with 
+SBD.43 It remains unclear, however, if snoring boys 
+will progress to OSAS later in life. 
+
+The present study is limited by the use of a 
+sample of convenience and parental recall as the 
+method of data gathering. It was also reliant on parents’ 
+perception of snoring and other SBD symptoms, 
+which were not independently validated and 
+thus are susceptible to rater bias.33 In addition, because 
+the number of child visits was not collected, 
+we are unable to determine to what extent this may 
+have influenced parental and general practitioner 
+recall. It is possible, for example, that the higher recall 
+of snoring and SBD symptoms in younger children 
+may be explained by the tendency for younger 
+children to visit their general practitioner more often. 
+It is also possible that we may have underestimated 
+the reporting of snoring by general practitioners 
+
+because consultations were for sick child visits, during 
+which chronic problems are less likely to be inquired 
+about in a busy practice compared with well 
+child visits, during which chronic problems, such as 
+snoring, are more likely to be discussed. Finally, it 
+remains possible that although snoring may have 
+been discussed on prior visits, it may not have been 
+documented in the case notes. As such, we may 
+have underestimated the frequency of recall by general 
+practitioners. 
+
+Despite the limitations identified above, we 
+believe that by using multiple measures of SBD 
+within a broad age range, the present study allows 
+for a clearer picture of the frequency and severity of 
+snoring and other SBD symptoms in children. The 
+important finding of the present study, however, is 
+that the majority of children with a history of frequent 
+snoring on questionnaire evaluation did not 
+come to the attention of their general practitioner. 
+This suggests that many clinical opportunities to 
+diagnose and treat children with SBD are being 
+missed. The need for increased awareness of snoring 
+and other symptoms of SBD is clear. 
+
+ACKNOWLEDGMENTS 
+
+The authors gratefully acknowledge the financial 
+and material support of the Adelaide Northern Division 
+of General Practice. 
+
+REFERENCES 
+
+1. Levy AM, Tabakin BS, Hanson JS, Narkewicz RM. Hypertrophied 
+adenoids causing pulmonary hypertension and 
+severe congestive heart failure. N Engl J Med 1967;277: 
+506–511 
+2. Guilleminault C, Eldridge FL, Simmons FB, Dement WC. 
+Sleep apnea in eight children. Pediatrics 1976;58:23–30 
+3. Guilleminault C, Winkle R, Korobkin R, Simmons B. 
+Children and nocturnal snoring: evaluation of the effects of 
+sleep related respiratory resistive load and daytime functioning. 
+Eur J Pediatr 1982;139:165–171 
+4. Brouillette RT, Fernbach SK, Hunt CE. Obstructive sleep 
+apnea in infants and children. J Pediatr 1982;100:31–40 
+5. Tal A, Leiberman A, Margulis G, Sofer S. Ventricular dysfunction 
+in children with obstructive sleep apnea: radionuclide 
+assessment. Pediatr Pulmonol 1988;4:139–143 
+
+176 SLEEP AND BREATHING/VOLUME 7, NUMBER 4 2003 
+
+6. Stradling JR, Thomas G, Warley AR, Williams P, Freeland 
+A. Effect of adenotonsillectomy on nocturnal hypoxaemia, 
+sleep disturbance, and symptoms in snoring children. 
+Lancet 1990;335:249–253 
+7. Weissbluth M, Davis AT, Poncher J, Reiff J. Signs of airway 
+obstruction during sleep and behavioral, developmental, and 
+academic problems. J Dev Behav Pediatr 1983;4:119–121 
+8. Ali NJ, Pitson D, Stradling JR. Sleep disordered breathing: 
+effects of adenotonsillectomy on behaviour and psychological 
+functioning. Eur J Pediatr 1996;155:56–62 
+9. Ali NJ, Pitson DJ, Stradling JR. 
+Snoring, sleep disturbance, 
+and behaviour in 4–5 year olds. Arch Dis Child 
+1993;68:360–366 
+10. Blunden S, Lushington K, Kennedy D, Martin J, Dawson 
+D. Behavior and neurocognitive performance in children 
+aged 5–10 years who snore compared to controls. J Clin 
+Exp Neuropsychol 2000;22:554–568 
+11. Gozal D. Sleep-disordered breathing and school performance 
+in children. Pediatrics 1998;102:616–620 
+12. Owens J, Spirito A, Marcotte A, McGuinn M, Berkelhammer 
+L. Neuropsychological and behavioral correlates 
+of obstructive sleep apnea syndrome in children: a preliminary 
+study. Sleep Breath 2000;4:67–78 
+13. Rhodes SK, Shimoda KC, Waid LR, et al. Neurocognitive 
+deficits in morbidly obese children with obstructive sleep 
+apnea. J Pediatr 1995;127:741–744 
+14. Gozal D, Pope DW Jr. Snoring during early childhood and 
+academic performance at ages thirteen to fourteen years. 
+Pediatrics 2001;107:1394–1399 
+15. Corbo GM, Fuciarelli F, Foresi A, De Benedetto F. Snoring 
+in children: association with respiratory symptoms and 
+passive smoking. BMJ 1989;299:1491–1494 
+16. Gislason T, Benediktsdottir B. Snoring, apneic episodes, 
+and nocturnal hypoxemia among children 6 months to 6 
+years old. An epidemiologic study of lower limit of prevalence. 
+Chest 1995;107:963–966 
+17. Hultcrantz E, Lofstrand-Tidestrom B, Ahlquist-Rastad J. 
+The epidemiology of sleep related breathing disorder in 
+children. Int J Pediatr Otorhinolaryngol 1995;32(Suppl): 
+S63–S66 
+18. Anuntaseree W, Rookkapan K, Kuasirikul S, Thongsuksai 
+P. Snoring and obstructive sleep apnea in Thai school-age 
+children: prevalence and predisposing factors. Pediatr Pulmonol 
+2001;32:222–227 
+19. Owen GO, Canter RJ, Robinson A. Snoring, apnoea and 
+ENT symptoms in the paediatric community. Clin Otolaryngol 
+1996;21:130–134 
+20. Teculescu DB, Caillier I, Perrin P, Rebstock E, Rauch A. 
+Snoring in French preschool children. Pediatr Pulmonol 
+1992;13:239–244 
+21. Brunetti L, Rana S, Lospalluti ML, et al. Prevalence of obstructive 
+sleep apnea syndrome in a cohort of 1,207 children 
+of southern Italy. Chest 2001;120:1930–1935 
+22. Chervin RD, Archbold KH, Panahi P, Pituch KJ. Sleep 
+problems seldom addressed at two general pediatric clinics. 
+Pediatrics 2001;107:1375–1380 
+23. Owens JA. The practice of pediatric sleep medicine: results 
+of a community survey. Pediatrics 2001;108:E51 
+24. Rosen R, Zozula R. Education and training in the field of 
+sleep medicine. Curr Opin Pulm Med 2000;6:512–518 
+25. Rosen RC, Zozula R, Jahn EG, Carson JL. Low rates of 
+recognition of sleep disorders in primary care: comparison 
+of a community-based versus clinical academic setting. 
+Sleep Med 2001;2:47–55 
+26. Archbold KH, Pituch KJ, Panahi P, Chervin RD. Symptoms 
+of sleep disturbances among children at two general 
+pediatric clinics. J Pediatr 2002;140:97–102 
+27. Corbo GM, Forastiere F, Agabiti N, et al. Snoring in 9- to 
+15-year-old children: risk factors and clinical relevance. 
+Pediatrics 2001;108:1149–1154 
+28. Smedje H, Broman JE, Hetta J. Parents’ reports of disturbed 
+sleep in 5–7-year-old Swedish children. Acta Paediatr 
+1999;88:858–865 
+29. Ferreira AM, Clemente V, Gozal D, et al. Snoring in Portuguese 
+primary school children. Pediatrics 2000;106:E64 
+30. Stein MA, Mendelsohn J, Obermeyer WH, Amromin J, 
+Benca R. Sleep and behavior problems in school-aged children. 
+Pediatrics 2001;107:E60 
+31. Bruni O, Ottaviano S, Guidetti V, et al. The Sleep Disturbance 
+Scale for Children (SDSC). Construction and validation 
+of an instrument to evaluate sleep disturbances in 
+childhood and adolescence. J Sleep Res 1996;5:251–261 
+32. Brouillette R, Hanson D, David R, et al. A diagnostic approach 
+to suspected obstructive sleep apnea in children. J 
+Pediatr 1984;105:10–14 
+33. Scher A, Epstein R, Sadeh A, Tirosh E, Lavie P. Toddlers’ 
+sleep and temperament: reporting bias or valid link. J Child 
+Psychol Psychiatry 1992;33:1249–1254 
+34. Archbold KH, Pituch KJ, Panahi P, Chervin RD. Symptoms 
+of sleep disturbances among children at two general 
+pediatric clinics. J Pediatr 2002;140:97–102 
+35. Namen AM, Landry SH, Case LD, McCall WV, Dunagan 
+DP, Haponik EF. Sleep histories are seldom documented on 
+a general medical service. South Med J 2001;94:874–879 
+36. Mindell JA, Durand VM. Treatment of childhood sleep 
+disorders: generalization across disorders and effects on 
+family members. J Pediatr Psychol 1993;18:731–750 
+37. Sateia MJ, Owens J, Dube C, Goldberg R. Advancement 
+in sleep medicine education. Sleep 2000;23:1021–1023 
+38. Carroll JL, McColley SA, Marcus CL, Curtis S, Loughlin 
+GM. Inability of clinical history to distinguish primary 
+snoring from obstructive sleep apnea syndrome in children. 
+Chest 1995;108:610–618 
+39. Kwok KL, Ng DK, Cheung YF. BP and arterial distensibility 
+in children with primary snoring. Chest 2003;123:1561–1566 
+40. Goldstein NA, Post JC, Rosenfeld RM, Campbell TF. Impact 
+of tonsillectomy and adenoidectomy on child behavior. 
+Arch Otolaryngol Head Neck Surg 2000;126:494–498 
+41. Camhi SL, Morgan WJ, Pernisco N, Quan SF. Factors affecting 
+sleep disturbances in children and adolescents. Sleep 
+Med 2000;1:117–123 
+42. Guilleminault C, Partinen M, Praud JP, Quera-Salva MA, 
+Powell N, Riley R. Morphometric facial changes and obstructive 
+sleep apnea in adolescents. J Pediatr 1989;114:997–999 
+43. Engleman H, Joffe D. Neuropsychological function in obstructive 
+sleep apnea. Sleep Med Rev 1999;3:59–78 
+

@@ -1,0 +1,586 @@
+Otolaryngology–Head and Neck Surgery (2006) 134, 374-378 
+
+ORIGINAL 
+RESEARCH 
+
+
+Long-Term 
+Changes 
+in 
+Behavior 
+After 
+Adenotonsillectomy 
+for 
+Obstructive 
+Sleep 
+Apnea 
+Syndrome 
+in 
+Children 
+
+
+Ron 
+B. 
+Mitchell, 
+MD, 
+and James 
+Kelly, 
+PhD, 
+Albuquerque, New Mexico 
+
+OBJECTIVE: 
+To study long-term changes in behavior after adenotonsillectomy 
+for obstructive sleep apnea syndrome (OSAS) in 
+children. 
+DESIGN 
+AND 
+SETTING: 
+Prospective study at the University 
+of New Mexico Children’s Hospital, Albuquerque, NM. 
+METHODS: 
+Children with polysomnography-proven OSAS underwent 
+adenotonsillectomy. The Behavior Assessment System for 
+Children (BASC) was completed before surgery, within 6 months and 
+9 to 18 months after surgery. Scores were compared using a paired 
+t 
+test. A P 
+value 0.05 was considered significant. 
+RESULTS: 
+The study population included 23 children. Preoperative 
+mean BASC T scores were 50. Children showed significant 
+improvement after adenotonsillectomy in aggression, atypicality, 
+depression, hyperactivity, and somatization within 6 months 
+and 9 to 18 months after surgery (P 
+. 
+0.05). The differences 
+within 6 months and 9 to 18 months after surgery were not 
+statistically significant. 
+CONCLUSIONS: 
+Caregivers report abnormalities in the behavior 
+of children with OSAS. Behavioral abnormalities improve 
+significantly after adenotonsillectomy and are maintained in the 
+long-term. 
+
+EBM 
+rating: 
+C-4 
+
+
+© 2006 American Academy of Otolaryngology–Head and Neck 
+Surgery Foundation, Inc. All rights reserved. 
+
+O
+O
+bstructive sleep apnea syndrome (OSAS) in children is 
+known to be associated with behavioral problems. 
+Children with OSAS have excessive daytime sleepiness1 
+and are more likely to be hyperactive1,2 and have decreased 
+school performance.2 These behavioral problems may improve 
+when children undergo adenotonsillectomy.1-4 However, 
+previous studies of the effects of surgical therapy for 
+pediatric OSAS on behavior may be questioned on 2 
+
+grounds. First, most of the previous studies used questionnaires 
+or clinical evaluation rather than full-night polysomnography 
+(PSG) for diagnosis of OSAS.1-5 Therefore, it is 
+possible that children with primary snoring were included in 
+these studies along with children affected by OSAS, and 
+these 2 groups of children may respond differently to surgical 
+therapy. Second, in most of these studies, children 
+were followed for only a few months after adenotonsillectomy.
+1,6 As a consequence, long-term improvements in behavior 
+after surgery for OSAS in children remain uncertain. 
+
+The Behavior Assessment System for Children (BASC)7 
+was used in a previous study6 to assess short-term improvements 
+in behavior after adenotonsillectomy for OSAS in 
+children. Other previous reports have used BASC for studies 
+of attention-deficit disorders,8 the behavioral adjustment 
+of children with cancer,9 and the detection of behavioral 
+problems in children with diabetes.10 In the present study, 
+PSG was used to diagnose OSAS in children and to grade its 
+severity. BASC was used as a change instrument to examine 
+improvements in behavior lasting approximately a year or 
+more after adenotonsillectomy for OSAS. 
+
+METHODS 
+
+
+Approval for this study was obtained from the institutional 
+review board of the University of New Mexico School of 
+Medicine, Albuquerque, NM. Children who were referred 
+to the Pediatric Otolaryngology Service with a sleep disturbance 
+between July 1, 2000, and June 30, 2002, and were 
+shown to have an apnea-hypopnea index (AHI) greater than 
+or equal to 5 by PSG were included in the study. Caregivers 
+
+From the Departments of Surgery (Drs Mitchell and Kelly) and Pedi-Reprint requests: Ron B Mitchell, MD, Virginia Commonwealth Univeratrics 
+(Dr Mitchell), University of New Mexico Health Sciences Center, sity, Department of Otolaryngology, PO Box 980146, Richmond, VA 23298. 
+Albuquerque, NM. E-mail address: rbmitchell@vcu.edu. 
+
+0194-5998/$32.00 © 2006 American Academy of Otolaryngology–Head and Neck Surgery Foundation, Inc. All rights reserved. 
+doi:10.1016/j.otohns.2005.11.035 
+
+
+Mitchell and Kelly Long-Term Changes in Behavior After... 
+
+were asked to complete an informed consent document before 
+enrollment. Exclusion criteria included (1) children younger 
+than 2.5 or older than 18 years of age; (2) children who 
+previously had an adenotonsillectomy; (3) children with 
+craniofacial syndromes, neuromuscular disease, developmental 
+delay, or psychiatric disorders; and (4) children with 
+an AHI less than 5. 
+
+All study participants underwent full-night PSG,11 and a 
+sleep medicine physician interpreted the results. The following 
+techniques were used to measure the physiological 
+parameters of sleep: electroencephalography with bilateral 
+central and occipital leads, electro-oculography, electromyography 
+with submental electrodes, and electrocardiography. 
+Airflow was recorded through the nose and mouth by 
+a nasal air pressure transducer, and end-tidal CO2 was measured 
+as well. Thoracic and abdominal muscular efforts 
+were measured by piezoelectric sensors. O2 saturation was 
+measured by pulse oximetry, and tracheal sound was recorded 
+using a microphone secured to the neck. Digital 
+videotaping with sound recording was performed throughout 
+the night. 
+
+Obstructive apnea was defined as a cessation of airflow 
+through the nose and mouth for at least 2 respiratory cycles 
+with paradoxical chest and abdominal movements. Hypopnea 
+was defined as a reduction in airflow through the nose 
+and mouth with paradoxical respiratory effort resulting in 
+either an arousal or an oxyhemoglobin desaturation of at 
+least 4%. The AHI, defined as the average number of obstructive 
+apneas and hypopneas per hour of sleep, was used 
+for diagnosis. OSAS was defined as an AHI greater than or 
+equal to 5. Children with OSAS underwent a monopolar 
+adenotonsillectomy. The tonsillectomy was performed with 
+a combination of sharp and blunt dissection using primarily 
+a blade electrocautery. Adenoidectomy was performed using 
+suction ablation and cautery. 
+
+There are separate BASC instruments for the following 
+age groups: 2.5 to 5 years, 6 to 11 years, and 12 to 18 years. 
+The BASC (2.5-5) is a 131-item instrument, the BASC 
+(6-11) is a 138-item instrument, and the BASC (12-18) is a 
+126-item instrument. Scores on the behavioral scales are the 
+sum of responses to a variable number of questions or items. 
+Each item is scored as follows: never occurs . 
+0, sometimes 
+occurs 1, often occurs 2, almost always occurs . 
+
+
+3. The BASC composite scales are the following: the behavioral 
+symptoms index (BSI), a measure of the overall 
+level of problem behavior; externalizing problems; and internalizing 
+problems. Each composite scale is made up of 
+several behavioral scales that are weighted differently as a 
+function of age. This weighting reflects the relative contribution 
+of the individual behavioral scale to problem behaviors 
+in different age groups. 
+Raw scores on the BASC scales are converted to T scores 
+that indicate the distance of the score from the norm-group 
+mean. T scores have a mean of 50 and a SD of 10. Therefore, 
+a T score of 60 indicates that the score is 1 SD above 
+the norm-group mean. Children were divided into 3 groups 
+
+based on preoperative BASC scores: normal, T score less 
+than 60; borderline, T score greater than or equal to 60 but 
+less than 70; and clinically significant, T score greater than 
+or equal to 70. 
+
+Caregivers were asked to complete the BASC before 
+surgery (survey 1), within 6 months after surgery (survey 2), 
+and again between 9 months and 18 months after surgery 
+(Survey 3). T scores for BASC behavioral scales and composites 
+were compared before and after surgery using a 
+paired t 
+test. A P 
+value less than or equal to .05 was 
+considered significant. Change scores for BASC behavioral 
+scales and composites were analyzed further using repeated 
+measures analysis of variance (ANOVA) to assess the importance 
+of covariates. The categorical covariates used for 
+the ANOVA were gender, age, ethnic group, parental education, 
+parental income, and AHI severity. Children were 
+categorized on the basis of age as 6 years or 6 years. 
+The ethnic groups used were Hispanic or Latino, non-Hispanic 
+or Latino White, Native American, and other. Parental 
+education was categorized as some high school, high school 
+degree, some college, college degree, and advanced degree. 
+Annual parental income in dollars was categorized as follows: 
+7,000, 7,000 . 
+14,000, 14,000 . 
+20,000, 
+20,000 28,000, 28,000 35,000, and 35,000. The 
+severity of AHI was categorized as mild (RDI . 
+5 10), 
+moderate (RDI . 
+10 . 
+20), or severe (RDI 20). SAS 
+procedures (SAS Corp, Carey, NC) were used for all statistical 
+analyses. 
+
+A power analysis indicated that a sample size of 20 is 
+adequate to detect a 10-point difference in BASC T scores 
+with 80% power and .05. A difference of 10 in a BASC 
+T score is equivalent to a difference of 1 SD from the norm-
+group mean. Therefore, the present study has more than sufficient 
+power to detect a clinically significant change in behavior 
+based on BASC T scores. 
+
+RESULTS 
+
+
+The initial study population comprised 44 children. Caregivers 
+for 21 children failed to complete at least one of the 
+postoperative BASC instruments. As a result, the final study 
+population included 23 children, 15 (65%) of whom were 
+male. The mean age of the children at the time of inclusion 
+in the study was 7.2 years (range, 2.5-14.8 years). Twelve 
+children (52%) were Hispanic or Latino, 7 children (30%) 
+were non-Hispanic or Latino White, and 1 child was Native 
+American. Ethnicity was not identified in 1 child. The mean 
+AHI was 14.1 (range, 5.2-88.0). Based on age-and gender-
+corrected body mass index percentiles preoperatively, 1 
+child was underweight, 12 (52%) were of normal weight, 2 
+(9%) were at risk of being overweight, and 8 (35%) were 
+overweight.12 
+
+The mean interval between survey 1 and surgery was 2.4 
+months (range, 0.8-5.8 months). The mean interval between 
+surgery and survey 2 was 4.4 months (range, 1.3-4.8 
+
+
+Otolaryngology–Head and Neck Surgery, Vol 134, No 3, March 2006 
+
+Table 
+1 
+Pre-and 
+postoperative 
+BASC 
+mean 
+T 
+scores 
+for 
+children 
+with 
+OSAS 
+
+
+BASC scale or composite: mean T score* (95% confidence interval) 
+Survey 
+No. Aggression Atypicality Depression Hyperactivity Somatization BSI 
+Externalizing 
+problems 
+Internalizing 
+problems 
+Survey 1 50.9 
+(46.8-55.0) 
+53.3 
+(49.3-47.3) 
+53.2 
+(48.8-57.6) 
+55.0 
+(50.5-59.5) 
+60.3 
+(55.4-65.2) 
+54.8 
+(50.5-59.1) 
+52.5 
+(48.0-57.0) 
+57.5 
+(53.2-61.8) 
+Survey 2 47.8 
+(45.8-49.8) 
+49.3 
+(45.5-53.1) 
+47.2 
+(43.7-50.7) 
+49.5 
+(46.2-52.8) 
+50.2 
+(46.8-53.6) 
+48.4 
+(44.9-51.9) 
+47.4 
+(44.2-50.6) 
+48.6 
+(45.3-51.9) 
+Survey 3 48.2 
+(46.4-52.0) 
+47.6 
+(45.0-50.2) 
+49.9 
+(46.5-53.3) 
+50.9 
+(47.4-54.4) 
+51.8 
+(47.7-55.9) 
+50.6 
+(47.2-53.9) 
+50.0 
+(47.0-53.0) 
+52.6 
+(48.9-56.3) 
+
+*P 
+values . 
+0.05 for mean T scores of survey 1 versus survey 2 and survey 1 versus survey 3 for all scales and composites. P 
+values 
+
+. 
+.05 for mean T scores of survey 2 versus survey 3 for all scales and composites. 
+months). The mean interval between surgery and survey 3 
+was 11.4 months (range, 9.9-8.2 months). The mean interval 
+between survey 2 and survey 3 was 6.9 months (range, 
+4.3-11.1 months). 
+
+T scores with 95% confidence intervals for BASC scales 
+and composites before and after adenotonsillectomy are 
+presented in Table 1. Means scores were significantly higher 
+for survey 1 than for either survey 2 or survey 3. For most 
+BASC scales and composites, the mean score was lower in 
+survey 2 than in survey 3. However, for the atypicality 
+scale, the mean score was higher in survey 2 than in survey 
+3 (49.3 v 
+47.6). The P 
+values for differences in T scores 
+between survey 2 and survey 3 were all greater than 0.1 and 
+therefore were not significant. 
+
+The numbers of children with BASC T scores that indicated 
+normal, borderline, or clinically significant behavioral 
+impairment for surveys 1, 2, and 3 are shown in Table 2. 
+The number of children with borderline or clinically signif-
+
+Table 
+2 
+Changes 
+in 
+behavior 
+after 
+adenotonsillectomy 
+
+
+icant behavioral impairment was lower for all behavioral 
+scales postoperatively. For BSI, 8 children (35%) had a 
+score that indicated borderline or clinically significant behavioral 
+impairment before surgery. This decreased to 2 
+children (9%) within 6 months of surgery but increased to 4 
+children (17%) within 9 to 18 months of surgery. A similar 
+pattern was seen for most clinical scales and composites. 
+The exception was atypicality, which showed a decrease in 
+the number of children with borderline or clinically significant 
+behavioral impairment 9 to 18 months after surgery 
+(Table 2). 
+
+Preoperatively, each of the clinical scales included children 
+with clinically significant behavioral impairment. Within 
+6 months of surgery, only the clinical scale of depression had 
+a child with clinically significant behavioral impairment. 
+Between 9 to 18 months after surgery, the clinical scales of 
+depression, hyperactivity, and somatization had at least 1 
+child with clinically significant behavioral impairment. The 
+
+Number of children (n . 
+23) 
+
+Preoperative (survey 1) Postoperative (survey 2) Postoperative (survey 3) 
+
+BASC scale Clinically Clinically Clinically 
+or composite Normal* Borderline significant Normal Borderline significant Normal Borderline significant 
+
+Aggression 18 4 1 23 0 0 21 2 0 
+Atypicality 18 3 2 19 4 0 21 2 0 
+Depression 17 3 3 22 0 1 20 2 1 
+Hyperactivity 14 7 2 18 5 0 19 3 1 
+Somatization 9 8 6 19 4 0 19 2 2 
+BSI* 15 6 2 21 2 0 19 3 1 
+Externalizing 
+Problems 17 5 1 23 0 0 21 2 0 
+Internalizing 
+Problems 13 8 2 21 2 0 19 3 1 
+
+*Normal (T 60), borderline (T 60 70), and clinically significant (70). 
+
+
+Mitchell and Kelly Long-Term Changes in Behavior After... 
+
+number of children with clinically significant behavioral 
+impairment did not return to preoperative levels for any of 
+the scales after surgery (Table 2). 
+
+A repeated-measures ANOVA was done to evaluate the 
+effect of covariates including gender, age, ethnicity, parental 
+education, parental income, and the severity of AHI on 
+changes in the BASC behavioral scales after surgery. None 
+of these categorical covariates contributed significantly to 
+the observed changes in BASC behavioral scales or composites 
+after surgery. 
+
+DISCUSSION 
+
+
+Adenotonsillectomy for OSAS has been shown to cause 
+improvements in child behavior during the initial months 
+after surgery.1,5,6 Long-term improvements in quality of life 
+after adenotonsillectomy for OSAS have also been documented 
+in previous studies.13,14 Flanary13 showed that all 
+domains of the OSAS-18, a disease specific quality-of-life 
+instrument,15 improved in the long-term after surgery for 
+OSAS. Physical concerns and daytime problems improved 
+the most and emotional disturbances improved the least. 
+The conclusion was that emotional disturbances take longer 
+to resolve than physical problems and that a longer follow-
+up period was necessary to examine overall improvement. 
+Mitchell et al14 showed that caregivers perceive a 
+long-term improvement in quality of life after adenotonsillectomy 
+for OSAS despite the fact that these improvements 
+are more pronounced in the short term and are not uniform 
+across all domains of the OSAS-18 survey. Improvements 
+in daytime problems and emotional disturbances were maintained 
+long term and consequently caregivers’ concerns 
+were reduced. Mitchell et al14 concluded that, although 
+some physical concerns returned approximately 1 year after 
+surgery, they were not severe enough to affect a child’s 
+quality of life. 
+
+The present research using BASC shows that the BSI, a 
+global measure of behavior, was abnormal in 35% of children 
+who were included in the study. Only 9% of the children 
+included in the study had an abnormal BSI within 6 months of 
+surgery, but that percentage increased to 17% at 9 to 18 months 
+after surgery. A similar pattern is evident for the behavioral 
+scales of aggression, atypicality, hyperactivity, depression, and 
+somatization. Thus, significant improvement occurs for all 
+behavioral scales postoperatively, and this improvement persists 
+in the long term, although to a lesser degree. 
+
+Peak improvement in T scores for the scales of aggression, 
+hyperactivity, depression, and somatization occurred less than 
+6 months after surgery. When viewed from a different 
+perspective, more children had borderline or clinically 
+significant behavioral impairments over the long-term 
+period as compared with the short-term period, and this 
+applied to the majority of clinical scales and all the 
+composite scales. This may reflect deterioration in a 
+child’s behavior 1 year after surgery but equally may be 
+
+a result changes in the caregiver’s proxy over time. 
+Furthermore, the time course of improvements in behavior 
+after surgery was not uniform for all the BASC scales. 
+Mean scores for atypicality, defined as the tendency of a 
+child to behave in ways that are considered odd or immature, 
+continued to improve throughout the postoperative 
+period. 
+
+There are a number of limitations to this study. First, 29 
+children (47%) were lost to follow-up, and it is not known 
+whether OSAS affected behavior differently in this group of 
+children compared with the study population. Second, difficulties 
+in collecting a large number of children with PSG-
+proven OSAS and a long follow-up period precluded a 
+detailed analysis of different age groups. Therefore, it remains 
+unknown whether OSAS affects behavior differently 
+in very young children compared to early adolescents. 
+Third, a control group was not available to compare the 
+effect of surgical therapy with the natural history of untreated 
+OSAS. Consequently, it is not possible to state with 
+certainty that adenotonsillectomy is the actual cause of 
+improvements in behavior after surgery. It is also possible 
+that a return toward baseline values may represent regression 
+toward the mean. Finally, the variability in the behavioral 
+response of individual children to surgery for OSAS 
+remains unexplained, although variability of this kind is not 
+uncommon in studies of complex behavior.7A study of 
+behavior with a larger sample of children might reveal 
+covariates that account in part for individual variation in 
+improvements after surgery for OSAS. 
+
+In summary, the present study shows that many caregivers 
+report abnormalities in the behavior of children with 
+OSAS. These abnormalities most frequently relate to somatization, 
+the tendency to be overly sensitive to minor physical 
+problems or discomforts, and to hyperactivity. Most 
+behavioral abnormalities in children with OSAS improve 
+significantly after adenotonsillectomy and the improvements 
+are maintained in the long term. Therefore, it is worthwhile to 
+identify children whose behavior is affected adversely by 
+OSAS. These are the children most likely to experience sustained 
+benefits in behavior after adenotonsillectomy and documentation 
+of their behavior may affect the decision to 
+undertake surgical therapy. 
+
+REFERENCES 
+
+
+1. Goldstein N, Fatima M, Campbell T, et al. Child behavior and qualityof-
+life before and after tonsillectomy and adenoidectomy. Arch Otolaryngol 
+Head Neck Surg 2002;128:770–5. 
+2. Chervin R, Dillon J, Bassetti C, et al. Symptoms of sleep disorders, 
+inattention, and hyperactivity in children. Sleep 1997;20:1185–92. 
+3. Gozal D. Sleep-disordered breathing and school performance in children. 
+Pediatrics 1998;102:616–20. 
+4. Ali N, Pitson D, Stradling J. Snoring, sleep disturbance, and behavior 
+in 4-5 year olds. Arch Dis Child 1993;68:360 –6. 
+5. Goldstein N, Post J, Rosenfeld R, et al. Impact of tonsillectomy and 
+adenoidectomy on child behavior. Arch Otolaryngol Head Neck Surg 
+2000;126:494–8. 
+
+Otolaryngology–Head and Neck Surgery, Vol 134, No 3, March 2006 
+
+6. Mitchell R, Kelly J. Changes in the behavior of children after adenotonsillectomy 
+for obstructive sleep apnea. Laryngoscope 2005;115: 
+2051–5. 
+7. 
+Reynolds C, Kamphaus R. Manual for Behavioral Assessment System for 
+Children. Circile Pines, MN: American Guidance Service, Inc.; 1998. 
+8. Ostrander R, Weinfurt K, Yarnold P, et al. Diagnosing attention deficit 
+disorders with the Behavioral Assessment System for Children and the 
+Child Behavior Checklist: test and construct validity analyses using 
+optimal discriminant classification trees. J Consult Clin Psychol 1998; 
+66:660–72. 
+9. Moore I, Challinor J, Pasvogel A, et al. Online exclusive: behavioral 
+adjustment of children and adolescents with cancer: teacher, parent, 
+and self-report. Oncol Nurs Forum 2003;20:E84–91. 
+10. Cameron F, Smidts D, Hesketh K, et al. Early detection of emotional 
+and behavioral problems in children with diabetes: the validity of the 
+Child Health Questionnaire as a screening instument. Diabet Med 
+2003;20:646–50. 
+
+11. Carroll J, Loughlin G. Diagnostic criteria for obstructive sleep apnea 
+syndrome in children. Pediatric Pulmonology 1992;14:71–4. 
+12. National Center for Chronic Disease Prevention and Health Promotion. 
+Nutrition & Physical Activity: Defining Overweight and Obesity. 
+2003. Available at: http://www.cdc.gov/nccdphp/dnpa/obesity/defining. 
+htm. Accessed January 4, 2006. 
+13. Flanary V. Long-term effect of adenotonsillectomy on quality of life in 
+pediatric patients. Laryngoscope 2003;113:1639 –44. 
+14. Mitchell R, Kelly J, Call E, et al. Long-term changes in quality of life 
+after surgery for pediatric obstructive sleep apnea. Arch Otolaryngol 
+Head Neck Surg 2004;130:409–12. 
+15. Franco R, Rosenfeld R, Rao M. Quality of life for children with 
+obstructive sleep apnea. Otolarygol Head Neck Surg 2000;123:9–16. 
+Did 
+you 
+know? 
+
+
+You can save your online searches and get the results by e-mail. 
+
+Visit 
+http://journal.entnet.org 
+today 
+to 
+see 
+what 
+is 
+new 
+online! 
+
+
+

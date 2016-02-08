@@ -1,0 +1,599 @@
+International Journal of Pediatric Otorhinolaryngology (2007) 71, 1—6 
+
+
+www.elsevier.com/locate/ijporl 
+
+Pulse-oximetery 
+is 
+useful 
+in 
+determining 
+the 
+indications 
+for 
+adeno-tonsillectomy 
+in 
+pediatric 
+sleep-disordered 
+breathing 
+
+
+Hideyuki 
+Saito 
+a,b,*, 
+Kouji 
+Araki 
+a,b, 
+Hiroyuki 
+Ozawa 
+a,b, 
+Kunio 
+Mizutari 
+a,b, 
+Kouji 
+Inagaki 
+a,b, 
+Noboru 
+Habu 
+b,c, 
+Taku 
+Yamashita 
+b, 
+Ryouichi 
+Fujii 
+a,b, 
+Soichiro 
+Miyazaki 
+d, 
+Kaoru 
+Ogawa 
+a 
+
+
+a Department 
+of 
+Otorhinolaryngology, 
+Keio 
+University 
+School 
+of 
+Medicine, 
+160-8582, 
+35 
+Shinanomachi, 
+Shinjuku-ku, 
+Tokyo, 
+Japan 
+bDepartment 
+of 
+Otorhinolaryngology, 
+Saiseikai 
+Utsunomiya 
+Hospital, 
+Utsunomiya, 
+Tochigi-ken, 
+Japan 
+c Department 
+of 
+Otorhinolaryngology, 
+National 
+Tokyo 
+Medical 
+Center, 
+Tokyo, 
+Japan 
+dDepartment 
+of 
+Sleep 
+Medicine, 
+Shiga 
+University 
+of 
+Medical 
+Science, 
+Japan 
+
+
+Received 31 March 2006; received in revised form 12 August 2006; accepted 16 August 2006 
+
+KEYWORDS 
+Summary 
+Sleep-disordered 
+breathing; 
+Child; 
+Objective: 
+Although first line therapy of sleep-disordered breathing (SDB) in children 
+is adeno-tonsillectomy, the indications for this operation have not yet been clearly 
+Adenoid-tonsillectomy; established. We investigated whether pulse-oximetry is useful for determining the 
+Pulse-oximetry optional treatment modality for pediatric SDB. 
+Method: 
+Two hundred and thirty-two children presenting with snoring and gasping 
+had their oxygen saturation levels examined during sleep. Among them, 86 underwent 
+on adeno-tonsillectomy and were evaluated pre-and post-surgery. We also examined 
+25 healthy children as controls. 
+Results: 
+Little desaturation was observed in healthy children. The difference in 
+oxygen saturation levels of the patients between pre-and post-surgery was closely 
+correlated with the pre-surgery levels. We examined the reaction operation characteristics 
+and concluded that children with an oxygen desaturation index of 4% or 
+more (ODI4) of more than 1.5 and/or ODI3 of more than 3.5 should undergo surgery. 
+Conclusion: 
+Pulse-oximetry is useful in determining the indications for adeno-tonsillectomy. 
+# 
+2006 Elsevier Ireland Ltd. All rights reserved. 
+
+* Corresponding author. Tel.: +81 3 3353 1211; fax: +81 3 3353 1261. 
+E-mail 
+address: 
+hsaitorl@sc.itc.keio.ac.jp (H. Saito). 
+0165-5876/$ — see front matter # 
+2006 Elsevier Ireland Ltd. All rights reserved. 
+doi:10.1016/j.ijporl.2006.08.009 
+
+
+H. Saito et al. 
+1. 
+Introduction 
+Sleep-disordered breathing (SDB), such as obstructive 
+sleep apnea syndrome (OSAS), in children due to 
+adenoid and tonsillar hypertrophy is a well-defined 
+clinical entity and it is well-known to induce such 
+sequelae as failure to thrive [1,2], neurocognitive 
+abnormalities [3,4], systemic hypertension [5] and 
+right heart failure including cor pulmonale [6,7]. Its 
+symptoms are non-specific and widely variable and 
+therefore performing physical examination and 
+evaluating the patient history is of limited value 
+[8,9]. Adeno-tonsillectomy (T&A) is known to 
+relieve such conditions in most otherwise healthy 
+cases [10—12], however, a number of studies have 
+shown no relationship to exist between the presence 
+of SDB and the size of the tonsils and adenoids [13— 
+15]. Currently, polysomnography (PSG) is widely 
+considered to be the gold standard in diagnosing 
+SDBinchildhood [8,16].However,PSGisvery expensive, 
+time consuming and not easy to carry out on 
+children. As a result, we think that more simplified 
+method is needed for such cases. 
+
+Measuring hemoglobin oxygen saturation level 
+witha pulse-oximeterisa verysimple,widely used 
+method for the screening of sleep apnea syndrome 
+[8,17—19].Brouilletteetal. comparedtheresultsof 
+nocturnal pulse-oximetry with those of PSG and 
+reported oximetry to be useful when the results 
+were positive [8], but there have been only a few 
+studiescomparing the results of pulse-oximetry with 
+those of normal candidates, and no definite indication 
+for T&A based on the severity of desaturation 
+have not yet been established.We therefore examined 
+the percutaneously measured hemoglobin oxygen 
+saturation (SpO2) of children who were 
+suspected to have SDB and then compared the 
+results with those for healthy children, while also 
+comparing the pre-and post-operative SpO2 of 
+patients who underwent T&A. 
+
+2. 
+Subjects 
+and 
+methods 
+2.1. 
+Subjects 
+We conducted a prospective study of all children 
+between 1-year-old and 10-year-old that consulted 
+the oto-rhino-laryngological clinic of Saiseikai Utsunomiya 
+Hospital with such complaints as snoring, 
+choking or gasping during sleep, oral breathing and 
+other complaints that are usually associated with 
+OSAS. Of these, 232 were evaluated by pulse-oximetry 
+between April 1998 and July 2004. Because 
+some children were evaluated several times, the 
+total number of the tests was 535. When we exam
+
+
+ined a child several times, we chose the data that 
+had the longest study duration. Any children who 
+were under 1-year of age, had lung disease, neuromuscular 
+disorders, cranio-facial deformity, bilateral 
+fixation of vocal cords and/or acute upper air 
+way infection at the time of examination were 
+excluded. 
+
+Among them, 91 children underwent T&A. We 
+examined the nocturnal pulse-oximetry findings of 
+86 patients between2and5days after the surgery, 
+and then compared the pre-and post-surgery 
+values. Some children underwent the examinations 
+several times and we also chose the result of longest 
+examination after surgery for analysis. 
+
+For the control group, healthy children who did 
+not demonstrate snoring, nasal obstruction or oral 
+breathing were recruited.Written informedconsent 
+was obtained from parents of each child. 
+
+2.2. 
+Methods 
+Each patient was admitted to our hospital and 
+performed the examination twice because we were 
+afraid of ‘first night effect’, but no children and 
+their parents complained sleep disturbance during 
+the examinations. 
+
+Inthebeginningof the study,a nurse setNPB290 
+on oneoffingersof a patient beforesheorhefell 
+asleep and then the nurse confirmed that the 
+patient had no complaints and the expressed value 
+was equal to or more than 97%. If SpO2 was under 
+97%, then thedatawereexcludedfromthisanalysis. 
+Thereafter the patient fell asleep and the 
+measurements were performed on all night long. 
+The nurse recorded sleeping position and arousal 
+events. 
+
+T&A was performed by one of the authors. In the 
+control group, we taught the parents how to use the 
+device and then measurements were carried out at 
+home in the same manner as described above. 
+
+After the examination, the recorded data were 
+downloaded and then were analyzed using the specific 
+software (Score Software1, Nellcor Puritan 
+Bennett, USA). 
+
+2.3. 
+Pulse-oximeter 
+SpO2 was recorded using a NPB290 (Nellcor Puritan 
+Bennett, USA) pulse-oximeter set at 5-s averaging. 
+After the examinations the trend data were downloaded 
+to a personal computer and then were evaluated 
+using the Score software1. Motion artifacts 
+were automatically eliminated by a default setting 
+and one of the authors (H.S.) revised the trend 
+graphs and excluded from analysis any unnatural 
+steep changes that did not last for 10 s and drops in 
+
+
+Pulse-oximetry in pediatric disordered breathing 
+
+the SpO2 that did not accompany any changes in the 
+heart rate which usually drops into brady during 
+apnea and thereafter shows rapid increase [19]. 
+The download and default evaluation completed 
+withina minute, andit took30minto2h for revision. 
+We chose the lowest saturation level (Low), 
+the number of desaturation events per hour (ODI) 
+and the total duration of desaturation per hour 
+(TDD) as parameters. 
+
+ForODI,weevaluated desaturationof >3% (ODI3) 
+and >4% (ODI4), because the formeris the standard 
+in adult OSAS evaluation [20] while the latter has 
+been used in some pediatric OSAS studies [4]. 
+
+For TDD, we evaluated the duration of desaturation 
+below 95% (TDD95) and below 89%, but the TDD 
+below 89% was not very useful in analyzing the 
+sensitivity, and as a result, we herein only describe 
+TDD95 results. 
+
+2.4. 
+Statistic 
+analysis 
+A comparison between the pre-and post-operative 
+values of the parameters was done using the Mann— 
+Whitney test and correlation studies were performed 
+using the Spearman’s rank test. All statistical 
+analyses were calculated using the ‘Statview 
+SE1’ software package. 
+
+3. 
+Results 
+We performed 535 examinations on 232 children. 
+Five children were excluded from the analysis 
+because of their physiological condition and 30 
+examinations were excluded because of either an 
+inadequate operation of the pulse-oximeter and/or 
+malfunction(Table1). Consequently,we analyzed 
+495 examinations of 225 children consisting of 144 
+(64.3%) boys and 81 girls. The age of the patients 
+ranged from 1-year and 5 months to 10-year old. 
+
+As written previously, 86 children, 55 boys 
+(64.0%) and 31 girls, were examined before and 
+after T&A. The indications for the operation depend 
+not only on the severity of desaturations but also on 
+a relapse of inflammation, recurrent acute otitis 
+
+Table 
+1 
+Subjects excluded from analysis 
+
+Acute upper airway infection 2 
+Neuro-mascular disease 1 
+Cranio-facial deformity 1 
+Bilateral vocal cord fixation 1 
+Inadequate operation of the device or 30 
+malfunction (unable to download, not to 
+delete previous night data, unable to 
+open existing file) 
+
+Table 
+2 
+Data of healthy children and temporarily 
+defined normal range based on mean+ 2S.D. or 2S.D. 
+
+Low ODI4 ODI3 TDD95 
+
+Mean 94.56 0.21 0.74 2.08 
+S.D. 2.38 0.29 0.65 4.91 
+Temporarily >89 <0.78 <2.04 >11.9 
+defined 
+normal range 
+
+media, prolonged otitis media with effusion and 
+their parents’ request. Consequently, some of the 
+patients showed almost normal SpO2. 
+
+Twenty-five healthy children, 14 boys (56%) and 
+11 girls, were examined as controls. The age of the 
+control childrendid not significantly differ from that 
+of the patients. There were no troubles performing 
+the examinations in the control group. 
+
+3.1. 
+Pulse-oximetry 
+result 
+There were few cases showing desaturation in the 
+control group (Table 2). We assumed that each 
+parameter follows a normal distribution anddefined 
+the cut-off line temporarily based on the 
+mean+ 2S.D. (ODI3, ODI4 and TDD95) or 
+mean . 
+2S.D. (Low). 
+
+The results of the patients are shown as histograms 
+in Fig. 1. The values of Low, ODI3, ODI4 and 
+TDD95 ranged from60to99,0 to 31.77,0 to 28.08 
+and 0 to 3412, respectively. As a result, there was 
+wide variety in desaturation, from normal to severe, 
+inthepatientgroup.Thegreycolumnsin Fig.1 show 
+the number of patients who were thought to be 
+normal considering the cut-off line. Many patients, 
+80 in Low, 76 in ODI3, 91 in ODI4 and 96 in TDD95, 
+respectively, showed normal values.We noted that 
+mode of each parameter existed near the cut-off 
+value. 
+
+After T&A, all patients showed significantly 
+improved parameters (p 
+< 
+0.01), and the value 
+of each parameterbeforethe surgery showstrong 
+correlations, especially in ODI3, ODI4 and TDD95, 
+with thedifferencebetween pre-andpost-surgery 
+value(Fig.2). Consequently, theresultof surgery 
+maybepredictable from thepulse-oximetric 
+values. We defined that successful surgery as an 
+improvementofmorethan2S.D. foreachparameter 
+of the control group, and examined the 
+reaction operation characteristics between the 
+pre-surgical values andthe values afterthe successfulsurgery.
+The resultsshoweda 95%success rateif 
+we operateonapatient whoseODI4is1.5 or more 
+(51cases)and/orODI3is3.5or more(49cases).The 
+sensitivity was92.3%inODI4 and 94.2%inODI3.We 
+obtaineda100%successif we operateonapatient 
+
+
+H. Saito et al. 
+Fig. 
+1 
+Distribution of the results of all the patients in each parameter. The column with oblique lines shows those 
+defined as normal. Note that the mode of each histogram is situated near the cut off value. 
+
+with2.2 ormoreinODI4(44 cases)and/orwith5.0 4. 
+Discussion 
+or more in ODI3 (44 cases) and the sensitivity was 
+88.8%inODI4 and82.7%inODI3. Sensitivity of the The diagnostic valueof pulse-oximetryforpediatric 
+Low and TDD95 was lower than that of ODI3 and OSAS remains controversial. There have been sevODI4. 
+eral reports describing the usefulness of pulse-oxi-
+
+
+Fig. 
+2 
+Scattergram of parameters of the patients who underwent adeno-tonsillectomy. Horizontal axis means the preoperative 
+value of each parameter and vertical axis means the difference between pre-and post-surgical value. The 
+difference between pre-and post-surgical value shows close correlation with the pre-surgical value. Correlation 
+coefficient is 0.962 in ODI3, 0.979 in ODI4, 0.904 in TDD95 and 0.776 in low, respectively. 
+
+
+Pulse-oximetry in pediatric disordered breathing 
+
+metry [4,10,21]. In general, the role of pulse-oximetry 
+in the diagnosis of pediatric sleep apnea is 
+thought to be limited. Brouillette et al. [8] compared 
+results of pulse-oximetrywiththose ofsimultaneous 
+PSG and came to the conclusion that the 
+oximetry was useful when the results were positive 
+and he also noted that the children identified by 
+pulse-oximetry testing are likely to have clinically 
+significant disease severity. They also said that for 
+children that tended to show positive finding on the 
+oximetrytrend graph, no additional testing is necessary 
+before performing T&A, and negative or inconclusive 
+results require a subsequent PSG to rule out 
+OSAS. 
+
+Moreover, the interpretation of child PSG is controversial 
+because the etiology of OSAS is complicated 
+and there is little information about what 
+types of event should be count and reliable for 
+diagnosis. Even pulse-oximetry that is included in 
+PSG, we do not have much information about normative 
+range of parameters that are gotten with 
+pulse-oximetry or what distribution of the value the 
+SDB patients show. Therefore, to establish the normal 
+range of pulse-oximeter, what distribution of 
+value the patients shows and what kind of parameter 
+should be suitable for evaluating SDB, is 
+important and to establish the cut-off values based 
+on the pulse-oximetric results between those that 
+should be treated and those that do not needtreatment 
+at once is desirable. We measured SpO2 in 
+healthy children and they showed little desaturation. 
+However, the mode of each parameter in 
+children who were suspicious as OSAS was near 
+the mean+ (or ) 2S.D. that was calculated from 
+the results of healthy children. There might be many 
+false positives and false negatives if we used it as 
+cut-off line because even a small degree of error 
+would affecta large numberof subjects.We therefore 
+need some other criteria. 
+
+In each parameter, the value before surgery 
+showed a strong correlation with the differences 
+in values between pre-and post-surgery, therefore 
+whether the surgery results in success or not is 
+considered to be predictable.We could obtain high 
+success rate of 95% with high sensitivity more than 
+90%. We thus propose that children with ODI3 of 
+more than 3.5 and/or ODI4 of more than 1.5 should 
+be treatedbyT&A.IftheirODI3islowerthan1.5and 
+ODI4is lower than 3.5, they shouldbe examinedby 
+some other procedure including PSG. 
+
+When we use the pulse-oximetry, careful history 
+taking and physical examinations are necessary to 
+rule out neuromuscular disease that may cause 
+central apnea and hypopnea and cardiopulmonary 
+disease that may cause hypoxemia. The inadequate 
+installation of the probe should also be avoided and 
+
+it is important to confirmthe value after attachment 
+to be higher than or equal to 97%. 
+
+The oximetry results may be influenced by the 
+algorithm to distinguish true desaturation from 
+motion artifact. We think that physicians should 
+investigate the trend graph and exclude any drops 
+of SpO2 that are not associated changes in the heart 
+rate. We set the averaging time at 5 s, but the 
+assessment of oxygen desaturation is highly influenced 
+by the setting of the averaging time. Farre 
+et al. [22] examined how different setting of averaging 
+time: 3, 6, 12 and 21 s, affected the oxygen 
+desaturation results and reportedthat oxygen desaturationobtainedwhen 
+averagingtimewassetat6 s 
+was lower,though not significantly, than when it was 
+setat3 s.Five secondsisthewidely usedsettingof 
+averaging time, but further study may be necessary 
+because the SpO2 in children and infants who have 
+more rapid ventilation is thought to change faster 
+than in adult. 
+
+The cost-benefit analysis is beyond the scope of 
+this study. But we can detect98 cases that fulfilled 
+the indication of ODI3 for the T&A among 225. 
+Therefore, along our criteria, we can omit 98 PSG 
+examinations. Our study was not suitable for the 
+cost-benefit analysis because the sample was not 
+extracted randomly but from those with symptoms. 
+But we guess that pulse-oximetrymight be economical 
+because it is not so expensive as PSG and less 
+time consuming. 
+
+As far as we know, this is the first report to show 
+the indications of treatment for pediatric OSAS 
+using the pulse-oximetric parameters. Nocturnal 
+pulse-oximetry is thus considered to be a useful 
+diagnostic modality for pediatric OSAS. 
+
+References 
+
+
+[1] C.L. Marcus, J.L. Carroll, C.B. Koerner, A. Hamer, J. Lutz, 
+G.M. Loughlin, Determinants of growth in children with the 
+obstructive sleep apnea syndrome, J. Pediatr. 125 (1994) 
+556—562. 
+[2] M. Lind,B. Lundell,Tonsillar hyperplasiain children:a cause 
+of obstructive sleep apneas, CO2 retention and retarded 
+growth, Arch. Otolaryngol. Head Neck Surg. 108 (1982) 650— 
+654. 
+[3] R.D. Chervin, 
+J.E. Dillon, C. Bassetti, D.A. Ganoczy, K.J. 
+Pituch, Symptoms of sleep disorders, inattention,and hyperactivity 
+in children, Sleep 20 (1997) 1185—1192. 
+[4] D. Gozal, 
+Sleep-disordered breathing and school performance 
+in children, Pediatrics 102 (1998) 616—620. 
+[5] C. Guillminault, F.L. Eldridge, F.B. Simons, W.C. Dement, 
+Sleep apnea in eight children, Pediatrics 58 (1976) 23—30. 
+[6] R.T. Brouillette, S.K. Fernbach, C.E. Hunt, Obstructive sleep 
+apnea in infant and children, J.Pediatr. 100 (1982) 31—40. 
+[7] A. Tal, A. Leiberman, 
+G. Margulis, S. Sofer, Ventricular 
+dysfunction in children with obstructive sleep apnea: radio-
+nuclide assessment, Pediatr. Pulmonol. 4 (1988) 139—143. 
+
+H. Saito et al. 
+[8] R.T. Brouillette, M. Morielli, A. Leimanis, K.A. Waters, R. 
+Luciano, F.M. Ducharme, Nocturnal pulse oximetry as an 
+abbreviated testing modality for pediatric obstructive sleep 
+apnea, Pediatrics 105 (2000) 405—412. 
+[9] J.L. 
+Carrol, S.A. McColley, C.L. Marcus, S. Curtis, G.M. 
+Loughlin, Inability of clinical history to distinguish primary 
+snoring from obstructive sleep apnea syndrome in children, 
+Chest 108 (1995) 610—618. 
+[10] J.R. Stardling, 
+G. Thonas, A.R.H. Warley, P. Williams, A. 
+Freeland, Effect of adenitonsillectomy on nocturnal hypoxemia, 
+sleep disturbance, and symptoms in snoring children, 
+Lancet 335 (1990) 249—253. 
+[11] J.S. Suen, J.E. Arnold, L.J. Brooks, Adenotonsillectomy for 
+treatment of obstructive sleep apnea in children, Arch. 
+Otolaryngol. Head Neck Surg. 121 (1995) 525—530. 
+[12] P. Nieminen, U.Tolonen, H. Lopponen, Snoring and obstructive 
+sleep apnea in children: a 6-month follow up study, 
+Arch. Otolaryngol. Head Neck Surg. 126 (2000) 481—486. 
+[13] S.K. Fernbach, R.T. Brouillette,T.W. Riggs, C.E. Hunt, Radiographic 
+evaluation of adenoids and tonsils in children with 
+obstructive sleep apnea: plain films and fluoroscopy,Pediatr. 
+Radiol. 13 (1983) 2258—2265. 
+[14] E. Laurikainen, M. Erkinjuntti, J. Alihanka, H. Rikalainen, J. 
+Suonpaa, Radiological parameters of the bony nasopharynx 
+and the adenotonsillar size compared with sleep apnea 
+episodes in children, Int. J. Pediatr. Otorhinolaryngol. 12 
+(1987) 303—310. 
+[15] L.J. Brooks, B.M. Stephens, A.M. Bacevice, Adenoid 
+size is 
+relatedtoseveritybutnotthenumberofepisodesofobstructiveapneain 
+children,J.Pediatr.132(1998)682—686. 
+[16] American AcademyofPediatrics, Clinical practice guideline: 
+diagnosis and management of childhood obstructive sleep 
+apnea syndrome, Pediatrics 109 (2002) 704—712. 
+[17] A.J. Williams, G. Yu, S. Santiago, M. Stein, Screening for 
+sleep apnea using pulse oximetry and a clinical score, Chest 
+100 (1991) 631—635. 
+[18] J.C.Vazquez,W.H.Tsai,W.W. Flemons,A. Masuda,R. Brant, 
+E. Hajduk, W.A. Whitelaw, J.E. Remmers, Automated analysis 
+of digital oximetry in the diagnosis of obstructive sleep 
+apnea, Thorax 55 (2000) 302—307. 
+[19] N. Netzer, A.H. Eliasson, C. Netzer, D.A. Kristo, Overnight 
+pulse oximetry for sleep-disordered breathing in adults, 
+Chest 120 (2) (2001) 625—633. 
+[20] American Academy of Sleep Medicine, Sleep-related breathing 
+disorders in adults: recommendations for syndrome 
+definition and measurement technique in clinical research, 
+Sleep 22 (5) (1999) 667—689. 
+[21] J. Vavrina, Computer assisted pulse oximetry for detecting 
+children obstructive sleep apnea syndrome, Int. J. Pediatr. 
+Otorhinolaryngol. 33 (1995) 239—248. 
+[22] R. Farre, J.M. Monsterrat, 
+E. Ballester, L. Hernandez, M. 
+Rotger,D. Navajas, Importanceofpulse oximeter averaging 
+time when measuring oxygen desaturation in sleep apnea, 
+Sleep 21 (1998) 386—390. 
+

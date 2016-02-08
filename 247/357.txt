@@ -1,0 +1,1063 @@
+Eur Respir J 2008; 31: 326–333 
+DOI: 10.1183/09031936.00088407 
+CopyrightERS Journals Ltd 2008 
+
+Snoring in preschool children: prevalence, 
+severity and risk factors 
+
+C.E. Kuehni*, M-P.F. Strippoli*, E.S. Chauliac* and M. Silverman# 
+ABSTRACT: Epidemiological data on snoring from preschool children are scarce, although 
+habitual snoring (snoring on almost all nights) has been associated with poor long-term 
+outcomes. 
+
+In a population survey of 6,811 children aged 1–4 yrs (from Leicestershire, UK) the present 
+authors determined prevalence, severity and risk factors for snoring, especially habitual snoring. 
+
+In 59.7% of the children, parents reported snoring in the previous 12 months, including 7.9% 
+with habitual snoring and 0.9% with habitual snoring and sleep disturbance. Prevalence of 
+habitual snoring increased with age from 6.6% in 1-yr-olds to 13.0% in 4-yr-olds. Habitual snoring 
+was associated with: one and both parents smoking (adjusted odds ratio (OR) 1.46 and 2.09, 
+respectively); road traffic (OR 1.23); single parent (OR 1.60); and in White but not South Asian 
+children, socioeconomic deprivation (OR 1.25 and 2.03 for middle and upper thirds of Townsend 
+score, respectively). Respiratory tract symptoms related to atopic disorders and to respiratory 
+infections were strongly associated with snoring; however, body mass index was not. 
+
+In conclusion, habitual snoring is common in preschool children with one-third of cases 
+attributable to avoidable risk factors. The strong association with atopic disorders, viral infections 
+and environmental exposures suggests a complex aetiology, based on a general vulnerability of 
+the respiratory tract. 
+
+KEYWORDS: Preschool child, prevalence, risk factors, snoring, South Asian, wheeze 
+
+S
+S
+noring in children indicates increased [6, 13, 14], breastfeeding [18] and low socioupper 
+airway resistance during sleep economic status [5, 7, 19], while others did not 
+and is the cardinal symptom of sleep-confirm these findings. Some of these discrepandisordered 
+breathing (SDB) [1, 2]. The complica-cies might be due to age differences between 
+tions of SDB are potentially severe and include study populations [20]. An excess of respiratory 
+neurobehavioural and cardiovascular complica-symptoms related to atopic diseases has been 
+tions and growth inhibition [1]. Habitual snoring previously reported [6, 7, 12, 17, 18, 21]. 
+(HS), snoring on almost all nights in so-called 
+
+Using a large population-based sample of pre-
+
+primary snorers, has been associated with beha
+
+
+school children, the present authors aimed to: 
+
+vioural problems and poor academic perfor
+
+
+determine prevalence and severity of snoring in 
+
+mance even in the absence of intermittent 
+
+preschool children; describe environmental and 
+
+hypoxia, possibly due to increased sleep 
+
+sociodemographic factors associated with snor
+
+
+fragmentation [3–5]. 
+
+ing in this age group; and study the association 
+between snoring and other respiratory symp-
+
+Despite its clinical importance, the epidemiologitoms. 
+A special focus of the analysis was on HS, 
+
+cal literature on snoring in childhood is sparse. 
+the clinically most significant category. 
+
+There are only a few population-based studies, 
+often based on small samples and only rarely 
+including preschool children [6–16]. Published 
+
+METHODS 
+
+results are heterogeneous with the prevalence of Study design and population 
+HS ranging 3–12% and the total prevalence of The Leicestershire Health Authority Child Health 
+snoring 21–68%. Some studies reported an Database was used in the study. It includes both 
+
+association between HS and male sex [7, 11, 15], the birth notification and perinatal data with 
+being overweight [12, 17, 18], parental smoking mother’s self-reported ethnic origin, religion, 
+
+This manuscript has supplementary data accessible from www.erj.ersjournals.com 
+
+
+AFFILIATIONS 
+*Institute of Social and Preventive 
+Medicine, University of Bern, Bern, 
+Switzerland. 
+#Division of Child Health, Dept of 
+Infection, Immunity and 
+Inflammation, University of Leicester, 
+UK. 
+
+
+CORRESPONDENCE 
+
+
+C.E. Kuehni 
+Swiss Paediatric Respiratory 
+Research Group 
+Institute of Social and Preventive 
+Medicine 
+University of Bern 
+Finkenhubelweg 11 
+CH-3012 
+Bern 
+Switzerland 
+Fax: 41 316313520 
+E-mail: kuehni@ispm.unibe.ch 
+Received: 
+July 13 2007 
+Accepted after revision: 
+October 31 2007 
+
+
+SUPPORT STATEMENT 
+The work presented in this paper was 
+funded by the Swiss National Science 
+Foundation (PROSPER grant 3233069348, 
+3200-069349, and SNF 
+grant 823B-046481) and the Swiss 
+Society of Paediatrics. Initial data 
+collection was supported by a 
+research grant from Trent NHS 
+Executive (Sheffield, UK; Trent 
+Research Scheme, RBF No. 98XX3). 
+
+
+STATEMENT OF INTEREST 
+A statement of interest for this study 
+can be found at 
+www.erj.ersjournals.com/misc/ 
+statements.shtml 
+
+
+European Respiratory Journal 
+Print ISSN 0903-1936 
+Online ISSN 1399-3003 
+
+VOLUME 31 NUMBER 2 EUROPEAN RESPIRATORY JOURNAL 
+
+
+C.E. KUEHNI ET AL. 
+country of birth and language, to select an age-stratified 
+random sample of White and South Asian (mother self-
+identified as Indian, Pakistani, Bangladeshi or other) children 
+aged 1–4 yrs with complete birth records. From this database a 
+random sample of 6,100 White and 2,600 South Asian children 
+(5,400 aged 1 yr and 1,100 in each age group of 2, 3 and 4 yrs) 
+was extracted [22]. The Leicestershire Health Authority 
+Research Ethics Committee (Leicester, UK) approved the 
+study. 
+
+Questionnaire 
+
+Parents were sent a single questionnaire including questions 
+on wheeze, cough and upper respiratory symptoms during the 
+past 12 months [23–25]. The questions for 1-yr-olds and their 
+repeatability have been published elsewhere [25]. The questionnaire 
+for 2–5-yr-olds was almost identical and is available 
+from the present authors. The following questions related to 
+snoring. ‘‘Over the past 12 months, has your child snored at 
+night? If yes how often, only with a cold/sometimes even 
+without a cold/almost always?’’ and ‘‘Did the snoring disturb 
+your child’s sleep, not at all/a little/a moderate amount/a 
+lot?’’ [6, 7]. 
+
+The questionnaire also contained sections on diagnoses, 
+healthcare utilisation and treatments for wheeze, environmental 
+exposures, breastfeeding, pets, nursery care, siblings and 
+household members, parental history of atopic diseases, 
+ethnicity and language. Socioeconomic factors were measured 
+at a family level (duration of parental education, number of 
+people per room, single parenthood) and area level (Townsend 
+score, 1991 census data). 
+
+Height and weight measurements were available through the 
+Leicestershire Health Authority Child Health Database, 
+assessed in a standardised way by health visitors at birth 
+and at 8, 20, 40 and 60 months. For the analysis, the 
+measurements at birth and those made nearest to the date of 
+the questionnaire were used. The standard deviation score 
+(SDS) for the body mass index (BMI) was calculated from 
+British growth reference curves [26]. International BMI cut-offs 
+were used to define underweight, overweight and obesity in 
+children [27]. The ponderal index (cube root of body mass (kg) 
+divided by height of the children (cm)) was also calculated. 
+
+Statistical analysis 
+
+Based on reported frequency of snoring, children were 
+grouped into four categories: 1) nonsnorers; 2) children 
+snoring only with colds; 3) children snoring also apart from 
+colds; and 4) children snoring almost always. The latter were 
+classified as HS [1, 6, 7]. Descriptive analysis was used to 
+summarise characteristics of the subjects according to snoring 
+category (table 1). 
+
+To quantify associations between potential risk factors and 
+different categories of snoring multivariable logistic regression 
+models were used. The main analysis compared HS with 
+nonsnorers. As the present authors hypothesised that the 
+aetiology of HS might differ from the aetiology of less frequent 
+snoring, separate logistic regression models were used to 
+compare the other two snoring categories with nonsnorers. 
+
+In addition to age, sex and ethnicity, the following variables 
+were considered for inclusion in the models. 1) Environmental 
+
+SNORING IN PRESCHOOL CHILDREN 
+
+exposures: including maternal smoking during pregnancy (yes/ 
+no), current parental smoking (none, one parent, both parents), 
+electrical cooking (yes/no), central heating (yes/no), reported 
+exposure to road traffic (moderate-to-dense/little-to-none), 
+household pets (cats, dogs, birds or rabbits, guinea pigs etc., all 
+categorised as yes/no), number of siblings, nursery care (yes/ 
+no) and breastfeeding (.6 months). 2) Socioeconomic factors: 
+including the Townsend score, paternal and maternal education 
+(completed full-time education at f16 yrs), single parenthood, 
+overcrowding (.1person?room -1). 3) Clinical features and 
+symptoms: including parental history of atopic disease, upper 
+and lower respiratory symptoms in the child, prevalence and 
+frequency of wheeze, chronic cough, chronic rhinitis, frequency 
+and severity of colds, eczema, birth weight, BMI and ponderal 
+index at the time of the questionnaire. The authors also asked 
+about ‘‘posseting’’ in the first year of life (regurgitation, a 
+common form of gastro-oesophageal reflux in infants). 
+
+To explore potential causal pathways, three logistic regression 
+models were developed with increasing complexity. First, a 
+simple model, adjusted only for age, sex and ethnic group 
+(tables 2 and 3; base model). Secondly, a model that was 
+adjusted for all environmental and socioeconomic factors 
+(table 2; partially adjusted model I), and a model that was 
+adjusted for other clinical and biological features (table 3; 
+partially adjusted model II). Thirdly, a model adjusting for 
+environmental, social and clinical conditions simultaneously 
+(tables 2 and 3; fully adjusted model). All variables associated 
+with prevalence of HS (p,0.05) in one model were included in 
+the next modelling step, except when the information 
+contained in two or more variables was so similar (co-linear) 
+that only one could be taken into the next modelling step. This 
+was, for instance, the case for paternal and maternal education, 
+current maternal smoking and smoking during pregnancy, and 
+Townsend score and household size (crowding). Results are 
+presented as odds ratios (OR) with 95% confidence intervals 
+(CI). Based on literature and previous findings [28], the current 
+authors hypothesised that risk factors might differ between 
+ethnic groups (South Asians/Whites), between young males 
+and young females, and between age groups (1-yr-olds/2–5yr-
+olds). Therefore, stratified analyses were performed and 
+evidence for heterogeneity between groups was tested for 
+using interaction terms. Because South Asian children and 1yr-
+olds had been over-sampled weighted, analyses were also 
+performed, which accounted for the sampling scheme. As the 
+results were similar to the main analysis, unweighted results 
+are reported for simplicity. 
+
+The population-attributable risk fraction, or proportion of HS 
+that could be prevented if the associations were causal and the 
+risk factors were eliminated completely from the population, 
+was calculated from the logistic regression framework by using 
+the aflogit command in STATA [29], which allows confounders 
+to be taken into account. 
+
+RESULTS 
+
+The overall response rate was 80% (6,811 out of the 8,500 
+families with a valid address), and was higher in White (4,986 
+(84%)) than in South Asian (1,825 (72%)) families, corresponding 
+to 16 and 29% of White and South Asian children aged 1– 
+5 yrs living in Leicestershire (UK) at the time. In total, 69 (1%) c 
+
+
+EUROPEAN RESPIRATORY JOURNAL VOLUME 31 NUMBER 2 
+
+327 
+
+
+SNORING IN PRESCHOOL CHILDREN C.E. KUEHNI ET AL. 
+
+TABLE 1 Reported frequency of snoring in the previous 12 months in children aged 1–4 yrs, by age, sex, ethnicity and selected 
+covariates# 
+Reported frequency of snoring 
+
+Never Only with colds Sometimes without colds Almost always 
+Total 
+Age yrs 
+1 
+2 
+3 
+4 
+Sex 
+Female 
+Male 
+Ethnicity 
+White 
+South Asian 
+Parental smoking 
+None 
+One parent 
+Both parents 
+Townsend score 
+Low deprivation 
+Medium deprivation 
+High deprivation 
+2714 (40.3) 39.1–41.4 
+1719 (40.9) 39.4–42.3 
+319 (39.5) 36.1–42.9 
+331 (38.5) 35.2–41.7 
+345 (39.8) 36.5–43.1 
+1387 (43.0) 41.3–44.7 
+1327 (37.7) 36.1–39.3 
+1907 (38.6) 37.3–40.0 
+807 (44.7) 42.4–47.0 
+1878 (43.0) 41.5–44.5 
+621 (36.3) 34.0–38.6 
+215 (32.4) 28.8–35.9 
+1020 (41.4) 39.4–43.3 
+894 (39.5) 37.5–41.5 
+750 (39.5) 37.3–41.7 
+1862 (27.6) 26.6–28.7 
+1259 (29.9) 28.5–31.3 
+225 (27.9) 24.7–30.9 
+198 (23.0) 20.2–25.8 
+180 (20.8) 18.1–23.5 
+897 (27.8) 26.3–29.4 
+965 (27.5) 26.0–28.9 
+1390 (28.2) 26.9–29.4 
+472 (26.2) 24.1–28.2 
+1209 (27.7) 26.4–29.0 
+471 (27.5) 25.4–29.6 
+182 (27.4) 24.0–30.8 
+715 (29.0) 27.2–30.8 
+647 (28.6) 26.7–30.5 
+469 (24.7) 22.8–26.7 
+1635 (24.2) 23.2–25.3 
+953 (22.7) 21.4–23.9 
+208 (25.7) 22.7–28.8 
+245 (28.5) 25.5–31.5 
+229 (26.4) 23.5–29.3 
+708 (22.0) 20.5–23.4 
+927 (26.4) 24.9–27.8 
+1229 (24.9) 23.7–26.1 
+406 (22.5) 20.6–24.4 
+990 (22.7) 21.4–23.9 
+461 (26.9) 24.8–29.0 
+184 (27.7) 24.3–31.1 
+572 (23.2) 21.5–24.9 
+546 (24.1) 22.4–25.9 
+487 (25.7) 23.7–27.6) 
+531 (7.9) 7.2–8.5 
+276 (6.6) 5.8–7.3 
+56 (6.9) 5.2–8.7 
+86 (10.0) 8.0–12.0 
+113 (13.0) 10.8–15.3 
+234 (7.3) 6.4–8.1 
+297 (8.5) 7.5–9.4 
+412 (8.3) 7.6–9.1 
+119 (6.6) 5.4–7.7 
+290 (6.6) 5.9–7.4 
+158 (9.2) 7.9–10.6 
+83 (12.5) 10.0–15.0 
+159 (6.5) 5.5–7.4 
+175 (7.7) 6.6–8.8 
+191 (10.1) 8.7–11.4 
+
+Data are presented as n (%) or 95% confidence interval. #:n56,742. 
+
+children with missing information on frequency of snoring 
+were excluded from further analyses, leaving 6,742 children. 
+
+Prevalence and severity of all categories of snoring 
+
+In total, parents of 4,028 (59.7%) children reported that their 
+child had snored in the previous 12 months; including 1,862 
+(27.6%) children snoring only with colds, 1,635 (24.2%) snoring 
+sometimes apart from colds, and 531 (7.9%) snoring almost 
+always (HS). HS was more common in young males, White 
+children and 2–4-yr-olds compared with younger children 
+(table 1; online supplementary tables E1A and E1B). This was 
+similar for snoring sometimes without colds, while snoring 
+only with colds was reported more often for younger children, 
+with no sex difference. For 44 children, an operation to remove 
+adenoids and/or tonsils was reported (none of the 1-yr-olds, 
+and 4 (0.5%), 13 (1.5%) and 27 (3.0%) of children aged 2, 3 and 
+4 yrs, respectively). Moderate or severe sleep disturbance due 
+to snoring was reported most often for HS (60 (11.3%) out of 
+530 of all HS), while mild sleep disturbance was reported more 
+often for children snoring only with colds (fig. 1). In total, 
+parents of 60 (0.9%) children reported HS with moderate or 
+severe sleep disturbance. Otitis media in the past 12 months 
+was reported by 34.6% of nonsnorers, 42.2% of children 
+snoring only with colds, 48.1% of children snoring sometimes 
+without colds and 52.5% of HS (p,0.001). For recurrent otitis 
+media, these figures were 13.4, 17.0, 21.3 and 27.3%, respectively 
+(p,0.001). 
+
+Association between HS and environmental and 
+socioeconomic factors 
+
+Adjusting only for age, sex and ethnic group (base model), HS 
+was reported more often in children exposed to air pollutants 
+(environmental tobacco smoke, reported road traffic, absence 
+of central heating and of electric cooking; table 2). In the fully 
+adjusted model, only the effect of parental smoking remained 
+significant with OR for HS of 1.43 if one and 2.06 if both 
+parents smoked. The association was stronger in 1-yr-olds than 
+in older children (OR 2.10 and 3.14 in 1-yr-olds, and 1.22 and 
+
+1.47 in 2–4-yr-olds for one and two smokers respectively; p for 
+interaction50.010). Maternal smoking during pregnancy was 
+also strongly associated with HS (OR (95% CI) in base model 
+2.10 (1.66–2.67); p,0.001). As the same females smoked during 
+pregnancy and at the time of the survey, it was not possible to 
+distinguish the effects of pre-natal and current smoke 
+exposure, and only one variable chosen for current smoking 
+could be included in the adjusted models. A longer duration of 
+breastfeeding was associated with a lower prevalence of 
+snoring (OR in base model: 0.73 (0.57–0.95)), but the association 
+disappeared after adjustment for parental smoking and was 
+not age dependent. 
+HS was reported more often for children from disadvantaged 
+families, with a single parent, overcrowded households or 
+low paternal or maternal education. The area-based deprivation 
+measure (Townsend score) was associated with HS in 
+White, but not in South Asian preschool children (p for 
+
+VOLUME 31 NUMBER 2 EUROPEAN RESPIRATORY JOURNAL 
+
+
+C.E. KUEHNI ET AL. SNORING IN PRESCHOOL CHILDREN 
+TABLE 2 Environmental and socioeconomic factors associated with habitual snoring in the previous 12 months# 
+Base model "Partially adjusted model I+Fully adjusted model1OR (95% CI) p-valuee OR (95% CI) p-valuee OR 95% CI p-valuee 
+Environmental factors 
+Parental smoking 
+One parent versus none 1.66 (1.34–2.06) 1.46 (1.17–1.83) 1.43 (1.13–1.82) 
+Both parents versus none 2.43 (1.82–3.25) ,0.001 2.09 (1.53–2.84) ,0.001 2.06 (1.48–2.87) ,0.001 
+Exposure to road traffic 1.38 (1.14–1.68) 0.001 1.23 (1.00–1.50) 0.048 
+No electric cooking 1.22 (0.99–1.50) 0.065 
+No central heating 1.50 (1.09–2.05) 0.012 
+Breast feeding .6 months 0.73 (0.57–0.95) 0.019 
+Socioeconomic factors 
+Single parent 1.97 (1.46–2.66) ,0.001 1.60 (1.16–2.22) 0.004 1.41 (0.99–2.00) 0.058 
+Poor maternal education## 1.29 (1.07–1.56) 0.009 
+Poor paternal education## 1.39 (1.13–1.70) 0.002 
+Townsend score tertiles 
+Whites 
+Medium deprivation versus low 1.38 (1.07–1.79) 1.25 (0.96–1.62) 1.29 (0.98–1.71) 
+High deprivation versus low 2.78 (2.11–3.66) ,0.001 2.03 (1.51–2.73) ,0.001 1.69 (1.23–2.33) 0.005 
+South Asians 
+Medium deprivation versus low 0.94 (0.52–1.71) 0.87 (0.48–1.58) 1.01 (0.54–1.89) 
+High deprivation versus low 0.86 (0.49–1.50) 0.838 0.73 (0.42–1.29) 0.502 0.92 (0.51–1.65) 0.907 
+OR: odds ratio; CI: confidence interval. #:n53,245; ": adjusted for age, sex and ethnic group; +: adjusted for age, sex, ethnic group and all environmental and 
+socioeconomic factors; 1: adjusted for age, sex, ethnic group and all environmental and socioeconomic factors and clinical features simultaneously; e: refer to Wald test 
+for the whole variable included in the model; ##: completed full-time education aged f16 yrs. 
+interaction ,0.001). Adjusting simultaneously for environmental 
+exposures and socioeconomic factors, parental smoking, 
+traffic exposure, single parenthood and Townsend score in 
+whites remained independent predictors of HS (table 2; 
+partially adjusted model I). When adjusting additionally for 
+clinical features (table 2; fully adjusted model) the strength of 
+the association (OR) between snoring and environmental 
+exposures decreased, but did not disappear. When children 
+with current wheeze or asthma were excluded from the 
+analysis, the associations with environmental factors were 
+similar to the model including all children (data not shown). 
+
+Using a statistical approach that allowed multiple risk factors 
+to be taken into account [29], a total of 33.4% of HS could be 
+attributed to air pollutants (20% to parental smoking, 15% to 
+exposure to road traffic and 3% to lack of central heating). 
+
+These analyses were repeated for the less severe categories of 
+snoring. Snoring sometimes without colds was associated, 
+although less strongly, with the same environmental exposures 
+as HS (online supplementary table E2A). Snoring only with 
+colds was only weakly associated with current parental 
+smoking and reported road traffic, but not with the other 
+exposures (online supplementary table E2B). 
+
+Association between HS and clinical and biological 
+features 
+
+Habitual snoring was strongly associated with a large number 
+of clinical conditions. This included conditions potentially 
+related to atopy, such as maternal history of asthma and a 
+
+personal history of wheeze, eczema, chronic night cough and 
+chronic rhinitis. However, snoring was also independently 
+associated with symptoms related to viral infection, such as 
+frequency of colds and otitis media, and with posseting 
+(regurgitation) in the first year of life (table 3; base model 
+and partially adjusted model II). These associations remained 
+essentially unchanged after additional adjustment for environmental 
+exposures and socioeconomic factors, suggesting that 
+they were not explained by confounding with exposures, such 
+as parental smoking, that increase the risk for both snoring and 
+other respiratory conditions (table 3; fully adjusted model). 
+
+BMI was not associated with HS, either when analysed as a 
+continuous variable (OR 1.03 (95% CI 0.95–1.12); by SDS 
+p50.42) or as a categorical variable [27] (table 3; base model). 
+Similarly, no association was found between HS and ponderal 
+index at the time of the study (p50.46 when analysed as a 
+continuous variable, p50.57 when analysed as tertiles), or birth 
+weight (p50.93 and p50.88, respectively, when analysed as a 
+continuous or categorical variable). 
+
+These analyses were repeated comparing the milder categories 
+of snorers with nonsnorers. For children snoring sometimes 
+apart form colds (online supplementary table E3A) the results 
+were very similar to those with HS. For children snoring only 
+with colds (online supplementary table E3B) the associations 
+with other respiratory symptoms and posseting were similar to 
+those for more severe snoring, while the association with 
+atopic disorders was less consistent. 
+
+EUROPEAN RESPIRATORY JOURNAL VOLUME 31 NUMBER 2 
+
+329 
+
+
+SNORING IN PRESCHOOL CHILDREN C.E. KUEHNI ET AL. 
+
+TABLE 3 
+Clinical and biological features associated with habitual snoring in the previous 12 months# 
+
+Base model Partially adjusted model II Fully adjusted model 
+OR (95% CI) p-value1 
+OR (95% CI) p-value1 
+OR (95% CI) p-value1 
+
+
+Demographic variables 
+Male sex 1.33 (1.10–1.61) 0.003 1.25 (1.02–1.52) 0.033 1.27 (1.03–1.55) 0.025 
+Age o2 yrs 1.74 (1.43–2.10) ,0.001 1.94 (1.57–2.40) ,0.001 2.01 (1.62–2.49) ,0.001 
+South Asian ethnicity 0.61 (0.49–0.77) ,0.001 0.70 (0.55–0.89) 0.004 1.00 (0.57–1.72) 0.985 
+Atopic disorders 
+Attacks of wheeze " 
+1–10 versus none 2.52 (2.04–3.11) 1.48 (1.17–1.87) 1.36 (1.07–1.73) 
+Attacks of wheeze " 
+.10 versus none 9.70 (5.80–16.16) ,0.001 3.27 (1.85–5.79) ,0.001 2.61 (1.45–4.70) 0.001 
+Eczema ever 1.67 (1.38–2.02) ,0.001 1.20 (0.98–1.48) 0.082 1.25 (1.01–1.54) 0.039 
+Maternal history of wheeze or asthma 1.99 (1.59–2.49) ,0.001 1.37 (1.07–1.75) 0.012 1.33 (1.03–1.71) 0.027 
+Other respiratory symptoms 
+Cough at night " 
+3.32 (2.72–4.05) ,0.001 1.85 (1.48–2.31) ,0.001 1.79 (1.43–2.26) ,0.001 
+Frequency of colds " 
+4–6 versus ,4 2.15 (1.72–2.68) 1.46 (1.15–1.85) 1.56 (1.22–1.98) 
+Frequency of colds o7 versus ,4 4.19 (3.26–5.37) ,0.001 1.83 (1.37–2.44) ,0.001 1.94 (1.44–2.61) ,0.001 
+Chronic rhinitis " 
+2.98 (2.46–3.62) ,0.001 1.85 (1.49–2.29) ,0.001 1.73 (1.39–2.15) ,0.001 
+Otitis media " 
+1 episode versus none 1.60 (1.27–2.02) 1.38 (1.08–1.76) 1.42 (1.10–1.82) 
+Otitis media .1 episode versus none 2.70 (2.14–3.43) ,0.001 1.65 (1.27–2.14) ,0.001 1.69 (1.29–2.20) ,0.001 
+Body mass index 
+Underweight versus normal 0.86 (0.51–1.44) 
+Overweight versus normal 1.16 (0.88–1.52) 
+Obese versus normal 1.03 (0.64–1.68) 0.663 
+Posseting+ 
+during first year of life 
+A little versus none 1.72 (1.36–2.19) 1.43 (1.11–1.85) 1.43 (1.11–1.85) 
+Alot versus none 2.80 (2.08–3.77) ,0.001 1.68 (1.22–2.32) 0.003 1.65 (1.19–2.30) 0.005 
+
+OR: odds ratio; CI: confidence interval. #:n53,245; " 
+: adjusted for age, sex and ethnic group; +: adjusted for age, sex, ethnic group and all environmental and 
+socioeconomic factors; 1: adjusted for age, sex and ethnic group and all enviromental and socioeconomic factors and clinical features simultaneously. 
+
+
+
+. 
+. 
+
+	
+. 
+
+. 
+	. 
+
+
+FIGURE 1. Prevalence of reported sleep disturbance associated with snoring 
+in the previous 12 months by frequency of snoring. The number of subjects in each 
+category were as follows: only with colds, n51,851; sometimes without colds, 
+n51,633; almost always, n5530. h: no reported sleep disturbance; &: mild 
+reported sleep disturbance; &: moderate/severe reported sleep disturbance. The 
+reason for discrepancy between the number of subjects compared with table 3 is 
+due to the fact that 14 children did not respond to the question on sleep 
+disturbance. 
+
+	
+		
+	
+. 
+
+
+
+Sensitivity analyses 
+
+The associations with environmental exposures and clinical 
+features were similar for young females and young males, and 
+for White and South Asian children (all p-values for interaction 
+terms .0.01) Similarly, a weighted analysis adjusting for over 
+sampling of young children and those of South Asian origin 
+gave similar results to the main analysis. 
+
+DISCUSSION 
+
+In this large representative survey, 60% of preschool children 
+were reported to have snored in the previous year, 8% were 
+HSs and 11% of these (almost 1% of the cohort) were HSs with 
+significant sleep disturbance, a group at risk of long-term 
+neurobehavioural problems [3–5]. Assuming a causal association, 
+approximately one-third of cases with HS might be 
+attributable to avoidable environmental exposures (parental 
+smoking and traffic exposure). Snoring was associated both 
+with clinical features of atopic disease and with symptoms 
+caused by viral infections. 
+
+Methodological issues 
+
+This cross-sectional survey is the largest community-based 
+study of snoring in children ,5 yrs of age and the only one 
+covering the age range 1–4 yrs. Most other publications focused 
+on 3–5-yr-olds and included only a few hundred subjects [9–12]. 
+The present authors studied a community-based sample of 
+
+VOLUME 31 NUMBER 2 EUROPEAN RESPIRATORY JOURNAL 
+
+
+C.E. KUEHNI ET AL. SNORING IN PRESCHOOL CHILDREN 
+$			. 
+,(	. 
+-		. 
+
+
+#
+
+
+
+
+	
+#	
+$		
+%
+&		'(		)		'
+(		
+	
+*
+	
+*	
+
+
+	
+	
+++
+*
+
+
+
++
++
++
+		
+++
+FIGURE 2. Schematic illustration of the suggested causal pathways which lead to chronic snoring in young children. ++: high contribution; +: moderate contribution. 
+
+children, had a good response rate and included South Asians, 
+the largest ethnic minority group in the UK. Therefore, the 
+results should be representative of UK toddlers. A large number 
+of environmental exposures, socioeconomic factors and clinical 
+features were assessed. 
+
+A limitation shared with other community-based surveys is 
+the lack of objective outcomes. In this cohort, the present 
+authors assessed whether the families understood the different 
+respiratory symptoms listed in the questionnaire and, although 
+it was found that some parents confused wheeze with rattly 
+breathing or cough, snoring was clearly distinguished both by 
+White and South Asian parents [24]. Moreover, a recent study 
+showed that parental reports of frequent snoring were highly 
+sensitive and specific when compared with overnight polysomnography 
+[2]. Although the latter remains the ‘‘gold 
+standard’’ for the diagnosis of obstructive sleep apnoea 
+syndrome and SDB [1] it is clearly impractical for a large 
+population survey, as are methods such as overnight pulse 
+oximetry, audio and videotaping. Several recent studies have 
+shown strong associations between reported habitual snoring 
+in children and adults and adverse behavioural and academic 
+outcomes, even in the absence of intermittent hypoxia [1, 4, 5, 
+30]. This may be due to increased sleep fragmentation. 
+Considering all this, the current authors believe that parent-
+reported HS can be used as a simple indicator of clinically 
+relevant disease. 
+
+Prevalence of snoring in preschool children 
+
+As assessment of snoring by questionnaire has not been 
+standardised, differences in reported prevalence between 
+studies are unavoidable. In common with other surveys [6, 7] 
+a question on snoring frequency in the past 12 months was 
+used, with the answer categories: never; only with colds; 
+sometimes apart from colds; and almost always. Other studies 
+asked if snoring occurred ‘‘never’’, ‘‘rarely’’, ‘‘frequently’’ or 
+‘‘always’’, without differentiating between snoring with or 
+without colds. In spite of the differences in wording, the 
+prevalence of HS in the current study (7% in 1-yr-olds, 
+increasing to 13% in 4-yr-olds) was comparable to data from 
+4–5-yr-olds in the UK (12%) [10], from 2–5-yr-olds in Australia 
+(11%) [12], and from schoolchildren (5–10%) [6, 7, 9, 31]. The 
+
+schoolchildren (35–64%) [6, 7, 9, 31]. An increasing prevalence 
+of HS from 1–4-yr-olds has not previously been reported and 
+might be due to age-dependent increments in adenoid size, 
+which peak at 7–10 yrs of age [32]. In adults, the prevalence of 
+HS is higher in males. For children, published data are less 
+consistent, with some studies reporting a sex difference [7, 14– 
+16, 18] and others none [6, 8, 11]. The present authors found a 
+slightly higher prevalence in young males (OR 1.33). 
+
+Studies from the USA report an increased prevalence in 
+African-Americans compared with Whites [17, 19]. In the 
+current study, South Asian children, the largest ethnic minority 
+group in the UK, had a lower crude prevalence. This difference 
+remained after adjusting for other clinical conditions, (table 3; 
+partially adjusted model II) but disappeared after adjustment 
+for differences in parental smoking and socioeconomic factors 
+(table 3; fully adjusted model). This suggests that the differences 
+in prevalence between ethnic groups might be caused by 
+differences in environmental exposures rather than biological 
+factors. 
+
+Association with environmental exposures and 
+socioeconomic factors 
+
+An association between snoring and passive smoking has been 
+demonstrated for adults [33] and children [7, 18], sometimes 
+disappearing after adjustment for social class [17]. The current 
+authors confirmed a strong and dose-dependent effect of 
+parental smoking (both versus one smoking parent) on 
+frequency of snoring even after adjustment for socioeconomic 
+factors. This dose–response relationship and the fact that the 
+association was stronger in younger children who spend more 
+time at home and who might be more vulnerable support a 
+causal association. The present analysis suggests that approximately 
+one in five cases of HS could be avoided if parents did 
+not smoke. Because of the close correlation between pre-natal 
+and post-natal smoke exposures it was not possible to 
+distinguish their effects. 
+
+HS was also more common in households that had no central 
+heating, used gas for cooking and were exposed to greater road 
+traffic. These are new findings. Although the authors found 
+that some of these effects disappeared after adjustment for the 
+Townsend score, this might be an over-adjustment because 
+
+total prevalence of snoring in the current sample (60%) was area-based deprivation scores are closely associated with 
+similar to data from preschool children (70%) [10] and housing conditions and air pollution. The increased prevalence 
+
+EUROPEAN RESPIRATORY JOURNAL VOLUME 31 NUMBER 2 
+
+331 
+
+
+SNORING IN PRESCHOOL CHILDREN 
+
+of snoring in children from disadvantaged families was only 
+partially explained by a higher exposure to parental smoking 
+and air pollutants. Other unmeasured lifestyle variables, such 
+as nutrition, must also play a role. 
+
+Association with clinical features 
+
+A strong association was found between snoring and other 
+upper and lower respiratory symptoms. This was not only the 
+case for symptoms associated with atopy (wheeze, eczema, 
+maternal asthma), which has been reported by others [6, 12, 18, 
+34], but also for symptoms that are usually associated with 
+infection (frequent colds, otitis media). 
+
+Therefore, it was hypothesised that, as in other airway 
+disorders, snoring might result from an interaction between 
+underlying host predisposition, various intrinsic mechanisms 
+and external triggers, which together lead to a similar endpoint. 
+The present authors propose a tentative model (fig. 2), 
+which will be revised as further evidence accumulates. Chronic 
+snoring in children might arise via several inflammatory 
+pathways which independently affect upper airway resistance 
+or compliance. For some mechanisms, such as atopy, there is a 
+simple explanation for the association between upper and 
+lower airway vulnerability. Increased susceptibility to viral 
+respiratory infection may be another. A hypothetical mechanism 
+for such susceptibility has been proposed [35]. GOLDBART et 
+al. [35] provide evidence that early exposure to respiratory 
+syncytial virus might induce neuro-immunomodulatory 
+changes within adenotonsillar tissue, predisposing to an 
+accelerated proliferative response and, hence, enlargement 
+when exposed to other stimuli such as viruses or allergens. 
+
+An association between HS and gastro-oesophageal reflux has 
+been reported for adults [36]. For children, an association with 
+posseting is a new finding. This physiological form of gastrooesophageal 
+reflux is largely confined to the first year of life, 
+and cannot therefore be directly related to snoring later in 
+childhood. However, it may be speculated that intermittent 
+contact with gastric juices leads to chronic pharyngeal 
+inflammation, possibly predisposing to snoring by altered 
+compliance or calibre of the upper airways. 
+
+No association was found between snoring and overweight or 
+obesity, whether assessed by BMI or ponderal index. This is 
+unlikely to be due to lack of statistical power. However, there 
+are data suggesting that the association between obesity and 
+snoring might change with age [20] and that BMI might play a 
+minor role in the aetiology of snoring in preschool children, in 
+contrast to adolescence and adulthood [12, 17, 18]. In young 
+children, with relatively noncollapsible upper airways, obesity 
+per se might not elicit the noise of snoring. 
+
+Conclusions 
+
+In total, it was found that 60% of preschool children had 
+snored during the past 12 months, with 8% snoring habitually 
+and nearly 1% reporting habitual snoring with sleep disturbance, 
+the latter representing children at risk of adverse 
+consequences. Risk factors for habitual snoring in this age 
+group were exposure to parental smoking, other air pollutants 
+and socioeconomic deprivation, but not overweight. The 
+strong association with a number of other upper and lower 
+respiratory symptoms, both those associated with atopy and 
+
+C.E. KUEHNI ET AL. 
+those associated with viral infection, suggests common pathways, 
+such as increased host susceptibility in the respiratory 
+tract. 
+
+ACKNOWLEDGEMENTS 
+
+The authors would like to acknowledge the work of S.R. Leiva 
+de la Ros, who contributed significantly to the literature search, 
+data analysis and writing of earlier versions of this manuscript, 
+and would have been second author. Because we were unable 
+to trace her address at the time of submission she could not be 
+officially credited as an author. The authors would like to 
+thank the parents of all the Leicestershire children who were 
+involved for completing the questionnaires, and T. Davis 
+(Specialist Community, Child Health Services, Leicester City 
+West Primary Care Trust, Leicester, UK) for assistance with the 
+Leicestershire Child Health Database. 
+
+REFERENCES 
+
+1 
+Schechter MS. Technical report: diagnosis and management 
+of childhood obstructive sleep apnoea syndrome. 
+Paediatrics 2002; 109: e69. 
+
+2 
+Montgomery-Downs HE, O’Brien LM, Holbrook CR, 
+Gozal D. Snoring and sleep-disordered breathing in young 
+children: subjective and objective correlates. Sleep 2004; 27: 
+87–94. 
+
+3 
+O’Brien LM, Mervis CB, Holbrook CR, et al. 
+Neurobehavioural implications of habitual snoring in 
+children. Paediatrics 2004; 114: 44–49. 
+
+4 
+Urschitz MS, Eitner S, Guenther A, et al. Habitual snoring, 
+intermittent hypoxia, and impaired behaviour in primary 
+school children. Paediatrics 2004; 114: 1041–1048. 
+
+5 
+Urschitz MS, Guenther A, Eggebrecht E, et al. Snoring, 
+intermittent hypoxia and academic performance in primary 
+school children. Am J Respir Crit Care Med 2003; 168: 
+464–468. 
+
+6 
+Corbo GM, Fuciarelli F, Foresi A, De Benedetto F. Snoring 
+in children: association with respiratory symptoms and 
+passive smoking. BMJ 1989; 299: 1491–1494. 
+
+7 
+Corbo GM, Forastiere F, Agabiti N, et al. Snoring in 9-to 
+15-year-old children: risk factors and clinical relevance. 
+Paediatrics 2001; 108: 1149–1154. 
+
+8 
+Ferreira AM, Clemente V, Gozal D, et al. Snoring in Portuguese 
+primary school children. Paediatrics 2000; 106: e64. 
+
+9 
+Gottlieb DJ, Vezina RM, Chase C, et al. Symptoms of sleep-
+disordered breathing in 5-year-old children are associated 
+with sleepiness and problem behaviours. Paediatrics 2003; 
+
+112: 870–877. 
+10 
+Ali NJ, Pitson DJ, Stradling JR. Snoring, sleep disturbance, 
+and behaviour in 4–5 year olds. Arch Dis Child 1993; 68: 
+360–366. 
+
+11 
+Castronovo V, Zucconi M, Nosetti L, et al. Prevalence of 
+habitual snoring and sleep-disordered breathing in 
+preschool-aged children in an Italian community. J 
+Pediatr 2003; 142: 377–382. 
+
+12 
+Lu LR, Peat JK, Sullivan CE. Snoring in preschool children: 
+prevalence and association with nocturnal cough and 
+asthma. Chest 2003; 124: 587–593. 
+
+13 
+Owen GO, Canter RJ, Robinson A. Snoring, apnoea and 
+ENT symptoms in the paediatric community. Clin 
+Otolaryngol Allied Sci 1996; 21: 130–134. 
+
+VOLUME 31 NUMBER 2 
+EUROPEAN RESPIRATORY JOURNAL 
+
+
+C.E. KUEHNI ET AL. 
+14 
+Brunetti L, Rana S, Lospalluti ML, et al. Prevalence of 
+obstructive sleep apnoea syndrome in a cohort of 1,207 
+children of southern Italy. Chest 2001; 120: 1930–1935. 
+
+15 
+Kaditis AG, Finder J, Alexopoulos EI, et al. Sleep-
+disordered breathing in 3,680 Greek children. Pediatr 
+Pulmonol 2004; 37: 499–509. 
+
+16 
+Mitchell EA, Thompson JM. Snoring in the first year of life. 
+Acta Paediatr 2003; 92: 425–429. 
+
+17 
+Redline S, Tishler PV, Schluchter M, Aylor J, Clark K, 
+Graham G. Risk factors for sleep-disordered breathing in 
+children. Associations with obesity, race, and respiratory 
+problems. Am J Respir Crit Care Med 1999; 159: 1527–1532. 
+
+18 
+Chng SY, Goh DY, Wang XS, Tan TN, Ong NB. Snoring 
+and atopic disease: a strong association. Pediatr Pulmonol 
+2004; 38: 210–216. 
+
+19 
+Montgomery-Downs HE, Jones VF, Molfese VJ, Gozal D. 
+Snoring in preschoolers: associations with sleepiness, ethnicity, 
+and learning. Clin Pediatr (Phila) 2003; 42: 719–726. 
+
+20 
+Kaditis AG, Alexopoulos EI, Hatzi F, et al. Adiposity in 
+relation to age as predictor of severity of sleep apnoea in 
+children with snoring. Sleep Breath 2007; [Epub ahead of 
+print PMID: 17684780]. 
+
+21 
+Gozal D, Pope DW Jr. Snoring during early childhood and 
+academic performance at ages thirteen to fourteen years. 
+Paediatrics 2001; 107: 1394–1399. 
+
+22 
+Kuehni CE, Brooke AM, Strippoli M-PF, Spycher BD, 
+Davis A, Silverman M. Cohort profile: the Leicester 
+respiratory cohorts. Int J Epidemiol 2007; 36: 977–985. 
+
+23 
+Kuehni CE, Davis A, Brooke AM, Silverman M. Are all 
+wheezing disorders in very young (preschool) children 
+increasing in prevalence? Lancet 2001; 357: 1821–1825. 
+
+24 
+Michel G, Silverman M, Strippoli M-PF, et al. Parental 
+understanding of "wheeze" and its impact on asthma 
+estimates. Eur Respir J 2006; 28: 1124–1130. 
+
+25 
+Strippoli M-PF, Silverman M, Michel G, Kuehni CE. A 
+parent-completed respiratory questionnaire for one-year 
+olds: repeatability. Arch Dis Child 2007; 92: 861–865. 
+
+26 
+Cole TJ, Freeman JV, Preece MA. British 1990 growth 
+reference centiles for weight, height, body mass index and 
+
+SNORING IN PRESCHOOL CHILDREN 
+
+head circumference fitted by maximum penalized likelihood. 
+Stat Med 1998; 17: 407–429. 
+
+27 
+Cole TJ, Flegal KM, Nicholls D, Jackson AA. Body mass 
+index cut offs to define thinness in children and adolescents: 
+international survey. BMJ 2007; 335: 194. 
+
+28 
+Kuehni CE, Strippoli M-PF, Low N, Brooke AM, 
+Silverman M. Wheeze and asthma prevalence and related 
+health-service use in white and south Asian pre-school 
+children in the United Kingdom. Clin Exp Allergy 2007; 37: 
+1738–1746. 
+
+29 
+Brady AR. sbe21-Adjusted population attributable fractions 
+from logistic regressions. STB Reprints 1998; 7: 137–143. 
+
+30 
+Gottlieb DJ, Yao Q, Redline S, Ali T, Mahowald MW. Does 
+snoring predict sleepiness independently of apnoea and 
+hypopnoea frequency? Am J Respir Crit Care Med 2000; 162: 
+1512–1517. 
+
+31 
+Schlaud M, Urschitz MS, Urschitz-Duprat PM, Poets CF. 
+The German study on sleep-disordered breathing in 
+primary school children: epidemiological approach, 
+representativeness of study sample, and preliminary 
+screening results. Paediatr Perinat Epidemiol 2004; 18: 
+431–440. 
+
+32 
+Vogler RC, Ii FJ, Pilgram TK. Age-specific size of the 
+normal adenoid pad on magnetic resonance imaging. Clin 
+Otolaryngol 2000; 25: 392–395. 
+
+33 
+Franklin KA, Gislason T, Omenaas E, et al. The influence of 
+active and passive smoking on habitual snoring. Am J 
+Respir Crit Care Med 2004; 170: 799–803. 
+
+34 
+Sulit LG, Storfer-Isser A, Rosen CL, Kirchner HL, Redline S. 
+Associations of obesity, sleep-disordered breathing, and 
+wheezing in children. Am J Respir Crit Care Med 2005; 171: 
+659–664. 
+
+35 
+Goldbart AD, Mager E, Veling MC, et al. Neurotrophins 
+and tonsillar hypertrophy in children with obstructive 
+sleep apnoea. Pediatr Res 2007; 62: 489–494. 
+
+36 
+Janson C, Gislason T, De Backer W, et al. Daytime 
+sleepiness, snoring and gastro-oesophageal reflux amongst 
+young adults in three European countries. J Intern Med 
+1995; 237: 277–285. 
+
+EUROPEAN RESPIRATORY JOURNAL 
+VOLUME 31 NUMBER 2 
+
+

@@ -1,0 +1,589 @@
+Brazilian Journal of Medical and Biological Research (2000) 33: 515-519 
+
+ISSN 0100-879X 
+
+Comparison of AutoSet™ and 
+polysomnography for the detection 
+of apnea-hypopnea events 
+
+M.C. Bagnato1,2, L.E. Nery2, 
+1Departamento de Psicobiologia, and 2Disciplina de Pneumologia, 
+S.M.T. Moura1,2, 
+Universidade Federal de São Paulo, São Paulo, SP, Brasil 
+L.R.A. Bittencourt1,2 
+and S. Tufik1 
+Abstract 
+
+Correspondence 
+The use of the flow vs time relationship obtained with the nasal prong. 
+Key words 
+
+·
+
+M.C. Bagnato 
+of the AutoSet. (AS) system (diagnosis mode) has been proposed t. 
+Obstructive sleep apnea 
+Departamento de Psicobiologia, 
+
+·
+
+detect apneas and hypopneas in patients with reasonable nasal pa. 
+Polysomnography 
+
+UNIFESP 
+. 
+Computerized diagnostic
+
+tency. Our aim was to compare the accuracy of AS to that of . 
+
+
+Rua Napoleão de Barros, 925 
+
+system
+
+computerized polysomnographic (PSG) system. The study was con-
+
+04024-002 São Paulo, SP 
+
+ducted on 56 individuals (45 men) with clinical characteristics of
+
+Brasil 
+
+obstructive sleep apnea (OSA). Their mean (± SD) age was 44.6 ± 1. 
+
+
+E-mail: bagnato@psicobio.epm.br 
+years and their body mass index was 31.3 ± 7 kg/m2. Data wer. 
+submitted to parametric analysis to determine the agreement betwee. 
+
+
+Fax: +55-11-572-5092 
+
+Research supported by FAPESP, 
+
+methods and the intraclass correlation coefficient was calculated. Th. 
+
+
+CNPq, and AFIP. 
+
+Student. 
+t-test and Bland and Altman plots were also used. Twelv. 
+patients had an apnea-hypopnea index (AHI) <10 in bed and 20 ha. 
+values >40. The mean (± SD) AHIPSG index of 37.6 (28.8) wa. 
+Received February 4, 1998 significantly lower (P = 0.0003) than AHIAS (41.8 (25.3)), but ther. 
+
+
+Accepted February 8, 2000 
+was a high intraclass correlation coefficient (0.93), with 0.016 vari. 
+ance. For a threshold of AHI of 20, AS showed 73.0% accuracy, 97. 
+sensitivity and 60% specificity, with positive and negative predictiv. 
+values of 78% and 93%, respectively. Sensitivity, specificity an. 
+negative predictive values increased in parallel to the increase in AH. 
+threshold for detecting OSA. However, when the differences o. 
+AHIPSG-AS were plotted against their means, the limits of agreemen. 
+between the methods (95% of the differences) were +13 and -22. 
+showing the discrepancy between the AHI values obtained with PS. 
+and AS. Finally, cubic regression analysis was used to better predic. 
+the result of AHIPSG as a function of the method proposed, i.e., AHIAS. 
+We conclude that, despite these differences, AHI measured by AutoSet. 
+can be useful for the assessment of patients with high pre-test clinica. 
+probability of OSA, for whom standard PSG is not possible as a. 
+initial step in diagnosis. 
+
+
+
+Introduction 
+cardiovascular morbidity and mortality (2,3). 
+sleepiness and changes in daytime cognitiv. 
+
+
+Obstructive sleep apnea (OSA) affects 2. 
+functions (4,5). Consequently, the numbe. 
+
+
+4% of the middle-aged population (1). Thi. 
+of patients requiring an all-night polysomno. 
+
+
+condition is associated with an increase i. 
+graphic recording (PSG) is also high. How. 
+
+
+Braz J Med Biol Res 33(5) 2000 
+
+
+M.C. Bagnato et al. 
+ever, due to the relatively small number o. 
+sleep disorders laboratories and to the exces. 
+sive cost of PSG, alternative, less expensiv. 
+and simplified but reliable techniques ar. 
+needed for the diagnosis of the population o. 
+patients with suspected OSA. The AutoSet. 
+(AS) (ResCare Ltd., Sydney, Australia) i. 
+the recently introduced diagnostic mode (6. 
+8) allows an immediate analysis of flow/tim. 
+curves which permits the detection of ap. 
+neas, hypopneas and upper airway resis. 
+tance (9). This method is quite accessibl. 
+and requires only the application of prong. 
+to the nostrils and the use of a pulse oxymete. 
+on one finger. 
+
+
+Our aim was to compare the accuracy o. 
+AS for the diagnosis of OSA with that of . 
+computerized PSG system in 56 subject. 
+with clinical characteristics of OSA. 
+
+
+Material and Methods 
+
+Sixty-three patients were evaluated an. 
+seven were excluded due to technical prob. 
+lems: 5 patients with dislodgment of th. 
+nasal prongs from the nostrils at a specifi. 
+time during the night and 2 patients due t. 
+recording problems with the AS. Thus, 5. 
+patients (45 men and 11 women) with sus. 
+pected clinical OSA but without other asso. 
+ciated diseases were investigated in a pro. 
+spective study. The mean age (± SD) of th. 
+patients was 44.6 ± 12 years (range: 13 to 6. 
+years) and mean body mass index was 31.3 . 
+7 kg/m2 (range: 19 to 56 kg/m2). 
+
+
+All patients were submitted to full-nigh. 
+PSG using an Oxford Medilog SACTM Slee. 
+Analyzing Computer system (Oxford Instru. 
+ments plc, Oxford, UK) and the followin. 
+parameters were recorded: electroencepha. 
+logram (EEG), electro-oculograms, submen. 
+tal electromyogram, electrocardiogram, digi. 
+tal pulse oxymetry, oral and nasal airflow. 
+chest and abdominal movement, and bod. 
+position. All PSG respiratory events (wit. 
+the apnea-hypopnea index (AHI) considere. 
+for total time recorded) and sleep stagin. 
+
+
+data were manually scored according to th. 
+criteria of Rechtschaffen and Kales (10) b. 
+an experienced staff member. The criteri. 
+adopted to define respiratory events were a. 
+apneas characterized by absence of, or dro. 
+in, airflow higher than 80% in relation t. 
+basal values, associated or not with alter. 
+ations in chest and abdominal movement. 
+for more than 10 s; b) hypopneas, character. 
+ized by a drop in airflow between 50 an. 
+80% of basal values, for more than 10 s. 
+associated with an oxygen destruction o. 
+³4% or arousal, and c) AHI, characterize. 
+by the sum of apnea and hypopnea events. 
+total recording time (TRT). Traditionally. 
+the AHI is calculated as the ratio of apnea. 
+and hypopneas/total sleep time; however. 
+the AS just reports the AHI during TRT. 
+since it does not record the EEG. So, t. 
+compare this parameter in both systems (PS. 
+and AS) we just considered the AHI relate. 
+to TRT. Twelve patients presented with a. 
+AHI <10 and 20 with an AHI >40. Concur. 
+rently with classic PSG recordings, patient. 
+were also connected to the AS in the diag. 
+nostic mode, with a nasal prong carefull. 
+placed on the nostrils in parallel to a therma. 
+airflow from the Oxford System accordin. 
+to the method of Norman et al. (11). Anothe. 
+digital pulse oxymeter for the AS was in. 
+stalled on a different finger of the same han. 
+where the first oxymeter had been positioned. 
+
+
+The AS has two functional modes: diag. 
+nostic and treatment. In the diagnostic mode. 
+the AS pressure transducer evaluates th. 
+flow generated in the nostrils through stan. 
+dard nasal cannulae. The internal pressur. 
+transducer and the system software allow th. 
+estimation of airflow and of the flow/tim. 
+relationship (12). Snoring is qualitativel. 
+assessed by analyzing the flow signal afte. 
+band-pass filtering. Using a Biox 3700e ex. 
+ternal digital oxymeter (Ohmeda, Essex, UK). 
+nocturnal arterial oxygen saturation is meas. 
+ured and recorded simultaneously. The ap. 
+nea and hypopnea detector is triggered i. 
+there is a decrease in ventilation of 50% o. 
+
+
+Braz J Med Biol Res 33(5) 2000 
+
+
+AutoSet CPAP - diagnostic mode in OSA 
+
+more, averaged over any 10-s interval. Bot. 
+PSG and AS had their clocks synchronize. 
+and recordings were started simultaneousl. 
+for both devices. 
+
+
+Statistical analysis 
+
+The AHI values obtained by PSG and A. 
+were analyzed as follows: AHI values wer. 
+first analyzed descriptively to determine thei. 
+normality using the Skewness and Kurtosi. 
+tests. The paired Student t-test was the. 
+applied to compare the AHI results obtaine. 
+by the two methods. The intraclass correla. 
+tion coefficient (ICC) and its variance wer. 
+then calculated to determine the agreemen. 
+between methods. Agreement between AH. 
+obtained by PSG and by AS was also evalu. 
+ated using the Bland and Altman plots (13. 
+simply to show the trends and variability fo. 
+the two methods. Sensitivity, specificity, an. 
+the positive (PPV) and negative predictiv. 
+values (NPV) of data related to AS wer. 
+
+
+obtained independently for AHI threshold. 
+of 10, 20 and 40. Finally, regression analysi. 
+
+
+dency of AS to overscore AHI, which van. 
+ished when values of AHIPSG were highe. 
+than 60 (Figure 2). After these threshold. 
+(AHIPSG = 60), the mean values of AHIPS. 
+and AHIAS were 72.9 and 75.9, respectivel. 
+(P = 0.48) and the mean AHIPSG-AHIAS dif. 
+ference was 3.01 ± 9.5. The accuracy, sensi. 
+tivity, specificity and PPV and NPV of A. 
+for threshold values of 10, 20 and 40 ar. 
+presented in Table 1. Finally, regression a. 
+nalysis of AHIPSG values in relation to thos. 
+obtained by AHIAS showed that the bes. 
+function was a 3rd degree polynomial (cubi. 
+regression) (Y = 5.73482 - 0.19885 X . 
+0.0278 X2 - 0.000168 X3) with R = 0.92. 
+(Figure 1). 
+
+
+100 
+
+80 
+
+60 
+
+0 20406080 
+AHIAS
+
+
+AHIPSG 
+
+40 
+
+20 
+
+Figure 1 - Regression analysis 
+of the relationship of AHIPSG values 
+to those obtained by AHIAS. 
+AHI: Apnea-hypopnea index; 
+PSG: polysomnography; AS: 
+AutoSet™. 
+
+was used to predict the result of AHIPS. 
+
+
+0
+
+(gold standard) as a function of the propose. 
+AHIAS method, and the one that provided th. 
+best fit was chosen (Figure 1). 
+
+
+Y = 5.73482 - 0.19885 X + 0.0278 X2 - 0.000168 X3 
+
+Results 
+
+The ICC was 0.935, with 0.016 variance. 
+showing that it was estimated with very hig. 
+
+
+20 
+
+precision even though the mean AHI as. 
+sessed by PSG was 37.6, i.e., significantl. 
+
+
+10 
+
+lower than values assessed by AS (41.8; P . 
+
+
+DAHIPSG-AHIAS 
+-10 
++2 SD 
+-2 SD 
+0 20 40 60 80 100 
+
+
+Figure 2 - Differences (D) of AHI 
+(PSG-AS) plotted against the 
+mean for each patient. The solid 
+line represents the mean difference 
+and the dashed lines indicate 
+the limits of agreement (±2
+
+0.0003; Student t-test). Also by the Blan. 
+
+
+and Altman plots the mean difference be. 
+
+
+tween the AHI obtained by the two method. 
+
+
+(PSG and AS) was -4.2 ± 8.9, which, whe. 
+plotted against the means (AHIPSG + AHIAS. 
+
+
+SD). AHI: Apnea-hypopnea in
+
+
+0 
+
+dex; PSG: polysomnography; 
+AS: AutoSet™; SD: standard de
+
+
+viation. 
+
+2), demonstrated the discrepancy betwee. 
+-20 
+the AHI values calculated by the two meth. 
+ods. The limits of agreement (±2 SD) be. 
+-30 
+tween the two methods (95% of the differ. 
+
+
+Mean AHI
+
+ences) were +13 and -22. There was a ten. 
+
+
+Braz J Med Biol Res 33(5) 2000 
+
+
+M.C. Bagnato et al. 
+Table 1 - Accuracy, sensitivity, specificity, and positive 
+(PPV) and negative predictive values (NPV) of 
+AutoSet™ as compared to Oxford PSG in patients 
+suspected to have OSA. 
+
+AHI: Apnea-hypopnea index. 
+
+AHI threshold 10.0 20.0 40.0 
+
+Accuracy (%) 91.0 73.0 50.0 
+Sensitivity (%) 97.8 96.9 100.0 
+Specificity (%) 40.0 60.0 87.0 
+PPV (%) 88.0 78.0 85.0 
+NPV (%) 80.0 93.3 100.0 
+
+Discussion 
+
+Population awareness of OSA, especiall. 
+in developing countries, is unlikely. Thi. 
+problem is further compounded by the fac. 
+that in Brazil epidemiological data on snor. 
+ing and daytime sleepiness are limited (14). 
+Costs of performing traditional PSG record. 
+ings are high and public and most privat. 
+health insurance policies do not cover diag. 
+nostic and therapeutic procedures. This, de. 
+spite the cardiovascular risks (2,3) and th. 
+impaired daytime cognitive function, a rec. 
+ognized co-factor in the etiology of occupa. 
+tional and road traffic accidents (15). Th. 
+development of simpler and less expensiv. 
+diagnostic methods, particularly for typica. 
+cases, is urgently needed. History, physica. 
+examination, observation during sleep an. 
+pulse oxymetry yield limited diagnostic dat. 
+(16,17). AS is a simple, low-cost metho. 
+which does not demand complex technica. 
+expertise, allowing even home monitoring. 
+One limitation of AS for diagnosing OSA i. 
+in relation to patients with nasal diseases. 
+particularly those with mouth respiration a. 
+night. The high ICC with low variance show. 
+the high concordance between AHIPSG an. 
+AHIAS. However, despite these results, th. 
+Student. 
+t-test showed significantly lowe. 
+AHIPSG values than AHIAS values and a poo. 
+
+
+agreement between methods when AHIPS. 
+and ASAS where analyzed according to th. 
+Bland and Altman plot (13) (Figure 2). Th. 
+tendency of AS to overvalue AHI was re. 
+ported by us and by others (6-8), however. 
+these investigators assumed a linear rela. 
+tionship between AHI obtained by two sys. 
+tems. As observed in Figure 1, we describe. 
+an original data 3rd degree polynomial (cu. 
+bic regression) that best related AHI an. 
+
+
+The distribution of the differences o. 
+AHIPSG-AS vs their means (Figure 2) showe. 
+a tendency of AHIAS to overvalue AHIPSG u. 
+to an AHI value of 60. However, this ten. 
+dency disappeared with AHI >60, when ou. 
+patients presented with a typical picture o. 
+the syndrome. Also, as seen in Figure 1, w. 
+can reliably predict the AHI by using the A. 
+if a more sophisticated analysis is performed. 
+The sensitivity and specificity of AS (97. 
+and 40% for an AHI threshold of 10, respec. 
+tively) increased in parallel to the increase. 
+threshold of AHI (Table 1). This permit. 
+physicians to readily identify patients wit. 
+an AHI above 40, with greater sensitivit. 
+(100%) and specificity (87%) than for . 
+lower AHI threshold value. The NPV like. 
+wise tended to increase with the severity o. 
+the disturbance, thereby highlighting the rar. 
+ity of a negative test for a high AHI valu. 
+obtained by PSG. We conclude that AS ca. 
+be useful in the assessment of patients wit. 
+high pre-test clinical probability of OSA wh. 
+cannot be submitted to standard PSG as th. 
+first step toward diagnosis. 
+
+
+Acknowledgments 
+
+We are grateful to Prof. Clóvis de Araúj. 
+Peres and to the trainees Marcela Bussador. 
+and Regina Helena Russo, Department o. 
+Statistics, UNIFESP, for help with the statis. 
+tical analyses. 
+
+
+Braz J Med Biol Res 33(5) 2000 
+
+
+AutoSet CPAP - diagnostic mode in OSA 
+
+References 
+
+1. 
+Young T, Palta M, Dempsey J, Skatrud J, 
+Weber S & Badr S (1993). The occurrence 
+of sleep-disordered breathing among 
+middle-aged adults. New England Journal 
+of Medicine, 328: 1230-1235. 
+2. 
+Koskenvuo M, Kaprio J, Telakivi K, 
+Partinen M, Heikkila K & Sarna S (1987). 
+Snoring as risk factor in ischaemic heart 
+disease and stroke in men. British Medical 
+Journal, 294: 16-19. 
+3. Partinen M, Jamieson A & Guilleminault 
+C (1988). Long-term outcome for obstructive 
+sleep apnea syndrome patients. 
+Chest, 94: 1200-1204. 
+4. 
+Cheshire K, Engleman H, Deary I & Douglas 
+NJ (1992). Factors impairing daytime 
+performance in patients with the sleep 
+apnea/hypopnea syndrome. Archives of 
+Internal Medicine, 152: 538-541. 
+5. 
+Engleman HM, Martin SE, Deary IJ & 
+Douglas NJ (1994). Effects of continuous 
+positive airway pressure treatment on 
+daytime function in apnoea/hypopnoea 
+syndrome. Lancet, 343: 572-575. 
+6. 
+Fleury B, Rakotonanahary D, Hausser-
+Hauw C, Lebeau B & Guilleminault C 
+(1996). A laboratory validation study of 
+diagnostic mode of the AutoSet system 
+for sleep-related respiratory disorders. 
+Sleep, 19: 502-505. 
+
+7. 
+Kieky JL, Delahunty C, Matthews S & 
+McNicholas WT (1996). Comparison of a 
+limited computerized diagnostic system 
+(ResCare AutoSetTM) with polysomnography 
+in the diagnosis of obstructive sleep 
+apnoea syndrome. European Respiratory 
+Journal, 9: 2360-2364. 
+8. 
+Gugger M (1997). Comparison of ResMed 
+AutoSet (version 3.03) with polysomnography 
+in the diagnosis of the sleep apnoea/
+hypopnoea syndrome. European 
+Respiratory Journal, 10: 587-591. 
+9. 
+Guilleminault C, Sthoohs R, Klerk A, Cetal 
+M & Maistros P (1993). A cause of excessive 
+daytime sleepiness: the upper airways 
+resistance syndrome. Chest, 104: 
+781-787. 
+10. 
+Rechtschaffen A & Kales A (1968). A 
+Manual of Standardized Terminology, 
+Techniques and Scoring System for Sleep 
+Stages of Human Subjects. National Institute 
+of Neurological Disease and Blindness, 
+Bethesda, NIH publication No. 204. 
+11. 
+Norman RG, Ahmed MM, Walsleben JÁ 
+& Rapoport DM (1997). Detection of respiratory 
+events during NPSG: nasal can-
+nula/pressure sensor versus thermistor. 
+Sleep, 20: 1175-1184. 
+12. 
+Berthon-Jones M (1993). Feasibility of 
+self-setting CPAP machine. Sleep, 16: 
+S120-S123. 
+13. 
+Bland JM & Altman DG (1986). Statistical 
+methods for assessing agreement between 
+two methods of clinical measurement. 
+Lancet, I: 307-310. 
+14. 
+Bagnato MC, Moura SMT, Bittencourt 
+LRA, Tufik S & Nery LE (1996). Occurrence 
+and relationship between snoring 
+and daytime sleepiness in São Paulo city, 
+Brazil. Journal of Sleep Research, 5 (Suppl 
+1): 11 (Abstract). 
+15. 
+Findley LJ, Umversat ME & Surratt PM 
+(1988). Automobile accidents involving 
+patients with obstructive sleep apnea. American 
+Review of Respiratory Disease, 
+138: 337-340. 
+16. 
+Viner S, Szalai JP & Hoffstein V (1991). 
+Are history and physical examination a 
+good screening test for sleep apnea? Annals 
+of Internal Medicine, 115: 356-359. 
+17. 
+Haponik EF, Smith PL, Meyers DA & 
+Bleecker ER (1984). Evaluation of sleep-
+disordered breathing: is polysomnography 
+necessary? American Journal of Medicine, 
+77: 671-677. 
+Braz J Med Biol Res 33(5) 2000 
+
+

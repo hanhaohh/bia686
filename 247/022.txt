@@ -1,0 +1,632 @@
+Upper Airway Size Analysis by Magnetic Resonance 
+Imaging of Children with Obstructive Sleep 
+Apnea Syndrome 
+
+Raanan Arens, Joseph M. McDonough, Aaron M. Corbin, Nathania K. Rubin, Mary Ellen Carroll, Allan I. Pack, 
+Jianguo Liu, and Jayaram K. Udupa 
+
+Division of Pulmonary Medicine, Children’s Hospital of Philadelphia, and Division of Sleep Medicine and Department of Radiology, 
+Hospital of the University of Pennsylvania, University of Pennsylvania School of Medicine, Philadelphia, Pennsylvania 
+
+Detailed analysis of the upper airway has not been performed in 
+children with obstructive sleep apnea. We used magnetic resonance 
+imaging and automatic segmentation to delineate the upper airway 
+in 20 children with obstructive sleep apnea and in 20 control subjects 
+(age, 3.7 . 
+1.4 versus 3.9 . 
+1.7 years, respectively). We measured 
+mean and minimal cross-sectional area, length, and volume 
+of: (1 ) the total airway; (2) regions along the adenoid, tonsils, and 
+where adenoid and tonsils overlap; and (3) 10 segments at 10% 
+increments along the airway. The mean cross-sectional area of the 
+total airway of the obstructive sleep apnea group was significantly 
+smaller in comparison with the control group, 28.1 . 
+12.6 versus 
+
+47.1 . 
+18.2 mm2, respectively (p . 
+0.0005). Minimal cross-sectional 
+area and airway volume were smaller in this group, 4.6 . 
+3.3 versus 15.7 . 
+12.7 mm2 (p . 
+0.0005), and 1,129 . 
+515 versus 
+1,794 . 
+846 mm3 (p . 
+0.005), respectively. Regional analysis suggested 
+that the upper airway in children with obstructive sleep 
+apnea is most restricted where adenoid and tonsils overlap. Segmental 
+analysis demonstrated that the upper airway is restricted 
+throughout the initial two-thirds of its length and that the narrowing 
+is not in a discrete region adjacent to either the adenoid 
+or tonsils, but rather in a continuous fashion along both. 
+Keywords: magnetic resonance imaging; obstructive sleep apnea syndrome; 
+upper airway 
+
+Obstructive sleep apnea syndrome (OSAS) in children is a 
+common disorder and may affect as many as 2% of children 
+(1, 2). Both anatomic and physiologic factors affecting upper 
+airway size, shape, and function may play a role in the causation 
+of OSAS in children. Frequently, OSAS is associated 
+with adenotonsillar hyperplasia; however, abnormalities in 
+craniofacial anatomy, neuromotor tone, or airway compliance 
+should be considered as possible causes in children with 
+the disorder when no apparent adenotonsillar hyperplasia is 
+present. 
+
+Magnetic resonance imaging (MRI) allows visualization 
+and accurate measurement of the upper airway as well as of 
+the various soft tissues and skeleton comprising it (3–6). 
+Using MRI, we have previously shown that children with 
+OSAS and no apparent craniofacial or neurologic disorder 
+have decreased upper airway volume and increased adenoid 
+and tonsillar volume in comparison with control subjects (5). 
+
+(Received in original form June 26, 2002; accepted in final form October 4, 2002) 
+
+Supported by grants HL-62408 and MO1-RR00240 from the National Institutes 
+of Health. 
+
+Correspondence and requests for reprints should be addressed to Raanan Arens, 
+M.D., Division of Pulmonary Medicine, Children’s Hospital of Philadelphia, 34th 
+Street and Civic Center Blvd., Philadelphia, PA 19104-4399. E-mail: arens@email. 
+chop.edu 
+
+Am J Respir Crit Care Med Vol 167. pp 65–70, 2003 
+Originally Published in Press as DOI: 10.1164/rccm.200206-613OC on October 11, 2002 
+Internet address: www.atsjournals.org 
+
+The three-dimensional relationship between the upper airway, 
+adenoid, and tonsils has not been previously studied in 
+children with OSAS. The aim of the present study was to 
+characterize the differential contribution of the adenoid and 
+tonsils to airway restriction along the upper airway by determining 
+the cross-sectional airway area in planes orthogonal 
+to the upper airway axis. To this end, we used a new 
+methodology, developed on the basis of fuzzy connectedness-
+based automatic segmentation (7–9), that enabled us to visualize 
+and analyze the upper airway in a correct anatomic 
+orientation as it relates to airflow and further delineate the 
+upper airway changes that occur in children with OSAS. 
+
+METHODS 
+
+Subjects with OSAS 
+
+Twenty children were recruited from the pool of patients evaluated for 
+sleep-disordered breathing at the Children’s Hospital of Philadelphia 
+(Philadelphia, PA). After OSAS was confirmed by polysomnography, 
+parents provided consent for the sedation and upper airway MRI of 
+their child; children older than 6 years provided their own consent. The 
+study was approved by the Institutional Review Board. 
+
+Control Subjects 
+
+Twenty children with normal growth and development were matched 
+to subjects with OSAS by age, sex, ethnicity, weight, and height. Control 
+subjects were selected from among patients who underwent head MRI 
+at the Children’s Hospital of Philadelphia for other medical indications. 
+Exclusion criteria included the following: (1 ) likelihood of OSAS 
+(scores of 1 or more; assessed by a standard questionnaire [10]), (2 ) 
+evidence of a brain tumor or a seizure disorder requiring therapy, 
+
+(3 ) genetic disorders associated with any craniofacial anomaly, and 
+(4 ) chronic respiratory disease such as asthma or bronchopulmonary 
+dysplasia. 
+Overnight Polysomnography 
+
+For subjects with OSAS, polysomnography was performed 0–4 weeks 
+before MRI. Subjects were studied in the Sleep Disorders Center at 
+the Children’s Hospital of Philadelphia. Scoring of respiratory variables 
+was performed on the basis of standards set by the American Thoracic 
+Society and previously published data on children (11, 12). Flow was 
+measured with an oral/nasal thermistor and a nasal end-tidal Pco2 catheter. 
+We used the definition of obstructive apnea as absence of oral/ 
+nasal thermistor signal for at least two respiratory cycles associated 
+with out-of-phase movement of the rib cage and abdomen. Hypopnea 
+was defined as a decrease of 50% or more in oral/nasal thermistor 
+signal and a concurrent fall of 4% or more in basal oxygen saturation. 
+Sleep stages were determined by the criteria of Rechtschaffen and 
+Kales (13). 
+
+Sleep Questionnaire 
+
+A questionnaire regarding symptoms of sleep-disordered breathing 
+based on the questionnaire developed by Brouillette and coworkers 
+
+(10) was used to assess the likelihood of OSAS in control subjects and 
+subjects with OSAS. On the basis of the questionnaire, no subject with 
+a score less than 1 would be expected to have OSAS; a score between 
+
+66 AMERICAN JOURNAL OF RESPIRATORY AND CRITICAL CARE MEDICINE VOL 167 2003 
+
+1 and 3.5 is considered indeterminate, and a score greater than 3.5 
+is considered highly predictive of obstructive sleep apnea. 
+Magnetic Resonance Imaging 
+
+MRI studies were performed in the Department of Radiology at the 
+Children’s Hospital of Philadelphia. All studies were performed while 
+subjects were sedated. Sedation consisted of intravenous pentobarbital 
+(2-mg/kg increments) until sleep was achieved. A maximum of three 
+doses or 200 mg was administered. All subjects were monitored continuously 
+by pulse oximetry and were observed by an intensive care unit 
+attending physician until recovery (about 1 hour). 
+
+All MR images were obtained as part of a larger ongoing study 
+(unpublished data), using a comprehensive MR protocol. Images of 15 
+of the 40 subjects in this study (9 subjects with OSAS and 6 control 
+subjects) were used in a previous study (5), and were now processed 
+for the first time according to the new methodology (see below) to 
+further delineate airway anatomic characteristics. 
+
+MRI was performed with a 1.5-T Vision System (Siemens, Iselin, 
+NJ). Images were acquired with an anterior–posterior volume head 
+coil. The patient’s head was positioned supine in the soft tissue Frankfort 
+plane (tragus of the ear to orbital fissure) perpendicular to the 
+table. Sequential T2-weighted spin-echo axial sections were obtained, 
+spanning from the orbital cavity to the larynx. Mean acquisition time 
+was 2 minutes, spin-echo repetition time (TR) . 
+650 milliseconds, echo 
+time (TE) . 
+14 milliseconds, 192 . 
+256 matrix, slice thickness 3 mm 
+with distance factor 0, one acquisition, field of view (FOV) . 
+20 to 
+24 cm, rectangular FOV 6/8. 
+
+Image Processing and Anatomic Measurements 
+
+The MR images were transferred to a SUN workstation. Images were 
+processed and segmented automatically to compute the airway including 
+its surface description, centerline, and volume (Figure 1A), using 
+a software program we have developed utilizing fuzzy connectedness 
+segmentation (7–9) and based on 3DVIEWNIX (14). 
+
+Upper airway centerline. We computed a centerline through the 
+airway that passes through all points that are maximally distant from 
+the perimeter of the airway at sequential planes orthogonal to the 
+airway axis. The centerline was bounded by the upper nasopharynx 
+(defined as the posterior edge of the vomer) and the lower oropharynx 
+(defined as the most superior part of the epiglottis). Centerline length 
+was defined as the distance along the centerline between the two boundaries. 
+Airway regions adjacent to adenoid, tonsils, and the overlap 
+region between adenoid and tonsils were measured along the centerline. 
+Because the lower poles of the tonsils extend at times below the oropharynx, 
+measurement of the airway length, area, and volume adjacent 
+to the tonsils was performed along an extended airway centerline as 
+defined above. 
+
+Upper airway cross-sectional area measurements. Cross-sectional areas 
+at planes orthogonal to the centerline were computed every 0.2 mm 
+after interpolation, filtering, and thresholding of the original axial slices 
+(9). We measured the mean and minimal cross-sectional area of the 
+total airway; the mean cross-sectional area in regions adjacent to the 
+adenoid, adjacent to the overlap region between the adenoid and tonsils, 
+and adjacent to the tonsils; and the mean and minimal cross-sectional 
+area for 10 consecutive segments at 10% increments of the centerline. 
+
+Upper airway volume measurements. The total airway volume was 
+computed as the product of centerline length and mean cross-sectional 
+area. Similarly, regional airway volumes adjacent to the adenoid, adjacent 
+to the overlap region between the adenoid and tonsils, and adjacent 
+to the tonsils were computed as the product of mean airway cross-
+sectional areas along these regions and the corresponding centerline 
+lengths. Finally, volumes for 10 consecutive segments at 10% increments 
+of the centerline were computed. 
+
+Data Analysis 
+
+Mean and standard deviation were used to summarize continuous variables. 
+For comparisons between the groups for MRI data, demographics, 
+and questionnaire data, we used a two-tailed unpaired t test, the 
+Wilcoxon rank test, or the 2 test as appropriate. A p value of 0.05 or 
+less was considered to indicate statistical significance. 
+
+RESULTS 
+
+We studied 20 children with OSAS, mean age 3.7 . 
+1.4 years 
+(range, 1.9–7.9 years), and 20 matched control subjects, mean 
+age 3.9 . 
+1.7 years (range, 1.9–7.8 years). Children with OSAS 
+were not significantly different from control subjects with respect 
+to age, sex, ethnicity, height, or weight (Table 1). All control 
+subjects had normal development and cognitive function, intact 
+tonsils and adenoid, and no respiratory disorders or craniofacial 
+anomalies. The primary indications for head MRI of control 
+subjects were as follows: single seizure/febrile convulsion (10 
+subjects), migraine/headache (6 subjects), head concussion (2 
+subjects), limping (1 subject), and dizziness (1 subject). Thus, 
+none of these clinical indications would be expected to affect 
+upper airway anatomy. 
+
+Polysomnography 
+
+For subjects with OSAS the mean total sleep time during polysomnography 
+was 7.6 . 
+0.6 hours. The mean respiratory variables 
+values during this period were as follows: apnea index, 2.6 . 
+4.1; apnea/hypopnea index, 8.4 . 
+9.5; baseline peripheral oxygen 
+saturation (SpO2), 96 . 
+1%; SpO2 nadir, 85 . 
+7%. Thus, these 
+data suggest mild–moderate OSAS in this group. 
+
+Sleep Questionnaire 
+
+All control subjects had an apnea score of less than –1, indicating 
+unlikelihood of obstructive sleep apnea (10), and as a group had 
+a mean apnea score of 3.3 . 
+0.6. This score was significantly 
+lower than the apnea score noted in the OSAS group of 2.9 . 
+
+
+1.5 (p . 
+0.0005). 
+Magnetic Resonance Imaging 
+
+Representative three-dimensional display of the upper airway, 
+its centerline, and cross-sectional images orthogonal to the centerline 
+at levels of the adenoid, the region of overlap between 
+adenoid and tonsils, tonsils, and the superior portion of the 
+epiglottis of a control subject and a subject with OSAS are 
+presented in Figures 1 and 2, respectively. 
+
+Airway analysis. The mean cross-sectional area of the total 
+upper airway of the OSAS group was significantly smaller in 
+comparison with the control group, 28.1 . 
+12.6 versus 47.1 . 
+
+
+18.2 mm2 (p . 
+0.0005). Similarly, the minimal cross-sectional 
+area and upper airway volume were smaller in this group, 4.6 . 
+3.3 versus 15.7 . 
+12.7 mm2 (p . 
+0.0005) and 1,129 . 
+515 versus 
+1,794 . 
+846 mm3 (p . 
+0.005), respectively. The upper airway 
+centerline length was similar in subjects with OSAS and control 
+subjects, 40.2 . 
+5.8 versus 37.1 . 
+8.2 mm (p . 
+NS), respectively. 
+Regional analysis. Analysis of the airway along the adenoid, 
+the region of overlap between adenoid and tonsils, and tonsils 
+in subjects with OSAS and control subjects is shown in Table 2. 
+Accordingly, we noted a significantly smaller mean cross-sectional 
+area in subjects with OSAS in all three regions and significantly 
+smaller mean volume and a longer mean airway centerline 
+
+TABLE 1. DEMOGRAPHICS 
+
+Subjects with OSAS 
+(n . 
+20) 
+Control Subjects 
+(n . 
+20) 
+Age, yr 
+Sex, male/female 
+Ethnicity, black/white 
+Height, cm 
+Weight, kg 
+3.7 . 
+1.4 
+8/12 
+13/7 
+101 . 
+13 
+17.4 . 
+5.2 
+3.9 . 
+1.7 
+8/12 
+13/7 
+101 . 
+13 
+16.8 . 
+5.6 
+
+Definition of abbreviation: OSAS . 
+obstructive sleep apnea syndrome. 
+Values represent means . 
+SD. 
+
+
+Arens, McDonough, Corbin, et al.: Upper Airway Size Analysis 
+
+
+Figure 1. Left: three-dimensional display of an upper airway and its centerline in a control subject. Top right: gray-level two-dimensional scene of 
+the cross-section of the airway orthogonal to the centerline at marker locations: A . 
+adenoid; A . 
+T . 
+adenoid and tonsil overlap; T . 
+tonsils; 
+E . 
+epiglottis. Bottom right: plot of the cross-sectional area function. 
+
+in regions adjacent to the adenoid and where adenoid and tonsils noted in subjects with OSAS in the upper 60–70% of the upper 
+overlap, but not in the region adjacent to the tonsils. The smallest airway, whereas in the lower regions of the upper airway, these 
+mean cross-sectional area and volume were noted for both OSAS parameters were similar in both groups. 
+and control subject groups in the airway region where adenoid 
+and tonsils overlap. 
+
+DISCUSSION 
+
+Segmental analysis. Airway length is dependent on height 
+and age. To normalize our measurements along the upper airway We used MRI to study the size of the upper airway in children 
+nasopharynx and oropharynx, we performed a similar analysis with OSAS. Our findings suggest that the upper airway of chilthroughout 
+the airway centerline based on 10 segments repre-dren with OSAS is restricted along the upper two-thirds of its 
+senting 10% total length increments; this is shown graphically length and predominantly in the region where the adenoid and 
+in Figures 3A–3C. Accordingly, significantly smaller mean cross-tonsils overlap. 
+sectional area, minimal cross-sectional area, and volume were Some methodological issues need initial comment. The upper 
+
+
+Figure 2. Left: three-dimensional display of an upper airway and its centerline in a subject with OSAS. Top right: gray-level two-dimensional scene 
+of the cross-section of the airway orthogonal to the centerline at marker locations: A . 
+adenoid; A . 
+T . 
+adenoid and tonsil overlap; T . 
+tonsils; 
+E . 
+epiglottis. Bottom right: plot of the cross-sectional area function. 
+
+
+68 
+AMERICAN JOURNAL OF RESPIRATORY AND CRITICAL CARE MEDICINE VOL 167 2003 
+
+TABLE 2. UPPER AIRWAY DIMENSIONS AND REGIONAL ANALYSIS IN SUBJECTS WITH 
+OBSTRUCTIVE SLEEP APNEA SYNDROME AND CONTROL SUBJECTS 
+
+
+Subjects with OSAS Control Subjects 
+Measurement (n . 
+20)(n . 
+20) 
+
+Total upper airway 
+Mean cross-sectional area, mm2 28.1 . 
+12.6* 47.1 . 
+18.2 
+Minimum cross-sectional area, mm2 4.6 . 
+3.3* 15.7 . 
+12.7 
+Airway centerline length, mm 40.2 . 
+5.8 37.1 . 
+8.2 
+Volume, mm3 1,129 . 
+515† 1,794 . 
+846 
+
+Airway region adjacent Mean cross-sectional area, mm2 19.2 . 
+10.1* 44.7 . 
+24.5 
+to adenoid Length, mm 22.6 . 
+5.5‡ 19.5 . 
+3.8 
+Volume, mm3 440 . 
+240* 840 . 
+403 
+
+Airway region where adenoid Mean cross-sectional area, mm2 11.7 . 
+5.7* 34.7 . 
+23.9 
+and tonsils overlap Length, mm 15.4 . 
+4.5‡ 12.5 . 
+3.1 
+Volume, mm3 188 . 
+119† 403 . 
+235 
+
+Airway region adjacent Mean cross-sectional area, mm2 27.0 . 
+15.9‡ 37.9 . 
+15.2 
+to tonsils Length, mm 34.9 . 
+6.8 32.6 . 
+7.5 
+Volume, mm3 946 . 
+574 1,197 . 
+425 
+
+For definition of abbreviations, see Table 1. 
+Values represent means . 
+SD. 
+*p . 
+0.0005. 
+
+
+†p . 
+0.005. 
+‡p . 
+0.05. 
+airway has a complex shape formed by various tissues with het-In the present study we confirm our previous finding (5), 
+erogeneous compositions that surround the air column. This, suggesting that the size of the upper airway in children with 
+along with airway boundary motion, results in some MR signal OSAS is smaller compared with normal children. However, the 
+gradation and blurring. This was true in the present study when current study was more comprehensive because it was designed 
+data were collected during a 2-minute period throughout numer-to identify the actual site(s) of restriction along the upper airway 
+ous respiratory cycles. Fuzzy connectedness is a computational path and the role of the adenoid and tonsils in airway restriction 
+method of object segmentation that takes into account the effects in these subjects, using a new methodology. 
+of tissue heterogeneity, imaging noise, and blurring. This method In the previous study, we used T1 images for airway analysis. 
+determines voxels that comprise an object by assigning weights The airway measurements included a single axial cross-sectional 
+to each voxel on the basis of its spatial nearness, similarity of area at the midtonsillar level, an airway volume derived from 
+intensity, and pathwise relationship to all other voxels. The resul-sequential 3-mm axial slices, and a single nasopharyngeal crosstant 
+fuzzy object is a pool of voxels with a membership value sectional area obtained from a midsagittal image. All measure-
+that represents its strength as a member of the object (7, 8). ments were made manually with the program VIDA and no 
+
+Fuzzy connectedness is a robust tool for airway segmentation. airway reconstruction was performed. 
+It achieves an intraoperator and interoperator variation of less In the present study, we reconstructed the airway using T2 
+than 0.87% and the accuracy of volume and delineation was images with a new algorithm in a program 3DVIEWNIX. This 
+found to be 97% as compared with expert manual segmentation method is a multistep process, including nonmanual fuzzy con(
+9). In addition, when applied to the airway, fuzzy connectedness nectedness delineation, interpolation, filtering, and thresholding 
+was performed in less than 10% of the time required for manual that results in a three-dimensional display of the airway, center-
+segmentation (9). line, area profile, and cross-sectional images (9). This method 
+
+For the most reliable comparison of the OSAS group with enables accurate representation of the airway as it relates to 
+the control group, we performed a case–control study and airflow and surrounding tissues and is significantly more efficient 
+matched each subject with OSAS by age, height, weight, sex, than manual segmentation. 
+and ethnicity. All could influence the airway by affecting size, In the present study, we found that the upper airway cross-
+shape, and function of the surrounding tissues, including muscle, sectional area varies along the airway centerline in a similar 
+lymphoid, fat, and bone (5, 15, 16). Our control subjects did not form in both normal children and in children with OSAS, with 
+undergo polysomnography and were screened only by history the OSAS group being about one-half smaller in the upper two-
+and a standardized questionnaire. No obstructive events were thirds of the airway. In both groups, about 20 to 60% of the 
+observed in the control subjects during imaging. airway represents a region where adenoid and tonsils overlap 
+
+To obtain optimal MR images in young children, mild seda-(Figure 3, bottom); this region corresponds to the lowest mean 
+tion to avoid body movement is necessary and is routinely used and minimal airway cross-sectional areas. It is possible that air-
+in our institution. Sedation can reduce upper airway muscle way obstruction in children with OSAS occurs in this region. 
+activity compared with wakefulness and could have affected our However, our study could not prove this speculation because of 
+airway measurements (17). It is possible that sedation had a the relatively long MR acquisition time, and further investigation 
+bigger effect on upper airway muscle activation in subjects with in another study using faster MR sequences will be needed to 
+OSAS compared with control subjects, amplifying the differ-visualize dynamic changes of the airway during respiration. 
+ences between the groups in our study. Moreover, sedation could Isono and coworkers (18) assessed the collapsibility and mini-
+have caused partial or complete airway obstruction during data mal cross-sectional area of the passive airway in children with 
+acquisition, leading to increased motion and resulting in more OSAS (age, 7.6 . 
+3.5 years). These children were studied under 
+blurring of our images in the OSAS group. Hence, the limitation general anesthesia and measurements were performed by endosof 
+sedation in our study should be recognized. copy at discrete levels including the adenoid, soft palate, tonsils, 
+
+
+Arens, McDonough, Corbin, et al.: Upper Airway Size Analysis 
+
+
+Figure 3. Segmental analysis—percent airway centerline length versus 
+
+(A) mean airway cross-sectional area, (B ) minimal cross-sectional area, 
+and (C) volume. Data points represent mean values . 
+SD along 10% 
+segments. Dotted lines represent estimated measurements between data 
+points; solid circles . 
+subjects with OSAS; open circles . 
+control subjects. 
+*p . 
+0.05; **p . 
+0.005; ***p . 
+0.0005. Regions of the adenoid and 
+tonsils adjacent to the airway are shown by horizontal bars. Note overlap 
+regions for tonsils and adenoid. 
+and tongue. These investigators noted the mean highest closing 
+pressure and minimal cross-sectional area to occur mostly at the 
+levels of adenoid and soft palate. These findings suggesting that 
+higher airway segments are more involved in children with OSAS 
+support our findings showing restriction in the upper two-thirds 
+of the airway. 
+
+Although the total centerline length was similar in OSAS 
+and control groups, in regions adjacent to the adenoid and where 
+the adenoid and tonsils overlap, the lengths were significantly 
+longer in the OSAS group (22.6 . 
+5.5 versus 19.5 . 
+3.8 mm, 
+p . 
+0.05, and 15.4 . 
+4.5 versus 12.5 . 
+3.1 mm, p . 
+0.05, 
+respectively). This could be related to the increased extension 
+of lymphoid tissue in OSAS and the more tortuous path along 
+the centerline in these narrowed regions. In addition, segmental 
+analysis along the entire centerline suggests that the upper airway 
+of children with OSAS is restricted compared with control 
+subjects over the initial 60–70% of its length. The narrowing is 
+not a discrete region adjacent to either the adenoid or tonsils, 
+but rather occurs in a continuous fashion along both. These 
+observations suggest that flow resistance is higher in these regions, 
+and complete obstruction during inspiration in sleep may 
+be more likely where narrowing occurs and high negative pressures 
+are developed. 
+
+Interestingly, segmental analysis suggests that airway measurements 
+below the region of maximal restriction (i.e., region 
+of overlap between adenoid and tonsils) are similar in both 
+groups (Figure 3). This could explain to some extent why clinical 
+assessment of the tonsils and airway that are below this region 
+of restriction do not predict the existence or severity of OSAS 
+(19–21). 
+
+In summary, we used MRI to analyze the size of the upper 
+airway in children with OSAS. Our results suggest that the upper 
+airway in children with OSAS is significantly smaller with respect 
+to airway volume, mean airway cross-sectional area, and minimal 
+cross-sectional area compared with matched control subjects. 
+We also noted that the upper airway in children with OSAS is 
+restricted along the initial 60–70% of its length and most affected 
+in regions where adenoid and tonsils overlap. 
+
+References 
+
+1. Ali NJ, Pitson DJ, Stradling JR. Snoring, sleep disturbance, and behavior 
+in 4–5 year olds. Arch Dis Child 1993;68:360–366. 
+2. Redline S, Tishler PV, Schluchter M, Aylor J, Clark K, Graham G. Risk 
+factors for sleep-disordered breathing in children: associations with 
+obesity, race, and respiratory problems. Am J Respir Crit Care Med 
+1999;159:1527–1532. 
+3. Schwab RJ, Gupta KB, Gefter WB, Hoffman EA, Pack AI. Upper airway 
+soft tissue anatomy in normals and patients with sleep disordered 
+breathing: significance of the lateral pharyngeal walls. Am J Respir 
+Crit Care Med 1995;152:1673–1689. 
+4. Schwab RJ, Pack AI, Gupta KB, Metzger LJ, Oh E, Getsy JE, Hoffman 
+EA, Gefter WB. Upper airway and soft tissue structural changes induced 
+by CPAP in normal subjects. Am J Respir Crit Care Med 
+1996;154:1106–1116. 
+5. Arens R, McDonough JM, Costarino AT, Tayag-Kier CE, Mahboubi S, 
+Schwab RJ, Pack AI. Magnetic resonance imaging of the upper airway 
+structure in children with obstructive sleep apnea. Am J Respir Crit 
+Care Med 2001;164:698–703. 
+6. Arens R, McDonough JM, Corbin AM, Hernandez EM, Maislin G, 
+Schwab RJ, Pack AI. Linear dimensions of the upper airway structure 
+during development: assessment by magnetic resonance imaging. Am 
+J Respir Crit Care Med 2002;165:117–122. 
+7. Udupa JK, Samarasekera S. Fuzzy connectedness and object definition: 
+theory, algorithms, and applications in image segmentation. Graphical 
+Models Image Processing 1996;58:246–261. 
+8. Udupa JK. Three-dimensional visualization and analysis methodologies: 
+a current perspective. Radiographics 1999;19:783–803. 
+9. Liu J, Udupa JK, Odhner D, McDonough JM, Arens R. Upper airway 
+segmentation and measurement in MRI using fuzzy connectedness. 
+SPIE Proc 2002;4683:238–247. 
+
+70 AMERICAN JOURNAL OF RESPIRATORY AND CRITICAL CARE MEDICINE VOL 167 2003 
+
+10. Brouillette R, Hanson D, David R, Klemka L, Szatkowski A, Fernbach 
+S, Hunt C. A diagnostic approach to suspected obstructive sleep apnea 
+in children. J Pediatr 1984;105:10–14. 
+11. American Thoracic Society. Standards and indications for cardiopulmonary 
+sleep studies in children. Am J Respir Crit Care Med 1996;153:866– 
+878. 
+12. Marcus CL, Omlin KJ, Basinski DJ, Bailey SL, Rachal AB, Von Pechmann 
+WS, Keens TG, Ward SL. Normal polysomnogram values for 
+children and adolescents. Am Rev Respir Dis 1992;146:1235–1239. 
+13. Rechtschaffen A, Kales A. A manual of standardized terminology, techniques 
+and scoring systems for sleep stages on human subjects. Washington, 
+DC: National Institutes of Health; 1968. Publication No. 204. 
+14. Udupa JK, Odhner D, Samarasekera S, Goncalves R, Iyer K, Venugopal 
+K, Furuie S. 3DVIEWNIX: an open transportable, multidimensional, 
+multimodality, multiparametric imaging software system. SPIE Proc 
+1994;2164:58–73. 
+15. Jeans WD, Fernando DC, Maw AR, Leighton BC. A longitudinal study 
+of the growth of the nasopharynx and its contents in normal children. 
+Br J Radiol 1981;54:117–121. 
+16. Fujioka M, Young LW, Girdany BR. Radiographic evaluation of adenoidal 
+size in children: adenoidal–nasopharyngeal ratio. Am J Roentgenol 
+1979;133:401–404. 
+17. Litman RS, Weissend EE, Shrier DA, Ward DS. Morphologic changes 
+in the upper airway of children during awakening from propofol administration. 
+Anesthesiology 2002;96:607–611. 
+18. Isono S, Shimada A, Utsugi M, Konno A, Nishino T. Comparison of 
+static mechanical properties of the passive pharynx between normal 
+children and children with sleep disordered breathing. Am J Respir 
+Crit Care Med 1998;157:1204–1212. 
+19. Fernbach SK, Brouillette RT, Riggs TW, Hunt CE. Radiologic evaluation 
+of adenoids and tonsils in children with obstructive sleep apnea: plain 
+films and fluoroscopy. Pediatr Radiol 1983;13:258–265. 
+20. Mahboubi S, Marsh RR, Potsic WP, Pasquariello PS. The lateral neck 
+radiograph in adenotonsillar hyperplasia. Int J Pediatr Otorhinolaryngol 
+1985;10:67–73. 
+21. Brooks LJ, Stephens BM, Bacevice AM. Adenoid size is related to severity 
+but not the number of episodes of obstructive sleep apnea in 
+children. J Pediatr 1998;132:682–686. 
+

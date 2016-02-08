@@ -1,0 +1,368 @@
+ Services 
+. Custom services 
+. Comments(0) 
+. Article in XML format 
+. Article references 
+. Curriculum ScienTI 
+. How to cite this article 
+. Requests 
+. Cited by SciELO 
+. Similars in SciELO 
+. Automatic translation 
+. Show semantic highlights 
+. Send this article by e-mail 
+Arquivos de Neuro-Psiquiatria 
+Print ISSN 0004-282X 
+Arq. Neuro-Psiquiatr. vol.65 no.2A São Paulo June 2007 
+doi: 10.1590/S0004-282X2007000200008 
+Sleep disturbances in 50 children with attention-deficit hyperactivity disorder 
+Distúrbios do sono em 50 crianças com transtorno do déficit de atenção e hiperatividade 
+Sergio Nolasco Hora das NevesI; Rubens ReimãoII 
+IInfant and Adolescent Psychiatrist; Masters in Public Health in Childhood and Adolescence; School of 
+Medical Sciences, University of Campinas (UNICAMP), Campinas, Brazil 
+IIMD, PhD, Division of Clinical Neurology, Hospital das Clinicas, University of São Paulo Medical 
+School (HCFMUSP), São Paulo, Brazil 
+
+ABSTRACT 
+OBJECTIVE: This study assesses the relationship between sleep disturbances (SD) and attention-deficit 
+and hyperactivity disorder (ADHD) to characterize clinical features and associated problems. 
+METHOD: The medical records of 50 children and adolescents ranging in age from 4 to 17 years with 
+ADHD without the diagnosis of mental retardation or pervasive developmental disorders were reviewed. 
+RESULTS: Significant relationships were found between SD and drug therapy (p<0.01), comorbidity 
+(p<0.01) and greater adherence to treatment prescribed for ADHD disorders (p<0.05). 
+CONCLUSION: The results of this study suggest that SD are an important problem in children with 
+ADHD and may be linked to increased symptoms. 
+Key words: attention-deficit and hyperactvity disorder, sleep disturbances, child behavior disorders, 
+sleep, drug therapy. 
+RESUMO 
+OBJETIVO: Avaliar a associação entre transtorno do déficit de atenção e hiperatividade (TDAH) e 
+distúrbios do sono para caracterizar fatores clínicos e problemas associados. 
+MÉTODO: Foram revistos prontuários de 50 crianças e adolescentes com idade entre 4 e 17 anos 
+e consecutivo diagnóstico de TDAH sem diagnóstico de retardo mental ou transtornos invasivos 
+do desenvolvimento. 
+RESULTADOS: Foram encontradas associações significativas entre alterações do sono e 
+farmacoterapia (p<0,01), comorbidade (p<0,01) e maior aderência ao tratamento prescrito para 
+sintomas de TDAH (p<0,05). 
+CONCLUSÃO: Os resultados deste estudo sugerem que alterações do sono são relevantes em crianças 
+com TDAH e podem estar associadas a aumento dos sintomas. 
+Palavras-chave: transtorno do déficit de atenção e hiperatividade, distúrbios do sono, sono, transtornos 
+do comportamento infantil, farmacoterapia. 
+Attention déficit and hyperactivity disorder (ADHD) is a syndrome with major presence in children 
+and adolescents and well-established clinical criteria for its diagnosis1-13. Diagnostic classifications 
+have presented changes in sleep disturbances (SD) in children as diagnostic criteria for ADHD14, but 
+these symptoms were later removed upon revision of the handbook. Despite this, SD in children with 
+ADHD have continued to be important due to the complaints of patients and their parents regarding 
+sleep, questions related to sleep in instruments for detecting ADHD and gradual increase in the área of 
+SD15-23. As more studies have begun in this area, questions have appeared about the relationship 
+between ADHD and SD. Suggestions have arisen that predominantly hyperactive children with ADHD 
+suffer from a more fragmented and less efficient sleep24 increasing the suspicion that the hyperactive 
+or inattention subtypes of ADHD could be different clinical entities. At the start of the nineties, studies 
+began to appear, demonstrating the presence of symptoms similar to those of ADHD in children with 
+sleep disordered breathing problems, so that these children displayed agitated sleep, changes in 
+behavior with aggression and and learning difficulties. However, after treating these respiratory 
+sleep disturbances, these symptoms improved25. The presence of obstructive apnea in children continued 
+to be considered responsible for fragmented sleep and poor school performance17,18,20,21,26. This led 
+the question of whether these children diagnosed with ADHD due to their symptoms of inattention 
+
+and hyperactivity might in reality be suffering from SD. Studies linking ADHD and snoring suggest 
+this condition, indicating that respiratory and other SD could be responsible for symptoms of up to 25% in 
+all children with ADHD and by treating sleep disorder breathing problems, it is possible to improve 
+or eliminate these symptoms27. In spite of the difficulties of confirming and establishing the link 
+between ADHD and SD, an increasing number of studies on the subject have appeared in the literature. 
+The exact relationship between ADHD and changes in sleep remain obscure, but the relevant findings 
+have generated little discussion, with few debates in the clinical context and the risk of not 
+benefiting patients with the knowledge acquired up to now, that might interfere in the diagnosis 
+and treatment of ADHD28. 
+Several other studies have pointed to the presence of hyperactivity symptoms, behavioral problems and 
+poor learning performance in children with respiratory SD. Assessment of children with lowered 
+intellectual ability29, and laboratory studies with rats30 has also strengthened this possibility. Children 
+with lowered intellectual capacity displayed worse cognitive function, worse behavior and major indication 
+for medication. SD were also observed as respiratory disturbances, nocturnal myoclonus and restless 
+legs syndrome associated with behavioral problems in children31. Teachers notice more symptoms such 
+as hyperactivity, inattention and changes in behavior in children with SD32. The correlation 
+between nocturnal myoclonus and restless legs syndrome with ADHD has also been confirmed33, this 
+could interfere in symptoms of a subgroup of children with ADHD34. The possibility that sleepdisordered 
+breathing in children is related to moderate symptoms of ADHD has been discussed during 
+the last few years, whereas children with more severe symptoms present REM sleep changes35, suggesting 
+a major correlation with neurobiological mechanisms. Another line of study is the association of early SD 
+in children with posterior diagnosis of ADHD15,16,19,22,23,36,37. 
+A retrospective study is reported of a sample of patients with ADHD followed on an out-patient 
+basis, assessing features of the sample medical files, and with objective focusing mainly on SD and 
+the clinical significance of these alterations. 
+METHOD 
+This is a retrospective study of 50 patients diagnosed with ADHD, obtained only in their medical files 
+by secondary data, case studies, and use of structured questionnaire for this objective38. The present 
+report is part of a large research project regarding child and adolescent sleep that will be 
+published elsewhere38. The sample consisted of patients seen in a private clinic in the city of Campinas, 
+São Paulo state, during 2001 and 2004, ranging in age from four to eighteen years, diagnosed with ADHD 
+by professionals of the institution, physicians specialized in neurology of child psychiatry. A standardized 
+25 items multiple choice developed by the authors questionnaire was used38. 
+It shoud be pointed out that this study sources of information were assessed that enabled the diagnosis to 
+be made, such as interview with parents, information from teachers and an assessment interview of 
+the patients, as present in their medical files. Noting that the gold standard diagnosis of ADHD is the 
+clinical analysis. 
+The patients who presented their complaints or their families complaints about changes in sleep formed 
+a group that was compared to the rest of the sample. 
+Subjects with diagnosis or suspicion of mental retardation or infantile autism by the clinical interview in 
+the medical files were excluded because of the possibility of their presenting symptoms of hyperactivity 
+as part of their clinical picture. 
+This research protocol was approved by the Medical Ethics Committee, School of Medical Sciences, 
+University of Campinas (UNICAMP). 
+Analysis of data – The software "Statistical Package for Social Sciences for Personal Computer – SPSS/ 
+PC) was utilized for the statistical procedure. The data recorded in the assessment reports were 
+
+revised manually by the investigator, then transcribed to the data bank of the Computational SPSS/ 
+PC program and revised again to detect and correct any possible recording errors. 
+Frequency tables of categorical variables and descriptive statistics (average, mean, standarddeviation, 
+minimum and maximum) of the continuous variables were organized to characterize the 
+socio-demographic profile. 
+The Chi-square test was employed to analyze the link between two categorical variables. The 
+relationship between values of a continuous variables and the classes of a categorical variable was 
+verified using the Mann-Whitney test (the categorical variable was divided into two classes). The level 
+of significance was established at 0.05. 
+RESULTS 
+This study included 46 males (92%) and four females (8%) ranging in age from 4.5 to 17.9 (average 
+10.5 years, mean 10.4 and mode 5.5 years). Fourty-nine were attending school at the time of 
+assessment. Six were adopted children (12% of total). The parents of thirteen patients were separated, 
+two were widowed and 34 married. One of the records did not mention the parent’s marital status at 
+the time of assessment. Relationship problems among the parents of 24 (48% of total) patients 
+were described, considering relationship complaints independently of whether of not they were married 
+or separated. Financial problems were described in thirteen families (26% total). 
+The diagnosis was established after interviews with parents and the patients in all 50 cases (100%) 
+and information provided by the teachers in 34 cases (68%). Age at onset of symptoms was described in 
+37 cases, twelve, mentioned onset during age one and four at age two. The result demonstrated 
+a concentration of onset of symptoms during the early years and at age 6-7 which corresponds to 
+the beginning of the alphabetization (Fig 1). Among the 37 patients supplying information on the 
+records about age at onset of symptoms, 70.3% presented symptoms up to age 6 (52% of total) and 
+86.5% up to age 7 (64% of total). 
+
+ The average time reported between onset of symptoms and beginning of treatment in 29 out of the 
+50 records (58% of sample), was an average of 4.2 years, mean four years and range from zero to 
+eleven years. The age at which they first sought treatment was concentrated in the 5 to 10 year age group. 
+Out of the 50 cases sampled, 86% showed impairment of their activities. Twelve (24%) had repeated 
+a grade once, seven (14%) had been left back more than once, nine (18%) had been suspended, 
+thirteen (26%) had changed schools because of problems related to their symptoms, sixteen (32%) 
+had learning difficulties, one (2%) gave up and five (10%) received behavioral complaints. Four 
+(8%) interrupted their studies of some time due to complaints related to ADHD. 
+Fourty-three cases (86%) had relationship problems with their parents, teachers and/or friends. 
+Eighteen (36%) received a diagnosis of associated co-morbidity based on the clinical interview in 
+their medical records: eight (16%) with anxiety disturbances, five (10%) with depressive disturbances 
+and five (10%) with behavioral disturbances. 
+The average treatment time was 64.3 weeks, ranging between two and 170 weeks with a 74% rate 
+of defection. Comparing the average follow-up time, the average patients that abandoned treatment 
+was 47.5 weeks and for those who continued the average was 112.4 weeks of medical follow-up. 
+Complaints of sleep changes were recorded in 23 (46%) of the 50 records studied, some patients 
+described two or three changes remembering that this symptom that not been actively checked at the 
+time of the interview. 
+Twelve patients (24%) complained of agitated sleep, four (8%) of insomnia, three (6%) of disorders 
+linked to sleep habits, two (4%) of little time for sleep, two (4%) of awakening at night, two (4%) 
+of somniloquism, one (2%) diagnosed with excessive daytime sleepiness, one (2%) of sleep paralysis, 
+two (4%) of nightmares, two (4%) of sleeping during the day, one (2%) of apnea, one (2%) of snoring, 
+one (2%) of bruxism, and one (2%) of night terror. 
+
+Evaluation of the study sample regarding the presence of sleep complaints and clinical progress, showed 
+a link between the presence of sleep complaints and later indication of drug therapy, c2(1)=9.01: 
+p=0.003 (p<0.001). Among the patients with sleep changes recorded in the case history, 95.7% 
+were indicated for medications (methylphenidate), and only 59.3% of those who did not present 
+changes were indicated for medications (Table 1). 
+The link between sleep changes and the presence of a co-morbidity was also statistically significant, value 
+c2(1)=7.78, p0=0.005 (p<0.01), (Table 2). Co-morbidity was diagnosed by clinical interviews in 
+their medical files in 56.5% of patients who displayed sleep changes, and in only 18.5% of those who did 
+not present these complaints. 
+Evaluating the link between the presence of sleep changes and abandoning medical follow-up showed 
+that patients with sleep changes adhere more to treatment than those who did not complain about 
+sleep changes. However, the result was not statiscally significant (p=0.051). The evaluation of the 
+link between sleep changes and time of treatment, showed that the patient with sleep changes presented 
+an average longer treatment time compared to those without sleep complaints, p=0.02 (Fig 2). 
+
+ The correlation between pharmacological treatment and presence of a co-morbidity was not 
+established, since the concentration of cases in one of the groups jeopardized the chi-square test due to 
+the expected frequency of cells with value lower than five surpassing 20% of the total cells. Evaluating 
+the variable of abandoning treatment associated with the use of medication, the chi-square test 
+was impossible for the same reason. Using the Mann-Whitney method for evaluating the link between use 
+of medication and time of medical follow-up, the latter was significantly greater among patients 
+with pharmacological treatment (p<0.001) (Fig 3). 
+
+ DISCUSSION 
+This study included 46 males (92%) and four females (8%), in agreement with the statistics in the 
+literature regarding distribution by gender of ADHD in clinical samples. The data about onset of 
+symptoms and early treatment are comparable with reports in the literature that many patients 
+present symptoms since early childhood and at the stage of learning to read and write. At this time, 
+the possibility of diagnosis increases due to behavioral problems, in alphabetization and in comparison 
+with other children of the same age39. 
+The average time between onset of symptoms and start of treatment in the sample was 4.2 years. 
+The sample displayed a high rate of impairment of school activities due to flunking, suspensions, 
+learning difficulties, changes of school and even dropping out of school, raising the question that there 
+is significant damage before the child is even brought for out-patient evaluation or in spite of being seen 
+and treatment started. Since the majority of cases in the sample in which treatment was recorded for 
+the first time, were concentrated between five and eight years of age, an evaluation is appropriate for 
+the efficacy of the diagnoses and proposed treatment for these children when seen for the first time. 
+Another aspect of the damage to these patients is the high number that displayed relationship problems. 
+The sample proportion of cases with relationship problems and/or school problems showed a 
+significant concentration of cases in these groups and resulted in an expected much lower proportion in 
+the other groups. Hence, the statistical test (chi-square) was jeopardized because of presenting 
+an expectation of less than five cases without these complaints in some statistical comparisons, so that 
+the adequate use of the test was impossible. This damaged the evaluation of the link between 
+these variables and alterations in sleep of pharmacological treatment. For proper study of these links a 
+much larger sample would be necessary. 
+Twenty-two (95.7%) of the 23 patients with SD were indicated for pharmacological treatment. 
+Comparison of the indication for medication between the two groups, (with and without SD), showed 
+a statistically significant indication for medication in SD patients (p<0.01). This might suggest a 
+major intensity of symptoms and/or severity of the ADHD picture in these patients. The patients with SD 
+also presented a major presence of co-morbidities (p< 0.01). 
+
+The tendency of a lower rate of abandonment of treatment by patients with SD complaints was evaluated 
+but without statistical significance in this sample (p=0.51). The greater averages of time of treatment 
+in patients with SD compared to those without changes in sleep, showed a statistically significant 
+link (p<0.05). However, the better adherence to the treatment might also be due to a greater intensity 
+of symptoms and impairment occurring in patients prior to treatment. 
+The links with abandonment and average time of treatment were also considered regarding 
+the pharmacological treatment, since the initial results described, pointed to a correlation between 
+sleep changes and indication for drug treatment. In this way drug treatment might be a confusing feature 
+in evaluation of sleep changes with adherence and total time of treatment. 
+The relationship between drug treatment and rate of abandonment of medical follow-up was not 
+statistically significant. Association the use of medication and time of treatment revealed significant 
+major averages in patients that received pharmacological treatment, (p<0.0010), suggesting that 
+drug treatment might positively influence the adherence of patients to the proposed therapy. Not 
+exempting pharmacological treatment and SD as predictive variables of major adherence to treatment 
+as independent form of therapy, since both demonstrated significance, but are also linked with each other. 
+A more significant correlation between pharmacological therapy and longer permanence in treatment 
+was noted than between sleep changes and permanence in treatment. The assessment of drug therapy 
+and sleep changes with relation to increase in time of medical follow-up suggested that the effect can 
+be intensified when both are present (Fig 4). 
+The literature already indicates a link between SD and changes on behavior in normal children40-42, or 
+those with intellectual disability43 and in the latter age also leading to a major frequency of drug therapy. 
+The link between sleep changes and ADHD presents complex relationships and even with 
+
+reduced confirmation and clarification44. The interface of ADHD in children’s sleep of the possibility of 
+SD simulating ADHD symptoms and/or intensifying symptoms has been cited in the literature, but it 
+seems that in clinical practice its application and discussion is on the weak side. 
+Existing knowledge already suggests the need for special attention to SD in children during 
+diagnostic evaluation of ADHD. SD could simulate ADHD symptoms leading to na inadequate 
+diagnosis, intensifying the symptoms and interfering in therapeutic indications and evolution of the 
+picture presented, possibly increasing impairment. Among these symptoms, SD breathing deserves 
+special attention because its high prevalence can lead to an inadequate diagnosis, of false positive ADHD. 
+SD breathing might respond to specific treatment with significant reduction or elimination of symptoms 
+that simulate ADHD. 
+In conclusion, the data point to the presence of sleep changes as important variable in the sample 
+studied, correlated them to a major indication for patients medication, a greater number of 
+patients presenting co-morbidity.Together with the present literature reviwed they do not eliminate 
+the possibility that children with SD are being diagnosed and treated with ADHD due to lack of a 
+more thorough study regarding SD or because the symptoms intensified by SD are not fully assessed. 
+REFERENCES 
+1. Amaral AH, Guerreiro MM. Transtorno do déficit de atenção e hiperatividade: proposta de 
+avaliação neuropsicológica para diagnóstico. Arq Neuropsiquiatr 2001;59:884-888. [ Links ] 
+2. Andrade ER, Scheuer C. Análise da eficácia do metilfenidato usando a versão abreviada do questionário 
+de Conners em transtorno de déficit de atenção/hiperatividade. Arq Neuropsiquiatr 
+2004;62:81-85. [ Links ] 
+3. Brito GNO, Onis M. Growth status, behavior and neuropsychological performance: a study of 
+Brazilian school children. Arq Neuropsiquiatr 2004;62:949-954. [ Links ] 
+4. Freire ACC, Ponde MP. Estudo piloto da prevalência do transtorno de déficit de atenção e 
+hiperatividade entre crianças escolares na cidade de Salvador, Bahia, Brasil. Arq 
+Neuropsiquiatr 2005;63:474-478. [ Links ] 
+5. Guardiola A, Fuchs FD, Rotta NT. Prevalence of attention-deficit hyperactivity disorders in 
+students: comparison between DSM-IV and neuropsychological criteria. Arq Neuropsiquiatr 
+2000;58:401-407. [ Links ] 
+6. Guardiola A, Terra AR, Ferreira LTC, et al. Uso de amitriptilina na síndrome de hiperatividade com 
+déficit de atenção. Arq Neuropsiquiatr 1999;57:599-605. [ Links ] 
+7. Possa MA, Spanemberg L, Guardiola A. Comorbidade do transtorno de déficit de atenção e 
+hiperatividade em crianças escolares. Arq Neuropsiquiatr 2005;63:479-483. [ Links ] 
+8. Rhode LA, Barbosa G, Tramontina S, Lolanczy KG. Transtorno do déficit de atenção/hiperatividade. 
+Rev Bras Psiquiatr 2000;22:7-11. [ Links ] 
+9. Schochat E, Scheuer CI, Andrade ER. ABR and auditory P300 findings in children with ADHD. 
+Arq Neuropsiquiatr 2002;60:742-747. [ Links ] 
+10. Serra-Pinheiro MA, Mattos P, Souza I, Pastura G, Gomes F. The effect of methylphenidate on 
+oppositional/defiant disorder comorbid with attention déficit/hyperactividy disorder. Arq 
+Neuropsiquiatr 2004;62: 399-402. [ Links ] 
+
+11. Souza I, Pinheiro MA, Mattos P. Anxiety disorders in an attention-deficit/hiperactivity disorder 
+clinical sample. Arq Neuropsiquiatr 2005; 63:407-409. [ Links ] 
+12. Souza I, Serra MA, Mattos P, et al. Comorbidade em crianças e adolescentes com transtono do déficit 
+de atenção: resultados preliminares. Arq Neuropsiquiatr 2001;59:401-406. [ Links ] 
+13. Vasconcelos MM, Malheiros AF, Werner Jr, et al. Contribuição dos fatores de risco psicossociais para 
+o transtorno de déficit de atenção/ hiperatividade. Arq Neuropsiquiatr 2005;63:68-74. [ Links ] 
+14. American Psychiatric Association. Diagnostic and statistical manual of mental disorders. 3. 
+Ed. Washington (DC): APA, 1987. [ Links ] 
+15. Bartolomew K, Owens J. Sleep and ADHD. Med Health R I 2006; 89: 91-93. [ Links ] 
+16. Bullock GL, Chall V. Dissomnia in children diagnosed with attention-deficit hyperactivity disorder. Aust 
+N Z J Psychiatry 2005;39:373-377. [ Links ] 
+17. Chervin RD, Ruzick DL, Archbold KW, Dillon JE. Snoring predicts hyperactivity four years later. 
+Sleep 2005;28:885-890. [ Links ] 
+18. Chervin RD, Ruzicka DL, Giordani BJ, Weatherly RA, Dillon JE, Hodges EK. Sleep disordered 
+breathing, behavior, and cognition in children before and after adenotonsillectomy. Pediatrics 
+2006;117:769-778. [ Links ] 
+19. Cortese S, Lacendreux M, Mouren MC, Konofal E. ADSD and insomnia. J Am Acad Child 
+Adolesc Psychiatry 2006;45:384-385. [ Links ] 
+20. Lebourgeois MK, Avis K, Mixon M, Olmi J, HarshJ. Snoring, sleep quality and sleepiness across 
+attention-deficit/hyperactivity disorder subtypes. Sleep 2004;27:510-515. [ Links ] 
+21. O’Brien LM, Ivanenko A, Crabtree VA, et al. Sleep disturbances in children with attentiondeficit 
+hyperactivity disorder. Pediatr Res 2003; 54:237-243. [ Links ] 
+22. Stein D, Pat-Horenczyk R, Blank S, Dagan Y, Barak Y. Sleep disturbances in adolescents with 
+symptoms of attention-deficit/hyperactivity disorder. J Learn Disabil 2002;35:268-275. [ Links ] 
+23. Van der Heijden KB, Smits MG, Van Someren EJ, Gunning WB. Idiopathic chronic sleep onset insomnia 
+in attention-deficit/hyperactivity disorder: a circadia rhythm sleep disorder. Chronobiol Int 
+2005;22:359-370. [ Links ] 
+24. Ramos-Platon MJ, Vela-Bueno A, Espinar-Sierra J, Kales S. Hypnopolygraphic alterations in 
+attention deficit disorder (ADD) children. Int J Neurosci 990;53:87-101. [ Links ] 
+25. Stradling JR, Thomas G, Warley AR, Williams P, Freeland A. Effect of adenotonsillectomy on 
+nocturnal hypoxaemia, sleep disturbance, and symptoms in snoring children. Lancet 
+1990;335:249-253. [ Links ] 
+26. Brooks LJ. Diagnosis and pathophysiology of obstructive sleep apnea in children. Ear Nose Throat 
+J 1993;72:58-60. [ Links ] 
+27. Chervin RD, Dillon JE, Bassetti C, Ganoczy DA, Pituch KJ. Symptoms of sleep disorders, inattention, 
+and hyperactivity in children. Sleep 1997;20:1185-1192. [ Links ] 
+28. Corkum P, Moldofsky H, Hogg-Johnson S, Humphries T, Tannock R. Sleep problems in children 
+
+with attention-deficit/hyperactivity disorder: impact of subtype, comorbidity and stimulant medication. J 
+Am Acad Child Adolesc Psychiatry 1999;38:1285-1293. [ Links ] 
+29. Didden R, Korzilius H, Van Aperlo B, Van Overlop C, De Vries M. Sleep problems and daytime 
+problem behaviours in children with intellectual disability. J Intellect Disabil Res 
+2002;46:537-547. [ Links ] 
+30. Row BW, Kheirandish L, Neville JJ, Gozal D. Impaired spatial learning and hyperactivity in developing 
+rats exposed to intermittent hypoxia. Pediatr Res 2002;52:449-453. [ Links ] 
+31. Smedje H, Broman JE, Hetta J. Associations between disturbed sleep and behavioural difficulties in 
+635 children aged six to eight years: a study based on patients’ perceptions. Eur Child Adolesc 
+Psychiatry 2001;10:1-9. [ Links ] 
+32. Paavonen EJ, Almqvist F, Tamminen T, et al. Poor sleep and psychiatric symptoms at school: 
+an epidemiological study. Eur Child Adolesc Psychiatry 2002;11:10-17. [ Links ] 
+33. Picchietti DL, Underwood DJ, Farris WA, et al. Further studies on periodic movement disorder 
+and restless legs syndrome in children with attention-deficit hyperactivity disorder. Mov 
+Disord 1999;14:1000-1007. [ Links ] 
+34. Picchietti DL, England SJ, Walters AS, Willis K, Verrico T. Periodic limb movement disorder and 
+restless legs syndrome in children with attention-deficit hyperactivity disorder. J Child Neurol 
+1998;13:588-594. [ Links ] 
+35. Chervin RD, Archbold KH, Dillon JE, et al. Inattention, hyperactivity, and symptoms of sleepdisordered 
+breathing. Pediatrics 2002;109: 449-456. [ Links ] 
+36. Thunström M. Severe sleep problems in infancy associated with development of attentiondeficit/
+hyperactivity disorder at 5.5 years of age. Acta Paediatr 2002;91:584-592. [ Links ] 
+37. Corkum P, Moldofsky H, Hogg-Johnson S, Humphries T, Tannock R. Sleep problems in children 
+with attention-deficit/hyperactivity disorder: impact of subtype, comorbidity, and stimulant medication. J 
+Am Acad Child Adolesc Psychiatry 1999;38:1285-1293. [ Links ] 
+38. Neves SNH. Transtorno do déficit de atenção e hiperatividade: características clínicas e alterações 
+do sono. Dissertação (Mestrado). Campinas, 2006. [ Links ] 
+39. Kadesjo C, Kadesjo B, Hagglof B, Gillberg C. ADHD in Swedish 3- to 7-year-old children. J Am Acad 
+Child Adolesc Psychiatry 2001;40:1021-1028. [ Links ] 
+40. Smedje H, Broman JE, Hetta J. Associations between disturbed sleep and behavioural difficulties in 
+635 children aged six to eight years: a study based on parents’ perceptions. Eur Child Adolesc 
+Psychiatry 2001;10:109. [ Links ] 
+41. Paavonen EJ, Almqvist F, Tamminen T, et al. Poor sleep and psychiatric symptoms at school: 
+an epidemiological study. Eur Child Adolesc Psychiatry 2002;11:10-17. [ Links ] 
+42. Chervin RD, Dillon JE, Archbold KH, Ruzicka DL. Conduct problems and symptoms of sleep disorders 
+in children. J Acad Child Adolesc Psychiatry 2003;42:201-208. [ Links ] 
+43. Didden R, Korzilius H, Van Aperlo B, Van Overloop C, De Vries M. Sleep problems and daytime 
+problem behaviours in children with intellectual disability. J Intellect Disabil Res 
+2002;46:537-547. [ Links ] 
+
+44. Corkum P, Moldofsky H, Hogg-Johnson S, Humpries T, Tannock R. Sleep problems in children 
+with attention-deficit/hyperactivity disorder: impact of subtype, comorbidity, and stimulant medication. J 
+Am Acad Child Adolesc Psychiatry 1999;38:1285-1293. [ Links ] 
+Received 7 July 2006, received in final form 25 October 2006. Accepted 6 December 2006. 
+Dr. Sergio Nolasco Hora das Neves - Rua Major Sólon 738 / 17 - 13024-091 Campinas SP - Brasil. Email: 
+sergionolasco@hotmail.com 
+© 2009 Associação Arquivos de Neuro-Psiquiatria 
+Pça. Amadeu Amaral, 47 cj. 33 
+01327-010 São Paulo SP Brazil 
+Tel.: +55 11 3287-6600 
+Fax: +55 11 3289-8879 
+anprev@terra.com.br 
+

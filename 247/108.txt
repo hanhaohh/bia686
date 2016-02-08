@@ -1,0 +1,981 @@
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+NIH Public Access 
+
+Author Manuscript 
+
+Pediatrics. Author manuscript; available in PMC 2006 May 1. 
+
+Published in final edited form as: 
+Pediatrics. 2006 April ; 117(4): e769–e778. 
+
+SLEEP-DISORDERED BREATHING, BEHAVIOR, AND COGNITION 
+
+IN CHILDREN BEFORE AND AFTER ADENOTONSILLECTOMY 
+
+Ronald D. Chervin, M.D., M.S.1, Deborah L. Ruzicka, R.N., Ph.D.1, Bruno J. Giordani, Ph.D.
+2, Robert A. Weatherly, M.D.3, James E. Dillon, M.D.4, Elise K. Hodges, Ph.D.2, Carole L. 
+Marcus, M.B.B.Ch.5, and Kenneth E. Guire, M.S.6 
+1 Sleep Disorders Center, Department of Neurology, University of Michigan 
+
+
+2 Neuropsychology Section, Department of Psychiatry, University of Michigan 
+
+3 Division of Pediatric Otolaryngology, Department of Otolaryngology, University of Kansas 
+
+4 Division of Child and Adolescent Psychiatry, Department of Psychiatry, University of Michigan 
+
+5 Sleep Center, Children's Hospital of Philadelphia, University of Pennsylvania School of Medicine 
+
+6 Department of Biostatistics, School of Public Health, University of Michigan 
+
+Abstract 
+
+Objectives: Most children with sleep-disordered breathing (SDB) have mild to moderate forms, for 
+which neurobehavioral complications are believed to be the most important adverse outcomes. To 
+improve understanding of this morbidity, its long-term response to adenotonsillectomy, and its 
+relationship to polysomnographic measures, we studied a series of children before and after 
+clinically-indicated adenotonsillectomy or unrelated surgical care. 
+
+Methods: We recorded sleep and assessed behavioral, cognitive, and psychiatric morbidity in 105 
+children 5.0 to 12.9 years old: 78 were scheduled for clinically-indicated adenotonsillectomy, usually 
+for suspected SDB, and 27 for unrelated surgical care. One year later, we repeated all assessments 
+in 100 of these children. 
+
+Results: Adenotonsillectomy subjects, in comparison to controls, were more hyperactive on well-
+validated parent rating scales (p<0.001), inattentive on cognitive testing (p=0.003), sleepy on 
+Multiple Sleep Latency Tests (p=0.002), and likely to have DSM-IV-defined Attention-Deficit/ 
+Hyperactivity Disorder as judged by a child psychiatrist (p=0.03). In contrast, one year later, the two 
+groups showed no significant differences in the same measures. Adenotonsillectomy subjects had 
+improved substantially (p=0.01) in all measures and control subjects in none. However, 
+polysomnographic assessment of baseline SDB and its subsequent amelioration did not clearly 
+predict either baseline neurobehavioral morbidity or improvement in any area other than sleepiness. 
+
+Conclusions: Children scheduled for adenotonsillectomy often have mild to moderate SDB and 
+significant neurobehavioral morbidity -- including hyperactivity, inattention, Attention-Deficit/ 
+Hyperactivity Disorder, and excessive daytime sleepiness -- all of which tend to improve by one year 
+after surgery. However, the lack of better correspondence between SDB measures and 
+neurobehavioral outcomes suggests the need for better measures or improved understanding of 
+underlying causal mechanisms. 
+
+Correspondence to: Ronald D. Chervin. 
+
+Correspondence to: Ronald D. Chervin, M.D., M.S. Michael S. Aldrich Sleep Disorders Laboratory 8D8702 University Hospital 1500 
+
+E. Medical Center Dr. Ann Arbor, MI 48109-0117 Phone: 734-647-9064 FAX: 734-647-9065 E-mail: chervin@umich.edu. 
+Support: NIH grants HD38461, HL80941, NS02009, and RR00042. 
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+Chervin et al. Page 2 
+
+Keywords 
+
+polysomnography; sleep apnea, obstructive; tonsillectomy; child; attention deficit disorder with 
+hyperactivity 
+
+INTRODUCTION 
+
+Children with severe obstructive sleep apnea are at risk for heart failure, hypertension, and 
+failure to thrive, and few clinicians doubt that the sleep disorder should be treated.1 However, 
+most children with sleep-disordered breathing (SDB) have more mild forms for which the main 
+morbidities are believed to be behavioral disturbances and cognitive impairment.2-6 
+Unfortunately, the best way to identify children with a level of SDB that raises the risk for 
+these outcomes has not been well studied. The benefit of treatment for mild SDB is also not 
+well defined. 
+
+In practice, when SDB is suspected on clinical grounds and treatment by adenotonsillectomy 
+(AT) is planned, less than 10% of children in North America undergo polysomnography to 
+confirm the diagnosis or need for surgery.7 In contrast, the American Academy of Pediatrics 
+recommends objective sleep testing before AT for SDB.8 This is because several studies have 
+shown poor correlation between office-based impressions and sleep laboratory results.9 
+However, standard polysomnography may miss mild forms of SDB that in cross-sectional 
+studies still show associations with neurobehavioral morbidity.2,5,6,10 Few prospective 
+studies have investigated the extent to which morbidity in these cases may respond to treatment,
+11 none have examined long-term outcomes, and none have incorporated a full range of gold-
+standard assessments for mental health, behavior, cognition, and daytime sleepiness. 
+
+The most definitive demonstration of consequences in mild SDB would involve a double-blind, 
+placebo-controlled, randomized treatment trial. This study design is not feasible at this time 
+for several reasons. Families and clinicians cannot be blinded to AT and sham surgery is not 
+an option. No published data have defined the time-course of neurobehavioral improvement 
+after AT, and long-term randomization to a placebo arm would raise ethical concerns for 
+children known to have SDB. 
+
+We therefore chose a prospective, non-randomized follow-up study design to examine long-
+term neurobehavioral outcomes and polysomnographic findings in a cohort of children already 
+scheduled, for any clinical indication, to have AT. This sample offered several unique 
+advantages. It allowed characterization of children undergoing one of the most common 
+surgical procedures in childhood. Subjects were not recruited at a sleep disorders center, and 
+for this reason were more likely to resemble the large majority of children who undergo AT 
+for SDB. The sample permitted comparison of children with generally mild or moderate sleep 
+apnea, likely to represent forms most often treated by otolaryngologists, to a separate group of 
+children scheduled for unrelated surgical care. Finally, this sample provided a rare opportunity 
+to study some subjects scheduled for AT despite having no polysomnographic evidence of 
+SDB. 
+
+We first tested the hypothesis that children who undergo AT, in comparison to other surgical 
+care, experience more neurobehavioral improvement one year after surgery. We then tested 
+the hypothesis that the AT children who had polysomnographic evidence of sleep apnea would 
+show such improvement while the two comparison groups would not. Comprehensive, well-
+validated assessments at enrollment and follow-up included nocturnal polysomnography, 
+parental behavioral ratings, cognitive testing, Multiple Sleep Latency Tests, and evaluations 
+by a child psychiatrist. Some interim results, mainly on polysomnographic methodology within 
+this 4-year study, have been reported previously.12-16 
+
+Pediatrics. Author manuscript; available in PMC 2006 May 1. 
+
+
+Chervin et al. Page 3 
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+METHODS 
+Subjects 
+
+Children between 5.0 and 12.9 years old who were scheduled for AT (n=78), for any indication, 
+were identified at 8 otolaryngology practices believed to perform the large majority of ATs in 
+Washtenaw County, Michigan (Figure 1). Children were excluded from this IRB-approved 
+study if they 1) required a polysomnogram for clinical purposes according to their surgeons, 
+2) had a history of SDB treatment, or 3) had severe medical or neurological conditions that 
+would preclude behavioral, psychiatric, or polysomnographic assessments. In children younger 
+than 5 years, hyperactivity (a key symptom of SDB 8) would have been difficult to distinguish 
+from developmentally-appropriate behavior,17 and cognitive testing would have required 
+substantial modification. After age 12, AT becomes increasingly rare and SDB may be more 
+closely associated with adult symptoms. Control subjects (n=27) within the same age range 
+were recruited from other surgical clinics where they were seen for concerns unrelated to risk 
+for SDB. Twelve control participants were scheduled for hernia repair, and the remainder for 
+no surgery. Controls were excluded for the above criteria, or for a history of large tonsils, 
+frequent throat infections, adenoidectomy, or tonsillectomy. For all subjects, one parent signed 
+an informed consent and the child signed an informed assent. 
+
+Participants resembled non-participants closely in most respects (Figure 1). Among the AT 
+participants, 71 (91%) were thought by their otolaryngologist to have nocturnal upper airway 
+obstruction. Of the 105 subjects studied at baseline, 100 (95%) participated in the follow-up 
+evaluations that took place at a mean of 13.0±1.4 months after the baseline assessments. The 
+mean age at baseline was 8.4 ± 1.9 years, and 60 subjects (57%) were male. Additional baseline 
+demographic data, for AT and control subjects, are provided in Table 1. At follow-up the mean 
+age was 9.5±1.9 years, and 57 subjects were male. 
+
+Baseline assessments were performed between December, 1999 and December, 2002. On the 
+evening of admission to the sleep laboratory each subject and parent was interviewed by a child 
+psychiatrist. The child then underwent polysomnography, and efforts were made to 
+approximate usual bedtimes and rise times. On the next day, neurobehavioral assessments 
+included a Multiple Sleep Latency Test of daytime sleepiness, neuropsychological testing, and 
+parental behavioral ratings. Children were given a $25 gift certificate to a toy store, and parents 
+a check for $100, to compensate them for their efforts. The entire assessment was repeated one 
+year later. 
+
+Polysomnography 
+
+Baseline digital polysomnography, generally within one month prior to scheduled surgery, 
+included four EEG channels (C3-A2, C4-A1, O1-A2, O2-A1 of the 10-20 international 
+electrode placement system), 2 EOG channels (right and left outer canthi), chin and bilateral 
+anterior tibialis EMG, and 2 EKG channels. Nasal and oral airflow were monitored with 
+thermocouples, thoracic and abdominal excursion with piezoelectric strain gauges, oxygen 
+saturation by finger oximetry (with viewable pulse waveform), end-tidal CO2 by pediatric nasal 
+cannula, and esophageal pressure through use of a thin water-filled catheter that has negligible 
+effects on sleep in children.18-20 When a volunteer research subject did not tolerate catheter 
+insertion, or esophageal pressure monitoring was maintained for < 2 hours, the data were 
+considered missing. This occurred in about 1/3 of the children.12 Nasal pressure was not used 
+because of high failure rates in children,21,22 insufficient space at the nares after CO2 cannula 
+and thermocouples were applied, and availability of esophageal pressure monitoring 
+considered to be the gold-standard in assessment of respiratory effort.23 
+
+Pediatrics. Author manuscript; available in PMC 2006 May 1. 
+
+
+Chervin et al. Page 4 
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+All records were scored by one experienced, registered sleep technologist, masked to all 
+information on clinical, demographic, and surgical status. To avoid any effect of scoring drift 
+over time, scoring took place in batches of 10 records that included pre- and post-operative 
+studies from 5 subjects. Sleep stage scoring followed standard protocols.24 Obstructive apneas 
+were scored when airflow was absent for at least 2 breath cycles. Hypopneas were scored when 
+at least 2 breath cycles of diminished airflow, chest movement, or abdominal movement were 
+followed by an arousal, an awakening, or a 4% or greater oxygen desaturation. Central apneas 
+not associated with a sigh or movement were scored when they were =20 seconds long, or else 
+=10 seconds long but associated with bradycardia or =4% oxygen desaturation.25 Respiratory 
+effort-related arousals 23 were scored when esophageal pressures gradually became more 
+negative by at least 5 cm of water over a period of at least 5 respiratory cycles; when the 
+sequence terminated in an arousal;26 and when no simultaneous apnea or hypopnea could be 
+scored. The respiratory disturbance index was defined as the number of obstructive, mixed, or 
+central apneas; hypopneas; and respiratory event-related arousals per hour of sleep. Obstructive 
+sleep apnea was considered present when the obstructive apnea index (number per hour of 
+sleep) was 1 or more 27 (operationalized as =0.50 to ensure that subjects not so identified had 
+no significant apnea). Although specific cut-points have not been widely-accepted, pediatric 
+obstructive sleep apnea can be considered mild when the apnea index is 1 – 4, moderate when 
+this index is 5 – 10, and severe when this index is > 10.28 
+
+Neurobehavioral Assessment 
+
+Behavior: Parents completed two well-validated, similar but complementary behavioral rating 
+instruments, the Conners' Parent Rating Scales-Revised (L) 29 and the Child Symptom 
+Inventory-4: Parent Checklist.30 A behavioral hyperactivity index was constructed from the 
+average of T-scores (mean of 50, standard deviation of 10) for inattention and hyperactivity 
+generated by the two instruments. For each component instrument, significant problematic 
+behavior is often identified by T-scores that are 1 to 2 standard deviations or more above the 
+mean. 
+
+The Conners' instrument contains 80 items and is often used when comprehensive, DSM-IVconsistent 
+data are required. Norms are based on a sample of more than 8000 male and female 
+children and adolescents aged 3 to 17 years, with good geographic and ethnic diversity. The 
+Attention-Deficit/Hyperactivity Disorder Index T-score was used to construct the behavioral 
+hyperactivity index. The Child's Symptom Inventory-4 is a 108-item behavior rating instrument 
+that screens for a variety of DSMIV-based childhood emotional and behavioral disorders in 
+male and female children aged 5-12 years in kindergarten through 6th grade. The T-score for 
+the Attention-Deficit/Hyperactivity Disorder subtest of the CSI-4 was used to construct the 
+behavioral hyperactivity index. 
+
+Cognition: A cognitive attention index was derived from the average of standard scores (mean 
+= 100, s.d. = 15) from each of two well-validated measures of attention. The first, the Integrated 
+Visual and Auditory Continuous Performance Test, assesses sustained attention, or vigilance, 
+and is administered on a personal computer.31,32 The child sees “1” or “2” on the screen and 
+clicks a mouse button only when “1” appears. The main testing period consists of 500 trials, 
+
+1.5 seconds each, in which the visual or auditory stimuli are presented briefly in a pseudorandom 
+pattern. The number of omissions, as reflected by the Full Scale Attention Quotient, 
+was the first component of the cognitive attention index. 
+The Attention/Concentration Subscale from the Children's Memory Scale 33 generated the 
+second component of the cognitive attention index. This subscale is made up of two subtests 
+—Numbers and Sequences. Numbers measures the ability to repeat, in a forward or backward 
+manner, random digit sequences of graduated length. Sequences measures the ability to 
+mentally manipulate and sequence verbal information as quickly as possible: the examinee is 
+
+Pediatrics. Author manuscript; available in PMC 2006 May 1. 
+
+
+Chervin et al. Page 5 
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+asked to perform such tasks as saying the days of the week backward and counting by 4's. 
+Standard scores from the CMS Numbers and Sequences subtests were converted into a standard 
+score for the CMS Attention/Concentration Scale. This score was then averaged with the Full 
+Scale Attention Quotient standard score to obtain an overall cognitive attention index. 
+
+Psychiatric Diagnosis: The diagnosis of Attention-Deficit/Hyperactivity Disorder based on 
+DSM-IV criteria was determined by a board-certified child psychiatrist, masked to any sleep 
+study results but not to surgical status. The psychiatrist administered the well-validated, 
+computerized Diagnostic Interview Schedule for Children – Parent Interview, present-state 
+version,34 and also interviewed the parent and child independently to verify results. 
+
+Sleepiness: The Multiple Sleep Latency Test 35 included 4 or 5 nap attempts at two-hour 
+intervals. The fifth nap was performed when one preceding nap showed rapid eye movement 
+(REM) sleep. For each nap, sleep onset was scored at the first epoch of stage 1 sleep. If no 
+sleep occurred, the nap opportunity terminated at 20 minutes, and this value was used in 
+calculation of a mean sleep latency. The Multiple Sleep Latency Test is the most well-validated 
+and widely-used objective assessment of daytime sleepiness in adults and children. The 
+Multiple Sleep Latency Test is not often administered to children younger than 7 years,36 but 
+is sensitive to SDB-related sleepiness in children as young as 3 years.37 
+
+Analysis 
+
+Data were entered into a database by a professional company that used double entry for 
+verification. The primary outcome was the behavioral hyperactivity index and the primary 
+explanatory variable was subject group (adenotonsillectomy vs. control). Secondary analyses 
+divided the adenotonsillectomy group into those with and without obstructive sleep apnea on 
+polysomnography, and examined group differences in additional outcome variables: apnea/ 
+hypopnea index, cognitive attention index, mean sleep latency, and diagnosis of AttentionDeficit/
+Hyperactivity Disorder. 
+
+A chi-square test or Fisher's Exact Test was used to test for group differences in frequency of 
+Attention-Deficit/Hyperactivity Disorder; McNemar's Test was used to test for changes over 
+time. For each of the 4 continuous outcome variables, a single repeated measures model was 
+implemented using PROC MIXED in SAS®, version 8.02 (SAS Institute Inc., Cary, NC). Each 
+analysis produced main effect tests for subject group and time (baseline vs. one-year follow-
+up) and a test for the group by time interaction. The models also allowed assessment of 
+differences between groups at both time points and the change over time in each group. Group 
+differences failed to show statistical significance for several potential covariates (such as 
+gender, race, body mass index, stimulant use, or socioeconomic group, as indicated in Table 
+1). The groups differed in mean age by one year, but age did not predict changes in outcomes 
+at follow-up. Histograms of residuals suggested that assumptions of normality were valid, 
+except for the apnea/hypopnea index, which required a natural logarithmic transformation (log 
+[x+1]). Finally, to explore whether additional, continuous sleep measures might predict 
+neurobehavioral measures more effectively, with or without adjustment for age, each 
+neurobehavioral measure was regressed in linear or logistic models on each polysomnographic 
+measure individually. 
+
+RESULTS 
+Polysomnography at Baseline and Follow-Up 
+
+Polysomnographic SDB measures are summarized in Table 2. The baseline obstructive apnea 
+index ranged from 0.0 to 38.2, and the apnea/hypopnea index from 0.0 to 74.4. Forty (51%) 
+of the 78 AT subjects, in comparison to only 1 (4%) of the 27 control subjects, had obstructive 
+
+Pediatrics. Author manuscript; available in PMC 2006 May 1. 
+
+
+Chervin et al. Page 6 
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+sleep apnea (X2=19.1, p<0.001). In most cases sleep apnea was in the mild to moderate range 
+of severity. 
+
+At follow-up, obstructive sleep apnea was found in only 9 (12%) of 77 AT children and in 3 
+(13%) of 23 controls (Fisher's exact test, p=1.00). Average SDB measures also improved 
+considerably, eliminating group differences at one year (Table 2). However, among 39 AT 
+subjects with obstructive sleep apnea at baseline, 8 (21%) still had it at follow-up; in 
+comparison, among 38 AT subjects without obstructive sleep apnea at baseline, only 1 (3%) 
+had it at follow-up (X2=6.0, p=0.01). 
+
+Adenotonsillectomy vs. Control Subjects 
+
+Least-squares mean values from the four generalized linear mixed models of apnea/hypopnea 
+index, behavioral hyperactivity index, cognitive attention index, and mean sleep latency are 
+shown in Figure 2. Table 3 shows the significance levels for the relevant hypotheses tests 
+derived from these models. The AT and control groups showed robust differences in the apnea/ 
+hypopnea index, behavioral hyperactivity index, cognitive attention index, and mean sleep 
+latency at baseline. In contrast, none of these differences reached significance at one year 
+(though the behavioral hyperactivity index showed a trend). Each outcome measure changed 
+significantly with time for the AT subjects, whereas none changed significantly for the control 
+subjects. The time by group interaction for mean sleep latency and apnea/hypopnea index 
+shows that their changes over time differed significantly between the AT group and control 
+groups, as illustrated by the non-parallel slopes in Figure 2. 
+
+Adenotonsillectomy with Obstructive Sleep Apnea, Adenotonsillectomy without Obstructive 
+Sleep Apnea, and Control Subjects 
+
+The results for the three-group analyses are illustrated in Figure 3 and significance levels are 
+detailed in Table 4. Again, the groups differed significantly in each outcome at baseline but in 
+no outcome at follow-up. The apnea/hypopnea index and mean sleep latency improved 
+significantly with time in the AT subjects with obstructive sleep apnea but not in AT subjects 
+without obstructive sleep apnea. In contrast, both the behavioral hyperactivity index and the 
+cognitive attention index improved with time as much or more among AT subjects without 
+sleep apnea as they did among AT subjects with sleep apnea. Time by group interactions 
+showed significant group differences in changes over time only for the apnea/hypopnea index 
+and mean sleep latency. 
+
+Diagnosis of Attention-Deficit/Hyperactivity Disorder 
+
+Twenty-two (28%) of the AT subjects had Attention-Deficit/Hyperactivity Disorder at 
+baseline, in comparison to only 2 (7%) of the controls (X2=4.9, p=0.03). Among the 22 AT 
+subjects, 9 met criteria for the inattentive subtype of Attention-Deficit/Hyperactivity Disorder, 
+2 for the hyperactive subtype, and 11 for the combined subtype. Eleven (50%) of the 22 no 
+longer qualified for the diagnosis one year later. To demonstrate the extent to which this change 
+exceeded instability in the diagnosis over time in the opposite direction and without AT, the 
+22 subjects were combined with 21 controls who had no Attention-Deficit/Hyperactivity 
+Disorder at baseline, among whom only 2 (10%) newly qualified for the diagnosis one year 
+later (McNemar's test, p=0.01). The frequency of Attention-Deficit/Hyperactivity Disorder 
+was not significantly different between all AT and all control subjects after surgery (21% vs. 
+9%, Fisher's Exact Test, p=0.23). Both at baseline and follow-up, the frequency of this 
+diagnosis was nearly identical among those AT subjects with and without baseline sleep apnea 
+(28% vs. 29% at baseline, and 23% vs. 18% at follow-up, p>0.6 for each). 
+
+Pediatrics. Author manuscript; available in PMC 2006 May 1. 
+
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+Chervin et al. Page 7 
+
+Additional Polysomnographic Measures and Outcomes 
+
+At baseline, no behavioral, cognitive, or psychiatric outcome measure was associated with any 
+Table 2 polysomnographic variable in regression models (all p>0.05). In contrast, increased 
+sleepiness was associated with higher levels of each SDB measure except for the arousal index 
+(Table 5). Model results for the 4 neurobehavioral variables were essentially no different after 
+adjustment for age. No neurobehavioral morbidity showed a newly-significant association with 
+a polysomnographic variable when the analyses were confined to the 78 AT subjects, or to the 
+40 AT subjects with obstructive sleep apnea (mean obstructive apnea index = 5.6±8.0, mean 
+apnea/hypopnea index = 13.1±15.3). 
+
+Similarly, one-year change scores for behavioral, cognitive, and psychiatric outcomes showed 
+no significant associations with changes in SDB measures. In contrast, improvement in the 
+mean sleep latency was predicted by improvement in every SDB measure except for end-tidal 
+CO2 (Table 6). Adjustment of each model for age did not change the findings, except that 
+diminished apnea/hypopnea index was associated with improved attention (p=0.04). 
+Restriction of the analyses to AT subjects did not make any association between 
+neurobehavioral and sleep changes newly significant; restriction to AT subjects with baseline 
+obstructive sleep apnea again revealed only a marginally-significant association between 
+diminished apnea/hypopnea index and improved attention (p=0.04). 
+
+DISCUSSION 
+
+This prospective study of 105 children who had AT or unrelated surgical care shows that 
+prominent baseline group differences in hyperactive behavior, attention deficit, sleepiness, and 
+frequency of Attention-Deficit/Hyperactivity Disorder became difficult to identify one year 
+after surgery. These improvements are remarkable because hyperactivity and inattention 
+generally are expected to be chronic features in affected school-aged children.17 After AT, 
+parental ratings for hyperactivity and cognitive scores for inattention declined by nearly 0.5 
+standard deviations; half of the children with Attention-Deficit/Hyperactivity Disorder no 
+longer qualified for the diagnosis; and an objective measure of sleepiness improved. 
+Surprisingly, common laboratory measures of SDB severity did not show associations with 
+baseline neurobehavioral morbidity other than sleepiness, and one-year changes in laboratory 
+measures generally did not predict neurobehavioral outcomes except for reduced sleepiness. 
+Findings from this relatively comprehensive, long-term study of neurobehavioral outcomes 
+after treatment of mild to moderate childhood SDB have several important implications for 
+our understanding of pediatric SDB and for clinical practice. 
+
+Clear improvement in our subjects after AT provides new suggestive evidence for a cause-andeffect 
+relationship between SDB – at least as identified in the office by otolaryngologists -and 
+several adverse behavioral, cognitive, and mental health outcomes. However, our non-
+randomized study design cannot prove cause and effect. Moreover, the poor correspondence 
+between SDB measures and neurobehavioral outcomes, at baseline and follow-up, seems to 
+run directly counter to expectations if SDB causes these morbidities. The one exception, for 
+daytime sleepiness, is surprising because most pediatric sleep specialists have considered 
+hyperactivity and inattention to be more prominent than overt sleepiness in childhood SDB.
+38 However, the extent of improvement in sleepiness, by only one minute on average in the 
+Multiple Sleep Latency Test, may have limited clinical significance. 
+
+The lack of significant associations between SDB measures and either neurobehavioral 
+morbidity or treatment outcomes could simply reflect inadequate sample size. However, to our 
+knowledge this prospective series of children studied with detailed sleep and behavioral 
+measures represents the largest to date. The sample size proved more than sufficient to identify 
+statistically-robust post-operative changes in both explanatory and outcome variables. 
+
+Pediatrics. Author manuscript; available in PMC 2006 May 1. 
+
+
+Chervin et al. Page 8 
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+Therefore, we believe that lack of better correspondence between these variables may reflect 
+limitations of standard SDB measures in assessment of the highly-prevalent, mild SDB that is 
+commonly treated by otolaryngologists. 
+
+Support for this suspicion also derives from a growing number of other investigations. At least 
+3 cross-sectional studies found that hyperactive behavior or cognitive deficits correlated well 
+with SDB symptoms such as snoring, but not polysomnographic measures of SDB severity.
+5,39,40 Esophageal pressure monitoring, to assess the excessive respiratory effort believed to 
+disturb sleep in SDB,23,41 was not monitored in these studies and may have provided unique 
+information on subtle SDB in children.42 However, successful use of this method in most of 
+our subjects to refine a respiratory disturbance index did not improve the outcome-based 
+effectiveness of diagnostic polysomnography. This was probably because the esophageal 
+pressure monitoring did not prove to identify many discrete events beyond those already 
+captured by sensitive, two-breath criteria now commonly used for pediatric hypopneas. 
+
+Several limitations to our study and its conclusions merit discussion. This study did not test 
+the overall utility of polysomnography, as non-neurobehavioral outcomes were not studied, 
+and neither were several other common reasons for pre-operative testing, such as assessment 
+of operative risk.43 Families who refused to participate clearly outnumbered participants, as 
+in most clinical research. Although data available to compare the two groups were largely 
+reassuring, an influence of referral bias on baseline findings in particular cannot be excluded. 
+The sleep and cognitive testing we used are considered objective, but parents and psychiatrists 
+who assessed the children could not be masked to surgical status. Recruitment of control 
+subjects for this study from non-otolaryngology clinics provided a group comparable in terms 
+of exposure to the medical system, but not levels of baseline hyperactivity. Regression to the 
+mean potentially could explain some of the neurobehavioral improvement in the AT group. 
+However, recruitment and observation of children with neurobehavioral problems for one year 
+without treatment was not a realistic option. Moreover, the excess neurobehavioral problems 
+identified in our AT subjects did not arise from specific efforts to recruit for these traits. Data 
+that compared participants to non-participants at baseline suggested only a limited difference 
+in the frequency of parental concern for behavioral problems. 
+
+In conclusion, our data on subjects identified within otolarygnologists' practices help to 
+characterize the cognitive and behavioral burden carried by many of their patients and relieved 
+one year after AT. The findings suggest that SDB, though usually in the mild-to-moderate 
+range, nonetheless carries risk for substantial, reversible neurobehavioral morbidity. The 
+polysomnographic data, along with previous reports, increasingly suggest that children with 
+“primary snoring” – in the absence of frequent apneic events, arousals, or gas exchange 
+abnormalities – may still be at risk for significant neurobehavioral consequences. Published 
+guidelines that recommend objective testing before AT, to distinguish SDB from primary 
+snoring,8 may deserve reevaluation as new outcome data emerge on children with negative 
+polysomnograms.10 
+
+Finally, the lack of better outcome-based performance of standard polysomnographic measures 
+in mild pediatric SDB is a particular clinical concern: these are the children, rather than those 
+with severe SDB, for whom effective objective measures could have the most impact. Our data 
+must raise the possibility that some correlate of SDB, rather than SDB itself, causes the 
+morbidity we studied.44 However, we also speculate that new SDB measures could be 
+developed with better ability to predict neurobehavioral outcomes. Approaches with potential 
+promise, for example, could involve characterization of the cyclic alternating pattern in 
+children,45 respiratory and non-respiratory arousals,46 or subtle electroencephalographic 
+changes that occur on a breath-to-breath basis during non-apneic sleep.16 
+
+Pediatrics. Author manuscript; available in PMC 2006 May 1. 
+
+
+Chervin et al. Page 9 
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+ACKNOWLEDGEMENTS 
+
+The authors thank the children and parents who participated in this research for their time, interest, and altruism; Judith 
+
+L. Wiebelhaus, RPSGT, REEGT, for expert technical assistance; Morton B. Brown, Ph.D., and Deanna J. Marriott, 
+Ph.D., for assistance and insight with regard to study design and biostatistics; and the following physicians and 
+surgeons for assistance with identification of subjects or execution of the protocol: Ronald S. Bogdasarian, M.D., 
+Donna Champine, M.D., Susan L. Garetz, M.D., Laurence Ho, M.D., Paul T. Hoff, M.D., Charles Koopman, M.D., 
+Marci M. Lesperance, M.D., M.D., and Thomas A. Weimert, M.D. 
+Reference List 
+
+1. Marcus CL. Sleep-disordered breathing in children. Am J Resp Crit Care Med 2001;164:16–30. 
+[PubMed: 11435234] 
+2. Guilleminault C, Winkle R, Korobkin R, Simmons B. Children and nocturnal snoring-- evaluation of 
+the effects of sleep related respiratory resistive load and daytime functioning. Eur J Pediatr 
+1982;139:165–171. [PubMed: 7160405] 
+3. Blunden S, Lushington K, Kennedy D, Martin J, Dawson D. Behavior and neurocognitive performance 
+in children aged 5-10 years who snore compared to controls. Journal of Clinical & Experimental 
+Neuropsychology 2000;22:554–568. [PubMed: 11094391] 
+4. Chervin RD, Archbold KH, Dillon JE, et al. Inattention, hyperactivity, and symptoms of sleep-
+disordered breathing. Pediatrics 2002;109:449–456. [PubMed: 11875140] 
+5. Gottlieb DJ, Chase C, Vezina RM, et al. Sleep-disordered breathing symptoms are associated with 
+poorer cognitive function in 5-year-old children. J Pediatr 2004;145:458–464. [PubMed: 15480367] 
+6. Rosen CL, Storfer-Isser A, Taylor HG, Kirchner HL, Emancipator JL, Redline S. Increased behavioral 
+morbidity in school-aged children with sleep-disordered breathing. Pediatrics 2004;114:1640–1648. 
+[PubMed: 15574628] 
+7. Weatherly RA, Mai EF, Ruzicka DL, Chervin RD. Identification and evaluation of obstructive sleep 
+apnea prior to adenotonsillectomy in children: a survey of practice patterns. Sleep Med 2003;4:297– 
+307. [PubMed: 14592302] 
+8. American Academy of Pediatrics, Section on Pediatric Pulmonology, Subcommittee on Obstructive 
+Sleep Apnea Syndrome. Clinical practice guideline: diagnosis and management of childhood 
+obstructive sleep apnea syndrome. Pediatrics 2002;109:704–712. [PubMed: 11927718] 
+9. Messner AH. Evaluation of obstructive sleep apnea by polysomnography prior to pediatric 
+adenotonsillectomy. Archives of Otolaryngology Head and Neck Surgery 1999;125:353–356. 
+[PubMed: 10190812] 
+10. O'Brien LM, Mervis CB, Holbrook CR, et al. Neurobehavioral implications of habitual snoring in 
+children. Pediatrics 2004;114:44–49. [PubMed: 15231906] 
+11. Guilleminault C, Li K, Khramtsov A, Palombini L, Pelayo R. Breathing patterns in prepubertal 
+children with sleep-related breathing disorders. Arch Pediatr Adolesc Med 2004;158:153–161. 
+[PubMed: 14757607] 
+12. Chervin RD, Ruzicka DL, Wiebelhaus JL, et al. Tolerance of esophageal pressure monitoring during 
+polysomnography in children. Sleep 2003;26:1022–1026. [PubMed: 14746385] 
+13. Weatherly RA, Ruzicka DL, Marriott DJ, Chervin RD. Polysomnography in children scheduled for 
+adenotonsillectomy. Otolaryngol Head Neck Surg 2004;131:727–731. [PubMed: 15523455] 
+14. Archbold KH, Giordani B, Ruzicka DL, Chervin RD. Cognitive executive dysfunction in children 
+with mild sleep-disordered breathing. Biological Research in Nursing 2004;5:168–176. 
+15. Chervin RD, Burns JW, Subotic NS, Roussi C, Thelen B, Ruzicka DL. Method for detection of 
+respiratory cycle-related EEG changes in sleep-disordered breathing. Sleep 2004;27:110–115. 
+[PubMed: 14998246] 
+16. Chervin RD, Burns JW, Subotic NS, Roussi C, Thelen B, Ruzicka DL. Correlates of respiratory cycle-
+related EEG changes in children with sleep-disordered breathing. Sleep 2004;27:116–121. [PubMed: 
+14998247] 
+17. American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, Fourth 
+Edition, Text Revision. American Psychiatric Association; Washington DC: 2000. 
+Pediatrics. Author manuscript; available in PMC 2006 May 1. 
+
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+Chervin et al. Page 10 
+
+18. Asher MI, Coates AL, Collinge JM, Milic-Emili J. Measurement of pleural pressure in neonates. J 
+Appl Physiol 1982;52:491–494. [PubMed: 7061304] 
+19. Kushida CA, Giacomini A, Lee MK, Guilleminault C, Dement WC. Technical protocol for the use 
+of esophageal manometry in the diagnosis of sleep-related breathing disorders. Sleep Med 
+2002;3:163–173. [PubMed: 14592238] 
+20. Chervin RD, Aldrich MS. Effects of esophageal pressure monitoring on sleep architecture. Am J Resp 
+Crit Care Med 1997;156:881–885. [PubMed: 9310008] 
+21. Serebrisky D, Cordero R, Mandeli J, Kattan M, Lamm C. Assessment of inspiratory flow limitation 
+in children with sleep-disordered breathing by a nasal cannula pressure transducer system. Pediatr 
+Pulmonol 2002;33:380–387. [PubMed: 11948984] 
+22. Trang H, Leske V, Gaultier C. Use of nasal cannula for detecting sleep apneas and hypopneas in 
+infants and children. Am J Resp Crit Care Med 2002;166:464–468. [PubMed: 12186821] 
+23. American Academy of Sleep Medicine Task Force. Sleep-related breathing disorders in adults: 
+Recommendations for syndrome definition and measurement techniques in clinical research. Sleep 
+1999;22:667–689. [PubMed: 10450601] 
+24. Rechtschaffen, A.; Kales, A. A manual of standardized terminology, techniques and scoring system 
+for sleep stages of human subjects. Brain Information Service/ Brain Research Institute, UCLA; Los 
+Angeles: 1968. 
+25. American Thoracic Society: Medical Section of the American Lung Association. Standards and 
+indications for cardiopulmonary sleep studies in children. Am J Resp Crit Care Med 1996;153:866– 
+878. [PubMed: 8564147] 
+26. American Sleep Disorders Association. EEG arousals: scoring rules and examples. Sleep 
+1992;15:173–184. [PubMed: 11032543] 
+27. Marcus CL, Omlin KJ, Basinski DJ, et al. Normal polysomnographic values for children and 
+adolescents. Am Rev Respir Dis 1992;146:1235–1239. [PubMed: 1443877] 
+28. Katz, ES.; Marcus, CL. Diagnosis of obstructive sleep apnea syndrome in infants and children. In: 
+Sheldon, SH.; Ferber, R.; Kryger, MH., editors. Principles and Practice of Pediatric Sleep Medicine. 
+Elsevier Saunders; 2005. p. 197-210. 
+29. Conners, CK. Conners' Rating Scales - Revised. Multi-Health Systems Publishing; North Tonawanda, 
+NY: 1997. 
+30. Gadow, KD.; Sprafkin, J. Child Symptom Inventory-4. Checkmate Plus; Stony Brook, N.Y.: 1994. 
+31. Sandford, JA.; Turner, A. Manual for the Integrated Visual and Auditory Continuous Performance 
+Test. Braintrain; Richmond, VA: 1995. 
+32. Halperin JM, Sharma V, Greenblatt E, Schwartz ST. Assessment of the continuous performance test: 
+reliability and validity in a nonreferred sample. Psychological Assessment 1991;3:603–608. 
+33. Cohen, MJ. Children's Memory Scale. The Psychological Corporation; San Antonio: 1997. 
+34. Shaffer D, Fisher P, Dulcan MK, et al. The NIMH Diagnostic Interview Schedule for Children Version 
+2.3: Description, acceptability, prevalence rates, and performance in the MECA study. J Am Acad 
+Child Adolesc Psychiatry 1996;35:865–877. [PubMed: 8768346] 
+35. Carskadon MA, Dement WC, Mitler MM, Roth T, Westbrook PR, Keenan S. Guidelines for the 
+multiple sleep latency test (MSLT): a standard measure of sleepiness. Sleep 1986;9:519–524. 
+[PubMed: 3809866] 
+36. Hoban TF, Chervin RD. Assessment of sleepiness in children. Seminars in Pediatric Neurology 
+2001;8:216–228. [PubMed: 11768784] 
+37. Gozal D, Wang M, Pope DW Jr. Objective sleepiness measures in pediatric obstructive sleep apnea. 
+Pediatrics 2002;108:693–697. [PubMed: 11533338] 
+38. Carroll JL, Loughlin GM. Diagnostic criteria for obstructive sleep apnea syndrome in children. Pediatr 
+Pulmonol 1992;14:71–74. [PubMed: 1437352] 
+39. O'Brien LM, Holbrook CR, Mervis CB, et al. Sleep and neurobehavioral characteristics of 5- to 7year-
+old children with parentally reported symptoms of attention-deficit/hyperactivity disorder. 
+Pediatrics 2003;111:554–563. [PubMed: 12612236] 
+40. Melendres CS, Lutz JM, Rubin ED, Marcus CL. Daytime sleepiness and hyperactivity in children 
+with suspected sleep-disordered breathing. Pediatrics 2004;114:768–775. [PubMed: 15342852] 
+Pediatrics. Author manuscript; available in PMC 2006 May 1. 
+
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+Chervin et al. Page 11 
+
+41. Gleeson K, Zwillich CW, White DP. The influence of increasing ventilatory effort on arousal from 
+sleep. Am Rev Respir Dis 1990;142:295–300. [PubMed: 2382892] 
+42. Guilleminault C, Pelayo R, Leger D, Clerk A, Bocian RCZ. Recognition of sleep-disordered breathing 
+in children. Pediatrics 1996;98:871–882. [PubMed: 8909480] 
+43. Rosen G. Identification and evaluation of obstructive sleep apnea prior to adenotonsillectomy in 
+children: is there a problem? Sleep Med 2003;4:273–274. [PubMed: 14592298] 
+44. Chervin RD, Archbold KH. Hyperactivity and polysomnographic findings in children evaluated for 
+sleep-disordered breathing. Sleep 2001;24:313–320. [PubMed: 11322714] 
+45. LopesMARosaARoizenblattSCyclic alternating pattern in peripubertal children. Sleep200528(in 
+press) 
+46. O'Brien LM, Tauman R, Gozal D. Sleep pressure correlates of cognitive and behavioral morbidity in 
+snoring children. Sleep 2004;27:279–282. [PubMed: 15124723] 
+Pediatrics. Author manuscript; available in PMC 2006 May 1. 
+
+
+Chervin et al. Page 12 
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+
+Figure 1. 
+
+The 105 subjects who participated in this study were identified as shown. Although a minority 
+of non-participating families refused any discussion with investigators about the study and 
+generated no basis for comparison to participants, some data were collected with permission 
+by phone from many families who expressed willingness to hear about the study but later 
+declined to participate. Comparisons between the 78 AT subjects whose data we report and 
+those who did not participate (n = 136 to 173 whose data were available, depending on the 
+variable in question), and separately between the 27 controls who participated and those who 
+did not (n = 107 to 362), failed to reveal any statistically significant differences in gender, 
+racial distribution, socioeconomic status (high = groups 3, 4, or 5 vs. low = groups 1 or 2), 
+history of chronic tonsillitis, snoring frequency, or witnessed apneas. Participants were slightly 
+older than non-participants in both the AT and control groups, by 0.5 years (p = 0.07) and 1.2 
+years (p = 0.01) respectively. Parents of 56% of the AT participants had behavioral concerns 
+about their children, whereas only 40% of the non-participant AT parents had such concerns 
+(p = 0.04). In contrast, identical percentages of control participants and non-participants (15% 
+for each) had such concerns (p = 1.00). 
+
+Pediatrics. Author manuscript; available in PMC 2006 May 1. 
+
+
+Chervin et al. Page 13 
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+
+
+Figure 2. 
+
+Estimated least-squares means and their standard errors, obtained from repeated measures 
+analysis of variance models, are shown for four study outcomes: rates of apneas and hypopneas 
+(transformed), hyperactivity, attention, and sleepiness. Data are plotted for adenotonsillectomy 
+(.) and control subjects (¦). Stars indicate significant (p<0.05) differences at baseline or one 
+year, or significant time by group interaction (see Table 3). 
+
+Pediatrics. Author manuscript; available in PMC 2006 May 1. 
+
+
+Chervin et al. Page 14 
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+
+
+Figure 3. 
+
+Estimated least-squares means and their standard errors, obtained from repeated measures 
+analysis of variance models, are shown for four study outcomes and three groups of subjects: 
+adenotonsillectomy with obstructive sleep apnea (.), adenotonsillectomy without sleep apnea 
+(.), and controls (¦). Stars indicate significant (p<0.05) differences at baseline or one year, 
+or significant time by group interaction (see Table 4). 
+
+Pediatrics. Author manuscript; available in PMC 2006 May 1. 
+
+
+Chervin et al. Page 15 
+
+Table 1 
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+Demographic data at enrollment (mean ± s.d., or n (%)) for adenotonsillectomy and control subjects. 
+
+
+Age (years)
+Gender (male) 
+Race (Caucasian) 
+Body mass index (Kg / meters2)
+Stimulant use 
+Special services in school 
+Socioeconomic group ** 
+Subjects with 1 or more previous hospital admissions 
+* 
+Adenotonsillectomy (n = 78) 
+8.1 ± 1.8 
+41 (52.6) 
+66 (84.6) 
+20.0 ± 5.1 
+1 (1.3) 
+15 (19.2) 
+2.6 ±1.0 
+22 (28.2) 
+Control (n = 27) 
+9.3 ± 2.0 
+19 (70.4) 
+20 (74.1) 
+18.9 ± 2.9 
+0 (0.0) 
+2 (7.4) 
+2.5 ± 0.7 
+11 (40.1) 
+p-value * 
+0.007 
+0.11 
+0.22 
+0.17 
+1.00 
+0.15 
+0.37 
+0.23 
+Chi-square, Fisher's exact, or T-test, as appropriate 
+** 
+As distinguished by 6 Hollingsworth categories 
+
+Pediatrics. Author manuscript; available in PMC 2006 May 1. 
+
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+Chervin et al. Page 16 
+Table 2 
+Polysomnographic measures of sleep-disordered breathing (mean ± s.d.) 
+Obstructive apnea indexApnea/hypopnea index 
+Respiratory disturbance index * 
+Arousal index 
+AT (n = 78) 
+2.9 ± 6.3 
+7.3 ± 12.5 
+7.6 ± 11.3 
+12.6 ± 6.4 
+Baseline 
+Control (n =
+27) 
+0.2 ± 0.4 
+1.2 ± 1.9 
+1.4 ± 2.0 
+11.1 ± 5.8 
+T-test p-
+value 
+<0.001 
+<0.001 
+<0.001 
+0.27 
+AT (n = 77) 
+0.2 ± 0.3 
+1.1 ± 1.1 
+1.1 ± 0.9 
+9.8 ± 2.9 
+One Year Follow-UpControl (n =
+23) 
+0.2 ± 0.5 
+1.2 ± 1.8 
+1.8 ± 2.6 
+10.4 ± 4.5 
+T-test p-
+value 
+0.91 
+0.76 
+0.36 
+0.58 
+Minimum oxygen saturationPercent sleep time spent with end-
+tidal CO2 > 50 mm Hg ** 
+* 
+91.1 ± 7.9 
+36.1 ± 38.6 
+94.2 ± 3.1 
+19.8 ± 35.5 
+0.005 
+0.06 
+93.7 ± 2.6 
+22.0 ± 34.8 
+93.5 ± 2.5 
+10.2 ± 26.5 
+0.68 
+0.15 
+Available for 54 AT and 22 control subjects at baseline, 42 AT and 13 control subjects at follow-up 
+** 
+Available for 71 AT and 27 control subjects at baseline, 77 AT and 22 control subjects at follow-up 
+
+Pediatrics. Author manuscript; available in PMC 2006 May 1. 
+
+
+Chervin et al. Page 17 
+
+Table 3 
+
+Significance levels (p-values) from four repeated measures ANOVA models that compared children who had 
+adenotonsillectomy (n=78) and controls (n=27). 
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+Outcome Variable Main Main Time by GroupGroupTime Time 
+effect effect groupdifferences differences differences differences 
+for for interaction at baseline at one year for AT for control 
+group time group group
+
+Apnea/hypopnea index 0.002 <0.001 <0.001 <0.001 0.919 <0.001 0.768 
+Behavioral Hyperactivity Index 0.008 0.022 0.172 0.003 0.056 <0.001 0.588 
+Cognitive Attention Index 0.037 0.011 0.280 0.020 0.133 <0.001 0.390 
+Mean Sleep Latency 0.051 0.707 0.005 0.002 0.745 0.001 0.160 
+
+Pediatrics. Author manuscript; available in PMC 2006 May 1. 
+
+
+Chervin et al. Page 18 
+Table 4 
+Significance levels (p-values) from four repeated measures ANOVA models that compared children who had 
+adenotonsillectomy in the presence of obstructive sleep apnea (AT+OSA, n=40), those who had 
+adenotonsillectomy in the absence of obstructive sleep apnea (AT-OSA, n=38), and controls (n=27). 
+Dependent variable Main 
+effect 
+for 
+Main 
+effect 
+for 
+Time by 
+groupinteraction 
+Groupdifference 
+at 
+Groupdifference 
+at one 
+Time 
+difference 
+for AT 
+Time 
+difference 
+for AT 
+Time 
+difference 
+for 
+Apnea/hypopnea index 
+Behavioral Hyperactivity Index 
+Cognitive Attention IndexMean Sleep Latency 
+group<0.001 
+0.020 
+0.041 
+0.124 
+time 
+<0.001 
+0.002 
+0.002 
+0.097 
+<0.001 
+0.362 
+0.478 
+0.001 
+baseline 
+<0.001 
+0.008 
+0.022 
+0.002 
+year0.526 
+0.129 
+0.166 
+0.939 
++OSA 
+<0.001 
+0.018 
+0.013 
+<0.001 
+-OSA 
+0.234 
+0.003 
+0.006 
+0.335 
+controls 
+0.515 
+0.620 
+0.505 
+0.133
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+Pediatrics. Author manuscript; available in PMC 2006 May 1. 
+
+
+Chervin et al. Page 19 
+
+Table 5 
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+Simple linear regression models of baseline mean sleep latency* on each listed baseline polysomnographic 
+measure of sleep-disordered breathing 
+
+Polysomnographic Variable Beta s.e. R2 p-value 
+Obstructive apnea index -0.14 0.06 0.055 0.02 
+Apnea/hypopnea index -0.06 0.03 0.049 0.02 
+Respiratory disturbance index ** -0.09 0.04 0.068 0.02 
+Arousal index -0.06 0.05 0.015 0.21 
+Minimum oxygen saturation 0.13 0.04 0.076 0.005 
+Percent sleep time spent with end-tidal CO2 > 50 mmHG *** -0.02 0.01 0.074 0.007 
+* 
+
+on Multiple Sleep Latency Test 
+
+** 
+
+Available for 54 AT and 22 control subjects 
+
+*** 
+
+Available for 71 AT and 27 control subjects 
+
+Pediatrics. Author manuscript; available in PMC 2006 May 1. 
+
+
+Chervin et al. Page 20 
+
+Table 6 
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+Simple linear regression models of one-year change in mean sleep latency * (follow-up minus baseline) on change 
+in each polysomnographic measure of sleep-disordered breathing 
+
+Polysomnographic Variable Beta s.e. R2 p-value 
+Obstructive apnea index -0.16 0.05 0.091 0.003 
+Apnea/hypopnea index -0.09 0.03 0.121 <0.001 
+Respiratory disturbance index ** -0.10 0.04 0.106 0.02 
+Arousal index -0.15 0.05 0.081 0.004 
+Minimum oxygen saturation 0.13 0.04 0.097 0.002 
+Percent sleep time spent with end-tidal CO2 > 50 mmHG *** -0.01 0.01 0.012 0.31 
+* 
+
+on Multiple Sleep Latency Test 
+
+** 
+
+Baseline and follow-up data available for 42 AT and 13 control subjects 
+
+*** 
+
+Baseline and follow-up data available for 70 AT and 22 control subjects 
+
+Pediatrics. Author manuscript; available in PMC 2006 May 1. 
+
+

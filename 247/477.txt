@@ -1,0 +1,925 @@
+Behavior Problems Associated with Sleep Disordered Breathing in 
+School-Aged Children—the Tucson Children’s Assessment of Sleep 
+Apnea Study 
+
+Shelagh A. Mulvaney,1 PHD, James L. Goodwin,2 PHD, Wayne J. Morgan,3 MD, 
+Gerald R. Rosen,4 MD, Stuart F. Quan,5 MD, and Kristine L. Kaemingk ,6 PHD 
+
+
+1Center for Evaluation and Program Improvement, Vanderbilt University, 2Arizona Respiratory 
+Center and Department of Medicine, University of Arizona, 3Arizona Respiratory Center and 
+Department of Pediatrics, University of Arizona, 4Department of Pediatrics, University of Minnesota, 
+5Arizona Respiratory Center and Department of Medicine, University of Arizona, and 6Department 
+of Pediatrics & Steele Memorial Children’s Research Center, University of Arizona 
+
+Objective The purpose of the current study was to examine prevalence of and 
+relations between a commonly used measure of nighttime breathing problems, the 
+Respiratory Disturbance Index (RDI), and a range of problem behaviors in community 
+children. Methods Participants were 403 unreferred children aged 6–12 years. Recruitment 
+was completed through public elementary schools. Overnight unattended in-home 
+polysomnography was used to assess sleep and breathing. The RDI was used as the indicator 
+of respiratory events during sleep. The Child Behavior Checklist and the Conners’ Parent 
+Rating Scales-Revised were used to assess behavior. Results Prevalence rates for 
+Attention, Cognitive Problems, Aggression, Oppositional behavior, and Social Problems 
+were greatest for subjects with high RDIs. Prevalence for Internalizing behaviors was not 
+greater for those subjects with high RDIs. Hyperactivity was not strongly related to higher 
+RDIs. Conclusions Behavioral problems may exist in the presence of nocturnal breathing 
+events in unreferred children. Specific patterns of behavioral morbidity have still not been 
+established. Some behaviors, such as hyperactivity, may show differing sensitivity and specificity 
+in relation to the RDI. 
+
+Key words behavior; children; Child Behavior Checklist; Conners’ Parent Rating Scales— 
+Revised; prevalence; Respiratory Disturbance Index; sleep disordered breathing. 
+
+Introduction 
+vous system problems, genetic abnormalities such as 
+Down’s syndrome, structural abnormalities of the crian-
+
+Sleep disordered breathing (SDB) is a condition in which 
+
+iofacial area, and enlarged tonsils (Erler & Paditz, 2004). 
+
+breathing is reduced for brief periods of time during 
+
+Adults with this disorder exhibit excessive daytime 
+
+sleep. Sleep apnea, defined as complete cessation of 
+
+sleepiness, cognitive problems, and loud snoring (Gotfried 
+
+breathing, is the most extreme form of SDB. In children, 
+
+& Quan, 1984). SDB has been estimated to be present in 
+
+the minimum duration of these periods is 2 breath 
+
+2–3% of the pediatric population. (For reviews of SDB in 
+
+cycles or 6 seconds (Goodwin et al., 2001), but some 
+
+children, see O’Brien, Mervis, Holbrook, Bruner, Smith 
+
+can be longer than 20 seconds. The etiology of the disor
+
+
+et al., 2004, and Schecter, 2002). 
+
+der in children has been linked to obesity, central ner-
+
+All correspondence concerning this article should be addressed to: Shelagh A. Mulvaney, Center for Evaluation and 
+Program Improvement, Vanderbilt University, Peabody 151, 230 Appleton Place, Nashville, Tennessee 37203. E-mail: 
+shelagh.mulvaney@vanderbilt.edu. 
+
+Journal of Pediatric Psychology 31(3) pp. 322–330, 2006 
+doi:10.1093/jpepsy/jsj035 
+Advance Access publication May 11, 2005 
+Journal of Pediatric Psychology vol. 31 no. 3 © The Author 2005. Published by Oxford University Press on behalf of the Society of Pediatric Psychology. 
+All rights reserved. For permissions, please e-mail: journals.permissions@oupjournals.org 
+
+
+
+Behavioral Problems Associated with Sleep Disordered Breathing 323 
+
+Recent research has indicated that children with SDB 
+or snoring show higher levels of, and increased risk for, 
+behavioral and cognitive abnormalities (Blunden, 
+Lushington, Kennedy, Martin, & Dawson, 2000; Chervin, 
+Dillon, Bassetti, Gonoczy, & Pituch, 1997; Guilleminault, 
+Korobkin, & Winkle, 1981; O’Brien, Mervis, Holbrook, 
+Bruner, Klaus et al., 2004; Owens, Spirito, Marcotte, 
+McGuinn, & Berkelhammer, 2000; Rosen et al., 2004; 
+Schecter, 2002). Studies to date have been correlational in 
+nature. The strongest causal data available indicate that 
+treatment for SDB can result in significant improvement 
+in behavior and school performance (Gozal, 1998; 
+Stradling, Thomas, Warley, Williams, & Freeland, 1990). 
+Studies that have examined sleep using polysomnography 
+in children with previously diagnosed Attention Deficit 
+Hyperactivity Disorder (ADHD) have found increased 
+sleep related problems such as sleepiness, reduced Rapid 
+Eye Movement (REM) sleep, or awakenings but none 
+have found an increased level of nocturnal breathing 
+events (apneas/hypopneas) during sleep (Cohen-Zion & 
+Ancoli-Israel, 2004; Golan, Shahar, Ravid, & Pillar, 2004; 
+O’Brien et al., 2003). 
+
+A wide range of behavioral problems have been associated 
+with SDB or snoring in children including somatic 
+complaints, anxiety/depression, aggression, oppositional 
+behavior, conduct problems, inattention, and hyperactivity 
+(Blunden et al. 2000; Chervin et al., 1997; Chervin et 
+al., 2002; Chervin, Dillon, Archbold, & Ruzicka, 2003; 
+Lewin, Rosen, England, & Dahl, 2002; Rosen et al., 2004). 
+Behaviors associated with ADHD, primarily inattention 
+and hyperactivity, have been the focus of multiple studies. 
+The observation of hyperactive behavior in the context of 
+actual or reported nocturnal breathing problems has led to 
+the hypothesis that a potentially significant proportion of 
+children with SDB are being diagnosed with ADHD and 
+that this association could have a substantial public health 
+impact (Chervin et al., 1997; Lewin et al., 2002). 
+
+Nocturnal breathing events such as apneas and 
+hypopneas (abnormal breathing events during sleep 
+that are less severe than apneas) have been regularly 
+related to behavior problems, but only inconsistently 
+related to specific behavior problems. For example, 
+one study found no relationship between nocturnal 
+breathing events and hyperactivity (Chervin et al., 
+2002), and two studies using small samples found 
+behavioral problems to actually be lower for mild 
+versus moderate SDB (Owens et al., 2000; Lewin et al., 
+2002). A recent prospective study of school-aged children 
+(with a sample heavily weighted with formerly pre-
+term subjects and including subjects with primary 
+snoring) found evidence of increased hyperactivity 
+
+along with a broad range of behaviors including internalizing 
+behaviors (Rosen et al., 2004). Thus, the 
+studies to date provide variable empirical support for 
+the hypothesis that children with SDB exhibit specific 
+patterns of behavior problems. There are several possible 
+methodological reasons for a lack of consistency 
+or pattern. Early studies did not utilize standardized 
+behavioral measures. Moreover, some studies have 
+used only parent report for sleep and breathing problems, 
+and others included subjects with primary snoring. 
+While research has positively related nocturnal 
+breathing problems to daytime behaviors in children, 
+few have used polysomnograms (PSGs) together with 
+standardized behavioral measures. 
+
+Regardless of the specificity of behavioral consequences 
+related to nocturnal breathing problems, clinicians 
+and researchers will be limited in determining 
+their importance until rates of relevant behaviors, nocturnal 
+breathing events, and their joint prevalence or 
+comorbidity are established. Base rates need to be 
+derived from large community-based samples. Rates of 
+pediatric behavioral problems across a wide range of 
+severity of breathing events during sleep in a healthy 
+sample are useful for comparison with clinical samples. 
+Finally, examination of these relationships in healthy 
+subjects is important because the clinical threshold for 
+the number of apneas and hypopneas has not been 
+established for children. 
+
+The analyses presented here are derived from the 
+Tucson Children’s Assessment of Sleep Apnea (TuCASA) 
+study, a cross sectional cohort of healthy children. Previous 
+analyses from the TuCASA study have examined the feasibility 
+of in-home polysomnography (Goodwin et al., 
+2001), the impact of SDB on learning (Kaemingk et al., 
+2003), association of parasomnias and SDB (Goodwin 
+et al., 2004), relationship between ventilatory drive and 
+SDB (Fregosi et al., 2004), correlation of pharyngeal size 
+with SDB (Fregosi et al., 2003), prevalence of clinical 
+symptoms of SDB (Goodwin et al., 2003), relationship of 
+SDB to blood pressure (Enright, Goodwin, Sherrill, Quan, 
+& Quan, 2003), and normative values for sleep (Quan 
+et al., 2003).1 The current analyses are the first from 
+
+1In addition to the aforementioned papers from the TuCASA 
+study, the following manuscripts are under review for publication: 
+
+(1) Goodwin JL, Kaemingk KL, Mulvaney SA, Morgan WJ, Quan 
+SF. Clinical screening of school children for polysomnography to 
+detect sleep disordered breathing–the Tucson Children's Assessment 
+of Sleep Apnea Study (TuCASA); (2) Budhiraja R, Goodwin 
+JL, Parthasarathy S, Quan SF. Comparison of nasal pressure transducer 
+and thermistor for detection of respiratory events during 
+polysomnography in children. 
+
+324 Mulvaney et al. 
+
+TuCASA to document the association between nocturnal 
+breathing events and comorbid behavioral problems. 
+We hypothesized that the occurrence of 
+hypopneas and apneas as defined by an elevated Respiratory 
+Disturbance Index (RDI) would be associated 
+with higher levels of reported problems with attention 
+and a broad range of externalizing behaviors. 
+
+Methods 
+
+Participants 
+
+
+The Tucson Unified School District (TUSD) and University 
+of Arizona Institutional Review Boards 
+approved the study protocol. All families completed 
+approved parental consent and child assent forms 
+before participating in the study. The design of the 
+TuCASA study specified recruitment of 6–12-year-old 
+Hispanic and Caucasian children to undergo an unattended 
+home PSG and perform a neuropsychological 
+and behavioral assessment (Goodwin et al., 2001). 
+Subjects were recruited through the TUSD, a large district 
+with a population representative of children living 
+in Southern Arizona. At the time of initial contact parents 
+were asked to complete a short sleep habits questionnaire 
+(created for this study), related to typical 
+bedtime behaviors, and to provide their contact information 
+if they would allow study personnel to call 
+them for further participation. Approximately, 33% 
+(2,327/7,055) of those families who were sent questionnaires 
+returned them. Of those families, 52% provided 
+information to allow for additional contact. 
+
+Children were excluded from the study if there was a 
+history of head injury, tonsillectomy, mental retardation, 
+or asthma. Children with known sleep problems or 
+emotional–behavioral disorders (e.g., ADHD) were included 
+in the study. Approximately 1 month after the PSG, each 
+child underwent a neuropsychological evaluation. Parents 
+completed a behavioral assessment by filling out the Child 
+Behavior Checklist (CBCL) and the Conners’ Parent Rating 
+Scales-Revised (CPRS-R) at the time of the neuropsychological 
+evaluation. Approximately, 95% of children who 
+completed PSG studies also participated in the behavioral 
+assessment portion of the study. Families were paid $25 for 
+participation in the evaluation. The present analyses utilize 
+the first 403 subjects who met inclusion/exclusion criteria, 
+whose overnight PSG was technically acceptable, and who 
+completed behavioral assessment measures. 
+
+Measures 
+
+
+The CBCL (Achenbach, 1991) allows assessment of 118 
+parent-reported behavioral and emotional problems of 
+
+children aged 4–18. Parents rate their child’s behavior 
+on a three-point scale (Not True, Somewhat True, or 
+Very/Often True). In addition to eight syndrome scales, 
+the CBCL includes a Total problem score, and higher 
+order Internalizing and Externalizing scales. Internalizing 
+scales include Anxious/Depressed, Withdrawn and 
+Somatic Complaints. Externalizing scales include 
+Aggressive Behavior and Delinquent Behavior. Three 
+other syndrome scales, Social Problems, Thought 
+Problems, and Attention Problems are also included in 
+the measure. A T-score (M = 50, SD = 10) over 65 was 
+considered to indicate moderate to severe clinical 
+impairment. 
+
+The CPRS-R is a well validated 80-item behavior 
+rating scale that measures symptoms of ADHD (Hyperactivity, 
+Impulsivity, and Inattention) as well as 
+comorbid behaviors such as Oppositional behavior, 
+Anxiety, and Somatic Complaints (Conners, Sitarenios, 
+Parker, & Epstein, 1998). CPRS-R scales focus on 
+behaviors central to a diagnosis of ADHD such as Cognitive 
+Problems and Hyperactivity. Additionally, several 
+scales measure behaviors that are commonly 
+comorbid with Inattention and Hyperactivity. Three 
+scales on the CPRS-R are considered internalizing correlates 
+of ADHD (Anxious-Shy, Perfectionism, and Psychosomatic 
+Complaints). Behaviors are rated on a four-
+point scale that ranges from “Very True” to “Not True.” 
+Seven of the scales on the CPRS-R are derived directly 
+from the Diagnostic and Statistical Manual-IV (DSM) 
+criteria for ADHD (American Psychiatric Association, 
+1994). The remaining scales were developed empirically. 
+A T-score is derived for each scale, based on 
+a large age and gender specific normative sample. 
+A T-score over 65 is considered to indicate moderate to 
+severe clinical impairment (Conners, 1997). 
+
+Polysomnography 
+
+
+An unattended home-based PSG was scheduled as soon 
+as possible after recruitment. Methods for obtaining 
+polysomnographic data have been described previously 
+(Goodwin et al., 2001). In adults, home-based PSG has 
+been shown to provide results similar to PSG studies 
+performed in the laboratory (Iber et al., 2004). Briefly, 
+a two-person, mixed gender team arrived at the home 
+approximately 1 hour before the child’s normal bedtime. 
+Questionnaires were administered, and anthropometric 
+and other physiological measurements were 
+completed. Unattended PSGs were obtained using the 
+Compumedics PS-2 system (Abbotsford, Victoria, 
+Australia). The following signals were acquired as part 
+of the montage: C3/A2 and C4/A1 electroencephalogram, 
+
+
+Behavioral Problems Associated with Sleep Disordered Breathing 325 
+
+right and left electrooculogram, a bipolar submental 
+electromyogram, thoracic and abdominal displacement 
+(inductive plethysmography bands), airflow (nasal/oral 
+thermister), finger pulse oximetry, electrocardiogram 
+(single bipolar lead), snoring microphone, body position 
+(Hg gauge sensor), and ambient light (sensor attached 
+to the vest to record on/off). 
+
+The Compumedics software system was used to 
+process all PSGs. Scoring has been described in detail 
+previously (Goodwin et al., 2001). Briefly, sleep stages 
+were scored according to Rechtshaffen & Kales, 1968) 
+criteria. Apneas were scored if the amplitude (peak to 
+trough) of the airflow signal using the thermister 
+decreased below at least 25% of the amplitude of “baseline” 
+breathing (identified during a period of regular 
+breathing with stable oxygen levels), if this change 
+lasted for > 6 seconds or 2 breath cycles. Hypopneas 
+were designated if the amplitude of any respiratory signal 
+decreased below (approximately) 70% of the amplitude 
+of “baseline” and if the thermister signal did not 
+meet the criterion for apnea. For this study, the RDI 
+was defined as the number of respiratory events 
+(apneas and hypopneas) per hour of the total sleep 
+time irrespective of any associated oxygen desaturation 
+or arousal. 
+
+Polysomnograms with less than 4 hours of scorable 
+oximetry were classified as failed studies and not 
+used in analyses. A single registered polysomnographic 
+technologist, who was required to demonstrate a complete 
+understanding of the study’s scoring rules and to 
+articulate reasons for assigning epoch-by-epoch codes 
+for sleep and respiratory scoring, scored all studies. 
+Similar to the quality control procedures used for the 
+multicenter Sleep Heart Health Study, approximately 
+5% of studies were rescored by the same scorer on a 
+blinded basis to determine consistency in scoring 
+(Redline et al., 1998). No systematic differences were 
+observed between initial and rescored studies. 
+
+Analyses 
+
+
+All statistical procedures were completed using SPSS 
+Version 11. Results were summarized as M ± 
+SD or by 
+percentages. For each behavioral measure, raw scores 
+were converted to age and gender standardized T-scores 
+(M = 50, SD = 10). Results are generally presented as 
+those pertaining to the entire sample followed by 
+results related to comparisons between subgroups of 
+the RDI score distribution. One-way analysis of variance 
+was used to test differences between means. Cohen’s d 
+effect sizes (Cohen, 1988) and 95% confidence intervals 
+were calculated as indicators of standardized mean 
+
+differences between groups. Odds ratios were used to 
+indicate increased probability of behavioral morbidity 
+given membership in the high RDI subgroup. Cut 
+points for continuous variables used in odds ratios 
+were based on generally agreed upon levels of indicated 
+variables, such as using at least a “moderate to 
+severe” level of behavioral problems or based on the 
+most extreme portion of the sample for RDI. A conservative 
+cut point using the upper 15% of the RDI score 
+distribution was utilized here. Diagnostic criteria for 
+SDB using RDI have not been established in children 
+(Schecter, 2002). 
+
+Results 
+
+Characteristics of the sample are shown in Table I. 
+Obesity was defined using age, gender, and ethnicity-
+specific norms (Rosner, Prineas, Loggie, & Daniels, 
+1998). Average sleep architecture values from the overnight 
+polysomnography are in Table II. The mean RDI 
+for the sample was 5.29 (SD = 4.80), the median was 
+4.30, and the range was .10–72.4. There was no difference 
+between the average RDI for Caucasian (RDI = 
+5.36, SD = 5.49) and Hispanic (RDI = 5.19, SD = 3.39) 
+subjects (F = .123, p = .725). Sixty-three subjects were 
+classified as the “high RDI” group that was defined as 
+the upper 15% of the RDI score distribution. This left 
+
+Table I. Descriptive Characteristics of the Sample 
+
+M ±SD Median Range 
+
+Age 8.85 ± 1.61 8.94 6–13 
+Parent education 13.68 ± 3.17) 14.00 1–21 
+BMIa 18.02 ± 4.34) 16.80 10.90–48.10 
+Obese (BMI >95th percentile) 9.4% (N = 38)— — 
+Male 50.1% — — 
+Caucasian 58.3% — — 
+Hispanic 41.7% — — 
+
+
+aBMI was calculated using age, gender, and ethnicity specific norms from 
+Rosner et al. (1998). 
+
+Table II. Sleep Architecture and Respiratory Disturbance Index (RDI) 
+
+M ± SD 
+
+Total sleep time (minutes) 503.27 ± 71.55 
+
+Sleep efficiency 89.94 ± 5.82 
+% Time in stage 1 sleep 4.46 ± 3.38 
+% Time in stage 2 sleep 53.79 ± 11.26 
+% Time in stage 3/4 sleep 21.37 ± 7.98 
+% Time in REM sleep 20.37 ± 6.55 
+
+Sleep latency (minutes) 18.08 ± 20.66 
+
+Respiratory Disturbance Index 5.29 ± 4.80 
+
+Sleep efficiency is the ratio of time in sleep to total time in bed. 
+
+
+326 Mulvaney et al. 
+
+Table III. Mean of Child Behavior Checklist (CBCL) Scales for Lower and Upper Components of Respiratory Disturbance Index Distribution (RDI) 
+
+M ± SD CBCL lower M ± SD CBCL upper Cohen’s d effect size 
+Overall CBCL (M ± SD) 85% of RDI (N = 340) 15% of RDI (N = 63) F (obtained p value) (95% CI) 
+Aggressive 53.9 ± 7.0 53.5 ± 6.5 56.2 ± 9.0 7.78 (.005)** .35 (.07–61) 
+Anxious/Depressed 54.5 ± 7.7 54.4 ± 7.7 55.3 ± 7.9 .683 (.409) .12 (–.15–.38) 
+Attention Problems 55.2 ± 8.4 54.9 ± 11.1 57.3 ± 10.6 4.34 (.038)* .22 (–.04–.49) 
+Somatic Complaints 55.7 ± 7.1 55.6 ± 6.9 56.6 ± 8.2 .977 (.323) .13 (–.13–.40) 
+Withdrawn 53.8 ± 6.4 53.6 ± 6.3 55.3 ± 7.4 3.64 (.057) .25 (–.02–.51) 
+Social Problems 54.2 ± 7.5 53.8 ± 6.9 56.6 ± 9.9 7.82 (.005)** .33 (.06–.60) 
+Thought Problems 54.7 ± 7.0 54.4 ± 6.8 56.6 ± 7.9 5.23 (.023)* .30 (.03–.57) 
+Delinquent 54.4 ± 6.9 54.3 ± 6.8 55.4 ± 7.3 1.43 (.233) .15 (–.11–.43) 
+Total Score 49.8 ± 12.5 49.2 ± 12.3 53.3 ± 13.3 5.51 (.019)* .32 (.04–.59) 
+Internalizing 50.4 ± 11.4 50.0 ± 11.4 52.5 ± 11.2 2.54 (.112) .22 (–.05–.49) 
+Externalizing 48.6 ± 11.1 48.1 ± 10.8 51.2 ± 12.7 3.95 (.047)* .26 (–.01–.53) 
+
+RDI, Respiratory Disturbance Index; CBCL, Child Behavior Checklist. 
+The F value and effect size refer to the difference in CBCL for lower 85% and upper 15% of Respiratory Disturbance Index Distribution. 
+
+
+Actual p values are provided; *p < .05. ** p < .01. 
+
+340 subjects in the lower end of the score distribution. 
+The average RDI for the low RDI group was 4.05 (SD = 
+1.83) and for the high RDI group was 12.4 (SD = 8.78). 
+
+Table III shows CBCL means, F ratio from the analysis 
+of variance, and Cohen’s d effect sizes. Most mean CBCL 
+scale scores for the high RDI group were in or just above the 
+average range (45–55). Mean CBCL scores were significantly 
+higher on the Aggressive, Attention Problems, Social Problems, 
+and Thought Problems for those subjects in the upper 
+15% of the RDI. In addition, the higher order scale scores, 
+Total and Externalizing were significantly higher for the high 
+RDI subgroup. Effect sizes for scales with significant Fratios 
+were small and ranged from .22–.35 (Cohen, 1988). Effect 
+sizes over 0.2 were noted in 8 of the scales with the two 
+largest effect sizes associated with the Aggressive (.35) and 
+Social Problems (.33) scales. 
+
+Table IV shows the proportion of children in the 
+high RDI group who scored in the clinical range for 
+
+CBCL scales in comparison to the total cohort. Significant 
+odds ratios, indicating a greater probability of having 
+a CBCL score in the clinical range given a high RDI, 
+were found for Attention Problems (24% prevalence), 
+Social Problems (21% prevalence), and Externalizing 
+Behaviors (16% prevalence). The differences in prevalence 
+rates between the two RDI subgroups ranged from 
+2 to 10 with Attention Problems and Social Problems 
+showing the highest values. 
+
+Table V shows mean CPRS-R scale scores by RDI 
+group, F ratios, and Cohen’s d effect sizes. Most mean Conners’ 
+scores for the high RDI group were in or slightly 
+above the average range (45–55). For eight of the 12 scales, 
+mean Conners’ scores for the group representing the upper 
+15% of the RDI distribution were significantly greater than 
+those in the lower 85% of the distribution. Effect sizes for 
+scales with significant F ratios were small and ranged from 
+.27 to .42. Nine of the scales showed effect sizes over >.20. 
+
+Table IV. Percent of Sample in Clinical Range for Child Behavior Checklist (CBCL) Scales 
+
+Percentage in clinical range Percentage in Clinical 
+for total sample range for upper 15% of RDI Difference Odds ratio (95% CI) 
+Aggressive 7 13 6 2.1 (.89–4.9) 
+Anxious/Depressed 11 15 4 1.5 (.70–3.8) 
+Attention Problems 14 24 10 2.4 (1.2–4.6) 
+Somatic Complaints 11 18 7 2.0 (.93–4.1) 
+Withdrawn 7 11 4 2.1 (.83–5.1) 
+Social Problems 11 21 10 2.7 (1.3–5.6) 
+Thought Problems 9 15 6 1.8 (.81–4.0) 
+Delinquent 11 13 2 1.2 (.52–2.7) 
+Total score 13 18 5 1.6 (.76–3.2) 
+Internalizing 11 13 2 1.2 (.54–2.8) 
+Externalizing 8 16 8 2.8 (1.3–6.1) 
+
+RDI, Respiratory Disturbance Index. 
+
+
+Behavioral Problems Associated with Sleep Disordered Breathing 327 
+
+Table V. Mean Conners’ Parent Rating Scales-Revised (CPRS-R) for Lower and Upper Components of RDI Distribution 
+
+Overall Conners’ Conners’ M ± SD for lower Conners’ M ± SD for upper 
+(M ± SD) 85% of RDI (N = 340) 15% of RDI (N = 63) F (Obtained p value) Cohen’s d Effect size (95% CI) 
+Oppositional 52.6 ± 11.3 51.44 ± 9.9 55.6 ± 12.9 8.36 (.004)** .37 (.09–.63) 
+Cognitive Problems 52.4 ± 10.9 51.6 ± 10.2 56.2 ± 12.8 10.04 (.002)** .40 (.12–.67) 
+Hyperactive 54.2 ± 11.8 54.2 ± 11.1 56.7 ± 12.6 2.70 (.101) .21 (-.05–.48) 
+Anxious-shy 51.6 ± 11.0 52.0 ± 10.9 52.6 ± 11.5 .16 (.685) .05 (-.21–.32) 
+Perfectionism 49.5 ± 8.1 50.0 ± 8.9 49.5 ± 9.32 .07 (.789) .05 (-.21–.32) 
+Social Problems 52.6 ± 12.4 51.0 ± 9.9 54.5 ± 14.6 5.54 (.019)* .28 (.01–.55) 
+Psychosomatic 52.4 ± 11.0 52.1 ± 11.1 54.2 ± 13.5 1.76 (.185) .17 (-.09–.44) 
+ADHD Index 53.1 ± 11.4 51.9 ± 11.1 56.6 ± 13.0 9.53 (.002)** .39 (.11–.66) 
+Global total 53.0 ± 11.5 51.9 ± 10.7 55.7 ± 12.3 5.06 (.025)* .33 (.06–.60) 
+DSM Inattentive 52.2 ± 11.5 51.4 ± 10.4 56.3 ± 13.2 10.99 (.001)** .42 (.14–.68) 
+DSM Hyperactive 54.7 ± 11.4 54.8 ± 10.9 58.1 ± 13.3 4.39 (.037)* .27 (.00–.54) 
+DSM Total 53.7 ± 11.3 53.3 ± 10.8 57.6 ± 13.4 7.91 (.005)** .36 (.08–.62) 
+
+RDI, Respiratory Disturbance Index, ADHD, Attention Deficit Hyperactivity Disorder. 
+The F value and effect size refer to the difference in Conners’ for lower 85% and upper 15% of RDI. 
+Obtained p values are provided; *p < .05. **p < .01. 
+
+
+Table VI. Percent of Sample in Clinical Range for Conners’ Parent Rating Scales-Revised (CPRS-R) Scales 
+
+Percentage in clinical range Percentage in clinical range 
+for total sample for upper 15% of RDI Difference Odds ratio (95% CI) 
+Oppositional 10 24 14 3.7 (1.8–7.3) 
+Cognitive Problems 13 24 9 2.6 (1.3–5.1) 
+Hyperactive 18 19 1 1.1 (.56–2.2) 
+Anxious-shy 14 13 -1 1.2 (.54–2.5) 
+Perfectionism 9 7 -2 1.7 (.64–4.3) 
+Social Problems 10 19 9 2.7 (1.3–5.7) 
+Psychosomatic 11 21 10 2.4 (1.2–4.9) 
+ADHD Index 12 21 9 2.2 (1.1–4.5) 
+Global total 12 19 7 2.0 (.98–4.1) 
+DSM Inattentive 13 21 8 2.0 (1.0–4.0) 
+DSM Hyperactive 18 21 3 1.2 (.62–2.3) 
+DSM Total 14 25 11 2.4 (1.3–4.6) 
+
+RDI, Respiratory Disturbance Index; ADHD, Attention Deficit Hyperactivity Disorder. 
+
+The two largest effect sizes were associated with the Diagnostic 
+and Statistical Manual-IV (DSM) Inattentive (.42) 
+and the Cognitive Problems (.40) scales. 
+
+Table VI shows prevalence rates and odds ratios for 
+the CPRS-R scales. Significant odds ratios (>1) were 
+found for the Oppositional, Cognitive Problems, Social 
+Problems, Psychosomatic, ADHD Index, and DSM Total 
+scales. The most prevalent behavior problems for the high 
+RDI group were found on the DSM Total (25%), Conners’ 
+Oppositional (24%) and Cognitive Problems (24%) 
+scales. The differences in prevalence rates between the 
+two RDI subgroups ranged from –1 to 14 with Oppositional 
+and DSM Total scales showing the largest values. 
+
+Discussion 
+
+This descriptive cross-sectional analysis of unreferred 
+school children showed positive associations between 
+
+the number of apneas and hypopneas per hour of sleep 
+and a range of daytime behavior problems. An increased 
+frequency of aggressive or oppositional behavior, as 
+well as cognitive/attention and social problems, were 
+apparent for those subjects with a relatively high RDI 
+across two standardized behavioral measures. Although 
+the overall scale means were in the average range, 
+almost twice as many children with elevated RDIs were 
+identified as having these kinds of moderate to severe 
+behavioral problems on the CBCL and the Conners’ 
+when compared to the rates of those problems for the 
+remainder of the sample. 
+
+No clear pattern of behavioral morbidity has been 
+associated with pediatric sleep-related breathing problems. 
+The types of behaviors that were most prevalent 
+in the context of high RDI were cognitive, externalizing, 
+and social behaviors. The types of externalizing behaviors 
+most prevalent were aggressive and oppositional, 
+
+
+328 Mulvaney et al. 
+
+but not delinquent. Hyperactivity was not strongly 
+associated with higher RDI. It is unclear whether the 
+increased ADHD Index prevalence rate we observed 
+could be attributed to either hyperactivity or inattention 
+because that scale measures both behaviors. Overall, 
+behaviors such as withdrawal, perfectionism, and 
+anxiety/depression were not more prevalent in the 
+context of a high RDI. Social problems, consistently 
+related to RDI across the two behavioral measures, are 
+measured by items related to being liked by other children, 
+shyness/preferring to be alone, and interactions 
+with peers. Problems with social behavior may be a 
+corollary of aggressive and oppositional behaviors as 
+well as attention or cognitive problems. 
+
+These results are consistent with some clinical 
+studies that found greater mean levels of behavioral 
+problems in children with SDB compared to normal 
+subjects, or an increased percentage of children with 
+SDB showing behavior problems in a clinically relevant 
+range. Our results extend these findings by demonstrating 
+that healthy children in the general population 
+with relatively greater severity of PSG-documented 
+nocturnal breathing events are more likely to exhibit 
+behavior problems. The pattern of behavioral problems 
+found here are somewhat similar to Rosen et al., 2004. 
+Although that study utilized the same measures and 
+analytic approach, direct comparison to that cohort is 
+difficult given the over-sampling of formerly preterm 
+subjects and inclusion of primary snorers. The results 
+presented here do not strongly confirm some previous 
+research indicating a positive relationship between SDB 
+(or suspected SDB) and hyperactivity in children (Ali et al., 
+1993; Chervin et al., 1997; Chervin et al., 2002; 
+Guilleminault et al., 1981). However, the results are 
+more consistent with Chervin and Archbold (2001) 
+who did not find positive linear or nonlinear relations 
+between CPRS-R Hyperactivity and components of 
+PSG-documented SDB. 
+
+Several caveats should be considered in the interpretation 
+of this study. First, the study is correlational 
+and does not provide confirmation of a causal relationship 
+between RDI and behavior problems. Prospective 
+longitudinal studies will allow strong causal 
+inferences regarding the developmental relationship 
+between these two problems. Second, behavioral measures 
+were dependent upon parent report only. We did 
+not engage teachers or young subjects in evaluating 
+behavior. Multiple informants and multiple methods of 
+measuring behavior will provide the best convergent 
+(or divergent) evidence of behavioral problems. 
+Research in pediatric SDB and behavior will benefit 
+
+from direct observation of behavior over time to capture 
+qualitative characteristics and within-subject variability. 
+Finally, diagnostic criteria for SDB in children 
+are not yet well defined. The RDI is the most common 
+objective index used to define severity of SDB, but 
+definitive diagnostic or risk-related cut points have not 
+yet been established. Research on the specificity and 
+sensitivity of behavior problems across a wide range of 
+RDI severity may help determine the usefulness of 
+behavioral measures in setting pediatric diagnostic 
+criteria. 
+
+Documentation of relationships between behavior, 
+cognition, sleep, and breathing are important, as 
+abnormal cognition and behavior are the symptoms 
+that may be most readily noticed by school professionals 
+or caregivers. The challenge to identification of SDB 
+through behavioral problems may be finding specific 
+patterns of associated behaviors. Behavior problems in 
+children are final common pathways related to multiple 
+etiologies. One etiology may be breathing problems 
+during sleep. Unfortunately, the behavioral and cognitive 
+problems associated with nocturnal breathing 
+events may not fit precisely into current behavioral 
+dimensions or categories. For example, nocturnal 
+breathing events may actually lead to a disregulation of 
+behavior, not a particular tendency toward specific 
+behavior problems. Disregulation or disinhibition may 
+be the best labels for the behaviors found here as it 
+could account for aggression, inattention, and social 
+problems. Although hyperactivity may be a result of 
+disinhibition in ADHD and other disorders, it is an 
+intermittent sign in this range of RDI severity. 
+
+In conclusion, we found that children sampled 
+from an unreferred general population with a high 
+RDI have a greater prevalence of abnormal behavior as 
+assessed on two validated and commonly used behavioral 
+assessment instruments. These data provide additional 
+evidence that evaluation of SDB should be considered 
+in children exhibiting moderate to severe levels of 
+some abnormal behaviors, specifically cognitive problems, 
+aggression/opposition, and/or social problems. 
+Behaviors may have differential specificity and sensitivity 
+in relation to SDB. Hyperactivity may be more 
+reliably associated with more severe SDB. Additional 
+data will be collected from the TuCASA study to further 
+explore these relationships within a longitudinal 
+analytic approach. Finally, further exploration of a 
+wide range of behavioral symptoms as well as potential 
+mediators and moderators of behavioral morbidity 
+associated with SDB in children should continue to be 
+pursued. 
+
+
+Behavioral Problems Associated with Sleep Disordered Breathing 329 
+
+Acknowledgments 
+
+This study was supported by grant HL62373 from the 
+National Heart, Lung, & Blood Institute, Bethesda, MD 
+(Dr. Quan). 
+
+Received November 15, 2004; revision received January 20, 
+2005 and March 24, 2005; accepted April 20, 2005 
+
+References 
+
+Achenbach, T. (1991). Integrative Guide for the 1991 
+CBCL/4–18, YSR, and TRF Profiles. Burlington, VT: 
+University of Vermont Department of Psychiatry. 
+
+Ali, N., Pitson, D., & Stradling, J. (1993). Snoring, sleep 
+disturbance, and behavior in 4–5 year olds. Archives 
+of Disease in Childhood, 68, 360–366. 
+
+American Psychiatric Association (1994). Diagnostic and 
+Statistical Manual of Mental Disorders (4th ed.). 
+Washington, DC: American Psychiatric Association. 
+
+Blunden, S., Lushington, K., Kennedy, D., Martin, J., & 
+Dawson, D. (2000). Behavior and neurocognitive 
+performance in children aged 5–10 years who snore 
+compared to controls. Journal of Clinical and Experimental 
+Neuropsychology, 22(5), 554–568. 
+
+Chervin, R., & Archbold, K. (2001). Hyperactivity and 
+polysomnographic findings in children evaluated for 
+sleep-disordered breathing. Sleep, 24(3), 313–320. 
+
+Chervin, R., Archbold, K., Dillon, J., Panahi, P., Pituch, K., 
+Dahl, R., et al. (2002). Inattention, hyperactivity, 
+and symptoms of sleep-disordered breathing. Pediatrics, 
+109(3), 449–456. 
+
+Chervin, R., Dillon, J., Archbold, K., & Ruzicka, D. (2003). 
+Conduct problems and symptoms of sleep disorders in 
+children. Journal of the American Academy of Child and 
+Adolescent Psychiatry, 42(2), 201–208. 
+
+Chervin, R., Dillon, J., Bassetti, C., Ganoczy, D., & 
+Pituch, K. (1997). Symptoms of sleep disorders, 
+inattention, and hyperactivity in children. Sleep, 
+20(12), 1185–1192. 
+
+Cohen, J. (1988). Statistical Power Analyses for the 
+Behavioral Sciences (2nd ed.). Hillsdale, NJ: 
+Erlbaum. 
+
+Cohen-Zion, M., & Ancoli-Israel, S. (2004). Sleep in 
+children with attention-deficit hyperactivity disorder 
+(ADHD): A review of naturalistic and stimulant 
+intervention studies. Sleep Medicine Reviews, 8(5), 
+379–402. 
+
+Conners, C. K. (1997). Conners’ Rating Scales-Revised: 
+Technical Manual. North Towanda, NY: Multi-
+Health Systems, Inc. 
+
+Conners, C., Sitarenios, G., Parker, J., & Epstein, J. 
+(1998). The revised Conners’ Parent Rating Scale 
+(CPRS-R): Factor structure, reliability, and criterion 
+validity. Journal of Abnormal Child Psychology, 
+26(4), 257–268. 
+
+Enright, P. L., Goodwin, J. L., Sherrill, D. L., Quan, J. R., 
+& Quan, S. F. (2003). Blood pressure elevation 
+associated with sleep-related breathing disorder in a 
+community sample of White and Hispanic children. 
+Archives of Pediatrics and Adolescent Medicine, 
+157(9), 901–904. 
+
+Erler, T., & Paditz, E. (2004). Obstructive sleep apnea 
+syndrome in children: A state-of-the-art review. 
+Treatments in Respiratory Medicine, 3(2), 107–122. 
+
+Fregosi, R. F., Quan, S. F., Jackson, A. C., Kaemingk, 
+
+K. L., Morgan, W. J., Goodwin, J. L., et al. (2004). 
+Ventilatory drive and the apnea-hypopnea index in 
+six-to-twelve year old children. BMC Pulmonary 
+Medicine, 4(1), 4. 
+Fregosi, R. F., Quan, S. F., Kaemingk, K. L., Morgan, 
+
+W. J., Goodwin, J. L., Cabrera, R., et al. (2003). 
+Sleep-disordered breathing, pharyngeal size and soft 
+tissue anatomy in children. Journal of Applied Physiology, 
+95, 2030–2038. 
+Golan, N., Shahar, E., Ravid, S., & Pillar, G. (2004). 
+Sleep disorders and daytime sleepiness in children 
+with attention-deficit/hyperactive disorder. Sleep, 
+27, 261–266. 
+
+Goodwin, J., Enright, P., Kaemingk, K., Rosen, G., 
+Morgan, W., Fregosi, M., et al. (2001). Feasibility of 
+using unattended polysomnography in children for 
+research-report of the Tucson Children’s Assessment 
+of Sleep Apnea study (TuCASA). Sleep, 24, 937–944. 
+
+Goodwin, J., Kaemingk, K., Fregosi, M., Rosen, G., 
+Morgan, W., Sherrill, D., et al. (2003). Clinical outcomes 
+associated with sleep disordered breathing in 
+Caucasian and Hispanic children—the Tucson 
+Children’s Assessment of Sleep Apnea Study 
+(TuCASA). Sleep, 26, 587–591. 
+
+Goodwin, J., Kaemingk, K., Fregosi, R. F., Rosen, G. M., 
+Morgan, W. J., Smith, T., & Quan, S. F. (2004). 
+Parasomnias and sleep disordered breathing in 
+Caucasian and Hispanic children—the Tucson 
+children’s assessment of sleep apnea study. BMC 
+Medicine, 2(1), 14. 
+
+Gotfried, M. H., & Quan, S. F. (1984). Obstructive 
+sleep apnea-pathogenesis and treatment. Lung, 
+162(1), 1–13. 
+
+Gozal, D. (1998). Sleep-disordered breathing and school 
+performance in children. Pediatrics, 102 (3, Pt. 1), 
+616–620. 
+
+
+330 Mulvaney et al. 
+
+Guilleminault, C., Korobkin, R., & Winkle, R. (1981). 
+A review of 50 children with obstructive sleep apnea 
+syndrome. Lung, 159, 275–287. 
+
+Iber, C., Redline, S., Gilpin, A. M., Quan, S. F., Zhang, 
+L., Gottlieb, D. J., et al. (2004). Polysomnography 
+performed in the unattended home versus the 
+attended laboratory setting—sleep heart health 
+methodology. Sleep, 27(3), 536–540. 
+
+Kaemingk, K. L., Pasvogel, A. E., Goodwin, J. L., Mulvaney, 
+
+S. A., Martinez, F., Enright, P. L., et al. (2003). 
+Learning in children and sleep disordered breathing: 
+Findings of the Tucson Assessment of Sleep 
+Apnea (TuCASA) prospective cohort study. Journal 
+of the International Neuropsychological Society, 9, 
+1016–1026. 
+Lewin, D., Rosen, R., England, S., & Dahl, R. (2002). 
+Preliminary evidence of behavioral and cognitive 
+sequelae of obstructive sleep apnea in children. 
+Sleep Medicine, 3, 5–13. 
+
+O’Brien, L. M., Ivanenko, A., Crabtree, V. M., Holbrook, 
+
+C. R., Bruner, J. L., Klaus, C. J., et al. (2003). Sleep 
+disturbances in children with attention deficit 
+hyperactivity disorder. Pediatric Research, 54, 237–243. 
+O’Brien, L. M., Mervis, C. B., Holbrook, C. R., Bruner, 
+
+J. L., Smith, N. H., McNally, N., et al. (2004). Neurobehavioral 
+correlates of sleep-disordered breathing 
+in children. Journal of Sleep Research, 13, 165–172. 
+O’Brien, L., Mervis, C. B., Holbrook, C. R., Bruner, J. L., 
+Klaus, C. J., Rutherford, J., et al. (2004). Neurobehavioral 
+implications of habitual snoring in children. 
+Pediatrics, 114(1), 44–49. 
+
+Owens, J., Spirito, A., Marcotte, A., McGuinn, M., & 
+Berkelhammer, L. (2000). Neuropsychological and 
+behavioral correlates of obstructive sleep apnea syndrome 
+in children: A preliminary study. Sleep and 
+Breathing, 4(2), 67–77. 
+
+Quan, S. F., Goodwin, J. L., Babar, S. I., Kaemingk, 
+
+K. L., Enright, P. L., Rosen, G. M., et al. (2003). 
+Sleep architecture in normal Caucasian and 
+Hispanic children aged 6–11 years recorded during 
+unattended home polysomnography: Experience 
+from the Tucson Children’s Assessment of 
+Sleep Apnea Study (TuCASA). Sleep Medicine, 4, 
+13–19. 
+Rechtshaffen, A., & Kales, A. (1968). Manual of 
+standardized terminology: Techniques and scoring 
+systems for sleep stages of human subjects. Los Angeles, 
+CA: UCLA Brain Information Services/Brain 
+Research Institute. 
+
+Redline S., Sanders, M. H., Lind B. K., Quan, S. F., 
+Iber, C., Gottlieb, D. J., et al. (1998). Methods 
+for obtaining and analyzing unattended polysomnography 
+data for a multicenter study. Sleep 
+Heart Health Research Group. Sleep, 21(7), 
+759-767. 
+
+Rosen, C. L., Storfer-Isser, A., Taylor, G., Kirchner, 
+
+H. L., Emancipator, J. L., & Redline, S. (2004). 
+Increased behavioral morbidity in school-aged 
+children with sleep-disordered breathing. Pediatrics, 
+114(6), 1640-1648. 
+Rosner, B., Prineas, R., Loggie, J., & Daniels, S. 
+(1998). Percentiles for body mass index in US 
+children 5–17 years of age. Journal of Pediatrics, 
+132, 211–222. 
+
+Schecter, M. S. (2002). Technical report: Diagnosis and 
+management of childhood obstructive sleep apnea 
+syndrome. Pediatrics, 109(4), e69. 
+
+Stradling, J., Thomas, G., Warley, A., Williams, P., & 
+Feeland, A. (1990). Effect of adenotonsillectomy on 
+nocturnal hypoxaemia, sleep disturbance, and 
+symptoms in snoring children. Lancet, 335(8684), 
+249–253. 
+
+

@@ -1,0 +1,846 @@
+EPIDEMIOLOGY AND SLEEP 
+Feasibility of Using Unattended Polysomnography in Children for Research— 
+Report of the Tucson Children’s Assessment of Sleep Apnea Study (TuCASA) 
+
+James L. Goodwin MS,1 Paul L. Enright MD,1 Kris L. Kaemingk PhD,1 Gerald M. Rosen MD,2 Wayne J. Morgan MD,1 Ralph F. Fregosi PhD,1 Stuart F. Quan MD1 
+
+1Respiratory and Sleep Disorders Centers, Departments of Medicine and Pediatrics, University of Arizona College of Medicine, Tucson, AZ; 
+2Department of Pediatrics, University of Minnesota School of Medicine, Minneapolis, MN 
+
+Study Objectives: The Tucson Children’s Assessment of Sleep Apnea 
+study (TuCASA) is designed to investigate the prevalence and correlates 
+of objectively measured sleep-disordered breathing in pre-adolescent chil-
+dren. This paper documents the methods and feasibility of attaining qual-
+ity unattended polysomnograms in the first 162 TuCASA children recruit-
+ed. 
+Design: A prospective cohort study projected to enroll 500 children 
+between 5 and 12 years of age who will undergo unattended polysomnog-
+raphy, neurocognitive evaluation, and physiological and anatomical mea-
+surements thought to be associated with sleep-disordered breathing. 
+Setting: Children are recruited through the Tucson Unified School District. 
+Polysomnograms and anthropometric measurements are completed in 
+the child’s home. 
+Participants: Of the 157 children enrolled in TuCASA, there were 100 
+children (64%) between 5—8 years old and 57 children (36%) between 
+the ages of 9 to 12. There were 74 (47%) Hispanic children, and 68 (43%) 
+female participants. 
+Interventions: N/A 
+Measurements & Results: Technically acceptable studies were obtained 
+in 157 children (97%). The initial pass rate was 91%, which improved to 
+97% when 9 children who failed on the first night of recording completed 
+a second study which was acceptable. In 152 studies (97%), greater than 
+5 hours of interpretable respiratory, electroencephalographic, and oxime-
+try signals were obtained. The poorest signal quality was obtained from 
+the chin electromyogram and from the combination thermister/nasal can-
+nula. Parents reported that 54% of children slept as well as, or better than 
+usual, while 40% reported that their child slept somewhat worse than 
+usual. Only 6% were observed to sleep much worse than usual. Night-
+to-night variability in key polysomnographic parameters (n=10) showed a 
+high degree of reproducibility on 2 different nights of study using identical 
+protocols in the same child. In 5 children, polysomnograms done in the 
+home were comparable to those recorded in a sleep laboratory. 
+Conclusions: The high quality of data collected in TuCASA demon-
+strates that multi-channel polysomnography data can be successfully 
+obtained in children aged 5—12 years in an unattended setting under a 
+research protocol. 
+Key words: Sleep; polysomnography; children; obstructive sleep apnea; 
+sleep-disordered breathing 
+INTRODUCTION 
+
+SLEEP-DISORDERED BREATHING (SDB) INCLUDING 
+OBSTRUCTIVE SLEEP APNEA SYNDROME (OSAS) IS 
+INCREASINGLY RECOGNIZED AS AN IMPORTANT 
+CAUSE OF MORBIDITY IN CHILDREN. Clinical symptoms 
+of OSAS in children include snoring, nocturnal arousals, restlessness 
+during sleep, enuresis, daytime sleepiness, and hyperactivity.
+1-4 Evidence also suggests that the adverse effects of frequent 
+nocturnal arousals include behavioral, learning, and personality 
+problems.5-7 While estimates indicate that the prevalence 
+of OSAS is approximately 4% in adult men and 2% in adult 
+women,8 no large epidemiological study using polysomnography 
+has been conducted to determine the prevalence of SDB in young 
+children. 
+
+Polysomnography in adults with OSAS commonly demonstrates 
+episodes of frank apnea although there is increasing 
+
+Disclosure Statement 
+This work was supported by grant HL 62373 from the National Heart, Lung, 
+and Blood Institute. It was presented in part at the Annual Meeting of the 
+Association of Professional Sleep Societies, June 7, 2001. 
+Accepted for publication September 2001 
+Address correspondence to: James L. Goodwin, MS, Respiratory Sciences 
+Center, University of Arizona College of Medicine, 1501 N. Campbell, 
+Room 2305B, Tucson, AZ 857224; Tel: 520-626-6115; Fax: 520-626-6970; 
+E-mail: jamieg@resp-sci.arizona.edu 
+SLEEP, Vol. 24, No. 8, 2001 937 
+
+
+recognition that hypopneas and episodes of elevation in upper-
+airway resistance are important as well.9-11 In contrast, 
+polysomnography in children with OSAS frequently is characterized 
+by hypopneas and periods of obstructive hypoventilation, 
+with frank apnea found less commonly.12,13 Therefore, 
+polysomnographic monitoring techniques and criteria used to 
+define the presence of SDB developed for adults are not necessarily 
+applicable to children. Recent interest in childhood OSAS 
+has led to an increase in the number of polysomnograms performed 
+in children. However, normal values for indices of SDB 
+severity are not well defined, and it is unknown whether proposed 
+abnormal values correlate with clinical outcomes. 
+Although one study in a small number of children proposed normative 
+ranges for apnea in children,14 similar guidelines for 
+hypopnea and upper-airway resistance events in children have 
+not been clearly established. To determine the level of severity 
+of SDB which correlates with abnormal clinical outcomes, 
+polysomnographic recordings are required from a large number 
+of children with no clinical symptoms of OSAS and those with 
+symptoms consistent with OSAS. It is quite expensive to study 
+a large population of normal children with laboratory 
+polysomnography due to the cost of laboratory time and the need 
+to compensate families for their participation. Additionally, parents 
+and their young children without known sleep problems 
+often hesitate to spend a night in the unfamiliar setting of a sleep 
+laboratory (particularly school aged children). Therefore, there is 
+a need to develop techniques to perform unattended home 
+polysomnographic recordings in children to accurately determine 
+
+Unattended Polysomnography in Children—Goodwin et al 
+
+
+the prevalence of SDB in children and to correlate severity levels 
+of SDB with abnormal clinical outcomes. 
+
+The Tucson Children’s Assessment of Sleep Apnea study 
+(TuCASA) is a prospective cohort study designed to determine 
+the prevalence rate of objectively documented SDB in pre-adolescent 
+children and to investigate its relationship to symptoms, 
+performance on neurobehavioral measures, and physiologic and 
+anatomic risk factors. Up to 500 Caucasian and Hispanic children 
+aged 5—12 years will undergo unattended polysomnography 
+over the course of the four-year study. This report describes 
+the methods used for obtaining and analyzing unattended home 
+polysomnography data for the first 157 children enrolled in the 
+TuCASA study. 
+
+METHODS 
+
+Selection of Participants 
+
+Hispanic and Caucasian children aged 5 to 12 years were 
+recruited to participate in the TuCASA study by soliciting the 
+cooperation of selected elementary schools in the Tucson Unified 
+School District (TUSD). TUSD is a very large district with an 
+elementary school population representative of children living in 
+Southern Arizona. To assure that an adequate mix of Hispanic 
+and Caucasian children were recruited, elementary school populations 
+were pre-screened so that at least 25%, but no more than 
+75% of children attending the school were of self-reported 
+Hispanic ethnicity. A short sleep habits questionnaire was sent 
+home with children in a “notes home” folder. Parents were asked 
+to complete the questions and provide some demographic information 
+at a minimum, and to provide their contact information if 
+they would allow study personnel to call them for screening. 
+Incentives were provided to classrooms and schools in order to 
+increase participation. The polysomnography testing protocol 
+used in the TuCASA study was approved both by the University 
+of Arizona Human Subjects and the TUSD Research 
+Committees. 
+
+Home Polysomnography 
+
+An unattended home polysomnogram was scheduled as soon 
+as possible after recruitment. A two-person, mixed gender team 
+arrived at the home approximately one hour prior to the child’s 
+normal bedtime. During the home visit, the following data were 
+collected in addition to polysomnography: anthropometric measurements 
+(height, weight, and neck circumference), a digital 
+photograph of the oropharynx and tonsils, visual oropharynx 
+inspection, seated blood pressure, and a more extensive sleep 
+habits questionnaire. A morning survey was completed by the 
+caregiver the following morning. 
+
+Polysomnograms were obtained using the Compumedics PS2 
+system (Abbotsford, Victoria, Australia). This monitor was 
+chosen because of its portability, capability to record a full 
+polysomnographic montage, flexibility of software, and successful 
+use during other studies of home-based polysomnography.15 
+Prior to implementing the TuCASA protocol, a feasibility study 
+of 10 children with similar characteristics to those being studied 
+in TuCASA demonstrated that the Compumedics system could be 
+satisfactorily used in children. The system consists of a patient 
+interface box (PIB) containing amplifiers and filters to which 
+
+electrodes and sensors are connected. The PIB is attached by 
+cable to the data acquisition recorder which contains a 40MB 
+PCMCIA card, a 15-hour rechargeable battery, and an oximeter. 
+The PIB, loose electrode wires, and sensor cables are secured 
+inside a loose fitting vest which is worn by the child over his or 
+her pajamas. The vest is a variation of the Compumedics adult 
+vest, with modifications made specifically for studies of young 
+children. The system contains a liquid crystal display (LCD) for 
+visualizing signals after hook-up, and an internal impedance 
+meter to verify electrode attachments. 
+
+Sensors were placed and the equipment was calibrated by 
+technicians during the evening home visit. Gauze, tape, water-
+soluble pastes, and conductive gels were used to secure sensors 
+and electrodes. The following signals were acquired as part of 
+the TuCASA montage: C3/A2 and C4/A1 electroencephalogram 
+(EEG), right and left electrooculogram (EOG), a bipolar sub-
+mental electromyogram (EMG), thoracic and abdominal displacement 
+(inductive plethysmography bands), airflow 
+(nasal/oral thermister), nasal pressure cannula, oximetry (finger 
+pulse oximeter, Nonin, Minneapolis, MN), ECG (single bipolar 
+lead), snoring (microphone attached to the vest), body position 
+(Hg gauge sensor), and ambient light (sensor attached to the vest 
+to record on/off). The nasal pressure cannula was employed in an 
+attempt to capture subtle SDB events related to elevations in 
+upper airway resistance which otherwise might have been undetected. 
+The thermister and nasal pressure signals were collected 
+simultaneously by taping a nasal/oral thermister (Protec, 
+Woodinville, WA) on the superior surface of a nasal cannula 
+(Salter Labs, Arvin, CA). 
+
+All signals were verified using the LCD, and impedances were 
+checked to insure that values were <5 kohms. A written verification 
+form was used to annotate impedances, any adverse environmental 
+conditions, or any medical conditions requiring notification 
+of a physician. The equipment was removed the following 
+morning by a research technician or a parent. 
+
+Data Handling 
+
+Once the equipment was retrieved and cleaned, data stored in 
+real time on a 40MB PCMCIA flashcard was downloaded for 
+review. A preliminary examination of the raw data determined if 
+artifact free signals were present for sufficient duration to allow 
+scoring of the polysomnogram. Studies with <4 hours of oximetry, 
+insufficient duration or quality of signal, or equipment malfunction 
+during the night were marked as “failed.” Raw data 
+from passing studies were immediately backed up to Zip Disk™ 
+for storage, then transferred to a hard drive for scoring. Once 
+scoring was completed, a copy of the raw data and a copy of each 
+hypnogram generated from different scoring passes was archived 
+onto a CD-RW disk. As a courtesy to parents of those children 
+participating, a brief summary of anthropometric measurements 
+and sleep characteristics was sent to the family within three 
+weeks of the home visit. 
+
+Scoring 
+
+The Compumedics software system was used to process all 
+polysomnograms (W-Series Replay, v 2.0, release 22). The scorer 
+reviewed the record as shown on the computer monitor in three 
+passes. During the first pass, sleep stages and arousals were 
+
+SLEEP, Vol. 24, No. 8, 2001 938 Unattended Polysomnography in Children—Goodwin et al 
+
+
+marked manually on a 30-second, epoch by epoch basis. During 
+the second pass, respiratory signals were displayed in two or five 
+minute epochs, and respiratory events were manually marked 
+without visualizing the nasal pressure monitor. During the third 
+pass, respiratory signals were displayed in two or five minute 
+epochs, and respiratory events were manually marked using all 
+respiratory monitors including nasal pressure. 
+
+Sleep stages were scored according to Rechtshaffen and Kales 
+criteria.16 Arousals were identified using criteria published by 
+the American Academy of Sleep Medicine.17 Apneas were 
+scored if the amplitude (peak to trough) of the airflow signal 
+using the thermister decreased below at least 25% of the amplitude 
+of “baseline” breathing (identified during a period of regular 
+breathing with stable oxygen levels), if this change lasted for 
+>6 seconds or two breath cycles. Hypopneas were designated if 
+the amplitude of any respiratory signal decreased below (approximately) 
+70% of the amplitude of “baseline” and if the thermister 
+signal did not meet the criterion for apnea. If the thermister signal 
+was not scorable, then the event was scored as a hypopnea. 
+Upper-Airway events were identified if criteria for apnea/hypopnea 
+were not met, but there was flattening of the contour of the 
+nasal pressure signal18 lasting for =6 seconds or two breaths. 
+“Central” events were marked if no displacement was noted on 
+both the chest and abdominal inductance channels. Otherwise, 
+events were scored as “obstructive.” Although desirable, we 
+made no attempt to distinguish between central and obstructive 
+hypopnea because reliable classification was not possible. In the 
+absence of an esophageal balloon, paradox of the chest and 
+abdominal inductance bands would be suggestive of an obstructive 
+component to a hypopnea. While the scorable duration of 
+these signals in our study was high (vide infra, Table 2), their 
+quality was not adequate to distinguish between obstructive and 
+central hypopnea on a consistent basis. 
+
+After full scoring, analysis software was used to link each 
+event to data from the oxygen saturation and EEG channels. This 
+allowed characterization of events according to differing degrees 
+of associated desaturations and arousals, or various combinations 
+of these measures. In this manner, the Respiratory Disturbance 
+Index (RDI) was defined as the number of respiratory events 
+(apneas and hypopneas) per hour of the total sleep time. The 
+Sleep Disordered Breathing index (SDBI) was defined as the 
+number of apneas, hypopneas and upper airway events per hour 
+of total sleep time. Compumedics software calculated these 
+indices separately for REM and NREM sleep, and for different 
+body positions. Summary measures of desaturation, sleep stages, 
+arousal frequencies, and heart rate variation also were computed. 
+
+The scorer assigned an overall quality grade of excellent (at 
+least one EEG channel, one EOG channel, chin EMG, oximetry, 
+airflow, thoracic, and abdominal bands good for >5 hours), good 
+(at least two respiratory channels [airflow, thoracic or abdominal 
+bands], oximetry, and one EEG good for >5 hours), or fair (respiratory 
+channels [airflow or either band], oximetry, and one 
+EEG were good for >4 hours but <5 hours). To receive the passing 
+grade of fair, the EEG signal must have been of sufficient 
+quality to determine sleep from wake. Any other problems with 
+scoring that could affect reliability were annotated, as well as 
+potential medical alerts such as heart rate >150 or <30 beats per 
+minute for longer than 2 minutes, O2 saturation <75% for >10% 
+of total sleep time, or RDI >25. 
+
+All studies were scored by a single registered polysomnographic 
+technologist who was required to demonstrate a complete 
+understanding of the study’s scoring rules and to articulate reasons 
+for assigning epoch by epoch codes for sleep and respiratory 
+scoring. This was judged by a review of records with one of 
+the investigators. Subsequently, the scorer periodically reviewed 
+selected records with one of the investigators. Studies posing difficulties 
+in scoring or interesting problems were reviewed by the 
+scorer and other investigators during quality assurance meetings. 
+
+Approximately 5% of studies were re-scored by the same 
+scorer on a blinded basis to determine consistency in scoring. No 
+systematic differences were observed between initial and rescored 
+studies. Comparison of some key parameters on blind 
+studies scored using the nasal thermister (RDI, total sleep time, 
+and sleep efficiency) were highly correlated (p<.01). Similar 
+results were found in studies scored with the addition of the nasal 
+pressure cannula. Also, 12 children were asked to complete a second 
+night of unattended polysomnography under conditions similar 
+to the first recording in order to validate the reproducibility 
+of major polysomnographic outcomes. A representative range of 
+children were selected with respect to age, gender, and ethnicity. 
+Children were only selected if the overall quality of the first PSG 
+was excellent (n=10) or good (n=2), and both thermister and 
+nasal pressure signals were of quality sufficient to score respiratory 
+events. 
+
+To compare the quality of TuCASA polysomnograms to those 
+performed in a sleep laboratory, a small study was conducted 
+with a sample of five children who had both a polysomnogram 
+recorded at home and one recorded at the University of Arizona 
+Sleep Disorders Center. Four children were selected from the 
+TuCASA cohort to have a repeat study in the sleep laboratory 
+within approximately seven weeks of their home polysomnogram. 
+Children were selected for laboratory polysomnography if 
+their home study was of excellent quality and the parent agreed 
+to spend the night in the lab. One child was not a member of the 
+TuCASA cohort, but had undergone a polysomnogram in the 
+sleep laboratory for the diagnosis of sleep apnea. This child was 
+studied in the home seven weeks after the laboratory polysomnogram. 
+Studies acquired in the sleep laboratory used a Grass 
+Heritage™ digital acquisition system (Astro-Med, Warwick, RI) 
+but the same montage as that employed in the home polysomnograms. 
+These lab studies were scored using the same criteria as 
+those performed in the home. 
+
+Statistical analysis was performed using STATA 6.0 for 
+Windows (STATA Corporation, College Station, TX). The 
+Wilcoxon signed-rank test was used to compare the distributions 
+of key sleep parameters in the night-to-night and lab vs. home 
+studies due to small sample sizes of ten and five respectively. 
+Spearman rank correlation was used to compare variables for the 
+blinded scoring studies. The Wilcoxon signed-rank test was also 
+used to compare the median RDI in samples scored with thermister 
+versus nasal pressure due to skewness in the distribution 
+of RDI. The Bland-Altman procedure was used to visually compare 
+the difference in means for the night-to-night variability 
+study.19 
+
+SLEEP, Vol. 24, No. 8, 2001 939 Unattended Polysomnography in Children—Goodwin et al 
+
+
+Table 1—Baseline characteristics 
+Male (n=89) Female (n=68) Total (n=157) 
+Age (years) 5—8 62 (40%) 38 (24%) 100 (64%) 
+9—12 27 (17%) 30 (19%) 57 (36%) 
+Ethnicity Cau 43 (27%) 40 (26%) 83 (53%) 
+Hisp 46 (29%) 28 (18%) 74 (47%) 
+BMI > 95 Yes 18 (12%) 8 (5%) 26 (17%) 
+percentile No 71 (45%) 60 (38%) 131 (83%) 
+Snore* Yes 29 (19%) 24 (15%) 53 (34%) 
+No 60 (38%) 44 (28%) 104 (66%) 
+EDS† Yes 25 (16%) 22 (14%) 47 (30%) 
+No 64 (41%) 46 (29%) 110 (70%) 
+BMI=Body Mass Index (kg/m2); EDS=Excessive Daytime Sleepiness; Cau=Caucasian; Hisp=Hispanic 
+Response by parent to "How often does your child snore loudly?"* and "Is your child sleepy during the 
+daytime?"† was occasionally, frequently, or almost always. 
+
+Table 2—Quality of polysomnography 
+
+Hours of Scorable Signal Mostly Free from Artifact (%) 
+
+Hours Scorable =
+==6 hours =
+==4 but =
+==2 but 
+Signal (mean, SD) < 6 hours < 4 hours < 2 hours 
+
+Abdominal Band 8.6 (1.3) 97% 3% 0% 1% 
+Chest Band 8.6 (1.6) 94% 3% 1% 1% 
+EOG 8.4 (1.5) 92% 6% 1% 1% 
+Oximeter 8.3 (1.5) 92% 7% 1% 0% 
+ECG 8.3 (1.5) 92% 7% 1% 0% 
+EEG 8.1 (2.2) 89% 5% 3% 4% 
+Chin EMG 7.7 (2.8) 84% 4% 3% 9% 
+Thermister 6.1 (2.7) 59% 17% 16% 8% 
+Nasal Cannula 5.6 (3.0) 52% 18% 15% 15% 
+
+RESULTS 
+
+Baseline Characteristics 
+
+The baseline characteristics of the 157 children enrolled in 
+TuCASA are shown in Table 1. There were 100 children (64%) 
+between five to eight years old and 57 children (36%) between 
+the ages of 9 to 12. The Hispanic population was well represented 
+with 74 children (47%). There were 68 female participants 
+(43%) and 89 males (57%). A snoring prevalence of 34% (n=53) 
+was found in this sample, and 30% (n=47) of parents reported 
+their child had daytime sleepiness of occasionally to almost 
+always. Using the standardized data for body mass index reported 
+by Rosner et al,20 26 children (17%) exceeded the 95th percentile 
+of BMI for gender, ethnicity, and age, and were classified 
+as obese. 
+
+Feasibility 
+
+Between February 2000 and March 2001, 162 children underwent 
+unattended home polysomnography. Sufficient sleep data 
+was collected on 147 subjects, for an initial failure rate of 9% 
+
+(n=15). Six of these 15 failures were due to oximetry <4 hours 
+(the oximeter became wet or detached from the finger), five were 
+due to equipment failure (such as a disconnected cable or battery 
+failure), and on four occasions the child or parent removed the 
+monitor prior to completion of at least four hours of sleep (child 
+refused to sleep with equipment). Of the initial failures, nine out 
+of ten children had a successful second study with the only failure 
+due to oximetry <4 hours. This subject had a third study completed, 
+which was successful. The overall number of successful 
+sleep studies was 157 out of 162 children attempted, for an overall 
+failure rate of 3%. 
+
+Study Quality and Recording Times 
+
+Study quality grades and length of scorable signal for the 157 
+studies are shown in Table 2. Overall, there were 61% (n=95) 
+studies of excellent quality, 36% (n=57) studies of good quality 
+and 3% (n=5) of these studies were of fair quality. The highest 
+quality signals were found on respiratory bands and EOG, and the 
+lowest quality signals were found on chin EMG and airflow 
+channels. There were no trends in signal quality over the course 
+of data collection. The mean recording time was 569 minutes 
+
+SLEEP, Vol. 24, No. 8, 2001 940 Unattended Polysomnography in Children—Goodwin et al 
+
+
+Table 3—Equipment discomfort 
+
+None Very Little Moderate A great deal 
+
+Vest 60% 30% 7% 3% 
+Oximeter 59% 27% 10% 4% 
+Respiratory 
+Bands 56% 29% 11% 4% 
+ECG 53% 30% 15% 2% 
+EEG 53% 31% 14% 2% 
+EOG 42% 30% 21% 7% 
+Thermister/ 
+Cannula 35% 31% 17% 17% 
+
+
+Table 4—Distribution of RDI 
+
+RDI NMean SD % 
+
+0 - 4.9 65 2.87 .81 41.4 
+
+5 - 9.9 72 5.35 .83 45.9 
+10 - 14.9 14 8.06 .85 8.9 
+15 - 19.9 4 11.07 1.35 2.5 
+
+> 20 2 29.52 22.04 1.3 
+
+RDI = number of respiratory events (apneas and hypopneas) per hour of 
+the total sleep time 
+
+(range 324–740), with a mean sleep period of 512 minutes (range 
+301–662.5), and mean sleep efficiency of 89.4% (range 
+72.8%–97.2%). 
+
+Participant Burden 
+
+A short questionnaire completed by parents on the morning 
+after the sleep study ascertained that 54% of subjects slept as well 
+as or better than usual, 40% of the parents said that their child 
+slept somewhat worse than usual, and 6% slept much worse than 
+usual. The thermister/nasal cannula combination was the sensor 
+which received the most complaint of discomfort with 34% of 
+parents reporting that their child had a moderate to a great deal of 
+discomfort (Table 3). Other sensors which caused at least moderate 
+discomfort were the EOG electrodes (28%) and the EEG 
+electrodes (17%). The respiratory bands, vest, and oximeter 
+received very few discomfort complaints. Of all subjects, 24% 
+(n=37) of parents reported that their child had difficulty falling 
+asleep on the night of the study. 
+
+Respiratory Disturbance Index 
+
+The distribution of RDI calculated from events scored without 
+visualization of the nasal pressure signal is skewed towards lower 
+RDI values (Table 4). Most events were hypopneic, and little 
+oxygen desaturation was noted in most participants. The overall 
+mean RDI value was 6.6 with a standard deviation of 6.6 and a 
+range from 0.6 to 72.4 events per hour (this high value was confirmed 
+by laboratory polysomnography). An RDI of > 10 was 
+found in 12.7% (n=20) of children. 
+
+The third pass of polysomnogram scoring included nasal pressure 
+in conjunction with other respiratory signals to detect more 
+subtle changes in upper airway resistance. In general, more 
+
+events were detected when using the nasal pressure signal. Out 
+of 157 children studied, 66% (n=103) had a nasal pressure signal 
+of sufficient duration and quality to assist in scoring. Using this 
+signal, the mean overall RDI increased to 7.8 with a standard 
+deviation of 6.9 and range of 2 to 69.2 (p<.001 vs RDI without 
+nasal pressure cannula). An RDI>10 now was found in 18% 
+(n=18) of children. 
+
+Night to Night Variability 
+
+Of the 12 children who were asked to undergo a second night 
+of polysomnography, one of the studies failed due to equipment 
+malfunction (main cable disconnect), and one study failed 
+because there was less than four hours of oximetry (loose oximeter). 
+Of the ten remaining studies, six were of excellent quality, 
+three were of good quality, and one was fair. The mean time 
+between the two recordings was 23.8 days, with a range of 7 to 
+50 days. Sufficient nasal pressure signal to accurately score 
+upper-airway events was available in eight of the ten studies. 
+
+The RDI calculated without use of the nasal pressure signal 
+was not statistically significantly different between the two studies 
+(p>.79). The mean RDI for the first study was 4.4±1.6 (SD); 
+for the second study the mean RDI was 4.3±1.8. Total mean 
+sleep time was 530±69 and 507±76 minutes, respectively 
+(p>.65). Sleep efficiency was 90% on the first night of study and 
+89% on the second night (p>.51). Using RDI as the comparison 
+measure between the two nights of study, a Bland Altman plot 
+(Figure 1) shows good agreement between the two separate 
+nights of study with a mean difference of 1.16. Similar analyses 
+using the RDI calculated with the nasal pressure signal showed 
+no significant difference between the first and second nights of 
+study (p>.62). 
+
+Comparison to Laboratory Polysomnography 
+
+In the five children who were asked to complete a polysomnogram 
+in the University of Arizona Sleep Disorders Center, one 
+child had the clinical study done first and four children completed 
+the home study first. In these five children, there was no statistically 
+significant difference in RDI between the two methods 
+(p>.13). The sleep architecture between the lab and home studies 
+showed consistently similar results in these children. 
+
+DISCUSSION 
+
+The TuCASA study demonstrates that high quality unattended 
+multi-channel polysomnography can be performed on children 
+aged 5—12 years in a research protocol with a high rate of success. 
+Moreover, parental assessment indicates that the monitoring 
+equipment had only a small effect on sleep quality in the majority 
+of children studied. Although addition of a nasal pressure cannula 
+identified a slightly greater number of SDB events, it was 
+associated with a higher failure rate. Repeat studies showed little 
+night to night variability. Furthermore, unattended polysomnography 
+using this protocol compared favorably to attended studies 
+in a sleep laboratory. 
+
+In TuCASA, we performed unattended polysomnography in 
+the home and acquired high quality sleep data in children with a 
+>90% success rate. There have been several previous reports of 
+home sleep recordings in children; however, none have used full 
+
+SLEEP, Vol. 24, No. 8, 2001 941 Unattended Polysomnography in Children—Goodwin et al 
+
+
+4 
+3 
+2 
+1 
+0 
+1 2 3 4 5 6 7 
+Average of HoRDI1 and HORDI2 
+Difference Between HoRDI1 and HORDI2 
+mean difference 
+mean difference plus and minu 1.96 times the standard deviation of the differences (0.89) 
++1.96 (SD) 
+2.19 
+Mean 
+1.16 
+-1.96 (SD) 
+0.126 
+Figure 1—Bland-Altman plot of RDI night-to-night variability. HoRDI1=RDI on first night of polysomnography. HoRDI2=RDI on second night of polysomnography. 
+N=10. 
+
+polysomnography.21,22 Most of these studies have monitored a 
+limited number of respiratory channels using a variety of sensors 
+to record airflow, thoracic and abdominal movement, and oxygen 
+saturation. To better define sleep, video camera monitoring, in 
+conjunction with partial polysomnography, has also been proposed.
+23 Although SDB can be assessed with a reasonable degree 
+of certainty with such methods, accurate measurement of the 
+amount and quality of sleep is not possible. The full neurocognitive 
+impact of SDB in children may require an assessment of the 
+quantity and quality of sleep, especially in those without severe 
+disease. Such recordings can be obtained in a sleep laboratory 
+with attended polysomnography; however, the cost of recording 
+a large number of children would be quite expensive, and the burden 
+on families could be significant. Therefore, for clinical 
+research, the capability to perform full unattended polysomnography 
+in the home is essential to understand the neurocognitive 
+impact of SDB in children. 
+
+We found that the polysomnogram montage used in our study 
+has only a modest impact on parental assessment of sleep quality. 
+The majority of children slept as well as, or better than, usual 
+and only a small number slept poorly. The primary sensor causing 
+discomfort was the combination thermister/cannula, which 
+consists of a pediatric oxygen nasal cannula with a three-pronged 
+thermister laying on its top surface. This finding is consistent 
+with our observation that both airflow sensors also had the highest 
+rates of signal duration less than four hours. The level of participant 
+burden in TuCASA children is very similar to that found 
+in the Sleep Heart Health Study (a large cohort study using unattended 
+polysomnography in over 6,000 adults), with 30% of 
+those adults having a moderate to great deal of discomfort caused 
+by the thermister alone.15 
+
+When using nasal pressure to assist in the identification of 
+hypopneas, we observed a higher RDI (or SDBI) than with only 
+the thermister as an airflow signal. In adults, recording of nasal 
+pressure has been advocated as a method of detecting subtle periodic 
+elevations in upper airway resistance that is less invasive 
+than esophageal manometry.24 These events frequently are associated 
+with microarousals from sleep and may have the same 
+clinical impact as frank hypopneas and apneas.25 Unfortunately, 
+the nasal pressure signal had an even higher failure rate than the 
+thermister. The explanation for this finding is unclear. However, 
+because both sensors tend to cause some irritation in many of the 
+children, we believe that the children tend to inadvertently 
+manipulate them after the sleep recording has started. We speculate 
+that the signal derived from the nasal pressure cannula is 
+more position sensitive than the signal from the thermister resulting 
+in greater signal loss when inadvertently moved. Thus, our 
+data suggest that the nasal pressure cannula should not be used by 
+itself as a marker of airflow during unattended polysomnography 
+in children. Additionally, it is uncertain whether unattended 
+polysomnography would be feasible in the pre-school age group 
+as signal quality decreased in the younger children in our study. 
+
+In a limited sample of children, we found that the results from 
+a second unattended polysomnogram were comparable to the 
+first night of recording. There have been several studies of nightto-
+night variability in adults performed using laboratory 
+polysomnography.26-30 In general, the RDI on one night is comparable 
+to another, although variability may be slightly greater 
+when the RDI is low.26,30 No studies of night to night variability 
+have been performed using unattended polysomnography in children. 
+However, our findings are comparable to a larger study performed 
+in adults as part of the Sleep Heart Health Study in which 
+
+SLEEP, Vol. 24, No. 8, 2001 942 Unattended Polysomnography in Children—Goodwin et al 
+
+
+night-to-night variation also was small.31 
+
+A potential problem of laboratory polysomnography in young 
+children is the inability to sleep well in an unfamiliar environment, 
+surrounded by strangers and monitoring equipment. By 
+recording sleep in the familiar home setting, children should be 
+less apprehensive and have a more normal night of sleep. While 
+we did not perform an extensive comparison of home to laboratory 
+polysomnography (n=5), we obtained reasonably similar 
+data in these participants. These statistical similarities are 
+accepted with the limitations normally found in samples of such 
+small size. Although we cannot infer that our home recordings 
+were more representative of a child’s sleep than recordings performed 
+in a laboratory, they appear to be at least comparable. 
+
+A potential limitation of our findings is the exclusion of end-
+tidal PCO2 or TcPCO2 as part of our TuCASA recording montage. 
+Use of end-tidal PCO2 or TcPCO2 has been recommended in children 
+for detecting obstructive hypoventilation.32-34 
+Unfortunately, it is not feasible to perform either end-tidal PCO2 
+or TcPCO2 measurements in the home environment. However, 
+subtle changes in flow limitation indicative of increased upper 
+airway resistance can be identified by the use of pressure changes 
+measured with a nasal cannula.18,25 We believe that it is possible 
+to identify episodes of obstructive hypoventilation using this signal, 
+although we have no confirmatory data. Furthermore, it is 
+likely that episodes of hypoventilation become less prevalent in 
+older preadolescents, which comprise 35% of our cohort. 
+
+Another possible limitation of our study is the potential for 
+selection bias. If parents of children with a sleep problem preferentially 
+returned the screening questionnaire, a greater number of 
+participants with a high RDI would have been studied. 
+Unfortunately, this bias may be present in any prospective cohort 
+study. 
+
+In conclusion, the TuCASA study has demonstrated the feasibility 
+of collecting high quality unattended multi-channel 
+polysomnography in children ages 5 to 12 years. Participant 
+burden has been acceptable in the majority of children and has 
+had only a modest effect on subjective sleep quality. Therefore, 
+the polysomnographic recording techniques that we have outlined 
+should prove useful in our current and other future epidemiological 
+studies of sleep in children. 
+
+ACKNOWLEDGMENTS 
+
+The authors thank Charles Wynstra and Martin Ukockis, 
+R.PSG.T., RRT, for their assistance in data collection and 
+polysomnogram scoring. The authors also wish to thank Albert 
+Gould PhD, Chair, Research Committee, and the principals, 
+teachers, parents, and students from the Tucson Unified School 
+District for their ongoing support of this research. 
+
+REFERENCES 
+
+1. Gaultier C. Clinical and therapeutic aspects of obstructive sleep 
+apnea syndrome in infants and children. Sleep 1992;15:S36-38. 
+2. Guilleminault C. Obstructive sleep apnea. Medical Clinics of North 
+America 1985;69:1187-1203. 
+3. Guilleminault C. Obstructive Sleep Apnea Syndrome in Children. In: 
+Guilleminault C, ed. Sleep and its disorders in children. New York: 
+Raven, 1987:213-224. 
+4. Carroll J LG. Obstructive sleep apnea syndrome in infants and children: 
+clinical features and pathophysiology. In: Kryger, Roth, & Dement 
+ed. Principles and practice of sleep medicine in the child. Philadelphia, 
+PA: W.B. Saunders, 1995:163-191. 
+
+5. Gozal D. Sleep-Disordered Breathing and School Performance in 
+Children. Pediatr 1998;102:616-620. 
+6. Owens J, Opipari L, Nobile C, Spirito A. Sleep and daytime behavior 
+in children with obstructive sleep apnea and behavioral sleep disorders. 
+Pediatrics 1998;102:1178-1184. 
+7. Hansen DE, Vandenberg B. Neuropsychological features and differential 
+diagnosis of sleep apnea syndrome in children. J Clin Child Psych 
+1997;26:304-310. 
+8. Young T, Palta M, Dempsey J, Skatrud J, Weber S, Badr S. The 
+occurrence of sleep-disordered breathing among middle-aged adults. N 
+Engl J Med 1993;328:1230-5. 
+9. Guilleminault C, Stoohs R, Clerk A, Cetel M, Maistros P. A cause of 
+excessive daytime sleepiness. The upper airway resistance syndrome. 
+Chest 1993;104:781-7. 
+10.Exar EN, Collop NA. The upper airway resistance syndrome. Chest 
+1999;115:1127-39. 
+11. Gould GA, Whyte KF, Rhind GB, et al. The sleep hypopnea syndrome. 
+Am Rev Respir Dis 1988;137:895-8. 
+12.Guilleminault C, Pelayo R, Leger D, Clerk A, Bocian RCZ. 
+Recognition of sleep-disordered breathing in children. Pediatr 
+1996;98:871-82. 
+13.Downey R III PR, MacQuarrie J. Upper airway resistance syndrome: 
+Sick, symptomatic but underrecognized. Sleep 1993;16:620-623. 
+14.Marcus CI, Omlin KJ, Basinki DJ, et al. Normal polysomnographic 
+values for children and adolescents. Am Rev Respir Dis 1992;146:12359. 
+15.Redline S, Sanders M, Lind B, et al. Methods for obtaining and analyzing 
+unattended polysomnography data for a multicenter study. Sleep 
+1998;21:759-67. 
+16.Rechtschaffen A KA. A manual of standardized terminology: techniques 
+and scoring systems for sleep stages of human subjects. UCLA 
+Brain Information Service/Brain Research Institute. Los Angeles, CA, 
+1968. 
+17.EEG arousals: scoring rules and examples: a preliminary report from 
+the Sleep Disorders Atlas Task Force of the American Sleep Disorders 
+Association. Sleep 1992;15:173-84. 
+18.Norman RG, Ahmed MM, Walsleben JA, Rapoport DM. Detection of 
+respiratory events during NPSG: nasal cannula/pressure sensor versus 
+thermistor. Sleep 1997;20:1175-84. 
+19.Bland JM AD. Statistical method for assessing agreement between 
+two methods of clinical measurement. Lancet 1986;i:307-310. 
+20.Rosner B PR, Loggie J, Daniels S. Percentiles for body mass index 
+in U.S. children 5 to 17 years of age. Journal of Pediatrics 1998;132:21122. 
+21.Brouillette RT, Jacob SV, Waters KA, Morielli A, Mograss M, 
+Ducharme FM. Cardiorespiratory sleep studies for children can often be 
+performed in the home. Sleep 1996;10 (Suppl):S278-31. 
+22.Jacob SV, Morielli A, Mograss MA, Ducharme FM, Schloss MD, 
+Brouillette RT. Home testing for pediatric obstructive sleep apnea syndrome 
+secondary to adenotonsillar hypertrophy. Pediatr Pulmonol 
+1995;20:241-52. 
+23.Morielli A, Ladan S, Ducharme FM, Brouillette RT. Can sleep and 
+wakefulness be distinguished in children by cardiorespiratory and videotape 
+recordings? Chest 1996;109:680-7. 
+24.Ayappa I, Norman RG, Krieger AC, Rosen A, O’Malley RL, 
+Rapoport DM. Non-invasive detection of respiratory effort-related 
+arousals (RERAs) by a nasal cannula/pressure transducer system. Sleep 
+2000;23:763-771. 
+25.Hosselet J-J, Ayappa I, Norman RG, Krieger AC, Rapoport DM. 
+Classification of sleep-disordered breathing. Am J Respir Crit Care Med 
+2001;163:398-405. 
+26.Wittig RM, Romaker A, Zorick FJ, Roehrs TA, Conway WA, Roth T. 
+Night-to-night consistency of apneas during sleep. Am Rev Respir Dis 
+1984;129:244-6. 
+SLEEP, Vol. 24, No. 8, 2001 943 Unattended Polysomnography in Children—Goodwin et al 
+
+
+27.Mendelson WB. Use of the sleep laboratory in suspected sleep apnea 
+syndrome: is one night enough? Cleve Clin J Med 1994 61:299-303. 
+28.Le Bon O, Hoffmann G, Tecco J, et al. Mild to moderate sleep respiratory 
+events: one negative night may not be enough. Chest 
+2000;118:353-9. 
+29.Chediak AD, Acevedo-Crespo JC, Seiden DJ, Kim HH, Kiel MH. 
+Nightly variability in the indices of sleep-disordered breathing in men 
+being evaluated for impotence with consecutive night polysomnograms. 
+Sleep 1996;19:589-92. 
+30.Mosko SS, Dickel MJ, Ashurst J. Night-to-night variability in sleep 
+apnea and sleep-related periodic leg movements in the elderly. Sleep 
+1988;11:340-8. 
+31.Rapoport DM IC, Kiley JP, Nieto FJ, Quan SF, Redline S, Sanders 
+M, Young T. Night to night variability in sleep and respiratory data collected 
+during NPSG’s as part of the Sleep Heart Health Study. Sleep 
+1998; (Suppl): 212. 
+32.Morielli A, Desjardins D, Brouillette RT. Transcutaneous and end-
+tidal carbon dioxide pressures should be measured during pediatric 
+polysomnography. Am Rev Respir Dis 1993;16:1599-604. 
+33.Smith TC, Proops DW, Pearman K, Hutton P. Nasal capnography in 
+children: automated analysis provides a measure of obstructive during 
+sleep. Clin Otolaryngol 1993;18:69-71. 
+34.Messner AH, Pelayo R. Pediatric sleep-related breathing disorders. 
+Am J Otolaryngol 2000;1:98-107. 
+
+ABBREVIATIONS 
+
+BMI—body mass index; ECG—electrocardiogram; EEG— 
+electroencephalogram; EMG—electromyogram; EOG—electrooculogram; 
+LCD—liquid crystal display; HoRDI1—value of 
+RDI on first night of home polysomnography; HoRDI2—value of 
+RDI on second night of home polysomnography; NREM—non-
+REM sleep; OSAS—obstructive sleep apnea syndrome; PCMCIA—
+personal computer memory card international association; 
+PCO2—pressure of carbon dioxide; PIB—patient interface box; 
+PSG—polysomnogram; REM—rapid eye movement sleep; 
+RDI—respiratory disturbance index; SDB—sleep-disordered 
+breathing; SDBI—sleep-disordered breathing index; TcPCO2— 
+transcutaneous carbon dioxide; TuCASA—Tucson Children’s 
+Assessment of Sleep Apnea; TUSD—Tucson Unified School 
+District 
+
+SLEEP, Vol. 24, No. 8, 2001 944 Unattended Polysomnography in Children—Goodwin et al 
+
+

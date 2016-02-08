@@ -1,0 +1,764 @@
+PREVALENCE AND RISK FACTORS FOR SLEEP-DISORDERED BREATHING IN 
+8- TO 11-YEAR-OLD CHILDREN: ASSOCIATION WITH RACE AND PREMATURITY 
+
+CAROL L.ROSEN,MD,EMMAK.LARKIN,MHS,H.LESTER KIRCHNER,PHD,JUDITHL.EMANCIPATOR,MA,SARAHF.BIVINS,AB, 
+SUSAN A. SUROVEC,BA, RICHARD J. MARTIN,MD, AND SUSAN REDLINE,MD, MPH 
+
+
+Objectives To evaluate the extent to which sleep-disordered breathing (SDB) varies with putative demographic and 
+medical risk factors and to estimate the prevalence of undiagnosed SDB. 
+
+Study design Prospective, cross-sectional study in a population-based cohort of 850 children (41% black, 46% preterm), 
+8 to 11 years of age. Participants’ caretakers completed questionnaires about health and sleep. Children underwent 
+overnight in-home cardiorespiratory recordings of airflow, respiratory effort, oximetry, and electrocardiography. SDB was 
+identified by respiratory disturbance indices commonly applied in clinical practice. Risk factors were estimated by logistic 
+regression. Prevalence was derived from cohort-specific estimates with birth weights from US live births data. 
+
+Results Using the most inclusive definition, SDB was detected in 40 (4.7%) participants, with prevalence varying widely 
+across population subsets. Depending on the definition used, SDB was 4 to 6 times more likely in black children compared 
+with white children and almost 3 to 5 times more likely in former preterm compared with term children. The estimated 
+population prevalence of SDB was 2.2% (95% CI, 1.2%, 3.2%). 
+
+Conclusions SDB is a relatively common condition in 8- to 11-year-old children. Potentially vulnerable subgroups, black 
+children, and former preterm infants, are at increased risk. (J Pediatr 2003;142:383-9) 
+
+S
+S
+leep-disordered breathing (SDB), a common medical problem in adults, is See editorial, p 364, and 
+increasingly recognized in children. It is characterized by prolonged partial upper related article,p 377. 
+airway obstruction and/or intermittent complete pharyngeal obstruction that 
+disrupts normal ventilation during sleep and sleep continuity.1 If unrecognized and 
+untreated, it can lead to serious complications including neurocognitive disabilities, failure 
+to thrive, and cor pulmonale2,3 in childhood and increased risk of hypertension and 
+cardiovascular disease in adulthood.4,5 
+
+Available epidemiologic data for SDB in children are limited. Prevalence estimates 
+vary from 0.7% to 2.9%.6-10 These data have been derived mainly from community surveys 
+that used 2-stage sampling approaches that objectively measure SDB in subsamples of 
+children at high and low risk, based on symptoms. Because parent reports cannot reliably 
+
+From the Department of Pediatrics, 
+predict SDB in children, prevalence estimates from small subsamples of only “sympto-Rainbow Babies and Children’s Hospital, 
+University Hospitals of Cleveland, Case 
+
+
+matic” children may be unreliable.11,12 We have previously reported an SDB frequency of 
+
+Western Reserve University, Cleveland, 
+1.6% in 126 US children who were neighborhood control participants in a longitudinal ge-Ohio. 
+Supported by grants RO1HL60957, 
+
+netic-epidemiologic study of SDB.8 This cohort also showed an increased risk for SDB in 
+
+K23 HL04426, RO1 NR02707, and M01 
+
+minorities and obesity. Although all children had objective testing for SDB, this sample 
+RR00080-39 from the National Insti
+
+
+was not optimal for prevalence estimation because it included related family members and 
+tutes of Health. 
+Submitted for publication June 4, 2002; 
+
+a broad age range of 2 to 18 years. 
+
+revision received Sept 25, 2002; accept-
+
+The importance of perinatal factors in influencing the expression of SDB in later ed Oct 25, 2002. 
+
+childhood has not been explored. In utero or postnatal exposure might affect the propensi-Reprint requests: Carol L. Rosen, MD, 
+Department of Pediatrics, Rainbow Ba
+
+
+ty for SDB by influencing craniofacial development, ventilatory chemosensitivity, or load 
+
+bies and Children’s Hospital, 11100 Eu
+
+
+compensation. For example, exposure to hypoxia or hyperoxia after birth can alter the de-clid Ave, RB&C 790 Mail Stop 6003, 
+Cleveland, OH 44106-6003. 
+Copyright © 2003 Mosby, Inc. All rights 
+
+CCSHS Cleveland Children’s Sleep and Health Study 
+
+reserved. 
+LBW-MES Low Birth Weight–Maternal Employment Study 
+
+0022-3476/2003/$30.00 + 0
+
+SDB Sleep-disordered breathing 
+
+10.1067/mpd.2003.28 
+
+
+velopment of the chemoafferent pathway in animal studies.
+13,14 The preterm infant is also more likely to have a variety 
+of medical problems, including chronic respiratory disease 
+or neurologic injury, which could influence SDB in later 
+childhood. Access to a well-characterized cohort of preterm 
+and term children would allow us to examine this potential relation. 
+
+
+We used data from the Cleveland Children’s Sleep and 
+Health Study (CCSHS), a unique population-based cohort of 
+907 children, 8 to 11 years of age, to investigate the epidemiology 
+of SDB. Stratified sampling was used to achieve a sample 
+that included approximately 50% former preterm children. 
+Using representative sampling methods, we estimated the 
+prevalence rates of undiagnosed SDB and investigated the extent 
+to which risk of SDB varied with race, sex, obesity, and 
+prematurity. We hypothesized that prevalence rates would be 
+highest in obese, former preterm, and black children. 
+
+METHODS 
+
+Study Sample 
+
+The CCSHS is a population-based cohort of 907 children 
+studied at 8 to 11 years of age. The study used questionnaires 
+about sleep, breathing, and general health, in-home 
+overnight cardiorespiratory studies, and other physiologic, 
+neuropsychologic, and behavioral assessments (latter data are 
+not presented here). This cohort was assembled as a stratified 
+random sample of full-term and preterm children who were 
+born between 1988 and 1993 and identified from the birth 
+records of three Cleveland area hospitals. Preterm children 
+were defined as <36 weeks’ gestational age at birth. 
+
+In brief, 664 (72.7%) children were drawn from the original 
+cohort of 913 children who had participated in longitudinal 
+studies of cognition and behavior, the Low Birth Weight-Maternal 
+Employment Study (LBW-MES).15 The recruitment procedures 
+for this original cohort are outlined in the Appendix (see 
+The Journal of Pediatrics Online at www.us.elsevierhealth 
+.com/jpeds). Nonparticipation in the CCSHS cohort by original 
+cohort members were due to having moved from area (4.7%); inability 
+to locate (5.6%); refused (12.4%); and passive refusal (4.6% 
+agreed to participate but did not complete study visits). Since the 
+original LBW-MES cohort contained only 23% minorities, we 
+expanded the CCSHS cohort to achieve the effective sample size 
+of 907 children by recruiting a balanced sample of 243 preterm 
+and term minority children, born at one of the three targeted hospitals 
+(University Hospitals of Cleveland) during overlapping 
+birth years as the original cohort. This additional minority recruitment 
+for CCSHS came from a target sample of 1467 children 
+born in the same eligible birth cohort years, between 2000 
+and 2001. Of these, 711 (48%) were contacted, but 52% had either 
+moved or could not be located through hospital contact information; 
+10% of the contacted participants (n = 149) were 
+ineligible because of serious (for example, mental retardation or 
+severe cerebral palsy) conditions that precluded study participation. 
+Of the remaining children who were contacted and eligible, 
+320 parents/guardians agreed to participate and 243 (76%) completed 
+the study protocol. 
+
+Study Protocol 
+
+Demographic and medical data were assessed with the 
+Child Sleep Questionnaire, a pediatric modification of a validated 
+questionnaire.16 Height and weight were directly measured, 
+and body mass index was calculated (kg/m2). Methods 
+for overnight home sleep studies were described previously.17 
+In brief, limited channel cardiorespiratory recordings included 
+thoracic and abdominal excursions and estimated tidal volume 
+(by inductance plethysmography), pulse oximetry with waveform 
+display, heart rate, and body position (PT-2 system, SensorMedics, 
+Yorba Linda, Calif ). This equipment has been 
+successfully used in other large-scale home observational studies.
+18 Technically satisfactory home studies were obtained for 
+94% of the sample. Minimum criteria for acceptable recordings 
+included at least 4 hours of respiratory effort signals with 
+concurrent reliable oximetry data. Participants were enrolled 
+between September 1998 and October 2001. Institutional review 
+boards approved the protocol at the participating hospitals. 
+Informed consent was obtained from the parent/legal 
+guardian of each child, and assent was obtained from the child. 
+
+Scoring of Respiratory Events 
+
+Detailed methods for respiratory event identification 
+have been reported previously.17 In brief, estimated sleep time 
+was identified when physiologic parameters were consistent 
+with both sleep (eg, demonstrating little movement, reduced 
+heart rate) and sleep-wake times recorded by the parent in the 
+sleep diary. Respiratory events were scored if they were at least 
+8 seconds long, which represents at least 2 missed respiratory 
+cycles at this age. Obstructive apneas were scored when chest 
+and abdominal efforts were asynchronous and estimated tidal 
+volume was <25% baseline, irrespective of associated desaturation. 
+Hypopneas were scored when respiratory efforts were accompanied 
+by a 25% to 50% reduction in estimated tidal 
+volume and accompanied by at least 3% oxyhemoglobin de-
+saturation or when clearly discernible decreases in estimated 
+tidal volume were associated with similar desaturation. Central 
+apneas (absent effort in both channels) were excluded 
+from SDB indexes. 
+
+All records were scored without clinical correlates by 
+scorers who regularly participated in scoring exercises to 
+maintain interobserver consistency. We compared the obstructive 
+apnea hypopnea index from the home study with a similarly 
+defined index (obstructive apnea plus hypopneas 
+associated with a 3% desaturation) from full channel laboratory-
+based polysomnography (sleep staging, nasal-oral airflow, 
+respiratory effort, oximetry, and electrocardiography) in 121 
+children selected to represent a range of SDB findings. In the 
+55 children in whom the two tests were performed within 3 
+months, the mean obstructive apnea hypopnea index was 2.6 
+± 8.0 and 2.9 ± 7.5 for laboratory versus home studies, respectively 
+(intraclass correlation coefficient = 0.85). With the use 
+of a threshold value for SDB of at least 5 events per hour, the 
+sensitivity for SDB classification by home studies was 88% 
+and specificity was 98%. These data support the overall accuracy 
+of classification of SDB, based on the apnea hypopnea 
+index derived from the home studies. 
+
+384 Rosen et al The Journal of Pediatrics • April 2003 
+
+
+Table I. Demographic and clinical characteristics at baseline stratified by term and preterm birth* 
+
+Term Preterm 
+Characteristic (n = 456) (n = 394) P value 
+
+Age (y) 9.6 ± 0.7 9.3 ± 0.8 < .0001 
+Female, n (%) 225 (49) 195 (49) .9651 
+Race, n (%) 
+
+White 268 (59) 233 (59) .9391 
+
+Black 166 (36) 144 (37) 
+
+Other 22 (5) 17 (4) 
+Height (cm)† 139 ± 8 135 ± 8 < .0001 
+Body mass index‡ 18.4 ± 3.7 17.9 ± 4.0 .0339 
+Body mass index >95th percentile, n (%) 71 (16) 62 (16) .9563 
+Body mass index >85th percentile, n (%) 138 (30) 108 (27) .3513 
+Birth weight (g)§ 3439 ± 482 1525 ± 609 < .0001 
+Snorer, n (%)¶ 61 (14) 81 (21) .0049 
+Prior tonsillectomy or adenoidectomy, n (%)# 13 (3) 50 (13) .0001 
+Parent-reported daytime sleepiness, n (%)** 61 (7) 51 (6) .9046 
+
+*Plus-minus values are mean ± SD. 
+
+†Data missing for 1 preterm participant. 
+‡Data missing for 2 term participants and 1 preterm participant. 
+§Parent-reported birth weight data missing for 24 term and 21 preterm children. 
+¶“Not sure” responses (n = 47) were classified as nonsnorers. Data missing for 6 term and 6 preterm participants. 
+#Data missing for 14 term participants and 14 preterm participants. 
+**Data missing for 11 term participants and 14 preterm participants. 
+
+
+Definitions 
+
+Children were categorized as “snorers” if the care giver 
+answered “yes” to “ loud snoring” at least 1 to 2 times per week 
+in the past month. Prior tonsillectomy or adenoidectomy was 
+indicated by affirmative responses to individual questions 
+about tonsils or adenoids being removed. Children were categorized 
+as “sleepy” if the care giver reported that the child had 
+fallen asleep in the past month “frequently” (3-4 times per 
+week) or “always or almost always” (5-7 times per week) during 
+any of the following activities (watching television, reading, 
+eating, talking, at school, or playing). SDB was identified 
+by using three definitions. The first used the obstructive apnea 
+hypopnea index with a cutoff point of at least 5 events per 
+hour of estimated sleep time. The second definition included 
+only obstructive apneas regardless of desaturation with a cutoff 
+point of at least 1 event per hour.19 The third definition 
+combined children identified by either SDB criterion. 
+
+Statistical Analysis 
+
+Data were analyzed by means of SAS version 8.2 (SAS 
+Institute, Inc, Cary, NC) for descriptive statistics, contingency 
+tables, and unadjusted odds ratios. Two-sample t tests and 
+Pearson .2 tests were conducted to compare means and proportions, 
+respectively. Exact logistic regression was performed 
+with the use of LogXact version 2.1 (Cytel Software, Cambridge, 
+Mass) to identify the relation between race, obesity, 
+prematurity, and SDB, adjusting for the other covariates. Associations 
+between the risk factors and SDB were expressed as 
+odds ratios with 95% confidence intervals. Sample estimates 
+of SDB were stratified by prematurity and race: white/term, 
+white/preterm, black/term, and black/preterm. Using standard 
+
+formulas for stratified sampling, the stratum-specific estimates 
+were combined to calculate overall prevalence estimates, based 
+on weights from US live births data.20 Asian, Hispanic, Native 
+American, or multiracial participants (“other” race) were 
+excluded in these latter calculations. 
+
+RESULTS 
+
+A total of 850 (94%) of the CCSHS cohort had both 
+questionnaire data and technically satisfactory home recordings 
+(Table I). The mean gestational age of the former preterm 
+participants was 31 ± 3 weeks, and 17% of the sample had 
+birth weights <1000 g. Although the preterm sample was 
+slightly younger, shorter, and weighed less, both groups were 
+comparable with respect to race, sex, and obesity. Snoring and 
+prior tonsillectomy or adenoidectomy were reported more 
+commonly in the preterm group. Parents reported the following 
+frequencies for common SDB symptoms: snoring (17%), 
+falling asleep watching television (12%), and falling asleep in 
+school (0.4%). 
+
+Key sleep and breathing variables are summarized in 
+Table II. The mean estimated sleep time based on the 
+overnight study was 7.5 hours. SDB was identified in 2.5%, 
+4.0%, and 4.7% of the children, defined by the apnea hypopnea 
+index, the obstructive apnea index, or the combined definition, 
+respectively. SDB was observed with an almost 3- to 
+5-fold greater frequency in the preterm compared with the 
+term group, depending on the SDB definition. The mean and 
+nadir oxygen saturation values were minimally lower in the 
+preterm group. 
+
+By design, preterm status did not differ by race (46% in 
+each racial group). More black children had body mass index 
+
+Prevalence and Risk Factors for Sleep-Disordered Breathing in 
+8- to 11-Year-Old Children:Association with Race and Prematurity 
+
+
+Table II. Sleep and breathing variables stratified by term and preterm birth* 
+Term Preterm 
+Characteristic (n = 456) (n = 394) P value 
+Estimated sleep time (h) 
+Mean 7.5 ± 1.4 7.4 ± 1.5 .4567 
+Range (3.0–10.8) (2.9–11.1) 
+Obstructive apnea hypopnea index (events per h) 
+Mean 0.5 ± 1.8 0.9 ± 3.3 .0164 
+Range (0–33.3) (0–42.5) 
+Obstructive apnea index (events per h) 
+Mean 0.1 ± 0.5 0.3 ± 1.2 .0105 
+Range (0–8.5) (0–16.3) 
+Obstructive apnea hypopnea index =5 events/h, n (%) 4 (0.9) 17 (4.3) .0013 
+Obstructive apnea index =1 event/h, n (%) 10 (2.2) 24 (6.1) .0038 
+Combined definition, n (%) 11 (2.4) 29 (7.4) .0007 
+Oxygen saturation percent 
+Asleep .0031 
+Mean 96.4 ± 1.2 96.1 ± 1.5 
+Range (90–99) (85–99) 
+Sleep nadir .0209 
+Mean 91.6 ± 2.5 91.1 ± 3.5 
+Range (73–95) (58–95) 
+
+*Plus-minus values are mean ± SD. 
+
+either above the 95th percentile (black [20%] versus 
+white/other [13%]; P = .0074) or above the 85th percentile 
+(black [35%] versus white/other [26%]; P = .0035). Snoring 
+was also more common in black compared with white/other 
+children (24% vs 13%, P < .0001). Black children compared 
+with white children were more likely to have SDB (4.8% vs 
+1.0%, 8.1 vs 1.4%, or 8.7% vs 2.2%) for the apnea hypopnea 
+index, the obstructive apnea index, or the combined definition, 
+respectively (P = .0006, P < .0001, and P < .0001). 
+
+The unadjusted odds ratios for each key covariate are 
+shown in Table III. (The 39 children in the “other” race groups 
+were excluded because they represented small, ethnically heterogeneous 
+groups.) For all three SDB definitions, preterm 
+gestation and black race were significant risk factors for SDB. 
+Obesity was associated with SDB only when defined by the 
+apnea hypopnea index. Male sex was not associated with any 
+SDB definition. As expected, snoring was strongly associated 
+with all SDB definitions. 
+
+Table IV summarizes the results of logistic regression 
+analyses after adjusting for significant covariates (race, 
+preterm status, body mass index) from the unadjusted models 
+(except snoring because of its close relation to SDB). For all 
+SDB definitions, adjusted analyses showed race and preterm 
+status each to be independent, significant risk factors, with 
+odds ratios similar to the unadjusted models. Black children 
+were 4 to 6 times more likely and former preterm children 
+were 3 to 5 times more likely to have SDB compared with 
+white and term children, respectively. Odds ratios for body 
+mass index greater than either the 85th or 95th percentiles 
+were not significant. 
+
+386 Rosen et al 
+
+Using cohort-specific estimates with birth weight from 
+US live births data for race and preterm status,20 we derived 
+population prevalence estimates of 0.9% (95% CI = 0.4%1.3%), 
+1.9% (95% CI = 1.0%-2.9%), and 2.2% (95% CI = 
+1.2%-3.2%) for each definition (apnea hypopnea index, obstructive 
+apnea index, combined), respectively. 
+
+DISCUSSION 
+
+This study presents fundamental epidemiologic data on 
+childhood SDB, quantifying the prevalence of unrecognized 
+SDB and the association of several putative risk factors with 
+childhood SDB. We conducted objective cardiorespiratory 
+monitoring during sleep in the largest population-based sample 
+of US children that included substantial black representation. 
+In addition, the targeted population had a high 
+participation rate that minimized selection biases. We observed 
+a wide spectrum of undiagnosed SDB in this cohort, 
+ranging from a few episodes of apnea and hypopnea per night 
+to severe apnea with respiratory events with desaturations >40 
+times per hour. Using objective criteria, we estimated a prevalence 
+rate of SDB up to 2.2% in 8- to 11-year-old children. 
+We confirmed our previous reports of an increased SDB risk 
+in black children8 and extended our findings to identify 
+preterm status as a significant risk factor. This prevalence estimate 
+was similar to previous reports that applied objective 
+testing in small or less representative samples.6-10 
+
+Preterm infants represent a growing proportion of all live 
+births, comprising 10.3% of whites and 17.2% of blacks, respectively.
+20 Although apnea is well recognized during the early 
+months of life in preterm infants, little attention has been paid 
+
+The Journal of Pediatrics • April 2003 
+
+
+Table III. Unadjusted odds ratios for increased risk of SDB* 
+SDB definition 
+Obstructive apnea Obstructive 
+hypopnea index apnea index Combined 
+=5 events per h =1 event per h Either definition 
+n = 20 n = 32 n = 38 
+Odds ratio Odds ratio Odds ratio 
+95% CI P value 95% CI P value 95% CI P value 
+Risk factor 
+Race (black) 5.0 .0019 6.2 < .0001 4.3 < .0001 
+1.8-14.0 2.6-14.5 2.1-8.7 
+Preterm 5.1 .0056 2.9 .0128 3.0 .0029 
+1.6-14.4 1.4-6.1 1.4-6.0 
+Body mass index 
+>85th percentile 2.5 .0406 1.1 .7586 1.4 .2670 
+1.0-6.2 0.5-2.4 0.7-2.9 
+>95th percentile 2.8 .0806 1.0 .9961 1.5 .3448 
+0.9-6.3 0.4-2.7 0.7-3.3 
+Male sex 1.2 .6876 0.8 .4335 0.7 .2882 
+0.5-2.9 0.4-1.5 0.4-1.4 
+Age (per y) 0.7 .2265 0.6 .0352 0.6 .0628 
+0.4-1.3 0.3-1.0 0.4-1.0 
+Snoring (yes/no) 16.8 < .0001 6.4 < .0001 7.2 < .0001 
+6.0-47.2 3.1-13.1 3.7-14.0 
+Sleepiness (yes/no) 2.3 .0990 4.9 < .0001 3.3 .0010 
+0.8-6.7 2.0-9.9 1.6-7.0 
+
+*Unadjusted odds ratios excluded the 39 children in the “other” racial category. With this exclusion, 1 child was eliminated from the obstructive apnea hypopnea 
+index group and 2 children each from the remaining 2 groups. Models including the “other” race category with either black or white category were 
+examined and gave nearly identical results. 
+
+to its persistence in later childhood. Former preterm children 
+may be at increased risk for SDB, partly based on exposures in 
+the perinatal environment, which influence the development of 
+respiratory control13,14 or upper airway size.21,22 Although the 
+risk of apnea appears to decrease with increasing postgestational 
+age,23 recent data have shown persistence of apneas in some 
+infants.18 Persistent apneas have been observed beyond 1 year 
+of life in a subgroup of children followed after an apparent life-
+threatening event.24 Of note, former preterm children had an 
+increased frequency of prior tonsillectomy or adenoidectomy 
+(Table I), suggesting greater problems with chronic adenotonsillar 
+disease. Ongoing analyses of risk factors in the preterm 
+group may further identify specific risk factors that may be operative 
+in middle childhood. The recognition of preterm status 
+as a risk factor for SDB suggests an opportunity for anticipatory 
+screening for SDB in children who are otherwise at high risk 
+for developmental delays and who may be more vulnerable to 
+additive adverse effects of SDB. 
+
+We previously observed a predisposition to SDB among 
+black children who were mostly family members of adult 
+probands with SDB.8 We now extend this observation to a 
+population-based cohort of children. The current data from 
+this population-based study underscores the increased suscep
+
+
+tibility of black children to SDB. Black children are also at 
+higher risk for socioeconomic disadvantage, more vulnerable 
+to negative health outcomes associated with untreated SDB, 
+and may benefit from more intensive screening for SDB by 
+primary care providers. The basis for racial differences in SDB 
+is not clear. Our previous work indicates that craniofacial risk 
+factors for SDB differ between racial groups,25,26 as does the 
+apparent mode of inheritance of SDB.27 The current data suggest 
+that increased risk for SDB comes from more than obesity 
+or prematurity. Understanding the basis for racial 
+differences in SDB may provide new insights into underlying 
+pathogenetic mechanisms. 
+
+The relation between obesity and SDB was much weaker 
+than observed in adults, varied with SDB definition, and 
+was not significant in the adjusted models. Previous studies, 
+including our own, have shown a relation between obesity and 
+childhood SDB in nonclinical8 and clinical populations.28,29 
+One explanation for this inconsistency was positive confounding 
+from the relation between obesity and race in this cohort. 
+However, adjusted models that excluded race but included 
+preterm status and obesity also failed to show an effect from 
+obesity. Although obesity may be a risk factor for childhood 
+SDB, its effect is probably smaller than preterm status and 
+
+Prevalence and Risk Factors for Sleep-Disordered Breathing in 
+8- to 11-Year-Old Children:Association with Race and Prematurity 
+
+
+Table IV.Adjusted odds ratios for increased risk of SDB 
+SDB definition 
+Obstructive apnea Obstructive 
+hypopnea index apnea index Combined 
+=5 events per h =1 event per h either definition 
+n = 20 n = 32 n = 38 
+Odds ratio Odds ratio Odds ratio 
+95% CI P value 95% CI P value 95% CI P value 
+
+Risk factor 
+Race (black) 4.9 .0020 6.3 < .0001 4.3 .0001 
+1.7-17.7 2.6-17.7 2.0-9.7 
+Preterm 5.0 .0033 2.7 .0154 3.0 .0026 
+1.6-20.1 1.2-6.5 1.5-6.5 
+Body mass index 
+>95th percentile 2.1 .2240 0.84 .9541 1.3 .6671 
+0.64-6.3 0.2-2.3 0.5-3.1 
+
+*Sex and age were excluded from final model because they did not meet a significance level <.05. Adjusted odds ratios for race excluded 39 children in the 
+“other” category. With this exclusion, ONE child was eliminated from the obstructive apnea hypopnea index group and 2 children each from the remaining 
+2 groups. Models with the “other” group included with either the black or white children were examined and gave nearly identical results. 
+
+race and may not be consistently detected in a population-
+based study with small numbers of highly affected children. 
+The apnea hypopnea index that required desaturation to identify 
+hypopnea suggested an obesity relation in the unadjusted 
+model. Obese children may have gas exchange abnormalities 
+related to the mechanical effects of obesity on the lungs but 
+unrelated to upper airway obstruction. Previous estimates of 
+SDB in children by means of metrics that required desaturation 
+may have inflated obesity as a risk factor for SDB when 
+desaturation-related events were attributed to upper airway 
+obstruction. As expected from other pediatric studies, and in 
+contrast to the adult experience with SDB, male sex was not 
+associated with SDB in these prepubertal children.1 
+
+There are several limitations in our findings. Our prevalence 
+rate estimates may not be generalized to populations 
+with sizeable Hispanic or Asian representation or applicable 
+to children in other age groups. Specifically, we may have underestimated 
+SDB in younger age groups in whom lymphoid 
+hyperplasia may be a prominent risk factor for SDB or in 
+teenagers in whom smoking, increasing obesity, and puberty 
+in males may be additional risk factors. The relatively small 
+number of “affected” children in our sample limited our ability 
+to test for interactions among the risk factors such as race and 
+preterm status. 
+
+Another potential limitation was the use of unattended 
+home cardiorespiratory monitoring instead of full laboratory-
+based polysomnography. The choice of the limited cardiorespiratory 
+equipment was consistent with the study goals of 
+providing valid prevalence estimates of SDB rather than complete 
+characterization of the clinical spectrum of childhood 
+SDB. Nevertheless, our preliminary validation studies comparing 
+in-laboratory full polysomnography to limited-channel 
+home cardiorespiratory studies indicate excellent agreement. 
+
+388 Rosen et al 
+
+Since more subtle measures of obstruction (eg, nasal or 
+esophageal pressure), hypoventilation (end-tidal carbon dioxide), 
+and sleep disruption (sleep state fragmentation and 
+arousal) were not obtained, the prevalence of clinically important 
+SDB may be higher. Thus, the current study should be 
+viewed as a lower-limit estimate of prevalence for a wider 
+group of disorders. 
+
+Finally, our study used three different metrics to classify 
+SDB in children. These metrics were similar to those recommended 
+in clinical practice to describe the presence and severity 
+of SDB and to make medical decisions about surgical 
+treatment in clinical samples of children.1,12,30 However, we 
+recognize the limited usefulness of these measurements alone 
+as diagnostic criteria for a clinical disorder in the absence of 
+data on negative health consequences such as daytime neurocognitive 
+dysfunction (sleepiness, inattention, or poor 
+school performance). The focus of this report was to describe 
+the distribution of valid indexes of SDB from a clearly defined 
+population-based sample of 8- to 11-year-old children rather 
+than to characterize a clinical disorder. However, the clinical 
+relevance of our findings is suggested by a higher frequency of 
+snoring and sleepiness among the children who met our criteria 
+for SDB [snoring (75%, 53%, and 55% vs 15% in the non-
+DB group) and sleepiness (30%, 41%, and 34% vs 13% in the 
+non-SDB group)] for the apnea-hypopnea, obstructive apnea, 
+or combined definitions, respectively. 
+
+In summary, the prevalence of SDB in 8- to 11-year-old 
+children with the use of objective measures is lower than in 
+adults but indicates that SDB is common in this relatively 
+healthy population. Furthermore, our data suggest increased 
+susceptibility to SDB among potentially vulnerable populations 
+including preterm and black children. The extent to 
+which unrecognized SDB, especially mild SDB, leads to im-
+
+The Journal of Pediatrics • April 2003 
+
+
+paired daytime functioning or other adverse health outcomes 
+needs further study. 
+
+We are grateful for the excellent and invaluable assistance of Jean 
+Arnold, Najla Golebiewski, Greg Graham, Tangela Powell, Heather 
+Rosebrock, Andrew South, and Dina Tell, who diligently recruited the 
+patients, collected or analyzed the data, and maintained the enthusiasm 
+of the cohort in this ongoing study. We thank Dr Mark Schluchter 
+for biostatistical assistance with the study design and review of the 
+manuscript. Finally, we are most indebted to members of the cohort, 
+who so generously continue to invite us into their homes. 
+
+REFERENCES 
+
+1. Marcus CL. Sleep-disordered breathing in children. Am J Respir Crit 
+Care Med 2001;164:16-30. 
+2. Marcus CL, Chapman D, Davidson-Ward SL, McColley SA, Brooks LJ, 
+Jones J, et al, for the Subcommittee on Obstructive Sleep Apnea.Clinical practice 
+guideline: diagnosis and management of childhood obstructive sleep apnea syndrome. 
+Pediatrics 2002;109:704-12. 
+3. Schechter MS. Technical report: diagnosis and management of childhood 
+obstructive sleep apnea syndrome. Pediatrics 2002;109:E69-9. 
+4. Nieto FJ, Young TB, Lind BK, Shahar E, Samet JM, Redline S, et al. 
+Association of sleep-disordered breathing, sleep apnea, and hypertension in a 
+large community-based study: Sleep Heart Health Study. JAMA 2000; 
+283:1829-36. 
+5. Young T, Peppard P. Sleep-disordered breathing and cardiovascular 
+disease: epidemiologic evidence for a relationship. Sleep 2000;23(Suppl 
+4):S122-6. 
+6. Ali NJ, Pitson DJ, Stradling JR. Snoring, sleep disturbance, and behaviour 
+in 4-5 year olds. Arch Dis Child 1993;68:360-6. 
+7. Gislason T, Benediktsdottir B. Snoring, apneic episodes, and nocturnal 
+hypoxemia among children 6 months to 6 years old: an epidemiologic study 
+of lower limit of prevalence. Chest 1995;107:963-6. 
+8. Redline S, Tishler PV, Schluchter M, Aylor J, Clark K, Graham G. Risk 
+factors for sleep-disordered breathing in children: associations with obesity, 
+race, and respiratory problems. Am J Respir Crit Care Med 1999;159: 
+1527-32. 
+9. Anuntaseree W, Rookkapan K, Kuasirikul S, Thongsuksai P. Snoring 
+and obstructive sleep apnea in Thai school-age children: prevalence and predisposing 
+factors. Pediatr Pulmonol 2001;32:222-7. 
+10. Brunetti L, Rana S, Lospalluti ML, Pietrafesa A, Francavilla R, Fanelli M, 
+et al. Prevalence of obstructive sleep apnea syndrome in a cohort of 1,207 children 
+of southern Italy. Chest 2001;120:1930-5. 
+11. Carroll JL, McColley SA, Marcus CL, Curtis S, Loughlin GM. Inability 
+of clinical history to distinguish primary snoring from obstructive sleep 
+apnea syndrome in children. Chest 1995;108:610-8. 
+12. American Thoracic Society. Cardiorespiratory sleep studies in children: 
+establishment of normative data and polysomnographic predictors of morbidity. 
+Am J Respir Crit Care Med 1999;160:1381-7. 
+13. Ling L, Olson EB Jr, Vidruk EH, Mitchell GS. Developmental plasticity 
+of the hypoxic ventilatory response. Respir Physiol 1997;110:261-8. 
+14. Erickson JT, Mayer C, Jawa A, Ling L, Olson EB Jr, Vidruk EH, et al. 
+Chemoafferent degeneration and carotid body hypoplasia following chronic 
+hyperoxia in newborn rats. J Physiol 1998;509:519-26. 
+15. Youngblut JM, Brooten D, Singer LT, Standing T, Lee H, Rodgers WL. 
+Effects of maternal employment and prematurity on child outcomes in single 
+parent families. Nurs Res 2001;50:346-55. 
+16. Kump K, Whalen C, Tishler P, Browner I, Ferrette V, Strohl K, et al. 
+Assessment of the validity and utility of a sleep symptom questionnaire in a 
+community sample. Am J Respir Crit Care Med 1994;150:735-741. 
+17. Tang J, Rosen C, Larkin E, DiFiore J, Arnold J, Surovec S, et al. Identification 
+of sleep-disordered breathing in children: variation with event definition. 
+Sleep 2002;25:72-9. 
+18. Ramanathan R, Corwin MJ, Hunt CE, Lister G, Tinsley LR, Baird T, 
+et al. Cardiorespiratory events recorded on home monitors: comparison of healthy 
+infants with those at increased risk for SIDS. JAMA 2001;285:2199-207. 
+19. Marcus CL, Omlin KJ, Basinki DJ, Bailey SL, Rachal AB, Von Pechmann 
+WS, et al. Normal polysomnographic values for children and adolescents. 
+Am Rev Respir Dis 1992;146:1235-9. 
+20. Martin J, Hamilton B, Ventura S, Menacker F, Park M. Births: final data 
+for 2000. Natl Vital Stat Rep 2002;50:5. 
+21. Giudice LC, de Zegher F, Gargosky SE, Dsupin BA, de las Fuentes L, 
+Crystal RA, et al. Insulin-like growth factors and their binding proteins in 
+the term and preterm human fetus and neonate with normal and extremes of 
+intrauterine growth. J Clin Endocrinol Metab 1995;80:1548-55. 
+22. Monahan KJ, Larkin EK, Rosen CL, Graham G, Redline S. Utility of 
+noninvasive pharyngometry in epidemiologic studies of childhood sleep-disordered 
+breathing. Am J Respir Crit Care Med 2002;165:1499-503. 
+23. Eichenwald EC, Aina A, Stark AR. Apnea frequently persists beyond 
+term gestation in infants delivered at 24 to 28 weeks. Pediatrics 1997; 
+100:354-9. 
+24. Guilleminault C, Stoohs R. From apnea of infancy to obstructive sleep 
+apnea syndrome in the young child. Chest 1992;102:1065-71. 
+25. Redline S, Tishler PV, Hans MG, Tosteson TD, Strohl KP, Spry K. 
+Racial differences in sleep-disordered breathing in African-Americans and 
+Caucasians. Am J Respir Crit Care Med 1997;155:186-92. 
+26. Cakirer B, Hans MG, Graham G, Aylor J, Tishler PV, Redline S. The 
+relationship between craniofacial morphology and obstructive sleep apnea in 
+whites and in African-Americans. Am J Respir Crit Care Med 2001; 
+163:947-50. 
+27. Buxbaum SG, Elston RC, Tishler PV, Redline S. Genetics of the apnea 
+hypopnea index in Caucasians and African Americans, I: segregation analysis. 
+Genet Epidemiol 2002;22:243-53. 
+28. Silvestri JM, Weese-Mayer DE, Bass MT, Kenny AS, Hauptman SA, 
+Pearsall SM. Polysomnography in obese children with a history of sleep-associated 
+breathing disorders. Pediatr Pulmonol 1993;16:124-9. 
+29. Marcus CL, Curtis S, Koerner CB, Joffe A, Serwint JR, Loughlin GM. 
+Evaluation of pulmonary function and polysomnography in obese children 
+and adolescents. Pediatr Pulmonol 1996;21:176-83. 
+30. American Thoracic Society. Standards and indications for cardiopulmonary 
+sleep studies in children. Am J Respir Crit Care Med 1996;153:866-78. 
+FELLOWSHIPS 
+
+Fellowships available in pediatric subspecialties and those for general academic pediatric 
+training are listed once a year, in January, in The Journal of Pediatrics. Each June, forms for 
+listing fellowships available for the academic year beginning 18 months after publication are 
+sent to the Chairman of the Department of Pediatrics at major hospitals in the United States and 
+Canada. In addition, a copy of the application form appears in the July, August, and 
+September issues of The Journal (please use the current form). Should you desire to list fellowships, 
+a separate application must be made each year for each position. All applications must 
+be returned to Mosby, Inc., by October 15 preceding the listing year to ensure publication. 
+Additional forms will be supplied on request from the Periodical Editing Department, Mosby, 
+Inc, 11830 Westline Industrial Dr, St Louis, MO 63146-3318 (phone: 800-325-4177, ext 2838, 
+or 314-579-2838). 
+
+Prevalence and Risk Factors for Sleep-Disordered Breathing in 
+8- to 11-Year-Old Children:Association with Race and Prematurity 
+
+
+APPENDIX 
+
+Description of Low-Birth Weight and Maternal 
+Employment Study (LBW-MES) Cohort 
+
+The original cohort from which the majority of children 
+were recruited was a stratified (by prematurity) random sample 
+of a birth cohort of 913 children born between 1988 and 1993 at 
+three large Cleveland area hospitals who were enrolled between 
+1993 and 1996 in the LBW-MES. The preterm sample was assembled 
+by identifying all eligible cases from the newborn intensive 
+care unit (NICU) admission records. We sequentially 
+enrolled equal numbers of children who were 3, 4, and 5 years 
+old at the time of initial recruitment for each of 5 consecutive 
+birth years. Criteria for inclusion were (1) born <36 weeks’ gestation, 
+(2) birth weight <2500 g, (3) birth weight appropriate for 
+gestational age, (4) hospitalized in a Level III NICU for >1 
+week, and (5) survival of the child. The term sample was assem
+
+
+bled by using the newborn nursery records from the same three 
+hospitals to identify term infants born in the same consecutive 
+birth years as the preterm sample. Criteria for inclusion for the 
+term sample were (1) born between 38 and 42 weeks’ gestation; 
+
+(2) hospitalized in a normal newborn nursery; and (3) child was 
+discharged home with the mother. In addition, when contacted 
+for recruitment to the LBW/MES study at ages 3 to 6 years, 
+children from the preterm or term samples were ineligible if developmental 
+delays of >2 years were reported. Another inclusion 
+criterion applied during initial assembly of the original cohort 
+was the presence of two parents living in the home (n = 800, or 
+86% of the original cohort). This condition was imposed to facilitate 
+the collection of data on maternal employment relevant 
+for the initial study hypotheses. However, a supplement to the 
+study (from the Office of Research on Women’s Health) supported 
+additional recruitment of 121 single-parent families who 
+also were studied between 1993 and 1996. 
+

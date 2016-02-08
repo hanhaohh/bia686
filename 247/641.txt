@@ -1,0 +1,1432 @@
+NEIGHBORHOOD 
+DISADVANTAGE 
+AS 
+A 
+RISK 
+FACTOR 
+FOR 
+PEDIATRIC 
+OBSTRUCTIVE 
+SLEEP 
+APNEA 
+
+
+JAMES 
+C. 
+SPILSBURY,PHD, 
+AMY 
+STORFER-ISSER, 
+MS, 
+H. 
+LESTER 
+KIRCHNER,PHD, 
+LISA 
+NELSON, 
+MPA, 
+CAROL 
+L. 
+ROSEN, 
+MD, 
+DENNIS 
+DROTAR,PHD, 
+AND 
+SUSAN 
+REDLINE,MD 
+
+
+Objective 
+Low 
+socioeconomic 
+status 
+(SES) 
+is 
+associated 
+with 
+a 
+range 
+of 
+health 
+outcomes. 
+Our 
+objective 
+was 
+to 
+study 
+the 
+relationship 
+between 
+residence 
+in 
+a 
+neighborhood 
+of 
+severe 
+socioeconomic 
+disadvantage 
+and 
+childhood 
+obstructive 
+sleep 
+apnea 
+(OSA). 
+Study 
+design 
+Cross-sectional 
+analysis 
+of 
+843 
+(49% 
+female, 
+36% 
+African-American) 
+children 
+8 
+to 
+11 
+years 
+of 
+age 
+from 
+a 
+community-based 
+cohort. 
+Data 
+on 
+neighborhood 
+conditions 
+were 
+obtained 
+from 
+the 
+2000 
+US 
+Census. 
+The 
+main 
+outcome 
+measure 
+was 
+OSA, 
+defined 
+as 
+an 
+obstructive 
+apnea 
+hypopnea 
+index 
+>5 
+events 
+per 
+hour 
+or 
+an 
+obstructive 
+apnea 
+index 
+>1 
+event 
+per 
+hour. 
+Results 
+Residence 
+in 
+a 
+neighborhood 
+of 
+severe 
+socioeconomic 
+disadvantage 
+was 
+significantly 
+associated 
+with 
+OSA 
+after 
+adjusting 
+for 
+effects 
+of 
+previously 
+established 
+risk 
+factors: 
+premature 
+birth, 
+obesity, 
+and 
+African-American 
+ethnicity 
+(OR 
+. 
+3.44, 
+95% 
+CI 
+. 
+1.53-7.75). 
+Secondary 
+analyses 
+showed 
+that 
+neighborhood 
+disadvantage 
+remained 
+significantly 
+associated 
+with 
+OSA: 
+(1) 
+in 
+the 
+African-American 
+subgroup, 
+after 
+controlling 
+for 
+effects 
+of 
+prematurity 
+and 
+obesity; 
+and 
+(2) 
+after 
+controlling 
+for 
+indicators 
+of 
+household-level 
+SES 
+or 
+other 
+health 
+characteristics. 
+Conclusions 
+Childhood 
+OSA 
+is 
+associated 
+with 
+low 
+SES 
+as 
+measured 
+by 
+an 
+index 
+describing 
+severe 
+neighborhood 
+disadvantage, 
+emphasizing 
+the 
+potential 
+importance 
+of 
+environmental 
+factors, 
+particularly 
+those 
+associated 
+with 
+neighborhood 
+distress, 
+as 
+risk 
+factors 
+for 
+OSA. 
+(J 
+Pediatr 
+2006;149:342-7) 
+
+
+O
+O
+bstructive Sleep Apnea (OSA), characterized by snoring, repetitive apneic episodes, hypoxemia, sleep disruption, 
+daytime sleepiness, and neurobehavioral dysfunction, is a treatable condition affecting 2% of school-aged children.1,2 
+Because of its association with obesity, the prevalence of OSA is expected to rise as obesity rates increase.3,4 Besides 
+obesity, OSA and OSA symptoms in childhood have been associated with other risk factors, including adenotonsillar 
+hypertrophy,1 premature birth,2 and African-American2,5 or Hispanic6 ethnicity. The 
+basis for these reported ethnic differences in OSA is unclear, but it has not been explained 
+by obesity or respiratory problems such as asthma.5 Racial differences in biological 
+characteristics such as craniofacial and upper airway structure possibly linked to OSA have 
+been suggested,7,8 and ethnic differences in mode of inheritance of OSA have been See 
+editorial, 
+p 
+293 
+observed.9 However, because disproportionate numbers of Hispanics and African-Americans 
+reside in areas of socioeconomic disadvantage,10 study participants’ socio-economic From 
+Mental 
+Health 
+Services, 
+Inc.; 
+the 
+De-
+status (SES) also might contribute to the observed association between ethnicity and partment 
+of 
+Pediatrics, 
+Case 
+School 
+of 
+
+
+Medicine; 
+and 
+the 
+Mandel 
+School 
+of 
+Ap-
+
+OSA. 
+
+plied 
+Social 
+Sciences, 
+Case 
+Western 
+Re-
+Residence in disadvantaged neighborhoods has been associated with a wide range of serve 
+University, 
+Cleveland, 
+Ohio. 
+
+
+poorer health, developmental, and psychosocial outcomes.11-13 Moreover, although find-Supported 
+by 
+grants 
+R01HL60957, 
+5T32HD041923, 
+K23HL04426, 
+R01NR02707, 
+
+
+ings across studies have been inconsistent, several have reported an effect for neighbor
+
+
+R01070916, 
+and 
+M01RR00080 
+from 
+the 
+hood conditions independent of family or individual levels of SES.14 The 2000 Census National 
+Institutes 
+of 
+Health, 
+Bethesda, 
+Maryland.
+
+revealed that despite a decrease in the overall poverty level, increasing numbers of children 
+
+Submitted 
+for 
+publication 
+Dec 
+19, 
+2005; 
+
+
+and adults live in neighborhoods of very low SES, or severe disadvantage, characterized by 
+
+last 
+revision 
+received 
+Mar 
+9, 
+2006; 
+accepted 
+high levels of poverty and unemployment, low educational achievement, and large Apr 
+26, 
+2006. 
+
+
+proportion of single-parent families—factors that may produce an especially difficult 
+Reprint 
+requests: 
+Dr 
+James 
+C. 
+Spilsbury, 
+Mental 
+Health 
+Services, 
+Inc., 
+3740 
+Euclid 
+
+
+environment for children.15 
+
+Ave., 
+Cleveland, 
+OH 
+44115. 
+E-mail: 
+jcs5@ 
+Our study goals were (1) to quantify the association of residence in a neighborhood case.edu. 
+
+
+0022-3476/$ 
+-see 
+front 
+matter 
+BMI 
+CCSHS 
+Body 
+mass 
+index 
+Cleveland 
+Children’s 
+Sleep 
+and 
+Health 
+Study 
+OSA 
+SES 
+Obstructive 
+sleep 
+apnea 
+Socioeconomic 
+status 
+Copyright 
+© 
+2006 
+Mosby 
+Inc. 
+All 
+rights 
+reserved. 
+10.1016/j.jpeds.2006.04.061 
+
+
+
+of severe socioeconomic disadvantage with OSA; and (2) to 
+assess confounding between residence in a neighborhood of 
+severe socioeconomic disadvantage and recognized risk factors 
+for OSA, including prematurity and African-American ethnicity. 
+Secondary analyses further assessed the relationship 
+between residence in a highly disadvantaged neighborhood 
+and OSA, controlling for indicators of household-level SES 
+or health characteristics. 
+
+METHODS 
+
+
+Sample 
+
+
+The current study analyzes cross-sectional data collected 
+as part of the Cleveland Children’s Sleep and Health 
+Study (CCSHS), an ongoing investigation of the epidemiology 
+of sleep-disordered breathing and health in an urban, 
+ethnically diverse community-based cohort of children 8 to 11 
+years of age.2,16,17 Details of the study cohort’s construction 
+have been described elsewhere.2,16 Briefly, the cohort consists 
+of a stratified, random sample of 907 term and preterm 
+children born between 1988 and 1993 at three major Cleveland 
+area hospitals. The study was designed to overrepresent 
+African-American and former preterm children to increase 
+internal validity and have stable estimates of the relationship 
+between OSA and health outcomes for these subgroups. 
+
+Measurements 
+and 
+Protocol 
+
+
+The CCSHS’s extensive protocol included home visits 
+to participating families, in-home overnight cardiorespiratory 
+studies, physical exams, and assessments of behavior/functional 
+outcomes, neuropsychological development, and the 
+family/home environment. Demographic characteristics and 
+children’s chronic health/behavioral conditions, including 
+sleep symptoms and disorders, were obtained from the caregiver-
+completed Children’s Health Questionnaire-PF5018 
+and Children’s Sleep and Health Questionnaire.19 The in-
+home overnight studies included cardiorespiratory recordings 
+of thoracic and abdominal excursions, tidal volume, pulse 
+oximetry, heart rate, and body position (PT-2, SensorMedics, 
+Yorba Linda, Calif). Technically satisfactory home studies 
+were obtained for 94% of the sample. The study was approved 
+by the Institutional Review Boards of participating 
+institutions. Written informed consent was obtained from 
+guardians, and assent was obtained from children. Participants 
+were enrolled between September 1998 and October 
+2001. CCSHS data pertaining to OSA prevalence, sleep 
+patterns, asthma, and behavioral outcomes have been previously 
+reported.2,16,17,19-21 
+
+Outcome 
+
+
+OSA was defined as: (1) an obstructive apnea hypopnea 
+index of at least 5 events per hour of estimated sleep time; or 
+
+(2) an obstructive apnea index of at least 1 event per hour. 
+These definitions represent respiratory disturbance indices 
+commonly applied in clinical practice.2 Hypopneas were 
+scored when respiratory efforts were accompanied by a 25% to 
+50% reduction in estimated tidal volume and accompanied by 
+at least 3% oxyhemoglobin desaturation, or when clearly discernable 
+decreases in estimated tidal volume were associated 
+with similar desaturations. 
+
+Covariates 
+
+
+Covariates shown to be associated with OSA in our 
+previous analyses2,5 were included in adjusted regression analyses: 
+participants’ preterm 
+status 
+(born at 37 weeks’ gestational 
+age) and African-American 
+ethnicity 
+(parent report, using 
+a 5-category response option). Child health covariates 
+included: obesity, defined as body mass index (BMI) 95th 
+percentile for age per established guidelines22; asthma, 
+identified 
+by caregiver report of doctor-diagnosed asthma; and 
+enlarged 
+tonsils, 
+defined as 50% posterior pharyngeal obstruction 
+identified during a physical exam. Primary caregiver 
+characteristics consisted of two household-level measures of 
+SES: caregiver’s 
+education, 
+categorized as did not complete 
+high school, completed high school diploma/GED, or obtained 
+more than high-school education; and caregiver’s 
+marital 
+status, 
+dichotomized as married or not married (single, 
+separated, divorced, widowed, or never married). Additional 
+household characteristics included maternal 
+smoking, defined 
+as whether the child’s mother smoked at least one cigarette 
+per day the previous year; and household 
+smoker, defined as at 
+least one smoker resident in the child’s home. 
+
+Neighborhood 
+SES 
+
+
+The primary predictor in our analyses was an index of 
+neighborhood SES. Information about participants’ neighborhood 
+environments was ascertained by matching each 
+child’s current address to the corresponding 2000 US Bureau 
+of the Census tract. Census tracts have been used as a 
+proxy for neighborhood or community environments in 
+studies involving a range of health outcomes,23,24 and 
+tract-level data from the US Census cover a wide range of 
+characteristics, including poverty, family structure, employment, 
+and education. Residence in a neighborhood of 
+very low SES was based on published criteria15 utilizing 
+four measures of neighborhood characteristics to capture 
+the “compounding effect” of these conditions: poverty rate, 
+proportion of families with related children headed by 
+single females, high-school dropout rate, and proportion of 
+civilian, non-institutionalized, working age (16-64 years) 
+males unemployed or not in the labor force. Using this 
+approach, severely disadvantaged (termed “distressed”) 
+neighborhoods are defined as those census tracts with 
+values at least 1 standard deviation above the mean for US 
+Census tracts on at least 3 of the 4 measures.15 Using data 
+for all 65,443 US Census tracts from the 2000 Census,25 
+we created a binary variable indicating residence in a severely 
+disadvantaged neighborhood by categorizing neighborhoods 
+as severely disadvantaged if the census tract met 
+at least three of the four criteria: (1) 25.1% persons in 
+poverty; (2) 34.3% households headed by a single female 
+
+Neighborhood 
+Disadvantage 
+As 
+A 
+Risk 
+Factor 
+For 
+Pediatric 
+Obstructive 
+Sleep 
+Apnea 
+
+
+
+Table 
+I. 
+Sample 
+characteristics, 
+by 
+OSA 
+status* 
+Analytic 
+sample 
+OSA 
+No 
+OSA 
+Characteristic 
+(N 
+. 
+843) 
+(N 
+. 
+40) 
+(N 
+. 
+803) 
+P 
+value 
+Child 
+characteristics 
+Age, 
+mean 
+(SD) 
+y 
+9.5 
+(0.8) 
+9.3 
+(0.9) 
+9.5 
+(0.8) 
+.18 
+Male 
+sex 
+427 
+(50.7) 
+17 
+(42.5) 
+410 
+(51.1) 
+.29 
+African-American 
+ethnicity 
+307 
+(36.4) 
+27 
+(67.5) 
+280 
+(34.9) 
+.001 
+Prematurity 
+(37 
+wk 
+gestational 
+age) 
+390 
+(46.3) 
+29 
+(72.5) 
+361 
+(45.0) 
+.001 
+BMI 
+percentile, 
+Median 
+(IQR†) 
+62.4 
+71.7 
+(25.1–94.1) 
+62.0 
+(30.8–88.0) 
+.39 
+Obesity 
+(BMI 
+percentile 
+95th) 
+132 
+(15.7) 
+9 
+(22.5) 
+123 
+(15.4) 
+.23 
+Asthma 
+171 
+(20.3) 
+8 
+(20.0) 
+163 
+(20.3) 
+.96 
+Tonsillar 
+obstruction 
+50% 
+276 
+(32.9) 
+22 
+(55.0) 
+254 
+(31.8) 
+.002 
+Primary 
+caregiver 
+& 
+household 
+characteristics 
+Married 
+582 
+(70.0) 
+17 
+(42.5) 
+565 
+(71.4) 
+.001 
+Education 
+High 
+school 
+diploma 
+55 
+(6.6) 
+6 
+(15.0) 
+49 
+(6.2) 
+.03 
+High 
+school 
+diploma 
+157 
+(18.9) 
+9 
+(22.5) 
+148 
+(18.8) 
+High 
+school 
+diploma 
+617 
+(74.4) 
+25 
+(62.5) 
+592 
+(75.0) 
+Maternal 
+smoking 
+218 
+(26.8) 
+16 
+(41.0) 
+202 
+(26.1) 
+.04 
+Household 
+smoker 
+315 
+(38.3) 
+21 
+(52.5) 
+294 
+(37.5) 
+.06 
+
+
+*Data given as the number (percentage) unless otherwise indicated. 
+
+†IQR . 
+Interquartile range. 
+with related children 0 to 17 years of age; (3) 20.7% of 
+persons 16 to 19 years of age neither enrolled in nor 
+graduated from high school (ie, high-school dropout); and 
+
+(4) 37.1% civilian, non-institutionalized males of working 
+age (16-64 years) either unemployed or not in the labor 
+force. 
+Analyses 
+
+
+Groups were compared using two sample t 
+tests, the 
+Wilcoxon’s rank sum test, and 2 tests for normally distributed, 
+skewed, and categorical data, respectively. Logistic regression 
+was used to assess the unadjusted relationship between 
+neighborhood distress and the probability of OSA as 
+well as the adjusted relationship, controlling for recognized 
+risk factors (ethnicity, prematurity, obesity). Parameter coefficients 
+for the recognized risk factors were compared in 
+models with and without inclusion of the distressed neighborhood 
+indicator to assess the extent to which the former 
+factors were confounded by this measure of SES. Given the 
+evidence that the genetic underpinnings and inherited risk 
+factors for OSA may differ among ethnic groups, and because 
+the effects of ethnicity and SES may be difficult to discern, 
+analyses also were repeated after stratifying by ethnicity. Exact 
+logistic regression was used to estimate the associations with 
+OSA due to the smaller sample and event size for these 
+subgroups. Further secondary analyses were performed additionally 
+controlling for either a measure of household-level 
+SES or a health-related covariate. Associations between predictors 
+and OSA are expressed as odds ratios with 95% CIs. 
+Data were analyzed using the Statistical Package for the 
+Social Sciences version 12.0 (SPSS Inc., Chicago, Ill), Statistical 
+Analytical Systems version 9.1 (SAS Institute Inc., 
+
+Cary, NC), and LogXact version 2.1 (Cytel Software Corp., 
+Cambridge, Mass). 
+
+RESULTS 
+
+
+Sample 
+Demographic, 
+Health, 
+and 
+Neighborhood 
+Characteristics 
+
+
+The analytic sample consisted of 843 of the 907 cohort 
+members (92.9%) whose addresses could be linked to a census 
+tract and for whom OSA status was determined. Of the 64 
+(7.1%) children excluded from analyses, 7 had addresses that 
+could not be matched to a census tract, and 57 had an 
+inadequate sleep study because of technical problems with 
+data acquisition (ie, OSA status not determinable). Comparisons 
+of the 843 children in the analytic sample with the 
+excluded 64 children revealed no significant differences in any 
+of the study variables. 
+
+Forty (4.7%) children had OSA (Table I). Mean age of 
+the sample was 9.5 . 
+0.8 years, with nearly equal proportions 
+of girls and boys. By design, about one third of children were 
+African-American, and nearly 50% were born prematurely. 
+The 843 children were residents of 442 unique census tracts. 
+The mean and median number of children studied per census 
+tract was 1.9 and 1.0, respectively, with a maximum of 8 
+children from one tract. The 40 children with OSA lived in 
+34 census tracts; no more than 2 OSA children were from the 
+same tract. 
+
+Bivariate 
+Analyses 
+Comparing 
+OSA 
+and 
+non-OSA 
+groups 
+
+
+Comparisons between children with and without 
+OSA revealed that the two groups were similar in terms of 
+
+344 
+Spilsbury 
+et 
+al 
+The 
+Journal 
+of 
+Pediatrics 
+• 
+September 
+2006 
+
+
+
+Table 
+II. 
+Unadjusted 
+and 
+adjusted 
+logistic 
+regression 
+models: 
+relationship 
+between 
+of 
+severe 
+neighborhood 
+disadvantage 
+and 
+odds 
+of 
+OSA 
+
+
+Unadjusted 
+severe 
+Severe 
+neighborhood 
+
+
+neighborhood 
+disadvantage 
+and 
+
+
+disadvantage 
+Recognized 
+risk 
+factors 
+recognized 
+risk 
+factors 
+
+
+Odds 
+Ratio 
+Odds 
+Ratio 
+Odds 
+Ratio 
+Predictor 
+(95% 
+CI) 
+P 
+value 
+(95% 
+CI) 
+P 
+value 
+(95% 
+CI) 
+P 
+value 
+
+
+Severe 
+neighborhood 
+disadvantage 
+5.07 
+(2.65, 
+9.68) 
+.001 
+– 
+– 
+3.44 
+(1.53, 
+7.75) 
+.003 
+Prematurity 
+– 
+– 
+3.33 
+(1.63, 
+6.82) 
+.001 
+3.44 
+(1.67, 
+7.75) 
+.001 
+African-American 
+– 
+– 
+3.90 
+(1.97, 
+7.72) 
+.001 
+1.98 
+(0.84, 
+4.64) 
+.12 
+Obesity* 
+– 
+– 
+1.47 
+(.67, 
+3.22) 
+.34 
+1.53 
+(0.69, 
+3.40) 
+.30 
+
+
+*Obesity was included in the model to provide comparability with previous research.2 Age and sex were not included because neither appreciably changed model estimates when added. 
+
+age, gender, BMI percentile, obesity, and asthma (Table I). 
+As reported previously,2 a significantly greater proportion 
+of children with OSA were of preterm birth and were 
+African-American. The OSA group also was more likely 
+than the non-OSA group to have had enlarged tonsils, an 
+unmarried and less educated primary caregiver, a mother 
+who currently smoked, and at least one smoker in the 
+household. 
+
+Concerning neighborhood characteristics, one fifth 
+(21.1%) of children lived in neighborhoods that were classified 
+as severely socioeconomically disadvantaged. Comparison 
+between children with and without OSA revealed that a 
+greater proportion of children with OSA lived in severely 
+disadvantaged neighborhoods (55.0% vs 19.4%, P 
+. 
+.001). 
+Moreover, compared with children without OSA, children 
+with OSA were significantly more likely to live in a census 
+tract with: high poverty rate (62.5% vs 20.4%, P 
+. 
+.001), high 
+proportion of female-headed families with related children 
+(72.5% vs 36.1%, P 
+. 
+.001), and high percentage of civilian, 
+non-institutionalized working-age males unemployed or not 
+in labor force (55.0% vs 21.4%, P 
+. 
+.001). The proportion of 
+children with OSA versus without OSA living in neighborhoods 
+characterized by a high high-school dropout rate did 
+not differ (12.5% vs 13.0%, P 
+. 
+.93). 
+
+Bivariate 
+Analyses 
+Comparing 
+Samples 
+by 
+Residence 
+in 
+a 
+Disadvantaged 
+Neighborhood 
+
+
+Comparison of child and caregiver/household characteristics 
+stratified by residence or nonresidence in a severely 
+disadvantaged neighborhood revealed no significant 
+differences in children’s age and proportions of children 
+who were male, preterm, obese, or asthmatic. However, 
+compared with children living in nonseverely disadvantaged 
+neighborhoods, children living in severely disadvantaged 
+neighborhoods were more likely to be African-
+American (88.2% vs 22.6%, P 
+. 
+.001); have a greater 
+median BMI percentile (69.3% vs 61.1%, P 
+. 
+.03); have 
+primary caretakers who were unmarried (70.3% vs 19.4%, P 
+
+
+. 
+.001) and less educated (16.3% vs 4.1% without a high 
+school diploma, P 
+. 
+.001); have a mother who smoked 
+(42.9% vs 22.6%, P 
+. 
+.001); or live in a household with at 
+least one smoker (56.8% vs 33.5%, P 
+. 
+.001). 
+Multivariable 
+Logistic 
+Regression 
+Analyses 
+Predicting 
+OSA 
+
+
+Unadjusted analyses showed that children living in a 
+distressed neighborhood had five times the odds of OSA 
+compared with children not living in a distressed neighborhood 
+(Table II). This association remained statistically significant 
+after adjustment for prematurity, African-American 
+ethnicity, and obesity. Severely disadvantaged neighborhood 
+did not appreciably confound the association between prematurity 
+and OSA (point estimate increased by 2.5%) or obesity 
+and OSA (point estimate increased 11.5%). However, the 
+point estimate for African-American ethnicity decreased by 
+nearly 50%. Secondary analyses stratified by ethnicity showed 
+that severe neighborhood disadvantage remained a significant 
+predictor of OSA after controlling for prematurity and obesity 
+among African-Americans (OR . 
+3.80, 95% CI, 1.4211.95). 
+Among non–African-Americans, analyses were limited 
+by the small number of children with OSA (n . 
+13), 
+resulting in an elevated point estimate, but wide confidence 
+intervall (OR . 
+2.67, 95% CI 0.06-22.02). 
+
+Additional secondary analyses assessed the relationship 
+between severely disadvantaged neighborhoods and OSA, 
+controlling for preterm status, African-American ethnicity, 
+and obesity, as well as for either a child-health variable 
+(asthma, large tonsil size), child-demographic factor (age, 
+sex), family-level SES indicator (marital status or caregiver 
+education), or other household characteristic (maternal smoking, 
+household smoker). Adjusted results showed that children 
+living in a neighborhood of severe socioeconomic disadvantage 
+and preterm children remained at significantly 
+increased odds of OSA in all analyses. Of the health, child-
+demographic, and family/household-level variables, only large 
+tonsil size was significantly associated with OSA (OR . 
+2.16, 
+95% CI 1.11-4.21, P 
+. 
+.02, controlling for preterm status, 
+African-American ethnicity, obesity, and severe neighborhood 
+disadvantage). Inclusion of tonsillar size did not alter 
+the relationship between severe neighborhood disadvantage 
+and OSA. 
+
+DISCUSSION 
+
+
+Although prior work has assessed the association of 
+various biological and demographic factors with childhood 
+
+Neighborhood 
+Disadvantage 
+As 
+A 
+Risk 
+Factor 
+For 
+Pediatric 
+Obstructive 
+Sleep 
+Apnea 
+
+
+
+OSA, this study investigated the relationship between OSA 
+and indices of neighborhood SES. Results indicated that 
+living in a highly socioeconomically disadvantaged neighborhood 
+was a risk factor for OSA, and this relationship persisted 
+even after adjusting for African-American ethnicity, preterm 
+birth, obesity, as well as other child-health characteristics and 
+measures of family SES, such as caregiver education and 
+marital status. Furthermore, in stratified analyses, among the 
+African-American subgroup, residence in a highly disadvantaged 
+neighborhood presented additional risk for OSA beyond 
+that attributed to other health (eg, obesity, prematurity) 
+factors. Although severe neighborhood disadvantage was not 
+significantly associated with OSA among non–African-
+Americans, the small number of OSA cases in this subgroup 
+may have limited our power to detect a difference. The 
+finding that a measure of neighborhood-level SES had a 
+significant effect after controlling for caregiver education or 
+marital status suggested that something about neighborhood 
+conditions, above and beyond family/individual risk factors 
+associated with SES, may have contributed to OSA. This 
+“added effect” of neighborhoods or communities has been 
+found for other health conditions, such as asthma,23 breast 
+cancer,24 and coronary heart disease.11 
+
+The underlying bases for the association between 
+neighborhood-level conditions and OSA are presently speculative. 
+Reported risk factors for pediatric OSA (African-
+American ethnicity, history of prematurity, asthma, and obesity2,3,5) 
+may all disproportionately occur in children of low 
+SES. However, even after adjustment for these factors, neighborhood 
+distress remained significantly associated with OSA. 
+Low SES may additionally result in exposures to a number of 
+environmental and social stressors adversely affecting 
+health.26 For example, housing conditions in poverty-stricken 
+neighborhoods generally produce greater exposure to cockroach 
+allergen, a factor associated with inner city asthma.27 
+Also, exposure to irritants, such as environmental tobacco 
+smoke, is often greater in neighborhoods with low SES,12,28 
+with greater exposure possibly occurring both at home as well 
+as in schools and other settings in low-SES neighborhoods.26 
+Passive smoking is a well-known risk factor for habitual 
+snoring, a cardinal symptom of OSA in children.29 Chronic 
+exposures to allergens and/or irritants may augment upper 
+airway inflammation, increasing nasal resistance, and perhaps 
+triggering lymphoid hypertrophy and pharyngeal obstruction.
+30,31 Additionally, children from low SES neighborhoods 
+may experience greater exposure to toxins such as lead26 and 
+environmental contaminants from toxic waste sites and active 
+or former industrial sites.32 Although speculative, early life 
+exposures to environmental neurotoxins may adversely influence 
+neuromuscular function of the upper airway. Residents 
+of low SES neighborhoods also experience greater exposure to 
+environmental noise and community violence, which may also 
+increase stress.33,34 Stress, noise, or both, may decrease sleep 
+duration or quality. Sleep deprivation or fragmentation may 
+increase the propensity for OSA.35 
+
+Although prematurity is increased in African Ameri
+
+
+cans and in low SES neighborhoods,36,37 preterm status remained 
+a significant risk factor for OSA after accounting for 
+the effects of household SES factors and other covariates, 
+providing additional evidence of its relationship to OSA in 
+pre-adolescent children and the need for anticipatory screening 
+for OSA in preterm children.2 In contrast to prematurity, 
+attenuation of the association of African-American ethnicity 
+with OSA after considering residence in a neighborhood of 
+severe socio-economic disadvantage suggested that a portion 
+of the observed elevated risk of OSA for African-American 
+children was related to components of the socio-economic 
+conditions in which they live. However, residence in a severely 
+disadvantaged neighborhood and African American 
+ethnicity were highly associated. While not statistically significant, 
+the adjusted point estimate for African American 
+ethnicity suggested that African American children have a 
+2-fold increased odds of OSA, consistent with prior work 
+indicating that underlying biological, and perhaps genetic 
+factors, also may contribute to risk of OSA.9 
+
+Study limitations should be noted. First, our secondary 
+stratified analysis had limited power to detect a significant 
+association between severely disadvantaged neighborhoods 
+and OSA among non–African-Americans because only 22% 
+of non–African-Americans in this sample live in such neighborhoods, 
+and only 13 non–African-American children had 
+OSA. Second, results may have been confounded by other 
+unmeasured variables related to SES on a neighborhood or 
+family level and to OSA. Third, measures of household SES 
+were limited to caregiver’s education and marital status; 
+household income was unavailable. Fourth, the number of 
+children with OSA restricted the number of predictors that 
+could be modeled simultaneously. Fifth, because the duration 
+of residence in a specific tract is unknown, the extent to which 
+residence in a distressed neighborhood operated as a cumulative 
+versus acute exposure cannot be determined. Finally, 
+because these results are based on one Midwest urban area, it 
+is unclear as to the extent to which the results would apply to 
+other geographic areas, differing in factors such as climate, 
+degree of urbanization, and pollution levels. 
+
+Children living in highly disadvantaged neighborhoods 
+experience multiple, cumulative stressors or risk factors for 
+adverse health outcomes.12,38 In summary, our study found 
+that residence in a neighborhood of severe socioeconomic 
+disadvantage is also associated with childhood OSA, a condition 
+associated with behavioral, cognitive, and academic 
+problems.21,39 This study underscores the critical need to 
+further assess the role of neighborhood conditions as a factor 
+that influences children’s sleep because the nature of interventions 
+to improve sleep may differ greatly depending on the 
+actual etiological mechanism(s) involved. In the case of OSA, 
+future research should investigate the role of specific characteristics 
+of severely disadvantaged neighborhoods (eg, allergens, 
+irritants, neighborhood-induced stress) in OSA’s etiology. 
+Perhaps improving neighborhood conditions for the 
+numerous children living in such locations will lead, among 
+many positive outcomes, to improved sleep. 
+
+346 
+Spilsbury 
+et 
+al 
+The 
+Journal 
+of 
+Pediatrics 
+• 
+September 
+2006 
+
+
+
+We 
+gratefully 
+acknowledge 
+the 
+assistance 
+of 
+Ann 
+Vander 
+Schrier, 
+Jean 
+Arnold, 
+Judith 
+Emancipator, 
+Anne 
+Marie 
+Kibler, 
+Heather 
+Rogers, 
+and 
+Nathan 
+Johnson. 
+We 
+are 
+especially 
+grateful 
+to 
+participating 
+families, 
+whose 
+generosity 
+made 
+this 
+research 
+possible. 
+
+
+REFERENCES 
+
+
+1. 
+American Academy of Pediatrics, Section on Pediatric Pulmonology, 
+Subcommittee on Obstructive Sleep Apnea Syndrome. Clinical practice 
+guideline: diagnosis and management of childhood obstructive sleep apnea 
+syndrome. Pediatrics 2002;109:704-12. 
+2. 
+Rosen CL, Larkin EK, Kirchner HL, Emancipator JL, Bivins SF, 
+Surovec SA, et al. Prevalence and risk factors for sleep-disordered breathing 
+in 8-to 11-year-old children: association with race and prematurity. J Pediatr 
+2003;142:383-9. 
+3. 
+Kelly A, Marcus C. Childhood obesity, inflammation, and apnea. Am J 
+Respir Crit Care Med 2005;171:202-3. 
+4. 
+Ogden CL, Flegal KM, Carroll MD, Johnson CL. Prevalence and 
+trends in overweight among US children and adolescents, 1999-2000. JAMA 
+2002;288:1728-32. 
+5. 
+Redline S, Tishler PV, Schluchter M, Aylor J, Clark K, Graham G. 
+Risk factors for sleep-disordered breathing in children. Am J Respir Crit 
+Care Med 1999;159:1527-32. 
+6. 
+Goodwin JL, Babar S, Kaemingk K, Rosen G, Morgan W, Sherrill D, 
+et al. Symptoms related to sleep-disordered breathing in white and Hispanic 
+children. Chest 2003;124:196-203. 
+7. 
+Redline S, Tishler P, Hans M, Tosteson T, Strohl K, Spry K. Racial 
+differences in sleep-disordered breathing in African-Americans and Caucasians. 
+Am J Respir Crit Care Med 1997;155:186-92. 
+8. 
+Cakirer B, Hans MG, Graham G, Aylor J, Tishler PV, Redline S. The 
+relationship between craniofacial morphology and obstructive sleep apnea in 
+whites and in African-Americans. Am J Respir Crit Care Med 
+2001;163:947-50. 
+9. 
+Buxbaum SG, Elston RC, Tishler PV, Redline S. Genetics of the 
+Apnea Hypopnea Index in Caucasians and African Americans, I: segregation 
+analysis. Genet Epidemio. 2002;22:243-53. 
+10. 
+Krivo LJ, Peterson RD, Rizzo H, Reynolds JR. Race, segregation, and 
+the concentration of disadvantage: 1980-1990. Soc Problems 1998;45:61-80. 
+11. 
+Diez-Roux A, Merkin S, Arnett D. Neighborhood of residence and 
+coronary heart disease. N Engl J Med 2001;345:99 –06. 
+12. 
+Evans GW. The environment of childhood poverty. Am Psychol 
+2004;59:77-92. 
+13. 
+Feldman PJ, Steptoe A. How neighborhoods and physical functioning 
+are related: the roles of neighborhood socioeconomic status, perceived neighborhood 
+strain, and individual health risk factors. Ann Behav Med 
+2004;27:91-9. 
+14. 
+Pickett K, Pearl M. Multilevel analyses of neighbourhood socioeconomic 
+context and health outcomes: a critical review. J Epidemiol Community 
+Health 2001;55:111-22. 
+15. 
+O’Hare W, Mather M. The Growing Number of Kids in Severely 
+Distressed Neighborhoods: Evidence from the 2000 Census. Baltimore, MD: 
+The Annie E. Casey Foundation; 2003. 
+16. 
+Tang J, Rosen C, Larkin E, DiFiore JM, Arnold JL, Surovec SA, et al. 
+Identification of sleep-disordered breathing in children: variation with event 
+definition. Sleep. 2002;25:72-9. 
+17. 
+Spilsbury J, Storfer-Isser A, Drotar D, Rosen C, Kirchner H, Benham 
+H, et al. Sleep behavior an urban U.S. sample of school-aged children. Arch 
+Pediatr Adolesc Med 2004;158:988-94. 
+18. 
+Landgraf J, Abetz L, Ware J. The 
+CHQ 
+User’s 
+Manual. 2nd ed. Boston: 
+Health Act; 1999. 
+19. 
+Kump K, Whalen C, Tishler PV, Browner I, Ferrette V, Strohl KP, et 
+al. Assessment of validity and utility of a sleep-symptom questionnaire in a 
+community sample. Am J Respir Crit Care Med 1994;150:735-41. 
+
+20. 
+Grischkan J, Storfer-Isser A, Rosen CL, Larkin E, Kirchner HL, South 
+A, et al. Variation in childhood asthma among former preterm infants. 
+J Pediatr 2004;144:321-6. 
+21. 
+Rosen C, Storfer-Isser A, Taylor H, Kirchner H, Emancipator J, 
+Redline S. Increased behavioral morbidity in school-aged children with 
+sleep-disordered breathing. Pediatrics 2004;114:1640-8. 
+22. 
+2000 CDC Growth Charts: United States. Atlanta: Centers for Disease 
+Control and Prevention; 2000. [cited Dec. 18, 2005] Available online at: 
+http://www.cdc.gov/growthcharts/. 
+23. 
+Juhn Y, St Sauver J, Katusic S, Vargas D, Weaver A, Yunginger J. The 
+influence of neighborhood environment on the incidence of childhood asthma: 
+amultilevel approach. Soc Sci Med 2005;60:2453-64. 
+24. 
+Robert SA, Strombom I, Trentham-Dietz A, Hampton JM, McElroy 
+JA, Newcomb PA, et al. Socioeconomic risk factors for breast cancer: 
+distinguishing individual-and community-level effects. Epidemiol 
+2004;15:442-50. 
+25. 
+CensusCD neighborhood change database: 1970-2000 tract data: selected 
+variables for the US Census tracts. Long form release 1.0. East 
+Brunswick, NJ: GeoLytics; c2003. 
+26. 
+Chen E, Matthews KA, Boyce WT. Socioeconomic differences in 
+children’s health: how and why do these relationships change with age? 
+Psychol Bull 2002;128:295–329. 
+27. 
+Rauh V, Chew G, Garfinkel R. Deteriorated housing contributes to 
+high cockroach allergen levels in inner-city households. Environ Health 
+Perspect 2002;110:323-7. 
+28. 
+Whitlock G, MacMahon S, Vander Hoorn S, Davis P, Jackson R, 
+Norton R. Association of environmental tobacco smoke exposure with socioeconomic 
+status in a population of 7725 New Zealanders. Tob Control 
+1998;7:276-80. 
+29. 
+Kaditis AG, Finder J, Alexopoulos EI, Starantzis K, Tanou K, Gampeta 
+S, et al. Sleep-disordered breathing in 3,680 Greek children. Pediatr 
+Pulmonol 2004;37:499-509. 
+30. 
+Rizzi M, Onorato J, Andreoli A, Colombo S, Pecis M, Marchisio P, et 
+al. Nasal resistances are useful in identifying children with severe obstructive 
+sleep apnea before polysomnography. Int J Pediatr Otorhinolaryngol 
+2002;65:7-13. 
+31. 
+Young T, Finn L, Kim H. Nasal obstruction as a risk factor for 
+sleep-disordered breathing. J Allergy Clin Immunol 1997;99:S757–S62. 
+32. 
+Bullard R, Wright B. Environmental justice for all: current perspectives 
+on health and research needs. Toxicol Ind Health 1993;9:821-41. 
+33. 
+Attar BK, Guerra NG, Tolan PH. Neighborhood disadvantage, stressful 
+life events, and adjustments in urban elementary-school children. J Clin 
+Child Psychol 1994;23:391-400. 
+34. 
+Evans GW, English K. The environment of poverty. Child Dev 
+2002;73:1238-48. 
+35. 
+Persson HE, Svanborg E. Sleep deprivation worsens obstructive sleep 
+apnea: comparison between diurnal and nocturnal polysomnography. Chest 
+1996;109:645-50. 
+36. 
+Ahern J, Pickett K, Selvin S, Abrams B. Preterm birth among African 
+American and white women. J Epidemiol Community Health 
+2003;57:606-11. 
+37. 
+Foster HW, Wu L, Bracken MB, Semenya K, Thomas J, Thomas J. 
+Intergenerational effects of high socioeconomic status on low birth weight 
+and preterm birth in African Americans. J Natl Med Assoc 2000;92:213-21. 
+38. 
+Brooks-Gunn J, Klebanov PK, Liaw F. The learning, physical, and 
+emotional environment of the home in the context of poverty. Children 
+Youth Services Rev 1995;17:251-76. 
+39. 
+Kaemingk KL, Pasvogel AE, Goodwin J, Mulvaney S, Martinez F, 
+Enright P, et al. Learning in children and sleep disordered breathing: 
+findings of the Tucson Children’s Assessment of Sleep Apnea (TuCASA) 
+prospective cohort study. J Int Neuropsychol Soc 2003;9:1016-26. 
+Neighborhood 
+Disadvantage 
+As 
+A 
+Risk 
+Factor 
+For 
+Pediatric 
+Obstructive 
+Sleep 
+Apnea 
+
+
+

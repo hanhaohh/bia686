@@ -1,0 +1,876 @@
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+NIH Public Access 
+
+Author Manuscript 
+
+Sleep. Author manuscript; available in PMC 2006 July 1. 
+
+Published in final edited form as: 
+Sleep. 2006 April 1; 29(4): 495–503. 
+
+SUBJECTIVE SLEEPINESS AND POLYSOMNOGRAPHIC 
+
+CORRELATES IN CHILDREN SCHEDULED FOR 
+
+ADENOTONSILLECTOMY VS. OTHER SURGICAL CARE 
+
+Ronald D. Chervin, M.D., M.S.1, Robert A. Weatherly, M.D.2, Deborah L. Ruzicka, R.N., Ph.D.
+1, Joseph W. Burns, Ph.D.3, Bruno J. Giordani, Ph.D.4, James E. Dillon, M.D.5, Carole L. 
+Marcus, M.B.B.Ch.6, Susan L. Garetz, M.D.7, Timothy F. Hoban, M.D.8, and Kenneth E. Guire, 
+
+M.S.9 
+1 Sleep Disorders Center, Department of Neurology, University of Michigan 
+2 Division of Pediatric Otolaryngology, Department of Otolaryngology, University of Kansas 
+
+3 Altarum Institute, Ann Arbor, Michigan 
+
+4 Neuropsychology Section, Department of Psychiatry, University of Michigan 
+
+5 Division of Child and Adolescent Psychiatry, Department of Psychiatry, University of Michigan 
+
+6 Sleep Center, Children's Hospital of Philadelphia, University of Pennsylvania School of Medicine 
+
+7 Division of Pediatric Otolaryngology, Department of Otolaryngology, University of Michigan 
+
+8 Sleep Disorders Center, Division of Pediatric Neurology, Departments of Pediatrics and 
+Neurology, University of Michigan 
+
+9 Department of Biostatistics, School of Public Health, University of Michigan 
+
+Abstract 
+
+Study Objectives: To compare a validated subjective measure of childhood sleepiness to an objective 
+determination, assess the frequency of problematic sleepiness among children with suspected sleep-
+disordered breathing (SDB), and examine what standard or investigational polysomnographic 
+measures of SDB predict subjective sleepiness. 
+
+Design: Prospective, cross-sectional 
+
+Setting: University-based sleep disorders laboratory 
+
+Participants: Washtenaw County Adenotonsillectomy Cohort 
+
+Intervention: Polysomnography followed by Multiple Sleep Latency Tests in 103 children 5-12 years 
+old: 77 were scheduled for clinically-indicated adenotonsillectomy, usually for suspected SDB, and 
+26 for unrelated surgical care. Parents completed the previously-validated, 4-item Pediatric Sleep 
+Questionnaire–Sleepiness Subscale (PSQ-SS). 
+
+Results: Thirty-three (43%) of the adenotonsillectomy children had high PSQ-SS scores, in 
+comparison to only 3 (12%) of the controls (p=0.004). The PSQ-SS scores correlated inversely with 
+mean sleep latencies on the Multiple Sleep Latency Tests (rho=-0.23, p=0.006). The obstructive 
+apnea index, apnea/hypopnea index, and respiratory disturbance index (which included respiratory 
+event-related arousals identified by esophageal pressure monitoring) each correlated similarly with 
+
+Correspondence to: Ronald D. Chervin, M.D., M.S. Michael S. Aldrich Sleep Disorders Laboratory 8D8702 University Hospital 1500 
+
+E. Medical Center Dr. Ann Arbor, MI 48109-0117 Phone: 734-647-9064 FAX: 734-647-9065 E-mail: chervin@umich.edu. 
+Support: NIH grants HD38461, HL80941, NS02009, and RR00042. 
+
+Chervin et al. Page 2 
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+PSQ-SS scores, as did investigational quantification of esophageal pressures and respiratory cycle-
+related EEG changes (each rho˜0.30, p<0.02). A stepwise regression identified sigma-frequency 
+respiratory cycle-related EEG changes as the strongest independent predictor of subjective sleepiness 
+among all subjects, and particularly those without obstructive sleep apnea. 
+
+Conclusions: Sleepiness is a frequent problem among children with suspected SDB. Subjective 
+sleepiness (PSQ-SS) reflects Multiple Sleep Latency Test results to a limited extent, as in adults. 
+Standard polysomnographic measures of SDB predict subjective sleepiness, but respiratory cycle-
+related EEG changes may offer additional clinical utility. 
+
+Keywords 
+
+polysomnography; sleep apnea, obstructive; tonsillectomy; child; sleepiness; Multiple Sleep Latency 
+Test; Pediatric Sleep Questionnaire 
+
+INTRODUCTION 
+
+Among the consequences of childhood sleep-disordered breathing (SDB), sleepiness is often 
+downplayed in comparison to other neurobehavioral outcomes.1 One recent study, however, 
+confirmed that children with obstructive sleep apnea, in comparison to those without SDB, had 
+shorter mean sleep latencies on a research version of the Multiple Sleep Latency Test that uses 
+30-minute nap opportunities.2 In another study, standard clinical Multiple Sleep Latency Tests 
+before and after adenotonsillectomy (AT) or other surgical care showed that the AT children 
+had shorter mean sleep latencies before the surgery, but not one year later.3 Behavioral and 
+cognitive measures similarly differed between groups and improved after AT, but only daytime 
+sleepiness showed significant association with baseline SDB severity, and only daytime 
+sleepiness changed after AT in parallel to the SDB measures. These findings combine to 
+suggest that sleepiness may be a more important feature of childhood SDB than previously 
+thought. 
+
+Subjective sleepiness in children has received less scrutiny than objectively-measured 
+sleepiness. In adults, subjective and objective sleepiness can differ substantially.4,5 School-
+aged children with snoring and other symptoms of SDB clearly can show subjective sleepiness 
+as well.6 Part of the reason why available data are limited is that subjective measures of 
+sleepiness have not been as extensively developed, validated, and studied in children as in 
+adults. 
+
+At least three instruments to assess subjective sleepiness in children have been described and 
+validated in some manner. The sleepiness subscale within the parent-completed Pediatric Sleep 
+Questionnaire distinguishes referred children with polysomnographically-confirmed SDB 
+from control children recruited in general pediatrics waiting rooms.7 High scores on the self-
+administered Pediatric Daytime Sleepiness Scale correspond with low school achievement, 
+absenteeism, and diminished sleep time among middle-school students.8 The parent-
+completed Epworth Sleepiness Scale, modified for children, distinguishes patients studied for 
+suspected SDB from controls, though not children with sleep apnea from those with primary 
+snoring.9 None of these three instruments has been validated against the gold-standard 
+objective test for sleepiness, the Multiple Sleep Latency Test. Furthermore, only one study has 
+explored the extent to which objective polysomnographic measures of SDB severity predict 
+subjective sleepiness.9 Such information might advance understanding of how this symptom 
+arises in childhood SDB. 
+
+Sleep. Author manuscript; available in PMC 2006 July 1. 
+
+
+Chervin et al. Page 3 
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+METHODS 
+Subjects 
+
+Subjects were children aged 5.0 – 12.9 years enrolled in the Washtenaw County 
+Adenotonsillectomy Cohort, a study of neurobehavioral outcomes in pediatric SDB.3 A parent 
+signed an informed consent and the child assented to participate in this IRB-approved protocol. 
+Inclusion criteria included 1) scheduled AT or other surgical care (often hernia repair, 
+sometimes only a non-otolaryngology surgical office visit), 2) no clinical need for a 
+polysomnogram as judged by treating otolaryngologists (most of whom rarely obtain sleep 
+studies prior to AT), and 3) absence of medical conditions that would impede performance or 
+interpretation of sleep and behavioral testing. The AT could be scheduled for any clinical 
+indication, but the treating otolaryngologists for almost all the participants (91%) indicated 
+that the indication for surgery was, at least in part, an office-based diagnosis of nocturnal airway 
+obstruction. Additional details of the recruitment procedures and protocol have been described 
+elsewhere.3 
+
+The number of families approached about the study in otolaryngology and other surgical clinics 
+was approximately 735. The study enrolled 105 children, of which 103 form the basis for the 
+current report. Two subjects were excluded because technical limitations within their digitally-
+recorded sleep studies did not allow computation of a key measure based on spectral analysis 
+(see below). The 103 subjects had a mean age of 8.4 ± 1.9 years and 59 were boys. Among the 
+103 subjects, 77 were scheduled for AT and 26 for other surgical care. Ethnic and racial 
+backgrounds included Caucasian/non-Hispanic (84 subjects), African-American (10), 
+Hispanic (4), and other groups (5). Comparisons between participants and larger samples of 
+non-participants suggested no significant differences between groups in gender, racial 
+distribution, socioeconomic status, history of chronic tonsillitis, snoring frequency, or 
+witnessed apneas.3 Participants were older than non-participants, by less than one year on 
+average. Parents of AT participants, in comparison to non-participants, more frequently had 
+behavioral concerns about their children (56% vs. 40%), but no such difference was observed 
+among control participants and non-participants (15% vs. 15%). 
+
+Polysomnography 
+
+Each child and accompanying parent were admitted to a private room in the Michael S. Aldrich 
+Sleep Disorders Laboratory between December, 1999, and December, 2002. Polysomnography 
+included all standard leads required to score sleep stages.10 Breathing was monitored with 
+oronasal thermocouples, chest and abdominal excursion with piezoelectric strain gauges, 
+oxygen saturation by finger oximetry, end-tidal CO2 by pediatric nasal cannula, and esophageal 
+pressure through a thin water-filled catheter previously shown to have a negligible effect on 
+sleep in children.11,12 About 1/4 of the children did not tolerate esophageal pressure 
+monitoring for at least 2 hours, and their data for relevant variables were considered missing.
+13 On the day after the nocturnal polysomnogram, a Multiple Sleep Latency Test was 
+performed. This included 4 or 5 twenty-minute nap attempts at 2-hour intervals, and followed 
+a standard clinical protocol.14 
+
+Scoring was performed by an experienced, registered polysomnographic technician who was 
+masked to identity and clinical status of the subjects.10 For the Multiple Sleep Latency Tests, 
+the latency to the first epoch of stage 1 sleep was calculated on each nap attempt and the mean 
+sleep latency was computed across all naps, assigning 20 minutes for those periods in which 
+no sleep was obtained. Nocturnal polysomnographic measures of SDB severity included 
+standard variables as well as several that appear less commonly in clinical practice but were 
+considered to be promising investigational measures. The variables used were obstructive 
+apnea index, apnea/hypopnea index, respiratory disturbance index, minimum oxygen 
+
+Sleep. Author manuscript; available in PMC 2006 July 1. 
+
+
+Chervin et al. Page 4 
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+saturation, EEG arousal index, percent sleep time with end-tidal CO2 > 50 mm Hg, most 
+negative esophageal pressure, percent of sleep time with esophageal pressure more negative 
+than -10 cm water, and respiratory cycle-related EEG changes. The definition, rationale, and 
+limitations for each variable are listed in the Appendix. 
+
+Subjective Sleepiness 
+
+Subjective sleepiness was assessed with the 4-item Pediatric Sleep Questionnaire -- Sleepiness 
+Subscale (PSQ-SS).7 These items ask a parent, who is encouraged to ask the child for help, 
+whether the subject 1) wakes up feeling unrefreshed in the morning, 2) has a problem with 
+sleepiness during the day, 3) appears sleepy during the day according to comments of a teacher 
+or other supervisor, or 4) is hard to wake up in the morning. Responses are Yes, No, or Don't 
+Know. In initial tests of validity, each item individually distinguished children with SDB from 
+controls.7 The mean response (Yes = 1, No = 0, Don't Know = missing) among the available 
+items is the score for the subscale. Previous data on the 22-item PSQ Sleep-Related Breathing 
+Disorder score, which includes the PSQ-SS, suggested that a cut-off of 0.33 would be most 
+effective. A similar threshold (PSQ = 0.33) was used in the current study of the PSQ-SS to 
+identify subjective sleepiness. By this criterion, a child whose parent answered all question-
+items would have to suffer from at least 2 of 4 sleepiness symptoms to be classified as 
+subjectively sleepy. 
+
+Analysis 
+
+Data were double-entered (to verify accuracy) into a SAS database (SAS Institute, Cary, NC) 
+by a professional data entry company. Means and standard deviations were used as summary 
+measures, and medians were also computed for the non-continuous PSQ-SS scores. The non-
+parametric Spearman correlation rho was used initially to test associations between subjective 
+sleepiness (PSQ-SS scores) and each polysomnographic variable. Multiple stepwise logistic 
+regression was then used to account for co-linearity of the polysomnographic variables and 
+identify which few were the best independent predictors of subjective sleepiness. A model that 
+included the best identified predictor, along with apnea/hypopnea index (the most commonly-
+used single measure of SDB severity) was also tested, both with and without adjustment for 
+age, sex, and body mass index (kg/m2). This model was also tested separately among subjects 
+with and without obstructive sleep apnea, as defined by an obstructive apnea index = 1.15 
+
+RESULTS 
+Subjective Sleepiness 
+
+The mean PSQ-SS score among all 103 subjects was 0.28 ± 0.32 (s.d.), and the median was 
+
+0.25. Among the 77 AT subjects, the mean was 0.35 ± 0.33 (median 0.25), whereas among the 
+26 control subjects the mean was 0.09 ± 0.19 (median 0.00). The difference between groups 
+was statistically significant (Mann-Whitney U test, p = 0.0002). Figure 1 shows the distribution 
+of the PSQ-SS scores among all the subjects, the AT subjects, and the control subjects. A total 
+of 36 (35%) of all subjects had a PSQ-SS score = 0.33 and were classified for the purpose of 
+dichotomous analyses as having problematic subjective sleepiness: these included 33 (43%) 
+of the children in the AT group and 3 (12%) of those in the control group (X2=8.39, p=0.004). 
+Polysomnographic measures of SDB for the entire sample, the 36 subjectively sleepy subjects, 
+and the 67 more alert subjects are shown in Table 1. 
+Comparison of Subjective and Objective Sleepiness 
+
+The mean sleep latency on the Multiple Sleep Latency Tests averaged 16.5 ± 3.3 minutes. The 
+PSQ-SS correlated inversely but not strongly with the mean sleep latency on the Multiple Sleep 
+Latency Test (rho=-0.23, p=0.018; Figure 2). The correlation was stronger within the subgroup 
+
+Sleep. Author manuscript; available in PMC 2006 July 1. 
+
+
+Chervin et al. Page 5 
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+of AT subjects (n=39) who had obstructive sleep apnea (average of mean sleep latencies = 15.6 
+± 3.6, rho=-0.43, p=0.006). 
+
+Polysomnographic Correlates of Subjective Sleepiness 
+
+Apneic event rates, esophageal pressures, and high-frequency RCREC proved to be the best 
+predictors of subjective sleepiness in initial bivariate non-parametric correlations (Table 2). 
+Stepwise logistic regression in which all Table 2 polysomnographic measures could be entered 
+(n = 70 subjects with data for each) retained only two predictor variables in the final model, 
+sigma RCREC and alpha RCREC. A single standard deviation increase in either variable was 
+independently associated with a 2-fold increase in probability of subjective sleepiness, and the 
+model explained 26% of the variance in subjective sleepiness (Table 3). Log-transformation 
+of the skewed obstructive apnea index, apnea/hypopnea index, or respiratory disturbance index 
+did not have a large impact on their level of significance. Examination of all-possible subset 
+models with 2 explanatory variables allowed, with or without the log-transforms, showed that 
+the 4 best models always retained sigma RCREC but that alpha RCREC could be replaced by 
+any of the apnea indices without sizeable change in significance of the overall model. In a 
+logistic regression model that forced inclusion of the apnea/hypopnea index along with sigma 
+RCREC (n=103), each variable retained significance after adjusting for the other (Table 4). 
+Adjustment for age, gender, and body mass index did not substantially alter these results. 
+
+Correlates in Children With and Without Obstructive Sleep Apnea 
+
+Among the 39 AT children with sleep apnea, the mean apnea/hypopnea index was 13.3 ± 15.5, 
+and 19 (49%) had subjective sleepiness. Subjective sleepiness as an outcome in simple logistic 
+regression models was predicted by the normalized apnea/hypopnea index (OR = 2.6 [1.0, 6.8]) 
+but not sigma RCREC (OR = 1.3 [0.6, 2.9]). 
+
+Among the 64 children who were either controls or AT subjects without sleep apnea, the mean 
+apnea/hypopnea index was 1.2 ± 1.4 (equivalent to that among controls alone3), and 17 (27%) 
+had subjective sleepiness. In simple logistic regression models, subjective sleepiness was 
+predicted by normalized sigma RCREC (OR = 2.5 [1.3, 4.7]) but not by apnea/hypopnea index 
+(OR = 1.1 [0.1, 83.2]). Models that adjusted for age, gender, and body mass index showed 
+essentially unchanged results for the 39 AT children with sleep apnea and the 64 remaining 
+subjects. 
+
+DISCUSSION 
+
+This study of 103 children aged 5 to 12 years used a previously-validated, parent-generated 
+subjective sleepiness scale to show that patients scheduled for AT, in contrast to controls, 
+frequently have problems with daytime sleepiness. Comparison of PSQ-SS scores to results 
+of concurrent Multiple Sleep Latency Tests demonstrated for the first time that a subjective 
+rating of childhood sleepiness corresponded with an objective gold-standard. Comparison of 
+the PSQ-SS scores to results of nocturnal polysomnography showed that several standard sleep 
+laboratory measures predicted subjective sleepiness levels to a moderate degree. One of the 
+best polysomnographic correlates of subjective sleepiness was sigma RCREC, a recently-
+developed measure of the extent to which EEG spectral power during non-apneic sleep varies 
+in synchrony with the respiratory cycle. The new measure was particularly helpful among those 
+subjects whose apnea/hypopnea index was too low to be informative. 
+
+Among children scheduled to have AT, usually for suspected SDB, 43% met study criteria for 
+subjective sleepiness. In most cases this meant that parents endorsed at least two of four specific 
+sleepiness symptoms. Similarly, another study of children with suspected SDB found that 28% 
+(vs. only 12% of controls) met adult criteria for subjective daytime sleepiness on a slightly-
+
+Sleep. Author manuscript; available in PMC 2006 July 1. 
+
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+Chervin et al. Page 6 
+
+modified Epworth Sleepiness Scale.9 To the extent that sleepiness is not as readily evident 
+among children as it is among adults,16 more subjects in that study might have qualified as 
+sleepy had an age-adjusted cut-off been used. The Epworth already enjoys widespread use for 
+adult patients. However, possible advantages of the shorter PSQ-SS are that it includes 
+questions more specific to children, assesses the degree to which sleepiness is a problem (rather 
+than just sleep propensity in different situations), and reflects input of parents and teachers who 
+are in the best positions to observe child behavior. 
+
+Another advantage of the PSQ-SS is that it has now been validated against an objective measure 
+of sleepiness, the Multiple Sleep Latency Test. The magnitude of association between the two 
+measures was only low to moderate, but entirely consistent with existing data that have 
+compared subjective and objective measures of sleepiness in adult patients.4 In fact, two of 
+the largest published clinical series of adults with suspected SDB found no significant 
+association between Epworth and Multiple Sleep Latency Test scores.5,17 
+
+Our study also demonstrated statistically-significant associations between several standard 
+nocturnal polysomnographic variables and subjective sleepiness. Again these associations 
+were not particularly robust, but they were as strong or stronger than those reported previously 
+in adults studied for suspected SDB.5 In the Sleep Heart Health Study, for example, the patients 
+with the most severe sleep apnea showed Epworth scores only 2 points higher (on a scale of 0 
+
+– 24) than those without sleep apnea.18 
+In an attempt to examine the potential for added clinical utility of esophageal pressure 
+monitoring in children, we used this technique successfully in most subjects to identify 
+respiratory event-related arousals (RERAs).19,20 About 1/4 of our subjects did not tolerate 
+esophageal pressure monitoring,13 but in clinical practice pediatric patients are not research 
+volunteers and failure to tolerate the procedure is rare.12 In any case, the addition of RERAs 
+to apneas and hypopneas (within an overall respiratory disturbance index) did not, in fact, 
+identify many events missed by relatively sensitive but justifiable criteria for pediatric 
+hypopneas (Table 1).19,21,22 Therefore, the ability to predict subjective sleepiness was not 
+greater for the respiratory disturbance index in comparison to the simpler apnea/hypopnea 
+index. This is shown in Table 2, where the small difference between the two indices arose 
+mainly from the slight difference in samples (n=74 vs. n=103). In contrast, the addition of 
+hypopneas to the obstructive apnea index more than doubled the number of events (Table 1), 
+but surprisingly contributed essentially nothing to the ability to predict the outcome under 
+study, namely subjective sleepiness (Table 2). 
+
+This analysis is among the first to show that the highly-correlated obstructive apnea, apnea/ 
+hypopnea, and respiratory disturbance indices may not provide different clinical utility. Nasal 
+pressure monitoring may serve as a surrogate measure when esophageal pressure is not 
+available,19 and may identify a larger number of subtle respiratory events than thermistors do 
+in children.23 However, the one pediatric study that tested the association between hypopnea 
+rates determined by nasal pressure and thermistors found a near-perfect correlation (r=0.94).
+24 If our findings are confirmed in studies of outcomes other than subjective sleepiness, the 
+implication for clinical practice is that continued efforts to identify increasingly subtle apneic 
+events, or their induced cortical and subcortical arousals, may provide only diminishing returns. 
+An adequate understanding of how outcomes relate to the thermistor-derived obstructive apnea 
+index, for example, could show this simple measure to be about as useful as more elaborate 
+methods that identify many more apneic events. 
+
+On the other hand, entirely new approaches that are not based on apneic events or associated 
+arousals may provide new, incremental utility in polysomnography. Our study explored two 
+types of new approaches. One was based on respiratory effort, which is suspected to be the 
+
+Sleep. Author manuscript; available in PMC 2006 July 1. 
+
+
+Chervin et al. Page 7 
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+cause of arousals that terminate apneas and hypopneas.25 The other was based on a recently-
+developed measure (RCREC) of the extent to which cerebral cortical activity, as reflected by 
+the EEG, varies in concert with the respiratory cycle during non-apneic sleep. The clinical 
+utility of the new esophageal pressure measures -- the most negative esophageal pressure 
+recorded and the percent of sleep time spent with esophageal pressures more negative than -10 
+cm of water – has not been tested previously to our knowledge in children or adults. Our 
+findings suggested good clinical utility, but could not show incremental utility above that 
+already provided by standard indices of apneic events. 
+
+In contrast, RCREC in high frequency bands may provide incremental utility as they clearly 
+predicted subjective sleepiness independently of the standard respiratory indices we tested. 
+These findings parallel those recently published for a series of adults studied for suspected 
+SDB: sigma RCREC predicted next-day Multiple Sleep Latency Test results more robustly 
+than did the apnea/hypopnea index or any other standard polysomnographic measure.26 During 
+an average non-apneic inspiration, sigma power increased and delta power decreased, and this 
+tendency was accentuated in patients who were excessively sleepy.26 These data, in 
+combination with the results of the current study, support the idea that RCREC may represent 
+transient, subtle, but numerous inspiratory microarousals enhanced or provoked during labored 
+non-apneic breathing. As most SDB patients spend only a minority of their sleep time actually 
+within an apnea or hypopnea, RCREC may be a useful measure of a physiological process that 
+contributes to sleepiness incompletely explained by the frequency of apneic events. Our data 
+suggest that RCREC may be particularly useful in primary snoring, when apneas and 
+hypopneas cannot be detected but neurobehavioral morbidity can still arise.9,27-29 
+
+Among the limitations of this study, the non-randomized design was necessary because of the 
+desire to assess long-term outcomes without ethical barriers that might arise if some subjects 
+with SDB had to forego AT. Participants in the cohort resembled non-participants in most 
+respects,3 but potential effects of selection bias cannot be excluded. The age range of the 
+subjects (8 years) raises the possibility that the PSQ-SS may have functioned differently for 
+the youngest and oldest participants. However, the PSQ-SS was designed to include items 
+relevant to both younger and older children. The instrument did not show sensitivity to age in 
+a previous validation study that enrolled 2 – 18 year-olds,7 and taking age into account in the 
+current analysis did not change results of the logistic regression models. In older children, a 
+self-administered sleepiness questionnaire might be more effective than a parental survey, but 
+one previous study that compared both approaches in children aged 6 to 18 years found good 
+correlation between results obtained either way (r=0.71).9 Although the PSQ-SS showed clear 
+associations with Multiple Sleep Latency Test scores, the discrepancy between the two 
+measures was sufficiently large to suggest that in clinical practice, one test should not substitute 
+for the other. This study could not possibly examine simultaneously all polysomnographic 
+methods available that may help to understand subjective sleepiness. In particular, nasal 
+pressure monitoring was not performed, and neither were largely-investigational but promising 
+techniques to assess autonomic arousals30-32 or the cyclic alternating pattern.33,34 Finally, 
+this study did not examine non-neurobehavioral SDB morbidity, which could show different 
+associations with polysomnographic SDB measures. 
+
+In conclusion, results of this study suggest that the traditional message about the scarcity of 
+sleepiness in pediatric SDB could be refined. Inattention, hyperactivity, or other 
+neurobehavioral manifestations may be more obvious, but subjective daytime sleepiness is also 
+frequently a problem that can be elicited by a careful clinical history or use of the PSQ-SS. 
+Standard polysomnographic measures can be informative about risk for daytime sleepiness, 
+but only to a moderate extent. Identification of increasingly subtle apneic events or RERAs 
+may not be necessary if additional studies, perhaps focused on other SDB consequences, also 
+cannot show added clinical utility in head-to-head comparisons with simpler measures. Instead, 
+
+Sleep. Author manuscript; available in PMC 2006 July 1. 
+
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+Chervin et al. Page 8 
+
+novel conceptual approaches to SDB, such as RCREC or others that also escape dependence 
+on the frequency of apneic events, may provide missing information. Development of these 
+new approaches could prove especially important to the large number of snoring children who 
+may be symptomatic even in the absence of discrete apneic events. 
+
+ACKNOWLEDGEMENTS 
+
+The authors thank the children and parents who volunteered to participate in this research; Judith L. Wiebelhaus, 
+RPSGT, REEGT, for expert technical assistance; Morton B. Brown, Ph.D. and Deanna J. Marriott, Ph.D., for their 
+able assistance with study design and data management; and the following clinicians for assistance with identification 
+of subjects, execution of the protocol, or conception of this report: Ronald S. Bogdasarian, M.D., Donna Champine, 
+M.D., Barbara T. Felt, M.D., Laurence Ho, M.D., Elise K. Hodges, Ph.D., Paul T. Hoff, M.D., Charles Koopman, 
+M.D., Marci M. Lesperance, M.D., and Thomas A. Weimert, M.D. 
+
+Appendix 
+
+Standard and investigational polysomnographic measures of sleep-disordered 
+
+breathing (SDB) severity 
+Measure 
+Obstructive apnea index 
+(Standard) 
+Apnea/ 
+hypopnea index (Standard) 
+DescriptionNumber of obstructive apneas 
+(spanning at least 2 attempted 
+breath cycles) per hour of sleep 
+Number of obstructive apneas or 
+hypopneas (spanning at least 2 
+breath cycles) per hour of sleep.
+Hypopneas defined as a 
+decrement in airflow, chest 
+excursion, or abdominal 
+excursion followed by an 
+arousal,35 an awakening,10 or a 
+4% or greater 6oxygendesaturation. 
+Rationale for Use as Measure of SDB SeverityOne the most common and well-studied measures of pediatric SDB.15 
+In comparison to hypopneas, apneas are more easily and reliably 
+identified. Criteria for their definition, in comparison to those forhypopneas, are less variable between laboratories. Limitations: May not 
+capture many more subtle obstructions of the upper airway that can still 
+be associated with arousals, hypoxemia, and daytime morbidity.
+Single most commonly-used measure of SDB severity. Addition of 
+hypopneas to the apnea index supported by similar physiology, potential 
+to precede arousal, and observation that some patients with clinicaldiagnosis of sleep apnea have mainly hypopneas rather than apneas.36 
+In adults, each hypopnea contributes to measured daytime sleepiness 
+about the same amount on average as each apnea, though with increasedvariability.37 Limitations: Definitions of pediatric hypopneas are less 
+well defined and accepted than those for apneas.38 Available data on 
+normal children are limited.39 
+Respiratory disturbance index 
+(Established measure, but usedonly to a variable extent in clinical 
+practice) 
+Number of apneas, hypopneas, 
+or respiratory event-relatedarousals (RERAs 19) per hour of 
+sleep. RERAs scored when, in 
+the absence of an apnea orhypopnea, esophageal pressures 
+over 5 consecutive breaths 
+gradually became more negative(by at least 5 cm of water) just 
+prior to arousal. 
+Patients with upper airway resistance syndrome, a form of obstructive 
+SDB, have increased upper airway resistance and work of breathing butessentially no apneas or readily-detected hypopneas.40 Instead, 
+sequences of gradually increasing effort lead to arousals. Associated 
+symptoms include daytime sleepiness in adults20 and other 
+neurobehavioral morbidity in children.40 Studies in snoring children 
+that have found such morbidity in the absence of apneas and hypopneas 
+often have noted that the findings could have arisen by inadvertentinclusion of subjects with RERAs whose upper airway resistance 
+syndrome was not detected.9,27,41 Limitations: The number of breaths, 
+amount of negative pressure increase, and definition of arousals thatoptimally define RERAs are not well known. Some patients with steady, 
+unchanging, excessively-negative esophageal pressures suffer from 
+excessive daytime sleepiness, have no RERAs, but still respond totreatment for SDB.42 
+Minimum oxygen saturation 
+(Standard) 
+EEG arousal index (Standard) 
+Percent sleep time with end-tidalCO2 > 50 mm Hg (Standard) 
+Most negative esophagealpressure (cm water) 
+(Investigational) 
+Percent of sleep time with 
+esophageal pressure more 
+Minimum recorded oxygen 
+saturation during sleep 
+Number per hour of sleep of 3second 
+EEG-based arousals 
+scored by consensus definition.35 
+As stated 
+As stated, during sleep 
+As stated 
+Helps to predict sleepiness in adults, even after adjustment for the apnea/ 
+hypopnea index.37 Limitations: Derived from one time point only.
+However, the measure is widely-used in clinical practice. Alternative 
+proposals to use percent of sleep time spent below a variably-specified 
+threshold saturation are not yet supported by evidence of improvedclinical utility. 
+Arousals induced by respiratory events are widely believed to play a 
+central role in SDB-associated sleepiness and behavioral morbidity.43 
+Recent data support use of 3-second criteria, originally developed for 
+adults, in children as well.44 Limitations: Apneas and hypopneas do not 
+always cause visible EEG arousals. Non-visible arousals, detected insome cases only by autonomic measures or computer analysis of the 
+EEG, may still cause daytime sleepiness.30,45,46 
+Children with SDB may show obstructive hypoventilation.21 
+Limitations: Few data are available to link this polysomnographic 
+finding with outcomes.22 
+Esophageal pressure provides a gold-standard assessment of respiratoryeffort during sleep.19 Increased respiratory effort is believed to be the 
+cause of arousals in SDB.25 Limitations: Single point measure. Little 
+previous work to link with outcomes.
+As above, but derives from assessment throughout sleep period.
+Limitations: No previous data linking this measure with outcomes. 
+
+Sleep. Author manuscript; available in PMC 2006 July 1. 
+
+
+Chervin et al. Page 9 
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+Measure Description Rationale for Use as Measure of SDB Severity 
+
+negative than -10 cm water 
+(Investigational)
+Respiratory cycle-related EEG Magnitude of average spectral The RCREC have been assessed for ability to predict Multiple Sleep 
+changes (RCREC) power change, during sleep, Latency Test results in children and adults.26,48 The RCREC, 
+(Investigational) across the respiratory cycle.47 especially in sigma and delta frequency ranges, may have clinical utility
+
+Change expressed as proportion as correlates of excessive daytime sleepiness in childhood and adult 
+of total power during respiratory SDB. Some evidence suggests that RCREC represent brief but 
+cycle to account for differentnumerous (breath-to-breath) inspiratory microarousals.26 Limitations: 
+sleep stages. Analysis focuses Novel measure with as-yet unproven physiological basis. 
+on EEG recorded during the first 
+3 hours of sleep at C3-A2, in thefollowing frequency bands: 
+delta (0.5 – 4 Hz), theta (5 – 7 
+Hz), alpha (8 – 12 Hz), sigma(13 – 15 Hz, and beta (16 – 30 
+Hz). 
+
+Reference List 
+
+1. Carroll JL, Loughlin GM. Diagnostic criteria for obstructive sleep apnea syndrome in children. Pediatr 
+Pulmonol 1992;14:71–74. [PubMed: 1437352] 
+2. Gozal D, Wang M, Pope DW Jr. Objective sleepiness measures in pediatric obstructive sleep apnea. 
+Pediatrics 2002;108:693–697. [PubMed: 11533338] 
+3. Chervin RD, Ruzicka DL, Giordani BJ, et al. Sleep-disordered breathing, behavior, and cognition in 
+children before and after adenotonsillectomy. Pediatrics. in press 
+4. Chervin RD, Aldrich MS, Pickett R, Guilleminault C. Comparison of the results of the Epworth 
+Sleepiness Scale and the multiple sleep latency test. J Psychosom Res 1997;42:145–155. [PubMed: 
+9076642] 
+5. Chervin RD, Aldrich MS. The Epworth Sleepiness Scale may not reflect objective measures of 
+sleepiness or sleep apnea. Neurology 1999;52:125–131. [PubMed: 9921859] 
+6. Chervin RD, Archbold KH, Dillon JE, et al. Inattention, hyperactivity, and symptoms of sleep-
+disordered breathing. Pediatrics 2002;109:449–456. [PubMed: 11875140] 
+7. Chervin RD, Hedger KM, Dillon JE, Pituch KJ. Pediatric Sleep Questionnaire (PSQ): validity and 
+reliability of scales for sleep-disordered breathing, snoring, sleepiness, and behavioral problems. Sleep 
+Med 2000;1:21–32. [PubMed: 10733617] 
+8. Drake C, Nickel C, Burduvali E, Roth T, Jefferson C, Badia P. The pediatric daytime sleepiness scale 
+(PDSS): Sleep habits and school outcomes in middle-school children. Sleep 2003;26:455–458. 
+[PubMed: 12841372] 
+9. Melendres CS, Lutz JM, Rubin ED, Marcus CL. Daytime sleepiness and hyperactivity in children with 
+suspected sleep-disordered breathing. Pediatrics 2004;114:768–775. [PubMed: 15342852] 
+10. Rechtschaffen, A.; Kales, A. A manual of standardized terminology, techniques and scoring system 
+for sleep stages of human subjects. Brain Information Service/ Brain Research Institute, UCLA; Los 
+Angeles: 1968. 
+11. Kushida CA, Giacomini A, Lee MK, Guilleminault C, Dement WC. Technical protocol for the use 
+of esophageal manometry in the diagnosis of sleep-related breathing disorders. Sleep Med 
+2002;3:163–173. [PubMed: 14592238] 
+12. Chervin RD, Aldrich MS. Effects of esophageal pressure monitoring on sleep architecture. Am J Resp 
+Crit Care Med 1997;156:881–885. [PubMed: 9310008] 
+13. Chervin RD, Ruzicka DL, Wiebelhaus JL, et al. Tolerance of esophageal pressure monitoring during 
+polysomnography in children. Sleep 2003;26:1022–1026. [PubMed: 14746385] 
+14. Carskadon MA, Dement WC, Mitler MM, Roth T, Westbrook PR, Keenan S. Guidelines for the 
+multiple sleep latency test (MSLT): a standard measure of sleepiness. Sleep 1986;9:519–524. 
+[PubMed: 3809866] 
+15. Marcus CL, Omlin KJ, Basinski DJ, et al. Normal polysomnographic values for children and 
+adolescents. Am Rev Respir Dis 1992;146:1235–1239. [PubMed: 1443877] 
+16. Hoban TF, Chervin RD. Assessment of sleepiness in children. Seminars in Pediatric Neurology 
+2001;8:216–228. [PubMed: 11768784] 
+Sleep. Author manuscript; available in PMC 2006 July 1. 
+
+
+Chervin et al. Page 10 
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+17. Benbadis SR, Mascha E, Perry MC, Wolgamuth BR, Smolley LA, Dinner DS. Association between 
+the Epworth Sleepiness Scale and the Multiple Sleep Latency Test in a clinical population. Ann Intern 
+Med 1999;16:289–292. [PubMed: 10068387] 
+18. Gottlieb DJ, Whitney CW, Bonekat WH, et al. Relation of sleepiness to respiratory disturbance index: 
+the Sleep Heart Health Study. Am J Resp Crit Care Med 1999;159:502–507. [PubMed: 9927364] 
+19. American Academy of Sleep Medicine Task Force. Sleep-related breathing disorders in adults: 
+Recommendations for syndrome definition and measurement techniques in clinical research. Sleep 
+1999;22:667–689. [PubMed: 10450601] 
+20. Guilleminault C, Stoohs R, Clerk A, Cetel M, Maistros P. A cause of excessive daytime sleepiness: 
+the upper airway resistance syndrome. Chest 1993;104:781–787. [PubMed: 8365289] 
+21. American Thoracic Society: Medical Section of the American Lung Association. Standards and 
+indications for cardiopulmonary sleep studies in children. Am J Resp Crit Care Med 1996;153:866– 
+878. [PubMed: 8564147] 
+22. Marcus CL. Sleep-disordered breathing in children. Am J Resp Crit Care Med 2001;164:16–30. 
+[PubMed: 11435234] 
+23. Trang H, Leske V, Gaultier C. Use of nasal cannula for detecting sleep apneas and hypopneas in 
+infants and children. Am J Resp Crit Care Med 2002;166:464–468. [PubMed: 12186821] 
+24. Serebrisky D, Cordero R, Mandeli J, Kattan M, Lamm C. Assessment of inspiratory flow limitation 
+in children with sleep-disordered breathing by a nasal cannula pressure transducer system. Pediatr 
+Pulmonol 2002;33:380–387. [PubMed: 11948984] 
+25. Gleeson K, Zwillich CW, White DP. The influence of increasing ventilatory effort on arousal from 
+sleep. Am Rev Respir Dis 1990;142:295–300. [PubMed: 2382892] 
+26. Chervin RD, Burns JW, Ruzicka DL. Electroencephalographic changes during respiratory cycles 
+predict sleepiness in sleep apnea. Am J Resp Crit Care Med 2005;171:652–658. [PubMed: 15591467] 
+27. O'Brien LM, Mervis CB, Holbrook CR, et al. Neurobehavioral implications of habitual snoring in 
+children. Pediatrics 2004;114:44–49. [PubMed: 15231906] 
+28. Chervin RD, Archbold KH. Hyperactivity and polysomnographic findings in children evaluated for 
+sleep-disordered breathing. Sleep 2001;24:313–320. [PubMed: 11322714] 
+29. Gottlieb DJ, Chase C, Vezina RM, et al. Sleep-disordered breathing symptoms are associated with 
+poorer cognitive function in 5-year-old children. J Pediatr 2004;145:458–464. [PubMed: 15480367] 
+30. Stradling JR, Barbour C, Glennon J, Langford BA, Crosby JH. Prevalence of sleepiness and its relation 
+to autonomic evidence of arousals and increased inspiratory effort in a community based population 
+of men and women. J Sleep Res 2000;9:381–388. [PubMed: 11386205] 
+31. Katz ES, Lutz J, Black C, Marcus CL. Pulse transit time in sleep apnea. Pediatric Research 
+2003;53:580–588. [PubMed: 12612196] 
+32. Tauman R, O'Brien LM, Mast BT, Holbrook CR, Gozal D. Peripheral arterial tonometry events and 
+electroencephalographic arousals in children. Sleep 2004;27(3):502–506. [PubMed: 15164906] 
+33. Lopes MC, Rosa A, Roizenblatt S, et al. Cyclic alternating pattern in peripubertal children. Sleep 
+2005;28:215–219. [PubMed: 16171246] 
+34. Bruni O, Ferri R, Miano S, et al. Sleep cyclic alternating pattern in normal preschool-aged children. 
+Sleep 2005;28:220–230. [PubMed: 16171247] 
+35. American Sleep Disorders Association. EEG arousals: scoring rules and examples. Sleep 
+1992;15:173–184. [PubMed: 11032543] 
+36. Gould GA, Whyte KF, Rhind GB, et al. The sleep hypopnea syndrome. Am Rev Respir Dis 
+1988;137:895–898. [PubMed: 3354998] 
+37. Chervin RD, Aldrich MS. Characteristics of apneas and hypopneas during sleep and relation to 
+excessive daytime sleepiness. Sleep 1998;21:799–806. [PubMed: 9871942] 
+38. Moser NJ, Phillips BA, Berry DTR, Harbison L. What is hypopnea, anyway? Chest 1994;105:426– 
+428. [PubMed: 8306740] 
+39. Witmans MB, Marcus CL, Keens TG, Ward SLD. Normal polysomnographic values of obstructive 
+hypopneas for children and adolescents. Sleep 2003;26:A142. 
+Sleep. Author manuscript; available in PMC 2006 July 1. 
+
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+Chervin et al. Page 11 
+
+40. Guilleminault C, Winkle R, Korobkin R, Simmons B. Children and nocturnal snoring-- evaluation 
+of the effects of sleep related respiratory resistive load and daytime functioning. Eur J Pediatr 
+1982;139:165–171. [PubMed: 7160405] 
+41. Blunden S, Lushington K, Kennedy D, Martin J, Dawson D. Behavior and neurocognitive 
+performance in children aged 5-10 years who snore compared to controls. Journal of Clinical & 
+Experimental Neuropsychology 2000;22:554–568. [PubMed: 11094391] 
+42. Guilleminault C, Stoohs R, Clerk A, Simmons J, Labanowski M. Excessive daytime somnolence in 
+women with abnormal respiratory efforts during sleep. Sleep 1993;16:S137–S138. [PubMed: 
+8011017] 
+43. O'Brien LM, Tauman R, Gozal D. Sleep pressure correlates of cognitive and behavioral morbidity in 
+snoring children. Sleep 2004;27:279–282. [PubMed: 15124723] 
+44. Wong TK, Galster P, Lau TS, Lutz JM, Marcus CL. Reliability of scoring arousals in normal children 
+and children with obstructive sleep apnea syndrome. Sleep 2004;27:1139–1145. [PubMed: 
+15532208] 
+45. Guilleminault C, Do Kim Y, Chowdhuri S, Horita M, Ohayon M, Kushida C. Sleep and daytime 
+sleepiness in upper airway resistance syndrome compared to obstructive sleep apnoea syndrome. Eur 
+Respir J 2001;17:838–847. [PubMed: 11488314] 
+46. Bandla HPR, Gozal D. Dynamic changes in EEG spectra during obstructive apnea in children. Pediatr 
+Pulmonol 2000;29:359–365. [PubMed: 10790247] 
+47. Chervin RD, Burns JW, Subotic NS, Roussi C, Thelen B, Ruzicka DL. Method for detection of 
+respiratory cycle-related EEG changes in sleep-disordered breathing. Sleep 2004;27:110–115. 
+[PubMed: 14998246] 
+48. Chervin RD, Burns JW, Subotic NS, Roussi C, Thelen B, Ruzicka DL. Correlates of respiratory cycle-
+related EEG changes in children with sleep-disordered breathing. Sleep 2004;27:116–121. [PubMed: 
+14998247] 
+Sleep. Author manuscript; available in PMC 2006 July 1. 
+
+
+Chervin et al. Page 12 
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+
+Sleep. Author manuscript; available in PMC 2006 July 1. 
+
+
+Chervin et al. Page 13 
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+
+Figure 1. 
+
+Numbers of subjects with indicated scores on the Pediatric Sleep Questionnaire -- Sleepiness 
+Subscale (PSQ-SS). For the majority of subjects whose parents answered each question-item, 
+the first column represents 0 symptoms endorsed, the second column 1 symptom, the third 
+column 2 symptoms, and the fourth column 3 or 4 symptoms. Distributions are shown for all 
+subjects (A), those scheduled for adenotonsillectomy (B), and those who received other 
+surgical care (C). 
+
+Sleep. Author manuscript; available in PMC 2006 July 1. 
+
+
+Chervin et al. Page 14 
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+
+Figure 2. 
+
+The mean sleep latency (MSL) on the Multiple Sleep Latency Test is plotted against scores on 
+the Pediatric Sleep Questionnaire-Sleepiness Subscale (PSQ-SS). 
+
+Sleep. Author manuscript; available in PMC 2006 July 1. 
+
+
+Chervin et al. Page 15 
+
+Table 1 
+
+Polysomnographic measures of sleep-disordered breathing severity * 
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+Polysomnographic variable Number of Mean ± s.d. 
+subjects withAll Subjects (n=103) Subjects with Subjects withoutavailable data Sleepiness ** 
+Sleepiness ** 
+
+
+(n=36) (n=67) 
+
+Obstructive apnea index 103 2.2 ± 5.6 4.5 ± 8.8 1.0 ± 2.0 
+Apnea/hypopnea index 103 5.8 ± 11.2 10.8 ± 17.1 3.1 ± 4.3 
+Respiratory disturbance index 74 5.9 ± 10.1 10.7 ± 14.3 2.8 ± 3.6 
+Minimum oxygen saturation 103 91.8 ± 7.2 89.2 ± 11.1 93.3± 3.0 
+EEG arousal index 103 12.4 ± 6.2 13.9 ± 7.7 11.6 ± 5.1 
+Percent sleep time with end-tidal CO2 > 50 96 32.0 ± 38.5 39.3 ± 41.3 28.4 ± 36.8 
+
+mm HgMost negative esophageal pressure (cm 74 -34.1 ± 20.4 -42.0 ± 26.0 -29.0 ± 13.8 
+water) 
+Percent of sleep time with esophageal74 46.3 ± 33.5 56.8 ± 34.5 39.5 ± 31.4 
+pressure more negative than -10 cm water 
+Delta RCREC 103 0.046 ± 0.024 0.049 ± 0.026 0.045 ± 0.023 
+Theta RCREC 103 0.048 ± 0.028 0.049 ± 0.030 0.047 ± 0.026 
+Alpha RCREC 103 0.055 ± 0.030 0.064 ± 0.038 0.050 ± 0.023 
+Sigma RCREC 103 0.073 ± 0.035 0.087 ± 0.040 0.065 ± 0.029 
+Beta RCREC 103 0.040 ± 0.026 0.046 ± 0.028 0.036 ± 0.025 
+
+* 
+
+RCREC = respiratory cycle-related EEG changes. 
+
+** 
+
+Sleepiness = Sleepiness Subscale score = 0.33. 
+
+Sleep. Author manuscript; available in PMC 2006 July 1. 
+
+
+Chervin et al. Page 16 
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+Table 2 
+
+Spearman correlations between Pediatric Sleep Questionnaire Sleepiness Subscale and each indicated 
+polysomnographic measure of sleep-disordered breathing.* 
+
+Sleep-disordered breathing measure rho p-value 
+
+Obstructive apnea index 0.27 0.0055 
+Apnea/hypopnea index 0.28 0.0048 
+Respiratory disturbance index 0.32 0.0057 
+Minimum oxygen saturation -0.13 0.2041 
+EEG arousal index 0.09 0.3460 
+Percent sleep time with end-tidal CO2 > 50 mm Hg 0.16 0.1315 
+
+
+Most negative esophageal pressure (cm water) -0.28 0.0156 
+Percent of sleep time with esophageal pressure more negative than -10 cm water 0.33 0.0045 
+Delta RCREC 0.04 0.6940 
+Theta RCREC -0.02 0.8043 
+Alpha RCREC 0.22 0.0292 
+Sigma RCREC 0.30 0.0017 
+Beta RCREC 0.26 0.0072 
+
+
+* 
+
+Numbers of subjects varied in some analyses, depending on the availability of data for the specific polysomnographic variable (as listed in Table 1). 
+
+Sleep. Author manuscript; available in PMC 2006 July 1. 
+
+
+Chervin et al. Page 17 
+
+Table 3 
+
+Result of stepwise logistic regression model with subjective sleepiness as the outcome and all Table 2 variables 
+considered as potential explanatory variables.* 
+
+Explanatory Variable Beta s.e. Odds ratio [95% C.I.] p-value 
+
+Sigma RCREC (normalized) 0.73 0.30 2.1 [1.2, 3.7] 0.014 
+Alpha RCREC (normalized) 0.66 0.32 1.9 [1.0, 3.6] 0.039 
+
+
+* 
+
+Model maximum-rescaled R2 = 0.26. RCREC = respiratory cycle-related EEG changes.
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+Sleep. Author manuscript; available in PMC 2006 July 1. 
+
+
+Chervin et al. Page 18 
+
+Table 4 
+
+Logistic regression of subjective sleepiness on two selected explanatory variables.* 
+
+Explanatory Variable Beta s.e. Odds ratio [95% C.I.] p-value 
+
+Sigma RCREC (normalized) 0.62 0.25 1.9 [1.1, 3.0] 0.013 
+Apnea/hypopnea index (normalized) 0.96 0.40 2.6 [1.2, 5.7] 0.015 
+
+
+* 
+
+Model maximum-rescaled R2 = 0.24. RCREC = respiratory cycle-related EEG changes.
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+
+Sleep. Author manuscript; available in PMC 2006 July 1. 
+
+

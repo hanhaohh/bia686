@@ -1,0 +1,1186 @@
+Inattention, Hyperactivity, and Symptoms of Sleep-Disordered Breathing 
+
+Ronald D. Chervin, Kristen Hedger Archbold, James E. Dillon, Parviz Panahi, 
+Kenneth J. Pituch, Ronald E. Dahl and Christian Guilleminault 
+Pediatrics 2002;109;449-456 
+DOI: 10.1542/peds.109.3.449 
+
+
+The online version of this article, along with updated information and services, is 
+
+
+located on the World Wide Web at: 
+
+
+http://www.pediatrics.org/cgi/content/full/109/3/449 
+
+
+PEDIATRICS is the official journal of the American Academy of Pediatrics. A monthly 
+publication, it has been published continuously since 1948. PEDIATRICS is owned, published, and 
+trademarked by the American Academy of Pediatrics, 141 Northwest Point Boulevard, Elk Grove 
+Village, Illinois, 60007. Copyright © 2002 by the American Academy of Pediatrics. All rights 
+reserved. Print ISSN: 0031-4005. Online ISSN: 1098-4275. 
+
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+Inattention, Hyperactivity, and Symptoms of Sleep-Disordered Breathing 
+
+Ronald D. Chervin, MD, MS*; Kristen Hedger Archbold, PhD*; James E. Dillon, MD‡; Parviz Panahi, MD§; 
+Kenneth J. Pituch, MD§; Ronald E. Dahl, MD; and Christian Guilleminault, MD¶ 
+
+
+ABSTRACT. Objective. Inattention and hyperactivity 
+are frequent among children with sleep-disordered 
+breathing (SDB) and often improve when SDB is treated. 
+However, the frequency of SDB symptoms among inattentive 
+and hyperactive children has received little study. 
+
+Design. Cross-sectional survey. 
+
+Setting. Two university-affiliated but community-
+based general pediatrics clinics. 
+
+Patients. Patients consisted of N . 
+866 children (469 
+boys), aged 2.0 to 13.9 years (mean: 6.8 . 
+3.2 years), with 
+clinic appointments. 
+
+Measures. A validated Pediatric Sleep Questionnaire 
+assessed for habitual snoring (1 item), snoring severity (a 
+4-item subscale), sleepiness (4 items), and overall risk of 
+SDB (16 items). Parents also completed 2 common behavioral 
+measures, an inattention/hyperactivity scale (IHS) 
+derived from the Diagnostic and Statistical Manual of 
+Mental Disorders, Fourth Edition, and the hyperactivity 
+index (HI, expressed as a t score) of the Conners’ Parent 
+Rating Scale. 
+
+Results. Habitual snoring was reported in 16% (95% 
+confidence interval [CI]: 13, 19) of the participants. High 
+HI scores (>60) were found in 13% (95% CI: 11, 16) of all 
+participants, 22% (95% CI: 15, 29) of habitual snorers, and 
+12% (95% CI: 9, 14) of nonsnorers. Odds ratios between 
+HI >60 and each of the following were: habitual snoring, 
+
+2.2 (95% CI: 1.4, 3.6); 1 additional positive symptom-item 
+on the snoring scale, 1.3 (95% CI: 1.1, 1.5); 1 additional 
+positive item on the sleepiness scale, 1.6 (95% CI: 1.4, 2.0); 
+and a 1-standard deviation increase in the overall SDB 
+score, 1.7 (95% CI: 1.4, 2.0; all odds ratios age-and sex-
+adjusted). Results were similar for high IHS scores 
+(>1.25). Stratification by age and sex showed that most of 
+the association with snoring (but not sleepiness) derived 
+from boys <8 years old. 
+Conclusions. Inattention and hyperactivity among 
+general pediatric patients are associated with increased 
+daytime sleepiness and—especially in young boys— 
+snoring and other symptoms of SDB. If sleepiness and 
+SDB do influence daytime behavior, the current results 
+suggest a major public health impact. Pediatrics 2002;109: 
+449–456; child, sleep, sleep disorders, snoring, sleep apnea, 
+obstructive, disorders of excessive somnolence, Pediatric 
+
+From the *Sleep Disorders Center, Department of Neurology, ‡Division of 
+Child and Adolescent Psychiatry, Department of Psychiatry, and §Department 
+of Pediatrics and Communicable Diseases, University of Michigan, 
+Ann Arbor, Michigan; Child and Adolescent Sleep Laboratory, Departments 
+of Psychiatry and Pediatrics, University of Pittsburgh Medical Center, 
+Pittsburgh, Pennsylvania; and ¶Sleep Disorders Clinic, Department of 
+Psychiatry and Behavioral Sciences, Stanford University, Stanford, California. 
+Received for publication May 29, 2001; accepted Aug 8, 2001. 
+Address correspondence to Ronald D. Chervin, MD, MS, Michael S. Aldrich 
+Sleep Disorders Laboratory, 8D8702 University Hospital, Box 0117, 1500 E 
+Medical Center Dr, Ann Arbor, MI 48109-0117. E-mail: chervin@umich.edu 
+PEDIATRICS (ISSN 0031 4005). Copyright © 2002 by the American Academy 
+of Pediatrics. 
+
+Sleep Questionnaire, attention, hyperactivity, attention 
+deficit disorder with hyperactivity, child behavior disorders, 
+neuropsychological tests. 
+
+ABBREVIATIONS. ADHD, attention-deficit/hyperactivity disorder; 
+SDB, sleep-disordered breathing; PSQ, Pediatric Sleep Questionnaire; 
+DSM-IV, Diagnostic and Statistical Manual of Mental Disorders, 
+Fourth Edition; IHS, inattention/hyperactivity scale; HI, 
+hyperactivity index; CI, confidence interval. 
+
+I
+I
+nattentive and hyperactive behavior are highly 
+prevalent among school-aged children and are 
+often associated with a clinical psychiatric syndrome 
+such as attention-deficit/hyperactivity disorder 
+(ADHD).1 In many instances, unrecognized medical 
+conditions underlie the problematic behavior.2 
+One such medical condition may be obstructive 
+sleep-disordered breathing (SDB).3 Clinical series 
+from sleep disorders centers report that inattentive 
+and hyperactive behavior are common among children 
+with obstructive sleep apnea or upper airway 
+resistance syndrome4,5 and that treatment of either 
+form of SDB is often associated with improved behavior 
+and decreased need for stimulant medication.
+5,6 
+
+Obstructive sleep apnea is estimated to affect between 
+1% and 3% of school-aged children.7,8 The 
+prevalence of upper airway resistance syndrome remains 
+unknown, but may also be high.9 Between 7% 
+and 12% of children snore habitually and have a 
+particularly high risk for SDB.10 The high frequency 
+of pediatric SDB, the possibility that most children 
+(like adults11) remain undiagnosed, and evidence 
+that SDB can influence daytime behavior all combine 
+to suggest that occult SDB may have an important 
+impact among children with inattentive and hyperactive 
+behavior. 
+
+However, the frequency of SDB among inattentive 
+and hyperactive children has received little study. 
+Researchers found high frequencies of snoring 
+among 14 children with ADHD,12 among 31 children 
+with ADHD or academic problems,13 and among 27 
+ADHD patients at a child psychiatry clinic,14 but not 
+in a fourth sample of 21 ADHD children.15 These 
+studies were limited by small sample sizes, lack of 
+validation for survey instruments, low subject participation 
+rates, and variable definitions of snoring 
+and ADHD. The sample sizes did not allow stratification—
+based on age, sex, or other variables—that 
+could yield clues to why sleep and behavior might be 
+linked. Published polysomnographic studies of hyperactive 
+children involved even smaller samples, 
+
+PEDIATRICS Vol. 109 No. 3 March 2002 449
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+and most were performed before the importance of 
+respiratory monitoring was realized. Results suggested 
+either little or nonspecific sleep distur
+
+
+bance.16 –20 
+
+To further assess whether symptoms of SDB are 
+particularly frequent among children with inattentive 
+and hyperactive behavior, we administered a 
+previously validated instrument, the Pediatric Sleep 
+Questionnaire (PSQ),21 to a large sample of parents 
+who brought their children to either of 2 general 
+pediatric clinics. Parents also completed 2 validated 
+measures of inattention and hyperactivity. We then 
+compared the frequency of SDB symptoms among 
+hyperactive and nonhyperactive children. 
+
+METHODS 
+
+Participants 
+
+Recruitment procedures for this cohort have been described 
+previously.22 Briefly, parents who brought their children to 2 
+general pediatrics clinics were asked to sign an institutional review 
+board-approved informed consent for a study on “the sleep 
+and daytime behavior of children.” Study hypotheses were not 
+described in more detail, in part to avoid influencing survey 
+responses. Children 9 years old or able to understand the study 
+were asked to sign an informed assent. Inclusion criteria were as 
+follows: 1) age between 2.00 and 13.99 years, 2) parental ability to 
+read and write, and 3) absence of mental or physical impairment 
+severe enough to preclude interpretation of behavioral information 
+collected. Participants were recruited between February 6, 
+1998, and May 1, 2000, by research assistants who attempted to 
+approach all child-parent pairs at the clinics on designated days. 
+Both clinics are owned by the same large public university health 
+system, which only recently acquired one of the practices and now 
+employs 9 pediatricians at the 2 sites. The clinic population at both 
+sites is primarily community-based. Parents generally took between 
+20 and 30 minutes to complete the questionnaires. Data for 
+each child were included in this report if at least two thirds of the 
+items in the PSQ and each behavioral measure had been completed. 
+
+
+Measures 
+
+Parents, with encouragement to ask their children for help, 
+completed the PSQ in waiting rooms. This instrument contains 
+about 70 closed-question items with response options of “yes,” 
+“no,” or “don’t know.” Instructions focused responses on behavior 
+in general rather than recent days, during which the child may 
+have been acutely ill. A 22-item SDB scale within the PSQ serves 
+with adequate validity and reliability as a screen for polysomnographically 
+defined obstructive sleep apnea and upper airway 
+resistance syndrome.21 The SDB score is calculated as the proportion 
+of symptoms that are present. Among 27 sleep laboratory-
+referred children confirmed to have SDB and 54 children at a 
+general pediatrics clinic, the SDB scale showed a sensitivity of 0.81 
+and a specificity of 0.87. Subscales for snoring (Appendix 1, items 
+A2, A3, A4, and A5), excessive daytime sleepiness (items B1, B2, 
+B4, and B6), and daytime behavior (6 Diagnostic and Statistical 
+Manual of Mental Disorders, Fourth Edition [DSM-IV]-derived category 
+A symptoms of ADHD) each discriminated effectively between 
+the children with and without SDB.21 In the current study, 
+the 22-item SDB scale was used without the 6 behavioral items to 
+avoid artificial associations with hyperactive behavior. The shortened 
+SDB scale appears in Appendix 1. Item A2, which asks about 
+habitual snoring (defined as snoring more than half the time while 
+asleep), also was analyzed separately, and snoring frequency was 
+categorized according to parental indication that snoring occurred 
+never, ever, more than half the time, or always. 
+
+Parents completed 2 measures of inattention and hyperactivity. 
+The inattention/hyperactivity scale (IHS) asks parents to rate the 
+extent to which the 18 DSM-IV category A symptoms of ADHD 
+(Appendix 2) apply to their children. Assessment of behavior by 
+this method has a long history and the validity of the instrument 
+has been well-established.23–25 The IHS has been used in previous 
+studies of associations between childhood symptoms of SDB and 
+
+inattentive and hyperactive behavior.14 Responses are provided 
+on a 4-point Likert scale from 0 to 3. In the current study, a mean 
+item response (IHS score) greater than 1.25 was considered high. 
+This threshold is somewhat arbitrary but corresponds to 12 or 
+more positive responses (“2, applies quite a bit” or “3, definitely 
+applies most of the time”) among the 18 symptom-items. In the 
+DSM-IV, 6 chronic symptoms among 9 that relate to inattention, 
+plus 6 among 9 that relate to hyperactive/impulsive behavior, are 
+required to support a diagnosis of ADHD, combined type.26 
+
+The short form of the Conners’ Parent Rating Scale is a well-
+validated, 48-item instrument that can help to identify behavioral 
+problems in children.27 The instrument contains a Hyperactivity 
+Index (HI), composed of the 10 most relevant items, that is one of 
+the most widely used measures of the behavior. Symptoms are 
+rated by parents on a 4-point scale, and raw scores are converted 
+to age-and sex-adjusted t scores. These t scores range from 0 to 
+100 and average 50; scores that exceed this average by 1 standard 
+deviation (10 points) to 2 standard deviations (20 points) are 
+commonly considered to represent hyperactive behavior. In this 
+study, HI 60 was considered to reflect hyperactive behavior. 
+
+Analysis 
+
+Data were summarized with means and standard deviations or 
+by percentages and 95% confidence intervals (CIs). Logistic regression 
+models of IHS 1.25 or HI 60 were used to test for associations 
+with habitual snoring, snoring subscale scores, sleepiness 
+subscale scores, and overall SDB scores. All odds ratios and their 
+95% CIs were adjusted for age and sex. To examine interaction of 
+sleep-related symptoms with age and sex, the sample was stratified 
+and analyses repeated. Covariance between IHS and HI was 
+tested with the Spearman rank correlation coefficient . Attributable 
+risk percent and population attributable risk percent were 
+calculated according to standard procedures28 and contingent on 
+2 assumptions: that habitual snoring (or any associated SDB) can 
+cause hyperactivity (HI 60), and that the pediatric clinic population 
+prevalence of habitual snoring was that measured in the 
+current study. The attributable risk percent and the population 
+attributable risk percent then estimate, respectively, the proportion 
+of snoring, hyperactive children, and the proportion of all 
+hyperactive children whose behavioral problem could be eliminated 
+by treatment of snoring or any associated SDB. Analyses 
+were performed with SAS, version 6.12 (SAS Institute Inc, Cary, 
+NC). The level of significance was set at P . 
+.05. 
+
+RESULTS 
+
+Participants 
+
+Parents of approximately 1400 children were approached, 
+and data from 866 children were included 
+in these analyses. Among excluded children, parents 
+of 349 failed to finish a sleep or behavior questionnaire, 
+and the remainder refused to participate. The 
+mean participant age was 6.8 . 
+3.2 years, 469 (54%) 
+of the participants were boys, and 397 (46%) were 
+girls. These and other descriptive summaries of the 
+sample are shown in Table 1. Hyperactive behavior 
+was identified in similar proportions of the clinic 
+sample by both the IHS and the HI. The correlation 
+between these 2 scores (. 
+. 
+0.74; P . 
+.0001) suggested 
+considerable but not perfect overlap between 
+the measures. 
+
+Snoring, Sleepiness, SDB, and Associations With 
+Behavior 
+
+Habitual snoring showed a trend toward an association 
+with IHS 1.25 and a significant association 
+with HI 60 (Table 2). Among habitual snorers, 22% 
+(95% CI: 15, 29) had HI 60, whereas among nonhabitual 
+snorers, only 12% (95% CI: 9, 14) had HI 60. 
+The snoring, sleepiness, and SDB scores each showed 
+significant associations with the 2 outcomes. The 
+strength of these associations was not small. For 
+
+450 INATTENTION, HYPERACTIVITY, AND SLEEP-DISORDERED BREATHING
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+TABLE 1. Summary Measures (Mean . 
+Standard Deviation or Percentage and 95% CI) for 
+Explanatory and Outcome Variables 
+
+Variable All Participants Hyperactive* Not Hyperactive 
+(n . 
+866) (n . 
+98) (n . 
+768) 
+Age (y) 6.8 . 
+3.2 7.8 . 
+3.3 6.6 . 
+3.2 
+Male (%) 54 (51, 57) 73 (65, 82) 52 (48, 55) 
+Ever snores (%) 59 (56, 62) 62 (52, 72) 59 (55, 62) 
+Habitually snores (%) 16 (13, 19) 22 (13, 31) 15 (13, 18) 
+Always snores (%) 9 (7, 11) 14 (7, 21) 8 (6, 10) 
+Snoring score 0.17 . 
+0.28 0.23 . 
+0.34 0.17 . 
+0.27 
+Sleepiness score 0.16 . 
+0.24 0.31 . 
+0.32 0.14 . 
+0.22 
+SDB score 0.15 . 
+0.15 0.24 . 
+0.17 0.14 . 
+0.14 
+IHS 0.54 . 
+0.56 1.81 . 
+0.47 0.38 . 
+0.31 
+IHS 1.25 (%) 12 (10, 14) 100 0 
+HI 47 . 
+13 71 . 
+15 44 . 
+9 
+HI 60 (%) 13 (11, 16) 69 (60, 79) 6 (5, 8) 
+
+* Participants with IHS above 1.25. (This measure was used to split results because it is, in contrast to 
+the hyperactivity index, unadjusted for age and sex.) 
+TABLE 2. Conditional Logistic Regression Coefficients and Odds Ratios* for Hyperactive Behavior (IHS 1.25 or HI 60) and 
+Symptoms of SDB† 
+
+Symptom Change Modeled IHS 1.25 HI 60 
+Regression 
+Coefficient 
+Estimated 
+Odds Ratio 
+Regression 
+Coefficient 
+Estimated 
+Odds Ratio 
+(Standard Error) (95% CI) (Standard Error) (95% CI) 
+Habitual snoring 
+Snoring score 
+Sleepiness score 
+SDB scale 
+(normalized) 
+Present (vs absent) 
+One additional symptom 
+One additional symptom 
+Increase by 1 standard 
+deviation 
+0.52 (0.28)‡ 
+0.25 (0.09) 
+0.60 (0.10) 
+0.60 (0.10) 
+1.6 (1.0, 2.8) 
+1.3 (1.1, 1.5) 
+1.8 (1.5, 2.2) 
+1.8 (1.5, 2.2) 
+0.81 (0.25) 
+0.27 (0.08) 
+0.50 (0.09) 
+0.54 (0.09) 
+2.2 (1.4, 3.6) 
+1.3 (1.1, 1.5) 
+1.6 (1.4, 2.0) 
+1.7 (1.4, 2.0) 
+
+* Adjusted for age and sex. 
+† IHS Derived from DSM-IV category A symptoms of ADHD, HI derived from Conners’ Parent Rating Scale. 
+‡ P . 
+.06. All other P . 
+.01. 
+comparison, the unadjusted odds ratio for the long-
+recognized association1 between male sex and hyperactive 
+behavior—as reflected by IHS 1.25—was 2.7 
+(95% CI: 1.7, 4.3; adjustment for habitual snoring did 
+not change this odds ratio substantially). A trend 
+toward a dose-response relationship between reported 
+snoring frequency and behavior is shown 
+graphically in Fig 1. The attributable risk percent for 
+habitual snoring and HI 60 was 53%, and the population 
+attributable risk percent was 15%. 
+
+Associations Between Snoring and Sleepiness 
+
+Snoring scores correlated with sleepiness scores 
+(. 
+. 
+0.19; P . 
+.0001). After accounting for sleepiness 
+scores, the snoring scores showed somewhat less 
+robust associations with behavioral measures. The 
+odds ratio for HI 60 and habitual snoring was 
+reduced from 2.2 (95% CI: 1.4, 3.6) to 1.8 (95% CI: 1.1, 
+3.0), and the odds ratio for HI and snoring score was 
+reduced from 1.3 (95% CI: 1.1, 1.5) to 1.2 (95% CI: 1.0, 
+1.4). Conversely, after accounting for snoring scores, 
+sleepiness scores showed essentially no reduction in 
+association with behavioral measures. 
+
+Stratification by Age and Sex 
+
+Among the 469 boys in the sample, IHS and HI 
+each showed significant associations with habitual 
+snoring, snoring scores, sleepiness scores, and SDB 
+scores. Among habitually snoring boys, 28% (95% CI: 
+17, 38) had HI 60, whereas among nonhabitually 
+snoring boys, 12% (95% CI: 9, 16) had HI 60. 
+
+Among the 397 girls, only 2 of the 4 explanatory 
+variables—sleepiness scores and SDB scores— 
+showed associations with behavioral measures. Results 
+for HI are shown in Table 3. Logistic regression 
+models showed that the interactions of sex with each 
+of the 4 symptom variables failed to reach statistical 
+significance. 
+
+Division of the sample into 6 subcategories based 
+on age generally showed similar findings for the 
+youngest 3 groups and similar findings for the oldest 
+
+3. Data, therefore, are reported here for children 
+younger than 8 years in comparison with those 8 or 
+more years old. Among the 565 younger children in 
+the sample, IHS and HI each showed significant 
+associations with habitual snoring, snoring score, 
+sleepiness score, and SDB score. Among habitually 
+snoring children 8 years old, 22% (95% CI: 14, 31) 
+had HI 60, whereas among nonhabitually snoring 
+children in this age group, only 9% (6, 12) had HI 
+60. Among the 301 children who were 8 or more 
+years old, only 2 of the 4 explanatory variables— 
+again sleepiness score and SDB score—showed associations 
+with behavioral measures. Regression results 
+for HI are shown in Table 4. Interaction models 
+showed statistically significant effects of younger 
+versus older age on the associations between behavior 
+measures and habitual snoring (IHS only), snoring 
+score, and SDB score, but not on the association 
+between behavior measures and sleepiness scores 
+(P . 
+.10). 
+As suggested by the results for male children and 
+
+ARTICLES 451
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+Fig 1. The frequency of snoring (0 never, 1 ever snores, 2 
+snores more than half the time, 3 always snores) and the HI 
+showed a trend toward a dose-response relationship among all 
+participants (logistic regression; P .09). Box plots show medians 
+and the 10th, 25th, 75th, and 90th percentiles. 
+
+
+those for younger children, the subgroup of 295 boys 
+
+8 years old showed substantially stronger associations 
+between snoring measures and behavior than 
+did the remaining 571 children (Table 5). The HI was 
+associated with snoring frequency among young 
+boys (Fig 2A) but not among young girls (Fig 2B), 
+older boys (Fig 2C), or older girls (Fig 2D). Among 
+habitually snoring young boys, 30% (95% CI: 17, 43) 
+had HI 60, whereas among nonhabitually snoring 
+young boys, only 9% (95% CI: 5, 13) had HI 60. 
+Among all the young boys in this study, the attributable 
+risk percent for habitual snoring and HI 60 
+was 77%, and the population attributable risk percent 
+was 39%. 
+Among young boys, adjustment for sleepiness 
+somewhat reduced the association between snoring 
+and behavioral measures. For example, the odds ratio 
+for HI 60 and habitual snoring was reduced 
+from 4.3 (95% CI: 2.0, 9.1) to 3.5 (95% CI: 1.6, 7.6), and 
+
+the odds ratio for HI 60 and snoring score was 
+reduced from 1.8 (95% CI: 1.4, 2.3) to 1.6 (95% CI: 1.3, 
+2.1). Conversely, adjustment for snoring also somewhat 
+reduced the association between sleepiness and 
+behavioral measures. For example, adjustment for 
+habitual snoring reduced the odds ratio for HI 60 
+and sleepiness from 1.8 (95% CI: 1.3, 2.5) to 1.7 (95% 
+
+CI: 1.2, 2.4), and adjustment for snoring score reduced 
+it to 1.5 (95% CI: 1.1, 2.1). 
+DISCUSSION 
+
+This cross-sectional study of children at 2 general 
+pediatrics clinics shows substantial associations between 
+several SDB symptoms and measures of inattention 
+and hyperactivity. Inattentive and hyperactive 
+children were reported to have more frequent 
+snoring, more severe daytime sleepiness, and higher 
+scores on an overall scale that identifies SDB with 
+reasonable validity and reliability. The link between 
+snoring measures and behavior resulted from a particularly 
+strong association among young boys, and 
+could not be demonstrated in children outside this 
+group. In contrast, sleepiness and overall SDB scores 
+showed similar associations with behavior among 
+young boys and other age-and sex-defined groups. 
+Although a correlative study design does not permit 
+conclusions about causality, the current results suggest 
+that SDB and daytime sleepiness may be important 
+considerations in a large number children who 
+exhibit inattentive and hyperactive behavior. 
+
+This study is distinguished from previous research 
+on sleep in hyperactive children by its large sample 
+size and by use of validated instruments to assess 
+both explanatory and outcome variables. The current 
+findings support previous suggestions that SDB is 
+more common in hyperactive children,12–14 and suggest 
+that failure to reach the same conclusions in the 
+past may have been attributable to methodological 
+limitations.15 The current study also allowed specification 
+of the strength of the association, within relatively 
+narrow CIs. Habitual snoring increased the 
+chance of hyperactivity—as reflected by scores commonly 
+considered abnormal on the Conners’ Parent 
+Rating Scale HI—from 12% to 22% among all the 
+children (odds ratio: 2.2), and from 9% to 30% among 
+young boys (odds ratio: 4.3). 
+
+Our study also showed that excessive daytime 
+sleepiness is linked to inattention and hyperactivity. 
+
+TABLE 3. Stratification by Sex: Conditional Logistic Regression Coefficients and Odds Ratios* for Hyperactive Behavior (HI 60) and 
+Symptoms of SDB† 
+
+Symptom Change Modeled Boys (n . 
+469) Girls (n . 
+397) 
+Regression 
+Coefficient 
+Estimated 
+Odds Ratio 
+Regression 
+Coefficient 
+Estimated 
+Odds Ratio 
+(Standard Error) (95% CI) (Standard Error) (95% CI) 
+Habitual snoring 
+Snoring score 
+Sleepiness score 
+SDB scale 
+(normalized) 
+Present (vs absent) 
+One additional symptom 
+One additional symptom 
+Increase by 1 standard 
+deviation 
+1.05 (0.31) 
+0.37 (0.10) 
+0.43 (0.12) 
+0.54 (0.12) 
+2.8 (1.5, 5.2) 
+1.4 (1.2, 1.8) 
+1.5 (1.2, 1.9) 
+1.7 (1.4, 2.2) 
+0.39 (0.43)‡ 
+0.12 (0.13)‡ 
+0.62 (0.15) 
+0.55 (0.14) 
+1.5 (0.6, 3.3) 
+1.1 (0.9, 1.4) 
+1.9 (1.4, 2.5) 
+1.7 (1.3, 2.3) 
+
+* Adjusted for age. 
+† HI derived from Conners’ Parent Rating Scale. 
+‡ P . 
+.10. All other P . 
+.001. 
+452 INATTENTION, HYPERACTIVITY, AND SLEEP-DISORDERED BREATHING
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+TABLE 4. Stratification by Age: Conditional Logistic Regression Coefficients and Odds Ratios* for Hyperactive Behavior (HI 60) 
+and Symptoms of SDB† 
+
+Symptom Change Modeled Age 8 Years (n . 
+565) Age 8 Years (n . 
+301) 
+Regression 
+Coefficient 
+Estimated 
+Odds Ratio 
+Regression 
+Coefficient 
+Estimated 
+Odds Ratio 
+(Standard Error) (95% CI) (Standard Error) (95% CI) 
+Habitual snoring 
+Snoring score 
+Sleepiness score 
+SDB scale 
+(normalized) 
+Present (vs absent) 
+One additional symptom 
+One additional symptom 
+Increase by 1 standard 
+deviation 
+1.02 (0.30) 
+0.39 (0.09) 
+0.59 (0.12) 
+0.68 (0.12) 
+2.8 (1.5, 4.9) 
+1.5 (1.2, 1.8) 
+1.8 (1.4, 2.3) 
+2.0 (1.6, 2.5) 
+0.32 (0.46)‡ 
+0.09 (0.17)‡ 
+0.37 (0.14) 
+0.30 (0.15) 
+1.4 (0.5, 3.3) 
+0.9 (0.6, 1.3) 
+1.5 (1.1, 1.9) 
+1.4 (1.0, 1.8) 
+
+* Adjusted for age and sex. 
+† HI derived from Conners’ Parent Rating Scale. 
+‡ P . 
+.10. All other P . 
+.05. 
+TABLE 5. Stratification by Age and Sex: Conditional Logistic Regression Coefficients and Odds Ratios* for Hyperactive Behavior 
+(HI 60) and Symptoms of SDB† 
+
+Symptom Change Modeled Boys 8 Years Old (n . 
+295) Remaining Children (n . 
+571) 
+Regression 
+Coefficient 
+Estimated 
+Odds Ratio 
+Regression 
+Coefficient 
+Estimated 
+Odds Ratio 
+(Standard Error) (95% CI) (Standard Error) (95% CI) 
+Habitual snoring 
+Snoring score 
+Sleepiness score 
+SDB scale 
+(normalized) 
+Present (vs absent) 
+One additional symptom 
+One additional symptom 
+Increase by 1 standard 
+deviation 
+1.46 (0.38) 
+0.58 (0.13) 
+0.60 (0.16) 
+0.77 (0.16) 
+4.3 (2.0, 9.1) 
+1.8 (1.4, 2.3) 
+1.8 (1.3, 2.5) 
+2.2 (1.6, 3.0) 
+0.33 (0.35)‡ 
+0.04 (0.12)‡ 
+0.46 (0.11) 
+0.44 (0.11) 
+1.4 (0.7, 2.7) 
+1.0 (0.8, 1.3) 
+1.6 (1.3, 2.0) 
+1.5 (1.2, 1.9) 
+
+* Adjusted for age and (for remaining children) sex. 
+† HI derived from Conners’ Parent Rating Scale. 
+‡ P . 
+.10. All other P . 
+.0001. 
+This finding is consistent with data from sleep-disordered 
+(and often sleepy) children referred to sleep 
+clinics,4,5,29–33 neurophysiological evidence of hypoarousal 
+in ADHD,34 and improvement in behavior 
+and hypoarousal among ADHD children treated 
+with stimulants.35,36 Our finding that adjustment for 
+snoring did not greatly diminish the association between 
+sleepiness and ADHD-like behavior is consistent 
+with the fact that in many children, sleepiness is 
+not a result of SDB. The most common cause of 
+daytime sleepiness in school-aged children is insufficient 
+sleep.37 The desire of working parents to 
+spend evenings with their children and still bring 
+them to day care or school early in the morning may 
+infringe on sleep time. Homework, computer games, 
+television, sports, lessons, social commitments, and 
+after-school jobs may all conspire to leave little time 
+for sleep. An underlying tendency to have a delayed 
+sleep phase, especially as adolescence approaches, 
+may combine with early school start times to produce 
+excessive sleepiness in many youngsters. 
+
+This study explored, for the first time, the influence 
+of age and sex on associations between behavior 
+and sleep-related symptoms. Sleepiness seems to be 
+linked to hyperactive behavior in both boys and girls 
+and throughout childhood and early adolescence. In 
+contrast, the association between snoring and behavior 
+seems to be stronger among younger children 
+than among older children. Snoring might be predicted 
+to be more common among children younger 
+than 8 years—tonsils and adenoids are largest relative 
+to upper airway size between ages 3 and 638— 
+but in our cohort, snoring frequency did not vary 
+significantly between 6 different age groups.39 Snor
+
+
+ing and obstructive SDB may well be caused by 
+anatomic and neurophysiological factors that differ 
+between young children and adults.40 Upper airways 
+of older children may resemble those of adults more 
+closely than those of young children. If so, habitual 
+snoring may reveal different information depending 
+on a child’s age. Another possibility is that snoring or 
+related SDB may have different consequences in 
+younger and older children because of age-specific 
+central nervous system vulnerabilities or sleep architecture.
+41 
+
+Snoring also differed from sleepiness in that it 
+showed significant associations with behavior only 
+among boys (although the difference between sexes 
+did not reach statistical significance). Obstructive 
+SDB is believed to occur in approximately equal 
+proportions of boys and girls,42 and snoring did not 
+differ significantly with sex in our cohort.39 However, 
+ADHD is several times more common among 
+boys than girls,43 which raises the possibility of a 
+sex-based vulnerability to any influence that SDB 
+may have on behavior. 
+
+Several limitations of the current study must be 
+considered in the interpretation of results. The PSQ 
+SDB scale has good ability to predict sleep laboratory-
+confirmed SDB and is much easier to administer 
+in large samples, but it cannot replace full polysomnography. 
+Our results may have been subject to biases 
+inherent to surveys. For example, parental rating 
+levels for sleep and behavioral symptoms both 
+may have been influenced in the same direction by 
+parent-specific variables. Many potential third variables 
+remained uncontrolled in this study, which 
+used broad inclusion criteria, in an effort to maxi-
+
+ARTICLES 453
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+Fig 2. The frequency of snoring (see Fig 1 legend) and the HI showed a dose-response relationship among boys 8 years old (P . 
+.003; 
+A), but no significant association (P . 
+.10) among girls 8 years old (B), boys 8 years old (C), or girls 8 years old (D). 
+
+mize generalizability, at the risk of introducing un-ization of results to children who meet full DSM-IV 
+suspected confounds. This study purposefully fo-criteria for ADHD. 
+cused not on diagnoses of ADHD, but on inattentive Despite these considerations, the robust associaand 
+hyperactive behavior as defined by well-vali-tions between SDB symptoms and hyperactivity are 
+dated measures. This choice improved uniformity in consistent with the possibility that the sleep disorder 
+identification of the most hyperactive 12% or 13% of may contribute to the behavior in some children. The 
+pediatric patients, but now prevents precise general-mechanism by which this may occur is uncertain, but 
+
+454 INATTENTION, HYPERACTIVITY, AND SLEEP-DISORDERED BREATHING
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+sleep disruption, sleep deprivation, inadequate oxygen 
+saturation, and many other physiologic changes 
+associated with SDB could play important roles. The 
+association we identified between behavior and 
+snoring was somewhat reduced after taking sleepiness 
+into account: this suggests that sleepiness could 
+act, to some extent, as an intermediary variable. Children 
+who are sleepy may be more likely to shift their 
+attention frequently and create stimulation to keep 
+themselves awake, especially at young ages when 
+wakefulness is essential to rapid learning.15,32,44 
+
+In adults, SDB is associated with significant cognitive 
+changes and excessive sleepiness which show 
+some correlation with levels of both sleep disruption 
+and oxygen desaturation.45,46 In children, experimental 
+sleep deprivation impairs cognitive function,
+47,48 and elementary school children with SDB 
+achieve low grades that improve when the SDB is 
+treated.49 Cognitive changes associated with untreated 
+SDB may promote inattentive and hyperactive 
+behavior. At sleep laboratories, little work has 
+been done to determine which polysomnographic 
+features and physiologic variables are most closely 
+associated with hyperactive behavior. Recent data 
+from 113 children referred to our laboratory for suspected 
+SDB suggest that apnea and hypopnea rates 
+and minimum oxygen saturation do not predict HI.50 
+However, sleepiness was not measured directly and 
+may not be reflected adequately by the other SDB 
+measures.46 Data from adults show that sleep laboratory 
+measures of SDB do not fully account for the 
+association between snoring and sleepiness,51 which 
+suggests that sleep laboratory measures in children 
+also may fail to account for the association between 
+snoring and daytime behavior. 
+
+Alternatively, current findings could have resulted 
+from the influence of an unstudied third variable. 
+Our cross-sectional study did not determine whether 
+hyperactivity or symptoms of SDB occurred first. 
+The possibility that hyperactive behavior leads to 
+some SDB symptoms cannot be excluded. Hyperactive 
+children often have disturbed, restless sleep that 
+potentially could explain increased daytime sleepiness.
+52–55 However, no ready explanation has been 
+proposed for how hyperactivity or restless sleep 
+might increase snoring. Clinical series and one quasi-
+experimental study of children treated for SDB (by 
+tonsillectomy) or for other surgical problems suggested 
+that treatment for SDB improves inattention 
+and hyperactivity.5,6 Additional controlled trials and 
+polysomnographic studies will be needed to clarify 
+whether SDB does actually contribute to inattention 
+and hyperactivity. 
+
+If habitual snoring or any underlying SDB is a 
+cause of hyperactive behavior in some children, the 
+population attributable risk percent suggests that a 
+substantial percentage of children with HI 60 (15%) 
+could be effectively treated by identification and 
+treatment of habitual snoring and any underlying 
+SDB. Among hyperactive young boys, this figure 
+rises to 39%. In a previous smaller study that compared 
+ADHD patients at a child psychiatry clinic to 
+non-ADHD patients at a general pediatrics clinic, we 
+estimated the population attributable risk percent for 
+
+habitual snoring to be 25%.14 These estimates can be 
+misleading in case-control studies, but are more reliable 
+to the extent that the sample is population-
+based. The current estimates, derived from a large 
+sample in 2 predominantly community-based pediatric 
+practices, suggest that SDB could constitute a 
+substantial public health burden. 
+
+APPENDIX 1 
+
+Pediatric Sleep Questionnaire items from which 
+explanatory variables were derived. 
+
+WHILE SLEEPING, DOES YOUR CHILD . . . 
+
+A2 . . . snore more than half the time? 
+
+A3 . . . always snore? 
+
+A4 . . . snore loudly? 
+
+A5 . . . have “heavy” or loud breathing? 
+
+A6 . . . have trouble breathing, or struggle to breathe? 
+HAVE YOU EVER ... 
+
+A7 . . . seen your child stop breathing during the night? 
+DOES YOUR CHILD . . . 
+
+A24 . . . tend to breathe through the mouth during the day? 
+
+A25 . . . have a dry mouth on waking up in the morning? 
+
+A32 . . . occasionally wet the bed? 
+DOES YOUR CHILD . . . 
+
+B1 . . . wake up feeling unrefreshed in the morning? 
+
+B2 . . . have a problem with sleepiness during the day? 
+
+B4 Has a teacher or other supervisor commented that your 
+child appears sleepy during the day? 
+
+B6 Is it hard to wake your child up in the morning? 
+
+B7 Does your child wake up with headaches in the morning? 
+
+B9 Did your child stop growing at a normal rate at any time 
+since birth? 
+
+B22 Is your child overweight? 
+
+APPENDIX 2 
+
+The IHS question-items, derived from DSM-IV category 
+A symptoms of ADHD. 
+
+THIS CHILD OFTEN . . . 
+
+1 . . . fails to give close attention to details or makes careless 
+mistakes in schoolwork, work or other activities 
+2 . . . often has difficulty sustaining attention in tasks or play 
+activities 
+3 . . . does not seem to listen when spoken to directly 
+4 . . . does not follow through on instructions and fails to finish 
+schoolwork, chores or duties 
+5 . . . has difficulty organizing task and activities 
+6 . . . avoids, dislikes, or is reluctant to engage in tasks or 
+activities that require sustained mental effort (such as homework 
+or schoolwork) 
+7 . . . loses things necessary for tasks or activities (eg, toys, 
+school assignments, pencils, books or tools) 
+8 . . . is easily distracted by extraneous stimuli 
+9 . . . is forgetful in daily activities 
+10 . . . fidgets with hands or feet or squirms in seat 
+11 . . . leaves seat in classroom or in other situations in which 
+remaining seated is expected 
+12 . . . runs about or climbs excessively in situations in which it 
+is inappropriate 
+13 . . . has difficulty playing or engaging in leisure activities 
+quietly 
+14 . . . is “on the go” or often acts as if “driven by a motor” 
+15 . . . talks excessively 
+16 . . . blurts out answers before questions have been completed 
+17 . . . has difficulty awaiting his/her turn 
+18 . . . interrupts or intrudes on others (eg, butts into conversations 
+or games) 
+ACKNOWLEDGMENTS 
+
+This study was supported by the National Institute for Neurological 
+Disorders and Stroke (K02-NS02009) and the University of 
+Michigan General Clinical Research Center (M01-RR00042). 
+
+We thank Morton B. Brown, PhD, Professor of Biostatistics, 
+University of Michigan School of Public Health, for advice on 
+
+ARTICLES 455
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+study design and analysis; the parents and children who took the 
+time to complete questionnaires so that other children might benefit; 
+and the graduate and undergraduate research assistants who 
+patiently recruited participants at the 2 clinics. 
+
+REFERENCES 
+
+1. Barkley RA. Attention-Deficit Hyperactivity Disorder: A Handbook for Diagnosis 
+and Treatment. New York, NY: Guilford Press; 1990 
+2. Zametkin AJ, Ernst M. Problems in the management of attention-deficithyperactivity 
+disorder. N Engl J Med. 1999;340:40 –46 
+3. Chervin RD. Attention-deficit–hyperactivity disorder [letter]. N Engl 
+J Med. 1999;340:1766 
+4. Guilleminault C, Korobkin R, Winkle R. A review of 50 children with 
+obstructive sleep apnea syndrome. Lung. 1981;159:275–287 
+5. Guilleminault C, Winkle R, Korobkin R, Simmons B. Children and 
+nocturnal snoring—evaluation of the effects of sleep related respiratory 
+resistive load and daytime functioning. Eur J Pediatr. 1982;139:165–171 
+6. Ali NJ, Pitson D, Stradling JR. Sleep disordered breathing: effects of 
+adenotonsillectomy on behaviour and psychological functioning. Eur 
+J Pediatr. 1996;155:56 –62 
+7. Ali NJ, Pitson DJ, Stradling JR. Snoring, sleep disturbance, and behaviour 
+in 4 –5 year olds. Arch Dis Child. 1993;68:360 –366 
+8. Gislason T, Benediktsdottir B. Snoring, apneic episodes, and nocturnal 
+hypoxemia among children 6 months to 6 years old. An epidemiologic 
+study of lower limit of prevalence. Chest. 1995;107:963–966 
+9. 
+Downey RI, Perkin RM, MacQuarrie J. Upper airway resistance 
+syndrome: sick, symptomatic but underrecognized. Sleep. 1993;16: 
+620–623 
+10. American Thoracic Society. Medical Section of the American Lung 
+Association. Standards and indications for cardiopulmonary sleep studies 
+in children. Am J Resp Crit Care Med. 1996;153:866 –878 
+11. Young T, Evans L, Finn L, Palta M. Estimation of the clinically diagnosed 
+proportion of sleep apnea syndrome in middle-aged men and 
+women. Sleep. 1997;20:705–706 
+12. Simonds JF, Parraga H. Sleep behaviors and disorders in children and 
+adolescents evaluated at psychiatric clinics. Dev Behav Pediatr. 1984;5: 
+6–10 
+13. Weissbluth M, Davis AT, Poncher J, Reiff J. Signs of airway obstruction 
+during sleep and behavioral, developmental, and academic problems. 
+Dev Behav Pediatr. 1983;1983:119 –121 
+14. Chervin RD, Dillon JE, Bassetti C, Ganoczy DA, Pituch KJ. Symptoms of 
+sleep disorders, inattention, and hyperactivity in children. Sleep. 1997; 
+20:1185–1192 
+15. Carskadon MA, Pueschel SM, Millman RP. Sleep-disordered breathing 
+and behavior in three risk groups: preliminary findings from parental 
+reports. Childs Nerv Syst. 1993;9:452–457 
+16. Busby K, Firestone P, Pivik RT. Sleep patterns in hyperkinetic and 
+normal children. Sleep. 1981;4:366 –383 
+17. Greenhill L, Puig-Antich J, Goetz R, Hanlon C, Davies M. Sleep architecture 
+and REM sleep measures in prepubertal children with attention 
+deficit disorder with hyperactivity. Sleep. 1983;6:91–101 
+18. Haig JR, Schroeder CS, Schroeder SR. Effects of methylphenidate on 
+hyperactive children’s sleep. Psychopharmacologia (Berl). 1974;37:185–188 
+19. Small A, Hibi S, Feinberg I. Effects of dextroamphetamine sulfate on 
+EEG sleep patterns of hyperactive children. Arch Gen Psychiatry. 1971; 
+25:369–380 
+20. Palm L, Persson E, Bjerre I, Elmqvist D, Blennow G. Sleep and wakefulness 
+in preadolescent children with deficits in attention, motor control 
+and perception. Acta Paediatr. 1992;81:618 –624 
+21. Chervin RD, Hedger KM, Dillon JE, Pituch KJ. Pediatric Sleep Questionnaire 
+(PSQ): validity and reliability of scales for sleep-disordered 
+breathing, snoring, sleepiness, and behavioral problems. Sleep Med. 
+2000;1:21–32 
+22. Chervin RD, Hedger KM, Panahi P, Pituch KJ. Sleep problems seldom 
+addressed at two general pediatric clinics. Pediatrics. 2001;6:1375–1380 
+23. Pelham WE Jr, Gnagy EM, Greenslade KE, Milich R. Teacher ratings of 
+DSM-III-R symptoms for the disruptive behavior disorders. J Am Acad 
+Child Adolesc Psychiatry. 1992;31:210 –218 
+24. Gadow KD, Sprafkin J. 
+Child Symptom Inventory-4. Stony Brook, NY: 
+Checkmate Plus; 1994 
+25. 
+Swanson JM, Sandman E, Deutsch C, Baren M. Methylphenidate 
+(Ritalin) given with or before breakfast: Part I. Behavioral, cognitive, 
+and electrophysiological effects. Pediatrics. 1983;72:49 –55 
+26. American Psychiatric Association. 
+Diagnostic and Statistical Manual of 
+Mental Disorders, Fourth Edition. Washington, DC: American Psychiatric 
+Association; 1994 
+27. Conners CK, Barkley RA. Rating scales and checklists for child psycho-
+pharmacology. Psychopharmacol Bull. 1985;21:809 –868 
+
+28. Hennekens CH, Buring JE. Epidemiology in Medicine. Boston, MA: Little, 
+Brown and Company; 1987 
+29. Anders TF, Carskadon MA, Dement WC, Harvey K. Sleep habits of 
+children and the identification of pathologically sleepy children. Child 
+Psychiatry Hum Dev. 1978;9:56 –63 
+30. Brouillette RT, Fernbach SK, Hunt CE. Obstructive sleep apnea in 
+infants and children. J Pediatr. 1982;100:31–40 
+31. Dahl RE, Holttum J, Trubnick L. A clinical picture of child and adolescent 
+narcolepsy. J Am Acad Child Adolesc Psychiatry. 1994;33:834 –841 
+32. Navelet Y, Anders T, Guilleminault C. Narcolepsy in children. In: 
+Guilleminault C, Dement WC, Passouant P, eds. Narcolepsy. New York, 
+NY: Spectrum Publications, Inc; 1976:171–177 
+33. Picchietti DL, Walters AS. Moderate to severe periodic limb movement 
+disorder in childhood and adolescence. Sleep. 1999;22:297–300 
+34. Weinberg WA, Harper CR. Vigilance and its disorders. 
+Neurol Clin. 
+1993;11:59–78 
+35. Bradley C. The behavior of children receiving benzedrine. Am J Psychiatry. 
+1937;94:577–585 
+36. Bradley C, Bowen M. Amphetamine (benzedrine) therapy of children’s 
+behavior disorders. Am J Orthopsychiatry. 1941;11:92–103 
+37. Brown LW, Billiard M. Narcolepsy, Kleine-Levin syndrome, and other 
+causes of sleepiness in children. In: Ferber R, Kryger M, eds. Principles 
+and Practice of Sleep Medicine in the Child. Philadelphia, PA: WB Saunders 
+Company; 1995:125–134 
+38. Jeans WD, Fernando DCJ, Maw AR, Leighton BC. A longitudinal study 
+of the growth of the nasopharynx and its contents in normal children. 
+Br J Radiol. 1981;54:117–121 
+39. Hedger KM, Pituch KJ, Chervin RD. Estimated frequency of obstructive 
+sleep-related breathing disorders in general pediatric practices. Sleep. 
+2000;23:A99 
+40. Marcus CL. Pathophysiology of childhood obstructive sleep apnea: 
+current concepts. Respir Physiol. 2000;1. 19:143–154 
+41. Anders TF, Sadeh A, Appareddy V. Normal sleep in neonates and 
+children. In: Ferber R, Kryger M, eds. Principles and Practice of Sleep 
+Medicine in the Child. Philadelphia, PA: WB Saunders Company; 1995: 
+7–18 
+42. Leach J, Olson J, Hermann J, Manning S. Polysomnographic and clinical 
+findings in children with obstructive sleep apnea. Arch Otolaryngol Head 
+Neck Surg. 1992;118:741–744 
+43. Szatmari P, Offord DR, Boyle MH. Ontario Child Health Study: prevalence 
+of attention deficit disorder with hyperactivity. J Child Psychol 
+Psychiatry. 1989;30:219 –230 
+44. Hansen DE, Vandenberg B. Neuropsychological features and differential 
+diagnosis of sleep apnea syndrome in children. J Clin Child Psychol. 
+1997;26:304–310 
+45. Cheshire K, Engleman H, Deary I, Shapiro C, Douglas NJ. Factors 
+impairing daytime performance in patients with sleep apnea/hypopnea 
+syndrome. Arch Intern Med. 1992;152:538 –541 
+46. Chervin RD, Aldrich MS. Characteristics of apneas and hypopneas 
+during sleep and relation to excessive daytime sleepiness. Sleep. 1998; 
+21:799–806 
+47. Randazzo AC, Muehlbach MJ, Schweitzer PK, Walsh JK. Cognitive 
+function following acute sleep restriction in children ages 10 –14. Sleep. 
+1998;21:861–868 
+48. Dahl RE. The impact of inadequate sleep on children’s daytime cognitive 
+function. Semin Pediatr Neurol. 1996;3:44 –50 
+49. Gozal D. Sleep-disordered breathing and school performance in children. 
+Pediatrics. 1998;102:616 –620 
+50. Chervin RD, Archbold KH. Hyperactivity and polysomnographic findings 
+in children evaluated for sleep-disordered breathing. Sleep. 2001; 
+24:313–320 
+51. Gottlieb DJ, Yao Q, Redline S, Mahowald MW. Does snoring predict 
+sleepiness independently of apnea and hypopnea frequency? Am J Resp 
+Crit Care Med. 2000;162:1512–1517 
+52. Kaplan BJ, McNicol J, Conte RA, Moghadam HK. Sleep disturbance in 
+preschool-aged hyperactive and nonhyperactive children. Pediatrics. 
+1987;80:839–844 
+53. Ring A, Stein D, Barak Y, Teicher A, Hadjez J, Elizur A, Weizman A. 
+Sleep disturbances in children with attention-deficit/hyperactivity 
+disorder: a comparative study with healthy siblings. J Learn Disabil. 
+1998;31:572–578 
+54. Marcotte AC, Thacher PV, Butters M, Bortz J, Acebo C, Carskadon MA. 
+Parental report of sleep problems in children with attentional and 
+learning disorders. J Dev Behav Pediatr. 1998;19:178 –186 
+55. Owens JA, Maxim R, Nobile C, McGuinn M, Msall M. Parental and 
+self-report of sleep in children with attention-deficit/hyperactivity disorder. 
+Arch Pediatr Adolesc Med. 2000;154:549 –555 
+456 INATTENTION, HYPERACTIVITY, AND SLEEP-DISORDERED BREATHING
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+Inattention, Hyperactivity, and Symptoms of Sleep-Disordered Breathing 
+
+Ronald D. Chervin, Kristen Hedger Archbold, James E. Dillon, Parviz Panahi, 
+Kenneth J. Pituch, Ronald E. Dahl and Christian Guilleminault 
+Pediatrics 2002;109;449-456 
+
+
+DOI: 10.1542/peds.109.3.449 
+& Services 
+Updated Information 
+http://www.pediatrics.org/cgi/content/full/109/3/449 
+including high-resolution figures, can be found at: 
+Citations 
+s 
+http://www.pediatrics.org/cgi/content/full/109/3/449#otherarticle 
+This article has been cited by 45 HighWire-hosted articles: 
+Subspecialty Collections 
+ry 
+http://www.pediatrics.org/cgi/collection/neurology_and_psychiat 
+Neurology & Psychiatry 
+following collection(s): 
+This article, along with others on similar topics, appears in the 
+Permissions & Licensing 
+http://www.pediatrics.org/misc/Permissions.shtml 
+tables) or in its entirety can be found online at: 
+Information about reproducing this article in parts (figures, 
+Reprints 
+http://www.pediatrics.org/misc/reprints.shtml 
+Information about ordering reprints can be found online: 
+
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+

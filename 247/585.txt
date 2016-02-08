@@ -1,0 +1,899 @@
+SLEEP-DISORDERED BREATHING 
+Health-related Quality of Life and Sleep-disordered Breathing in Children 
+
+Carol L. Rosen, MD1; Tonya M. Palermo, PhD2; Emma K. Larkin, MHS1; and Susan Redline, MD, MPH1 
+
+Department of Pediatrics, 1Divisions of Clinical Epidemiology and 2Behavioral Pediatrics and Psychology, Rainbow Babies & Children’s Hospital, 
+
+Case Western Reserve University School of Medicine, Cleveland, OH 
+
+Study Objectives: To assess the extent to which sleep-disordered 
+breathing (SDB) is associated with impairment of health-related quality of 
+life (HRQOL) in children 
+Design: Observational study of pediatric participants in a longitudinal 
+genetic-epidemiologic cohort study of SDB 
+Setting: Community-based; studies conducted at participants’ homes 
+Participants: 298 children, aged 11.1 years +/- 3.5 SD; 54% females; 
+61% African-American or Other; 81% with a family member identified with 
+laboratory-confirmed SDB 
+Interventions: Not applicable 
+Measurements and Results: The HRQOL was assessed with the Child 
+Health Questionnaire (CHQ-PF50), a 50-item parent-completed form that 
+measures 14 multidimensional health concepts. Sleep-disordered breath-
+
+INTRODUCTION 
+
+SLEEP-DISORDERED BREATHING (SDB) IS A COMMON MEDICAL 
+DISORDER IN ADULTS THAT IS INCREASINGLY RECOGNIZED 
+IN CHILDREN, estimated to occur in 1% to 3% of children.1,2 
+It is characterized by habitual snoring and recurrent apneic and hypopneic 
+episodes that disrupt nocturnal ventilation and sleep quality. Failure 
+to diagnose and treat SDB can result in serious, but generally 
+reversible consequences for the child, including impaired growth, neurocognitive 
+and behavioral dysfunction, and cardiorespiratory failure.3 
+In childhood, SDB is commonly associated with adenotonsillar hypertrophy. 
+Most children will have symptomatic resolution of SDB following 
+adenotonsillectomy.4 The impact of SDB on functional outcomes 
+in children is not well characterized. Increasing attention is being 
+paid to the potential negative impact of SDB on daytime neurocognitive 
+and behavioral dysfunction.5-13 
+
+Measurement of health-related quality of life (HRQOL) is increasingly 
+recognized to provide important information to describe the health 
+status of various clinical samples and to gauge the effects of healthcare 
+delivery systems or specific interventions.14 In adults, SDB is associated 
+with impaired quality of life, especially decreases in vitality and 
+physical functioning scales as measured by a HRQOL tool, the SF-36.15 
+The relationship between SDB and impaired HRQOL is well recognized 
+in adults,15-27 but little attention has been paid to the impact of SDB and 
+its treatment on HRQOL in children. 
+
+Measurement of HRQOL provides an opportunity to assess the 
+impact of SDB on the child’s daily activities, physical symptoms, social 
+interactions, and emotional well being. Uncertainty about diagnostic 
+
+Disclosure Statement 
+
+Support: K23 MH01837 (Dr. Palermo), RO1HL60957 (Dr. Redline) and K23 
+HL04426 (Dr. Rosen) 
+
+Submitted for publication January 2002 
+Accepted for publication April 2002 
+
+Address correspondence to: Carol Rosen, MD; Department of Pediatrics, Rainbow 
+Babies & Children’s Hospital, 11100 Euclid Ave, RB&C 790 Mail Stop 
+6003, Cleveland, OH 44106-6003; Tel: (216) 844-4994; 
+Fax: (216) 844-4998; E-mail: clr14@po.cwru.edu 
+
+SLEEP, Vol. 25, No. 6, 2002 648 
+
+ing (SDB) was assessed with overnight in-home monitoring that recorded 
+nasal-oral airflow, pulse oximetry, chest-wall impedance, and heart rate. 
+Using logistic regression analyses, each CHQ scale outcome was analyzed 
+independently for the effect of SDB, adjusting for other potential 
+confounding variables and for family-correlated data. Significant differences 
+in overall physical health and complaints of bodily pain were 
+observed in children with generally mild levels of SDB. Relationships persisted 
+after adjustment for age, gender, ethnicity, obesity, and asthma. 
+Conclusions: SDB in children is associated with measurably lower levels 
+of specific dimensions of HRQOL in children. Decrements in HRQOL are 
+measurable even for children with mild SDB, with increasing effects 
+observed with more severe SDB. 
+Key words: Health status; quality of life; sleep apnea syndromes; child 
+
+strategies and treatment indications for SDB in children underscores the 
+importance of considering HRQOL in the assessment of health outcomes. 
+Several recent reports have described the development and validation 
+of disease-specific HRQOL instruments for SDB or adenotonsillar 
+disease in children.28-31 None of these studies have examined the 
+relationship between measured SDB and generic HRQOL in children. 
+
+In this study, we used data from the ongoing community-based 
+genetic-epidemiologic Cleveland Family Study (CFS) cohort to determine 
+the impact of SDB on a generic HRQOL measure in children. 
+Specifically, we assessed the extent to which SDB was associated with 
+impairment of generic HRQOL using the Child Health Questionnaire 
+(CHQ).32 We hypothesized that higher levels of SDB would have a negative 
+impact on HRQOL in children. 
+
+METHODS 
+
+Participants 
+
+The study population consisted of children 5 to 17 years of age 
+enrolled in the on-going CFS, a community-based genetic-epidemiologic 
+study of SDB. The larger cohort consisted of index and control families, 
+recruited using methods previously described.33,34 In brief, “index” 
+families were identified because one member (the proband) had laboratory-
+confirmed sleep apnea. Neighborhood control families were chosen 
+randomly from a list of names provided by the index proband of 
+neighbors or friends with living relatives who resided in the area. Over 
+the last 4 years, pediatric HRQOL assessment was added to the study 
+protocol and African-American families were over-sampled. Children 
+with chronic medical conditions such as genetic or craniofacial syndromes; 
+chronic orthopedic, bone, or joint problems; chronic rheumatic 
+disease; developmental delay or mental retardation; diabetes; epilepsy; 
+or deafness were excluded from the study, but children with asthma were 
+included. 
+
+Protocol 
+
+The study visits were described in greater detail previously.33 
+Briefly, trained research assistants studied families at home or other convenient 
+locations. Demographic and medical data were assessed with 
+the Children’s Sleep and Health Questionnaire (CSHQ), a pediatric 
+
+Sleep-Disordered Breathing in Children—Rosen et al 
+
+
+modification of a validated questionnaire (Health and Sleep Questionnaire, 
+HSSQ).35 The CSHQ, completed by a parent, was generally used 
+for children < 13 years of age. The HSSQ was generally used by children 
+= 13 years of age who were able to self-complete it or able to complete 
+it with some assistance from their parents. Although similarly 
+structured, these questionnaires contained different items relevant for 
+younger and older children, respectively. Height and weight were directly 
+measured by research assistants to determine body-mass index (BMI). 
+
+HRQOL was assessed with the CHQ-Parent Form (CHQ-PF50), a 
+paper-and-pencil, parent-completed, generic quality of life instrument 
+that has been designed for use with children 5 years of age and older.32 
+US norms and preliminary benchmarks for some conditions such as 
+asthma, ADHD, and cystic fibrosis are available. In addition, pediatric 
+studies have been published using the CHQ in healthy children36 and in 
+children with chronic health conditions (asthma,37,38 epilepsy,39 sickle 
+cell disease,40 dialysis,41 and survivors of childhood cancer42). 
+
+The instrument includes a broad spectrum of child- and family-
+focused areas divided into 12 individual profiles that measure health-
+related concepts within the child (ie, physical functioning, limitations in 
+schoolwork and activities with friends due to physical health, general 
+health, bodily pain, limitations in schoolwork and activities with friends 
+due to behavior or emotional problems, self esteem, mental health, and 
+general behavior) and the family (ie, limitations in family activities due 
+to the child’s health and impact of child’s health on family cohesion) and 
+measures the emotional impact of the child’s health on the caregiver 
+respondent (eg, the degree he or she feels limited in personal time due to 
+the child’s health and the level of emotional worry or concern due to the 
+child’s health). All scales are multi-item except family cohesion, global 
+behavior, and global general health. Scores for each of the concepts can 
+be computed separately (CHQ profile scores) or combined to derive an 
+overall physical score and a psychosocial score (CHQ summary scores). 
+Descriptions of each individual scale and its interpretation are shown in 
+the Appendix. 
+
+For each item in a scale, parents rate an aspect of the child’s functioning 
+on a 4-, 5-, or 6-point Likert scale to capture both the presence 
+and extent of limitations during the previous 4 weeks with higher scores 
+indicating better or more positive health status. For example, within the 
+physical functioning scale, parents respond to items describing their 
+child’s limitations in activities due to health problems (eg, doing things 
+that take a lot of energy, such as playing soccer or running, walking one 
+block, or climbing one flight of stairs) on a 4-point Likert scale ranging 
+from “Yes, limited a lot” to “No, not limited.” Each multi-item scale 
+score is calculated by totaling contributions from each item and then 
+scaling the total score to provide values from 0 (representing worst 
+health) to 100 (representing best health). The two summary measures, 
+the Physical Health Summary and the Psychosocial Health Summary, 
+are derived from weighted combinations of individual subscales and are 
+quantified using T-scores with a mean of 50. Used in its entirety, the 
+CHQ provides information on children’s social roles, emotional health, 
+physical health, and family functioning (activities and cohesion). 
+
+Variable Definitions 
+
+Ethnicity of the child was reported on either the CSHQ or HSSQ with 
+check-box responses that included choices: “White, Afro-American or 
+Black, Hispanic, Asian/Oriental or Pacific Islander or Other.” Obesity 
+was defined as a BMI greater than the 95th percentile for age and gender43. 
+Asthma status was defined by “yes” responses to this condition 
+from question 10.5.b in the CHQ-PF50: “Have you ever been told by a 
+teacher, school official, doctor, nurse, or other health professional that 
+your child has any of the following conditions (asthma)?” For children 
+< 13 years of age , average sleep time was the numeric answer given by 
+the parent to the following question: “How many hours on average does 
+your child sleep on a week night?” For children = 13 years of age, average 
+sleep time was derived by calculating the time difference between 
+the responses to the following two questions: “During the past month, 
+what time on average have you fallen asleep upon going to bed on week
+
+
+days?” and “During the past month, what time on average have you awoken 
+for good from your usual sleep?” Caregiver work status, education, 
+and marital status were determined from the corresponding check-box 
+responses to CHQ-PF50 questions 11.3, 11.5, and 11.6, respectively. 
+
+Overnight in-home cardiorespiratory monitoring during sleep was 
+performed with an Edentrace I or II monitor (Eden Prairie, MN) measuring 
+nasal-oral thermistry, chest wall impedance, finger pulse oximetry, 
+and heart rate as previously described44. From these overnight studies, 
+respiratory events were defined as cessations (apneas) or discrete 
+reductions (hypopneas) in airflow or chest impedance, lasting at least 10 
+seconds and associated with at least a 2.5% fall in oxygen saturation. 
+Estimated sleep time was identified when physiologic parameters were 
+consistent with both sleep (eg, demonstrating little movement, reduced 
+heart rate) and with sleep-wake times recorded on a sleep diary. The respiratory 
+disturbance index (RDI) was determined by dividing the number 
+of respiratory events by the estimated hours of sleep time. The RDI 
+calculated from these measures has been shown previously to correlate 
+excellently with that derived from full in-laboratory polysomnography.45 
+The comparability of data derived using this definition to respiratory 
+event definitions as described in the American Thoracic Society consensus 
+statement of standards for cardiopulmonary sleep studies in children46 
+was assessed in a subanalysis of 20 randomly chosen pediatric 
+records (RDI 0 to 42) that were blindly rescored. In these records, the 
+RDI included all obstructive (absent airflow with continued effort) 
+apneas, regardless of desaturation, and hypopneas (reduced airflow, continued 
+effort, and 4% desaturation). The correlation between the RDIs 
+determined with these two approaches was excellent (Spearman’s r = 
+.76, p<.0001), and reclassification of SDB status using specific cutoffs 
+was minimal. These data support the overall comparability and accuracy 
+of classification of SDB based on the RDI event definitions derived 
+from the in-home clinical research methodologies as conducted in this 
+study. 
+
+For the regression analyses, SDB was categorized into four mutually 
+exclusive clinical symptom groups, indicating increasing severity of 
+SDB. These categories represent a spectrum of SDB symptoms and 
+objective RDI findings commonly encountered in clinical practice but 
+were not selected to indicate thresholds for diagnostic classification or 
+treatment decisions. No Symptoms (NS) indicated no snoring or sleep-
+related obstructive breathing symptoms and an RDI < 5 events per hour. 
+Obstructive symptoms only (OS) indicated snoring, snorting, gasping or 
+witnessed apnea more than once a week, but an RDI < 5 events per hour. 
+Obstructive symptoms were defined by: 1) a report in the last month of 
+snoring as loud as mumbling or talking or louder on the HSSQ or CHSQ 
+or 2) a positive response to “snorting or gasping” or “breathing stops or 
+he/she struggles to breathe” and these symptoms occurring at least 1 to 
+2 times per week. Mild-moderate SDB (M-M SDB) indicated obstructive 
+symptoms as above and RDI 5 to <10 events per hour. Moderate to 
+severe SDB (M-S SDB) indicated obstructive symptoms and RDI = 10 
+events per hour. 
+
+The protocol was approved by the Institutional Review Boards of 
+local hospitals (University Hospitals, the Louis Stokes Cleveland 
+Department of Veterans Affairs Medical Center, and MetroHealth Medical 
+Center) from which probands were recruited. 
+
+Data Analysis 
+
+The four levels of SDB indicating increasing severity (NS, OS, M-M 
+SDB, M-S SDB) were the independent predictor variables. The CHQ 
+summary scores (Physical and Psychosocial) and each of the CHQ scale 
+scores were the dependent outcome variables. The relationships 
+between the independent and dependent variables were adjusted for key 
+covariates that intuitively might alter those relationships (age, sex, ethnicity, 
+BMI, and asthma status). 
+
+The CHQ scales were summarized as mean ± SD scores and median 
+and interquartile ranges to reflect the fact that some distributions were 
+highly skewed with prominent ceiling effects (Bodily Pain, Physical 
+Functioning, Role Limitation-Physical, Role Limitation-
+
+SLEEP, Vol. 25, No. 6, 2002 649 Sleep-Disordered Breathing in Children—Rosen et al 
+
+
+Table 1—Participant Characteristics 
+
+Sleep-Disordered Breathing Groups p-value* 
+
+All M-S SDB M-M SDB OS NS d vs. a c vs. a b vs. a 
+Children (RDI = 10) (RDI 5-9) (RDI < 5) (RDI <5) 
+(d) (c) (b) (a) 
+n 298 20 25 50 203 
+Age, yr. 11.1 ± 3.5 12.5 ± 4.7 11.7 ± 3.4 10.3 ± 3.4 11.1 ± 3.4 .08 .38 .71 
+Female, % 54 50 48 40 58 .48 .39 .02 
+Minority ethnicity†, % 61 90 64 70 55 .005 .47 .48 
+BMI‡, kg/m2 21.6 ± 6.6 27.8 ± 8.4 24.3 ± 8.1 22.1 ± 7.4 20.6 ± 5.4 <.0001 .01 .15 
+Obesity§, % 26.5 55 48 34 19 .0003 .002 .02 
+Asthma, % 17 30 20 26 14 .09 .37 .06 
+Sleep time at night., hr 8.6 ± 1.5 8.4 ± 1.5 8.9 ± 1.5 8.6 ± 1.6 8.6 ± 1.8 .57 .70 .86 
+Caregiver education = 
+high school, % 28 20 24 26 30 .97 .72 .85 
+Caregiver marital status 
+- married, % 58 65 68 46 59 .51 .24 .45 
+
+Definition of abbreviations: SDB = sleep-disordered breathing; NS = No Symptoms; OS = Obstructive Symptoms; M-M = Mild-moderate; M-S = Moderate to severe; RDI = 
+respiratory disturbance index; BMI = body-mass index. Data represent percentages or means ± 1 SD 
+
+* All p-values account for correlated family data and compare each clinical symptom group to the No Symptoms referent group 
+† Minority category represents those children whose parent identified them as either African American or other/multi-racial 
+‡ p-value based on the log transformation of BMI 
+§ Obesity defined by BMI > 95 percentile for age and gender 
+. Parent or self-reported average sleep time 
+Emotional/Behavioral, Parent Impact-Time, Parent Impact-Emotional, 
+Family Activities, Family Cohesion, Global Behavior, Global General 
+Health). Summary measures were compared across the four mutually 
+exclusive categories of SDB. Bivariate comparisons of variables were 
+made using the Kruskal-Wallis nonparametric test for skewed variables 
+and procedures that accounted for correlated family data (Proc Mixed), 
+when normality could be approximated (Physical Health Summary, Psychosocial 
+Summary, General Health, Mental Health, Self-Esteem, General 
+Behavior). 
+
+The CHQ outcomes were dichotomized into the bottom quintiles 
+(20th percentile) for all scales except for five highly skewed subscales, 
+where the lowest decile was used (Family Cohesion, Physical Functioning, 
+Role-Emotional/Behavior, Global General Health, Global Behavior). 
+The 20th percentile of observed responses corresponds closely to 
+the parametric concept of one standard deviation below the mean, shown 
+previously to indicate socially and clinically meaningful differences in 
+the CHQ health status of children using the CHQ at a population level32 
+and within a clinical sample.41 
+
+Stepwise logistic regression was used to examine the relationship 
+between the SDB strata and each CHQ outcome and to identify which of 
+the potential covariates (sex, age, ethnicity, asthma, and BMI) to retain 
+in the model. Covariates significant at P<0.25 entered and were 
+retained. Hosmer and Lemeshow’s goodness of fit statistic was used to 
+assess model quality. For the Bodily Pain scale, all covariates were 
+included in the model to achieve an adequate fit by this statistic. Models 
+selected from this stepwise regression procedure were then repeated 
+using generalized estimated equations as implemented in PROC GENMOD 
+in SAS to adjust for correlated family data.47 This analytic 
+approach used a random effects model that accounted for clustering of 
+data within families. Potentially outlying points were identified as 
+observations with standardized Pearson residual values greater than 2. 
+These were examined for plausibility as suggested by Stokes et al, however 
+none were excluded.48 Associations between the SDB categories 
+and CHQ outcomes were expressed as odds ratios (OR) with 95% confidence 
+intervals (CI95%). Data were analyzed using SAS version 8.1 
+(SAS Institute, Inc., Cary, NC). 
+
+RESULTS 
+
+The characteristics of the 298 participants representing 132 different 
+families are summarized in Table 1, categorized by the four levels of 
+SDB. Index families were the recruitment source for the majority of the 
+children (81%) with the remainder from neighborhood control families. 
+Five (1.7 %) children were the original index cases in the CFS. The 
+
+SLEEP, Vol. 25, No. 6, 2002 
+
+sample included 54% females and 61% racial or ethnic minorities (57% 
+African-American, 4% other or multiracial). The high proportions of 
+participants recruited as family members of index families and African-
+American participants reflects over-sampling of these subgroups to 
+address the genetic-epidemiologic aims of the study. The high percentages 
+of children with obesity or asthma reflect the association of SDB 
+and obesity or lower respiratory tract problems, as previously reported in 
+this cohort.44 At baseline, the M-S SDB group was more obese and 
+included more minority children compared to the NS group. The OS 
+group was also more obese and included more males compared to the NS 
+group. 
+
+Of the 5 index cases identified with a laboratory diagnosis of obstructive 
+sleep apnea (OSA), 4 were in the M-S SDB group, and 1 was in the 
+OS group, having been recruited after adenotonsillectomy. These 5 
+index cases accounted for 21 family members (range, 1 to 8 additional 
+individuals per family) less than 18 years old recruited into the study. Of 
+these 21 individuals, 1 was in the OS group, 2 were in the M-M SDB 
+group, 1 was in the M-S SDB group, with the remainder in the NS group. 
+
+Table 2 reports the unadjusted summary measures for each of the 
+CHQ scale scores. Highly skewed distributions indicate marked ceiling 
+effects in many CHQ domains. A greater degree of SDB was associated 
+significantly with lower scores for the Physical Health Summary score 
+and for the General Health, Bodily Pain, Physical Functioning, Global 
+General Health, and Parent Impact-Emotional. Effect sizes for these 
+unadjusted measures were moderate to large (> 0.75-1.0 SD) for Physical 
+Health Summary, Bodily Pain and Global General Health and small 
+to moderate (> 0.5-0.75 SD) for Physical Functioning and Global General 
+Health). 
+
+Table 3 summarizes the results of the logistic regression analyses 
+used to examine the relationship between SDB and HRQOL, adjusting 
+for potential confounders (age, ethnicity, sex, asthma, and BMI) and for 
+correlated family data. For the Physical Summary, both the M-S SDB 
+group (OR = 2.74, 95%CI 1.09, 6.92; p = .032) and the M-M SDB group 
+(OR = 3.82; 95%CI 1.31, 4.52; p = .014) were more likely than the NS 
+group to have scores in the lowest quintile. For Bodily Pain, the M-S 
+SDB group was 4.5 times more likely (OR = 4.57, 95%CI 1.45, 14.4; p 
+= .010) than the NS group to have scores in the lowest quintile. Odds 
+ratios exceeded 2.0 for General Health in each of the SDB categories and 
+in the M-S SDB group for Physical Functioning. However, the confidence 
+intervals were wide and point estimates overlapped one (p>.05). 
+Asthma was a significant independent explanatory variable in the relationship 
+between SDB and low CHQ scores for several scales: Physical 
+Summary (OR = 2.08, 95%CI 1.01, 4.25; p = .044), Bodily Pain (OR = 
+2.02, 95%CI 0.94, 4.35; p = .07), Physical Functioning (OR = 4.44, 
+
+650 Sleep-Disordered Breathing in Children—Rosen et al 
+
+
+Table 2—Summary Measures for Unadjusted CHQ Scale Scores by SDB Group 
+
+Sleep-Disordered Breathing Groups 
+CHQ Scales M-S SDB M-M SDB OS NS p-value* 
+N = 20 N=25 N = 50 N=203 
+Physical Health Summary 50.3 ± 8.6 53.0 ± 6.7 53.7 ± 7.1 55.7 ± 5.6 .001 
+
+53.1 (47.5 - 55.7) 52.9 (50.1 - 57.4) 54.7 (51.9 - 57.5) 56.6 (54.0 - 59.3) 
+Psychosocial Summary 53.9 ± 8 .4 52.3 ± 7.0 50.6 ± 11.6 52.7 ± 8.7 .37 
+55.5 (49.7 - 59.2) 52.6 (47.3 - 52.6) 54.0 (44.3 - 58.1) 54.7 (48.8 - 58.6) 
+Physical Functioning† 88.1 ± 19.2 95.1 ± 14.2 94.3 ± 17.9 96.9 ± 13.4 .03 
+100 (77.8 - 100) 100 (100.0 - 100) 100 (100 - 100) 100 (100 - 100) 
+Role/Social Limitations 
+
+-Physical 94.2 ± 6.5 97.3 ± 13.3 97.7 ± 14.3 97.7 ± 11.3 .31 
+100 (100 - 100) 100 (100.0 - 100) 100 (100 - 100) 100 (100 - 100) 
+General Health 71.8 ± 3.2 74.0 ± 14.4 72.0 ± 14.5 79.8 ± 14.0 .001 
+
+71.7 (64.2 - 78.8) 72.5 (64.2 - 83.3) 72.5 (63.3 - 80.8) 80.8 (72.5 - 89.2) 
+Bodily Pain 73.5 ± 8.9 77.2 ± 24.4 83.7 ± 19.6 88.0 ± 17.5 .01 
+80.0 (60 - 100) 70.0 (80.0 - 100) 90 (80 - 100) 100 (80.0 - 100) 
+Family Activities 89.2 ± 14.6 87.8 ± 12.7 82.9 ± 23.8 87.7 ± 17.4 .89 
+95.8 (81.3-100) 91.7 (75.0 - 100) 95.8 (70.8-100) 95.8 (83.3 - 100) 
+Role/Social Limitations - 
+Emotional/Behavioral† 91.7 ± 24.1 92.4 ± 19.1 92.9 ± 19.3 95.3 ± 15.9 .65 
+100 (100 - 100) 100 (100.0 - 100) 100 (100 - 100) 100 (100 - 100) 
+Parental Impact - Time 95.6 ± 1.1 92.4 ± 13.5 89.1 ± 19.8 92.6 ± 15.9 .53 
+100 (100 - 100) 100 (88.9 - 100) 100 (88.9-100) 100 (88.9 - 100) 
+Parental Impact - Emotional 88.8 ± 5.6 81.3 ± 18.5 74.7 ± 22.3 83.7 ± 19.2 .01 
+
+91.7 (83.3-100) 83.3 (75 - 91.7) 83.3 (58.3-91.7) 91.7 (75.0 - 100) 
+Self Esteem 79.2 ± 17.9 82.7 ± 15.6 82.7 ± 17.4 82.6 ± 17.9 .85 
+81.3 (64.5 - 91.7) 87.5 (75.0 - 95.8) 87.5 (75 - 95.0) 87.5 (75.0 - 100) 
+Mental Health 78.5 ± 14.4 77.2 ± 13.9 77.7 ± 15.9 80.0 ± 14.1 .71 
+80.0 (70 - 87.5) 80.0 (70.0 - 85.0) 80 (70 - 90) 80.0 (75.0 - 90.0) 
+Behavior 79.3 ± 5.1 77.7 ± 15.7 73.9 ± 19.4 76.7 ± 17.2 .21 
+80.4 (70.4 - 89.6) 80.8 (68.3 - 87.5) 76.7 (64.2 - 87.5) 80.8 (64.2 - 89.2) 
+Family Cohesion† 71.5 ± 5.9 73.0 ± 16.8 64.3 ± 24.3 71.9 ± 22.7 .20 
+85.0 (60-92.5) 85 (60.0 - 85.0) 60.0 (60.0-85.0) 85.0 (60.0 - 85.0) 
+Global Behavior† 80.5 ± 2.9 81.0 ± 21.2 72.4 ± 24.7 79.0 ± 21.9 .18 
+85.0 (60-100) 85.0 (60.0 - 100) 85.0 (60.0 - 85.0) 85.0 (60.0 - 100) 
+Global General Health† 76.8 ± 6.2 85.2 ± 6.1 80.7 ± 16.1 88.3 ± 14.5 <.0001 
+85.0 (60-85) 85.0 (85.0 - 100) 85.0 (60.0-85.0) 85.0 (85.0 - 100) 
+Definition of abbreviations: CHQ = Child Health Questionnaire Parent Form; SDB = sleep-disordered breathing; M-S = Moderate to severe; M-M = Mild-moderate; OS = 
+Obstructive Symptoms; NS = No Symptoms. Data are presented as mean ± SD and median (interquartile range, IQR) 
+
+* = p-values for group differences using mixed regression for correlated family data or using Wilcoxon rank nonparametric tests for highly skewed data 
+† Variable with highly skewed distribution 
+95%CI 2.10, 9.36; p<.001), and Parent Impact-Time (OR = 2.40, 95%CI 
+1.16, 2.63; p = .018). Obesity was a highly significant explanatory variable 
+for low scores in the Physical Summary (OR = 1.05, 95%CI 1.01, 
+1.10; p = .014) and in Role Limitation-Physical Summary (OR = 1.11, 
+95%CI 1.04, 1.18; p = .001). 
+
+DISCUSSION 
+
+This is the first study to assess whether SDB was associated with 
+decrements in HRQOL in a large, nonclinical (but enriched with individuals 
+at increased risk for SDB) sample of children. Our data suggest 
+that SDB is associated with reduced HRQOL in domains related to physical 
+health outcomes, specifically for overall physical health status and 
+for reports of bodily pain. These effects increased with more severe 
+SDB and were sustained after adjusting for key covariates that might 
+impact the relationship. 
+
+Our unadjusted analyses suggested a “dose-response” relationship 
+between severity of SDB and reductions in a broad range of HRQOL 
+dimensions. Effects were largest in the Physical Health Summary and in 
+the General Health, Bodily Pain, Physical Functioning, and Global General 
+Health scale scores. In each of these domains, the mean and median 
+scores were lower in the M-S SDB group than in a normative sample 
+of children (see Appendix).32 Furthermore, the M-S SDB group’s mean 
+scale score for Bodily Pain was lower than the mean reported for asthmatic 
+children.32 Although several associations between SDB and 
+reduced HRQOL disappeared after adjusting for covariates and correlated 
+family data, significant relationships persisted for overall physical 
+health status and bodily pain. Children with M-S SDB were 2.7 times 
+more likely to have a reduced overall physical health status and 2.2 times 
+more likely to report bodily pain. Children with M-M SDB were 3.8 
+times more likely to have reduced overall physical health status. 
+
+Our findings parallel recent studies suggesting that even mild SDB in 
+children may be associated with daytime neurocognitive and behavioral 
+dysfunction6-11 and extend these findings by showing measurable effects 
+on generic indexes of physical health status. In contrast to the descriptions 
+of neurocognitive and behavioral dysfunction in children with 
+OSA, we did not identify differences in domains related to emotional or 
+behavioral functioning in this sample, even in the children with evidence 
+of M-S SDB findings. One explanation for our findings may be that 
+SDB negatively impacts sleep quality that is important for promoting 
+overall physical health. However, the relatively small proportion of children 
+classified with SDB may have limited our ability to detect differences 
+in the more psychosocial aspects of HRQOL. 
+
+Increased reporting of “bodily pain” among children with SDB was 
+a novel finding. Possible explanations include: 1) increased discomfort 
+related to increased work of breathing or mouth breathing related to 
+upper airway obstruction 2) morning headache pain following impaired 
+gas exchange associated with SDB or 3) dysphagia related to enlarged 
+tonsils often associated with childhood SDB. Alternatively, children 
+with SDB and poor quality sleep may be more fatigued or irritable compared 
+to children without SDB. This fatigue or heightened irritability 
+may trigger more general somatization of symptoms. 
+
+Our findings of reduced HRQOL related to physical symptoms in 
+children with SDB are consistent with preliminary findings from other 
+investigators. As part of validation studies for a new disease-specific 
+HRQOL instrument for adenotonsillar disease in children, Stewart et al 
+used a similar, but shorter, version of the CHQ in a subset of children 
+referred to an otolaryngologist office for surgical management of adenotonsillar 
+disease.28,31 They observed significant correlations between 
+their Infection subscale and CHQ’s Bodily Pain subscale and between 
+their Airway and Breathing subscale and the CHQ’s Physical Function-
+
+SLEEP, Vol. 25, No. 6, 2002 651 Sleep-Disordered Breathing in Children—Rosen et al 
+
+
+Table 3—Associations of SDB and CHQ Scale Scores Adjusted for All Other Covariates in the Model* (No Symptoms Group is the Referent Category) 
+
+CHQ Scales Odds Ratio 95% Confidence Intervals p-value† Covariates retained 
+Physical Health Summary BMI, asthma 
+M-S SDB 2.74 1.09-6.92 .032 
+M-M SDB 3.82 1.31-11.1 .014 
+OS 1.83 .74-4.52 .193 
+Psychosocial Summary 
+M-S SDB 0.62 0.19-2.01 .423 age, asthma 
+M-M SDB 1.35 0.48-3.82 .568 
+OS 1.97 0.90-4.33 .090 
+Physical Functioning‡ 
+M-S SDB 2.22 0.77-6.46 .140 BMI, asthma 
+M-M SDB 1.48 0.46-4.71 .507 
+OS 1.26 0.50-3.12 .612 
+Role Limitations-Physical 
+M-S SDB 1.40 0.41-4.77 .592 BMI 
+M-M SDB 0.39 0.05-3.10 .376 
+OS 0.53 0.14-2.05 .362 
+Bodily Pain 
+M-S SDB 4.57 1.45-14.4 .010 age, sex, ethnicity, 
+M-M SDB 1.84 0.60-5.65 .286 
+OS 1.00 0.41-2.50 .990 BMI, asthma 
+General Health 
+M-S SDB 2.28 0.91-5.74 .080 age, sex, ethnicity 
+M-M SDB 2.08 0.94-5.13 .111 
+OS 2.51 1.26-5.00 .090 
+Self Esteem 
+M-S SDB 1.22 0.46-3.28 .686 age, ethnicity, BMI 
+M-M SDB 0.70 0.28-1.77 .448 
+OS 0.93 0.42-2.06 .854 
+Mental Health 
+M-S SDB 1.22 0.43-3.30 .713 age, asthma 
+M-M SDB 1.22 0.46-3.19 .692 
+OS 0.97 0.46-2.05 .941 
+Behavior 
+M-S SDB 0.26 0.06-1.10 .068 sex, BMI, asthma 
+M-M SDB 0.42 0.15-1.19 .103 
+OS 1.54 0.54-2.77 .625 
+Family Activities 
+M-S SDB 0.96 0.30-3.03 .942 ethnicity, asthma 
+M-M SDB 1.66 0.75-3.64 .210 
+OS 2.21 1.13-4.32 .021 
+Role Limitations-Emotional/Behavioral‡ 
+M-S SDB 1.33 0.41-4.20 .634 sex, BMI, asthma 
+M-M SDB 1.14 0.33-3.30 .832 
+OS 1.90 0.70-5.18 .207 
+Parent Impact-Time 
+M-S SDB 0.49 0.07-3.48 .479 sex, asthma 
+M-M SDB 0.80 0.24-2.63 .711 
+OS 1.75 0.72-4.23 .261 
+Parent Impact-Emotional 
+M-S SDB 0.33 0.08-1.44 .142 age, asthma 
+M-M SDB 0.77 0.33-1.82 .558 
+OS 2.14 1.07-4.27 .031 
+Family Cohesion‡ 
+M-S SDB 0.77 0.24-2.52 .669 BMI 
+M-M SDB 0.30 0.07-1.30 .108 
+OS 2.16 1.01-4.62 .046 
+Global Behavior‡ 
+M-S SDB .080 0.28-2.28 .676 sex, ethnicity, asthma 
+M-M SDB 0.78 0.35-1.76 .557 
+OS 1.37 0.64-2.95 .419 
+Global General Health‡ 
+M-S SDB 1.10 0.37-3.30 .860 ethnicity, BMI, asthma 
+M-M SDB 0.82 0.28-2.37 .711 
+OS 1.76 0.80-3.91 .165 
+
+Definition of abbreviations: SDB = sleep-disordered breathing; CHQ = Child Health Questionnaire Parent Form; M-S = Moderate to severe; M-M = Mild-moderate; OS = 
+Obstructive Symptoms; NS = No Symptoms; BMI = body mass index 
+
+* Covariates include age, gender, ethnicity, BMI, and asthma status 
+† All p-values account for correlated family data 
+‡ Variable with highly skewed distribution 
+SLEEP, Vol. 25, No. 6, 2002 652 Sleep-Disordered Breathing in Children—Rosen et al 
+
+
+ing subscale.31 Stradling et al previously reported morning headaches in 
+children with OSA that improved after adenotonsillectomy.6 Our findings 
+point to the importance of obtaining additional information concerning 
+location, intensity, and frequency of pain in future studies to better 
+characterize the impact of SDB on physical functioning and pain in 
+children. 
+
+The clinical sample described by Stewart et al was a very different 
+group than our community-based nonclinical cohort.28 Nevertheless, 
+they observed that CHQ mean scores were significantly lower on almost 
+every scale compared to corresponding scores reported for healthy children. 
+Many scores were even lower than those reported for children 
+with asthma or juvenile rheumatoid arthritis. However, the authors 
+acknowledged the limitations of their surgical referral sample and of not 
+considering other co-morbidities in assessing their findings. Medical comorbidities 
+can confound the relationship between SDB or adenotonsillar 
+disease and health outcomes as demonstrated in our analyses. 
+
+An important limitation of our study is the relatively small proportion 
+of children affected by SDB (15% of the sample). In addition, the relatively 
+mild degree of SDB may have limited our ability to better characterize 
+the impact of severe SDB on HRQOL. Only 3% of our sample 
+had an RDI = 15, the threshold value for moderate SDB used in the Sleep 
+Heart Health study of the association of SDB and HRQOL in adults. 
+More work is needed to assess the impact of SDB on functional outcomes 
+in more severely affected children. 
+
+Despite the advantage of using generic HRQOL instruments to compare 
+outcomes across groups of children, generic HRQOL instruments 
+may be less sensitive to specific health effects due to disease or to 
+changes in children’s health status. Disease-specific instruments to 
+assess the quality of life outcomes with sleep apnea21 or the impact of 
+SDB-related excessive daytime sleep on quality of life19 have been 
+developed for adults. Similar concerns among pediatric otolaryngologists 
+have prompted the development of disease-specific quality of life 
+instruments for either SDB or adenotonsillar disease in children.29-31,49 
+Although these pediatric instruments were developed using convenience 
+samples of clinically symptomatic children evaluated in tertiary academic 
+otolaryngologic practices, the preliminary reports indicate that 
+valid, reliable, responsive, and easily administered disease-specific 
+instruments can be developed. Data from both general and disease-specific 
+HRQOL instruments are needed to help guide investigators on 
+strategies for the measurement of health outcomes in SDB in children. 
+Finally, the CHQ used in this study relies on parent-proxy reports of 
+quality of life. The incorporation of a child self-report would have 
+strengthened the study. The child report version of the CHQ requires the 
+intellectual capacity of at least a 10-year-old child,32 while the peak age 
+of sleep apnea is between 3 to 6 years of age.3 Thus, the usefulness of 
+child self-reports for assessment of HRQOL impact may be limited for 
+childhood OSA. 
+
+In summary, this study utilized data from an existing cohort to assess 
+the association of SDB on generic HRQOL in children. Our findings 
+confirm the important effects of age, gender, ethnicity, BMI and asthma 
+on HRQOL. Moreover, a significant independent effect of SDB was 
+identified on overall physical health status and complaints of bodily pain 
+and persisted after adjustment for these key covariates in a sample of 
+children that was primarily not clinical. Whether the relatively mild 
+degree of SDB in this cohort is causally related to these effects requires 
+further study. Our data highlight the importance of adjusting for key 
+covariates that may explain a significant portion of the impact. More 
+work is needed to assess the impact of SDB on functional outcomes in 
+more-severely affected children. 
+
+ACKNOWLEDGMENTS 
+
+The authors are extremely grateful for the excellent and invaluable 
+assistance of Joan Aylor, Kathryn Clark, Greg Graham, Sunny Morton, 
+who have diligently recruited the patients, collected the data, and/or 
+maintained the enthusiasm of the cohort in this ongoing study. Finally, 
+we are most indebted to members of the cohort who so generously con
+
+
+tinue to invite us into their homes. We also acknowledge the developers 
+of the CHQ for their agreement to use the pediatric quality of life instrument 
+in our research. 
+
+REFERENCES 
+
+1. 
+Ali NJ, Pitson DJ, Stradling JR. Snoring, sleep disturbance, and 
+behaviour in 4-5 year olds. Arch Dis Child 1993;68:360-6. 
+2. 
+Gislason T, Benediktsdottir B. Snoring, apneic episodes, and nocturnal 
+hypoxemia among children 6 months to 6 years old. An epidemiologic 
+study of lower limit of prevalence. Chest 
+1995;107:963-6. 
+3. 
+Marcus CL. Sleep-disordered breathing in children. Am J Respir 
+Crit Care Med 2001;164:16-30. 
+4. 
+Suen JS, Arnold JE, Brooks LJ. Adenotonsillectomy for treatment 
+of obstructive sleep apnea in children. Arch Otolaryngol Head 
+Neck Surg 1995;121:525-30. 
+5. 
+Weissbluth M, Davis A, Poncher J, Reiff J. Signs of airway 
+obstruction during sleep and behavioral, developmental, and academic 
+problems. Dev Behav Pediatr 1983;4:119-21. 
+6. 
+Stradling JR, Thomas G, Warley AR, Williams P, Freeland A. 
+Effect of adenotonsillectomy on nocturnal hypoxaemia, sleep disturbance, 
+and symptoms in snoring children. Lancet 
+1990;335:249-53. 
+7. 
+Ali NJ, Pitson D, Stradling JR. Natural history of snoring and related 
+behaviour problems between the ages of 4 and 7 years. Arch Dis 
+Child 1994;71:74-6. 
+8. 
+Ali NJ, Pitson D, Stradling JR. Sleep disordered breathing: effects 
+of adenotonsillectomy on behaviour and psychological functioning. 
+Eur J Pediatr 1996;155:56-62. 
+9. 
+Chervin RD, Dillon JE, Bassetti C, Ganoczy DA, Pituch KJ. 
+Symptoms of sleep disorders, inattention, and hyperactivity in 
+children. Sleep 1997;20:1185-92. 
+10. 
+Gozal D. Sleep-disordered breathing and school performance in 
+children. Pediatrics 1998;102:616-20. 
+11. 
+Owens J, Opipari L, Nobile C, Spirito A. Sleep and daytime behavior 
+in children with obstructive sleep apnea and behavioral sleep 
+disorders. Pediatrics 1998;102:1178-84. 
+12. 
+Goldstein NA, Post JC, Rosenfeld RM, Campbell TF. Impact of 
+tonsillectomy and adenoidectomy on child behavior. Arch Otolaryngol 
+Head Neck Surg 2000;126:494-8. 
+13. 
+Gozal D, Wang M, Pope DW, Jr. Objective sleepiness measures in 
+pediatric obstructive sleep apnea. Pediatrics 2001;108:693-7. 
+14. 
+Guyatt GH, Feeny DH, Patrick DL. Measuring health-related quality 
+of life. Ann Intern Med 1993;118:622-9. 
+15. 
+Baldwin CM, Griffith KA, Nieto FJ, O’Connor GT, Walsleben JA, 
+Redline S. The association of sleep-disordered breathing and sleep 
+symptoms with quality of life in the Sleep Heart Health Study. 
+Sleep 2001;24:96-105. 
+16. 
+Gall R, Isaac L, Kryger M. Quality of life in mild obstructive sleep 
+apnea. Sleep 1993;16:S59-61. 
+17. 
+Smith I, Shneerson J. Is the SF 36 sensitive to sleep disruption? A 
+study in subjects with sleep apnoea. J Sleep Res 1995;4:183-8. 
+18. 
+Briones B, Adams N, Strauss M, et al. Relationship between 
+sleepiness and general health status. Sleep 1996;19:583-8. 
+19. 
+Weaver TE, Laizner AM, Evans LK, et al. An Instrument to Measure 
+Functional Status Outcomes For Disorders Of Excessive 
+Sleepiness. Sleep 1997;20:835-43. 
+20. 
+Bolitschek J, Schmeiser-Rieder A, Schobersberger R, Rosenberger 
+A, Kunze M, Aigner K. Impact of nasal continuous positive airway 
+pressure treatment on quality of life in patients with obstructive 
+sleep apnoea. Eur Respir J 1998;11:890-4. 
+21. 
+Flemons WW, Reimer MA. Development of a disease-specific 
+health-related quality of life questionnaire for sleep apnea. Am J 
+Respir Crit Care Med 1998;158:494-503. 
+22. 
+Redline S, Adams N, Strauss ME, Roebuck T, Winters M, Rosenberg 
+C. Improvement of mild sleep-disordered breathing with 
+SLEEP, Vol. 25, No. 6, 2002 
+653 Sleep-Disordered Breathing in Children—Rosen et al 
+
+
+CPAP compared with conservative therapy. Am J Respir Crit Care 
+Med 1998;157:858-65. 
+
+23. 
+Bennett LS, Barbour C, Langford B, Stradling JR, Davies RJ. 
+Health status in obstructive sleep apnea: relationship with sleep 
+fragmentation and daytine sleepiness, and effects of continuous 
+positive airway pressure treatment. Am J Respir Crit Care Med 
+1999;159:1884-90. 
+24. 
+D’Ambrosio C, Bowman T, Mohsenin V. Quality of life in patients 
+with obstructive sleep apnea: effect of nasal continuous positive 
+airway pressure—a prospective study. Chest 1999;115:123-9. 
+25. 
+Kingshott RN, Vennelle M, Hoy CJ, Engleman HM, Deary IJ, 
+Douglas NJ. Predictors of improvements in daytime function outcomes 
+with CPAP therapy. Am J Respir Crit Care Med 
+2000;161:866-71. 
+26. 
+Yang EH, Hla KM, McHorney CA, Havighurst T, Badr MS, Weber 
+S. Sleep apnea and quality of life. Sleep 2000;23:535-41. 
+27. 
+Jenkinson C, Davies RJ, Mullins R, Stradling JR. Long-term benefits 
+in self-reported health status of nasal continuous positive airway 
+pressure therapy for obstructive sleep apnoea. QJM 
+2001;94:95-9. 
+28. 
+Stewart MG, Friedman EM, Sulek M, et al. Quality of life and 
+health status in pediatric tonsil and adenoid disease. Arch Otolaryngol 
+Head Neck Surg 2000;126:45-8. 
+29. 
+Franco RA, Jr., Rosenfeld RM, Rao M. First place—resident clinical 
+science award 1999. Quality of life for children with obstructive 
+sleep apnea. Otolaryngol Head Neck Surg 2000;123:9-16. 
+30. 
+de Serres LM, Derkay C, Astley S, Deyo RA, Rosenfeld RM, 
+Gates GA. Measuring quality of life in children with obstructive 
+sleep disorders. Arch Otolaryngol Head Neck Surg 
+2000;126:1423-9. 
+31. 
+Stewart MG, Friedman EM, Sulek M, et al. Validation of an outcomes 
+instrument for tonsil and adenoid disease. Arch Otolaryngol 
+Head Neck Surg 2001;127:29-35. 
+32. 
+Landgraf J, Abetz L, Ware J. 1999. The CHQ User’s Manual, 2nd 
+ed. HealthAct, Boston, MA. 
+33. 
+Redline S, Tishler PV, Tosteson TD, et al. The familial aggregation 
+of obstructive sleep apnea. Am J Respir Crit Care Med 
+1995;151:682-7. 
+34. 
+Redline S, Tishler PV, Hans M, Tosteson TD, Strohl KP, Spry K. 
+Racial differences in sleep disordered breathing in African Americans 
+and Caucasians. Am J Respir Crit Care Med 1997;155:18692. 
+35. 
+Kump K, Whalen C, Tishler P, et al. Assessment of the validity and 
+utility of a sleep symptom questionnaire in a community sample. 
+Amer J Respir Crit Care Med 1994;150:735-41. 
+36. 
+Waters E, Doyle J, Wolfe R, Wright M, Wake M, Salmon L. Influence 
+of parental gender and self-reported health and illness on parent-
+reported child health. Pediatrics 2000;106:1422-8. 
+37. 
+Bukstein DA, McGrath MM, Buchner DA, Landgraf J, Goss TF. 
+Evaluation of a short form for measuring health-related quality of 
+life among pediatric asthma patients. J Allergy Clin Immunol 
+2000;105:245-51. 
+38. 
+Asmussen L, Olson LM, Grant EN, Landgraf JM, Fagan J, Weiss 
+KB. Use of the child health questionnaire in a sample of moderate 
+and low-income inner-city children with asthma. Am J Respir Crit 
+Care Med 2000;162:1215-21. 
+39. 
+Gilliam F, Wyllie E, Kashden J, et al. Epilepsy surgery outcome: 
+comprehensive assessment in children. Neurology 1997;48:136874. 
+40. 
+Palermo T, Schwartz L, Drotar D, McGowan K. Parental report of 
+health-related quality of life in children with sickle cell disease. 
+Journal of Behavioral Medicine 2002;25:269-284. 
+41. 
+Kurtin PS, Landgraf JM, Abetz L. Patient-based health status measurements 
+in pediatric dialysis: expanding the assessment of outcome. 
+Am J Kidney Dis 1994;24:376-82. 
+42. 
+Nixon Speechley K, Maunsell E, Desmeules M, et al. Mutual concurrent 
+validity of the child health questionnaire and the health 
+utilities index: an exploratory analysis using survivors of childhood 
+cancer. Int J Cancer Suppl 1999;12:95-105. 
+
+43. 
+National Center for Health Statistics. CDC Growth Charts: United 
+States., 2001. Accessed on: 5/14/2001. 
+44. 
+Redline S, Tishler PV, Schluchter M, Aylor J, Clark K, Graham G. 
+Risk factors for sleep-disordered breathing in children. Associations 
+with obesity, race, and respiratory problems. Am J Respir Crit 
+Care Med 1999;159:1527-32. 
+45. 
+Redline S, Tosteson T, Boucher MA, Millman RP. Measurement of 
+sleep-related breathing disturbances in epidemiologic studies. 
+Assessment of the validity and reproducibility of a portable monitoring 
+device. Chest 1991;100:1281-6. 
+46. 
+Standards and indications for cardiopulmonary sleep studies in 
+children. American Thoracic Society. Am J Respir Crit Care Med 
+1996;153:866-78. 
+47. 
+Zeger SL, Liang KY. Longitudinal data analysis for discrete and 
+continuous outcomes. Biometrics 1986;42:121-30. 
+48. 
+Stokes M, Davis C, Koch G. 2000. Categorical Data Analysis 
+Using the SAS System, Second Edition ed. SAS Institute Inc, 
+Cary, NC. 
+49. 
+Stewart MG. Pediatric outcomes research: development of an outcomes 
+instrument for tonsil and adenoid disease. Laryngoscope 
+2000;110:12-5. 
+SLEEP, Vol. 25, No. 6, 2002 
+654 Sleep-Disordered Breathing in Children—Rosen et al 
+
+
+SLEEP, Vol. 25, No. 6, 2002 655 Sleep-Disordered Breathing in Children—Rosen et al 
+
+
+SLEEP, Vol. 25, No. 6, 2002 656 Sleep-Disordered Breathing in Children—Rosen et al 
+
+
+SLEEP, Vol. 25, No. 6, 2002 657 Sleep-Disordered Breathing in Children—Rosen et al 
+
+
+Synapse 
+
+
+SLEEP, Vol. 25, No. 6, 2002 658 Title—Author 
+
+

@@ -1,0 +1,420 @@
+Cluster headache associated with sleep apnoea 
+
+
+ME Nobre, PFM Filho & M Dominici1 
+
+Universidade Federal Fluminense and 1Sleep Laboratory, Rio de Janeiro, Brasil 
+
+
+Nobre ME, Filho PFM & Dominici M. Cluster headache associated with sleep 
+apnoea. Cephalalgia 2003; 23:276–279. London. ISSN 0333-1024 
+
+This study of sleep changes in patients with cluster headache (CH) was conducted 
+in view of the nocturnal predominance of this condition, the efficacy of oxygen 
+and the fact that the attacks follow oxygen desaturation. Proposed mechanisms 
+include impairment of carotid body activity secondary to hypothalamic vasomotor 
+regulatory dysfunction. Sixteen patients with episodic CH and 29 healthy 
+volunteers underwent nocturnal polysomnography. Five (31.3%) patients with 
+episodic CH were found to have sleep apnoea (SA). Two patients with SA experienced 
+two attacks during the study period. The attacks followed episodes of 
+oxygen desaturation and were associated with REM sleep. In two patients with 
+SA and CH, treatment with continuous positive airway pressure abolished their 
+oxygen desaturation, sleep apnoeas and headaches. Our study confirmed the high 
+percentage of CH associated with SA. We suggest that oxygen desaturation may 
+be a trigger factor in some patients and play a role in the pathogenesis of CH. 
+
+hCluster headache, desaturation, sleep apnoea 
+
+Maria Eduarda Nobre MD, Avenue. das Américas 1155, sala 506, Barra da Tijuca, 
+Rio de Janeiro RJ, Brazil. Tel. (21) 2439 9293, fax (21) 2484 4608, e-mail 
+eduarda@imagelink.com.br Received 26 February 2001, accepted 6 September 2002 
+
+Introduction 
+
+Cluster headache (CH), firmly established as the 
+most excruciating chronic headache in intensity, is 
+a rare syndrome and shows unique clinical features 
+(1). Descriptions regarding the clinical features of 
+this condition have been made for more than two 
+centuries. Although extensive studies have been 
+conducted, the pathophysiology of this condition 
+remains obscure (2). One of the most striking features 
+of CH is the periodicity of the attacks. The 
+attacks are short-lived and followed by a pain-free 
+interval. They also occur during cluster periods, on 
+the same day, with predictable periodicity. Additionally, 
+50–60% of the attacks occur often or exclusively 
+at night (3). The relation between headaches and 
+sleep has been known for more than a century (4). 
+Further studies showed an increased prevalence of 
+obstructive apnoea syndrome in patients with CH 
+compared with the general population, and that the 
+attacks could be triggered by oxygen desaturation. 
+In these cases, treatment with continuous positive 
+airway pressure (CPAP) was shown to abort the 
+cluster (5). 
+
+These studies may add information to the current 
+pathophysiological hypotheses and, above all, offer 
+other therapeutic options that might benefit the 
+patients. 
+
+Hypothalamic involvement has been suggested 
+in CH due to the periodicity of the CH, probably 
+as a result of the circadian rhythm. This hypothalamic 
+dysfunction is believed to cause autonomic 
+nervous system involvement. Specifically, it is suggested 
+that during the cluster period the activity of 
+chemoreceptors would be impaired by the central 
+inhibition of the sympathetic vasomotor tone and 
+parasympathetic stimulation. Thus, CH may be the 
+result of decreased sympathetic activity and stimulation 
+of parasympathetic disinhibition in the 
+carotid body. Attacks occurring as a direct result of 
+these abnormalities are unlikely. Rather, they may 
+occur as a result of physiological involvement 
+combined with facilitating conditions, such as inhibition 
+of respiratory muscles during the REM 
+phase of sleep; bradycardia and hypoventilation in 
+the nREM phase of sleep; use of vasodilator 
+agents; altitude-related hypoxia; and sleep apnoea 
+(6). 
+
+© Blackwell Publishing Ltd Cephalalgia, 2003, 23, 276–279 
+
+
+CH associated with sleep apnoea 277 
+
+Goadsby, using positron emission tomography, 
+reported ipsilateral hypothalamic activation in 
+patients during the attacks (7, 8). According to this 
+author, these findings warrant the inclusion of CH 
+in the category of neurovascular disorders. 
+
+Methods 
+
+Sixteen out-patients (14 male and two female, 26– 
+55 years of age, mean age 40 years) were studied. 
+Their clinical history was taken, they underwent 
+neurological examination and the following tests: 
+blood cell count, electrocardiography (ECG), computed 
+tomography (CT) of the brain and nocturnal 
+polysomnography. All patients met the International 
+Headache Society criteria for the diagnosis of episodic 
+CH. In accordance with the main objectives of 
+the study, patients with concomitant heart disease, 
+pulmonary disease or haematological disease were 
+excluded, as the presence of these conditions would 
+be likely to bias the results. The presence of significant 
+brain CT abnormalities was also established as 
+an exclusion criterion. 
+
+Upon questioning, none of the patients spontaneously 
+reported snoring, daytime sleepiness or any 
+other sleep disorder. Before the physical examination, 
+the patients recorded their daytime sleepiness 
+on a scale called Epworth scale. This scale uses a 
+scoring system (0 = none, 1 = small, 2 = moderate, 3 
+= high) to record the odds of falling asleep in the 
+following situations: reading while sitting, watching 
+television, traveling by car during 1 h, lying down 
+during the afternoon rest, talking with another person, 
+while sitting after a dinner without alcohol 
+ingestion, when the car stops for some minutes in 
+traffic, and while sitting down, inactive, in public 
+places (theatres, cinemas, etc.). The result is considered 
+normal if the sum of the items described above 
+provides a score not higher than 7. Scores above this 
+value are associated with a high likelihood of sleep 
+apnoea. This scale is not designed to determine the 
+severity or the prognosis of the condition, but is a 
+useful contributor for the indication of polysomnography 
+(9). The polysomnographic studies included 
+EEG, right and left electro-oculogram, submental 
+muscle electromyograms, right and left anterior tibial 
+muscles electromyograms, ECG, nasal and oral 
+termistors for the evaluation of the airflow, thoracic 
+and abdominal excursion and finger oximetry. The 
+studies were evaluated by the same person. Apnoea 
+was defined as complete airflow cessation for =10 s 
+during sleep. Hypopnoea was defined as a reduction 
+in airflow for =10 s, with chest excursions that led 
+to a =4% oxyhaemoglobin desaturation, arousal, or 
+
+awakening. The apnoea/hypopnoea index (AHI) 
+was calculated as the number of recorded apnoeas 
+and hypopnoeas divided by the total hours of sleep 
+(10). Both are generally associated with desaturation 
+and arousal, detected through the EEG. Oxygen 
+desaturation is considered clinically significant 
+when it is =4% inferior to the baseline saturation 
+value of each patient (11). 
+
+Patients were seen during cluster periods, while 
+using prophylactic medication on a regular basis. 
+The medication was discontinued 1 week before 
+the nocturnal polysomnography was conducted. 
+Twenty-nine individuals were enrolled in the control 
+group (26 male and three female, 19–59 years of age, 
+mean 37 years). These individuals were comparable 
+in terms of age and body mass index (BMI). There 
+were more males than females. The patients did not 
+complain of headache, or had any other physical 
+abnormalities. 
+
+The data related to the study variables were analysed, 
+and are presented in the following tables. The 
+statistical analysis was conducted using the Wald 
+c2 used to assess the association among variables; 
+Student’s t-test to compare the means; and the 
+non-parametric Mann–Whitney test to compare 
+extremely variable measures of both samples. 
+Pearson’s linear coefficient of correlation (r) was 
+used to assess the dependence among values of the 
+variables. The significance level was established at a 
+probability of 5% (P < 0.05). 
+
+Results 
+
+In patients with CH, the age of symptom onset 
+ranged from 14 to 48 years, with a mean age of 
+
+30.9 years. Eight patients (50%) suffered from the 
+pain mainly at night, but none of the patients suffered 
+from the pain exclusively during sleep. The 
+pain was most incident between 02.00 h and 03.00 h. 
+The results of both groups were tabulated and categorized 
+as group 1 (patients with CH) and group 2 
+(patients from the control group: Table 1, group 1; 
+and Table 2, group 2. 
+According to the criteria of abnormality, of the 16 
+patients studied in the first group, five presented 
+with SA (AHI > 5/h), corresponding to 31.3%. Of 
+the 29 patients in the control group, three presented 
+with SA, corresponding to 10.3% (P = 0.08). When 
+the results obtained from the patients with CH 
+(31.3%) were compared with those of the general 
+population (2–4%), a significant difference was 
+found (P < 0.05). The comparison with the control 
+group was also significant (P = 0.08). There were 
+
+© Blackwell Publishing Ltd Cephalalgia, 2003, 23, 276–279 
+
+
+278 ME Nobre et al. 
+Table 1 Group 1 Table 2 Group 2 
+Epworth Minimal Epworth Minimal 
+Patient scale AHI saturation PLM BMI Patient scale AHI saturation PLM BMI 
+1 7 0.2 88 0 28.5 1 6 4.3 86 0 23.0 
+2 6 1.8 90 0 26.7 2 10 1.8 87 30 26.1 
+3 3 0 90 0 22.4 3 2 0.2 89 4 27.1 
+4 5 1.3 87 43 22.1 4 2 1.5 93 5 25.3 
+5 4 4 92 3 23.2 5 9 0.2 89 19 22 
+6 9 2 87 37 25.3 6 4 2.7 88 0 22.2 
+7 2 0.3 92 9 22.8 7 12 10.9 88 6 23 
+8 2 10.6 82 0 27.1 8 5 4.3 91 19 26.2 
+9 3 16.7 82 0 23.1 9 6 0 90 5 27.3 
+10 9 24 92 11 24.6 10 7 0 93 0 22 
+11 3 17.6 86 15.4 23.1 11 8 9.8 85 5 26 
+12 5 2 74 0 24.0 12 12 2.6 85 49 25 
+13 0 0.4 93 0 23.0 13 9 2.3 84 0 26.6 
+14 9 10 89 0 25.3 14 3 1.8 91 0 25 
+15 8 0 91 11 27.6 15 11 0.6 82 9 23.2 
+16 7 4.4 88 0 25.1 16 0 2.1 92 0 22.2 
+17 10 1.7 89 1 21.7 
+AHI, Apnoea/hypopnoea index; PLM, periodic limb move18 
+8 9 86 10 23.7 
+ment disorder; BMI, body mass index. 19 0 0.8 92 3 24.7 
+20 2 1.5 93 5 24.4 
+21 4 0 86 0 27.7 
+only four patients in our study whose score in the 
+Epworth Sleepiness Scale was higher than seven. Of 
+the first group of patients, nine had values within 
+this range, corresponding to 56.2%, vs. 13 patients 
+22 
+23 
+24 
+25 
+26 
+9 
+4 
+0 
+2 
+2 
+1.2 
+1.4 
+0.7 
+0.7 
+0.7 
+94 
+93 
+92 
+92 
+90 
+0 
+21.6 
+5 
+0 
+4 
+22.7 
+29.6 
+23 
+24.1 
+22.6 
+in the second group, corresponding to 44.82%. The 27 4 0 92 0 26 
+difference was not significant (P > 0.05). According 28 13 0 93 0 20 
+to the criteria for PLM (Periodic Limb Movement 29 4 1 92 0 21.1 
+Disorder), the normal and abnormal values were 
+the following: in the first group, 10 normal and six 
+abnormal values; second group, 21 normal and 
+AHI, Apnoea/hypopnoea index; PLM, periodic limb movement 
+disorder; BMI, body mass index. 
+eight abnormal values. The non-parametric c2 test 
+was used (=0.47) (P = 0.49), and was considered 
+non-significant. The evaluation of the sleep architec-Discussion 
+ture showed an increase of stage 1 in patients with The results of this study support the presence of a 
+CH. The value of the t-test (=2.14) (P = 0.03) was higher percentage of sleep apnea syndrome (OSAS) 
+considered significant. During REM sleep, the mean among patients with episodic CH. Albeit not a rare 
+values and the standard deviations were x = 14.25, condition, OSAS is usually more prevalent with 
+s = 6.2 in the first group; and x = 16.76, s = 6.5 in the increasing ages and BMI. The mean age of the 
+second group. The value of the t-test was 1.25 patients included in our study was 30.9 years. This 
+(P = 0.21). This result is considered non-significant is not the most prevalent age group reported for 
+for the REM sleep. In terms of BMI, the means and OSAS. When our statistical results (31.3%) were 
+standard deviations of the two groups were the folcompared 
+with those described in the world literalowing: 
+first group –x = 24.62, s = 1.99; and second ture (4%) (12) for the prevalence of OSAS in the 
+group –x = 24.26, s = 2.26. The value of the t-test general population, very significant results were 
+(=0.53] (P = 0.60) is considered non-significant. 
+When the non-parametric c2 test was used, a ¥2found 
+(P < 0.05). The comparison with the control 
+group also showed significant results (P = 0.08). 
+value of 0.38 was found (P = 0.054), indicating the Kudrow et al., studying 10 patients with CH (five 
+similarities between both groups. Two patients had episodic and five chronic), showed an overall prevtwo 
+pain attacks, both during REM sleep and duralence 
+of OSAS of 60% in these patients, including 
+ing desaturation. all patients with the episodic form and one with the 
+
+© Blackwell Publishing Ltd Cephalalgia, 2003, 23, 276–279 
+
+
+chronic form (3). Chervin et al. conducted a polysomnography 
+study in 25 patients with CH, and 
+found that 80% of these patients had sleep-
+disordered breathing (10). The BMI was not 
+assessed, and this could have biased the statistical 
+findings. The lack of control groups also impaired 
+the analysis. 
+
+Our study reports only two attacks occurring during 
+polysomnography in two patients with OSAS. 
+Both occurred during REM sleep, after an episode of 
+desaturation. These numbers, albeit limited, are consistent 
+with those reported in the literature, which 
+consider oxygen desaturation a trigger factor or a 
+factor related to the pathophysiology of the disease. 
+In our study, the sleep structure abnormalities found 
+in patients with CH were not significant compared 
+with those in the control group. However, a reduction 
+in REM sleep was found in patients with CH, 
+perhaps reflecting more episodes of arousal. An 
+increased prevalence of PLM was detected among 
+our patients; however, the comparison with the control 
+group was not significant, and demonstrated an 
+increase of PLM among all the study individuals. 
+The sleep structure abnormalities found in the 
+patients with CH in our study were not significant 
+when compared with the control group, although 
+the control patients showed a decrease in REM sleep. 
+It is believed that these structural abnormalities can 
+happen in the first night of a study due to the 
+difficulties of the patients in adjusting to the new 
+environment. 
+
+The attacks are usually associated with high altitudes, 
+REM sleep and use of alcohol, histamine or 
+sublingual nitroglycerin. All these factors may cause 
+a state of hypoxaemia in the absence of a normal 
+reflex chemoreceptor response. Thus, Kudrow proposed 
+that, during the time in which the chemoreceptor 
+activity remains abnormal due to the changes 
+in autonomic activity, hypoxaemic stimuli acting 
+over a deregulated threshold would cause a hyperactive 
+reflex chemoreceptor response (13). This 
+theory is supported by the efficacy of oxygen administration 
+during the attacks. It seems that O2 inhibits 
+the excessive excitability of chemoreceptors. Other 
+authors believe that oxygen’s vasoconstrictor 
+activity in cranial and extracranial vessels would 
+account for the improvement of the pain. The 
+association with sleep apnoea emerged after 
+
+CH associated with sleep apnoea 279 
+
+analysing the polysomnographic findings, which 
+showed that the attacks were triggered by episodes 
+of desaturation. 
+
+Of the five patients with OSAS, two were treated 
+with CPAP and their pain symptoms improved. Both 
+were unresponsive to pharmacotherapy. After CPAP, 
+both showed complete resolution of the pain. These 
+patients have now been followed for 15 and 
+13 months, respectively. The first patient reported 
+resolution for 1 year and the other patient reported 
+resolution for 8 months. The time in remission 
+seemed to have increased in both patients after treatment 
+with CPAP. There is a similar case described in 
+the literature (5). This finding might favour a new 
+therapeutic option for these patients with CH associated 
+with OSAS. 
+
+References 
+
+1 Farias da Silva W, Maciel PS, Almeida CA. Cefaléia em 
+salvas: alguns aspectos clínicos pouco freqüentes. 
+Neurobiol 1991; 3:135–40. 
+
+2 Silberstein SD, Lipton RB, Goadsby PJ. Cluster headache: 
+diagnosis and treatment. Headache in clinical practice. 
+Oxford: Isis Medical Media, 1998; 9:115–24. 
+
+3 Kudrow L, Mcginty DJ, Phillips ER, Stevenson M. Sleep 
+apnea in cluster headache. Cephalalgia 1984; 4:33–8. 
+4 Sahota PK, Dexter JD. Sleep and headache syndromes: a 
+clinical review. Headache 1990; 30:80–4. 
+5 Buckle P, Kerr P, Kryger M. Nocturnal cluster headache 
+associated with sleep apnea. Sleep 1993; 16:487–9. 
+
+6 Kudrow L. A possible role of the carotid body in the pathogenesis 
+of cluster headache. Cephalalgia 1983; 3:241–7. 
+7 May A, Goadsby PJ. Cluster headache: imaging and other 
+
+
+developments. Curr Opin Neurol 1998; 11:199–203. 
+
+8 May A, Bahra A, Büchel C, Frackowiak RSJ, Goadsby PJ. 
+Hypothalamic activation in cluster headache attacks. Lancet 
+1998; 352:275–8. 
+
+9 Chervin RD, Aldrich MS. The Epworth Sleepiness Scale 
+may not reflect objective measures of sleepiness on sleep 
+apnea. Neurology 1999; 52:125–31. 
+
+10 Chervin RD, Zallek SN, Hall JM, Sharma N, Hedger KM. 
+Sleep disordered breathing in patients with cluster headache. 
+Neurol 2000; 54:2302–6. 
+
+11 Block AJ, Boysen PG, Winne JW, Hunt CRRT. Sleep apnea, 
+hypopnea and oxygen desaturation in normal subjects. N 
+Engl J Med 1979; 300:513–7. 
+
+12 Strollo PJ, Rogers RM. Obstructive sleep apnea. N Engl J 
+Med 1996; 334:99–104. 
+
+13 Pfaffenrath V, Pöllmann W, Rüther E, Lund R, Hajak G. 
+Onset of nocturnal attacks of chronic cluster headache in 
+relation to sleep stages. Acta Neurol Scand 1986; 73:403–7. 
+
+© Blackwell Publishing Ltd Cephalalgia, 2003, 23, 276–279 
+
+

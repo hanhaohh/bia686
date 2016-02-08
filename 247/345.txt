@@ -1,0 +1,714 @@
+Basic Concepts 
+
+Relations among hypoxemia, sleep stage, and 
+bradyarrhythmia during obstructive sleep apnea 
+
+Ulrich Koehler, MD, a Heinrich F. Becker, MD, a Wolfram Grimm, MD,a J6rg Heitmann, MD,a J6rg H. Peter, MD, a 
+and Harald Schiifer, MI) b Marburg and Bonn, Germany 
+
+BackgroundObesity, apneic hypoxemia, and rapid eye movement (REM) sleep are supposed to be the major 
+causes for bradyarrhythmia in patients with obstructive sleep apnea. The aims of this study were to compare clinical findings 
+and diagnoses in patients with obstructive sleep apnea with and without nocturnal bradyarrhythmia and to analyze the rela- 
+tions among hypoxemia, sleep stage, and brodyarrhythmia. 
+
+Methods During a 17-month period 239 patients were found to have sleep apnea in an ambulatory study. Patients with 
+nocturnal bradyarrhythmia were hospitalized for 3 days and polysomnographies were performed over 2 successive nights. 
+A Holter electrocardiogram was recorded for 48 hours. 
+
+Results Nocturnal episodes of bradyarrhythmia were identified in 17 (7%) of 239 patients. Body mass index (39 _+ 7 vs 
+31 + 5 kg/m 2} and respiratory disturbance index (90 + 36 per hour vs 24 _+ 24 per hour) were significantly different (P < 
+.01 ) between patients with (n = 17) and without bradyarrhythmia (n = 222). Bradyarrhythmia occurred significantly more 
+often during REM than non-REM sleep (P < .01 ). There was a significant difference in end-apneic oxygen saturation in 
+apnea/hypopnea episodes with and without bradyarrhythmia (71% _+ 9% vs 75% + 10%; P < .01 ). A linear relation 
+between end-apneic oxygen saturation and number of sinus arrests and heart blocks could not be found. 
+
+Conclusions Patients with apnea-associated bradyarrhythmia are more overweight than patients without bradyarrhythmia. 
+The higher respiratory disturbance index measurements found in these patients may be caused by this difference. Brady- 
+arrhythmia occurs predominantly during REM sleep and occurred independently from decrease in oxygen saturation; a 
+threshold value as an upper limit could not be found. (Am Heart J 2000;139:142-8.) 
+
+In approximately 5% to 10% of patients with obstruc- 
+tive sleep apnea, nocturnal episodes of bradyarrhythmia 
+are found. 1-3 Rapid eye movement (REM) sleep, apneic 
+hypoxemia, and obesity have been discussed as patho- 
+genetic factors.3,4 A desaturation level below 72% has 
+been identified by Guilleminault et al3 to be a precondi- 
+tion for the occurrence of heart block. Zwillich et al5 
+reported that hypoxemia and cessation of respiraUon are 
+essenUal in the development of bradycardia in patients 
+with apnea. The degree of bradycardia is closely related 
+to the severity of hypoxemia but not correlated with 
+sleep stage or type of apnea. VagaUy mediated reflex 
+mechanisms rather than structural abnormaliUes of sinus 
+node and atrioventricular conduction system have been 
+proposed by Grimm et al.6 Nasal continuous positive 
+
+From the aDepartment of Internal Medicine, Philipps-University of Marburg, and the 
+bDepartment of Internal Medicine, Rheinische Friedrich-Wilhelms University of Bonn. 
+Submitted March 22, 1999; accepted June 27, 1999. 
+Reprint requests: Ulrich Koehler, MD, Department of Internal Medicine, Medizinische 
+Poliklinik, Philipps-University Marburg, Baldingerstrasse, 35033 Marburg, Germany. 
+Copyright © 2000 by Mosby, Inc. 
+0002-8703/2000/$12.00+0 4/I/101492 
+
+
+airway pressure therapy prevents apnea-associated 
+bradyarrhythmia in approximately 80% of patients. TM 
+
+This study was performed to compare clinical 
+parameters and diagnoses in patients with sleep apnea 
+with and without sleep-related bradyarrhythmia. Beyond 
+this, the relations among hypoxemia, sleep stage, and 
+arrhythmias should be investigated. 
+
+Methods 
+
+Patients 
+
+During a 17-month period 239 patients were found to 
+have sleep apnea in an ambulatory study. In addition to the 
+clinical interview and physical examination, a visually ana- 
+lyzed ambulatory monitoring of breathing sounds, heart rate, 
+oxygen saturation, and body position (MESAM IV, Madaus 
+Schwarzer, Munich, Germany) from 6 PM until 8 AM and a 2- 
+channel Holter electrocardiogram (ECG) (Oxford Medilog 
+4000, Abingdon, UK) from approximately 2 PM until 8 AM 
+were recorded. 
+
+Patients with nocturnal bradyarrhythmia were hospitalized 
+for 3 days and polysomnographies were performed over 2 suc- 
+cessive nights. The first night served as an adaptation to the 
+measurement equipment. Holter ECG was recorded for 48 
+hours. Medication interfering with heart rate, such as ~- 
+
+
+American Heart Journal 
+Volume 139, Number 1, Part1 Koehler et al 143 
+
+Table I. Clinical characteristics, RDI, and diagnoses in patients with and without bradyarrhythmla 
+
+patients without BA (n -222) Patients with BA (n -! 7) P value 
+
+Age (y) 49_+ 11 (16-72) 51 + 12 (27-78) NS 
+Sex (F/M) 201202 I/I6 
+
+BMI (kg/m 2) 30 _+ 6 (20.58) 39 + 9 (24-53) <.01 
+RDI (n/h) 24 _+ 24 (O-128) 90 _+ 36 (59-158) <.01 
+Arterial hypertension 101 (46%) 12 (72%) NS 
+Diabetes 12 (5%) 2 (12%) NS 
+Hyperlipidemia 106 (48%) 11 (65%) NS 
+Hyperuricemia 40 (18%) 6 (35%) NS 
+CAD 7 (3%) I (6%) NS 
+
+
+Values are mean -+ SD (range) or n (%). 
+BA Bradyarrhythmia; BMI,body mass index; CAD,coronary artery disease. 
+
+
+blocker, digitalis, clonidine, and verapamil, were discontinued lar block, and sinus arrest were defined as bradyarrhythmia. 
+1 week before the polysomnographic study. Up to 3 consecutive nonconducted P waves were classified 
+
+The study was approved by the Institutional Review Board as second-degree atrioventricular block type Mobitz and 4 or 
+of the University of Marburg. Written, informed consent was more nonconducted consecutive P waves as third-degree 
+obtained from all patients. atrioventricular block. Pauses of at least 2 seconds in dura- 
+
+tion and without evident P wave were classified as a sinus 
+arrest. There were no sinus arrests with a failure of junc- 
+
+Cardiorespiratory polysomnography 
+
+tional escape. Bradyan:hythmia was then assigned to the pat- 
+
+All-night diagnostic polysomnography was performed in all 
+
+tern of ventilation (normoventilation, hypopnea, apnea), 
+
+patients with nocturnal bradyarrhythmia. The following para- 
+
+sleep stage (non-REM I to IV and REM), and oxygen satura- 
+
+meters were continuously recorded on chart recorders (ED-16 
+
+tion. The values of oxygen saturation before apnea/hypop- 
+
+and ~, Madaus Schwarzer, Munich, Germany): 2 electroen- 
+
+nea, the minimum Saoz, and ASao 2 (difference between Sao 2 
+cephalographic leads (C3/A2, C4/A1), 2 electro-oculographic 
+
+before apnea/hypopnea and the minimum) were recorded. 
+
+leads, 1 electromyographic lead (chin), thoracic and abdomi- 
+nal movements by inductive plethysmography (Respitrace, 
+Ambulatory Monitoring, Ardsley, NY), oronasal air flow by Statistical analysis 
+thermistors, arterial oxygen saturation (Sao2) by finger oxime- Statistical comparison was performed by the X 2 test, Stu- 
+try (Nellcor, Hayward, Calif), and 1-channel ECG. In addition, dent t test, and the Wilcoxon rank sum test. The results are 
+a 24-hour Hoiter ECG (Oxford Medilog 4000) was recorded reported as mean SD and range. Significance was assumed at 
+parallel to the polysomnography. The start times of Holter P< .05. 
+ECG and polysomnography were synchronized. 
+
+Results 
+Data analysis Clinical characteristics of all study patients 
+
+Sleep stages were classified in 30-second periods according Twenty-one of 239 patients were women. Mean age 
+to the criteria by Rechtschaffen and Kales. 9 Apnea was was 52 + 10 years (range 16 to 78 years), body mass 
+defined as the cessation of oronasal airflow for at least 10 sec- index was 32 + 5 kg/m 2 (range 20 to 58 kg/mX). Arterial 
+onds. Hypopnea was defined as a reduction of oronasal air- 
+
+hypertension was found in 47.3%, diabetes meUitus in 
+flow by at least 50%, lasting for 10 seconds or more, and 
+
+6%, hyperlipidemia in 49%, and hyperuricemia in 19%. 
+accompanied by a decrease in oxygen saturation of at least 4% 
+
+Three of the patients (1%) had a history of myocardial 
+
+of the preceding stable Sao z for each apnea or hypopnea 
+
+infarction and 9 patients (3%) had evidence of coronary 
+
+episode. The number of apnea and hypopnea episodes per 
+
+artery disease determined by bicycle stress test. Mean 
+
+hour of sleep time was calculated and reported as the respira- 
+RDI was 29 :t: 25 per hour (range 10 to 158 per hour). 
+
+
+tory disturbance index (RDI). The Sao 2 level just before the 
+beginning of the desaturation and the minimum Sao z were 
+
+Episodes of sinus arrest and atrioventricular conduction 
+recorded for each apnea and hypopnea episode. block were recorded in 17 (7%) of 239 patients. 
+
+Clinical characteristics of patients with 
+
+24-hour Halter ECG 
+
+bradyarrhythmia
+
+The Holter recordings were printed out in full length (one 
+
+None of the patients reported previous myocardial 
+
+channel) with a paper speed of 4 mm/s. The computer-aided 
+infarction. Medical history did not reveal evidence of 
+
+search for R-R intervals longer than 1.5 seconds was followed by 
+syncope in any of the 17 patients. ECG at rest did not 
+
+a visual analysis. A 2-channel printout of relevant periods 
+was made at a paper speed of 25 mm/s. Second-degree atri- show conduction disturbances in 15 of the 17 patients; 
+oventricular block type Mobitz, third-degree atrioventricu- a first-degree atrioventricular block was present in one 
+
+
+14,4, Koehler et al 
+
+Table II. Characteristics of bradyarrhythmia in each patient 
+
+Patient Age BMI RDI 
+
+1 34 53 158 
+2 34 49 119 
+3 57 30 102 
+4 78 24 62 
+5 27 45 114 
+6 62 40 101 
+7 56 48 82 
+8 43 32 59 
+9 49 29 60 
+10 45 28 81 
+11 56 35 61 
+12 59 34 86 
+13 50 34 64 
+14 49 38 88 
+15 57 36 71 
+16 52* 44 82 
+17 44 48 91 
+Meansum BA 51 39 90 
+
+SA 
+
+7 (2.4; 2.0-3.5 
+
+2 (2.7; 2.0-3.3 
+25 (2.6; 2.0-3.6 
+11 (2.2; 2.0-3.4 
+
+4 (3.8; 2.0-9.0 
+394 (2,5; 2,0-5.2 
+213 (2.9; 2.0-7.4 
+
+223 (3.1;2.0-11.1) 
+1 (2.0) 
+
+39 (3.4; 2.0-8.6) 
+8 (2.2; 2.0-2.5) 
+3 (3.4; 3.1-3.6) 
+2 (3.6; 2.2-5.0) 
+57 (2.8; 2.3-4.0) 
+
+Second-
+degree AV 
+
+30 (2.1; 2.0-2.3) 
+
+4 (2.7; 2.0-5.2) 
+3 (2.5; 2.0-3.1) 
+61 {2.7; 2.0-3.8) 
+462 (3.6; 2.0-6.4) 
+
+4 (2.9; 2.3-4.0) 
+
+American Heart Journal 
+
+Third-degree 
+AV 
+
+
+] (11.7) 
+
+8 (4.3; 3.1-5) 
+13 (8.5; 5.7-16.1) 
+
+228.2(3,1-11.7) 
+
+January 2000 
+
+Sum 
+
+BA 
+
+7 
+30 
+
+2 
+25 
+11 
+
+9 
+397 
+213 
+
+69 
+223 
+476 
+
+39 
+
+8 
+
+3 
+2 
+57 
+
+4 
+
+1575
+
+9892.8(2.0-11.1) 5642.8(2.0-6.4) 
+
+BMI, Body mass index; SA, sinus arrest [n (mean duration; range)]; AV, atrioventricular block arrest [n (mean duration; range)]; sum BA, sum of all brady-arrhythmia 
+
+episodes. 
+
+* Female patient. 
+patient and a complete right bundle branch block in 
+another. A comparison of clinical characteristics and 
+diagnoses of the patients with and without brady- 
+arrhythmia is listed in Table I. 
+
+Cardiorespiratory polysomnography in patients 
+with bradyarrhythmia 
+
+Total sleep time was 372 :t: 68 minutes. RDI was 90 + 
+36 per hour with a minimum value of 60 per hour and a 
+maximum of 158 per hour. Patients spent 77% + 9% of 
+total sleep time in non-REM sleep I/II, 3% + 5% in non- 
+REM m/Iv, and 19% + 6% in REM sleep. Mean nocturnal 
+Sao 2 was 83% + 9% and mean Sao 2 before apnea/hypo- 
+pnea was 88% + 9%. Patients with bradyarrhythmia had a 
+significantly higher RDI than those without (Table I). 
+
+Twenty-four-hour Halter ECG in patients with 
+
+bradyarrhythmia 
+
+All patients with apnea-associated bradyarrhythmia 
+had severe obstructive sleep apnea with an RDI of at 
+least 60 per hour. Ninety-seven of all 239 study patients 
+were found to have more than 60 RDI per hour, giving 
+a frequency of patients with heart block of 18% in this 
+group. During the 24-hour period of ECG analysis 1575 
+episodes of nocturnal bradyarrhythmia were recorded: 
+989 sinus arrests (maximum duration 11 seconds), 564 
+episodes of second-degree atrioventricular block type 
+Mobitz II (maximum duration 6 seconds), and 22 
+episodes of third-degree atrioventricular block (maxi- 
+mum duration 16 seconds). Table II delineates the char- 
+acteristics of the episodes of bradyarrhythmia in each 
+
+patient. Bradyarrhythmia episodes exclusively occurred 
+in association with sleep-disordered breathing. 
+
+Bradyarrhythmia and hypoxia 
+
+Seventy-six percent of bradyarrhythmia episodes 
+were associated with apnea/hypopnea episodes of 
+more than 30 seconds in duration, whereas only 40% of 
+all apnea/hypopnea episodes had a duration more than 
+30 seconds. Eight hundred eighty-four bradyarrhythmia 
+episodes (60%) were recorded during apnea/hypopnea, 
+with an Sao 2 lower than 72%. Of all apnea/hypopnea 
+episodes, 40% were accompanied by an Sao x <72%. 
+
+The comparison between apnea/hypopnea with and 
+without bradyarrhythmia revealed no significant differ- 
+ence of Sao 2 at the beginning of apnea/hypopnea (87% 
+
++ 8% vs 88% + 9%). The mean end-apneic Sao 2 at which 
+bradyarrhythmia occurred was 71% + 9% and thus lower 
+than in apnea/hypopnea without BA (75% + 10%); (P < 
+.01; Figure 1). The mean ASao 2 in apnea/hypopnea 
+with bradyarrhythmia was 16% + 8%, in apnea/hypop- 
+nea without bradyarrhythmia 13% + 7% (P < .01). Fig- 
+ure 2 shows the distribution of different classes of oxy- 
+gen saturation values from apnea/hypopnea episodes 
+with and without bradyarrhythmia. 
+Bradyarrhythmia and sleep stage 
+
+Bradyarrhythmia mainly occurred during REM sleep 
+(66.6%), was less frequent in non-REM sleep I/II 
+(33.1%), and only occurred in 0.3% during non-REM 
+sleep III/IV. Because REM sleep amounts to a propor- 
+tion of 19% of total sleep time, significantly more 
+episodes of sinus arrest and atrioventricular block were 
+
+
+American Heart Journal 
+Volume 139, Number I, Part 1 
+
+Koehler et al 145 
+
+Figure I 
+
+100 
+
+i --p<0.(R.S, 
+
+90 
+
+80 
+
+70 
+
+60 
+
+[] Beginning of apnea/hypopnea I 
+
+# I
+
+50 
+
+• End of apnea/hypopnea 
+40 
+30 
+20 
+10 
+0 
+
+
+with BA without BA 
+
+Mean Sao 2 values before and at end of all apnea/hypopnea episodes with and without bradyarrhythmia (BA). 
+
+Figure 2 
+
+% 
+
+3O I 
+
+I ~ ! I i
+
+' ''11' !iil I, ~ 
+
+25 
+
+20 
+
+15 
+
+10-
+
+AH with BA 
+H without BA 
+
+LrJ 
+
+Distribution of end-apneic Sao 2 values from apnea/hypopnea episodes with and without bradyarrhythmia. 
+
+found during this sleep stage (P < .01). Mean Sao 2 val- 
+ues at the beginning and end of apnea/hypopnea were 
+significantly lower during REM sleep compared with 
+non-REM sleep (P < .01; 85% :1: 10% versus 89% + 8% 
+and 69% + 11% versus 76% + 9%). Frequencies of brady- 
+arrhythmia in different classes of end-apneic oxygen 
+saturation values (5% intervals) from REM and non-REM 
+sleep are demonstrated in Figure 3. A linear relation 
+
+between number of bradyarrhythmia episodes and end- 
+apneic oxygen saturation values could not be found. 
+
+Discussion 
+
+The major findings of the study are: (1) Patients with 
+apnea-associated bradyarrhythmias are more over- 
+weight than patients without bradyarrhythmia. The 
+higher RDI found in these patients may be caused by 
+
+
+American Heart Journal 
+'146 Koehler et al Januar'-/2000 
+
+Figure 3 
+
+REM 
+
+% 
+
+100-
+90-
+80-
+70-
+
+m 
+
+60-Imlm ,,,,t=
+
+lll
+
+
+50-
+40-
+
+-i Im llll ill m 
+
+
+30-
+
+; 1-=anm=
+
+
+20-
+10-
+
+o-
+A <45 46-50 51-55 56-60 61-85 66-70 71-75 76-80 81-85 86-90 91-95 96-100 
+sao2 (%) 
+
+NREM 
+
+% 
+100-
+go_ 
+80-
+70-
+60-
+50-
+40-
+30-
+
+20-
+
+,o-
+
+<45 46-50 51-55 56-60 61-85 66-70 71-75 76-80 81-85 86-90 91-95 96-100
+
+B 
+
+• ~o2 (%) 
+Distribution of bradyarrhythmia from different classes of end-apneic Sao 2 values within REM and non-REM sleep. 
+A linear relation between frequency of bradyarrhythmia and Sao 2 were not found in non-REM or REM sleep. 
+
+this circumstance. (2) Bradyarrhythmia occurred pre- who were referred for pacemaker therapy because of 
+dominantly during REM sleep. (3) Bradyarrhythmia asymptomatic severe sinus bradycardia, sinus pauses 
+were found independently from decrease in Sao2; a lasting from 2 to 7.5 seconds, or second- or third- 
+threshold value as an upper limit could not be defined. degree atrioventricular block during sleep were also 
+
+Obesity has been shown to be a predisposing factor found to be overweight and had obstructive sleep 
+for the occurrence of bradyarrhythmia in patients with apnea. 10 Mean body mass index was 37 kg/m 2 in 16 
+obstructive sleep apnea. In this study group the mean patients with obstructive sleep apnea, nocturnal brady- 
+body mass index was 39 kg/m 2. Seven of 8 patients arrhythmia, and normal function of sinus node and atri- 
+
+
+American Hearl Journal 
+Volume 139, Number 1, Part 1 Koehler et al 14,7 
+
+oventricular conduction system. 4 Flemons et 8111 
+found a low prevalence of bradyarrhythmia in 76 
+patients with obstructive sleep apnea and no differ- 
+ence of bradyarrhythmia frequency compared with a 
+control group of patients without obstructive sleep 
+apnea. Mean body mass index of the patients with 
+sleep apnea was only 32.9 kg/m 2 and they had a mean 
+apnea/hypopnea index of 33.0 per hour. 
+
+None of our patients with an RDI below 60 per hour 
+had bradyarrhythmia, whereas 17 of the 97 with an RDI 
+of at least 60 per hour did. Among the study population 
+by Stegman et all0 2 patients had mild to moderate sleep 
+apnea (apnea/hypopnea index 9.2 and 34 per hour, 
+respectively) and 6 had severe sleep apnea (apnea/hypop- 
+nea index 55 to 84 per hour). In the group of 16 patients 
+with nocturnal bradyarrhythmia the mean apnea/hypop- 
+nea index was 76 per hour with a range of 12 to 152 
+per hour. 4 Whether the presence of bradyarrhythmia 
+depends on the severity of OSA or if severity of RDI only 
+reflects the degree of obesity in patients with apnea-asso- 
+ciated bradyarrhythmia is still unclear. 
+
+GuiUeminault et al3 reported bradyarrhythmia in 
+patients with obstructive sleep apnea exclusively during 
+apnea episodes with an oxygen saturation below 72%. 
+The analysis of our data cannot confirm this finding, only 
+that 60% of bradyarrhythmia episodes were found below 
+this threshold. Some patients have sinus arrest and heart 
+block develop in REM sleep with only mild desaturation. 
+Bradyarrhythmia occurred in 6.2% of apnea/hypopnea 
+episodes with an oxygen desaturation of 5% or less. A lin- 
+ear relaUon between frequency of bradyarrhythmia and 
+end-apneic Sao 2 could not be found. 
+
+There is little data on the impact of sleep stage on 
+nocturnal bradyarrhythmia in patients with sleep apnea. 
+GuiUeminault et a13 reported the occurrence of heart 
+block in non-REM sleep stage II and REM sleep. In 2 dif- 
+ferent studies from our group we found an increase of 
+the frequency of heart block during REM sleep.4, s REM 
+sleep is characterized by a high variability of heart rate, 
+which may be caused by differences between tonic and 
+phasic REM. In this study the majority of bradyarrhyth- 
+mia was also found in REM sleep. In 16 of 17 patients 
+bradyarrhythmia episodes were associated with REM 
+sleep stage; 397 episodes of heart block occurred 
+mainly during non-REM sleep in only 1 patient. 
+
+Despite the same degree of desaturation, decrease in 
+heart rate is more pronounced during REM sleep than 
+during non-REM sleep. It could be assumed that REM 
+sleep leads to severe bradycardia by excessive auto- 
+nomic response from higher sensitivity of barorecep- 
+tars caused by systemic arterial pressure swings. Harley 
+et al ix found baroreflex sensitivity especially increased 
+during REM sleep. Somerset all3 proposed baroreflex 
+impairment, mainly found in patients with arterial 
+hypertension and heart failure, to be susceptible for 
+excessive autonomic response in patients with sleep 
+
+apnea. In this context it is interesting to note that the 
+majority of patients with obstructive sleep apnea and 
+bradyarrhythmia have systemic arterial hypertension. 
+Arterial hypertension was present in 71% of the 
+patients with bradyarrhythmi. "a and in only 46% of those 
+without. In the group of 16 patients who underwent 
+electrophysiologic evaluation, 81% had arterial hyper- 
+tension. 4 Sato et alt4 found the bradycardiac response 
+during apnea or breathholding under hypoxemia more 
+likely to occur in patients with obstructive sleep apnea 
+and individual high hypoxic chemosensitivity. 
+
+It is known that the vagaUy mediated bradycardia is the 
+primary response to hypoxemia and chemoreceptor 
+stimulation, which is normally overriden by vagalytic pul- 
+monary inflation reflex. 15-18 Apneic bradycardia, which 
+might be considered a cardioprotective mechanism 
+because of llmitating oxygen consumption of the heart, 
+is reported to be closely related to hypoxemia. Zwillich 
+et al5 concluded that cessaUon of ventilation and hypox- 
+emia is a necessary combination in the development of 
+cyclic variation of heart rate and bradycardia. When 
+hypoxemia during apnea is prevented by oxygen breath- 
+ing, bradycardia is eliminated or is markedly reduced. 
+The fact that bradycardia and bradyarrhythmia are com- 
+pletely prevented by administraUon of atropine supports 
+the concept of a vagally mediated reflex mechanism. 2.19 
+
+Taking our results into account, the following charac- 
+teristics seem to predispose paUents with obstructive 
+sleep apnea to bradyarrhythmia: Severe obesity, a high 
+RDI, REM sleep, and arterial hypertension. Coronary heart 
+disease and dysfiancUons of sinus node and atrioventricu- 
+lar conduction system can be excluded as causal mecha- 
+nisms of bradyarrhythmia. Bradyarrhythmias are undoubt- 
+edly caused by heightened parsympathetic tone, but the 
+precise mechanisms affecting the imbalance of sympa- 
+thetic/parasympathetic tone are not clearly understood. 
+The baroreflex-chemoreflex interaction may have patho- 
+physiologic implications in patients with obstructive 
+sleep apnea and arterial hypertension. Further investiga- 
+tions are necessary to elucidate the mechanisms that lead 
+to vagaUy mediated reflex bradyarrhythmia. 
+
+References 
+
+1. Miller WP. Cardiac arrhythmias and conduction disturbances Jn 
+the sleep apnea syndrome. Prevalence and significance. Am J Med 
+1982;73:317-21. 
+2. Tilkian AG, Guilleminault C, Schroeder JS. Sleep-induced apnea 
+syndrome. Prevalence of cardiac arrhythmias and their reversal 
+after tracheostomy. Am J Med 1977;63:348-58. 
+3. Guilleminault C, Connolly SJ, Winkle RA. Cardiac arrhythmia and 
+conduction disturbances during sleep in 400 patients with sleep 
+apnea syndrome. Am J Cardiol 1983;52:490-4. 
+4. Koehler U, Fus E, Grimm W. Heart block in patients with obstructive 
+sleep apnoea: pathogenetic factors and effects of treatment. Eur 
+RespJ 1998;11:434-9. 
+5. Zwillich C, Devlin T, White D. 8radycardia during sleep apnea. 
+Characteristics and mechanism. J Clin Invest 1982;69:1286-92. 
+
+Arnericon Heart Journal 
+148 Koehler et al Januar,/2000 
+
+6. Grimm W, Hoffmann J, Menz V. Electrophysiological evaluation of 
+sinus node function and atrioventriculor conduction in patients with 
+prolonged ventricular asystole during obstructive sleep apnea. Am J 
+Cardiol 1996;77:1310-4. 
+7. Becker H, Brandenburg U, Peter JH. Reversal of sinus arrest and 
+otrioventricular conduction block in patients with sleep apnea during 
+nasal continuous positive airway pressure. Am J Respir Crit Care 
+Med 1995;151:215-8. 
+8. Becker H, Brandenburg U, Conrad R. Einflul~ der nCPAP-therapie 
+auf bradycarde herzrhythmusst6rungen bei schlafapnoe (SA). 
+Pneumologie 1993;47:706-10. 
+9. Rechtschaffen A, Kales A. A manual of standardized terminology: tech- 
+niques and scoring system for sleep stages of human subjects. Los Ange- 
+les: UCLA Brain Information Service/Brain Research Instilute; 1968. 
+10. Stegman SS, Burroughs JM, Henthorn RW. Asymptomatic brad- 
+yarrhythmias as a marker for sleep apnea: appropiate recognition 
+and treatment may reduce the need for pacemaker therapy. Pace 
+1996;19:899-904. 
+11. Flemons WW, Remmers JE, Gillis AM. Sleep apneo and cardiac 
+arrhythmias. Is there a relationship? Am Rev Respir Dis 1993; 
+148:618-21. 
+12. Harley SS, Sleight P, Pickering GW. Reflex regulation of arterial 
+pressure during sleep in man. Circ Res 1969;26:109-21. 
+13. Somers VK, Dyken ME, Mark AL. Parasympathetic hyperresponsive- 
+ness and bradyarrhythmias during apnoea in hypertension. Clin 
+Autonom Res 1992;2:171-6. 
+14. Sato F, Nishimura M, Shinano H. Heart rate during obstructive 
+sleep apnea depends on individual hypoxic chemosensitivily of the 
+carotid body. Circulation 1997;96:274-81. 
+15. Daly M. de B. The cardiovascular responses to stimulation of the carotid 
+body chemoreceptors in the dog. J Physiol Lond 1963; 165:179-97. 
+16. Kato H, Menon AS, Chen FJ. Contribution of pulmonary receptors 
+to the heart rate response to acute hypoxemia in rabbits. Circula- 
+lion 1988;78:1260-6. 
+17. Kato H, Menon AS, Slutsky AS. Mechanisms mediating the heart 
+rate response to hypoxemia. Circulation 1988;77:407-14. 
+18. Simon PM, Taha BH, Dempsey JA. Role of vagal feedback from the 
+lung in hypoxic-induced tachycordia in humans. J Appl Physiol 1995; 
+78:1522-30. 
+19. Koehler U, Funck R, Fus E. Bradykarde arrhythmien bei schlafbezo- 
+genen atmungsst~Srungen. Klinische relevanz, pathogenese und 
+therapie. Dtsch Med Wochenschr 1995; 120:1369-73. 
+

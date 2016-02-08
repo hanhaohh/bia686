@@ -1,0 +1,946 @@
+Clinical Neurophysiology 114 (2003) 2138–2145 
+
+www.elsevier.com/locate/clinph 
+
+First night effect in children and adolescents undergoing 
+polysomnography for sleep-disordered breathing 
+
+S. Schollea,*, H.-Ch. Scholleb, A. Kempera, S. Glasera, B. Riegera, G. Kempera, G. Zwackaa 
+aCentre of Sleep Medicine and Children’s Hospital, Robert-Koch-Hospital Apolda, Jenaer Straße 66, Apolda D-99510, Germany 
+bInstitute of Pathophysiology, Friedrich-Schiller-University Jena, D-07740 Jena, Germany 
+
+Accepted 5 June 2003 
+Dedicated to Professor Dr Marianne E. Schla¨fke on the occasion of her 65th birthday. 
+
+
+Abstract 
+
+Objective: To establish whether there is a first night effect (FNE) in children and adolescents with suspected obstructive sleep apnoea 
+undergoing polysomnography (PSG) and whether this affects sleep and breathing, furthermore, to determine the extent to which age may 
+influence the sleep and cardiorespiratory parameters. 
+
+Methods: One hundred and thirty-one children and adolescents (age classes—A: 2–6 years n ¼ 
+37; B: 7–12 years n ¼ 
+60; C: 13–17 
+years n ¼ 
+34) underwent PSG on 2 consecutive nights (I and II) under identical conditions for suspected sleep-related respiratory disorders. 
+One hundred and five patients including 3 patients with obstructive sleep apnoea syndrome (OSAS) treated by adenotonsillectomy and 18 
+OSAS patients receiving nCPAP-therapy had no PSG-abnormalities (Group 1—A: n ¼ 
+28; B: n ¼ 
+53; C: n ¼ 
+24). A further 26 patients 
+(Group 2) had clinically and polysomnographically confirmed untreated OSAS (A: n ¼ 
+9; B: n ¼ 
+12; C: n ¼ 
+5). 
+
+Results: There were no statistically significant differences between children with no PSG-abnormalities (Group 1) and those with OSAS 
+(Group 2) in terms of sleep parameters (arousal indices excluded), oxygen saturation (SaO2) and heart rate (HR), and these parameters have, 
+therefore, been pooled for the entire group (n ¼ 
+131) in the 3 age classes A, B and C. In the second and third age classes, sleep efficiency on 
+the first night was reduced. In all age classes, there was significantly more wakefulness during the first night. In the second and third age 
+ranges, the proportion of NREM 1 in the first night was significantly higher, with a correspondingly reduced proportion of NREM 4 in the 
+third age group. In all age classes, REM sleep was significantly less during the first night, but REM latency was comparable on both nights. 
+On the first night, the mean HR was higher. 
+
+There were significant differences in apnoea/hypopnoea-index (AHI), electroencephalogram (EEG)-arousal-index (AI) and motoric 
+arousal index (jerk index, JI) between Groups 1 and 2. In neither group, were there any significant differences in AHI, mean SaO2 or number 
+of EEG-arousals between nights 1 and 2. Only in the age class A, in Group 2 (n ¼ 
+9) was the number of motoric arousals significantly higher 
+on the first night. 
+
+Comparison of the age classes A, B, and C revealed that most polysomnographic parameters were age-dependent. Increasing age was 
+found to correlate with a higher proportion of NREM 1, especially on the first night. Also, there was an age-dependent increase in NREM 2 on 
+both nights, a decrease in NREM 3 on the first night, and a decrease in NREM 4 on both nights. In older children, we also found a lower 
+proportion of REM sleep on the first night and a lower HR on both nights. In Group 1, we found a lowered AHI, AI and JI (for JI significant 
+only on the first night) in older patients. No such age dependence of AHI, AI and JI was seen in OSAS patients (Group 2). 
+
+Conclusions: In children and adolescents, there is an FNE comparable with that described in adults. In OSAS children and also in children 
+with no PSG-abnormalities, there is night-to-night-variability in sleep parameters, but not in respiratory parameters. An adaptation night is, 
+therefore, necessary when sleep architecture is to be studied, but not when only the nocturnal respiratory pattern is investigated. Sleep 
+parameters, HR and arousal indices are all age-dependent. 
+q 
+2003 International Federation of Clinical Neurophysiology. Published by Elsevier Ireland Ltd. All rights reserved. 
+
+Keywords: First night effect; Childhood; Obstructive sleep apnoea syndrome; Sleep structure; Arousal 
+
+1. Introduction 
+* Corresponding author. Tel.: þ49-3644-571711; fax: þ49-3644571601. 
+Sleep studies in children and adolescents are still scant, 
+E-mail address: sl@rkk-apolda.de (S. Scholle). and there is a lack of uniformity regarding data acquisition 
+
+1388-2457/03/$30.00 q 
+2003 International Federation of Clinical Neurophysiology. Published by Elsevier Ireland Ltd. All rights reserved. 
+doi:10.1016/S1388-2457(03)00209-8 
+
+
+S. Scholle et al. / Clinical Neurophysiology 114 (2003) 2138–2145 
+and interpretation. Methodological differences among 
+studies may result in different findings. Although the 
+diagnostic evaluation of a sleep problem on the basis of a 
+single-night polysomnography (PSG) is common (Acebo 
+et al., 1996), doubt is often voiced that the first night is not 
+representative when sleep organization and architecture 
+need to be addressed. 
+
+The first night effect (FNE) in adults, described by 
+Agnew et al. (1966), is also observable in children in the 
+form of diminished sleep quality, but few data on this effect 
+in children have so far become available (Palm et al., 1989; 
+American Thoracic Society, 1996; Emslie et al., 2001; Katz 
+et al., 2002). 
+
+In this study, we aimed to identify the parameters (sleep 
+architecture, cardiac parameters, and respiratory parameters) 
+that reflect sleep disturbances caused by the 
+unfamiliar environment of a pediatric sleep laboratory in a 
+first night polysomnographic study. The aim of the study 
+was to show that sleep organization and architecture differ 
+between the first and second nights. The question whether 
+an adaptation night is necessary in polysomnographic 
+studies in children and adolescents remains unanswered, 
+and must also be seen in relation to changes in sleep 
+behavior during development. 
+
+Since data on the magnitude and nature of the FNE on 
+respiratory patterns in children are limited, we also wished 
+to determine the influence of the first night on respiratory 
+parameters, and establish whether a single overnight PSG 
+suffices to identify the presence and severity of sleep-related 
+respiratory disturbances in this age category. 
+
+Finally, we aimed to present normative polysomnographic 
+data on sleep, breathing and heart rate (HR) in 
+children and adolescents investigated for suspected sleep-
+disordered breathing, as a function of age. 
+
+2. Methods 
+2.1. Patient population 
+The patients were referred to our laboratory for 
+evaluation of suspected sleep-disordered breathing, and 
+were examined on two consecutive nights (I and II) under 
+identical conditions. In 105 children (Group 1) (age 
+classes—A: 2–6 years n ¼ 
+28; B: 7–13 years n ¼ 
+53; C: 
+14–17 years n ¼ 
+24), no PSG-abnormalities were found. 
+This group included 3 post-adenotonsillectomy patients and 
+18 patients on nCPAP-therapy. No statistical differences 
+were seen between obstructive sleep apnoea syndrome-
+patients (OSAS) after/under treatment and children/ 
+adolescents with no PSG-abnormalities. In addition, we 
+investigated 26 patients (Group 2) with clinically and 
+polysomnographically confirmed untreated obstructive 
+sleep apnoea (A: n ¼ 
+9; B: n ¼ 
+12; C: n ¼ 
+5). 
+
+Patients with a history of psychiatric or neurologic 
+disorders were excluded. 
+
+Written informed consent was obtained from all parents. 
+No sedation or sleep deprivation was applied. 
+
+2.2. Polysomnography 
+During nocturnal PSG (sleep period time (SPT) 
+median 8.3 h, quartile range (qur) 1.1 h), the following 
+parameters were recorded: referential electroencephalograms 
+(EEG) F4A1, F3A2, submental surface electromyogram 
+(EMG), referential electrooculograms 
+(‘ROC/A1 and LOC/A2’), surface EMG from the right 
+and left tibialis anterior muscle, electrocardiogram 
+(ECG), HR from ECG (R–R interval triggered), nasal 
+airflow (thermistor), thoracic and abdominal effort (strain 
+gauge), oxygen saturation (SaO2) (pulse oximetry, 
+Oxycon, Sensormedics, interval for calculations: beat to 
+beat), and snoring (microphone). The examinations were 
+conducted in accordance with the guidelines in the 
+‘Standards and indications for cardiopulmonary sleep 
+studies in children’ (American Thoracic Society, 1996). 
+The Somnostar 4100 PSG system (Sensormedics) was 
+used. Behavior was observed and recorded directly by a 
+technician. 
+
+2.3. Analysis of polygraphic recordings 
+The following parameters were analyzed: sleep macro-
+structure (sleep efficiency (SE), NREM 1–4, REM, REM 
+latency (RL)) and sleep microstructure (EEG-and motoric 
+arousals/jerks). The computer-aided evaluation (Somnostar 
+4100, Sensormedics) of all parameters was checked 
+manually (30 s epochs for sleep staging, 2 min epochs for 
+respiratory parameters). Sleep was staged in accordance 
+with Rechtschaffen and Kales (1968) guidelines adapted 
+for age (Scholle and Scha¨fer, 1999). To exclude 
+interindividual differences, the staging was done by a 
+single person. With regard to EEG-arousals, the definition 
+applied to adult PSG (ASDA, 1992) was modified, with 
+EEG frequency shifts .1 s being considered (Scholle and 
+Zwacka, 2001). Motoric arousals were scored whenever 
+activation of the tibialis anterior muscle (jerks) occurred 
+together with activation of any other polygraphic 
+parameter, for example, HR or EEG. Sleep efficiency 
+was defined as total sleep time (TST) divided by time in 
+bed (TIB). RL was defined as the period from sleep onset 
+to first REM. 
+
+The following respiratory parameters were evaluated: 
+obstructive, mixed and central apnoeas and hypopnoeas 
+lasting longer than two breaths (Marcus, 1997) were applied 
+to calculate the apnoea/hypopnoea-index (AHI) per hour of 
+TST. In addition, mean HR and mean SaO2 were calculated. 
+HR and SaO2 artifacts were eliminated manually before HR 
+and SaO2 were analyzed automatically (Somnostar 4100, 
+Sensormedics). 
+
+
+S. Scholle et al. / Clinical Neurophysiology 114 (2003) 2138–2145 
+2.4. Statistics 
+Descriptive data are presented as the median and quartile 
+range. 
+
+Differences between children/adolescents with no PSG-
+abnormalities (n ¼ 
+84), OSAS patients under/after therapy 
+(n ¼ 
+21) and OSAS patients not receiving treatment 
+(n ¼ 
+26) were investigated for the different age classes by 
+the Mann and Whitney U-test. 
+
+The two nights were compared using Wilcoxon’s rank 
+sum test. 
+
+Differences between the age classes were detected by the 
+Kruskal–Wallis test. 
+
+A probability value ( p) of less than 0.05 was considered 
+significant. The computer statistical program Statview was 
+used. 
+
+3. Results 
+There were no significant differences between children/ 
+adolescents with no PSG-abnormalities and OSAS patients 
+under/after therapy (nCPAP/adenotonsillectomy) and 
+OSAS patients in terms of sleep parameters (excluding 
+arousal indices), SaO2 and HR. Sleep parameters (excluding 
+arousal indices), SaO2 and HR have, therefore, been pooled 
+and representative values (medians, qur, minima and 
+maxima) for the age classes A, B and C presented in 
+Table 1a (n ¼ 
+131). 
+
+Significant differences in AHI, EEG-arousal index (AI) 
+and motoric arousal index were found between patients with 
+no PSG-abnormalities (Group 1: n ¼ 
+105) (Table 2a) and 
+OSAS patients (Group 2: n ¼ 
+26) (Table 2b). 
+
+In the age class A (n ¼ 
+37), in all children (Table 1a) 
+significantly more wakefulness was seen on the first than on 
+the second night (W—I: 3.40% SPT, qur 5.80; II: 1.50% 
+SPT, qur 2.47). Time spent in NREM 1–4 did not differ 
+significantly between the two nights. There was significantly 
+less REM sleep on the first night (I: 16.0% SPT, qur 
+10.00; II: 18% SPT, qur 8.00), but the RL was comparable 
+on both nights. On the first night, the mean HR was higher 
+
+(I: 72.00/min, qur 10.75; II: 72.00/min, qur 12.25). 
+In the age range B (n ¼ 
+60), significantly more 
+wakefulness was seen on the first than on the second 
+night (W—I: 5.15% SPT, qur 10.10; II: 1.05% SPT, qur 
+3.20) (Table 1) reflecting a significantly lower sleep 
+efficiency (SE—I: 89.00%, qur 13.50; II: 96.00%, qur 
+8.00). The percentage of NREM 1 was higher on the first 
+night (NREM 1—I: 7.05% SPT, qur 8.80; II: 5.30% SPT, 
+qur 8.20), and there was significantly less REM sleep 
+(REM—I: 17.00% SPT, qur 5.50; II: 18.50% SPT, qur 
+7.50), whereas the RL was comparable on both nights. On 
+the first night, the mean HR was higher (I: 65.50/min, qur 
+14.00; II: 63.50/min, qur 14.00). 
+
+In the age range C (n ¼ 
+34), the differences between the 
+two nights reflecting the FNE were similar. First night sleep 
+
+efficiency (SE—I: 94.00%, qur 9.00; II: 96.00%, qur 5.00) 
+was lower, the proportion of wakefulness (W—I: 4.85% 
+SPT, qur 7.40, II: 2.40% SPT, qur 3.40) was higher, and 
+NREM 1 longer (NREM 1—I: 9.30% SPT, qur 9.20; II: 
+6.00% SPT, qur 10.40). Furthermore, on the adaptation 
+night, the NREM 4 was shorter (NREM 4—I: 14.00% SPT, 
+qur 6.30; II: 16.00% SPT, qur 8.00) and the percentage of 
+REM sleep smaller (REM—I: 12.00% SPT, qur 8.10; II: 
+18.00% SPT, qur 5.00). 
+
+Comparison of the two nights in Groups 1 and 2 
+(Table 2a, b), patients revealed no significant differences 
+in AHI, mean SaO2 and number of EEG-arousals. On the 
+first night, the number of motoric arousals was significantly 
+enhanced only in age class A in the group of OSAS 
+patients (n ¼ 
+9) (I: 14.28/h TST, qur 6.81; II: 12.65/h TST, 
+qur 3.75). 
+
+As exemplified in Fig. 1, sleep continuity in the first night 
+was usually disturbed. 
+
+Comparison of the age classes A, B and C showed an age 
+dependence of the sleep and cardiorespiratory parameters 
+(Table 1a, b). With increasing age, a higher proportion of 
+NREM 1 was found, especially on the first night. Also, 
+NREM 2 was increased on both nights, NREM 3 was 
+decreased on the first night and NREM 4 on both nights. A 
+lower proportion of REM sleep was found in older children 
+on the first night. 
+
+With increasing age, the mean HR decreased. 
+
+In Group 1, lower AHI values, lower AI and lower 
+motoric arousal indices (significant only on the first night) 
+were found in older patients (Table 2a, c). This age 
+dependence was not found in OSAS patients (Group 2) 
+(Table 2b, c). 
+
+4. Discussion 
+In specialized centres, PSG is routinely performed to 
+evaluate children with sleep disturbances, for example 
+sleep-disordered breathing. Individual sleep patterns, development-
+related changes and technical aspects of sleep 
+recording have a considerable influence on the results of 
+PSG in children. Methodological aspects of sleep evaluation 
+in particular have, however, not yet been adequately 
+defined. 
+
+Our study presents polysomnographic data obtained from 
+children and adolescents; in comparison with PSG in adults, 
+there are some differences in data collection and evaluation. 
+Rechtschaffen and Kales (1968) recommended the use of 
+central EEG leads for sleep staging. As shown by Kubicki 
+et al. (1982), however, frontal leads have advantages over 
+central leads. The so-called vertex sharp waves characteristic 
+for the end of stage NREM 1 and the beginning of stage 
+NREM 2, represent the only pattern undetectable in frontal 
+leads. Sleep spindles, K complexes and delta waves are 
+adequately recorded in frontal leads. Furthermore, in 
+childhood, arousal patterns are more readily recognizable 
+
+
+S. Scholle et al. / Clinical Neurophysiology 114 (2003) 2138–2145 
+Table 1 
+
+(a) Sleep parameters, oxygen saturation (SaO2) and heart rate (HR) and (b) statistical significance of age-dependency of sleep parameters, oxygen saturation 
+(SaO2) and heart rate (HR) in 131 patients evaluated for suspected obstructive sleep apnoea on two consecutive nights ( p: Kruskal–Wallis-test) 
+First night Second night 
+Median Quartile range Min Max Median Quartile range Min Max p Wilcoxon 
+(a) 
+Age group A n ¼ 
+37 
+Age [years] 5.92 1.76 2.4 6.99 
+SPT [min] 526.00 63.50 303.00 610.00 527.00 61.00 445.00 598.00 0.6893 
+SE [%] 94.00 8.25 74.00 100.00 94.00 9.00 81.00 100.00 0.5259 
+W [%SPT] 3.40 5.80 0.00 24.00 1.50 2.47 0.00 12.00 0.0026 
+NREM 1 [%SPT] 4.70 7.15 0.00 32.00 4.50 9.55 0.30 27.00 0.5144 
+NREM 2 [%SPT] 38.00 10.25 22.00 63.00 41.00 7.50 23.00 51.00 0.9087 
+NREM 3 [%SPT] 10.00 5.15 6.20 27.00 11.00 5.72 5.30 21.00 0.4276 
+NREM 4 [%SPT] 19.00 6.00 11.00 29.00 21.00 6.25 6.40 30.00 0.2959 
+REM [%SPT] 16.00 10.00 5.80 27.00 18.00 8.00 12.00 31.00 0.0009 
+REM latency [min] 139.00 73.25 46.00 369.00 134.00 68.00 26.00 263.00 0.2105 
+SaO2 [%] 95.00 1.25 93.00 98.00 95.00 2.00 92.00 98.00 0.5401 
+HR [/min] 72.00 10.75 52.00 88.00 72.00 12.25 56.00 92.00 0.0355 
+Age group B n ¼ 
+60 
+Age [years] 9.86 2.22 7.04 12.98 
+SPT [min] 495.50 65.00 428.00 633.00 498.00 47.50 408.00 575.00 0.2158 
+SE [%] 89.00 13.50 61.00 100.00 96.00 8.00 78.00 100.00 ,0.0001 
+W [%SPT] 5.15 10,10 0.20 39.00 1.05 3.20 0.00 17.00 ,0.0001 
+NREM 1 [%SPT] 7.05 8.80 0.90 20.00 5.30 8.20 0.00 27.00 0.0449 
+NREM 2 [%SPT] 39.00 7.50 20.00 63.00 42.00 6.00 8.00 53.00 0.1234 
+NREM 3 [%SPT] 8.45 4.10 3.40 18.00 9.30 3.85 4.40 43.00 0.0558 
+NREM 4 [%SPT] 20.00 7.50 4.30 28.00 19.00 6.00 8.40 29.00 0.1283 
+REM [%SPT] 17.00 5,50 4.00 27.00 18.50 7.50 4.40 32.00 0.0004 
+REM latency [min] 157.00 86.00 48.00 445.00 144.50 84.50 57.00 412.00 0.4504 
+SaO2 [%] 95.00 1.50 93.00 99.00 95.00 1.00 94.00 98.00 0.5132 
+HR [/min] 65.50 14.00 47.00 93.00 63.50 14.00 48.00 82.00 ,0.0001 
+Age group C n ¼ 
+34 
+Age [years] 14.73 1.77 13.12 17.64 
+SPT [min] 465.50 53.00 380.00 534.00 461.50 72.00 392.00 594.00 0.2892 
+SE [%] 94.00 9.00 62.60 100.00 96.00 5.00 83.00 100.00 0.0010 
+W [%SPT] 4.85 7.40 0.00 28.00 2.40 3.40 0.00 15.00 0.0022 
+NREM 1 [%SPT] 9.30 9.20 0.00 29.00 6.00 10.40 0.20 17.00 0.0006 
+NREM 2 [%SPT] 47.50 9.00 28.00 62.00 45.00 8.00 35.00 60.00 0.2098 
+NREM 3 [%SPT] 8.55 4.00 2.50 15.00 10.00 4.60 3.10 17.00 0.1323 
+NREM 4 [%SPT] 14.00 6.30 0.00 24.00 16.00 8.00 6.60 26.00 0.0020 
+REM [%SPT] 12.00 8.10 2.10 27.00 18.00 5.00 3.80 26.00 0.0004 
+REM latency [min] 145.50 98.00 54.00 396.00 101.00 68.00 54.00 219.00 0.0529 
+SaO2 [%] 95.00 1.00 92.00 97.00 95.00 1.00 92.00 97.00 0.8241 
+HR [/min] 58.00 9.00 38.00 77.00 57.00 11.00 39.00 73.00 0.1631 
+(b) 
+First night Second night 
+p p 
+SE [%] 0.2240 0.2560 
+W [%SPT] 0.1636 0.1195 
+NREM 1 [%SPT] 0.0210 0.6589 
+NREM 2 [%SPT] ,0.0001 0.0003 
+NREM 3 [%SPT] 0.0001 0.1740 
+NREM 4 [%SPT] ,0.0001 0.0008 
+REM [%SPT] 0.0028 0.1492 
+REM latency [min] 0.3492 0.0341 
+SaO2 [%] 0.7932 0.3866 
+HR [/min] ,0.0001 ,0.0001 
+
+(a) The two nights were compared using Wilcoxon’s rank sum test. Age classes A: 2–6 years, B: 7–12 years and C: 13–17 years. 
+
+S. Scholle et al. / Clinical Neurophysiology 114 (2003) 2138–2145 
+Table 2 
+
+(a) Apnoea/hypopnoea-index (AHI), EEG-arousal index (AI) and motoric arousal index (JI) on two consecutive nights in patients with no PSG-abnormalities 
+including treated OSAS patients (Group 1), (b) in untreated OSAS patients (Group 2) and (c) the statistical significance of age-dependency of 
+apnoea/hypopnoea-index (AHI), EEG-arousal index (AI) and motoric arousal index (JI) in patients with no PSG-abnormalities including treated OSAS patients 
+(Group 1: n ¼ 
+105) and untreated OSAS patients (Group 2: n ¼ 
+26) on two consecutive nights ( p: Kruskal–Wallis-test) 
+First night Second night 
+
+Median Quartile range Min Max Median Quartile range Min Max p Wilcoxon 
+
+(a) 
+Age group A n ¼ 
+28 
+AHI [/h TST] 
+AI [/h TST] 
+JI [/h TST] 
+3.25 
+11.05 
+10.82 
+2.05 
+5.10 
+3.85 
+0.40 
+5.10 
+3.97 
+4.90 
+20.60 
+16.05 
+2.80 
+9.14 
+9.59 
+1.65 
+5.54 
+6.05 
+0.00 
+3.10 
+3.80 
+6.20 
+25.10 
+25.40 
+0.8554 
+0.4860 
+0.9330 
+Age group B n ¼ 
+53 
+AHI [/h TST] 
+AI [/h TST] 
+JI [/h TST] 
+1.70 
+7.76 
+8.54 
+1.95 
+3.99 
+4.42 
+0.00 
+3.10 
+2.30 
+5.80 
+28.90 
+19.20 
+2.00 
+7.43 
+7.86 
+1.80 
+4.11 
+4.96 
+0.10 
+2.99 
+2.74 
+4.50 
+24.97 
+22.28 
+0.3356 
+0.4152 
+0.3122 
+Age group C n ¼ 
+24 
+AHI [/h TST] 
+AI [/h TST] 
+JI [/h TST] 
+(b) 
+1.60 
+8.00 
+8.20 
+1.85 
+4.38 
+5.87 
+0.10 
+3.13 
+1.85 
+4.00 
+36.97 
+16.74 
+1.60 
+7.44 
+8.67 
+1.77 
+3.36 
+5.49 
+0.20 
+2.30 
+2.17 
+4.70 
+23.92 
+17.65 
+0.5963 
+0.5163 
+0.6987 
+Age group A n ¼ 
+9 
+AHI [/h TST] 
+AI [/h TST] 
+JI [/h TST] 
+11.90 
+12.90 
+14.28 
+5.22 
+2.78 
+6.81 
+5.00 
+9.40 
+9.40 
+27.40 
+25.87 
+28.75 
+8.10 
+12.20 
+12.65 
+4.05 
+4.41 
+3.75 
+5.20 
+7.14 
+7.70 
+12.80 
+21.46 
+21.65 
+0.0858 
+0.1386 
+0.0109 
+Age group B n ¼ 
+12 
+AHI [/h TST] 
+AI [/h TST] 
+JI [/h TST] 
+9.55 
+10.65 
+12.30 
+5.55 
+8.46 
+5.29 
+6.00 
+6.30 
+5.90 
+40.20 
+26.97 
+21.10 
+6.10 
+10.14 
+10.88 
+5.65 
+5.77 
+6.44 
+2.70 
+5.79 
+5.80 
+31.00 
+25.80 
+19.10 
+0.1579 
+0.6379 
+0.3332 
+Age group C n ¼ 
+5 
+AHI [/h TST] 
+AI [/h TST] 
+JI [/h TST] 
+10.30 
+10.88 
+13.83 
+21.73 
+1.60 
+9.17 
+5.40 
+10.24 
+8.47 
+66.20 
+14.09 
+13.83 
+8.80 
+10.35 
+8.79 
+18.47 
+4.42 
+3.42 
+5.20 
+5.80 
+4.52 
+70.40 
+14.60 
+11.95 
+0.6858 
+0.3452 
+0.2249 
+(c) 
+Group 1 Group 2 
+First night Second night First night Second night 
+AHI [/h TST] 
+AI [/h TST] 
+JI [/h TST] 
+p 
+0.0014 
+0.0187 
+0.0157 
+p 
+0.0021 
+0.0470 
+0.0637 
+p 
+0.7711 
+0.2358 
+0.5933 
+p 
+0.5094 
+0.3868 
+0.1039 
+
+(a) The two nights were compared using Wilcoxon’s rank sum test. Age classes A: 2–6 years, B: 7–12 years and C: 13–17 years. 
+(b) The two nights were compared using Wilcoxon’s rank sum test. Age classes A: 2–6 years, B: 7–12 years and C: 13–17 years. 
+in frontal than in central or occipital leads (Scholle and 
+Scha¨fer, 1999). 
+
+The evaluation of sleep architecture in childhood is 
+complicated by the changes in EEG patterns during 
+development (American Thoracic Society, 1996; Scholle 
+and Scha¨fer, 1999). For example, the posterior basic rhythm 
+changes from 2–4 Hz at 2–4 months to 6–7 Hz at 12 
+months and 6–8 Hz at 3–5 years, and attains the typical 
+alpha rhythm at 12–20 years (Niedermeyer and Lopes da 
+Silva, 1992). This gradual change from the theta to the alpha 
+frequency band complicates the scoring of brief intrasleep 
+wake and arousal periods. For this reason, an additional 
+occipital referential EEG lead as proposed for arousal 
+
+scoring in adults (ASDA, 1992) is not helpful in childhood. 
+Nevertheless, in childhood, brief wake periods are very easy 
+to classify since, in addition to EEG changes, typical HR 
+acceleration, changes in respiratory pattern and often a 
+motoric activation occur (Scholle and Scha¨fer, 1999). 
+
+As a modification of the definition of arousal in adult 
+PSG (ASDA, 1992), EEG frequency shifts greater than 1 s 
+were applied (Scholle and Zwacka, 2001). As Mograss et al. 
+(1994) showed, most EEG frequency shifts in childhood are 
+shorter than 3 s—the minimal duration of an arousal in 
+adults (ASDA, 1992). 
+
+The pattern of breathing during sleep changes with 
+age. Because children have a higher respiratory rate and 
+
+
+S. Scholle et al. / Clinical Neurophysiology 114 (2003) 2138–2145 
+Fig. 1. First night effect in an 8-year-old boy. Sleep continuity on the first night is disturbed (many brief awakenings and arousals). First night: sleep efficiency, 
+SE 80%; sleep latency, SL 70 min; W 8.6% SPT; NREM 1 4.2% SPT; NREM 2 32% SPT; NREM 3 14% SPT; NREM 4 25% SPT; REM 16% SPT. EEG-
+arousals 11.7/h TST, motoric arousals (jerks) 10.8/h TST. Second night: SE 93%; SL 15 min; W 4.4% SPT; NREM 1 2.7% SPT; NREM 2 46% SPT; NREM 3 
+8.7% SPT;NREM 4 22% SPT;REM 16%SPT. EEG-arousals 6.7/h TST, motoric arousals (jerks) 5.5/h TST. TST, total amount of NREM 1–4 and REM; SPT, 
+
+time in bed minus wake before sleep minus wake after sleep. 
+
+a lower functional residual capacity than adults, we score 
+as apnoea cessation of breathing lasting for $2 breaths 
+(in adults .10 s), as proposed by Davidson et al. (1996) 
+and Marcus (1997). 
+
+Although diagnosing a sleep problem on the basis of a 
+single-night recording is common practice (Acebo et al., 
+1996), some clinicians caution that more than 1 night of 
+recording may be necessary, to enable the patient to 
+acclimatize to the unfamiliar environment and sleep more 
+naturally (Meyer et al., 1993; Le Bon et al., 2000, 2001; 
+Rains, 2001). 
+
+PSG itself represents an external stimulus inducing a 
+sleep disturbance, especially on the first night. Sleep is 
+typically of reduced quality compared with that in the 
+subject’s usual sleep environment with no bothersome 
+electrodes and leads. Subjects usually habituate to the 
+laboratory by the second night. This FNE described by 
+Agnew et al. (1966) in adults is also observable in children. 
+
+Toussaint et al. (1995) reported a varyingly marked FNE 
+in different groups, e.g. normal subjects, insomniacs or 
+depressed patients. In our study, we investigated children 
+
+and adolescents for sleep-disordered breathing. No patients 
+with a history of psychiatric or neurologic disorders were 
+included. 
+
+FNE in adults is characterized by a reduction in TST and 
+REM sleep, lower sleep efficiency, increased intrasleep 
+wake time and longer RL (Rechtschaffen and Verdone, 
+1964; Agnew et al., 1966; Hartmann, 1968; Rains, 2001; Le 
+Bon et al., 2001). No clear pattern has been identified for 
+NREM sleep. Toussaint et al. (1997, 2000) described 
+changes in EEG power density during sleep laboratory 
+familiarisation. Increased delta, theta and beta 1 power 
+densities accompanied by a decrease in mean frequency 
+were seen in REM sleep on the second night. Delta and theta 
+power density values in the first NREM episode were lower 
+on the first night than on the second night. 
+
+In children/adolescents without sleep-disordered breathing, 
+treated OSAS patients and OSAS patients not receiving 
+therapy, we found no significant difference in sleep structure 
+(excluding arousal indices), SaO2 and HR for the age ranges 
+2–6, 7–12 and 13–17 years. We, therefore, pooled these 
+groups in Table 1a to obtain normative values for these 
+
+
+S. Scholle et al. / Clinical Neurophysiology 114 (2003) 2138–2145 
+parameters on the first and second nights of PSG. In children 
+aged 7–12 years and adolescents aged 13–17 years, we 
+observed lower sleep efficiency in the first night due to a 
+greater percentage of wakefulness during the TIB. As shown 
+in Fig. 1, sleep latency is usually longer. FNE is further 
+characterized by disturbed sleep continuity, i.e. there are 
+numerous brief awakenings. Despite prolongation of NREM 
+1 on the first night in the age classes 7–12 and 13–17 years 
+and NREM 4 prolongation on the second night in the 13– 
+17-year-olds (Table 1a), NREM duration was not significantly 
+influenced by the habituation phenomenon—as was 
+also described by Le Bon et al. (2001) for adults. In children, 
+the first deep sleep period in particular, is not disturbed 
+by FNE. 
+
+On the first night, a significantly lower percentage of 
+REM sleep was found in all 3 age classes. This may be 
+caused by slower adaptation of REM sleep—as described 
+for adults—reflecting a more protracted and progressive 
+habituation process as compared with NREM sleep (Endo 
+et al., 1998). In contrast to adults, first night REM sleep 
+latency is not statistically significantly longer. In most 
+children, however, the initial sleep cycle is incomplete, with 
+no REM phase (Roffwarg et al., 1964; Feinberg and Floyd, 
+1979; Palm et al., 1989; Kahn et al., 1996). Thus, in all 3 age 
+groups, the time between sleep onset and the first epoch of 
+REM is long, but with considerable variability so that 
+shortening of REM sleep latency, while demonstrable, is not 
+statistically significant (Table 1a). 
+
+The characterization of the microstructure of sleep in 
+terms of the EEG-arousals or motoric arousals (Fig. 1) 
+appears to be an important marker for sleep disturbances 
+in children (Scholle and Zwacka, 2001). But we failed to 
+find any statistically significant differences in the number 
+of arousals between first and second nights in any of the 3 
+age classes. This was true of both Groups 1 and 2, with 
+the exception of age class A in Group 2 which had 
+significantly more motoric arousals on the fist night 
+(Table 2a, b). 
+
+As we show here, the FNE in children is also 
+characterized by an elevated mean HR. This statistical 
+difference may be accounted for by the higher proportion of 
+wakefulness with associated higher HR. 
+
+The effect of the first night of PSG on the next night 
+may be compared to partial sleep deprivation (Le Bon et al., 
+2001). Toussaint et al. (1997) summarized that the second 
+night might be affected by REM sleep deprivation on the 
+first night. We are, therefore, of the opinion that FNE can 
+be observed only on immediately consecutive nights and 
+not in nocturnal polysomnograms performed 7–27 nights 
+apart, as described by Katz et al. (2002). This would 
+explain why they failed to find night-to-night variability of 
+sleep efficiency, arousal index, percent REM, or percent of 
+slow wave sleep in children, leading them to reject a FNE 
+in this age group. We believe that the interval between the 
+first and second examinations in their study was too long to 
+identify a FNE. 
+
+Katz et al. (2002) also failed to find any night-to-night 
+variability of respiratory parameters. In a group of 26 
+children with OSAS (Group 2), we, too, saw no statistically 
+significant differences in AHI and mean arterial SaO2 
+between the first and second nights, indicating that a single 
+polysomnographic night might suffice to demonstrate 
+respiratory disturbances. Mendelson (1994) also failed to 
+find any differences in AHI, mean minimal arterial oxygen 
+desaturation or absolute minimum desaturation between the 
+two nights in adults. This is in contrast to the results of Le 
+Bon et al. (2000) and Meyer et al. (1993) showing under-
+diagnosis of respiratory events in adults when only the first 
+night is considered. 
+
+Children show considerable interindividual differences 
+in sleep quality. If first night sleep quality is poor, we 
+repeat PSG on a second night, even when investigating for 
+obstructive sleep apnoea. A repeat study is also mandatory 
+when parents report a typical night’s sleep that is at 
+variance with our first night findings (American Thoracic 
+Society, 1996). 
+
+Webb and Campbell (1979) reported a more pronounced 
+FNE in older subjects. This prompted us to determine the 
+extent to which age may influence the FNE. We found the 
+FNE to be more pronounced in the older children and 
+adolescents. In age ranges B and C, differences in sleep 
+parameters became progressively more statistically significant—
+as Table 1 shows. 
+
+Currently, few polysomnographic reference values are 
+available for the pediatric age group (Acebo et al., 1996; 
+Davidson et al., 1996; Kahn et al., 1996; Stores et al., 
+1998; Katz et al., 2002). In Tables 1a and 2a, b,we 
+present normative data on sleep, breathing, oximetry and 
+HR in children and adolescents evaluated for sleep-
+disordered breathing. We found age-dependency for most 
+of these parameters. In common with Kahn et al. (1996), 
+we identified a prolongation of NREM 1, an increase in 
+the proportion of NREM 2, and a decrease in NREM 3 
+and NREM 4. Furthermore, there was a decrease in REM 
+sleep in older children/adolescents (Table 1a, b). With 
+increasing age, there are fewer apnoeas/hypopnoeas and 
+fewer EEG-and motoric arousals (Table 2a–c). This age-
+dependency was affected by the FNE and sleep-disordered 
+breathing (OSAS). 
+
+The FNE, which represents the sleep-altering effect of 
+the monitoring process itself, is demonstrable in both adults 
+and childhood. In some cases, the FNE may obscure the 
+clinical diagnosis (Rains, 2001). When interpreting polysomnographic 
+results, therefore, account must be taken of 
+the FNE, as also of the age-dependency of most of the 
+physiologic parameters. 
+
+References 
+
+Acebo C, Millman RP, Rosenberg C, Cavallo A, Caskardon MA. Sleep, 
+
+breathing and cephalometrics in older children and young adults. Part 
+
+I—Normative values. Chest 1996;109:664–72. 
+
+
+S. Scholle et al. / Clinical Neurophysiology 114 (2003) 2138–2145 
+Agnew HW, Wilse B, Webb B, Williams RL. The first night effect: an EEG 
+study of sleep. Psychophysiologie 1966;2:263–6. 
+
+American Sleep Disorders Association. Arousals: scoring rules and 
+examples. A preliminary report from the sleep disorders atlas task 
+force of the American Sleep Disorders Association. Sleep 1992;15: 
+173–84. 
+
+American Thoracic Society: standards and indications for cardiopulmonary 
+sleep studies in children. Am J Respir Crit Care Med 1996;153: 
+866–78. 
+Davidson W, Sally L, Marcus CL. Obstructive apnoea in infants and young 
+children. J Clin Neurophysiol 1996;13:198–207. 
+Emslie GJ, Armitage R, Weinberg WA, Rush AJ, Mayes TL, Hoffmann RF. 
+Sleep polysomnography as a predictor of recurrence in children and 
+adolescents with major depressive disorder. Int J Neuropsychopharmacol 
+2001;4:159–68. 
+Endo T, Roth C, Landolt HP, Werth E, Aeschbach D, Achermann P, et al. 
+Selective REM sleep deprivation in humans: effects on sleep and sleep 
+EEG. Am J Physiol 1998;274:R1186–94. 
+Feinberg I, Floyd TC. Systematic trends across the night in human sleep 
+cycles. Psychophysiology 1979;16:283–91. 
+Hartmann E. Adaption to the sleep laboratory and placebo effect. 
+Psychophysiology 1968;4:389. 
+Kahn A, Dan B, Groswasser J, Franco P, Sottiaux M. Normal sleep 
+architecture in infants and children. J Clin Neurophysiol 1996;13: 
+184–97. 
+Katz ES, Greene MG, Carson KA, Galster P, Loughlin GM, Caroll J, et al. 
+Night-to-night variability of polysomnography in children with 
+suspected obstructive sleep apnoea. J Pediatr 2002;140:589–94. 
+Kubicki S, Phermann WM, Scheuler W. Kritische Bemerkungen zu den 
+Regeln von Rechtschaffen und Kales u¨ber die visuelle Auswertung von 
+EEG-Schlafableitungen. Z EEG EMG 1982;13:51–60. 
+Le Bon O, Hoffmann G, Tecco J, Staner L, Noseda A, Pelc I, et al. Mild to 
+moderate sleep respiratory events: one negative night may not be 
+enough. Chest 2000;118:353–9. 
+Le Bon O, Staner L, Hoffmann G, Dramaix M, San Sebastian I, Murphy JR, 
+et al. The first-night effect may last more than one night. Psychiatry Res 
+2001;35:165–72. 
+Marcus CL. Clinical and pathophysiological aspects of obstructive sleep 
+apnoea in children. Pediatr Pulmonol 1997;(Suppl 16):123–4. 
+Mendelson WB. Use of the sleep laboratory in suspected sleep apnoea 
+syndrome: is one night enough? Cleve Clin J Med 1994;61:299–303. 
+
+Meyer TJ, Eveloff SE, Kline LR, Millman RP. One negative polysomnogram 
+does not exclude obstructive sleep apnoea. Chest 1993;103: 
+756–60. 
+
+Niedermeyer E, Lopes da Silva F. Electroencephalography—basic 
+principles, clinical application, and related fields, 3rd ed. Baltimore/ 
+Philadelphia/Hong Kong/London/Munich/Sydney/Tokyo: Williams & 
+Wilkins; 1992. p. 178. 
+
+Palm L, Person E, Elquist D, Blenno WG. Sleep and wakefulness in normal 
+preadolescent children. Sleep 1989;12:299–308. 
+
+Rains JC. Polysomnography necessitates experimental control of the ‘First 
+night effect’. Headache 2001;41:917–8. 
+
+Rechtschaffen A, Verdone P. Amount of dreaming: effect of incentive, 
+adaption to laboratory, and individual differences. Percept Mot Skills 
+1964;19:947–58. 
+
+Rechtschaffen A, Kales A. In: Berger RJ, Dement WC, Jacobson A, 
+Johnson LC, Jouvet M, Monroe LJ, Oswald I, Roffwarg HP, Roth B, 
+Walter RD, editors. A manual of standardized terminology, techniques 
+and scoring system for sleep stages of human subjects. Washington, 
+DC: Public Health Service, US Government Printing Office; 1968. 
+
+Roffwarg HP, Dement WC, Fisher C. Preliminary observations of the 
+sleep–dream pattern in neonates, infants, children and adults. In: 
+Harms E, editor. Problems of sleep and dreams in children. Monographs 
+on child psychiatry, vol. 2. New York: Pergamon Press; 1964. p. 60–72. 
+
+Stores NG, Crawford C, Selman J, Wiggs L. Home polysomnographic 
+norms for children. Technol Health Care 1998;6:231–6. 
+
+Scholle S, Scha¨fer T. Atlas of states of sleep and wakefulness in infants and 
+children. Somnologie 1999;3:163–241. 
+
+Scholle S, Zwacka G. Arousals and obstructive sleep apnoea syndrome in 
+children. Clin Neurophysiol 2001;112:984–91. 
+
+Toussaint M, Luthringer R, Schaltenbrand N, Carelli G, Lainey E, Jacqmin 
+A, et al. First-night effect in normal subjects and psychiatric inpatients. 
+Sleep 1995;18:463–9. 
+
+Toussaint M, Luthringer R, Schaltenbrand N, Nicolas A, Jacqmin A, Carelli 
+G, et al. Changes in EEG power density during sleep laboratory 
+adaption. Sleep 1997;20:1201–7. 
+
+Toussaint M, Luthringer R, Staner L, Muzet A, Macher J. Changes in EEG 
+power density during sleep laboratory adaption in depressed inpatients. 
+Biol Psychiatry 2000;47:626–33. 
+
+Webb WB, Campbell SS. The first night effect revisited with age as a 
+variable. Waking Sleeping 1979;3:319–24. 
+
+

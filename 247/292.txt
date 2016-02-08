@@ -1,0 +1,706 @@
+Morning Levels of C-Reactive Protein in Children 
+with Obstructive Sleep-disordered Breathing 
+
+Athanasios G. Kaditis, Emmanouel I. Alexopoulos, Efthimia Kalampouka, Eleni Kostadima, Anastasios Germenis, 
+Elias Zintzaras, and Konstantinos Gourgoulianis 
+
+Departments of Pediatrics, Pediatric Pulmonology Unit, Immunology, and Biomathematics, and Sleep Disorders Laboratory, University of 
+Thessaly School of Medicine and Larissa University Hospital, Larissa, Greece 
+
+Obstructive sleep-disordered breathing is associated with cardiovascular 
+disease in adults, and elevated C-reactive protein (CRP) 
+has been proposed as a link between the two disorders. We hypothesized 
+that children with sleep-disordered breathing have higher 
+CRP values than do control subjects. CRP was measured in 39 children 
+(mean age . 
+SD: 6.9 . 
+3.2 years) without snoring (controls) 
+and in 102 children (6.2 . 
+2.2 years) with habitual snoring who 
+underwent polysomnography. No significant differences were 
+found in mean CRP values between control subjects (0.12 . 
+0.16 
+mg/dl; n . 
+39) and snorers with an apnea-hypopnea index of less 
+than 1 episode/hour (0.15 . 
+0.26; n . 
+18), snorers with an index 
+of 1 or more and less than 5 (0.15 . 
+0.26; n . 
+54), and snorers 
+with an index of 5 or more (0.22 . 
+0.43; n . 
+30; p . 
+0.05). There 
+was no correlation between CRP or log-transformed CRP values 
+and apnea–hypopnea index, respiratory movement/arousal index, 
+SaO2 nadir, oxygen desaturation (. 
+4%) of hemoglobin index, or 
+percentage of sleep time with saturation less than 95% (p . 
+0.05). 
+Thus, findings of higher CRP values in adults with sleep-disordered 
+breathing and correlations of these values with polysomnography 
+indices were not confirmed in children. 
+
+Keywords: atherosclerosis; obstructive sleep apnea; snoring 
+
+Recent studies have identified significant correlations between 
+obstructive sleep-disordered breathing and cardiovascular disease 
+in adults. Obstructive sleep apnea–hypopnea (OSAH) correlates 
+at least modestly with systemic hypertension, coronary artery 
+disease, congestive heart failure, and stroke (1–3). Cardiovascular 
+morbidity is increased even in subjects with mild elevations 
+(1–10 episodes/hour) of the apnea–hypopnea index (AHI) (1). 
+
+Chronic inflammatory processes participate in the pathogenesis 
+of cardiovascular events (4, 5). In addition, OSAH in adults 
+has been related to increased levels of C-reactive protein (CRP), 
+a marker of inflammation and cardiovascular risk (6, 7). A CRP 
+value of more than 0.2 mg/dl is a predictor of cardiovascular 
+events in apparently healthy men and women (4, 5). Therefore, 
+CRP may be one of the links between OSAH and cardiovascular 
+disease (CVD) (6, 7). Several other risk factors for cardiovascular 
+disease, such as obesity, diabetes mellitus, and hyperlipidemia, 
+are also correlated with CRP levels (4, 5, 8). 
+
+Similarly to adults, OSAH can affect the cardiovascular system 
+of children (9–13). In a recent pediatric report (14), significant 
+associations have been described between CRP levels and 
+
+(Received in original form July 18, 2004; accepted in final form November 15, 2004) 
+
+Supported by the University of Thessaly Research Committee. 
+Correspondence and requests for reprints should be addressed to Athanasios 
+Kaditis, M.D., Larissa University Hospital, Department of Pediatrics, P.O. Box 1425, 
+Larissa 41110, Greece. E-mail: kaditia@hotmail.com 
+
+
+indices of severity of sleep-disordered breathing. The aim of the 
+present investigation was to compare morning levels of CRP in 
+children, with and without habitual snoring, and to confirm the 
+recently described associations between these levels and polysomnography 
+indices (14). Our hypothesis was that children with 
+snoring have higher CRP values than control subjects. Some of 
+the results of this study have been previously reported in the 
+form of an abstract (15). 
+
+METHODS 
+
+Study Design 
+
+The study protocol was approved by the ethics committee of the Larissa 
+University Hospital. Consecutive children who were referred to the 
+Sleep Disorders Laboratory because of habitual snoring (. 
+3 nights/ 
+week) that had been present for at least 6 months were considered for 
+participation in the study. Healthy children without a history of snoring 
+who presented to the General Pediatrics clinic for well child visits and 
+who had blood drawn for routine measurement of hematocrit were 
+also recruited as control subjects. Exclusion criteria for children with 
+snoring and for control subjects were as follows: (1 ) symptoms or signs 
+of acute or chronic inflammation, (2 ) use of corticosteroids or antibiotics 
+for the 4 weeks preceding recruitment in the study, (3 ) cardiovascular 
+disease or diabetes mellitus, and (4 ) neuromuscular or genetic disorders. 
+
+Informed consent was obtained from parents of all participants and 
+child assent from subjects older than 8 years. Parents were interviewed 
+and a questionnaire (online supplement) based on previous studies 
+was answered (16–18). Questions inquired about symptoms of sleep-
+disordered breathing, past medical history, and family history. All subjects 
+underwent a physical examination, and tonsillar size was graded 
+from0to4. 
+(19). A tonsillar size of 2. 
+or greater was defined as 
+tonsillar hypertrophy (20). Polysomnograms were performed overnight 
+in the Sleep Disorders Laboratory for all children with snoring but not 
+for control subjects. Polysomnography methods and analysis of data 
+are described in the online supplement. 
+
+Venous blood was collected between 8:00 and 10:00 a.m. from all 
+subjects. For children with snoring, venipuncture was completed after 
+polysomnography. Serum was obtained immediately from the blood 
+sample and was stored at 70 C until assay. CRP levels were quantified 
+by a high-sensitivity immunonephelometric method with a lowest detection 
+limit of 0.0175 mg/dl (N High Sensitivity CRP; Dade Behring, 
+Marburg, Germany). All measurements were completed in 1 day using 
+stored serum to avoid interassay variability. Serum triglycerides and 
+cholesterol levels were also measured. 
+
+Data Analysis and Statistics 
+
+Four groups of subjects were formed: (1 ) healthy control subjects without 
+snoring, (2 ) snorers with an AHI of less than 1 episode/hour, (3 ) 
+snorers with an AHI of 1 episode/hour or more and fewer than 5 
+episodes/hour, and (4 ) snorers with an AHI of 5 or more episodes/ 
+hour. For continuous characteristics, the study groups were compared 
+by one-way analysis of variance. For categorical characteristics, the 2 
+test (Yate’s correction) was applied. 
+
+This article has an online supplement, which is accessible from this issue’s table 
+of contents at www.atsjournals.org 
+
+Am J Respir Crit Care Med Vol 171. pp 282–286, 2005 
+Originally Published in Press as DOI: 10.1164/rccm.200407-928OC on November 19, 2004 
+Internet address: www.atsjournals.org 
+
+Pearson’s correlation was used to assess the association of CRP 
+values with polysomnography indices. To identify independent predictors 
+of CRP levels, we performed stepwise multiple linear regression 
+analysis (SPSS version 10.0; SPSS, Chicago, IL). CRP was the dependent 
+variable and AHI, age, sex, relative body mass index (BMI), triglycer
+
+
+
+Kaditis, Alexopoulos, Kalampouka, et al.: CRP and Snoring 283 
+TABLE 1. SUMMARY STATISTICS FOR SYMPTOMS OF SLEEP-DISORDERED BREATHING, TONSILLAR SIZE, AND 
+POLYSOMNOGRAPHY INDICES IN THE FOUR STUDY GROUPS OF PARTICIPANTS 
+Snoring and AHI Snoring and AHI Snoring and AHI 
+Controls 	1 episode/h 1 and 	5 episodes/h 5 episodes/h 
+(n 39) (n 18) (n 54) (n 30) 
+Snoring 3 nights/wk 0 (0%) 18 (100%) 54 (100%) 30 (100%) 
+Apnea 3 nights/wk 0 (0%) 6 (33%) 31 (57.4%) 24 (80%) 
+Difficulty breathing 3 nights/wk 0 (0%) 6 (33%) 35 (64.8%) 24 (80%) 
+Tonsillar size grades 0/1/2/3/4 (Ref. 19) 13/23/2/1/0* 0/2/10/5/1* 0/7/20/25/2* 0/0/7/19/4* 
+Apnea index, episodes/h — 0.21 0.15 1.07 0.68 3.59 3.25 
+AHI, episodes/h — 0.53 0.25 2.64 1.05 12.33 8.9 
+Respiratory movement/arousal index, episodes/h — 0.41 0.44 1.29 1.44 2.9 2.46 
+Oxygen desaturation of hemoglobin (4%) index, episodes/h — 0.73 0.41 2.37 1.22 12.24 9.65 
+SaO2 nadir, % — 92 1.9 89.5 2.8 83.1 4.4 
+Sleep time with SaO2 	95%, % — 0.74 1.6 0.9 0.94 6.14 7.04 
+
+Continuous variables are expressed as mean SD. 
+Definition of abbreviation: AHI apnea–hypopnea index. 
+
+* Numbers in this row represent number of participants with the respective grade of tonsillar size. 
+ides, and cholesterol were entered as independent variables. The relative 
+BMI ([absolute value/value of 50th percentile] 
+100) was calculated 
+using standard growth curves (21). The previous analysis was 
+also repeated with log-transformed CRP values for consistency to the 
+analysis by Tauman and colleagues (14). 
+
+Sample Size Calculation 
+
+The required sample size to detect a difference of 0.25 mg/dl in CRP 
+levels between control subjects and snorers with an AHI of 5 or more 
+episodes/hour (which is the comparison of interest), assuming a pooled 
+SD of 0.35 with 90% power at the 5% level, was 45 subjects in each 
+group (22). The expected difference in CRP levels between the two 
+groups, which might be considered clinically important, and the pooled 
+SD were specified on the basis of the only previous published pediatric 
+study (14). 
+
+RESULTS 
+
+Patient Characteristics and Results of Polysomnography 
+
+Thirty-nine healthy control subjects without snoring (mean 
+age SD: 6.9 3.2 years; age range 2–13 years) were recruited 
+together with 102 children with habitual snoring (6.2 2.2 years; 
+range 1.9–12 years). Eighteen subjects with sleep-disordered 
+breathing had an AHI of less than 1 episode/hour; 54 subjects 
+had an AHI of 1 or more and fewer than 5 episodes/hour; and 
+30 subjects had an AHI of 5 or more episodes/hour. The frequency 
+of sleep-disordered breathing symptoms and tonsillar 
+size in subjects with habitual snoring and in control subjects and 
+
+polysomnography indices only in subjects with habitual snoring 
+are presented in Table 1. Of the control subjects, 3 of 39 (7.6%) 
+had tonsillar hypertrophy and 93 of 102 (91%) children with 
+habitual snoring had this condition. 
+
+By recruiting 39 control subjects and 30 snorers with an AHI of 
+5 or more episodes/hour (i.e., an effective total size of 68), the 
+probability of detecting the expected difference, which was specified 
+in the sample size calculation, was 79% at the 5% level (22). 
+
+C-Reactive Protein Measurements 
+
+There were no significant differences between control subjects 
+and the other three study groups regarding CRP and log-transformed 
+CRP values (p 0.05; Table 2). No differences were 
+found among the study groups regarding characteristics that may 
+affect CRP values (Table 2). 
+
+No significant relationships were identified between CRP levels 
+and the following factors: AHI (r 0.04, p 0.05; Figure 1), 
+respiratory movement/arousal index (r 0.08, p 0.05; 
+Figure 2), SaO2 nadir (r 0.05, p 0.05; Figure 3), oxygen 
+desaturation of hemoglobin index (r 0.04, p 0.05), or percentage 
+of sleep time with SaO2 less than 95% (r 0.06, p . 
+0.05). When multiple linear regression was performed, AHI, age, 
+sex, relative BMI, serum triglycerides, and cholesterol were not 
+significant predictors of CRP values. 
+
+Similarly, no significant relationships were found between 
+log-transformed CRP levels and the following: AHI (r 0.04, 
+p 0.05), respiratory movement/arousal index (r 0.002, p . 
+
+
+TABLE 2. SUMMARY STATISTICS AND SIGNIFICANCE OF COMPARISONS BETWEEN STUDY 
+GROUPS REGARDING C-REACTIVE PROTEIN OR LOG-TRANSFORMED C-REACTIVE PROTEIN 
+VALUES AND FACTORS THAT MAY AFFECT THESE VALUES 
+
+Snoring and AHI Snoring and AHI Snoring and AHI 
+Controls 	1 episode/h 1 and 	5 episodes/h 5 episodes/h 
+Variable (n 39) (n 18) (n 54) (n 30) 
+Age, yr 6.9 3.2 6.5 2.7 6.2 2.3 5.8 1.9 
+Sex, F 20 (51.3%) 9 (50%) 24 (44.4%) 13 (43.3%) 
+Relative BMI, % 110 20.3 109.7 25.2 115.8 19.3 108.9 17.9 
+Serum triglycerides, mg/dl 77.5 28.7 56.2 17.9 61.6 29.1 65.2 23.9 
+Serum cholesterol, mg/dl 162 40 160.6 34.8 169.7 24 160 24.8 
+CRP, mg/dl 0.12 0.16 0.15 0.26 0.15 0.26 0.22 0.43 
+Log CRP 1.26 0.53 1.28 0.61 1.17 0.55 1.15 0.65 
+
+Continuous variables are presented as mean SD (p 0.05 for comparisons between the four groups). 
+
+Definition of abbreviations: AHI apnea-hypopnea index; BMI body mass index; CRP C-reactive protein; log CRP logtransformed 
+C-reactive protein. 
+
+
+284 AMERICAN JOURNAL OF RESPIRATORY AND CRITICAL CARE MEDICINE VOL 171 2005 
+
+
+Figure 1. Scatterplot of C-reactive 
+protein (CRP) values (mg/dl) 
+plotted against the apnea– 
+hypopnea index (AHI; episodes/ 
+hour) for 102 children with habitual 
+snoring. *Values below 
+0.0175 mg/dl, which is the 
+lowest detection limit of the 
+high-sensitivity CRP method. 
+
+0.05), SaO2 nadir (r . 
+0.04, p . 
+0.05), oxygen desaturation of 
+hemoglobin index (r . 
+0.03, p . 
+0.05), or percentage of sleep 
+time with SaO2 less than 95% (r . 
+0.08, p . 
+0.05). Multiple linear 
+regression analysis identified relative BMI as the only significant 
+predictor of log-transformed CRP values (p . 
+0.05). 
+
+Two of the children with habitual snoring had a low AHI 
+and a high CRP values (index of 4.2 episodes/hour and CRP 
+value of 1.80 mg/dl; index of 6.2 episodes/hour and CRP value of 
+
+2.21 mg/dl). These extreme values were excluded and statistical 
+analysis was repeated. There were still no significant differences 
+between control subjects and the other three study groups regarding 
+CRP and log-transformed CRP values (p . 
+0.05). No 
+significant relationships were identified between CRP or log-
+transformed CRP values and polysomnography indices. Multiple 
+linear regression analysis, including AHI, age, sex, relative BMI, 
+serum triglycerides, and cholesterol as independent variables was 
+also repeated. Relative BMI was the only significant predictor of 
+both CRP and log-transformed CRP levels (p . 
+0.05). 
+DISCUSSION 
+
+Studies in adults with OSAH have detected elevated values 
+of CRP that are correlated with severity of sleep-disordered 
+breathing (6, 7). Because CRP is a marker of inflammation and 
+cardiovascular risk (4, 5), its association with obstructive sleep-
+disordered breathing could be one of the pathophysiologic links 
+between obstructive sleep apnea and cardiovascular disease (3). 
+CRP values in adults are also affected by other cardiovascular 
+risk factors that are less frequently present in children, such as 
+obesity, hyperlipidemia, and diabetes mellitus (4, 5, 8). 
+
+In this investigation of healthy children without apparent 
+risk factors for cardiovascular disease, no statistically significant 
+
+
+Figure 2. Scatterplot of CRP values 
+(mg/dl) plotted against respiratory 
+movement/arousal index 
+(episodes/hour) for102 children 
+with habitual snoring. *Values 
+below 0.0175 mg/dl, which is 
+the lowest detection limit of the 
+high-sensitivity CRP method. 
+
+
+Figure 3. Scatterplot of CRP values 
+(mg/dl) plotted against SaO2 
+nadir (%) for 102 children with 
+habitual snoring. *Values below 
+0.0175 mg/dl, which is the lowest 
+detection limit of the high-
+sensitivity CRP method. 
+
+differences in CRP or log-transformed CRP values were identified 
+between groups of habitual snorers with sleep-disordered 
+breathing of variable severity and control subjects without snoring. 
+All four groups were similar regarding factors that may have 
+affected CRP values (age, sex, relative BMI, serum triglycerides, 
+or cholesterol) (23, 24). Our findings differ from those of previous 
+reports in adults (6, 7) and children (14). 
+
+CRP or log-transformed CRP values did not show any association 
+with several different indices of severity of sleep-disordered 
+breathing, whereas relative BMI was the only significant predictor 
+of log-transformed CRP values, but not of raw CRP values. 
+This discrepancy occurred because when the data are log-
+transformed, the linear fit is improved (25). The improvement 
+was mainly related to the two subjects with high CRP levels. 
+After excluding the two subjects, relative BMI was a significant 
+predictor of both raw CRP values and log-transformed CRP 
+values. 
+
+Higher serum CRP levels have been reported in adults with 
+OSAH than in control subjects (6, 7). CRP levels ranged from 
+
+0.09 to 2.73 mg/dl (median 0.33 mg/dl) in 22 adult subjects with 
+an AHI of 20 or more episodes/hour and from 0.02 to 0.9 mg/dl 
+(median 0.09 mg/dl) in 20 control subjects with an AHI of 5 or 
+fewer episodes/hour (6). CRP was positively associated with AHI. 
+In a second report, which included 30 adult patients with 
+obstructive sleep apnea syndrome and 14 obese control subjects, 
+mean CRP values (. 
+SD) were as follows: 0.27 . 
+0.03 mg/dl in 
+patients with an AHI of 20 or more episodes/hour, 0.13 . 
+0.03 
+mg/dl in those with an AHI of 5 or more and fewer than 20 
+episodes/hour, and 0.07 . 
+0.0001 mg/dl in obese control subjects 
+(7). Levels of CRP were positively correlated with AHI, percentage 
+of sleep time with SaO2 less than 90%, BMI, and serum 
+triglycerides levels, and negatively correlated with SaO2 nadir 
+during sleep. 
+
+In the pediatric report by Tauman and colleagues (14), mean 
+log-transformed plasma CRP levels (. 
+SD) were higher in children 
+with an AHI of 5 or more episodes/hour (mean log-transformed 
+CRP: 0.51 . 
+0.4; mean CRP: 0.46 . 
+0.39 mg/dl) than 
+in subjects with an AHI of 1 or more episodes/hour and fewer 
+than 5 episodes/hour (mean log-transformed CRP: 0.91 . 
+0.28; 
+mean CRP: 0.15 . 
+0.12 mg/dl) and in those with an AHI of less 
+than 1 episode/hour (control subjects; mean log-transformed 
+CRP: 0.8 . 
+0.33; mean CRP: 0.22 . 
+0.27 mg/dl). Log-transformed 
+CRP values were positively correlated with AHI and 
+arousal index and negatively correlated with SaO2. 
+
+Raw CRP values in the present report and in the report by 
+Tauman and colleagues (14) were similar in subjects with an 
+AHI of fewer than 5 episodes/hour. However, in the present 
+study, children with an AHI of 5 or more episodes/hour had 
+lower CRP values (mean CRP: 0.22 . 
+0.43 mg/dl) compared 
+
+
+Kaditis, Alexopoulos, Kalampouka, et al.: CRP and Snoring 
+
+with children with the same AHI in the published pediatric 
+report (mean CRP: 0.46 . 
+0.39 mg/dl). In contrast to the report 
+by Tauman and colleagues, CRP and log-transformed CRP values 
+in our subjects were not associated with any polysomnography 
+indices. 
+
+When comparing the present investigation to the study by 
+Tauman and colleagues (14) regarding subjects’ characteristics, 
+female-to-male ratio, cholesterol levels, and severity of sleep-
+disordered breathing were the same. For example, in this series, 
+children with an AHI of 5 or more episodes/hour had a mean 
+(. 
+SD) AHI of 12.3 . 
+8.9 episodes/hour and an SaO2 nadir of 
+
+83.1 . 
+4.4%; in the series by Tauman and colleagues, however, 
+children with an AHI of 5 or more episodes/hour had a mean 
+AHI of 14.6 . 
+14 episodes/hour and a mean SaO2 nadir of 83.4 . 
+7.8%. 
+Major discrepancies in the results between the two studies 
+may be because of differences in subjects’ age and in obesity. 
+The children in the present investigation were younger, leaner, 
+and had lower serum triglyceride levels than participants in the 
+study by Tauman and colleagues (14). The duration of the disorder 
+in respiration could affect CRP values. Because children in 
+the study by Tauman and colleagues were older than subjects 
+in this report, they conceivably had sleep-disordered breathing 
+for more years. The lower relative BMI and serum triglycerides 
+in our subjects may reflect differences in prevalence of childhood 
+obesity between the two populations from which children for 
+each study were recruited (Thessaly, Greece, and Kentucky). 
+
+Differences in subjects’ relative BMI between the two reports 
+(higher in the study by Tauman and colleagues) were more 
+apparent in children with an AHI of 5 or more episodes/hour. 
+Serum CRP in adults has been positively associated with BMI 
+(23), and this association has been attributed to secretion of 
+interleukin 6 (IL-6) by adipose tissue (26), which regulates CRP 
+production in the liver (27). CRP values in the two studies were 
+controlled statistically for BMI. Nevertheless, the difference in 
+subjects’ mean relative BMI between the two reports may still 
+be one of the reasons that children with snoring and an AHI of 
+5 or more episodes/hour in the series by Tauman and colleagues 
+had higher CRP values than participants with a similar AHI in 
+this investigation. 
+
+Furthermore, adipocytes produce adiponectin, a hydrophilic 
+protein with protective metabolic and antiinflammatory properties 
+(28). Adiponectin plasma levels and gene expression are 
+significantly reduced in obese adults (29). An independent inverse 
+correlation between plasma adiponectin levels and CRP 
+has been documented in obese adults (29). This correlation may 
+also be present in children and may contribute to the higher 
+CRP values in subjects of the study by Tauman and colleagues 
+compared with children in the present report, who had a lower 
+relative BMI. 
+
+Finally, a recent report demonstrated that severity of sleep-
+disordered breathing relates to fasting insulin levels in obese 
+children, a proxy measure of insulin resistance (30). Increasing 
+levels of CRP are associated with elevated fasting insulin among 
+nondiabetic women (31). Because children in the study by Tau-
+man and colleagues (14) were more obese than our subjects, 
+sleep-disordered breathing in those children may be correlated 
+with higher insulin, IL-6, and CRP levels. 
+
+In subjects with habitual snoring, IL-6 could also be released 
+by the intensely working respiratory muscles that try to overcome 
+the increased upper airway resistance during sleep. Strenuous 
+resistive breathing in both animals and humans increases 
+IL-6 levels if a certain inspiratory threshold is exceeded (32, 33). 
+If IL-6 is released from the respiratory muscles in children with 
+sleep-disordered breathing, this could also explain why mean 
+CRP values are not consistently higher in subjects with an AHI 
+
+of 5 or more episodes/hour compared with children with an AHI 
+of fewer than 5 episodes/hour or with control subjects. 
+
+Although the AHI describes the frequency of apneas and 
+hypopneas, it does not accurately reflect the work of breathing 
+in children whose disordered respiration during sleep is characterized 
+by hypopneas of variable duration. Therefore, the absence 
+of correlation between AHI and levels of CRP is not 
+surprising. Two children with the same AHI value could differ 
+in the degree of upper airway obstruction, work of breathing, 
+IL-6, and CRP levels during sleep. Confirmation of this speculation 
+requires the concomitant determination of IL-6 and CRP 
+values together with measurement of work of breathing using 
+an esophageal balloon. 
+
+The role of CRP in adults with sleep-disordered breathing is 
+still uncertain. CRP could simply be a marker of chronic vascular 
+inflammation and/or an active participant in processes leading 
+to atherosclerosis (4, 5, 34, 35). Published reports from adult 
+subjects have associated obstructive sleep-disordered breathing 
+with the following: (1 ) increased expression of adhesion molecules 
+on monocytes; (2) increased serum levels of intercellular 
+adhesion molecule-1, vascular cell adhesion molecule-1, and 
+L-selectin; and (3 ) increased adherence of monocytes to endothelial 
+cells in cultures (36–38). These findings together with the 
+increased production of reactive oxygen species by monocytes 
+and granulocytes exposed to recurrent hypoxia (39) indicate that 
+sleep-disordered breathing promotes vascular inflammation and 
+atherosclerosis (40, 41). 
+
+CRP is elevated in the presence of acute or chronic inflammation 
+and therefore children with any symptoms or signs of an 
+inflammatory process were excluded from participation in the 
+study (42). A possible limitation of the present study would be 
+that polysomnography was not performed in control subjects 
+because this was not acceptable by their parents. In addition, 
+thermistors were used to detect decreases in airflow instead 
+of measuring end-tidal CO2 as an index of hypoventilation. In 
+previous studies (6, 7), subjects with snoring and a low AHI 
+(. 
+5 episodes/hour) have been recruited as controls instead of 
+including healthy subjects without snoring. In this report, children 
+without snoring were an additional control group supplementary 
+to the group of snorers with a low AHI (. 
+1 episode/ 
+hour). 
+
+In conclusion, findings of higher CRP values in adults with 
+obstructive sleep-disordered breathing and correlations of these 
+values with polysomnography indices are not consistently present 
+in children. The reported results may indicate that not all 
+children with sleep-disordered breathing have associated vascular 
+inflammation. 
+
+Conflict of Interest Statement : A.G.K. does not have a financial relationship with 
+a commercial entity that has an interest in the subject of this manuscript; E.I.A. 
+does not have a financial relationship with a commercial entity that has an interest 
+in the subject of this manuscript; E.K. does not have a financial relationship with 
+a commercial entity that has an interest in the subject of this manuscript; E.K. 
+does not have a financial relationship with a commercial entity that has an interest 
+in the subject of this manuscript; A.G. does not have a financial relationship with 
+a commercial entity that has an interest in the subject of this manuscript; E.Z. 
+does not have a financial relationship with a commercial entity that has an interest 
+in the subject of this manuscript; K.G. does not have a financial relationship with 
+a commercial entity that has an interest in the subject of this manuscript. 
+
+References 
+
+1. Nieto FJ, Young TB, Lind BK, Shahar E, Samet JM, Redline S, D’Agostino 
+RB, Newman AB, Lebowitz MD, Pickering TG. Association of 
+sleep-disordered breathing, sleep apnea, and hypertension in a large 
+community-based study. Sleep Heart Health Study. JAMA 2000;283: 
+1829–1836. 
+2. Young T, Peppard P, Palta M, Hla KM, Finn L, Morgan B, Skatrud J. 
+Population-based study of sleep-disordered breathing as a risk factor 
+for hypertension. Arch Intern Med 1997;157:1746–1752. 
+
+286 
+AMERICAN JOURNAL OF RESPIRATORY AND CRITICAL CARE MEDICINE VOL 171 2005 
+
+3. Shahar E, Whitney CW, Redline S, Lee ET, Newman AB, Javier Nieto F, 
+O’Connor GT, Boland LL, Schwartz JE, Samet JM. Sleep-disordered 
+breathing and cardiovascular disease: cross-sectional results of the 
+Sleep Heart Health Study. Am J Respir Crit Care Med 2001;163:19–25. 
+4. Danesh J, Whincup P, Walker M, Lennon L, Thomson A, Appleby P, 
+Gallimore JR, Pepys MB. Low grade inflammation and coronary heart 
+disease: prospective study and updated meta-analyses. BMJ 2000;321: 
+199–204. 
+5. Ridker PM, Rifai N, Rose L, Buring JE, Cook NR. Comparison of 
+C-reactive protein and low-density lipoprotein cholesterol levels in the 
+prediction of first cardiovascular events. N Engl J Med 2002;347:1557– 
+1565. 
+6. Shamsuzzaman AS, Winnicki M, Lanfranchi P, Wolk R, Kara T, Accurso 
+V, Somers VK. Elevated C-reactive protein in patients with obstructive 
+sleep apnea. Circulation 2002;105:2462–2464. 
+7. Yokoe T, Minoguchi K, Matsuo H, Oda N, Minoguchi H, Yoshino G, 
+Hirano T, Adachi M. Elevated levels of C-reactive protein and 
+interleukin-6 in patients with obstructive sleep apnea syndrome are 
+decreased by nasal continuous positive airway pressure. Circulation 
+2003;107:1129–1134. 
+8. Cheng TO. Could elevated C-reactive protein in patients with obstructive 
+sleep apnea be due to obesity per se? Circulation 2003;107:e9. 
+9. Marcus CL, Greene MG, Carroll JL. Blood pressure in children with 
+obstructive sleep apnea. Am J Respir Crit Care Med 1998;157:1098– 
+1103. 
+10. Kwok KL, Ng DK, Cheung YF. BP and arterial distensibility in children 
+with primary snoring. Chest 2003;123:1561–1566. 
+11. Kohyama J, Ohinata JS, Hasegawa T. Blood pressure in sleep disordered 
+breathing. Arch Dis Child 2003;88:139–142. 
+12. Enright PL, Goodwin JL, Sherrill DL, Quan JR, Quan SF. Blood pressure 
+elevation associated with sleep-related breathing disorder in a community 
+sample of white and Hispanic children: the Tucson Children’s 
+Assessment of Sleep Apnea study. Arch Pediatr Adolesc Med 2003;157: 
+901–904. 
+13. Amin RS, Carroll JL, Jeffries JL, Grone C, Bean JA, Chini B, Bokulic 
+R, Daniels SR. Twenty-four-hour ambulatory blood pressure in children 
+with sleep-disordered breathing. Am J Respir Crit Care Med 
+2004;169:950–956. 
+14. Tauman R, Ivanenko A, O’Brien LM, Gozal D. Plasma C-reactive protein 
+levels among children with sleep-disordered breathing. Pediatrics 
+2004;113:e564–e569. 
+15. Alexopoulos E, Kaditis AG, Kalampouka E, Kostadima E, Margaritopoulou 
+V, Angelopoulos N, Skenteris N, Germenis A, Gourgoulianis 
+K. Morning levels of C-reactive protein in children with sleep-disordered 
+breathing [abstract]. Am J Respir Crit Care Med 2004;169:A733. 
+16. Brouilette R, Hanson D, David R, Klemka L, Szatkowski A, Fernbach 
+S, Hunt C. A diagnostic approach to suspected obstructive sleep apnea 
+in children. J Pediatr 1984;105:10–14. 
+17. Carroll JL, McColley SA, Marcus CL, Curtis S, Loughlin GM. Inability 
+of clinical history to distinguish primary snoring from obstructive sleep 
+apnea syndrome in children. Chest 1995;108:610–618. 
+18. Kaditis AG, Finder J, Alexopoulos EI, Starantzis K, Tanou K, Gampeta 
+S, Agorogiannis E, Christodoulou S, Pantazidou A, Gourgoulianis 
+K, et al. Sleep-disordered breathing in 3,680 Greek children. Pediatr 
+Pulmonol 2004;37:499–509. 
+19. Brodsky L. Modern assessment of tonsils and adenoids. 
+Pediatr Clin 
+North Am 1989;36:1551–1569. 
+20. Criscuoli G, D’Amora S, Ripa G, Cinquegrana G, Mansi N, Impagliazzo 
+N, Pisacane A. Frequency of surgery among children who have adenotonsillar 
+hypertrophy and improve after treatment with nasal beclomethasone. 
+Pediatrics 2003;111:E236–E238. 
+21. Ogden CL, Kuczmarski RJ, Flegal KM, Mei Z, Guo S, Wei R, Grummer-
+Strawn LM, Curtin LR, Roche AF, Johnson CL. Centers for Disease 
+Control and Prevention 2000 growth charts for the United States: 
+improvements to the 1977 National Center for Health Statistics version. 
+Pediatrics 2002;109:45–60. 
+22. Altman D. How large a sample? In: Gore S, Altman D, editors. Statistics 
+in practice. London: British Medical Association; 1982. pp. 1–2. 
+23. Visser M, Bouter LM, McQuillan GM, Wener MH, Harris TB. Elevated 
+C-reactive protein levels in overweight and obese adults. JAMA 1999; 
+282:2131–2135. 
+
+24. McConnell JP, Branum EL, Ballman KV, Lagerstedt SA, Katzmann JA, 
+Jaffe AS. Gender differences in C-reactive protein concentrations— 
+confirmation with two sensitive methods. Clin Chem Lab Med 2002; 
+40:56–59. 
+25. Bolton S, Bom C. Pharmaceutical statistics: practical and clinical applications. 
+New York: Marcel-Dekker; 2004. 
+26. Yudkin JS, Kumari M, Humphries SE, Mohamed-Ali V. Inflammation, 
+obesity, stress and coronary heart disease: is interleukin-6 the link? 
+Atherosclerosis 2000;148:209–214. 
+27. Castell JV, Gomez-Lechon MJ, David M, Fabra R, Trullenque R, Heinrich 
+PC. Acute-phase response of human hepatocytes: regulation of 
+acute-phase protein synthesis by interleukin-6. Hepatology 1990;12: 
+1179–1186. 
+28. Berg AH, Combs TP, Scherer PE. ACRP30/adiponectin: an adipokine 
+regulating glucose and lipid metabolism. Trends Endocrinol Metab 
+2002;13:84–89. 
+29. Engeli S, Feldpausch M, Gorzelniak K, Hartwig F, Heintze U, Janke J, 
+Mohlig M, Pfeiffer AF, Luft FC, Sharma AM. Association between 
+adiponectin and mediators of inflammation in obese women. Diabetes 
+2003;52:942–947. 
+30. de la Eva RC, Baur LA, Donaghue KC, Waters KA. Metabolic correlates 
+with obstructive sleep apnea in obese subjects. J Pediatr 2002;140:654– 
+659. 
+31. Pradhan AD, Cook NR, Buring JE, Manson JE, Ridker PM. C-reactive 
+protein is independently associated with fasting insulin in nondiabetic 
+women. Arterioscler Thromb Vasc Biol 2003;23:650–655. 
+32. Vassilakopoulos T, Zakynthinos S, Roussos C. Strenuous resistive breathing 
+induces proinflammatory cytokines and stimulates the HPA axis 
+in humans. Am J Physiol 1999;277:R1013–R1019. 
+33. Vassilakopoulos T, Divangahi M, Rallis G, Kishta O, Petrof B, Comtois 
+A, Hussain SN. Differential cytokine gene expression in the diaphragm 
+in response to strenuous resistive breathing. Am J Respir Crit Care 
+Med 2004;170:154–161. 
+34. Pasceri V, Cheng JS, Willerson JT, Yeh ET, Chang J. Modulation of 
+C-reactive protein-mediated monocyte chemoattractant protein-1 induction 
+in human endothelial cells by anti-atherosclerosis drugs. Circulation 
+2001;103:2531–2534. 
+35. Nakajima T, Schulte S, Warrington KJ, Kopecky SL, Frye RL, Goronzy 
+JJ, Weyand CM. T-cell-mediated lysis of endothelial cells in acute 
+coronary syndromes. Circulation 2002;105:570–575. 
+36. Ohga E, Nagase T, Tomita T, Teramoto S, Matsuse T, Katayama H, Ouchi 
+Y. Increased levels of circulating ICAM-1, VCAM-1, and L-selectin in 
+obstructive sleep apnea syndrome. J Appl Physiol 1999;87:10–14. 
+37. El-Solh AA, Mador MJ, Sikka P, Dhillon RS, Amsterdam D, Grant 
+BJ. Adhesion molecules in patients with coronary artery disease and 
+moderate-to-severe obstructive sleep apnea. Chest 2002;121:1541– 
+1547. 
+38. Dyugovskaya L, Lavie P, Lavie L. Increased adhesion molecules expression 
+and production of reactive oxygen species in leukocytes of sleep 
+apnea patients. Am J Respir Crit Care Med 2002;165:934–939. 
+39. Schulz R, Mahmoudi S, Hattar K, Sibelius U, Olschewski H, Mayer 
+K, Seeger W, Grimminger F. Enhanced release of superoxide from 
+polymorphonuclear neutrophils in obstructive sleep apnea. Impact of 
+continuous positive airway pressure therapy. Am J Respir Crit Care 
+Med 2000;162:566–570. 
+40. Morisaki N, Saito I, Tamura K, Tashiro J, Masuda M, Kanzaki T, Watanabe 
+S, Masuda Y, Saito Y. New indices of ischemic heart disease and 
+aging: studies on the serum levels of soluble intercellular adhesion 
+molecule-1 (ICAM-1) and soluble vascular cell adhesion molecule-1 
+(VCAM-1) in patients with hypercholesterolemia and ischemic heart 
+disease. Atherosclerosis 1997;131:43–48. 
+41. Ridker PM, Hennekens CH, Roitman-Johnson B, Stampfer MJ, Allen 
+J. Plasma concentration of soluble intercellular adhesion molecule 1 
+and risks of future myocardial infarction in apparently healthy men. 
+Lancet 1998;351:88–92. 
+42. Pepys MB. Baltz ML. Acute phase proteins with special reference to 
+C-reactive protein and related proteins (pentaxins) and serum amyloid 
+A protein. Adv Immunol 1983;34:141–212. 
+

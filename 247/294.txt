@@ -1,0 +1,795 @@
+Pediatric Pulmonology 39:408–414 (2005) 
+
+Comparison of Blood Pressure Measurements in 
+Children With and Without Habitual Snoring 
+
+
+1,21,2
+
+Athanasios G. Kaditis, MD, * Emmanouel I. Alexopoulos, MD, Eleni Kostadima, MD,2 
+
+22 3
+
+Dimitrios G. Kaditis, MS, Chaido Pastaka, MD, Elias Zintzaras, MSc, PhD, 
+and Konstantinos Gourgoulianis, MD2 
+
+Summary. Higher or similar systolic and/or diastolic blood pressure has been recorded in children 
+with sleep apnea compared to subjects with primary snoring or in those with primary snoring 
+compared to controls. To investigate the association between blood pressure and habitual snoring, 
+we studied children in four randomly selected schools in central Greece. A symptom questionnaire 
+was answered by parents, and children’s weight, height, and blood pressure were measured. 
+Seven hundred and sixty children (4–14 years old; 352 female) were recruited. Fifty of 760 (6.6%) 
+participants were snoring more than 3 nights/week (habitual snorers). Mean (SD) systolic blood 
+pressure was 106.9 (10.6) mmHg in habitual snorers vs. 107 (12) in nonhabitual snorers 
+(P 
+> 
+0.05). Mean diastolic blood pressure was 61.9 (7.6) in the former vs. 61.8 (6.8) in the latter 
+(P 
+> 
+0.05). While age, gender, and body mass index were significant predictors of systolic blood 
+pressure in a general linear model, snoring was not. Similarly, that gender and body mass index but 
+not snoring were significant predictors of diastolic blood pressure. In a community sample of 
+children, habitual snorers do not have higher morning systolic or diastolic blood pressure than 
+nonhabitual snorers. Pediatr Pulmonol. 2005; 39:408–414. . 
+2005 Wiley-Liss, Inc. 
+
+Key words: hypertension; obstructive sleep apnea; primary snoring. 
+
+INTRODUCTION 
+
+Obstructive sleep apnea-hypopnea in adults has been 
+associated with systemic hypertension, coronary artery 
+disease, congestive heart failure, and stroke.1–3 Several 
+studies investigated the correlation between obstructive 
+sleep apnea-hypopnea and hypertension in adults,4–6 and 
+a few reports focused on systemic blood pressure measurements 
+in children with obstructive sleep-disordered 
+breathing.7–11 
+
+Opinions differ on whether snoring is a risk factor for 
+hypertension in children. In some reports, children with 
+obstructive sleep apnea were found to have higher daytime 
+and nocturnal diastolic blood pressure than subjects with 
+primary snoring, and those with primary snoring greater 
+daytime systolic and diastolic blood pressure compared to 
+healthy controls without snoring.7,8 Others detected no 
+difference in systolic and diastolic pressure during sleep 
+between children with obstructive sleep apnea-hypopnea 
+and primary snoring.11 
+
+While adult studies included large numbers of subjects 
+from the general population,4–6 only one pediatric report 
+(Tucson Children’s Assessment of Sleep Apnea (TuCASA) 
+Study) addressed blood pressure trends associated with 
+sleep-disordered breathing in a community sample.10 
+The aims of the present investigation were: 1) to obtain 
+morning blood pressure measurements in a population 
+sample of children and adolescents attending nursery, 
+elementary, and high schools in the city of Larissa (central 
+
+. 
+2005 Wiley-Liss, Inc. 
+Greece); and 2) to associate these measurements with the 
+presence of habitual snoring. Our hypothesis was that 
+children with habitual snoring have higher systolic and 
+diastolic blood pressure during wakefulness than subjects 
+without snoring. 
+
+PATIENTS AND METHODS 
+
+Study Design and Data Collection 
+
+The study protocol and questionnaire were approved by 
+the University of Thessaly Ethics Committee. Informed 
+
+1Pediatric Pulmonology Unit, Department of Pediatrics, University of 
+Thessaly School of Medicine and Larissa University Hospital, Larissa, 
+Greece. 
+
+2Sleep Disorders Laboratory, Department of Pulmonology, University of 
+Thessaly School of Medicine and Larissa University Hospital, Larissa, 
+Greece. 
+
+3Department of Biomathematics, University of Thessaly School of 
+Medicine, Larissa, Greece. 
+
+*Correspondence to: Athanasios G. Kaditis, M.D., Department of Pediatrics, 
+Larissa University Hospital, P.O. Box 1425, Larissa 41110, Greece. 
+E-mail: KADITIA@hotmail.com 
+
+Received 19 August 2004; Revised 6 November 2004; Accepted 8 
+November 2004. 
+
+DOI 10.1002/ppul.20188 
+Published online 21 January 2005 in Wiley InterScience 
+(www.interscience.wiley.com). 
+
+
+consent was obtained from parents of all participants. 
+The questionnaire was prepared based on previous studies 
+(Appendix).12–14 Questions were answered by yes/no or 
+by a 5-point frequency scale (0 ¼ 
+never, 1 ¼ 
+only with 
+colds, 2 ¼ 
+less frequently than once a week, 3 ¼ 
+1–3 nights 
+a week, 4 ¼ 
+more frequently than 3 nights a week) and a 
+‘‘do not know’’ category. Questions inquired about: 1) 
+present and past medical history (symptoms of sleep-
+disordered breathing present for the last 6 months, history 
+of lower respiratory tract illness, chronic nasal obstruction, 
+adenoidectomy and tonsillectomy, or other health 
+problems); and 2) information related to sleep-disordered 
+breathing in family members. 
+
+We randomly selected one nursery school, two elementary 
+schools, and the lowest grade of one high school 
+among those located in the Larissa school district. The 
+target population had an age range of 4–14 years, which 
+was similar to participants’ age ranges in other pediatric 
+studies.7,8,11 The population of the district is homogeneous 
+regarding socioeconomic status, and students from 
+different schools are similar regarding this variable. All 
+students from each selected school and grade were given 
+the opportunity to participate in the study. During the first 
+phase of the protocol, the questionnaire form and a letter 
+explaining the aims of the study and giving instructions for 
+completion of the form were sent to parents. After students 
+returned the completed questionnaire to teachers, two 
+registered nurses visited each class to collect the forms and 
+to perform study measurements. Both nurses were blind to 
+subjects’ snoring status. 
+
+All children who returned a completed questionnaire 
+and who did not fulfill certain exclusion criteria underwent 
+weight, height, and blood pressure measurements. Similar 
+to the study by Marcus et al.,7 exclusion 
+criteria 
+were the 
+following: 1) history of cardiac disease; 2) history of renal 
+disease; and 3) a diagnosis of any disorder or use of any 
+medications (e.g., inhaled beta-adrenergic agonists) that 
+could affect blood pressure. Children receiving inhaled 
+beta-adrenergic agonists were excluded if the medication 
+was administered in the morning prior to blood pressure 
+measurement. Excluded subjects did not undergo study 
+measurements. 
+
+Standing height was measured in bare feet with a stadiometer. 
+Weight was determined without shoes, in light 
+indoor clothes, and with empty pockets. Blood pressure 
+was measured three times by an oscillometric method 
+(Dinamap Pro 100, Critikon, Tampa, FL). Blood pressure 
+cuff selection and blood pressure measurement procedure 
+were carried out according to recommendations by the 
+Working Group on Hypertension Control in Children and 
+Adolescents.15 
+
+Data Analysis 
+
+Children with snoring for more than 3 nights/week were 
+defined as habitual 
+snorers. History of chronic nasal 
+
+Blood Pressure and Snoring 409 
+
+obstruction was a report of congested nose for more than 
+3 months over the past 6 months or a physician’s diagnosis 
+of chronic rhinitis. History of lower respiratory tract 
+illness was defined as persistent cough with colds for 
+more than 10 days, use of a bronchodilator or physician’s 
+diagnosis of wheezing, bronchitis, or bronchial asthma. 
+Body mass index was equal to the weight in kilograms 
+divided by the square of the height in meters. 
+
+Habitual snorers and nonhabitual snorers were compared 
+regarding blood pressure values, characteristics 
+that may affect blood pressure, and symptoms related to 
+sleep-disordered breathing. For the purpose of statistical 
+analysis, three blood pressure readings in each subject 
+were averaged.15 Comparison of continuous variables was 
+completed by unpaired t-test and of categorical characteristics 
+by w 
+2 test (Yates’ correction). 
+
+Evaluation of the effect of habitual snoring, adjusted for 
+possible covariates (age, gender, and body mass index) 
+and of the interaction between habitual snoring and the 
+covariates on systolic blood pressure values, was completed 
+by a general linear model. A similar method was 
+employed to assess the effect of the previous variables on 
+diastolic blood pressure. Statistical analysis was performed 
+using the statistical software SAS, version 6.04 
+(Cary Institute, Inc., Cary, NC). P 
+< 
+0.05 was considered 
+statistically significant. 
+
+RESULTS 
+
+Patient Characteristics 
+
+In total, 820 questionnaires were distributed in four 
+randomly selected schools, and 760 children (93%) underwent 
+study measurements. The age range of participants 
+was 4–14 years. Questionnaires were not returned for 
+27 children, while 16 children (two habitual snorers) with 
+completed questionnaires were absent on the day the study 
+nurses visited their class. One boy was excluded due to a 
+history of repaired coarctation of the aorta and 16 more 
+subjects secondary to use of inhaled beta-adrenergic 
+agonists in the morning prior to blood pressure measurements. 
+Only 1 of 16 subjects was a habitual snorer. Fifty of 
+760 participants (6.6%) were habitual snorers, as reported 
+by their parents. 
+
+Characteristics that may be associated with blood 
+pressure in habitual snorers vs. nonhabitual snorers are 
+presented in Table 1. There were no differences between 
+the two groups regarding age, weight, height, and body 
+mass index. In the habitual snorers group, there were more 
+boys than in the nonhabitual snorers group (66% vs. 53%), 
+but the difference did not achieve statistical significance 
+(P 
+¼ 
+0.063). Fourteen of 50 habitual snorers (28%) and 
+105 of 710 nonhabitual snorers (14.8%) had a body mass 
+index above the 95th percentile adjusted for gender and 
+age. The distribution of symptoms related to sleep-
+disordered breathing is summarized in Table 2. Habitual 
+
+
+410 Kaditis et al. 
+
+TABLE 1— Summary Statistics and Significance of 
+Comparisons Between Habitual Snorers and Nonhabitual 
+Snorers Regarding Characteristics That May Be Associated 
+With Blood Pressure, and Blood Pressure Measurements, 
+With Continuous Variables Expressed as Mean . 
+Standard 
+Deviation* 
+
+Habitual snorers Nonhabitual 
+Variables (n ¼ 
+50) snorers (n ¼ 
+710) 
+Age, (years) 8.5 (1.9) 8.8 (2.2) 
+Female gender (%) 17.0 (34%) 335.0 (47%) 
+Weight, (kg) 39.7 (13.9) 38.6 (13.4) 
+Height, (m) 1.38 (0.12) 1.39 (0.14) 
+Body mass index, (kg/m2) 19.9 (3.7) 19.1 (3.6) 
+Systolic blood pressure, 106.9 (10.6) 107.0 (12) 
+(mmHg) 
+Diastolic blood pressure, 61.9 (7.6) 61.8 (6.8) 
+(mmHg) 
+
+*P 
+> 
+0.05 for all comparisons between groups. 
+
+snorers had significantly different frequencies of reported 
+apnea and difficulty breathing while asleep, mouth breathing 
+at night, and chronic nasal obstruction compared to 
+nonhabitual snorers. 
+
+Blood Pressure Measurements 
+
+Mean systolic and diastolic blood pressure values 
+(average of three readings for each subject) did not differ 
+between habitual snorers and nonhabitual snorers 
+(P 
+> 
+0.05) (Figs. 1, 2). Mean systolic (standard deviation) 
+blood pressures were 106.9 (10.6) mmHg in 
+habitual snorers vs. 107 (12) mmHg in nonhabitual 
+snorers. Mean diastolic blood pressures were 61.9 (7.6) 
+mmHg vs. 61.8 (6.8) mmHg, respectively. 
+
+The application of the general linear model revealed 
+that effects of age, gender, and body mass index 
+(covariates) were significant in predicting systolic blood 
+pressure. Habitual snoring and the interactions between 
+
+TABLE 2— Distribution of Symptoms Related to 
+Sleep-Disordered Breathing in Habitual Snorers 
+and Nonhabitual Snorers 
+
+Habitual snorers Nonhabitual 
+Variables (n ¼ 
+50) snorers (n ¼ 
+710) 
+Reported apnea while asleep* 6 (12%) 6 (0.8%) 
+Difficulty breathing while 12 (24%) 7 (1%) 
+asleep* 
+Sleepiness at school 1 (2%) 9 (1.3%) 
+Mouth-breathing at night* 29 (58%) 47 (6.6%) 
+Chronic nasal obstruction* 20 (40%) 108 (15%) 
+History of lower respiratory 35 (70%) 399 (56.2%) 
+tract illness1 
+
+1Persistent cough with colds for more than 10 days, use of a 
+bronchodilator, or physician’s diagnosis of wheezing, bronchitis, or 
+bronchial asthma. 
+*P 
+< 
+0.05 for comparisons between groups. 
+
+
+Fig. 1. Systolic blood pressure in habitual snorers (darker 
+boxplots) and nonhabitual snorers (lighter boxplots) according 
+to age. 
+
+
+habitual snoring and the covariates did not have a 
+significant effect on systolic blood pressure. Concerning 
+diastolic blood pressure, the pattern of results was 
+the same, except that age did not have a significant 
+effect. 
+
+DISCUSSION 
+
+A number of case reports described cardiovascular 
+complications of severe obstructive sleep-disordered 
+breathing in pediatric patients, such as pulmonary hypertension 
+and cor pulmonale.16,17 Decreased right ventricular 
+ejection fraction and hypertrophy involving both 
+
+Fig. 2. Diastolic blood pressure in habitual snorers (darker 
+boxplots) and nonhabitual snorers (lighter boxplots) according 
+to age. 
+
+
+
+ventricles were documented in children with less severe 
+sleep apnea-hypopnea by echocardiography and radio-
+nuclide ventriculography.18–20 However, few pediatric 
+reports addressed the possible correlation between systemic 
+blood pressure and sleep-disordered breathing.7–11 
+
+In the present study, we report morning blood pressure 
+measurements and the absence of correlation of these 
+measurements with habitual snoring in a population 
+sample of children and adolescents attending randomly 
+selected schools in the city of Larissa (central Greece). 
+No difference was found in mean systolic and diastolic 
+morning blood pressure between habitual and nonhabitual 
+snorers. While age, gender, and body mass index were 
+significant determinants of systolic blood pressure, and 
+gender and body mass index were significant determinants 
+of diastolic blood pressure, the presence of habitual 
+snoring was not. The main strengths of this study are: 1) 
+the inclusion of a large number of unselected nonhospitalreferred 
+children; and 2) report of daytime (morning) 
+blood pressure, which is one of the usual parameters used 
+in adults for estimation of cardiovascular risk.21 
+
+Blood pressure in childhood changes with growth, and 
+normative blood pressure values are based on age, gender, 
+and height.15 To compare blood pressure between children 
+of different ages, genders, and body size, previous studies 
+indexed measurements to the 95th percentile values.7,9,11 
+Since there are no normative data for Greek children 
+either by the auscultatory or oscillometric method, we 
+chose to compare mean values of obtained blood pressure 
+measurements between habitual snorers and nonhabitual 
+snorers. In addition, we examined the effect of habitual 
+snoring, age, gender, body mass index, and the interactions 
+of previous parameters with habitual snoring on 
+blood pressure by a general linear model analysis. This 
+methodology of blood pressure comparison was also 
+employed in a published pediatric study on the same 
+subject.8 
+
+Marcus et al. compared 41 children with obstructive 
+sleep apnea-hypopnea (5 . 
+3 years old) and 26 children 
+with primary snoring (8 . 
+4 years old).7 Indexed diastolic 
+blood pressure was higher in children with obstructive 
+sleep apnea-hypopnea than in those with primary 
+snoring, both during sleep and during wakefulness. 
+Similar results were found in a recent report including 
+23 children with sleep-disordered breathing and adenotonsillar 
+hypertrophy.9 
+
+Kwok et al. performed the first study addressing the 
+possible correlation between primary snoring in children 
+and systemic blood pressure.8 Thirty subjects with primary 
+snoring (9.5 . 
+2.8 years old) and 30 healthy controls 
+matched for age, gender, and body size (9.7 . 
+2.7 years 
+old) were studied. Significantly higher mean (nonindexed) 
+systolic and diastolic daytime blood pressures were 
+identified in the former group compared to the latter.8 
+Presence of primary snoring, age, and body mass index 
+
+Blood Pressure and Snoring 411 
+
+were significant determinants of systolic blood pressure, 
+while primary snoring and age were significant determinants 
+of diastolic blood pressure. 
+
+Amin et al. studied 39 children with obstructive sleep 
+apnea and 21 subjects with primary snoring (5–17 years 
+old) by polysomnography and 24-hr ambulatory blood 
+pressure recording.11 Due to their different methodology, 
+their findings are not directly comparable to the results 
+of this investigation. Nevertheless, Amin et al.11 did not 
+identify a significant difference in average systolic blood 
+pressure during wakefulness or sleep or in average 
+diastolic blood pressure during sleep between subjects 
+with obstructive sleep apnea and primary snoring. 
+
+In the only published series with a community-based 
+sample of children (TuCASA study), 239 white and 
+Hispanic preadolescent subjects (6–11 years old) underwent 
+overnight unattended home polysomnography.10 
+Blood pressure, sleep symptoms, and parental smoking 
+status were recorded during the evening prior to polysomnography. 
+The aim of the TuCASA study was to assess 
+possible predictors of elevated blood pressure. Elevated 
+systolic and diastolic pressure values were those above the 
+90th percentile when adjusted for age, height, and gender. 
+Mean (SD) systolic and diastolic blood pressures were 
+
+98.4 (10.6) mmHg and 62 (8.9) mmHg, respectively; 
+15 children had hypertension. Mean (SD) respiratory 
+disturbance index (respiratory events/hr of sleep associated 
+with 2% oxygen desaturation of hemoglobin) for the 
+whole group of 239 children was 2.3 (3.8) episodes/hr. 
+Significant univariate associations were noted between 
+systolic blood pressure elevation and habitual loud 
+snoring, witnessed apneas, respiratory disturbance index, 
+poorer sleep efficiency, and between diastolic blood 
+pressure elevation and obesity, poorer sleep efficiency, 
+respiratory disturbance index, and arousal index.10 
+Factors independently associated with both systolic and 
+diastolic blood pressure elevation were poorer sleep 
+efficiency and respiratory disturbance index. Obesity 
+was independently associated only with diastolic blood 
+pressure elevation. Therefore, in contrast to the present 
+report, the TuCASA study documented an association 
+between elevated blood pressure and sleep-disordered 
+breathing in preadolescent children. 
+
+Narrowing of the upper airway during sleep occurs at 
+variable degrees within a population.22 We speculate that, 
+overall, subjects who are referred for polysomnography 
+have a more severe increase in upper airway resistance in 
+comparison to snoring children from population samples. 
+This could explain the presence of differences in mean 
+systolic and/or diastolic blood pressure between children 
+with snoring who are referred to the sleep laboratory and 
+healthy controls, and the absence of such differences 
+between habitual snorers and nonhabitual snorers in the 
+general population. For example, in the study by Kwok 
+et al.,8 both systolic and diastolic blood pressures were 
+
+
+412 Kaditis et al. 
+
+higher by about 7 mmHg in children with primary snoring 
+than in controls. 
+
+The main limitation of the present study is that we did 
+not perform polysomnography to diagnose sleep apneahypopnea 
+vs. primary snoring. Nevertheless, it is likely 
+that many of the studied subjects had primary snoring. 
+Furthermore, parentally reported snoring is the most 
+frequent symptom of obstructive sleep-disordered breathing, 
+and its presence usually indicates a diagnosis of 
+obstructive sleep apnea-hypopnea, primary snoring, or 
+upper airway resistance syndrome.12,23 However, its 
+absence does not always exclude the possibility of one 
+of the previous disorders. If some children with sleep-
+disordered breathing were misclassified as nonsnorers in 
+this report, then the misclassification will have attenuated 
+possible blood pressure differences between the two study 
+groups. 
+
+Frequency of habitual snoring (more that 3 nights/ 
+week) in this study was 6.6%, which is near the lower end 
+of the 3.2–34.5% range described in the pediatric 
+literature.24,25 It should be noted that a previous report 
+including 3,680 Greek children (1–18 years old) from the 
+same pediatric population reported a frequency of snoring 
+every night of 4.2%.14 Finally, since only 50 participants 
+were habitual snorers, the possibility of type II error (i.e., 
+inadequate statistical power to detect an existing blood 
+pressure difference between habitual and nonhabitual 
+snorers) cannot be excluded. 
+
+In conclusion, after studying a community sample of 
+children, we did not identify increased morning systolic or 
+diastolic blood pressure values in habitual snorers 
+compared to nonhabitual snorers. Body mass index and 
+gender, but not snoring, were significant predictors of 
+blood pressure values. Based on our results and on the 
+findings of previous pediatric reports, we speculate that 
+there may be a correlation between blood pressure and 
+severity of sleep-disordered breathing in children, but this 
+association is not apparent when unselected snorers from 
+the general population are studied. Snoring for more than 3 
+nights per week reported by parents does not predict 
+higher morning blood pressure values. 
+
+APPENDIX 
+
+Questionnaire Used for Clinical Evaluation of 
+Snoring Children and Nonsnoring Controls 
+
+Name (Last, First).............................................................. 
+
+
+Phone number.................................................................... 
+
+
+A. Demographics 
+1. Date today (day/month/year) ....../....../...... 
+2. Date of birth (day/month/year) ....../....../...... 
+3. Gender 1. Male___ 2. Female___ 
+B. Present and past medical history 
+4. Does your child’s cough with colds persist for more 
+than 10 days? 
+1. Yes___ 2. No___ 3. Do not know___ 
+5. Has the pediatrician ever diagnosed your child with 
+wheezing, bronchitis, or bronchial asthma? 
+1. Yes___ 2. No___ 3. Do not know___ 
+6. Has your child ever used an albuterol inhaler? 
+1. Yes___ 2. No___ 3. Do not know___ 
+7. Have 
+you seen your child struggling to breathe 
+while asleep? 
+0. Never____ 
+1. Only with colds___ 
+2. Less frequently than once a week____ 
+3. One to 3 nights a week____ 
+4. More frequently than 3 nights a week____ 
+5. Do not know___ 
+8. Has 
+this symptom (struggling to breathe while 
+asleep) been present at least over the last 6 months? 
+1. Yes___ 2. No___ 3. Do not know___ 
+9. Does your child snore during night sleep? 
+0. Never___ 
+1. Only with colds___ 
+2. Less frequently than once a week___ 
+3. One to 3 nights a week___ 
+4. More frequently than 3 nights a week___ 
+5. Do not know___ 
+10. Has this symptom (snoring during night sleep) 
+been present at least over the last 6 months? 
+1. Yes___ 2. No___ 3. Do not know___ 
+11. Have you seen your child stop breathing during 
+sleep? 
+0. Never___ 
+1. Only with colds___ 
+2. Less frequently than once a week___ 
+3. One to 3 nights a week___ 
+4. More frequently than 3 nights a week___ 
+5. Do not know___ 
+12. Has this symptom (stop breathing during sleep) 
+been present at least over the last 6 months? 
+1. Yes___ 2. No___ 3. Do not know___ 
+13. Does your child have restless sleep? 
+0. Never___ 
+1. Only with colds___ 
+2. Less frequently than once a week___ 
+3. One to 3 nights a week___ 
+4. More frequently than 3 nights a week___ 
+5. Do not know___ 
+
+Blood Pressure and Snoring 413 
+
+14. Has this symptom (restless sleep) been present at 
+least over the last 6 months? 
+1. Yes___ 2. No___ 3. Do not know___ 
+15. Has the teacher informed you that your child has a 
+problem with excessive daytime sleepiness (falling 
+asleep at school at least once a week)? 
+1. Yes___ 2. No___ 3. Do not know___ 
+16. Is your child a nighttime mouth-breather? 
+0. Never___ 
+1. Only with colds___ 
+2. Less frequently than once a week___ 
+3. One to 3 nights a week___ 
+4. More frequently than 3 nights a week___ 
+5. Do not know___ 
+17. Has this symptom (nighttime mouth-breathing) 
+been present at least over the last 6 months? 
+1. Yes___ 2. No___ 3. Do not know___ 
+18. Is your child a daytime mouth-breather? 
+0. Never___ 
+1. Only with colds___ 
+2. Less frequently than once a week___ 
+3. One to 3 days a week___ 
+4. More frequently than 3 days a week___ 
+5. Do not know___ 
+19. Has 
+this symptom (daytime mouth-breathing) 
+been present at least over the last 6 months? 
+1. Yes___ 2. No___ 3. Do not know___ 
+20. Has your child had a congested nose for more than 
+3 months over the past year? 
+1. Yes___ 2. No___ 3. Do not know___ 
+21. Has the pediatrician 
+ever diagnosed your child 
+with chronic rhinitis? 
+1. Yes___ 2. No___ 3. Do not know___ 
+22. Has the pediatrician 
+ever diagnosed your child 
+with large adenoids? 
+1. Yes___ 2. No___ 3. Do not know___ 
+23. Has the pediatrician 
+ever diagnosed your child 
+with large tonsils? 
+1. Yes___ 2. No___ 3. Do not know___ 
+24. Has your child had an adenoidectomy? 
+1. Yes___ 2. No___ 3. Do not know___ 
+25. Has your child had a tonsillectomy? 
+1. Yes___ 2. No___ 3. Do not know___ 
+26. Has 
+your child been diagnosed with diabetes 
+mellitus? 
+1. Yes___ 2. No___ 3. Do not know___ 
+27. Has your child had any other health problems? 
+1. Yes___ 2. No___ 
+If yes, please specify_____________________ 
+
+C. Family history 
+28. Does somebody in the family snore? 
+1. Yes___ 2. No____ 3. Do not know___ 
+If yes, please specify: 
+Paternal grandfather___ Paternal grandmother___ 
+Maternal grandfather___ 
+Maternal grandmother___ Father___ Mother___ 
+Siblings___ 
+
+
+29. Has anybody in the family had an adenoidectomy? 
+1. Yes___ 2. No___ 3. Do not know___ 
+If yes, please specify: 
+Paternal grandfather___ Paternal grandmother___ 
+Maternal grandfather___ 
+Maternal grandmother___ Father___ Mother___ 
+Siblings___ 
+
+
+30. Has anybody in the family been diagnosed with 
+bronchial asthma? 
+1. Yes___ 2. No___ 3. Do not know___ 
+If yes, please specify: 
+Paternal grandfather___ Paternal grandmother___ 
+Maternal grandfather___ 
+Maternal grandmother___ Father___ Mother___ 
+Siblings___ 
+
+
+31. Has anybody in the family been diagnosed with 
+chronic rhinitis? 
+1. Yes___ 2. No___ 3. Do not know___ 
+If yes, please specify: 
+Paternal grandfather___ Paternal grandmother___ 
+Maternal grandfather___ 
+Maternal grandmother___ Father___ Mother___ 
+Siblings___ 
+
+
+32. Does anybody smoke in the house where the child 
+lives? 
+1. Yes___ 2. No___ 
+REFERENCES 
+
+1. Nieto FJ, Young TB, Lind BK, Shahar E, Samet JM, Redline S, 
+D’Agostino RB, Newman AB, Lebowitz MD, Pickering TG. 
+Association of sleep-disordered breathing, sleep apnea, and 
+hypertension in a large community-based study. Sleep Heart 
+Health Study. JAMA 2000;283:1829–1836. 
+2. Young T, 
+Peppard P, Palta M, Hla KM, Finn L, Morgan B, 
+Skatrud J. Population-based study of sleep-disordered breathing 
+as a risk factor for hypertension. Arch Intern Med 1997;157: 
+1746–1752. 
+3. Shahar 
+E, Whitney CW, Redline S, Lee ET, Newman AB, 
+Javier Nieto F, O’Connor GT, Boland LL, Schwartz JE, Samet JM. 
+Sleep-disordered breathing and cardiovascular disease: cross
+
+414 Kaditis et al. 
+
+sectional results of the Sleep Heart Health Study. Am J Respir Crit 
+Care Med 2001;163:19–25. 
+
+4. Lavie P, Herer P, Hoffstein V. Obstructive sleep apnoea syndrome 
+as a risk factor for hypertension: population study. Br Med J [Clin 
+Res] 2000;320:479–482. 
+5. Grote L, Ploch T, Heitmann J, Knaack L, Penzel T, Peter JH. 
+Sleep-related breathing disorder is an independent risk factor for 
+systemic hypertension. Am J Respir Crit Care Med 1999;160: 
+1875–1882. 
+6. Peppard PE, Young T, Palta M, Skatrud J. Prospective study of the 
+association between sleep-disordered breathing and hypertension. 
+N Engl J Med 2000;342:1378–1384. 
+7. Marcus CL, Greene MG, Carroll JL. Blood pressure in children 
+with obstructive sleep apnea. Am J Respir Crit Care Med 1998; 
+157:1098–1103. 
+8. Kwok KL, Ng DK, Cheung YF. BP and arterial distensibility in 
+children with primary snoring. Chest 2003;123:1561–1566. 
+9. Kohyama J, Ohinata JS, Hasegawa T. 
+Blood pressure in sleep 
+disordered breathing. Arch Dis Child 2003;88:139–142. 
+10. Enright 
+PL, Goodwin JL, Sherrill DL, Quan JR, Quan SF. 
+Blood pressure elevation associated with sleep-related breathing 
+disorder in a community sample of white and Hispanic children: 
+the Tucson Children’s Assessment of Sleep Apnea Study. Arch 
+Pediatr Adolesc Med 2003;157:901–904. 
+11. Amin RS, Carroll JL, Jeffries JL, Grone C, Bean JA, Chini B, 
+Bokulic R, Daniels SR. Twenty-four-hour ambulatory blood 
+pressure in children with sleep-disordered breathing. Am J Respir 
+Crit Care Med 2004;169:950–956. 
+12. Brouilette R, Hanson D, David R, Klemka L, Szatkowski A, 
+Fernbach S, Hunt C. A diagnostic approach to suspected obstructive 
+sleep apnea in children. J Pediatr 1984;105:10–14. 
+13. Carroll JL, McColley SA, Marcus CL, Curtis S, Loughlin GM. 
+Inability of clinical history to distinguish primary snoring from 
+obstructive sleep apnea syndrome in children. Chest 1995;108: 
+610–618. 
+14. Kaditis AG, Finder J, Alexopoulos EI, Starantzis K, Tanou K, 
+Gampeta S, Agorogiannis E, Christodoulou S, Pantazidou A, 
+Gourgoulianis K, Molyvdas PA. Sleep-disordered breathing in 
+3,680 Greek children. Pediatr Pulmonol 2004;37:499–509. 
+15. National 
+High Blood Pressure Education Program Working 
+Group. Update on the 1987 task force report on high blood 
+pressure in children and adolescents: a working group report from 
+the National High Blood Pressure Education Program. Pediatrics 
+1996;98:649–658. 
+
+16. Steier M, Shapiro SC. Cor pulmonale from airway obstruction in 
+children. JAMA 1973;225:67. 
+17. 
+Brown OE, Manning SC, Ridenour B. Cor pulmonale secondary 
+to tonsillar and adenoidal hypertrophy: management 
+considerations. Int J Pediatr Otorhinolaryngol 1988;16:131– 
+139. 
+18. Sofer S, Weinhouse E, Tal A, 
+Wanderman KL, Margulis G, 
+Leiberman A, Gueron M. Cor pulmonale due to adenoidal or 
+tonsillar hypertrophy or both in children. Noninvasive diagnosis 
+and follow-up. Chest 1988;93:119–122. 
+19. Tal A, Leiberman A, Margulis G, Sofer S. Ventricular dysfunction 
+in children with obstructive sleep apnea: radionuclide assessment. 
+Pediatr Pulmonol 1988;4:139–143. 
+20. Amin 
+RS, Kimball TR, Bean JA, Jeffries JL, Willging JP, 
+Cotton RT, Witt SA, Glascock BJ, Daniels SR. Left ventricular 
+hypertrophy and abnormal ventricular geometry in children and 
+adolescents with obstructive sleep apnea. Am J Respir Crit Care 
+Med 2002;165:1395–1399. 
+21. Franklin SS, Gustin WT, Wong ND, Larson MG, Weber MA, 
+Kannel WB, Levy D. Hemodynamic patterns of age-related 
+changes in blood pressure. The Framingham Heart Study. 
+Circulation 1997;96:308–315. 
+22. Wiegand L, Zwillich CW, White DP. Collapsibility of the human 
+upper airway during normal sleep. JAppl Physiol 1989;66:1800– 
+1808. 
+23. American Thoracic Society. 
+Cardiorespiratory sleep studies in 
+children. Establishment of normative data and polysomnographic 
+predictors of morbidity. Am J Respir Crit Care Med 1999;160: 
+1381–1387. 
+24. Gislason T, 
+Benediktsdottir B. Snoring, apneic episodes, and 
+nocturnal hypoxemia among children 6 months to 6 years old. An 
+epidemiologic study of lower limit of prevalence. Chest 1995; 
+107:963–966. 
+25. Castronovo V, Zucconi M, Nosetti L, Marazzini C, Hensley M, 
+Veglia F, Nespoli L, Ferini-Strambi L. Prevalence of habitual 
+snoring and sleep-disordered breathing in preschool-aged 
+children in an Italian community. J Pediatr 2003;142:377– 
+382. 
+

@@ -1,0 +1,481 @@
+International Journal of Pediatric Otorhinolaryngology (2004) 68, 1375—1379 
+
+
+www.elsevier.com/locate/ijporl 
+
+Outcome of adenotonsillectomy for severe 
+obstructive sleep apnea in children$ 
+
+
+Ron B. Mitchella,b,*, James Kellya 
+
+aDepartment of Surgery, Health Sciences Center, University of New Mexico, USA 
+bDepartment of Pediatrics, Health Sciences Center, University of New Mexico, USA 
+
+Received 12 October 2003; received in revised form 25 April 2004; accepted 27 April 2004 
+
+KEYWORDS 
+
+Sleep disorders; 
+Sleep apnea; 
+Obstructive; 
+Child; 
+Tonsillectomy; 
+Polysomnography 
+
+Summary 
+
+Objective: To study changes in sleep behavior and quality of life in children after 
+adenotonsillectomy for severe obstructive sleep apnea identified by a respiratory 
+distress index . 
+30. 
+Methods: Children enrolled in the study underwent adenotonsillectomy and had both 
+pre-and post-operative polysomnography. Caregivers also completed an OSA-18 
+quality of life survey prior to polysomnography and within 6 months of surgery. 
+Paired Student’s t-tests were used to compare pre-and post-operative scores. 
+Results: The study population included 29 children. The mean age was 7.1 years 
+(range 1.4—17.0). The most common comorbidities were obesity, asthma and allergic 
+disease. The mean pre-operative RDI was 63.9 and the mean post-operative RDI was 
+
+14.2 (P < 
+.0001). The mean total OSA-18 score before surgery was 77.6 and after 
+surgery was 33.2. The differences in pre-and post-operative OSA-18 total scores and 
+domain scores were significant (P < 
+.0001). 
+Conclusion: Children with severe OSA who undergo adenotonsillectomy show a 
+significant improvement in RDI and in quality of life over a period of several months 
+after surgery. However, OSA does not resolve in the majority of these children and 
+post-operative PSG is recommended to identify those who may require additional 
+therapy. 
+. 
+2004 Elsevier Ireland Ltd. All rights reserved. 
+1. Introduction 
+$ 
+Presented at the Meeting of the Society of Ear Nose and 
+Throat Advances in Children (SENTAC), American Academy of Severe obstructive sleep apnea (OSA) [1] may cause 
+Pediatrics, New Orleans, LA, 1 November 2003. cardio-respiratory complications if left untreated 
+
+* Corresponding author. Present address: Department of 
+[2]. These complications include cor pulmonale, 
+
+Otolaryngology, Virginia Commonwealth University, P.O. Box 
+
+right ventricular dysfunction, pulmonary hyperten
+
+
+980146, Richmond, VA 23298, USA. Tel.: +1 804 828 3965; 
+fax: +1 804 828 5779. 
+
+sion and elevated diastolic blood pressure [3—5]. 
+E-mail address: rbmitchell@vcu.edu (R.B. Mitchell). Children with severe OSA are also more likely to 
+
+0165-5876/$ — see front matter . 
+2004 Elsevier Ireland Ltd. All rights reserved. 
+doi:10.1016/j.ijporl.2004.04.026 
+
+
+R.B. Mitchell, J. Kelly 
+have acute respiratory compromise after adenotonsillectomy 
+when compared to children with mild or 
+moderate OSA [6]. Therefore, it has been recommended 
+that children with severe OSA be monitored 
+overnight after adenotonsillectomy [6,7]. Suen et 
+al. [8] showed that children with severe OSA are less 
+likely to have complete resolution of OSA after 
+adenotonsillectomy and recommended that they 
+undergo routine post-operative polysomnography 
+[7]. 
+
+It is known that the general population of children 
+with OSA shows dramatic improvements in the 
+physiological parameters of sleep after adenotonsillectomy 
+[8]. It is also known that these children 
+show marked improvement in quality of life after 
+surgery [9,10]. However, children with severe OSA 
+are different than children with mild or moderate 
+OSA with respect to possible long-term complications 
+of the disorder, post-operative recovery and 
+resolution after surgical therapy [2,6,8]. Therefore, 
+it is important to establish the extent to which 
+children with severe OSA improve after adenotonsillectomy 
+relative to the general population of 
+children. The present paper examines the changes 
+in the respiratory distress index (RDI) as measured 
+by full-night polysomnography [11] and in quality of 
+life as measured by the OSA-18 survey [12] after 
+adenotonsillectomy in children with severe OSA. 
+
+2. Methods 
+Approval for this study was obtained from the institutional 
+review board of the University of New 
+Mexico School of Medicine, Albuquerque. Children 
+with a sleep disturbance who were shown to have 
+severe obstructive sleep apnea by full-night polysomnography 
+(PSG) were included in the study. The 
+caregivers of these children were asked to complete 
+an informed consent document before enrolling 
+their child in the study. Exclusion criteria included: 
+
+(1) children less than 1 or greater than 18 years of 
+age; (2) children who had a previous adenotonsillectomy; 
+and (3) children with a respiratory distress 
+index (RDI) less than 30. 
+For each child the following was recorded: age, 
+gender, ethnicity, body mass index (BMI) and associated 
+comorbidities. Age and gender specific BMI 
+percentiles were calculated and children were 
+divided into four groups according to published 
+guidelines [13]. Group 1 included children who were 
+underweight with a BMI . 
+5th percentile; Group 2 
+included children who were of normal weight with a 
+BMI > 
+5th < 
+85th percentiles; Group 3 included 
+children who were at risk of being overweight with 
+a BMI . 
+85th < 
+95th percentiles; and Group 4 
+
+included children who were overweight with a 
+BMI . 
+95th percentile. 
+
+The effectiveness of adenotonsillectomy for OSA 
+as therapy to improve the physiological parameters 
+of sleep was evaluated using PSG [11]. A certified 
+sleep medicine physician interpreted the results of 
+all PSGs. The RDI, defined as the average number of 
+apneas and hypopneas per hour of sleep [14], was 
+used for diagnosis of OSA prior to surgery. Severe 
+OSA was defined as an RDI . 
+30. Children enrolled in 
+the study also underwent a second PSG within 6 
+months after surgery and findings were classified as: 
+mild (RDI . 
+5to < 
+10); moderate (RDI . 
+10 to < 
+30); 
+or severe (RDI . 
+30). Data on the sizes of the tonsils 
+and adenoids were not collected for this research 
+since previous studies have shown that there is a 
+poor correlation between tonsillar size and polysomnography 
+findings [8,15]. 
+
+Improvements in quality of life after adenotonsillectomy 
+for severe OSA were evaluated using the 
+OSA-18 survey completed before and within 6 
+months after surgery. This survey comprises 18 
+items in five domains of sleep disturbance, physical 
+suffering, emotional distress, daytime problems 
+and caregiver concerns. The domains of emotional 
+distress and daytime problems contain three items 
+while the other domains contain four. A point scale 
+is used ranging from 1 (=none of the time) to 7 (=all 
+of the time) to grade the relative severity of the 
+problem addressed in each item. The total score 
+and the domain scores were recorded. 
+
+A power analysis indicated that a sample size of 
+29 is adequate to detect a 20 point difference in 
+OSA-18 total score and a difference of 10 in RDI with 
+80% power and a 
+= .05. Based on the original study 
+by Franco et al. [12] a change in OSA-18 total score 
+from 80 to 60 indicates a change from severe to 
+moderate impact on health-related quality of life. A 
+change in RDI from 30 to 20 indicates a change from 
+severe to moderate OSA [1]. Therefore, the present 
+study has sufficient power to detect a clinically 
+significant change in health-related quality of life 
+based on OSA-18 total score and in the physiological 
+parameters of sleep as measured by RDI. 
+
+Caregivers were asked to complete the first OSA18 
+survey prior to PSG. Children with severe OSA 
+then underwent a monopolar bovie adenotonsillectomy. 
+Caregivers were asked to complete the OSA-18 
+survey a second time after surgery and post-operative 
+PSG was performed on all children enrolled in 
+the study. The OSA-18 difference score was derived 
+by subtracting the mean post-operative score from 
+the mean pre-operative score. The standardized 
+response mean (SRM), defined as the difference 
+score divided by the standard deviation of the 
+difference score, was used to document the extent 
+
+
+Outcome of adenotonsillectomy for severe obstructive sleep apnea in children 
+
+of improvement after surgery. The 95% confidence 
+intervals (95% CI) for the total score and domain 
+scores of the OSA-18 survey were also calculated. 
+The two-tailed paired Student’s t-test was used to 
+evaluate the significance of differences in the pre-
+and post-operative OSA-18 surveys. The same test 
+was used to evaluate the significance of differences 
+in pre-and post-operative RDI. A P-value < 
+.05 was 
+considered to be significant. 
+
+3. Results 
+Thirty-five children were included in the study. 
+Three of these children were lost to follow-up, 
+one did not have post-operative PSG, and the caregivers 
+for two children did not complete the postoperative 
+OSA-18 survey. As a consequence, the 
+study population included 29 children. Twenty-
+two of the children (76%) are male. The mean age 
+of the children at the time of inclusion in the study 
+was 7.1 years, and the range was 1.4—17.0 years. 
+Thirteen children were Hispanic or Latino, 10 children 
+were non-Hispanic or Latino White, one was 
+Native American, one was African American and in 
+four children the ethnicity was described as 
+‘‘other’’. The most common comorbidities were 
+obesity, asthma and allergic disease. Fourteen children 
+were obese, nine had asthma and six had 
+allergic disease. Twelve children had two or more 
+comorbidities and eight children had no comorbidities. 
+Based on BMI percentiles, 3 children were in 
+Group 1 (underweight), 9 were in Group 2 (normal 
+weight), 3 were in Group 3 (at risk of being overweight) 
+and 14 were in Group 4 (overweight). 
+
+The mean interval between the first OSA-18 survey 
+and surgery was 2.0 months and the mean 
+interval between surgery and the second survey 
+was 1.8 months. The mean interval between the 
+two surveys was 3.8 months. The mean interval 
+between the first PSG and surgery was 1.4 months 
+and the mean interval between surgery and the 
+second PSG was 5.8 months. The mean interval 
+between the two PSGs was 7.2 months. 
+
+Pre-and post-operative PSG results are summarized 
+in Table 1. The mean pre-operative RDI was 
+
+63.9 and the mean post-operative RDI was 14.2. The 
+P-value for this difference in scores is <.0001. Postoperative 
+PSG showed that nine children (31%) had 
+an RDI < 
+5 indicating no evidence of OSA. Twenty 
+children had an RDI . 
+5 indicating persistent postoperative 
+OSA. Nine of the 14 children (64%) in 
+group 4 (overweight) had an RDI 5 after surgery 
+and 2 of these children had an RDI 30. None of the 
+children in group 2 (normal weight) had an RDI 30 
+after surgery. 
+Table 1 Pre-and post-operative PSG results 
+
+RDI* Pre-operative Post-operative 
+PSG PSG 
+Mean RDI 63.9 14.2 
+Mean RDI 95% CI 51.9—75.8 8.9—19.5 
+Post-operative RDI group No. 
+RDI < 
+5 9 
+RDI . 
+5 < 
+10 7 
+RDI . 
+10 < 
+30 9 
+RDI . 
+30 4 
+
+* 
+
+P-value for difference in mean RDI < 
+.0001; two-tailed 
+paired t-test. 
+
+OSA-18 total and domain scores before and after 
+adenotonsillectomy for severe obstructive sleep 
+apnea are presented in Table 2. The total OSA-18 
+score and the scores for all domains showed 
+improvement after surgery. The mean total OSA18 
+score before surgery was 77.6 and after surgery 
+was 33.2. The SRM for the difference in total score 
+was 2.2. The domain with the greatest change in 
+mean score was sleep disturbance (SRM 2.0). The 
+second greatest mean change was in the domain of 
+caregiver concerns (SRM 1.9). The smallest mean 
+change was in the domain of emotional distress 
+(SRM 0.9). These differences in pre-and post-operative 
+OSA-18 total scores and domain scores are 
+significant (P < 
+.0001). 
+
+4. Discussion 
+The results of the present study agree with the 
+previous findings of Suen et al. [8] who reported 
+on 26 children with OSA. These children underwent 
+adenotonsillectomy and had pre-and post-operative 
+PSG. The mean pre-operative RDI was 16.4 and 
+the mean post-operative RDI was 1.7. All 26 children 
+had a lower RDI after adenotonsillectomy. However, 
+four children had a post-operative RDI that 
+was greater than five indicating persistent OSA. All 
+children with persistent OSA had a pre-operative 
+RDI greater than 19. 
+
+In the present study of 29 children with severe 
+OSA, the mean pre-operative RDI was 63.9 and the 
+mean post-operative RDI was 14.2. Only nine children 
+(31%) had resolution of OSA as measured by a 
+post-operative RDI of less than 5. Therefore, a high 
+pre-operative RDI in children with OSA is associated 
+with a reduced likelihood of resolution of the disorder 
+after adenotonsillectomy. These findings 
+imply that children with severe OSA should have 
+routine post-operative PSG to identify persistent 
+OSA that may require additional therapy. 
+
+
+R.B. Mitchell, J. Kelly 
+Table 2 Mean pre-and post-operative OSA-18 scores and 95% confi dence intervals
+
+Total95% CI Sleep95% CI Physical95% CI Emotional95% CI Daytime95% CI Caregiver95% CI 
+score disturbance suffering distress problems concerns 
+
+Survey 1 77.6 71.1—95.4 20.4 18.4—25.9 16.5 14.2—23.0 10.2 8.4—15.1 10.7 9.1—15.2 19.7 17.6—25.6 
+Survey 2 33.2 27.0—50.3 6.8 5.1—11.3 8 6.4—12.3 6.1 4.9—9.4 5.3 4.2—8.4 7 5.3—11.7 
+
+
+SRMa 2.2 2.0 1.4 0.9 1.1 1.9 
+
+a SRM = difference score/standard deviation of difference score; P-value 
+< 
+.001; two-tailed paired t-test for differences in all pre-and post-operative scores. 
+
+There are no absolute guidelines based on PSG in 
+combination with clinical signs and symptoms to 
+diagnose severe OSA in children [7]. McColley et 
+al. [6] found that children who had a respiratory 
+complication after adenotonsillectomy, indicating 
+severe OSA, all had a pre-operative RDI greater than 
+
+10. Suen et al. [8] as noted above, found that 
+children with a pre-operative RDI greater than 19 
+were less likely to have resolution of OSA after 
+adenotonsillectomy, also an indication of severe 
+OSA. Finally, Rosen et al. [16] found that children 
+who had respiratory complications after adenotonsillectomy 
+all had a pre-operative RDI greater than 
+40 and a minimum arterial O2 saturation less than 
+70% indicating severe OSA. Given that a variety of 
+standards exist for the identification of severe OSA 
+on the basis of PSG ranging from an RDI of 10 to 40, 
+[6,8,16] a pre-operative RDI greater than 30 was 
+used in the present study to identify severe OSA. 
+Goldstein et al. [9] and Mitchell et al. [10] 
+reported improvements in quality of life after adenotonsillectomy 
+in the general population of children 
+with OSA within 6 months of surgery. In the 
+present study, caregivers reported improvement in 
+their children after surgery in all domains of the 
+OSA-18 survey including sleep disturbance, physical 
+suffering, emotional distress and daytime problems. 
+Caregiver’s concerns were also reduced 
+after surgery. Thus, we conclude that the dramatic 
+improvement in quality of life seen after adenotonsillectomy 
+for OSA in the general population of 
+children also occurs in children with severe OSA 
+and that this improvement persists for at least 4 
+months after surgery. 
+
+This study has several limitations. It was not 
+possible to have a control group of children with 
+severe OSA who did not undergo surgery. In view of 
+the difficulty of obtaining both pre-and post-operative 
+PSG, it was not feasible to have a sample size 
+large enough to compare the effects of different 
+comorbidities, gender or age on the degree of 
+improvement after adenotonsillectomy for severe 
+OSA. Furthermore, the follow-up was relatively 
+short and it is not known whether improvements 
+are maintained long-term. In spite of these limitations, 
+the present study shows that children do 
+improve markedly after adenotonsillectomy for 
+severe OSA, but the majority have persistent symptoms 
+of the disorder. 
+
+5. Conclusion 
+Children with severe OSA who undergo adenotonsillectomy 
+show a significant improvement in RDI 
+and in quality of life over a period of several months 
+
+
+Outcome of adenotonsillectomy for severe obstructive sleep apnea in children 
+
+after surgery. However, OSA does not resolve in the 
+majority of these children. Therefore, to identify 
+those who may require additional therapy, postoperative 
+PSG is recommended for all children with 
+severe OSA. 
+
+References 
+
+[1] American Thoracic Society, Standards and indications for 
+cardiopulmonary sleep studies in children, Am. J. Respir. 
+Crit. Care Med. 153 (1996) 866—878. 
+[2] C. Hunt, R. Brouillette, Abnormalities of breathing control 
+and airway maintenance in infants and children as a cause of 
+cor pulmonale, Pediatr. Cardiol. 3 (1982) 249—256. 
+[3] M. Steier, S. Shapiro, Cor pulmonale from airway obstruction 
+in children, JAMA 225 (1973) 67. 
+[4] R. Ross, S. Daniels, J. Loggie, et al., Sleep apnea-associated 
+hypertension and reversible left ventricular hypertrophy, J. 
+Pediatr. 111 (1987) 253—255. 
+[5] O. Brown, S. Manning, B. Ridenour, Cor pulmonale secondary 
+to tonsillar and adenoidal hypertrophy: management 
+considerations, Int. J. Pediatr. Otorhinolaryngol. 16 (1988) 
+131—139. 
+[6] S. McColley, M. April, J. Carroll, et al., Respiratory compromise 
+after adenotonsillectomy in children with obstructive 
+sleep apnea, Arch. Otol. Head Neck Surg. 13 (1992) 222—226. 
+[7] American 
+Academy of Pediatrics, Section on Pediatric 
+Pulmonology, Subcommittee on Obstructive Sleep Apnea 
+Syndrome, Clinical practice guideline: diagnosis and management 
+of childhood obstructive sleep apnea syndrome, 
+Pediatrics 109 (2002) 704—711. 
+
+[8] J. Suen, J. Arnold, L. Brooks, Adenotonsillectomy for treatment 
+of obstructive sleep apnea in children, Arch. Otolaryngol. 
+Head Neck. Surg. 121 (1995) 525—530. 
+[9] N. Goldstein, M. Fatima, T. Campbell, et al., Child behavior 
+and quality of life before and after tonsillectomy and 
+adenoidectomy, Arch. Otolaryngol. Head Neck Surg. 128 
+(2002) 770—775. 
+[10] R. Mitchell, J. Kelly, E. Call, et al., 
+Quality of life after 
+adenotonsillectomy for obstructive sleep apnea in children, 
+Arch. Otolaryngol. Head Neck Surg. 130 (2004) 190—194. 
+[11] J. Carroll, G. Loughlin, Diagnostic criteria for obstructive 
+sleep apnea syndrome in children, Pediatr. Pulmonol. 14 
+(1992) 71—74. 
+[12] R. Franco, R. Rosenfeld, M. Rao, Quality of life for children 
+with obstructive sleep apnea, Otolarygol. Head Neck Surg. 
+123 (2000) 9—16. 
+[13] National Center for Chronic Disease Prevention and Health 
+Promotion. Nutrition & Physical Activity: Defining Overweight 
+and Obesity, 2003. http://www.cdc.gov/nccdphp/ 
+dnpa/obesity/defining.htm. 
+[14] J. Leach, J. Olson, J. Hermann, et al., Polysomnographic 
+and clinical findings in children with obstructive sleep 
+apnea, Arch. Otol. Head Neck Surg. 118 (1992) 741—744. 
+[15] R. Wang, T. Elkins, D. Keech, et al., 
+Accuracy of clinical 
+evaluation in pediatric obstructive sleep apnea, Otolaryngol. 
+Head Neck Surg. 118 (1998) 69—73. 
+[16] G. Rosen, R. Muckle, M. Mahowald, et al., 
+Postoperative 
+respiratory compromise in children with obstructive sleep 
+apnea syndrome: can it be anticipated? Pediatrics 93 (1994) 
+784—788. 
+

@@ -1,0 +1,1114 @@
+Frances McNamara and Colin E. Sullivan 
+
+J Appl Physiol 87:889-896, 1999. 
+
+You might find this additional information useful... 
+
+This article cites 27 articles, 12 of which you can access free at: 
+
+http://jap.physiology.org/cgi/content/full/87/3/889#BIBL 
+
+This article has been cited by 6 other HighWire hosted articles, the first 5 are: 
+
+Habituation of Arousal Responses after Intermittent Hypercapnic Hypoxia in Piglets 
+
+K. A. Waters and K. D. Tinworth 
+Am. J. Respir. Crit. Care Med., June 1, 2005; 171 (11): 1305-1311. 
+[Abstract] [Full Text] [PDF] 
+
+Intermittent hypoxia induces transient arousal delay in newborn mice 
+
+E. Durand, F. Lofaso, S. Dauger, G. Vardon, C. Gaultier and J. Gallego 
+J Appl Physiol, March 1, 2004; 96 (3): 1216-1222. 
+[Abstract] [Full Text] [PDF] 
+
+nCPAP improves abnormal autonomic function in at-risk-for-SIDS infants with OSA 
+
+C. Harrington, T. Kirjavainen, A. Teng and C. E. Sullivan 
+J Appl Physiol, October 1, 2003; 95 (4): 1591-1597. 
+[Abstract] [Full Text] [PDF] 
+
+Effect of stimulus cycle time on acute respiratory responses to intermittent hypercapnic 
+hypoxia in unsedated piglets 
+
+K. A. Waters and K. D. Tinworth 
+J Appl Physiol, June 1, 2003; 94 (6): 2465-2474. 
+[Abstract] [Full Text] [PDF] 
+
+Noninvasive ventilation in children 
+
+O. Norregaard 
+Eur. Respir. J., November 1, 2002; 20 (5): 1332-1342. 
+[Abstract] [Full Text] [PDF] 
+
+Medline items on this article's topics can be found at http://highwire.stanford.edu/lists/artbytopic.dtl 
+
+on the following topics: 
+Medicine .. Apnea 
+Physiology .. Sleep 
+Physiology .. Rapid-Eye-Movement Sleep 
+Medicine .. Pediatric Depression 
+Medicine .. Continuous Positive Airway Pressure 
+Medicine .. Nasal CPAP 
+
+Updated information and services including high-resolution figures, can be found at: 
+
+http://jap.physiology.org/cgi/content/full/87/3/889 
+
+Additional material and information about Journal of Applied Physiology can be found at: 
+
+http://www.the-aps.org/publications/jappl 
+
+This information is current as of March 4, 2009 . 
+
+Downloaded from jap.physiology.org on March 4, 2009 
+
+Journal of Applied Physiology publishes original papers that deal with diverse areas of research in applied physiology, especially 
+those papers emphasizing adaptive and integrative mechanisms. It is published 12 times a year (monthly) by the American 
+Physiological Society, 9650 Rockville Pike, Bethesda MD 20814-3991. Copyright © 2005 by the American Physiological Society. 
+ISSN: 8750-7587, ESSN: 1522-1601. Visit our website at http://www.the-aps.org/. 
+
+
+Effects of nasal CPAP therapy on respiratory 
+and spontaneous arousals in infants with OSA 
+
+FRANCES MCNAMARA AND COLIN E. SULLIVAN 
+
+David Read Sleep Unit, Royal Alexandra Hospital for Children, Westmead, 
+New South Wales 2145; and the David Read Laboratory, Department 
+of Medicine, University of Sydney, New South Wales 2006, Australia 
+
+McNamara, Frances, and Colin E. Sullivan. Effects of 
+nasal CPAP therapy on respiratory and spontaneous arousals 
+in infants with OSA. J. Appl. Physiol. 87(3): 889–896, 1999.— 
+Obstructive sleep apnea (OSA) in infants has been shown to 
+resolve frequently without a cortical arousal. It is unknown 
+whether infants do not require arousal to terminate apneas or 
+whether this is a consequence of the OSA. We studied the 
+apnea and arousal patterns of eight infants with OSA before 
+and after treatment with nasal continuous positive airway 
+pressure (CPAP). These infants were age matched to eight 
+untreated infants with OSA and eight normal infants. Polysomnographic 
+studies were performed on each infant. We 
+found that the majority of central and obstructive apneas 
+were terminated without arousal in all OSA infants. After 
+several weeks of nasal CPAP treatment, the proportion of 
+apneas terminating with an arousal during rapid-eyemovement 
+sleep increased in treated infants compared with 
+untreated infants. Spontaneous arousals during rapid-eyemovement 
+sleep were reduced in all OSA infants; however, 
+during CPAP treatment, the spontaneous arousals increased 
+to the normal control level. We conclude that OSA in infants 
+possibly depresses the arousal response and treatment of 
+these infants with nasal CPAP partially reverses this depression. 
+
+
+rapid-eye-movement sleep; obstructive apnea; spontaneous 
+arousals; respiratory arousals; nasal continuous positive 
+airway pressure 
+
+AROUSAL FROM SLEEP IS CONSIDERED to be an important 
+response to a respiratory stimulus, allowing an individual 
+to initiate protective reflexes that are depressed 
+during sleep (22). Several respiratory stimuli, including 
+hypoxia (11), hypercapnia (21), airway occlusion (9, 
+7), and laryngeal stimulation (29), can induce arousal 
+from sleep and stimulate reflex respiratory changes. 
+The arousal response has been shown to differ between 
+different sleep states; stronger stimuli are often required 
+to induce arousal from rapid-eye-movement 
+(REM) sleep than from non-rapid-eye-movement 
+(NREM) sleep (7, 21, 29). 
+
+Arousal is a prominent feature of the adult obstructive 
+sleep apnea (OSA) syndromes (27), and the arousal 
+threshold to upper airway occlusion and hypoxia has 
+been demonstrated to be higher in OSA patients than in 
+normal subjects (13). Adults with OSA can experience 
+profound oxyhemoglobin desaturation before awakening 
+(6), which is more severe during REM sleep (27). 
+
+The costs of publication of this article were defrayed in part by the 
+payment of page charges. The article must therefore be hereby 
+marked ‘‘advertisement’’ in accordance with 18 U.S.C. Section 1734 
+solely to indicate this fact. 
+
+The potential mechanisms of the increased arousal 
+threshold are unknown; however, it has been suggested 
+that sleep fragmentation and repeated hypoxemia associated 
+with OSA may be involved. Recently, it was 
+found that the impairment of the arousal responsiveness 
+to occlusion was partially reversed after long-term 
+treatment with nasal CPAP (4, 5). 
+
+Previously, we have shown that the majority of 
+obstructive and central apneas in infants and children 
+are not resolved with an accompanying electroencephalogram 
+(EEG) arousal (18). It was also demonstrated 
+that infants with OSA have a reduction in the number 
+of spontaneous arousals during REM sleep compared 
+with normal infants. It is not known whether infants do 
+not require arousal to resolve an obstructive event or 
+whether, similar to adults, arousal has been depressed 
+as a consequence of the OSA. The effects of OSA on 
+arousability in infants during NREM and REM sleep 
+have not been previously described. 
+
+We hypothesized that OSA in an infant is associated 
+with a depressed arousability and that treatment of 
+OSAwould result in an increase in an infant’s arousability. 
+Nasal continuous positive airway pressure (CPAP) 
+therapy has been demonstrated previously to be an 
+effective treatment for OSA in infants, preventing 
+obstruction and reversing the associated sleep disturbances 
+(8, 17). We examined the respiratory and spontaneous 
+arousal patterns during overnight polysomnographic 
+studies in infants who had OSA and required 
+treatment with nasal-mask CPAP. We studied these 
+infants before treatment with nasal CPAP and on the 
+first night of CPAP withdrawal after several weeks of 
+CPAP therapy. Their respiratory and spontaneous 
+arousal patterns were compared with those of normal 
+infants and infants with OSA who were not treated. We 
+wanted to determine the effects of nasal CPAP treatment 
+on respiratory and spontaneous arousability and 
+whether there were any differences between NREM 
+and REM sleep. 
+
+METHODS 
+
+Patients 
+
+Three separate groups of infants were included in the 
+study. All of the infants studied had been referred to our sleep 
+unit for investigation of OSA either because of a family 
+history of sudden infant death syndrome (SIDS) or because 
+they had experienced an apparent life-threatening event. All 
+infants included in the study were normal on clinical examination 
+while awake and had no anatomic or congenital 
+abnormality. 
+
+We studied eight infants who were diagnosed with OSA 
+from a diagnostic sleep study and were treated with nasal-
+
+Downloaded from jap.physiology.org on March 4, 2009 
+
+http://www.jap.org 8750-7587/99 $5.00 Copyright r 1999 the American Physiological Society 
+
+889 
+
+
+EFFECT OF NASAL CPAP ON INFANT AROUSAL 
+
+mask CPAP therapy (group I). OSA in the present study was 
+defined as obstructive events recorded in the diagnostic study 
+in excess of five events per hour of sleep. These infants were 
+between 6 and 18 wk of age when they were first diagnosed 
+with OSA. The decision to treat these infants with nasal 
+CPAP was based on the severity of OSA. Infants were treated 
+with nasal CPAP if their obstructive apnea index exceeded 15 
+apneas/h of total sleep time. Treatment with nasal CPAP was 
+commenced within 2 wk of diagnosis. We also selected a 
+control group of eight infants (control infants) who had 
+undergone overnight polysomnographic studies and had normal 
+sleep and breathing patterns. In addition, a group of 
+eight infants who were diagnosed with OSA but were not 
+treated with nasal CPAP was also included (group II). These 
+infants were monitored at home with a cardiorespiratory 
+monitor. The control and untreated groups of OSA infants 
+were age-matched to the group I infants for the first diagnostic 
+and a repeat diagnostic study performed ,7 wk later. The 
+clinical characteristics of the three groups of infants are 
+described in Table 1. 
+
+Polygraphic Monitoring 
+
+Each infant underwent overnight polysomnographic recordings. 
+The polysomnographic data were recorded on a Grass 
+(model 8) 12-channel EEG polygraph recorder (Grass Instrument, 
+Quincy, MA). In each patient, sleep was monitored with 
+two channels of EEG (C3-A2,O2-A1, 10–20 international 
+placement system), two channels of electrooculogram, and 
+submental electromyogram (EMG). Diaphragm (EMGDia) and 
+abdominal EMG were also measured. The electrocardiogram 
+was measured continuously. Pulse oximetry with the use of a 
+foot probe was measured continuously as an indication of 
+arterial oxyhemoglobin saturation (Ohmeda Biox 3700E, 
+Denver, CO). Transcutaneous CO2 was measured continuously 
+with a transcutaneous probe (TCM3, Radiometer, Copenhagen, 
+Denmark) as an indication of arterial partial pressure 
+of CO2. Airflow was monitored by using small infant nasal 
+prongs that were placed in the infant’s nostrils and then 
+attached to a pressure transducer (DP103, Validyne, North-
+ridge, CA). Chest wall and abdominal movements were 
+measured by using inductance plethysmography (Respitrace, 
+Ambulatory Monitoring, Ardsley, NY). 
+
+Each infant underwent at least two overnight sleep studies. 
+The first was a diagnostic study to determine the severity 
+of obstructive and central apnea and the sleeping pattern in 
+each of the infants. Follow-up diagnostic sleep studies were 
+repeated at 1-to 2-mo intervals to review the progress of the 
+infant’s apnea. Infants who were treated with nasal-mask 
+CPAP had an additional study within 1 wk of their initial 
+
+Table 1. Clinical characteristics of OSA 
+and control infants 
+
+Group I Group II Control 
+n 8 8 8 
+Sex (M/F) 5/3 4/4 4/4 
+Gestational age, wk 38.560.9 37.96 1.4 40.16 0.5 
+Age, wk 
+Study 1 10.861.3 10.361.1 10.06 1.3 
+CPAP PD study 11.461.3 
+Study 2 17.66 2.3 17.161.8 19.161.8 
+
+Values are means 6 SE for the treatment group of infants with 
+obstructive sleep apnea (OSA) (group I) the untreated infants with 
+OSA (group II), and the control infants (control). n, No. of infants. 
+M/F, male/female; CPAP PD, continuous positive airway pressure 
+pressure determination. There were no significant differences in any 
+of the variables among the 3 groups of infants. 
+
+diagnostic study to commence nasal CPAP therapy, and the 
+appropriate CPAP pressure was determined. After the CPAP 
+study, each infant in group I continued treatment during 
+sleep at home. The follow-up diagnostic study was performed 
+without CPAP and was the first night of nasal CPAP removal 
+since treatment was started. 
+
+Each study was started at the time the infant normally 
+went to sleep for the night, usually between 7:00 and 9:00 PM. 
+Each study was stopped at 6:00 AM the following morning. All 
+patients were observed throughout each study by the nursing 
+staff. Any movements, changes in body position, crying, 
+mouth breathing, or nursing interventions were recorded on 
+the polygraph paper. 
+
+Nasal CPAP 
+
+Each infant treated with nasal CPAP underwent a CPAP 
+pressure determination study to determine the appropriate 
+level of CPAP pressure. An overnight polysomnographic 
+study was performed with the same setup as the diagnostic 
+study except that nasal CPAP was applied throughout sleep. 
+Nasal CPAP was applied by using commercially available 
+CPAP machines and infant masks (ResMed, Sydney, Australia). 
+The mask was fitted over the infant’s nose and secured 
+with a head strap (Remcap, Sydney, Australia). Nasal CPAP 
+was commenced on the lowest level, i.e., 3.7 cmH2O, and the 
+pressure was gradually increased by small increments (0.3 
+cmH2O) during inspiration until the obstructive events were 
+abolished. As the pressure was increased, the breathing 
+patterns and CO2 recordings were monitored carefully. The 
+optimal pressure was the level that minimized obstructive 
+events and did not increase the CO2 level or the length of 
+central apneas. 
+
+Analysis 
+
+Each polysomnographic study was scored, and 60-s epochs 
+of recording were assigned as either NREM sleep, REM sleep, 
+or awake according to established criteria for neonates and 
+infants (1, 23). NREM sleep was further subdivided into light 
+sleep equivalent to stage 1–2 NREM and slow-wave sleep 
+equivalent to stage 3–4 NREM sleep. The total time in each 
+sleep state and the proportion of total sleep time spent in 
+stage 1–2 NREM, slow-wave sleep, and REM sleep were 
+calculated. 
+
+All apneas were scored on each study. An apnea was 
+defined as a cessation of respiration for the duration of at 
+least two respiratory cycles, which was ,3 s in the infants 
+studied. Apneas were classified as central when there was an 
+absence of airflow, EMGDia, and Respitrace movements. Obstructive 
+apneas were scored if there was an absence of 
+airflow and continued EMGDia bursts and deflections from the 
+Respitrace. An apnea was classified as mixed if it involved a 
+central and obstructive component. The number of central, 
+mixed, and obstructive apneas was summed during each 
+study. For the purpose of analysis, mixed and obstructive 
+apneas were combined and are referred to as obstructive 
+apneas. An apnea index (apneas/h) was calculated for central, 
+obstructive, and total apneas during NREM and REM sleep 
+for each study. 
+
+Arousals were scored according to EEG, EMG, and behavioral 
+criteria, similar to those outlined by our previous 
+findings (18). An arousal was defined as an abrupt change in 
+the EEG to alpha frequencies (8–13 Hz) or frequencies .16 
+Hz for a minimum of 1 s. During REM sleep, arousals were 
+scored if the change in EEG was accompanied by an increase 
+in the amplitude of the submental EMG signal. The arousals 
+were then classified as either respiratory or spontaneous. A 
+
+Downloaded from jap.physiology.org on March 4, 2009 
+
+
+EFFECT OF NASAL CPAP ON INFANT AROUSAL 
+
+891 
+
+Table 2. Apnea and sleep variables in OSA and control infants 
+
+Group I Group II Control 
+Study 1 Study 2 CPAP Study 1 Study 2 Study 1 Study 2 
+
+NREM sleep 
+
+Central apnea, apneas/h 36.168.6 26.367.4 12.061.7 27.56 7.2 17.36 4.3 7.06 1.0 5.961.2 
+Obstructive apnea, apneas/h 22.268.8 10.66 2.6* 0.36 0.1 6.66 2.2 2.960.8* 0.260.1 0* 
+%SWS 39.86 0.9 41.16 4.0 42.86 2.6 40.863.4 38.063.2 36.463.2 31.46 2.5 
+%I/II NREM 44.06 1.9 40.463.3 31.561.3 44.463.4 45.06 3.0 34.66 3.1 39.46 2.5 
+
+REM sleep 
+
+Central apnea, apneas/h 32.968.1 38.268.2 24.264.7 45.16 9.3 29.46 6.4* 17.16 2.2 15.261.8 
+Obstructive apnea, apneas/h 51.8616.3 25.76 7.2* 1.16 0.5 29.46 12.8 16.067.9* 1.160.4 0.360.2* 
+%REM sleep 16.26 1.6 18.56 1.9 27.86 1.5 15.961.2 16.961.3 29.061.3 30.06 1.4 
+
+Values are means 6 SE for infants with OSA treated with nasal CPAP (group I), infants with OSA who were not treated (group II), and 
+control infants. REM, rapid eye movement; NREM, non-REM; SWS, slow-wave sleep; I/II NREM, stage 1–2 NREM. *Significant difference of 
+first diagnostic study (study 1) from follow-up diagnostic study (study 2), P , 0.05 (t-test). 
+
+respiratory arousal was defined as an arousal that occurred 
+at the termination of, or immediately after, an apnea, whereas 
+a spontaneous arousal was defined as an arousal that occurred 
+without any preceding respiratory event. The number 
+of each type of arousal for NREM and REM sleep was 
+calculated and expressed as an arousal index (arousals/h). In 
+addition, the percentage of central, obstructive, and total 
+apneas that resulted in arousal was calculated for NREM and 
+REM sleep for each study. 
+
+The apnea, sleep, and arousal data were combined and 
+averaged according to the infant group and sleep state. The 
+differences in the central and obstructive apnea index and in 
+the respiratory and spontaneous arousal index between the 
+first and follow-up diagnostic studies for each of the three 
+groups of infants were examined according to sleep state with 
+the paired t-test. The differences in the apnea and arousal 
+patterns recorded in each of the diagnostic studies between 
+the two groups of infants with OSA (groups I and II) and the 
+control infants were examined by using ANOVA. The apnea, 
+sleep, and arousal pattern of the CPAP study in group I 
+infants was compared with their first diagnostic study by 
+using the rank-sum test and paired t-test. The arousal 
+pattern of CPAP was also compared with the first diagnostic 
+study of the control infants by using the unpaired t-test. All 
+
+data are expressed as means 6 SE. A P value of ,0.05 was 
+considered significant. 
+
+RESULTS 
+
+Sleep Apnea and Sleeping Pattern 
+
+Obstructive apneas were recorded during NREM and 
+REM sleep in the first and follow-up diagnostic studies 
+of the group I and II infants, and the severity ranged 
+from moderate to severe. Obstructive apnea was more 
+frequent in group I than in group II infants (P , 0.05, 
+t-test). The control infants had either occasional or no 
+obstructive events recorded during their first diagnostic 
+study (Table 2). Central apnea was recorded in all 
+the infants and varied in severity among individual 
+infants. The number of central apneas during NREM 
+and REM sleep was significantly higher in group I and 
+II infants, who had OSA, than in the control infants 
+(P , 0.05, t-test). Apnea length and the arterial oxyhemoglobin 
+saturation level associated with central and 
+obstructive apnea were similar for all three groups of 
+infants during both diagnostic studies (Table 3). 
+
+Downloaded from jap.physiology.org on March 4, 2009 
+
+Table 3. Apnea length and SaO2 for central and obstructive apneas in OSA and control infants 
+
+Group I Group II Control 
+Apnea length, s 
+Central 
+Obstructive 
+SaO2,% 
+Central 
+Obstructive 
+Apnea length, s 
+Central 
+Obstructive 
+SaO2,% 
+Central 
+Obstructive 
+Study 1 
+6.46 0.4 
+7.16 0.7 
+92.26 0.6 
+92.360.8 
+5.560.5 
+7.061.1 
+92.66 0.7 
+90.861.7 
+Study 2 
+6.960.3 
+6.260.8 
+92.760.5 
+92.660.7 
+5.160.2 
+6.060.8 
+93.160.4 
+92.560.5 
+Study 1 
+NREM sleep 
+5.66 0.2 
+5.96 0.3 
+93.16 0.6 
+92.86 0.5 
+REM sleep 
+5.06 0.3 
+5.560.3 
+92.86 0.6 
+91.36 0.9 
+Study 2 
+5.660.2 
+5.960.5 
+93.260.3 
+92.960.5 
+5.360.3 
+5.760.5 
+92.960.4 
+92.960.5 
+Study 1 
+5.46 0.4 
+6.16 0.7 
+93.76 0.4 
+92.36 1.1 
+4.56 0.2 
+4.66 0.3 
+93.46 0.4 
+93.36 0.7 
+Study 2 
+5.260.5 
+6.060.5 
+93.960.3 
+9061.6 
+5.060.5 
+5.260.2 
+93.160.4 
+93.361.7 
+
+Values are means 6 SE for infants with OSA treated with nasal CPAP (group I), infants with OSA who were not treated (group II), and 
+control infants. SaO2, arterial oxyhemoglobin saturation. There was no significant difference between the first and second studies in each 
+group of infants (P. 0.05, t-test), and there was no difference among the 3 groups of infants during each study (P.0.05, ANOVA). 
+
+
+EFFECT OF NASAL CPAP ON INFANT AROUSAL 
+
+Treatment with nasal CPAP in group I infants resulted 
+in a prevention of nearly all obstructive events 
+during both NREM and REM sleep (P , 0.05, rank 
+sum; Table 2). Nasal CPAP treatment was also associated 
+with a significant reduction in central apnea 
+during NREM sleep, whereas, during REM sleep, central 
+apneas were decreased, but the difference was not 
+significant (P . 0.05, t-test; Table 2). Each of the 
+infants who was treated tolerated the CPAP mask and 
+the CPAP well. Parents reported, at the time of the 
+follow-up diagnostic study, that their infant had been 
+sleeping well at home with the use of nasal CPAP 
+therapy. 
+
+During the follow-up diagnostic study, central apnea 
+and OSA were still recorded in both group I and II 
+infants; however, the number was smaller than that 
+recorded in the previous diagnostic studies (Table 2). 
+The number of both central and obstructive events 
+recorded from group I and II infants remained significantly 
+higher than that of the control infants (P , 0.05, 
+ANOVA). Control infants had a similar number of 
+central apneas recorded during both diagnostic studies, 
+and, although the number of obstructive events was 
+low, the obstructive apnea index was significantly 
+reduced during the second diagnostic study (Table 2). 
+
+The sleep disordered breathing of group I and II 
+infants was associated with differences in the sleeping 
+architecture. Infants of groups I and II had significantly 
+less REM sleep than did the control infants 
+during both diagnostic studies (P , 0.05, ANOVA). The 
+treatment of OSA in group I infants with CPAP, however, 
+was associated with a significant increase in the 
+amount of REM sleep, similar to that recorded in the 
+control infants (P , 0.05, t-test; Table 2). 
+
+Arousal Pattern 
+
+Respiratory arousals. The central and obstructive 
+apneas recorded in group I and II infants were sometimes 
+terminated or immediately followed by a brief 
+cortical arousal from sleep (Fig. 1). The majority of 
+apneas during the first diagnostic study for both groups 
+of infants, however, were resolved without any change 
+in EEG patterns during NREM and REM sleep (Fig. 2). 
+Arousals terminating apneas during the diagnostic 
+studies in the control infants occurred occasionally. The 
+respiratory arousal index during NREM sleep in the 
+first diagnostic study was 3.9 6 1.0, 3.0 6 0.6, and 0.3 6 
+
+0.1 arousals/h for group I, group II, and control infants, 
+respectively. During REM sleep, the respiratory arousal 
+index was 5.7 6 1.1, 5.5 6 1.0, and 1.4 6 0.5 arousals/h 
+for group I, group II, and control infants, respectively. 
+Respiratory arousals were significantly less frequent in 
+control infants than in the two groups of OSA infants 
+during both sleep states; however, controls had fewer 
+apneas than did group I and II infants (P , 0.05, 
+ANOVA). 
+During the follow-up diagnostic study, the respiratory 
+arousal index was similarly low for all infants of 
+groups I and II during NREM and REM sleep and was 
+still significantly lower in control infants than in OSA 
+infants (P , 0.05, ANOVA). During NREM sleep, the 
+
+
+Fig. 1. Polysomnographic example of apnea in infant with obstructive 
+sleep apnea (OSA). EEGC3/A2 and EEGO2/A1, central and occipital 
+electroencephalogram, respectively; EOGROC/A1 and EOGLOC/A2, right 
+and left electrooculogram, respectively; EMGChin, EMGDia, and 
+EMGAbd: submental, diaphragm, and abdominal electromyogram, 
+respectively; ECG, electrocardiogram; airflow, airway pressure measured 
+from nasal prongs; RespitraceRib and RespitraceAbd, thoracic 
+and abdominal movements, respectively; SaO2, arterial oxyhemoglobin 
+saturation, expressed as a percentage. Inspiration (insp) is an 
+upward deflection on the airflow and Respitrace signals. Note that 
+apnea is mixed and is terminated with an EEG arousal. Onset of EEG 
+arousal is indicated above EEGC3/A2 channel with arrow. 
+
+respiratory arousal index was 2.7 6 0.6, 1.9 6 0.3, and 
+
+0.3 6 0.1 arousals/h for group I, group II, and control 
+infants, respectively. During REM sleep, the respiratory 
+arousal index was 6.3 6 1.1, 3.6 6 0.8, and 0.6 6 
+0.3 arousals/h for group I, group II, and control infants, 
+respectively. The respiratory arousal index during 
+NREM and REM sleep for each group of infants was not 
+significantly different from the first diagnostic study 
+(P . 0.05 for each comparison, t-test). 
+Although the arousal index for groups I and II was 
+similar during both diagnostic studies, the apnea index 
+
+Fig. 2. Polysomnographic example of apnea in infant with OSA. Note 
+that there are repeated mixed apneas that are resolved and that 
+breathing resumed in each case without any change in EEG pattern. 
+
+
+Downloaded from jap.physiology.org on March 4, 2009 
+
+
+EFFECT OF NASAL CPAP ON INFANT AROUSAL 
+
+893 
+
+Fig. 3. Percentage of apneas that was followed by a respiratory 
+arousal during non-rapid-eye-movement sleep in infants of groups I 
+and II.See METHODS for explanation of groups. Note that there are no 
+differences between the 2 groups of infants for each study (P . 0.05, 
+t-test). 
+
+
+recorded during the follow-up studies had decreased. 
+During NREM sleep, the proportion of apneas that 
+resulted in arousal was similar to the previous diagnostic 
+study, and there was no difference between groups I 
+and II (Fig. 3). During REM sleep, however, the proportion 
+of apneas that was terminated by arousals in group 
+I infants significantly increased during the follow-up 
+study, i.e., during the first night of CPAP removal (P , 
+0.05, t-test). The percentage of apneas terminated with 
+arousal during REM sleep was approximately double 
+that of the previous diagnostic study (Fig. 4). In group 
+II infants during REM sleep, however, there was no 
+significant change in the proportion of apneas terminated 
+by an arousal during REM sleep (Fig. 4). The 
+increase in the proportion of apneas ending in arousal 
+in group I infants was due to an increase in respiratory 
+arousals after both central and obstructive apneas. The 
+respiratory arousals after central apnea increased from 
+
+3.5 6 0.3 to 11.7 6 1.2% of apneas, and the respiratory 
+arousals associated with obstructive apnea increased 
+Fig. 4. Percentage of apneas that was associated with a respiratory 
+arousal during rapid-eye-movement sleep in infants of groups I and 
+
+II. Note that proportion of apneas followed by arousal in group I 
+infants is increased during follow-up diagnostic study. *P , 0.05; 
+t-test. 
+from 7.6 6 0.7 to 16.2 6 1.9% of apneas (P , 0.05 for 
+both comparisons, t-test). 
+
+Respiratory arousals in the control infants were less 
+frequent than in infants of groups I and II; however, the 
+controls aroused frequently to their occasional obstructive 
+events. During the first diagnostic study, 2 of 6 and 
+9 of 22 obstructive apneas were terminated by an 
+arousal during NREM and REM sleep, respectively. 
+During the follow-up diagnostic study of the control 
+infants, there were no obstructive events during NREM 
+sleep; however, during REM sleep one of five obstructive 
+apneas was terminated by an arousal. The proportion 
+of obstructive apneas that were terminated by an 
+arousal in both studies was greater than that recorded 
+in the infants with OSA; however, because of the low 
+number of obstructive events recorded during the control 
+infant studies, compared with group I and II 
+infants, no statistical analysis was performed. 
+
+Spontaneous arousals. Spontaneous arousals occurred 
+in all infants studied during NREM and REM 
+sleep and varied from brief arousals to full sustained 
+awakenings. During the first diagnostic study, the 
+spontaneous arousal index during NREM sleep was 
+similar for all three groups of infants. During REM 
+sleep, however, the infants of groups I and II had 
+significantly fewer spontaneous arousals than did the 
+control infants (P , 0.05, ANOVA; Table 4). 
+
+The treatment of OSA with nasal CPAP in group I 
+infants resulted in a significant increase in the spontaneous 
+arousals during REM sleep (P , 0.05, t-test). The 
+frequency of REM spontaneous arousals during CPAP 
+treatment was similar to the number recorded during 
+REM sleep in the first diagnostic study in the control 
+infants. During NREM sleep, the frequency of spontaneous 
+arousals was not different during treatment with 
+nasal CPAP (Table 4). 
+
+The spontaneous arousal index during NREM and 
+REM sleep in the follow-up diagnostic studies ,7wk 
+later was not significantly different among the three 
+groups of infants (P . 0.05, ANOVA). The infants in 
+groups I and II had a similar number of spontaneous 
+arousals during NREM and REM sleep compared with 
+their first diagnostic study. The control infants, on the 
+
+Table 4. Spontaneous arousal index 
+in OSA and control infants 
+
+Group I Group II Control 
+NREM sleep 
+Study 1 7.761.2 8.46 1.0 10.260.9 
+CPAP PD study 8.461.1 
+Study 2 7.761.1 8.16 1.0 6.661.0† 
+REM sleep 
+Study 1 9.96 1.9 10.061.2 17.06 1.9* 
+CPAP PD study 17.56 2.1† 
+Study 2 10.46 1.4 9.162.0 13.16 1.3† 
+
+Values are means 6 SE of spontaneous arousal index expressed as 
+arousals/h for the 3 groups of infants. *Significant difference between 
+control infants and infants with OSA in study1P , 0.05; †significant 
+difference in arousal index from study 1 in each infant group, P , 0.05 
+(t-test). 
+
+Downloaded from jap.physiology.org on March 4, 2009 
+
+
+EFFECT OF NASAL CPAP ON INFANT AROUSAL 
+
+other hand, had significantly fewer spontaneous arousals 
+during both sleep states in their follow-up diagnostic 
+study than in their previous diagnostic study (P , 
+0.05, for both comparisons, t-test; Table 4). 
+
+DISCUSSION 
+
+Our study has revealed new findings on the interaction 
+between OSA and arousal in infants and the effects 
+of nasal CPAP treatment on the infant arousal response. 
+Nasal-mask CPAP is the treatment of choice for 
+the adult OSA syndrome (28) and is now commonly 
+used in the treatment of OSA in children (15, 30). Nasal 
+CPAP has been used less often in infants but has been 
+documented to effectively prevent obstructive events 
+and reverse sleep disturbances in infants with OSA (8, 
+17). The present study has reaffirmed the effectiveness 
+of nasal CPAP as a therapy to treat OSA in infants. 
+More importantly, it is now clear that the spontaneous 
+and respiratory arousal patterns during REM sleep are 
+possibly depressed in infants who have OSA, and 
+arousal responses are increased by the treatment of 
+OSA with nasal CPAP. 
+
+The infants in the present study who had OSA had 
+reduced respiratory and spontaneous arousals during 
+REM sleep. Arousal from sleep is considered to be an 
+important response to a respiratory stimulus, allowing 
+an individual to initiate protective reflexes that are 
+depressed or absent during sleep (22). The OSA syndrome 
+in adults is characterized by repeated episodes 
+of obstructive apnea resulting in repeated arousal from 
+sleep (27). Arousal was previously thought to be necessary 
+to terminate obstructive apneas and to reestablish 
+upper airway patency (25). It has been demonstrated 
+recently, however, that arousal defined by EEG criteria 
+does not always terminate obstructive apnea in adults 
+
+(24) and in pediatric patients (18). It is possible that the 
+termination of obstructive and central apneas without 
+any clear EEG arousal may indicate that cortical 
+arousal is not an important phenomenon to resolve 
+apnea, and subcortical mechanisms may be necessary 
+(3, 18). 
+Arousal in our infants could be depressed, or the 
+arousal threshold may be increased as a consequence of 
+the OSA. Adult OSA patients have been shown to have 
+higher arousal thresholds compared with control subjects 
+(13). Potential explanations suggested for the 
+difference in arousability between OSA patients and 
+control subjects have included an inherently higher 
+arousal threshold in patients with OSA or the consequence 
+of repeated obstructive apnea, resulting in the 
+habituation of the arousal response (3). In the present 
+study, although no statistical analysis was performed, 
+the arousability to obstructive apnea in the control 
+infants appeared to be higher than in the infants with 
+OSA. The control infants aroused more often to occasional 
+obstructive events during NREM and REM sleep 
+than did infants who had significant OSA. Although we 
+cannot be certain of the mechanism, the respiratory 
+arousal responses of infants with OSA are likely depressed. 
+
+
+After several weeks of nasal CPAP treatment, withdrawal 
+of CPAP treatment for one night resulted in a 
+return of significant obstructive and central apnea 
+during NREM and REM sleep and an increase in the 
+arousability to central and obstructive apnea during 
+REM sleep in infants with OSA. Similar to our findings, 
+the removal of CPAP treatment in adults is followed by 
+a return of apnea, the associated hypoxemic episodes, 
+and sleep fragmentation (14). The number of apneas 
+was smaller than the level initially recorded; however, 
+there was a similar reduction in apnea in group II 
+infants who were not treated with nasal CPAP. The 
+improvement in apnea severity was possibly a consequence 
+of increasing age and development, because 
+OSA in infants has been shown to diminish with age 
+(19). Recently, some investigators have demonstrated 
+changes in the arousability to respiratory stimuli in 
+adult OSA patients after treatment with nasal CPAP. 
+Berry et al. (4) found that, after withdrawal of CPAP, 
+the arousal response to nasal occlusion occurred more 
+rapidly than that measured before treatment. In a 
+separate study, Boudewyns et al. (5) found that, on the 
+first night of CPAP withdrawal, apnea duration was 
+shorter and arousal occurred more quickly compared 
+with the pretreatment values. Both of these studies 
+imply that OSA impairs the arousal response, which 
+can at least be partially reversed by CPAP treatment. 
+Recently, Marcus et al. (16) found that the arousal 
+threshold to respiratory stimuli was higher in children 
+with OSA than in controls and that treatment of OSA 
+with adenotonsillectomy resulted in a decreased arousal 
+threshold. These investigators suggested that the 
+blunted arousal response in these children was secondary 
+to OSA. The increase in the proportion of apneas 
+that were terminated by an arousal on the first night of 
+CPAP withdrawal suggests that the decreased arousability 
+is possibly secondary to OSA in infants and can 
+be partly reversed by prevention of the sleep-disordered 
+breathing with CPAP treatment. 
+
+The spontaneous arousability was also depressed 
+during REM sleep in infants with OSA. Although the 
+arousals occurred at a similar frequency between infants 
+with OSA and control infants during NREM 
+sleep, the number of spontaneous arousals during REM 
+sleep was smaller in both groups of infants with OSA 
+than in controls. This is consistent with our previous 
+findings in which we found a selective depression of 
+spontaneous arousals during REM sleep associated 
+with OSA in infants (18). Also similar to our previous 
+findings, OSA in infants was associated with a reduced 
+amount of REM sleep (19). When nasal CPAP was used 
+to treat the OSA in some infants, the number of 
+spontaneous arousals during REM sleep increased to a 
+similar level as that measured in the control infants. 
+Nasal CPAP therapy prevented obstructive events and 
+increased the amount of REM sleep in these infants. 
+The improvement in the frequency of spontaneous 
+arousals during REM sleep to a level similar to the 
+controls during CPAP treatment suggests that the 
+decrease in spontaneous arousability is secondary to 
+the sleep-disordered breathing. The increase in sponta-
+
+Downloaded from jap.physiology.org on March 4, 2009 
+
+
+EFFECT OF NASAL CPAP ON INFANT AROUSAL 
+
+895 
+
+neous arousals during CPAP therapy could be related 
+to the elimination of obstructive apnea or the normalization 
+of REM sleep architecture. 
+
+The depression of spontaneous as well as respiratory 
+arousal responsiveness in infants with OSA was only 
+apparent during REM sleep. In contrast, arousal responses 
+during NREM sleep were similar between both 
+groups of infants with OSA and infants with normal 
+breathing during sleep. Previous studies investigating 
+the arousal responsiveness in neonatal animal models 
+have found that depression of arousal often occurs more 
+readily during REM sleep than NREM sleep. Fewell et 
+al. (7) demonstrated in a lamb model that repeated 
+upper airway obstruction resulted in a depression of 
+the arousal response only during REM sleep. In addition, 
+Johnston et al. (11) showed that repetitive hypoxia 
+in lambs resulted in a depression of arousal and that 
+the arousal decrement was first apparent in REM 
+sleep. Furthermore, other investigators demonstrated 
+that the arousal threshold to airway obstruction in 
+lambs was shown to be greater during REM sleep than 
+during NREM sleep, leading to a possible increased 
+vulnerability during this sleep state (2, 9). These 
+studies suggest that the primary mechanisms initiating 
+arousal from NREM and REM sleep are different. 
+The sleep-state-specific arousal depression in the present 
+study, as well as others, suggests that the possibility 
+of arousal failure is greater in REM sleep than in 
+NREM sleep. Infants spend a greater proportion of 
+sleep in REM sleep than do children or adults, and 
+REM sleep in infants is believed to be important for 
+brain growth and development (20). Although there 
+may be a combination of factors, the depression of 
+arousal responsiveness during REM sleep may, therefore, 
+have been caused by an increasing drive to 
+preserve REM sleep. 
+
+The difference in the spontaneous and respiratory 
+arousal frequency between infants with OSA and normal 
+infants in the present study is interesting considering 
+the previous polysomnographic and pneumogram 
+findings of infants who subsequently became SIDS 
+victims (12, 26). It was demonstrated that SIDS infants 
+have more frequent obstructive events during sleep 
+than do age-matched controls, suggesting that OSA 
+may predispose an infant to SIDS (12). In addition, a 
+further finding from both of the previous studies was a 
+reduced amount of movement activity during sleep in 
+infants who subsequently became SIDS victims than in 
+matched controls (12, 26). It is possible that the movements 
+recorded were associated with arousal behavior 
+in these infants, and a reduced number of movements 
+could, therefore, imply a reduced number of arousals. 
+Furthermore, some investigators have suggested that 
+recovery from an asphyxiating stimulus by arousal or 
+resumption of breathing is the crucial vulnerability of 
+SIDS victims (10, 22). The depression of arousal responses 
+from REM sleep associated with OSA in infants 
+allows us to speculate that these findings could 
+have implications for an increased risk of SIDS in such 
+infants. 
+
+The present study has provided information on the 
+arousal responses and their changes with development 
+in infants with normal sleep and breathing patterns 
+and infants with OSA who are left untreated. Although 
+arousal responses in infants to various chemical and 
+mechanical stimuli have been studied (7, 9, 11), the 
+natural arousal pattern and its changes with development 
+have not previously been reported. The main 
+finding was that the number of spontaneous arousals 
+during REM sleep decreased with age in the control 
+infants and remained the same for the OSA infants. 
+During the follow-up diagnostic study, the spontaneous 
+arousal frequency was not different, however, among 
+the three groups of infants. Spontaneous arousals are 
+very frequent during REM sleep in normal young 
+infants (18); however, it appears that their importance 
+possibly diminishes with time. Although OSA appears 
+to depress spontaneous arousals during REM sleep in 
+young infants, this effect is likely diminished with 
+development. In contrast, the frequency of respiratory 
+arousals in infants with OSA did not change with age. 
+In infants whose OSA was left untreated, the arousability 
+to respiratory events was unchanged with development, 
+despite an improvement in their apnea index. It 
+is possible that these infants will continue to have 
+reduced arousal responses until their OSA is resolved 
+with development. 
+
+This study has shown that the spontaneous and 
+respiratory arousals during REM sleep are possibly 
+depressed in infants who have OSA compared with 
+infants with normal breathing patterns during sleep. 
+Treatment of OSA with nasal CPAP improves the REM 
+sleep spontaneous arousal pattern, and the immediate 
+withdrawal of CPAP leads to increased respiratory 
+arousals in response to central and obstructive apneas 
+during REM sleep. We believe that the OSA and its 
+associated sleep disturbances in infants alter and possibly 
+impair the spontaneous and respiratory arousal 
+responses during REM sleep. The depression in arousability 
+is partially reversed by the treatment of OSA by 
+using nasal CPAP treatment. The state-specific changes 
+in arousal responses in infants with OSA imply that 
+infants may be more vulnerable to a life-threatening 
+stimulus during REM sleep and that treatment of the 
+OSA may protect an infant from such a stimulus. 
+
+The authors gratefully acknowledge the nursing assistance of Teri 
+Barnes, Kerrie Borthwick, Sara Cooper, Gislaine Gauthier, Helen 
+Gemmell, and Christiane Lomas. 
+
+F. McNamara was supported by the National Health and Medical 
+Research Council of Australia. 
+Address for reprint requests and other correspondence: F. McNamara, 
+David Read Laboratory, Dept. of Medicine (D06), Univ. of 
+Sydney, NSW 2006, Australia. 
+
+Received 1 December 1998; accepted in final form 3 May 1999. 
+
+REFERENCES 
+
+1. 
+Anders, T., R. Emde, and A. H. Parmalee (Editors). A Manual 
+of Standardised Terminology, Techniques and Criteria for Scoring 
+States of Sleep and Wakefulness in Newborn Infants. Los 
+Angeles, CA: UCLA Brain Information Service/Brain Research 
+Institute, 1971. 
+Downloaded from jap.physiology.org on March 4, 2009 
+
+
+EFFECT OF NASAL CPAP ON INFANT AROUSAL 
+
+2. 
+Baker, S. B., and J. E. Fewell. Effects of hyperoxia on the 
+arousal response to upper airway obstruction in lambs. Pediatr. 
+Res. 21: 116–120, 1987. 
+3. 
+Berry, R. B., and K. Gleeson. Respiratory arousal from sleep: 
+mechanisms and significance. Sleep 20: 654–675, 1997. 
+4. 
+Berry, R. B., K. G. Kouchi, D. E. Der, M. J. Dickel, and R. W. 
+Light. Sleep apnea impairs the arousal response to airway 
+occlusion. Chest 109: 1490–1496, 1996. 
+5. 
+Boudewyns, A., E. Sforza, M. Zamagni, and J. Krieger. 
+Respiratory effort during sleep apneas after interruption of 
+long-term CPAP treatment in patients with obstructive sleep 
+apnea. Chest 110: 120–127, 1996. 
+6. 
+Davies, R. J. O., and J. R. Stradling. Acute effects of obstructive 
+sleep apnea. Br. J. Anaesth. 71: 725–729, 1993. 
+7. 
+Fewell, J. E., B. J. Williams, J. S. Szabo, and B. J. Taylor. 
+Influence of repeated upper airway obstruction on the arousal 
+and cardiopulmonary response to upper airway obstruction in 
+lambs. Pediatr. Res. 23: 191–195, 1988. 
+8. 
+Guilleminault, C., R. Pelayo, A. Clerk, D. Leger, and R. C. 
+Bocian. Home nasal continuous positive airway pressure in 
+infants with sleep-disordered breathing. J. Pediatr. 127: 905– 
+912, 1995. 
+9. 
+Harding, R., J. E. Jakubowska, and G. J. McCrabb. Postnatal 
+development of responses to airflow obstruction. Clin. Exp. 
+Pharmacol. Physiol. 22: 537–543, 1995. 
+10. 
+Hunt, C. E. Sudden infant death syndrome. In: Respiratory 
+Control Disorders in Infants and Children,editedbyR.C. 
+Beckerman, R. T. Brouillette, and C. E. Hunt. Baltimore, MD: 
+Williams & Wilkins, 1992, p. 190–211. 
+11. 
+Johnston, R. V., D. A. Grant, M. H. Wilkinson, and A. M. 
+Walker. Repetitive hypoxia rapidly decreases arousal from active 
+sleep in newborn lambs. J. Physiol. (Lond.) 510: 651–659, 
+1998. 
+12. Kahn, A., J. Groswasser, E. Rebuffat, M. Sottiaux, D. Blum, 
+M. Foerster, P. Franco, A. Bochner, M. Alexander, and A. 
+Bachy. Sleep and cardiorespiratory characteristics of infant 
+victims of sudden death: a prospective case-control study. Sleep 
+15: 287–292, 1992. 
+13. Kimoff, R. J., T. H. Cheong, A. E. Olha, M. Charbonneau, 
+R. D. Levy, M. G. Cosio, and S. B. Gottfried. Mechanisms of 
+apnea termination in obstructive sleep apnea: role of chemoreceptor 
+and mechanoreceptor stimuli. Am. J. Respir. Crit. Care Med. 
+149: 707–714, 1994. 
+14. 
+Kribbs, N. B., A. I. Pack, and L. R. Kline. Effects of one night 
+without nasal CPAP treatment on sleep and sleepiness in 
+patients with obstructive sleep apnea. Am. Rev. Respir. Dis. 147: 
+1162–1168, 1993. 
+15. 
+Marcus, C. L., S. L. Davidson-Ward, and G. B. Mallory. Use 
+of nasal continuous positive airway pressure as treatment of 
+childhood obstructive sleep apnea. J. Pediatr. 127: 88–94, 1995. 
+16. 
+Marcus, C. L., J. Lutz, J. L. Carroll, and O. Bamford. 
+Arousal and ventilatory responses during sleep in children with 
+obstructive sleep apnea. J. Appl. Physiol. 84: 1926–1936, 1998. 
+17. 
+McNamara, F., M.-A. Harris, and C. E. Sullivan. Effects of 
+nasal continuous positive airway pressure in apnoea index and 
+sleep in infants. J. Paediatr. Child Health 31: 88–94, 1995. 
+18. 
+McNamara, F., F. G. Issa, and C. E. Sullivan. Arousal pattern 
+following central and obstructive breathing abnormalities in 
+infants and children. J. Appl. Physiol. 81: 2651–2657, 1996. 
+19. 
+McNamara, F., and C. E. Sullivan. Evolution of sleep-
+disordered breathing and sleep in infants. J. Paediatr. Child 
+Health 34: 37–43, 1998. 
+20. Mirmiran, M., J. Scholtens, N. E. van de Poll, H. B. Uylings, 
+J. van der Gugten, and G. J. Boer. Effects of experimental 
+suppression of active (REM) sleep during early development 
+upon adult brain and behavior in the rat. Brain Res. 283: 
+277–286, 1983. 
+21. 
+Phillipson, E. A., L. F. Kozar, A. S. Rebuck, and E. Murphy. 
+Ventilatory and waking responses to CO2 in sleeping dogs. Am. 
+Rev. Respir. Dis. 115: 251–259, 1977. 
+22. 
+Phillipson, E. A., and C. E. Sullivan. Arousal; the forgotten 
+response to respiratory stimuli. Am. Rev. Respir. Dis. 118: 
+807–809, 1978. 
+23. 
+Rechschtaffen, A., and A. Kales (Editors). A Manual of 
+Standardised Terminology, Techniques and Scoring System of 
+Human Subjects. Los Angeles, CA: UCLA Brain Information 
+Service/Brain Research Institute, 1968. 
+24. 
+Rees, K., D. P. S. Spence, J. E. Earis, and P. M. A. Calverley. 
+Arousal responses from apneic events during non-rapid eye 
+movement sleep. Am. J. Respir. Crit. Care Med. 152: 1016–1021, 
+1995. 
+25. 
+Remmers, J. E., W. J. DeGroot, E. K. Sauerland, and A. M. 
+Anch. Pathogenesis of upper airway occlusion during sleep. J. 
+Appl. Physiol. 44: 931–938, 1978. 
+26. 
+Schechtman, V. L., R. M. Harper, A. J. Wilson, and D. P. 
+Southall. Sleep state organisation in normal infants and victims 
+of the sudden infant death syndrome. Pediatrics 89: 865–870, 
+1992. 
+27. 
+Sullivan, C. E., and F. G. Issa. Obstructive sleep apnea. Clin. 
+Chest Med. 6: 633–650, 1985. 
+28. 
+Sullivan, C. E., F. G. Issa, M. Berthon-Jones, and L. Eves. 
+Reversal of obstructive sleep apnoea by continuous positive 
+airway pressure applied through the nares. Lancet 1: 862–865, 
+1981. 
+29. 
+Sullivan, C. E., E. Murphy, L. F. Kozar, and E. A. Phillipson. 
+Waking and ventilatory responses to laryngeal stimulation in 
+sleeping dogs. J. Appl. Physiol. 45: 681–689, 1978. 
+30. 
+Waters, K. A., F. Everett, J. W. Bruderer, and C. E. Sullivan. 
+Obstructive sleep apnea: the use of nasal CPAP in 80 children. 
+Am. J. Respir. Crit. Care Med. 152: 780–785, 1995. 
+Downloaded from jap.physiology.org on March 4, 2009 
+
+

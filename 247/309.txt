@@ -1,0 +1,792 @@
+Relationship Between Rem Density, Duty Cycle, and Obstructive Sleep Apnea in 
+Children 
+
+Laurie Karamessinis, RPFT1; Patricia Galster, RPSGT; Brian Schultz, RPSGT1; Joanne Elliott, RPSGT1; Thornton A. Mason II, MD, MSCE, PhD1; Lee J. Brooks, MD1; 
+Paul R. Gallagher, MA2; Carole L. Marcus, MBBCh1 
+
+1The Sleep Center and 2the Division of Biostatistics and Epidemiology, The Children’s Hospital of Philadelphia, University of Pennsylvania School of 
+
+Medicine, Philadelphia, PA 
+
+Study Objectives: The pattern and distribution of rapid eye movement 
+(REM) sleep changes during development, yet there have been few studies 
+of REM density in children. Although children with obstructive apnea 
+syndrome (OSAS) obstruct primarily during REM sleep, the relationship 
+between REM density and obstructive apnea has not been established 
+for this population. We hypothesized that (i) REM density and REM cycle 
+duration increases over the course of the night in children, (ii) the duty cycle 
+(inspiratory time divided by respiratory cycle time) increases over the 
+course of the night in children with suspected OSAS, and (iii) the increase 
+in REM density over the course of the night is associated with increased 
+severity of obstructive apnea. 
+Design: REM density and respiratory parameters were measured during 
+polysomnography. 
+Setting: Sleep laboratory 
+
+Patients: 76 children with suspected OSAS. 
+Interventions: NA 
+Measurements and Results: REM density and the duration of REM 
+cycles increased over the course of the night until the fifth REM cycle, and 
+then stabilized. The duty cycle increased across the first 6 REM cycles. 
+However, the apnea hypopnea index (AHI) did not increase across REM 
+cycles, and was not affected by the changes in REM density or duty cycle. 
+We speculate that the increase in the duty cycle is a compensatory response 
+to increased upper airway loads during sleep, and that this may 
+lead to ventilatory or upper airway muscle fatigue. 
+Keywords: Duty cycle, REM cycle, progression of apnea 
+Citation: Karamessinis L; Galster P; Schultz B et al. Relationship between 
+rem density, duty cycle, and obstructive sleep apnea in children. 
+SLEEP 2007;30(7):837-843. 
+
+INTRODUCTION apnea in children is increased in the last third of the night com
+
+
+pared to the first third.5 The mechanisms for this are unclear, but it 
+THE PATTERN AND DISTRIBUTION OF RAPID EYE MOVE-was postulated that this could be due to changes in REM density,5 
+MENT(REM) SLEEPCHANGES WITH AGE AND DEVELOP-as phasic REM sleep is associated with central inhibition of ven-
+MENT. THE FUNCTION OF REM SLEEP IS UNKNOWN, but tilation.7,8 Theoretically, muscle hypotonia and central inhibition 
+it has been speculated that REM sleep is important for memory of breathing may be worse during more intense portions of REM. 
+and learning.1 It is therefore not surprising that infants and young Alternatively, the worsening of obstructive apnea over the course 
+children have more REM sleep than older subjects, and have a of the night could be due to increasing upper airway fatigue.5 
+different distribution of REM sleep.2 The intensity of tonic REM We therefore hypothesized that: (i) REM density as well as 
+sleep has been measured using such parameters as the duration REM cycle duration increases over the course of the night in chilof 
+REM sleep and REM latency, whereas the intensity of phasic dren; (ii) the duty cycle (inspiratory time [TI] divided by total re-
+REM sleep is typically measured by assessing the REM density, spiratory cycle time [TT], or TI/TT, a factor that can lead to muscle 
+i.e., the number of rapid eye movements per unit time.3 Despite fatigue9) increases over the course of the night in children with 
+the importance of REM sleep in children, there have been few suspected OSAS; and (iii) the increase in REM density over the 
+studies evaluating the intensity of REM sleep in the pediatric age course of the night is associated with increased severity of obgroup. 
+structive apnea. We therefore measured REM density and cycle 
+
+Obstructive sleep apnea syndrome (OSAS) is common during duration and respiratory parameters over the course of the night 
+childhood, occurring in approximately 2% of young children.4 In in children with suspected OSAS. 
+children, the overwhelming majority of obstructive events occur 
+during REM.5,6 It has been shown that the severity of obstructive METHODS 
+
+Disclosure Statement 
+
+Studies were performed in children undergoing polysomnog-
+
+This was not an industry supported study. Dr. Brooks has participated in 
+
+raphy for suspected OSAS. Routine polysomnography was per-
+
+research supported by Cephalon. Dr. Marcus has received research support 
+
+formed, with the addition of extra electrooculogram leads as de-
+
+and use of equipment from Respironics. Ms. Karamessinis, Ms. Galster, Mr. 
+
+scribed below. REM density, TI/TT,and the apnea hypopnea index 
+
+Schultz, Ms. Elliott, Dr. Mason, and Mr. Gallagher have reported no financial 
+
+(AHI) were calculated for each REM cycle, and the change in 
+
+conflicts of interest. 
+
+these parameters over the course of the night was measured. 
+
+Submitted for publication January, 2007 
+Accepted for publication March, 2007 Study Group 
+
+Address correspondence to: Carole L. Marcus, MBBCh, Children’s Hospital 
+of Philadelphia, Pulmonary Division, 5th floor Wood, 34th & Civic Center Children with suspected OSAS, aged 2-12 years, were recruited 
+Blvd, Philadelphia, PA 19104; Tel: (267) 426-5842; Fax: (215) 590-3500; E-from the Sleep Center at Children’s Hospital of Philadelphia. The 
+mail: marcus@email.chop.edu younger age limit was chosen to exclude infants and very young 
+
+SLEEP, Vol. 30, No. 7, 2007 837 REM Density in Children—Karamessinis et al 
+
+
+children, who have more REM than older children. The upper age 
+limit was used to exclude most children in the later stages of puberty, 
+as sex hormones can affect OSAS.10,11 The suspicion of OSAS 
+was based on a presenting complaint of habitual snoring associated 
+with additional symptoms, such as labored breathing during sleep 
+or excessive daytime sleepiness. Children with significant, chronic 
+medical conditions other than suspected OSAS secondary to adenotonsillar 
+hypertrophy or obesity were excluded, except for those 
+with mild asthma requiring only intermittent albuterol therapy. 
+Thus, children with genetic syndromes, craniofacial anomalies and 
+neurologic disease were excluded. Children with a history of previous 
+upper airway surgery or previous treatment for OSAS, those on 
+medications known to affect REM sleep, and those with a history of 
+blindness or serious injury to one or both eyes, were also excluded. 
+Subjects were considered obese if their body mass index was greater 
+than the 95th percentile for age, height, and race.12 
+
+Written informed consent was obtained from the parents/legal 
+guardians. In addition, assent was obtained from children =7 years 
+of age. The study was approved by the Institutional Review Board 
+of Children’s Hospital of Philadelphia, and studies were performed 
+according to the Declaration of Helsinki. 
+
+Polysomnography 
+
+Overnight polysomnography commenced between 20:00-21:00 
+and ended at 06:00. The following parameters were recorded (using 
+Rembrandt, Medcare, Buffalo, NY): electroencephalogram (C3/ 
+A2, C4/A1, O1/A2, O2/A1); submental electromyogram (EMG); 
+tibial EMG; electrocardiogram; chest and abdominal wall motion 
+by respiratory inductance plethysmography (Respitrace Systems, 
+Ambulatory Monitoring Inc, Ardsley, NY); airflow by nasal pressure 
+(Pro-Tech Services, Inc, Mukilteo, WA) and 3-pronged thermistor 
+(Pro-Tech Services, Inc, Mukilteo, WA); end-tidal PCO2 by 
+capnography (Novametrix 7000; Novametrix, Wallingford, CT); 
+arterial oxygen saturation (Novametrix 7000 or Masimo, Irvine, 
+CA), oximeter pulse waveform, and digital video. 
+
+Four electrooculographic (EOG) gold cup electrodes (Grass, 
+West Warwick, RI) were placed to detect eye movements. Right 
+and left EOG leads were placed 1 cm lateral to the outer can-
+thus of each eye, in the horizontal plane. Vertical EOG leads were 
+placed 1 cm above and below the right eye.13,14 All 4 leads were 
+used to assess eye movements. EOG changes were scored as eye 
+movements if they met the following criteria: amplitude >25 µV, 
+velocity >500/sec, deflection >30, and at least200 ms between each 
+eye movement.15 
+
+Sleep architecture and arousals from sleep were analyzed using 
+standard techniques.16,17 Respiratory parameters were scored 
+using standard pediatric criteria,18,19 i.e., obstructive apneas of any 
+length were scored. Hypopneas were scored if there was a qualitative 
+decrease in oronasal airflow >50% associated with paradoxical 
+respiratory efforts, desaturation >3%,20 and/or arousal. The 
+obstructive apnea hypopnea index was defined as the number of 
+obstructive apneas, mixed apneas, and obstructive hypopneas per 
+unit time. Central apneas were also scored,18 but as very few central 
+apneas occurred, these data are not presented. 
+
+Data Analysis 
+
+REM was divided into 1-second mini-epochs. The number of 
+eye movements in each mini-epoch and the number of obstructive 
+
+apneas originating within that epoch were manually calculated, 
+as described in the literature.13 REM density was defined as the 
+number of eye movements per each 30-second epoch of REM 
+sleep. REM cycles of <2 minutes duration were not included in 
+the analysis. For the purpose of analysis, REM cycles interrupted 
+by <5 minutes of wakefulness or NREM sleep were considered to 
+be part of the same REM cycle. Subjects with fewer than 3 REM 
+cycles during the night were excluded. The obstructive apnea duration 
+was defined as the sum of the duration of all obstructive apneas 
+and hypopneas during each REM cycle. The inspiratory time and 
+total respiratory cycle duration were obtained from the respiratory 
+inductance plethysmographic signal. TI and TT were measured for 
+each breath during the first and last minute of each REM cycle. 
+
+Statistical Analysis 
+
+The number of apneas and hypopneas in the first third of the 
+night compared to the last third of the night was compared using 
+the Wilcoxon signed rank test. The difference in REM density 
+(averaged across all REM cycles) between subjects with an 
+AHI <1/hr and those with an AHI >1 /hr was performed using 
+the Mann-Whitney rank sum test. The Spearman correlation coefficient 
+was used for correlational analyses. The effect of REM 
+cycle on the various outcomes as measured repeatedly across 
+REM cycles was analyzed based on a longitudinal mixed effects 
+approach. In order to allow for the possibility that change across 
+REM cycles has a curvilinear component, terms for quadratic 
+time and cubic time were included in each model. If these terms 
+were found to be nonsignificant, they were subsequently dropped 
+from the final models. In order to explore the study hypotheses, 
+various models involving time-varying or time-dependent covariates 
+were also examined. For example, the effect of REM density 
+changing across REM cycle on AHI changing across REM cycle 
+was examined by including REM density as a time-dependent 
+covariate and specifying the repeating measures of AHI as the 
+outcome variable. In this study, using several measurements from 
+different REM cycles across the night, the compound symmetry 
+covariance matrix structure was assumed. SAS Proc Mixed models 
+were used.21 
+
+RESULTS 
+
+Study Group 
+
+Seventy-nine subjects were studied. Three subjects were excluded 
+as they had <3 REM cycles during the night. Thus, data 
+were evaluated for 76 subjects. The mean age was 6 + 3 (SD) 
+years, range 2-12 years. Fifty-six percent were female, and 29% 
+were obese. Polysomnography results are shown in Table 1. Subjects 
+had a wide range of severity of OSAS, as shown in Figure 1. 
+AHI ranged from 0-57/hr, with a median AHI of 1.9/hr. 
+
+REM Architecture 
+
+With the exception of the 3 subjects excluded from the study 
+because they had <3 REM cycles, subjects had 3-8 REM cycles 
+during the night; 5 (7%) subjects had 7 REM cycles, and only 1 
+(1%) subject had 8 cycles. REM density changed significantly 
+across the REM cycles, with significant linear and quadratic time 
+effects (P = 0.0017 and 0.0245, respectively), indicating a lin-
+
+SLEEP, Vol. 30, No. 7, 2007 838 REM Density in Children—Karamessinis et al 
+
+
+Table 1—Sleep Architecture 
+Total recording time (min) 534 + 33 
+Range 466 – 615 
+Total sleep time (min) 459 + 41 
+Range 320 – 530 
+Sleep efficiency (%) 86 + 9 
+Range 33 – 98 
+Sleep latency (min) 29 + 28 
+Range 2 – 191 
+Wake after sleep onset (min) 37 + 24 
+Range 4 – 121 
+Stage 1 (%TST) 7 + 5 
+Range 1 – 27 
+Stage 2 (%TST) 46 + 8 
+Range 29 – 66 
+Slow wave sleep (%TST) 26 + 6 
+Range 10 – 41 
+REM sleep (%TST) 20 + 5 
+Range 11 – 33 
+REM latency (min) 118 + 55 
+Range 35 – 286 
+REM cycles (N) 5 + 1 
+Range 3 – 8 
+Arousal index (N/hr) 15 + 9 
+Range 5 – 64 
+Apnea hypopnea index (N/hr) 
+Median 1.9 
+Range 0 – 57 
+Mean obstructive apnea duration(s) 11.7 + 3.2 
+Mean hypopnea duration(s) 13.2 + 3.9 
+Arterial oxygen saturation nadir (%) 88 + 8 
+Range 66 – 98 
+Peak end-tidal PCO2 (mm Hg) 51 + 5 
+Range 37 – 64 
+
+Data displayed as mean + SD and range, except for the apnea hypopnea 
+index, which was not normally distributed and is displayed as median 
+and range. TST, total sleep time. 
+
+ear increase and an eventual leveling of REM density by the fifth 
+REM cycle (Figure 2). 
+
+There was no correlation between REM density (computed as 
+the mean REM density per subject) and age (r = 0.11, P = 0.37; 
+Figure 3). In order to compare this study to previous data in the 
+literature, the correlation between REM density and age was reevaluated 
+in those children > 6 years of age. There was a slightly 
+stronger relationship, but this still did not reach significance (r = 
+0.29, P = 0.11). There was no significant difference in mean REM 
+density between children with an AHI <1/hr and children with an 
+AHI >1/hr (P = 0.83). 
+
+REM duration changed across the REM cycles, with significant 
+linear and quadratic time effects (P <0.0001 for both linear and 
+quadratic time effects), again indicating a linear increase and an 
+eventual leveling at the fifth cycle (Figure 4). 
+
+Duty Cycle 
+
+TI/TT increased significantly across the REM cycles of the night 
+in a linear fashion (P = 0.0033). This is shown in Figure 5. Note 
+that very few subjects had more than 6 REM cycles; thus, the apparent 
+decrease in TI/TT in cycles 7 and 8 was not significant. 
+
+SLEEP, Vol. 30, No. 7, 2007 
+
+839 
+
+REM density in children, Revision #1 23 Karamessinis 
+Figure 1 
+Apnea Hypopnea Index (N/hr) 
+0 5 10 15 20 40 60 
+Subjects 
+0 
+20 
+40 
+60 
+80 
+Figure 1—The apnea hypopnea index for each of the 76 subjects is 
+shown. 
+Apnea Hypopnea Index 
+
+The AHI and obstructive apnea duration variables were severely 
+skewed, with a preponderance of values of zero, and could not 
+be normalized using transformation techniques. Despite the fact 
+that the number of REM obstructive apneas and hypopneas was 
+greater during the last third of the night than the first third (first 
+third, median 0, interquartile range 0-2; last third median 1, interquartile 
+range 0–6.5; P <0.001), there was no significant change 
+in the AHI across the REM cycles of the night (P = 0.052 for raw 
+AHI and P = 0.45 for log AHI; Figure 6); nor was there a change 
+in total obstructive apnea duration across the REM cycles of the 
+night (P = 0.13 for raw values and P = 0.33 for log transformed 
+values). 
+
+The change in AHI across REM cycles was reevaluated for 
+those subjects who had any degree of airway obstruction, i.e., af-
+
+ter excluding those with an AHI = 0. Under these circumstances, 
+log transformation helped to normalize the AHI distribution. There 
+
+REM density in children, Revision #1 24 Karamessinis 
+
+w Figure 2 
+REM Cycles 
+0 1 2 3 4 5 6 7 8 9 
+REM Density (No. REMs/30-second epoch) 
+-1 
+0 
+1 
+2 
+3 
+Figure 2—The mean (SD) REM density is shown as a function of 
+REM cycles across the course of the night. Note that few subjects 
+had >6 REM cycles. 
+
+REM Density in Children—Karamessinis et al 
+
+
+REM density in children, Revision #1 
+Figure 4 
+REM Cycles 
+0 1 2 3 4 5 6 7 8 9 
+Duration REM (minutes) 
+0 
+10 
+20 
+30 
+40 
+REM density in children, Revision #1 
+Figure 3 
+Age (yr) 
+2 4 6 8 10 12 
+REM Density (No. REMs/30-second epoch) 
+0 
+1 
+2 
+3 
+4 
+5 
+REM density in children, Revision #1 
+Figure 3 
+Age (yr) 
+2 4 6 8 10 12 
+REM Density (No. REMs/30-second epoch) 
+0 
+1 
+2 
+3 
+4 
+5 
+Figure 3—The relationship between REM density and age is 
+shown. 
+
+cycles over the course of the night (P = 0.0751 for raw values; P = 
+
+0.12 for log values). Similarly, when only children with moderate 
+OSAS (AHI >5/hr) were evaluated, there was no statistically significant 
+change in AHI across REM cycles (P = 0.17 for raw values; 
+P = 0.24 for log values). There were 2 subjects who were outliers, 
+with very severe OSAS. One subject with an AHI of 42/hr had 4 
+REM cycles; her REM AHI for each cycle, respectively, was 131, 
+120, 77, and 107/hr. The second outlier, with an AHI of 57/hr, had 
+3 REM cycles, with a REM AHI of 14, 122, and 32/hr, respectively. 
+Thus, neither of the most severely affected subjects had a pattern of 
+worsening during the last REM cycle. 
+The correlations between AHI and REM density, and AHI and 
+REM duration, were not significant (r = -0.05, P = -0.69; and r = 
+-0.03, P = 0.80; respectively). 
+
+Relationship Between REM Density, Duty Cycle, and AHI 
+
+REM density in children, Revision #1 27 Karamessinis 
+
+Although REM density changed across REM cycles, this 
+
+change in REM density did not have effect T /T chang-Figure 5 
+REM Cycles 
+0 1 2 3 4 5 6 7 8 9 
+T I/T T 
+0.40 
+0.45 
+0.50 
+0.55 
+0.60 
+0.65 
+0.70 
+Figure 5—The mean (SD) duty cycle is shown as a function of REM 
+cycles across the course of the night. Note that few subjects had >6 
+REM cycles. TI, inspiratory time; TT, total respiratory cycle time. 
+SLEEP, Vol. 30, No. 7, 2007 
+
+840 
+
+Figure 4—The mean (SD) duration of each REM cycle is shown as 
+a function of REM cycles across the course of the night. Note that 
+few subjects had >6 REM cycles. 
+
+ing across REM cycles. There was no relationship between the 
+changes in either REM density or TI/TT and changes in the AHI 
+across REM cycles. 
+
+Obesity 
+
+There were no significant correlations between body mass index 
+z-scores, which serve as an index of obesity, and AHI (P = 
+0.19), mean REM density (P = 0.60), or mean TI/TT (P = 0.23) 
+(all parameters computed as the average of the means for each 
+REM cycle). 
+
+DISCUSSION 
+
+This study has shown that REM density and the duration of 
+REM cycles changed over the course of the night in children, 
+with an increase until the fifth REM cycle and then a plateau. 
+The TI/TT increased across REM cycles. However, in contrast to 
+our initial hypothesis, neither the change in REM density nor the 
+change in TI/TT affected the AHI. 
+
+Changes in REM Sleep with Age 
+
+We have shown that both REM duration and REM density 
+increase over the course of the night in preschool-aged children 
+and school-aged children. REM sleep distribution is known to 
+change with age and development. Newborns have a predominance 
+of active sleep, a state analogous to REM sleep, and frequently 
+enter sleep through this stage.22 The proportion of REM 
+then decreases during childhood, and continues to decrease further 
+during adulthood and old age.2 Although REM density has 
+been shown to increase over the course of the night in adults,3,14 
+REM density has not been well studied in children. Coble et al23 
+evaluated REM density, for the first 4 cycles of the night only, 
+in a somewhat older group of children (6-16 years). They found 
+that REM density tended to increase over the first 4 REM cycles 
+of the night. Our study confirmed this finding in younger children 
+and showed a highly significant increase in REM density 
+across all REM cycles. Coble et al also noted a trend towards 
+
+REM Density in Children—Karamessinis et al 
+
+
+REM density in children, Revision #1 28 Karamessinis 
+Figure 6 
+Rem cycles 
+1 2 3 4 5 6 7 
+Apnea Hypopnea Index 
+0 
+20 
+40 
+60 
+80 
+100 
+120 
+Figure 6—The apnea hypopnea index for subjects with an AHI >1/hr 
+is shown as a function of REM cycles across the course of the night. 
+The boundaries of the boxes indicate the 25th and 75th percentiles, 
+the line within the boxes marks the medians, the whiskers indicate 
+the 90th and 10th percentiles, and the points represent the outliers. 
+Figure 6—The apnea hypopnea index for subjects with an AHI >1/hr 
+is shown as a function of REM cycles across the course of the night. 
+The boundaries of the boxes indicate the 25th and 75th percentiles, 
+the line within the boxes marks the medians, the whiskers indicate 
+the 90th and 10th percentiles, and the points represent the outliers. 
+increased REM density in younger children, although this was 
+only significant for the first and third REM cycles. Hoffman et 
+al24 evaluated REM density in a small sample of females which 
+included 2 prepubertal and 6 pubertal adolescents, and noted 
+increased REM density in the prepubertal compared to the pubertal 
+subjects. We found no relationship between age and REM 
+density when evaluating a younger group of children, although 
+there was a slight trend towards an increased REM density in 
+younger children when only school-aged children were evaluated. 
+Thus, in young children, there is no correlation between 
+REM density and age. 
+
+The subjects in the current study had sleep architecture similar 
+to that of a large, somewhat younger, normal population recently 
+reported by Montgomery-Downs et al,25 with a similar total sleep 
+time (459 minutes in the current study compared to 472-475 minutes 
+in the Montgomery-Downs study), a similar percentage of 
+REM sleep (20% in the current study compared to 20%-21% in 
+the Montgomery-Downs study), and a similar number of REM 
+cycles. This is not surprising, as many studies have shown no difference 
+in sleep architecture between children with OSAS and 
+normal controls,5 or children with OSAS before and after treatment.
+26,27 The duration of REM cycles across the night increased 
+in the current study, similar to that reported by Montgomery-
+Downs. However, the Montgomery-Downs study did not evaluate 
+REM density. 
+
+Apnea Hypopnea Index 
+
+A previous study showed an increase in the REM AHI in the 
+last third of the night compared with the first third of the night.5 
+In that study, the night was arbitrarily divided into thirds, and 
+only the first and last thirds of the night were evaluated, i.e., there 
+was no evaluation of the intervening third. In contrast, the current 
+study used sophisticated analytic techniques to evaluate the 
+entire night. Although the current study found that the number of 
+REM obstructions was greater during the last third of the night 
+compared to the first third, when the intervening REM cycles 
+
+were taken into account, the AHI did not change significantly 
+across REM cycles. It is most likely that the difference between 
+the 2 studies is due to the different analytic techniques used. 
+Alternatively, the difference may be secondary to the inclusion 
+of subjects with a wide distribution of AHI, as compared with 
+the previous study, which evaluated subjects with more severe 
+disease. However, this is less likely, as the results were similar 
+when only subjects with an AHI >5/hr were studied. In addition, 
+neither of the 2 subjects with very severe OSAS had their highest 
+REM AHI during the last REM cycle. The variability in their 
+patterns of AHI illustrates the importance of examining all REM 
+cycles during the night. 
+
+Duty Cycle 
+
+The duty cycle (TI/TT) increased significantly across REM cycles. 
+All of the subjects in this study presented with symptoms of 
+OSAS and a history of habitual nightly snoring. Thus, all of the 
+subjects had varying degrees of increased inspiratory resistance 
+loading during sleep, ranging from snoring alone to obstructive 
+sleep apnea.28 A prolonged TI has been shown to occur as a compensatory 
+response to increased inspiratory resistance loading. 
+This response has been shown to occur during both REM and 
+NREM sleep,29,30 although the response during sleep is less than 
+during wakefulness. Little is known about the relative contributions 
+of upper airway and ventilatory pump muscles to breathing 
+during sleep in children. In adults during wakefulness, it 
+was recently suggested that the forces generated by these 2 sets 
+of muscles are linearly related,31 but this may not apply during 
+sleep. The TI/TT ratio probably represents the combined action 
+of both upper airway muscles and ventilatory pump muscles. It 
+is possible that inspiratory muscle (upper airway and pump) tone 
+decreases as the night progresses, resulting in increased upper airway 
+resistance. This can lead to a compensatory increase in TI/TT. 
+In support of this theory, we have previously shown that normal 
+children have a dramatic decrease in tidal volume in response to 
+inspiratory resistance loading during sleep, accompanied by an 
+increase in TI/TT.30 In contrast to adults,32 children manifest little 
+recovery over time.30 
+
+An increased TI/TT may lead to ventilatory muscle fatigue.9 
+This could occur from continued work against an inspiratory 
+load. Although previous studies (in adults) did not find evidence 
+of diaphragmatic fatigue during sleep in patients with OSAS, 
+these studies were all limited to NREM sleep.33,34 Furthermore, 
+no studies have evaluated the upper airway muscles for fatigue 
+over time. However, in the current study, the increased TI/TT 
+across REM cycles was not associated with an increase in AHI, 
+even in the more severely affected subjects, suggesting that clinically 
+relevant muscle fatigue did not occur. It is possible that the 
+increase in TI/TT across REM cycles was due to REM-related 
+changes in upper airway neuromotor control or central regulation 
+of ventilation. The latter appears unlikely. Animal studies using 
+the carbachol model for REM sleep have shown a decrease 
+in both inspiratory and expiratory time in response to carbachol 
+injection,35 whereas studies in normal adults without sleep disordered 
+breathing showed a decrease in expiratory time and TT in 
+relation to REM density, but little change in TI.36 These studies are 
+in contrast to the present study, which demonstrated an increase 
+in TI
+
+/TTOT. 
+
+SLEEP, Vol. 30, No. 7, 2007 841 REM Density in Children—Karamessinis et al 
+
+
+Limitations 
+
+
+It should be noted that polysomnograms were terminated at 
+06:00, due to laboratory scheduling issues. It is likely that some 
+children would have had more REM cycles if they had been allowed 
+to sleep until spontaneous awakening. However, total sleep 
+time, proportion of REM time, and the number of REM cycles 
+were similar to those previously reported for a large cohort of 
+normal children,25 so it is unlikely that this had a major impact on 
+our results. 
+
+Children with OSAS may have a pattern of persistent partial 
+upper airway obstruction associated with hypercapnia, rather then 
+discrete obstructive events. This has been termed obstructive hypoventilation.
+18 We did not analyze the relationship between hypercapnia 
+and REM density, as this would have required analyzing 
+the end-tidal PCO2 on a breath-by-breath basis. Future studies 
+of this relationship would be of interest. 
+
+Conclusions 
+
+
+In conclusion, we have shown that REM density and the duty 
+cycle (TI/TT) increase across REM cycles during the night in 
+children. Despite this, the degree of obstructive apnea does not 
+change significantly across REM cycles. 
+
+ACKNOWLEDGMENTS 
+
+
+Dr. Marcus was supported by NIH grants #HL58585, MO1RR-
+000240 and U54 RR023567 and research support from Respironics, 
+Inc. that funded a research technician. Dr. Mason was 
+supported by K23 RR16566. 
+
+We thank all of the Children’s Hospital of Philadelphia sleep 
+laboratory technologists who helped conduct this study. We are 
+grateful to the children and their families for their enthusiastic 
+participation in this study. 
+
+REFERENCES 
+
+
+1. 
+Fu J, Li P, Ouyang X, et al. Rapid eye movement sleep deprivation 
+selectively impairs recall of fear extinction in hippocampus-independent 
+tasks in rats. Neuroscience 2007;144:1186-92. 
+2. 
+Roffwarg HP, Muzio JN, Dement WC. Ontogenetic development of 
+the human sleep-dream cycle. Science 1966;152:604-19. 
+3. 
+Takahashi K. Intensity of REM sleep. In: Mallick BN, Inoue S, 
+eds. Rapid eye movement sleep. New York: Marcel Dekker, Inc, 
+1999:382-92. 
+4. 
+Redline S, Tishler PV, Schluchter M, Aylor J, Clark K, Graham G. 
+Risk factors for sleep-disordered breathing in children. Associations 
+with obesity, race, and respiratory problems. Am J Respir Crit Care 
+Med 1999;159:1527-32. 
+5. 
+Goh DY, Galster P, Marcus CL. Sleep architecture and respiratory 
+disturbances in children with obstructive sleep apnea. Am J Respir 
+Crit Care Med 2000;162:682-6. 
+6. 
+Morielli A, Ladan S, Ducharme FM, Brouillette RT. Can sleep and 
+wakefulness be distinguished in children by cardiorespiratory and 
+videotape recordings? Chest 1996;109:680-7. 
+7. 
+Millman RP, Knight H, Kline LR, Shore ET, Chung DC, Pack AI. 
+Changes in compartmental ventilation in association with eye movements 
+during REM sleep. J Appl Physiol 1988;65:1196-1202. 
+8. 
+Smith CA, Henderson KS, Xi L, Chow C, Eastwood PR, Dempsey 
+JA. Neural-mechanical coupling of breathing in REM sleep. J Appl 
+Physiol 1997;83:1923-32. 
+SLEEP, Vol. 30, No. 7, 2007 
+
+9. 
+Bellemare F, Grassino A. Effect of pressure and timing of contraction 
+on human diaphragm fatigue. J Appl Physiol 1982;53:1190-5. 
+10. 
+Schneider BK, Pickett CK, Zwillich CW, et al. Influence of testosterone 
+on breathing during sleep. J Appl Physiol 1986;61:618-23. 
+11. 
+Zwillich CW, Natalino MR, Sutton FD, Weil JV. Effects of progesterone 
+on chemosensitivity in normal men. J Lab Clin Med 
+1978;92:262-9. 
+12. 
+Rosner B, Prineas R, Loggie J, Daniels SR. Percentiles for body mass 
+index in U.S. children 5 to 17 years of age. J Pediatr 1998;132:21122. 
+13. 
+Ktonas PY, Bes FW, Rigoard MT, Wong C, Mallart R, Salzarulo P. 
+Developmental changes in the clustering pattern of sleep rapid eye 
+movement activity during the first year of life: a Markov-process 
+approach. Electroencephalogr Clin Neurophysiol 1990;75:136-40. 
+14. 
+Witzenhausen C, Bes FW, Schulz H. Evidence for a circadian distribution 
+of eye movement density during REM sleep in humans. 
+Sleep Res Online 2001;4:59-66. 
+15. 
+Lucidi F, Devoto A, Violani C, De Gennaro L, Mastracci P, Bertini 
+M. Rapid eye movements density as a measure of sleep need: REM 
+density decreases linearly with the reduction of prior sleep duration. 
+Electroencephalogr Clin Neurophysiol 1996;99:556-61. 
+16. 
+Rechtschaffen A, Kales A. A manual of standardized terminology: 
+Techniques and scoring systems for sleep stages of human subjects. 
+NINDB Neurological Information network (US), Bethesda, MD 
+1968. 
+17. 
+Sleep disorders atlas task force. Guilleminault C. C. EEG arousals: 
+scoring rules and examples. Sleep 1992;15:173-84. 
+18. 
+American Thoracic Society. Standards and indications for cardiopulmonary 
+sleep studies in children. Am J Respir Crit Care Med 
+1996;153:866-78. 
+19. 
+Marcus CL, Omlin KJ, Basinki DJ, et al.Normal polysomnographic 
+values for children and adolescents. Am Rev Respir Dis 1992;146(5 
+Pt 1):1235-9. 
+20. 
+Sleep-related breathing disorders in adults: recommendations for 
+syndrome definition and measurement techniques in clinical research. 
+The Report of an American Academy of Sleep Medicine 
+Task Force. Sleep 1999;22:667-89. 
+21. 
+SAS/STAT User’s Guide. Cary, NC: SAS Institute Inc, 1999. 
+22. 
+Sadeh A. Maturation of normal sleep patterns from childhood 
+through adolescence. In: Loughlin GM, Carroll JL, Marcus CL, eds. 
+Sleep and breathing in children: a developmental approach. New 
+York: Marcel Dekker, Inc, 2000:63-78. 
+23. 
+Coble PA, Reynolds CF III, Kupfer DJ, Houck P. Electroencephalographic 
+sleep of healthy children. Part II: Findings using automated 
+delta and REM sleep measurement methods. Sleep 1987;10:551-62. 
+24. 
+Hoffmann G, Petre-Quadens O. Maturation of REM-patterns from 
+childhood to maturity. Waking Sleeping 1979;3:255-62. 
+25. 
+Montgomery-Downs HE, O’Brien LM, Gulliver TE, Gozal D. 
+Polysomnographic characteristics in normal preschool and early 
+school-aged children. Pediatrics 2006;117:741-53. 
+26. 
+Frank Y, Kravath RE, Pollak CP, Weitzman ED. Obstructive sleep 
+apnea and its therapy; clinical and polysomnographic manifestations. 
+Pediatrics 1983;71:737-42. 
+27. 
+Marcus CL, Carroll JL, Koerner CB, Hamer A, Lutz J, Loughlin 
+GM. Determinants of growth in children with the obstructive sleep 
+apnea syndrome. J Pediatr 1994;125:556-62. 
+28. 
+American Academy of Sleep medicine. The International Classification 
+of Sleep Disorders. 2nd ed. Westchester, IL: American Academy 
+of Sleep Medicine, 2005. 
+29. 
+Wiegand L, Zwillich CW, White DP. Sleep and the ventilatory 
+response to resistive loading in normal men. J Appl Physiol 
+1988;64:1186-95. 
+30. 
+Marcus CL, Moreira GA, Bamford O, Lutz J. Response to inspiratory 
+resistive loading during sleep in normal children and children 
+with obstructive apnea. J Appl Physiol 1999;87:1448-54. 
+842 
+REM Density in Children—Karamessinis et al 
+
+
+31. 
+Shepherd KL, Jensen CM, Maddison KJ, Hillman DR, Eastwood 
+PR. Relationship between upper airway and inspiratory pump muscle 
+force in obstructive sleep apnea. Chest 2006;130:1757-64. 
+32. 
+Badr MS, Skatrud JB, Dempsey JA, Begle RL. Effect of mechanical 
+loading on expiratory and inspiratory muscle activity during NREM 
+sleep. J Appl Physiol 1990; 68:1195-1202. 
+33. 
+Montserrat JM, Kosmas EN, Cosio MG, Kimoff RJ. Lack of evidence 
+for diaphragmatic fatigue over the course of the night in obstructive 
+sleep apnoea. Eur Respir J 1997;10:133-8. 
+34. 
+Cibella F, Cuttitta G, Romano S, Bellia V, Bonsignore G. Evaluation 
+of diaphragmatic fatigue in obstructive sleep apnoeas during non-
+REM sleep. Thorax 1997;52:731-5. 
+35. 
+Kimura H, Kubin L, Davies RO, Pack AI. Cholinergic stimulation 
+of the pons depresses respiration in decerebrate cats. J Appl Physiol 
+1990;69:2280-9. 
+36. 
+Neilly JB, Gaipa EA, Maislin G, Pack AI. Ventilation during early 
+and late rapid-eye-movement sleep in normal humans. J Appl Physiol 
+1991;71:1201-15. 
+SLEEP, Vol. 30, No. 7, 2007 
+843 
+REM Density in Children—Karamessinis et al 
+
+

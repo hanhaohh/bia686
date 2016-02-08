@@ -1,0 +1,853 @@
+Sleep Problems Seldom Addressed at Two General Pediatric Clinics 
+
+Ronald D. Chervin, Kristen Hedger Archbold, Parviz Panahi and Kenneth J. Pituch 
+Pediatrics 2001;107;1375-1380 
+DOI: 10.1542/peds.107.6.1375 
+
+
+The online version of this article, along with updated information and services, is 
+located on the World Wide Web at: 
+
+
+http://www.pediatrics.org/cgi/content/full/107/6/1375 
+
+
+PEDIATRICS is the official journal of the American Academy of Pediatrics. A monthly 
+publication, it has been published continuously since 1948. PEDIATRICS is owned, published, 
+and trademarked by the American Academy of Pediatrics, 141 Northwest Point Boulevard, Elk 
+Grove Village, Illinois, 60007. Copyright © 2001 by the American Academy of Pediatrics. All 
+rights reserved. Print ISSN: 0031-4005. Online ISSN: 1098-4275. 
+
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+Sleep Problems Seldom Addressed at Two General Pediatric Clinics 
+
+Ronald D. Chervin, MD, MS*; Kristen Hedger Archbold, RN, PhD*; Parviz Panahi, MD‡; and 
+Kenneth J. Pituch, MD‡ 
+
+
+ABSTRACT. Objective. Sleep disorders can cause 
+substantial morbidity but often remain undiagnosed 
+among adults. We identified a series of children with 
+sleep-related symptoms and reviewed medical chart 
+notes for the previous 2 years to determine how often 
+sleep problems had been addressed. 
+
+Design. Observational. 
+
+Setting. Two university-affiliated but community-
+based general pediatrics clinics. 
+
+Patients. Children, ages 2.0 to 13.9 years, with clinic 
+appointments. 
+
+Measures. Parental and child responses to a validated 
+Pediatric Sleep Questionnaire (PSQ) were used to identify 
+patients at risk for chronic sleep-disordered breathing, 
+periodic leg movements during sleep, insomnia, or 
+excessive daytime sleepiness. Chart notes written within 
+the previous 2 years were searched for sleep-related 
+symptoms, diagnoses, or treatments. 
+
+Results. A total of 830 questionnaires were completed; 
+1395 chart notes of 86 symptomatic participants (mean 
+age: 6.6 . 
+3.1 years; 51% male) with 103 identified sleep 
+problems were reviewed. Fewer than 15% of patients had 
+current chart notes that mentioned any of the PSQ-defined 
+sleep problems; diagnoses were mentioned for 2 of 
+86 patients and no treatments were discussed. Among the 
+103 sleep problems, only 16 received mention in any past 
+or current note; 10 had led to a diagnosis; 4 had led to 
+intervention; and 3 were treated in a manner likely to be 
+effective. Seventy-four of the sleep problems (72%) occurred 
+in children whose charts did mention something 
+about sleep, but such notations rarely related to concerns 
+uncovered by the PSQ. 
+
+Conclusions. Children with PSQ-identified sleep 
+problems at 2 general pediatrics clinics seldom had these 
+problems addressed, diagnosed, or treated, despite discussions 
+about some aspect of their sleep in the large 
+majority of cases. These findings support expansion of 
+clinician and parent education about sleep disorders in 
+children. Pediatrics 2001;107:1375–1380; children, sleep, 
+sleep disorders, insomnia, obstructive sleep apnea, sleep-
+disordered breathing, sleepiness, disorders of excessive 
+somnolence, Pediatric Sleep Questionnaire. 
+
+ABBREVIATIONS. SDB, sleep-disordered breathing; EDS, excessive 
+daytime sleepiness; PLMS, periodic leg movements during 
+sleep; INS, insomnia; PSQ, Pediatric Sleep Questionnaire. 
+
+From the *Department of Neurology, Sleep Disorders Center; and the 
+
+‡Department of Pediatrics and Communicable Diseases, University of 
+Michigan, Ann Arbor, Michigan. 
+Received for publication Aug 24, 2000; accepted Oct 30, 2000. 
+Reprint requests to (R.D.C.) Michael S. Aldrich Sleep Disorders Laboratory, 
+8D8702, University Hospital, 0117, 1500 E Medical Center Dr, Ann Arbor, 
+MI 48109-0117. E-mail: chervin@umich.edu 
+PEDIATRICS (ISSN 0031 4005). Copyright © 2001 by the American Academy 
+of Pediatrics. 
+E
+E
+pidemiologic and school-based studies suggest 
+that sleep disorders are common among children. 
+Difficulty with sleep onset or sleep maintenance 
+occurs in ;10% to 20% of 8-to 9-year-old 
+children,1 sleep-disordered breathing (SDB) occurs 
+in ;1% to 3% of school-aged children,2,3 and excessive 
+daytime sleepiness (EDS) seems to cause significant 
+problems in at least 10% of school children.4 
+Among children seen in general pediatric practices, 
+the frequency of sleep disorders is likely to exceed 
+that seen in the community, perhaps because respiratory, 
+behavioral, and other disorders that commonly 
+prompt pediatric visits are often associated 
+with sleep disorders. For example, one sleep disorder, 
+periodic leg movements during sleep (PLMS), is 
+believed to be rare among all children but quite 
+frequent among those with attention-deficit/hyperactivity 
+disorder, a common reason for visits to a 
+pediatrician.5,6 
+
+Pediatric sleep disorders cause significant consequences 
+that remain incompletely defined but include 
+effects on growth, cardiovascular health, cognitive 
+function, and daytime behavior.7–9 Studies 
+suggest that disruptive behavior disorders, such as 
+attention-deficit/hyperactivity disorder, can sometimes 
+be caused by undiagnosed sleep disorders, 
+treatment for which improves the behavior.10,11 Academic 
+grades of students at a wide range of ages are 
+reduced by unrecognized sleep disorders and insufficient 
+sleep.12–14 
+
+Although the impact of occult sleep disorders has 
+become increasingly clear, little work has been done 
+to determine how effectively pediatricians identify 
+and treat sleep disorders in children with suggestive 
+symptoms. Chart reviews of adult patients in 1989 
+and 1990 suggested that the large majority of sleep 
+complaints remained unaddressed and fewer still 
+were effectively diagnosed or treated.15 Since that 
+time, sleep disorders have received much publicity 
+and identification of them may have improved, but 
+information relevant to children is still lacking. We 
+therefore identified a series of children with sleep-
+related symptoms in 2 general pediatric clinics and 
+then reviewed medical records to determine whether 
+those symptoms had been addressed, diagnosed, 
+and treated within the previous 2 years. 
+
+METHODS 
+
+Participants 
+
+Parents who accompanied their children to appointments at 
+either of 2 general pediatrics clinics were recruited to sign an 
+informed consent for this protocol, which was a component of a 
+
+PEDIATRICS Vol. 107 No. 6 June 2001 1375
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+larger institutional review board-approved study of sleep and 
+behavior in children. Children older than 9 years of age or old 
+enough to understand the study were asked to sign an informed 
+assent. Criteria for enrollment included: 1) age between 2.00 and 
+
+13.99 years, 2) parental ability to read and write, 3) absence of 
+mental or physical impairment severe enough to preclude interpretation 
+of behavioral information collected, and 4) presence of 
+symptoms of SDB, PLMS, insomnia (INS), or EDS, as defined 
+below. Participants were recruited between February 6, 1998 and 
+July 20, 1999 by research assistants who attempted to approach all 
+child–parent pairs at the clinics on designated days. 
+Setting 
+
+Both clinics are owned by the same large public university 
+health system. Clinic A is staffed by 5 full-time faculty who 
+finished residency training 3 to 15 years before the beginning of 
+this study. Clinic B was recently bought by the university, without 
+substantial change in that site’s practicing physician staff, which 
+includes 4 pediatricians who finished training 3 to 35 years earlier. 
+The clinic population at both sites is primarily community-based. 
+The university owns a large health care maintenance organization, 
+which accounts for ;35% of all visits to clinic A and 30% of all 
+visits to clinic B. Residents see ;28% of the patients at clinic A and 
+
+;20% of patients at clinic B, but always with attending physicians. 
+Notes from all such patient visits are signed by both residents and 
+attending physicians. 
+Measures 
+
+Parents waiting for their children’s appointments completed 
+the Pediatric Sleep Questionnaire (PSQ), which we had previously 
+developed and validated.16,17 Children’s help in completing the 
+PSQ was encouraged. The PSQ contains ;70 closed question items 
+that request yes, no, or don’t know responses. Instructions ask that 
+questions be answered with reference to behavior in general 
+rather than recent days, which may have been unusual if the child 
+had been acutely ill. Several additional open-ended items ask 
+about past medical history, medications, and family history. Question 
+items for symptoms of SDB provide a validated screen for 
+polysomnographically defined obstructive sleep apnea and upper 
+airway resistance syndrome.17 Items about EDS also have been 
+validated among children with and without these 2 diagnoses.17 
+Polysomnographic data have not been used to validate the question 
+items about INS; assessment of INS is generally based on the 
+history rather than on polysomnography or other recordings. 
+Finally, PLMS can be described to parents and observed by some 
+of them.5,18 Although the absence of such an observation in no 
+way excludes the diagnosis, the relatively rare parental affirmation 
+that PLMS are present, based on a precise description of the 
+movements, is likely to carry reasonable specificity and positive 
+predictive value. 
+
+Table 1 lists the combinations of PSQ items used to identify 
+children with symptoms of SDB, PLMS, INS, and EDS. For SDB 
+and PLMS, the aim was to identify children who clearly merited 
+inquiry into the possibility that these disorders might be present. 
+For INS and EDS, the aim was to identify children whose symptoms 
+were severe. In this study, identification of a group of participants 
+at high risk for sleep disorders was considered more 
+important than detection of every potentially affected individual. 
+
+Investigators contacted parents of symptomatic children by 
+telephone to obtain permission to review medical records. All 
+dictated, handwritten, and telephone notes written between the 
+date of questionnaire completion and 2 years before were reviewed 
+by one investigator (K.M.H.). Notation was made whenever 
+a clinician mentioned: 1) a symptom related to the symptom-
+complex identified by the PSQ, 2) a diagnosis that might explain 
+the sleep-related symptoms, 3) a treatment designed to address 
+those symptoms, 4) a treatment likely to address those symptoms 
+effectively, and 5) any explicitly sleep-related problem. Table 2 
+lists specific criteria by which patients’ notes were judged to 
+contain each of these 5 elements. In contrast to PSQ-defined case 
+ascertainment, chart review criteria were purposefully liberal to 
+give the benefit of the doubt whenever possible. 
+
+Investigators also extracted, from clinic notes, lists of current or 
+ongoing medical problems for each child. These were then coded 
+into the following categories: respiratory (in no cases SDB); cardiovascular; 
+developmental, psychiatric, or behavioral; neurolog-
+
+TABLE 1. PSQ Items Used to Identify Children With Symptoms 
+of SDB, PLMS, INS, and EDS 
+
+Symptom-
+Complex 
+Question Items Used to Identify 
+Symptom-Complex 
+SDB While sleeping, does your child snore more 
+than half the time? 
+. 
+Either: 
+2 or more EDS items positive (see below) 
+or 
+Have you ever seen your child stop 
+breathing during the night? 
+PLMS While your child sleeps, have you seen 
+repeated kicks or jerks of the legs at 
+regular intervals (ie, about every 20–40 
+seconds)? 
+INS Does your child have difficulty falling asleep 
+at night? 
+. 
+Does your child wake up more than twice a 
+night on average? 
+. 
+Does your child have trouble falling back 
+asleep if he or she wakes up at night? 
+INS scored as present only if all 3 responses were 
+positive. 
+EDS Does your child wake up feeling unrefreshed 
+in the morning? 
+. 
+Does your child have a problem with 
+sleepiness during the day? 
+. 
+Has a teacher or other supervisor 
+commented that your child appears sleepy 
+during the day? 
+. 
+Is it hard to wake your child up in the 
+morning? 
+EDS scored as present only if all 4 responses 
+were positive. 
+
+ic; infectious disease; trauma; obesity; and no ongoing medical 
+problems. 
+
+Analysis 
+
+Within each group of patients affected by a given symptom-
+complex, we calculated the frequencies with which current or past 
+medical notes mentioned the relevant symptom, diagnosis, treatment, 
+effective treatment, or any sleep-related issue. Age and 
+gender were tested, within each symptom-complex group, for any 
+increased likelihood that current or past chart notes would mention 
+relevant sleep symptoms. The presence of current or ongoing 
+medical problems was similarly tested when at least 5 children 
+within the symptom-complex group had the medical problem. All 
+analyses were performed with SAS, Version 6.12 (SAS Institute Inc, 
+Cary, NC). The level of significance was set at P . 
+.05. 
+
+RESULTS 
+
+Participants 
+
+Approximately 1150 children of appropriate ages 
+came with their parents to appointments at either of 
+the 2 clinics while the PSQ was being distributed; 830 
+questionnaires were completed; 100 participants 
+were symptomatic for SDB, PLMS, INS, or EDS; and 
+86 children had parents agreeable to review of located 
+medical charts. The mean age of the 86 participants 
+whose data form the basis for this report was 
+
+6.6 . 
+3.1 years, and 44 were boys (51%). Numbers of 
+participants, mean ages, and gender for each symptomatic 
+group are given in Table 3. Some participants 
+1376 SLEEP PROBLEMS SELDOM ADDRESSED AT TWO GENERAL PEDIATRIC CLINICS
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+TABLE 2. Criteria Used to Determine Whether a Chart Note 
+Mentioned Issues Relevant to Sleep Symptom-Complex Identified 
+by PSQ 
+
+Sleep-Related Criteria: Any Mention of... 
+Issues 
+Relevant symptom SDB: snoring, difficulty breathing during 
+sleep, observed apneas 
+PLMS: kicking of legs during sleep, 
+restless legs, nocturnal growing pains 
+INS: difficulty with sleep initiation, sleep 
+maintenance, or frequent awakenings 
+EDS: daytime sleepiness, tiredness, or 
+fatigue 
+Relevant diagnosis SDB: obstructive sleep apnea, obstructed 
+breathing during sleep, adenotonsillar 
+hypertrophy 
+PLMS: periodic leg movements during 
+sleep, periodic limb movement disorder 
+(also accepted restless legs syndrome) 
+INS: a diagnosis implied by pediatrician 
+or known by investigators to be a likely 
+cause of insomnia 
+EDS: a diagnosis implied by pediatrician 
+or known by investigators to be a likely 
+cause of sleepiness 
+Relevant treatment SDB, PLMS, INS, and EDS: any referral or 
+treatment designed to address 
+symptoms 
+Treatment likely to SDB: referral to sleep specialist or 
+be effective otolaryngologist; adentonsillectomy; or 
+continuous positive airway pressure 
+PLMS: referral to sleep specialist or 
+medication with L-dopa, dopamine 
+agonist, benzodiazepine, or gabapentin 
+INS: referral to sleep specialist or a 
+directed behavioral or pharmacological 
+intervention 
+EDS: referral to sleep specialist or a 
+directed behavioral intervention 
+Anything about Any mention of sleep, sleepiness or other 
+sleep sleep-related problems 
+
+TABLE 3. Characteristics of Participants, Within Each Symptomatic 
+Group, Whose Charts Were Reviewed 
+
+N Age Males 
+(Mean . 
+Standard Deviation) (%) 
+SDB 44 7.1 . 
+2.9 (50) 
+PLMS 33 6.0 . 
+3.1 (48) 
+INS 15 6.1 . 
+3.2 (47) 
+EDS 11 8.5 . 
+3.7 (73) 
+All participants 86 6.6 . 
+3.1 (51) 
+
+had .1 symptom-complex; a total of 103 symptom-
+complexes were identified among the 86 children. 
+Children’s current or ongoing medical problems 
+were classified as respiratory (n . 
+29); cardiovascular 
+(n . 
+2); developmental, psychiatric, or behavioral 
+(n . 
+9); neurologic (n . 
+7, all with headache); infectious 
+disease (n . 
+4); trauma (n . 
+1); obesity (n . 
+2); 
+or no medical problems (n . 
+40). 
+
+Chart Reviews 
+
+The total number of chart notes reviewed was 1395 
+for the 86 participants and between 2 and 85 for each 
+participant. Fewer than 10% of patients had a chart 
+note, from the day on which the PSQ was completed, 
+that addressed symptoms relevant to PSQ-determined 
+SDB, PLMS, or EDS (Table 4). Only 2 of 15 
+
+participants with INS had a current note that mentioned 
+the problem. Even fewer of the children (only 
+2 of 86) had any diagnosis mentioned in a current 
+note, and none had any treatment mentioned. However, 
+14% to 20% of the SDB, PLMS, and INS children 
+had a current note that did mention something about 
+their sleep; in the EDS group, no note mentioned 
+sleep. Notes from the previous 2 years, in aggregate, 
+sometimes mentioned symptoms relevant to PSQ-
+identified sleep problems—and then often contained 
+diagnoses—except that in the PLMS group, no diagnoses 
+were made for the symptoms. In all groups, 
+treatments were rarely mentioned in past notes. The 
+majority of patients with each symptom-complex 
+had past notes that did mention some aspect of sleep 
+but said nothing related to the PSQ-defined problem. 
+
+Content of current and past notes, considered together, 
+resembled that of past notes alone (Table 4). 
+Among the 103 sleep problems identified by the PSQ 
+in the 86 children, 16 of the problems (16%) had 
+corresponding symptoms mentioned in any note, 10 
+(10%) had diagnoses mentioned, 4 (4%) had treatments 
+listed, and 3 (3%) had a treatment likely to be 
+effective listed. Although 74 (72%) of the 103 problems 
+were associated with at least 1 notation of sleep 
+information during the past 2 years, most notations 
+were completely unrelated to the sleep problem 
+identified by the PSQ. 
+
+Age, Gender, Clinic Site, and Medical Problems 
+
+For each type of PSQ-defined sleep problem, simple 
+logistic regression models of current or past mention 
+of relevant symptoms on age and then gender 
+showed no associations (P . 
+.05). Similarly, Fisher’s 
+exact test revealed no statistically significant differences 
+between clinics A and B in the frequencies with 
+which relevant symptoms were mentioned. 
+
+Among the 44 SDB children, 18 had respiratory 
+problems and 5 of these (28%) had SDB symptoms 
+mentioned in their charts, whereas none of the 26 
+children without respiratory problems had SDB 
+symptoms mentioned (Fisher’s exact test, P . 
+.008). 
+In contrast, absence of medical problems (n . 
+22) 
+was always associated with absence of SDB symptoms 
+in charts, whereas 5 (23%) of SDB children with 
+medical problems did have mention of such symptoms 
+in their charts (P . 
+.048). Other medical problems 
+were too infrequent to be tested within the SDB 
+group. 
+
+Among the 33 PLMS children, respiratory problems 
+and absence of medical problems showed no 
+association with chart mention of symptoms related 
+to PLMS (P . 
+.05). Among the 15 INS children, 
+absence of medical problems showed no association 
+with mention of INS-related symptoms. Among the 
+11 EDS children, no single medical problem was 
+common enough to permit statistical testing with 
+reasonable power, but the 2 children with respiratory 
+problems were the only 2 who had sleepiness mentioned 
+in their charts, and this result was significant 
+(P . 
+.018). 
+
+ARTICLES 1377
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+TABLE 4. Number of Patients (and %) in Each Symptom Category for Whom Sleep-Related 
+Symptoms, Diagnosis, or Treatment Was Mentioned in Current, Past, or Any Medical Notes 
+
+Mentioned in... SDB PLMS INS EDS 
+n . 
+44 n . 
+33 n . 
+15 n . 
+11 
+Current note* 
+Relevant symptom 1 (2) 1 (3) 2 (13) 0 (0) 
+Relevant diagnosis 1 (2) 0 (0) 1 (7) 0 (0) 
+Relevant treatment 0 (0) 0 (0) 0 (0) 0 (0) 
+Treatment likely to be effective 0 (0) 0 (0) 0 (0) 0 (0) 
+Anything about sleep 6 (14) 6 (18) 3 (20) 0 (0) 
+Past note† 
+Relevant symptom 5 (11) 4 (12) 2 (13) 2 (18) 
+Relevant diagnosis 5 (11) 0 (0) 2 (13) 2 (18) 
+Relevant treatment 2 (5) 0 (0) 1 (7) 1 (9) 
+Treatment likely to be effective 1 (2) 0 (0) 1 (7) 1 (9) 
+Anything about sleep 29 (66) 21 (64) 9 (60) 9 (82) 
+Current or past note 
+Relevant symptom 5 (11) 5 (15) 4 (27) 2 (18) 
+Relevant diagnosis 5 (11) 0 (0) 3 (20) 2 (18) 
+Relevant treatment 2 (5) 0 (0) 1 (7) 1 (9) 
+Treatment likely to be effective 1 (2) 0 (0) 1 (7) 1 (9) 
+Anything about sleep 29 (66) 24 (73) 12 (80) 9 (82) 
+
+* Note from same day that questionnaire was completed. 
+† Any note from previous 2 years. 
+Chart Mention of Sleep Symptoms Other Than Those 
+Identified by PSQ 
+
+Although only 5 (11%) of 44 patients whose PSQ 
+results suggested SDB had symptoms of SDB discussed 
+in their medical notes, 12 (27%) had INS 
+discussed. Similarly, although only 5 (15%) of 33 
+patients (15%) with PSQ results suggestive of PLMS 
+had directly related symptoms discussed in their 
+notes, 18 (55%) had INS discussed and 6 (18%) had 
+EDS discussed. 
+
+DISCUSSION 
+
+This review of medical records for 86 children with 
+prominent symptoms of chronic sleep disorders suggests 
+that pediatricians rarely discuss such symptoms, 
+establish an underlying diagnosis, or institute 
+needed treatment. Items from a validated questionnaire 
+were used to detect children at substantial risk 
+for SDB or PLMS, or to identify children with particularly 
+problematic EDS and INS. In contrast, 
+charts were reviewed with liberal interpretation of 
+information as sleep-related. Despite this conservative 
+study design, notes written during a 2-year interval 
+indicate that the pediatricians at the 2 clinics 
+discussed only 16 of 103 sleep problems and effectively 
+treated only 3. 
+
+Data for comparison to these findings are scarce. In 
+1989 and 1990 the National Commission on Sleep 
+Disorders Research searched records of over 10 million 
+patients in large US primary care practice databases 
+for codes that represented sleep disorders.15 
+They found only 73 such occurrences, all of which 
+were codes for obstructive sleep apnea, despite a 
+prevalence among adults of ;3% for this disorder 
+and much higher rates for conditions that cause 
+INS.19,20 The Commission then examined in detail 
+full written records for over 10 000 patients in family 
+practice settings. Among 50 000 physician–patient 
+contacts, notes that mentioned sleep were found for 
+only 123. In none of these cases did the notes discuss 
+an effective response to the patient’s complaint. The 
+
+commission summarized their findings in this way: 
+“The conclusion is inescapable. At the present time, 
+most Americans with sleep disorders have no recourse 
+but to suffer from their disorder. Unless fortunate 
+enough to know about a sleep disorders center 
+or to see a physician who does, the vast majority 
+of these people will continue to suffer from the 
+symptoms and other consequences associated with 
+their specific illness.”15 
+
+During the last decade, much progress has been 
+made in both public and professional education 
+about sleep disorders. Obstructive sleep apnea, in 
+particular, has been the subject of many newspaper 
+articles, magazine features, talk shows, and TV news 
+journals. A recent epidemiologic study suggested 
+that nearly 20% of middle-aged men and 10% of 
+middle-aged women with symptomatic obstructive 
+sleep apnea have been diagnosed.21 However, data 
+for children remain largely unavailable. Many pediatricians 
+expect questions from tired parents about 
+sleep in infants, and many are familiar with common 
+behavioral sleep disorders that emerge in subsequent 
+years. However, the results of the current study suggest 
+that other primary sleep problems may remain 
+unaddressed in the large majority of affected children. 
+
+
+One problem likely to cause underrecognition of 
+sleep disorders in children may be lack of physician 
+training in this area. A 1978 survey found that 46% 
+of medical schools offered no education or training 
+in sleep disorders and that another 38% provided 
+only occasional or fragmented information.22 A 
+1990–1991 survey of all 126 accredited US medical 
+schools found that on average ,2 hours of total 
+teaching time was allocated to sleep and its disorders; 
+37 schools reported no structured teaching time 
+in sleep medicine.23 More than two thirds of survey 
+respondents thought that additional time should be 
+spent, but reported obstacles included unavailability 
+of qualified faculty, lack of curriculum time, and the 
+need for additional clinical and educational re
+
+
+1378 SLEEP PROBLEMS SELDOM ADDRESSED AT TWO GENERAL PEDIATRIC CLINICS
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+sources. A 1992 survey of professional training programs 
+found that, on average, pediatrics programs 
+offered only ;5 hours of didactic instruction in sleep 
+disorders, and .40% of programs offered none.24,25 
+An assessment of 88 pediatricians’ knowledge about 
+sleep disorders suggested that they knew most about 
+developmental issues and sleep hygiene and least 
+about more specific sleep disorders.25 
+
+Another problem is that patients may not know 
+that they should mention sleep problems to their 
+physicians.15 Parents of young children seem to be 
+more concerned about sleep problems than about 
+difficulties with language development, motor development, 
+toileting, and teething.25 However, 
+adults often suffer from sleep symptoms for many 
+years before they mention anything to their own 
+physicians, and parents may not act differently on 
+behalf of their children. 
+
+Failure to recognize childhood sleep problems 
+may be exacerbated by a dearth of pediatricians who 
+are fellowship-trained in sleep medicine. Many sleep 
+specialists see both adults and children with sleep 
+complaints, but the number of pediatric sleep specialists 
+is still miniscule. 
+
+In the current study, lack of discussion of important 
+sleep problems cannot be attributed to lack of 
+any discussion about sleep: the large majority of 
+children had notes about their sleep somewhere in 
+their charts. Common chart comments such as 
+“sleeps well” or “cough wakes her during sleep” 
+suggest that discussions about sleep may be too brief 
+or too focused on potential effects of known medical 
+problems. At the same time, our findings also suggest 
+that pediatricians may uncover SDB and EDS in 
+some children precisely because a respiratory disorder 
+other than SDB leads to consideration that the 
+SDB might also be present. In other cases, pediatricians 
+may uncover important sleep symptoms, such 
+as INS, without knowing to ask about potential specific 
+causes, such as PLMS.18 
+
+The current study is limited in several respects. It 
+focused on only 2 general pediatrics clinics and is not 
+an epidemiologic sample. The numbers of participants 
+who qualified for this study reflect the protocol 
+used to define sleep symptom-complexes rather than 
+the prevalence of particular sleep problems. Although 
+a number of pediatricians were involved 
+with the 1395 patient contacts that were reviewed, 
+these clinicians and patients may not adequately represent 
+medical practices or problems at other sites. 
+The results derived from the 2 clinics do not imply 
+that care delivered there was in any way substandard; 
+on the contrary, the academic affiliations of 
+these clinics may have resulted in better identification 
+of sleep problems than might be observed at 
+sites without ready access to a sleep disorders center. 
+This study used chart notes as proxy measures of 
+discussions between caregivers, patients, and their 
+parents. In some cases, such notes may inadequately 
+document sleep-related inquiries, diagnoses, and 
+recommendations that did take place. Finally, PSQ-
+identified sleep problems, such as SDB, PLMS, EDS, 
+and INS, are often but not always chronic. In many 
+cases, chart notes from as far as 2 years before PSQ 
+
+completion may have omitted mention of sleep problems 
+because no such problems existed at the time. 
+
+The apparent neglect of important pediatric sleep 
+problems deserves study among additional practices, 
+definition of underlying causes, and development 
+of strategies to address the problem. The National 
+Sleep Disorders Center, within the National 
+Heart, Lung, and Blood Institute, has sponsored an 
+initiative to improve sleep medicine education, and 
+20 groups are now able to develop and test tools that 
+will be useful at several different stages of training. 
+The first of these tools are now available for free at 
+the MEDSleep website, http://www.asda.org/ 
+medsleep/home.htm. Wider dissemination of such 
+strategies will have to be coupled with a growing 
+understanding among program directors that time 
+for education in sleep medicine must be inserted into 
+already crowded curricula. Finally, education of the 
+lay public should not be neglected in an effort to end 
+needless sleepiness, behavioral problems, academic 
+underachievement, and other morbidity associated 
+with occult sleep disorders in children. 
+
+ACKNOWLEDGMENTS 
+
+This work was supported by Grant K02-NS02009 from the 
+National Institute of Neurological Disorders and Stroke, by Grant 
+K07-HL03645 from the National Heart, Lung, and Blood Institute, 
+and by Grant MO1 RR00042 to the University of Michigan General 
+Clinical Research Center. 
+
+We thank the pediatricians who, committed to the improvement 
+of child health care, permitted these chart reviews despite 
+potential findings; the parents and children who took the time to 
+complete questionnaires so that other children might benefit; and 
+the graduate and undergraduate research assistants who patiently 
+recruited participants at the 2 clinics. 
+
+REFERENCES 
+
+1. Paavonen EJ, Aronen ET, Moilanen I, et al. Sleep problems of school-
+aged children: a complementary view. Acta Paediatr. 2000;89:223–228 
+2. Ali NJ, Pitson DJ, Stradling JR. Snoring, sleep disturbance, and behavior 
+in 4-to 5-year-olds. Arch Dis Child. 1993;68:360–366 
+3. Gislason T, Benediktsdottir B. Snoring, apneic episodes, and nocturnal 
+hypoxemia among children 6 months to 6 years old: an epidemiologic 
+study of lower limit of prevalence. Chest. 1995;107:963–966 
+4. Owens JA, Spirito A, McGuinn M, Nobile C. Sleep habits and sleep 
+disturbance in elementary school-aged children. Dev Behav Pediatr. 2000; 
+21:27–36 
+5. Picchietti DL, England SJ, Walters AS, Willis K, Verrico T. Periodic limb 
+movement disorder and restless legs syndrome in children with attention-
+deficit-hyperactivity disorder. J Child Neurol. 1998;13:588–594 
+6. Picchietti DL, Underwood DJ, Farris WA, et al. Further studies 
+on 
+periodic limb movement disorder and restless legs syndrome in children 
+with attention-deficit hyperactivity disorder. Mov Disord. 1999;14: 
+1000–1007 
+7. Guilleminault C, Korobkin R, Winkle R. A review of 50 children with 
+obstructive sleep apnea syndrome. Lung. 1981;159:275–287 
+8. Brouillette RT, Fernbach SK, Hunt CE. Obstructive sleep apnea in 
+infants and children. J Pediatr. 1982;100:31–40 
+9. Marcus CL, Greene MG, Carroll JL. Blood pressure in children with 
+obstructive sleep apnea. Am J Respir Crit Care Med. 1998;157:1098–1103 
+10. Guilleminault C, Winkle R, Korobkin R, Simmons B. Children and 
+nocturnal snoring—evaluation of the effects of sleep related respiratory 
+resistive load and daytime functioning. Eur J Pediatr. 1982;139:165–171 
+11. Ali NJ, Pitson D, Stradling JR. Sleep disordered breathing: effects of 
+adenotonsillectomy on behaviour and psychological functioning. Eur 
+J Pediatr. 1996;155:56 –62 
+12. Gozal D. Sleep-disordered breathing and school performance in children. 
+Pediatrics. 1998;102:616 –620 
+13. Ficker JH, Wiest GH, Lehnert G, Meyer M, Hahn EG. Are snoring 
+medical students at risk of failing their exams? Sleep. 1999;22:205–209 
+ARTICLES 1379
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+14. Wolfson AR, Carskadon MA. Sleep schedules and daytime functioning 
+in adolescents. Child Dev. 1998;69:875–887 
+15. National Commission on Sleep Disorders Research. Wake Up America: A 
+National Sleep Alert. Washington, DC: Government Printing Office; 1993 
+16. Chervin RD, Dillon JE, Bassetti C, Ganoczy DA, Pituch KJ. Symptoms of 
+sleep disorders, inattention, and hyperactivity in children. Sleep. 1997; 
+20:1185–1192 
+17. Chervin RD, Hedger KM, Dillon JE, Pituch KJ. Pediatric Sleep Questionnaire 
+(PSQ): validity and reliability of scales for sleep-disordered 
+breathing, snoring, sleepiness, and behavioral problems. Sleep Med. 
+2000;1:21–32 
+18. Picchietti DL, Walters AS. Moderate to severe periodic limb movement 
+disorder in childhood and adolescence. Sleep. 1999;22:297–300 
+19. Young T, Palta M, Dempsey J, Skatrud J, Weber S, Safwan B. The 
+occurrence of sleep-disordered breathing among middle-aged adults. 
+N Engl J Med. 1993;328:1230–1235 
+20. Costa e Silva JA, Chase M, Sartorius N, Roth T. Special report from a 
+symposium held by the World Health Organization and the World 
+Federation of Sleep Research Societies: an overview of insomnias and 
+related disorders—recognition, epidemiology, and rational management. 
+Sleep. 1996;19:412–416 
+
+21. Young T, Evans L, Finn L, Palta M. Estimation of the clinically diagnosed 
+proportion of sleep apnea syndrome in middle-aged men and 
+women. Sleep. 1997;20:705–706 
+22. Orr WC, Stahl ML, Dement WC, Reddington D. Physician education in 
+sleep disorders. J Med Educ. 1980;55:367–369 
+23. Rosen RC, Rosekind M, Rosevear C, Cole WE, Dement WC. Physician 
+education in sleep and sleep disorders: a national survey of US medical 
+schools. Sleep. 1993;16:249–254 
+24. Moline ML, Zendell SM. Sleep education in professional training programs. 
+Sleep Res. 1993;22:1 
+25. Mindell JA, Moline ML, Zendell SM, Brown LW, Fry JM. Pediatricians 
+and sleep disorders: training and practice. Pediatrics. 1994;94:194–200 
+NUMBER OF NEW INTERNET USERS IS GROWING 
+
+A report released . . . by the Pew Internet and American Life Project found that 
+the number of American adults with Internet access grew by 16 million the last 6 
+months of 2000. That brings the total number of adults using the Internet in the 
+United States to 104 million, or 56% of the adult population . . . The Pew study also 
+measured the number of the nation’s children using the Internet, finding that 30 
+million, or 45% of those under 18, have online access. Almost three-quarters of 
+those in middle school and high school (ages 12–17) have access, compared with 
+almost a third of those under 12 . . . The measurements of the Pew study are 
+comparable to a survey released . . . by Nielsen/NetRatings, which found that 60% 
+of the US population has Internet access. 
+
+Stellin S. New York Times. February 19, 2001 
+
+Noted by JFL, MD 
+
+1380 SLEEP PROBLEMS SELDOM ADDRESSED AT TWO GENERAL PEDIATRIC CLINICS
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+Sleep Problems Seldom Addressed at Two General Pediatric Clinics 
+
+Ronald D. Chervin, Kristen Hedger Archbold, Parviz Panahi and Kenneth J. Pituch 
+Pediatrics 2001;107;1375-1380 
+
+
+DOI: 10.1542/peds.107.6.1375 
+& Services 
+Updated Information 
+http://www.pediatrics.org/cgi/content/full/107/6/1375 
+including high-resolution figures, can be found at: 
+References 
+http://www.pediatrics.org/cgi/content/full/107/6/1375#BIBL 
+at: 
+This article cites 23 articles, 7 of which you can access for free 
+Citations 
+es 
+http://www.pediatrics.org/cgi/content/full/107/6/1375#otherarticl 
+This article has been cited by 7 HighWire-hosted articles: 
+Subspecialty Collections 
+http://www.pediatrics.org/cgi/collection/office_practice 
+Office Practice 
+following collection(s): 
+This article, along with others on similar topics, appears in the 
+Permissions & Licensing 
+http://www.pediatrics.org/misc/Permissions.shtml 
+tables) or in its entirety can be found online at: 
+Information about reproducing this article in parts (figures, 
+Reprints 
+http://www.pediatrics.org/misc/reprints.shtml 
+Information about ordering reprints can be found online: 
+
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+

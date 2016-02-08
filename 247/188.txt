@@ -1,0 +1,1092 @@
+ARTICLEARTICLE
+Effect 
+of 
+Snoring 
+and 
+Obstructive 
+Respiratory 
+Events 
+on 
+Sleep 
+Architecture 
+in 
+Adolescents 
+
+
+Mari´aA. 
+Fuentes-Pradera, 
+MD; 
+Georgina 
+Botebol, 
+MD; 
+A´
+ngeles 
+Sa´nchez-Armengol, 
+MD; 
+Carmen 
+Carmona,MD; 
+Alberto 
+Garci´a-Ferna´ndez, 
+MD; 
+Jose´ 
+Castillo-Go´mez, 
+MD; 
+Francisco 
+Capote-Gil, 
+MD 
+
+
+Objective: 
+To evaluate the effect of snoring and obstructive 
+respiratory events on the distribution of sleep 
+stages and arousals in a nonselected group of adolescents 
+from the general population. 
+
+Design: 
+Cross-sectional study. 
+
+Setting: 
+Randomly selected secondary schools in Seville, 
+Spain. 
+
+Patients: 
+A general population sample of 43 adolescents 
+(mean [SD] age, 13.6 [1.77] years). 
+
+Interventions: 
+A questionnaire for the investigation of 
+sleep-related breathing disorders was administered. Symptoms 
+were evaluated according to a 4-point frequency 
+scale. Snorers answered “sometimes” or “often” to the 
+question about snoring, and nonsnorers answered “never” 
+or “rarely.” All subjects underwent standard polysomnography 
+at the sleep laboratory. 
+
+Results: 
+Twenty-eight subjects were snorers; 15 were non-
+snorers. No statistically significant differences were noted 
+between both groups in the percentages of sleep stages, 
+arousal index, awakenings, or wakefulness during sleep. 
+Snorers showed a significantly higher number of respiratory 
+arousals than nonsnorers (mean [SD], 1.14 [1.5] vs 
+
+0.33 [0.6], P.05). However, neither the apneahypopnea 
+index (AHI) nor the oxygen desaturation index 
+correlated with the arousal index. Twelve snorers 
+(27.5%) had an AHI of 2 or more; 13 nonsnorers (30.2%) 
+had an AHI of less than 2. Snorers with some obstructive 
+respiratory events had a significantly higher number of 
+awakenings, a lower percentage of stage 4 sleep, and a 
+higher number of respiratory events compared with non-
+snorers. However, the total number of arousals and the 
+arousal index were similar for both groups. Wakefulness 
+during sleep tended to be longer in snorers than in non-
+snorers although differences were not significant. The percentage 
+of respiratory events that terminated with an arousal 
+was greater in snorers who had an AHI of 2 or more than 
+in nonsnorers who had an AHI of less than 2 (mean [SD], 
+8.4% [9.5%] vs 4.9% [11.53%], P.05). 
+Conclusions: 
+These data indicate normal sleep architecture 
+in the adolescents. Although snorers as well as 
+adolescents with some polysomnographic abnormality 
+showed a higher number of respiratory arousals than control 
+subjects, most obstructive events did not terminate 
+with a cortical arousal, which may suggest that adolescents 
+share with younger children this mechanism for 
+preserving sleep architecture. 
+
+Arch 
+Pediatr 
+Adolesc 
+Med. 
+2003;157:649-654 
+
+
+From 
+the 
+Department 
+of 
+Pneumology 
+(Drs 
+Fuentes-Pradera, 
+Sa´nchez-Armengol, 
+Carmona, 
+Garci´a-Ferna´ndez, 
+Castillo-Go´mez, 
+and 
+Capote-Gil) 
+and 
+the 
+Clinical 
+Neurophysiology 
+Service 
+(Dr 
+Botebol), 
+Hospital 
+Universitario 
+Virgen 
+del 
+Roci´o, 
+Seville, 
+Spain. 
+The 
+authors 
+have 
+no 
+relevant 
+financial 
+interest 
+in 
+this 
+article. 
+
+
+A
+A
+DULTS WITH sleep-related 
+breathing disorders 
+(SRBDs) have arousals 
+from sleep causing sleep 
+fragmentation. The term 
+arousal 
+refers to a rapid desynchronization 
+of cerebral bioelectrical activity with 
+or without an associated increase in 
+muscular and vegetative activity. The 
+number and characteristics of arousals 
+are influenced by some factors, such as 
+the subject’s age and the different sleep 
+stages at which arousals occur. Arousals 
+constitute an indicator of sleep quality 
+and, therefore, of sleep fragmentation, 
+both in normal and pathologic conditions.
+1 
+
+Polysomnographic features of SRBDs 
+in adults are well established. A decrease 
+in the percentages of various sleep stages 
+and rapid eye movement (REM) secondary 
+to sleep fragmentation caused by arousals 
+that occur in response to obstructive 
+respiratory events have been shown to frequently 
+occur. On the other hand, cognitive 
+impairment and excessive daytime 
+sleepiness have been related to the frequency 
+of arousals.2,3 Clinical and polysomnographic 
+characteristics of children 
+with SRBDs differ notably from those 
+found in adults, with a lower number of 
+respiratory events and a persistent and partial 
+obstructive pattern of the upper airway 
+accompanied by hypercapnia. In ad
+
+
+(REPRINTED) ARCH PEDIATR ADOLESC MED/VOL 157, JULY 2003 WWW.ARCHPEDIATRICS.COM 
+
+649 
+
+
+Downloaded from www.archpediatrics.com on March 4, 2009 
+
+©2003 
+American 
+Medical 
+Association. 
+All 
+rights 
+reserved. 
+
+
+
+dition, cortical arousals at the end of the obstructive event 
+are infrequent in the pediatric population and, therefore, 
+sleep architecture is usually preserved.4 
+
+There is little information regarding SRBDs in adolescents. 
+Normative data on polysomnographic factors 
+in the adolescent age group have been recently reported. 
+These data, however, have been collected from 
+series that used a mixed population sample of children 
+and adolescents5 and in which there were restrictive selection 
+criteria,6 or in which only cardiorespiratory factors 
+of polysomnography were investigated.7 
+
+Because, to our knowledge; no systematic studies 
+assessing the influence of some variables related to SRBDs 
+on sleep architecture in the adolescent age group have 
+been performed, the objective of this study was to evaluate 
+the effect of snoring and obstructive respiratory events 
+on the distribution of sleep stages and arousals in a non-
+selected group of adolescents from the general population. 
+
+
+METHODS
+STUDY 
+DESIGN 
+
+
+This study is the second phase of a cross-sectional study carried 
+out by our group in a population of 246 adolescents of 
+both sexes ranging in age from 11 through 19 years, the 
+results of which have recently been reported.7 In the first 
+phase of this study we investigated a general population 
+sample of 101 adolescents (mean [SD] age, 13.2 [0.8] years) 
+to determine the frequency, symptoms, and polygraphic features 
+of SRBD. A total of 12 schools were randomly selected 
+using the official directory of public and private secondary 
+schools in Seville, Spain. No inclusion or exclusion criteria 
+based on the absence or presence of previous or underlying 
+diseases were established. The study was approved by the 
+institutional review board (Research Ethics board of Virgen 
+del Roci´o University Hospital) and the local educational 
+authorities. Written informed consent was obtained from adolescents 
+who voluntarily agreed to take part and from their 
+parents or legal guardians. In this nonselected group of 
+healthy adolescents, symptoms potentially associated with 
+SRBDs showed a similar frequency to that reported for 
+younger children. Snoring was associated with a higher occurrence 
+of other nocturnal symptoms, a more central pattern of 
+body fat distribution, and a higher respiratory disturbance 
+index compared with nonsnorers. Although polygraphic 
+abnormalities were mild, 2 cases of probable SRBDs were 
+found (prevalence rate, 1.9%). 
+
+The study included the administration of a questionnaire 
+for the investigation of SRBD symptoms. The questionnaire 
+has been described in detail elsewhere.7 Nocturnal and daytime 
+symptoms suggestive of SRBDs were assessed according 
+to a 4-point frequency scale, from “never” to “rarely” (once a 
+week or less), “sometimes” (twice a week), or “often” (thrice 
+a week or more). For this study, snoring was the only nocturnal 
+symptom suggestive of SRBDs analyzed. Snorers answered 
+sometimes or often on the question about snoring, and nonsnorers 
+answered never or rarely. In the second phase of the 
+study, random samples of 40 of 75 snorers and 20 of 171 non-
+snorers were invited for an overnight stay in the sleep laboratory 
+for polysomnography. A final sample of 28 snorers (70%) 
+and 15 nonsnorers (75%) (control group) agreed to participate 
+and underwent full polysomnography. 
+
+POLYSOMNOGRAPHY 
+
+
+The polysomnography consisted of continuous polygraphic recordings 
+for a whole night from 10 PM to 7 AM using standardized 
+equipment (Somnostar 4100; SensorMedics Corporation, 
+Yorba Linda, Calif) from surface leads for electroencephalography 
+(C3/A2, C4/A1, O1/A2, and O2/A1 placements), electrooculography, 
+tibial and submental electromyograms, and electrocardiogram. 
+For respiratory sensors we used nasal and oral 
+signals by thermistors; chest and abdominal effort was measured 
+by 2 belt sensors (piezo-electric gauge; Healthdyne Technologies 
+Inc, Marietta, Ga). Arterial oxygen saturation (SaO2) 
+was recorded by digital pulse oximetry and body position was 
+monitored by the polysomnographic system. Analysis of recordings 
+obtained by polysomnography was performed by an 
+experienced neurophysiologist (G.B.) who was unaware if polysomnograms 
+belonged to a subject in the snoring group or to 
+a control subject. 
+
+Sleep studies were performed according to standards for 
+cardiopulmonary sleep studies in children.8 A complete cessation 
+of oronasal flow (thermistor signal) with continued 
+respiratory efforts of 5 seconds or more was defined as 
+apnea. Hypopnea was defined as a discernible reduction of 
+50% or higher in oronasal flow and reduction in oxygen 
+saturation by at least 4% from baseline. Each 30-second 
+epoch of the recording was scored for sleep stage, breathing, 
+oxygenation, and movement. Sleep data were staged according 
+to the system of Rechtschaffen and Kales.9 An arousal 
+was defined according to the American Sleep Disorders 
+Association10 as a sudden burst of alpha electroencephalographic 
+frequency lasting more than 3 seconds accompanied 
+by concurrent electromyographic activity in REM sleep 
+(Figure). Each arousal was examined to decide whether it 
+was associated with a respiratory event. This was determined 
+by checking for the presence of apnea or hypopnea preceding 
+each arousal. Awakenings were defined as arousals lasting 
+for 30 seconds or longer.11 
+
+The following variables were analyzed: total recording time, 
+total sleep time, sleep efficiency (total sleep time per total recording 
+time), sleep architecture (percentages of sleep stages), 
+number of awakenings, total number of arousals, arousal index 
+(number of arousals per hour of total sleep time), number 
+of respiratory arousals, wakefulness during sleep, apneahypopnea 
+index (AHI) (total number of scored apneas and hypopneas 
+divided by the number of hours of sleep), SaO2 baseline 
+and SaO2 nadir (lowest value during total sleep time), 
+percentage of total recording time with the SaO2 level exceeding 
+90%, and oxygen desaturation index (number of oxygen 
+desaturations per hour). 
+
+STATISTICAL 
+ANALYSIS 
+
+
+Statistical analyses and the calculations were performed using 
+SPSS for Windows, Version 9.0 (SPSS, Chicago, Ill). All results 
+are expressed as mean (SD). The nonparametric Mann-
+Whitney test was used for the comparison of quantitative variables 
+between the groups of snorers vs nonsnorers (controls) 
+as well as between snorers with an AHI of 2 or more vs non-
+snorers with an AHI of less than 2. The strength of the association 
+between variables was assessed by the Pearson correlation 
+coefficient. Statistical significance was set at P.05. 
+
+RESULTS
+The study population consisted of 43 adolescents, 24 
+boys and 19 girls who had a mean (SD) age of 13.6 
+(1.77) years (age range, 11-19 years). There were no 
+
+(REPRINTED) ARCH PEDIATR ADOLESC MED/VOL 157, JULY 2003 WWW.ARCHPEDIATRICS.COM 
+
+650 
+
+
+Downloaded from www.archpediatrics.com on March 4, 2009 
+
+©2003 
+American 
+Medical 
+Association. 
+All 
+rights 
+reserved. 
+
+
+
+C3A2 
+EEG 
+
+
+01A2 
+EEG 
+
+
+C4A1 
+EEG 
+
+
+02A1 
+EEG 
+
+
+EMG 
+Chin 
+
+
+EOG 
+L 
+
+
+EOG 
+R 
+Flow 
+
+
+EEF 
+TOR 
+
+
+EEF 
+ABDN 
+
+
+SaO2 
+
+ECG 
+× 5 30 Epoch 175 Stage 1 
+
+
+Polysomnographic tracing showing 1 arousal (arrow). ECG indicates electrocardiogram; EEFTOR, thoracic effort; EEG, electroencephalogram; EOG, 
+electro-oculogram; and SaO2, arterial oxygen saturation. 
+
+differences between male and female subjects for polysomnographic 
+variables except for total sleep time, 
+which was significantly shorter in girls (343.37 [36.57] 
+minutes) than in boys (375 [71.35] minutes) (P.03) 
+(Table 
+1). 
+
+Results of polysomnography in snorers (n=28) and 
+nonsnorers (n=15) are given in Table 
+2. There were 
+no statistically significant differences between both groups 
+in the percentages of sleep stages, arousal index, awakenings, 
+or wakefulness during sleep. Snorers showed a 
+significantly higher number of respiratory arousals than 
+nonsnorers (1.14 [1.5] vs 0.33 [0.6], P.047). However, 
+neither the AHI nor the oxygen desaturation index 
+correlated with the arousal index. 
+
+Of the total number of 43 adolescents included in 
+the study, there were 12 snorers (27.5%) who had an 
+AHI of 2 or more and 13 nonsnorers (30.2%) with an 
+AHI of less than 2. Snorers with some obstructive respiratory 
+events had a significantly higher number of 
+awakenings, a lower percentage of stage 4 sleep, and a 
+higher number of respiratory arousals compared with 
+nonsnorers with an AHI of less than 2 (Table 
+3). 
+However, the total number of arousals and the arousal 
+index was similar in both groups. Wakefulness during 
+sleep tended to be longer in snorers who had an AHI of 
+2 or more than in nonsnorers who had an AHI of less 
+
+than 2, although differences were not statistically significant. 
+The percentage of respiratory events that terminated 
+with an arousal was greater in snorers who had 
+an AHI of 2 or more than in nonsnorers who had an 
+AHI of less than 2 (8.4% [9.5%] vs 4.9% [11.53%], 
+P.05). 
+
+COMMENT
+In this study we have evaluated the influence of snoring 
+and respiratory events on the distribution of sleep stages 
+and sleep architecture in a nonselected group of adolescents 
+from the general population. In contrast to adults, 
+snorers in the adolescent age group including those with 
+some respiratory events in the polysomnography did not 
+show relevant changes in sleep architecture; however, 
+snorers with polysomnographic abnormalities showed a 
+higher number of arousals associated with respiratory 
+events and a decrease in the percentage of stage 4 sleep 
+compared with nonsnorers. 
+
+For the definition of respiratory events, we used a 
+minimal duration of 5 seconds instead of 10 seconds accepted 
+for adults because in previous studies carried out 
+by our group in children, it was found that this short obstructive 
+event may cause falls in SaO2 levels,12,13 and, thus, 
+are clinically important. The clinical significance of short 
+
+(REPRINTED) ARCH PEDIATR ADOLESC MED/VOL 157, JULY 2003 WWW.ARCHPEDIATRICS.COM 
+
+651 
+
+
+Downloaded from www.archpediatrics.com on March 4, 2009 
+
+©2003 
+American 
+Medical 
+Association. 
+All 
+rights 
+reserved. 
+
+
+
+Table 
+1. 
+Differences 
+in 
+Polysomnographic 
+Variables 
+by 
+Sex* 
+
+
+Male 
+Female 
+Patients 
+Patients 
+P 
+Variables 
+(n 
+= 
+24) 
+(n 
+= 
+19) 
+Value 
+
+
+Total recording time, min 397.00 (36.60) 395.00 (33.64) .98 
+Total sleep time, min 375.00 (71.35) 343.37 (36.57) .03 
+Sleep efficiency, % 91.37 (6.65) 87.26 (9.30) .13 
+Awakenings, No. 2.65 (3.79) 2.37 (3.37) .56 
+Arousal, No. 36.79 (14.74) 30.00 (12.9) .14 
+Arousal index 5.97 (2.30) 5.32 (2.30) .31 
+Respiratory arousals, No. 0.95 (1.60) 1.73 (0.8) .49 
+Wake during sleeping, min 27.71 (24.21) 38.68 (31.34) .32 
+Sleeping stages, % total 
+
+sleep time 
+
+Stage 1 11.33 (9.54) 11.00 (5.73) .65 
+
+Stage 2 43.25 (10.53) 44.63 (9.34) .8 
+
+Stage 3 13.54 (5.88) 11.05 (4.73) .12 
+
+Stage 4 12.17 (8.05) 11.63 (6.16) .78 
+REM, % total sleep time 15.00 (11.91) 11.63 (4.47) .33 
+AHI 1.87 (1.48) 1.81 (1.20) .97 
+Oxygen desaturation index 0.02 (0.08) 0.1 (0.20) .23 
+SaO2 nadir, % 92.3 (2.72) 91.11 (4.71) .52 
+
+Abbreviations: AHI, apnea-hypopnea index; REM, rapid eye movement; 
+SaO2, arterial oxygen saturation. 
+
+*Data are given as mean (SD). Boldfaced P 
+value indicates statistical 
+significance. 
+
+Table 
+2. 
+Comparison 
+of 
+Polysomnographic 
+Variables 
+in 
+Snorers 
+and 
+Nonsnorers* 
+
+
+Snorers 
+Nonsnorers 
+P 
+Variables 
+(n 
+= 
+28) 
+(n 
+= 
+15) 
+Value 
+
+
+Total recording time, min 399.00 (35.81) 390.00 (33.53) .38 
+Total sleep time, min 368.00 (67.03) 348.00 (43.93) .29 
+Sleep efficiency, % 89.67 (8.06) 89.33 (8.51) .89 
+Awakenings, No. 3.04 (4.04) 1.50 (1.95) .18 
+Arousals, No. 34.14 (13.99) 33.13 (15.09) .82 
+Arousal index 5.68 (2.40) 5.69 (2.32) .73 
+Respiratory arousals, No. 1.14 (1.50) 0.33 (0.60) .047 
+Wake during sleep, min 34.57 (29.21) 28.8 (25.45) .52 
+Sleep stages, % total 
+
+sleep time 
+
+Stage 1 10.75 (5.78) 12.00 (11.24) .63 
+
+Stage 2 44.71 (11.09) 42.27 (7.37) .44 
+
+Stage 3 11.96 (5.10) 13.33 (6.23) .44 
+
+Stage 4 10.64 (6.75) 14.33 (7.63) .11 
+REM, % total sleep time 13.07 (5.07) 14.33 (7.63) .68 
+AHI 2.02 (1.31) 1.51 (1.44) .24 
+Oxygen desaturation index 0.03 (0.01) 0.10 (0.22) .98 
+SaO2 nadir, % 91.5 (3.93) 92.40 (3.40) .45 
+
+Abbreviations: AHI, apnea-hypopnea index; REM, rapid eye movement; 
+SaO2, arterial oxygen saturation. 
+
+*Data are given as mean (SD). Boldfaced P 
+value indicates statistical 
+significance. 
+
+apneas also has been emphasized by others.5 We choose 
+to perform the polysomnographic recording using a 
+thermistor for oronasal flow. Although this technique is 
+known to have limitations in detecting obstructive 
+events,14,15 it is relatively noninvasive and, thus, does not 
+disturb sleep. Esophageal probes may measure respiratory 
+effort more accurately, but they significantly interfere 
+with sleep efficiency in the pediatric population.4 
+
+Table 
+3. 
+Comparison 
+of 
+Polysomnographic 
+Variables 
+in 
+Snorers 
+With 
+an 
+AHI 
+of 
+2 
+or 
+More 
+With 
+Nonsnorers 
+With 
+an 
+AHI 
+of 
+Less 
+Than 
+2* 
+
+
+Snorers 
+With 
+Nonsnorers 
+With 
+
+
+an 
+AHI 
+of 
+2 
+an 
+AHI 
+of 
+2 
+P 
+Variables 
+(n 
+= 
+12) 
+(n 
+= 
+13) 
+Value 
+
+
+Total recording time, min 399.54 (35.09) 385.33 (35.44) .4 
+Total sleeping time, min 356.92 (36.92) 351.5 (45.15) .85 
+Sleep efficiency, % 89.46 (6.35) 91.08 (6.96) .34 
+Awakenings, No. 5.23 (4.95) 1.36 (1.57) .02 
+Arousals, No. 36.23 (10.96) 36.17 (13.31) .85 
+Arousal index 6.15 (2.05) 6.13 (1.92) .93 
+Respiratory arousals, No. 1.53 (1.80) 0.25 (0.62) .01 
+Wake during sleep, min 36.62 (28.55) 24.83 (22.91) .09 
+Sleep stages, % total 
+
+sleep time 
+
+Stage 1 10.62 (4.96) 8.92 (3.48) .53 
+
+Stage 2 45.46 (10.52) 42.67 (5.87) .37 
+
+Stage 3 11.69 (5.20) 14.33 (6.62) .43 
+
+Stage 4 12.69 (4.27) 16.42 (6.69) .03 
+REM, % total sleep time 12.69 (4.27) 11.17 (3.64) .32 
+AHI 3.10 (1.08) 0.9 (0.42) .001 
+Oxygen desaturation index 0.03 (0.07) 0.06 (0.17) .93 
+SaO2 nadir, % 90.46 (5.08) 92.5 (3.66) .37 
+
+Abbreviations: AHI, apnea-hypopnea index; REM, rapid eye movement; 
+SaO2, arterial oxygen saturation. 
+
+*Data are given as mean (SD). Boldfaced P 
+values indicate statistical 
+signifance. 
+
+We used an AHI of 2 of more as the cutoff point because 
+the mean value in our series was 1.8 (1.3) (range, 
+0-5.8). Most AHI values were within the range of normal 
+data according to a study carried out by Acebo et al6 
+in which the mean value of the AHI in a healthy adolescent 
+and young adult population was 1.3 (1.3). Our values 
+are slightly higher probably because no inclusion or 
+exclusion criteria were applied in the present study. However, 
+since normative data regarding polysomnographic 
+characteristics in the adolescent age group have not been 
+standardized, decisions for establishing cutoff points are 
+arbitrary. 
+
+In the pediatric population, different criteria for the 
+definition of arousals are used and interpretations regarding 
+normal values and their precise clinical significance 
+are controversial.16 The 2 classifications more widely 
+used are that of Rechtschaffen and Kales9 and that proposed 
+by the American Sleep Disorders Association,10 
+which was the definition used in this study. 
+
+Normal electroencephalographic characteristics in 
+adolescence are not well known, although a few studies 
+have been carried out. Kahn et al17 reviewed the literature 
+and collected data on normal sleep architecture 
+along different developmental stages, from neonates to 
+adolescents, and found that electroencephalographic 
+features of adolescents were similar to those of young 
+adults. Slow wave sleep decreases progressively according 
+to puberal Tanner stages (about 35% decrease from 
+stage 1 to stage 5 sleep). On the other hand, the distribution 
+of REM and non-REM sleep has shown similar 
+values than what is seen in adults, and REM sleep periods 
+are more prolonged during the second half of the 
+night.18 In our series, the percentages of each sleep stage 
+
+(REPRINTED) ARCH PEDIATR ADOLESC MED/VOL 157, JULY 2003 WWW.ARCHPEDIATRICS.COM 
+
+652 
+
+
+Downloaded from www.archpediatrics.com on March 4, 2009 
+
+©2003 
+American 
+Medical 
+Association. 
+All 
+rights 
+reserved. 
+
+
+
+were similar to those reported by other authors in studies 
+of adolescents,6 although the proportion of REM 
+sleep in our study was slightly lower (15% of the total 
+sleep time) compared with results of the study of Acebo 
+et al6 (17.7% of total sleep time). The arousal index was 
+also similar to that reported by others.6 
+
+The mean time of sleep, in our study, was longer 
+than 6 hours, with a mean sleep efficiency of 89%. Boys 
+showed a mean duration of total sleep time slightly higher 
+than girls (375 minutes vs 343 minutes, P=.03), without 
+differences in sleep efficiency. Gau and Soong19 in a 
+large sample of adolescents found a lower number of sleep 
+hours among girls, although no differences were found 
+between both sexes in excessive daytime sleepiness. In 
+our series, no differences in the distribution of sleep stages 
+or in the number of arousals between boys and girls were 
+noted. 
+
+The relationship between SRBDs and sleep architecture 
+in adults is well known. Adults with SRBDs usually 
+present multiple arousals secondary to repetitive increases 
+in respiratory effort during obstructive respiratory 
+events causing sleep fragmentation and a reduction of the 
+percentages of non-REM stages 3 and 4 and REM sleep.20,21 
+Polysomnographic changes in children with SRBDs are 
+different than those found in adults.22 With regard to neurophysiologic 
+factors in children, obstructive respiratory 
+events do not frequently terminate with a cortical 
+arousal and, consequently, sleep architecture is usually 
+preserved.23 In this respect, Goh et al4 carried out a retrospective 
+study of 20 children diagnosed as having obstructive 
+sleep apnea syndrome by standard polysomnography 
+compared with healthy controls. There were 
+no differences in the distribution of sleep stages or in the 
+degree of sleep fragmentation between patients with obstructive 
+sleep apnea syndrome and controls. These results 
+are in accord with other studies in which it has been 
+shown that there are no changes in sleep architecture after 
+adenotonsillectomy in children with obstructive sleep 
+apnea syndrome.24,25 However, in other studies of children 
+with polysomnographic confirmation of obstructive 
+sleep apnea syndrome, a higher number of spontaneous 
+and movement arousals has been reported than seen 
+in controls.26 
+
+In adolescents, the influence of snoring and respiratory 
+events on sleep architecture is unknown. In this 
+series, we have not found important alterations of sleep 
+architecture; the findings from all study subjects indicated 
+that sleep macroarchitecture and microarchitecture 
+were within normal limits. Most obstructive respiratory 
+events did not terminate in a respiratory arousal, 
+which suggests that neurophysiologic response to these 
+events in adolescents from the general population is 
+similar to that already known for younger children.4 
+Snorers and nonsnorers from the adolescent age group 
+had similar polysomnographic characteristics, except 
+for a higher number of respiratory arousals among 
+snorers. These findings suggest that in snorers from the 
+adolescent age group, there may be some episodes of 
+increased resistance of the upper airway that are not 
+detected by the thermistor signal. Snorers with an AHI 
+of 2 also had a higher number of respiratory arousals 
+than controls. Moreover, there were more episodes of 
+
+WhatThisStudyAdds
+It is known that clinical and polysomnographic characteristics 
+of children with SRBDs differ from those found 
+in adults. In adolescents, no systematic studies assessing 
+the influence of snoring and respiratory events on 
+sleep architecture have been performed. Data from this 
+study indicate that adolescents from the general population 
+show a normal sleep architecture and that neurophysiologic 
+response to respiratory events is similar to 
+that already known for younger children. 
+
+awakenings and a slightly lower percentage of non-
+REM stage 4 sleep. This finding would be consistent 
+with what is known for younger children with SRBDs, 
+in which REM sleep tends to be preserved.27 
+
+Data from this study indicate that adolescents from 
+the general population show a normal sleep architecture. 
+Although snorers and adolescents with some polysomnographic 
+abnormalities showed a higher number of 
+respiratory arousals than controls, most obstructive events 
+did not terminate with a cortical arousal, which may suggest 
+that adolescents share with younger children this 
+mechanism for preserving sleep architecture. However, 
+it cannot be discarded that children and adolescents with 
+SRBDs may present subtle electroencephalographic 
+changes that cannot be detected by the standard techniques 
+and conventional criteria used for adults.14,28 It 
+may also be possible that subcortical or autonomic arousals 
+may play an important role as a response to apneic 
+activity in the adolescent population.29 
+
+Finally, adolescents in this study were selected from 
+the general population and showed slight polysomnographic 
+changes, so that it cannot be excluded that patients 
+with severe SRBDs in this age group might experience 
+sleep architecture alterations similar to those 
+reported in adults with SRBDs. 
+
+Accepted 
+for 
+publication 
+February 
+6, 
+2002. 
+
+
+We 
+are 
+grateful 
+to 
+Marta 
+Pulido, 
+MD, 
+for 
+editing 
+the 
+manuscript 
+and 
+for 
+her 
+editorial 
+assistance. 
+
+
+Corresponding 
+author 
+and 
+reprints: 
+Mari´a 
+A. 
+Fuentes-
+Pradera, 
+MD, 
+C/ 
+Cristo 
+de 
+la 
+Sed 
+n° 
+2, 
+2°A, 
+E-41005 
+Sevilla, 
+Spain 
+(e-mail: 
+mangeles@jazzfree.com). 
+
+
+REFERENCES
+1. Espinar-SierraJ.Arousalysurepercusio´nsobrelavigilia. Rev 
+Neurol. 
+1999;28: 
+555-559. 
+2. Berg S, Nash S, Cole P, Hoffstein V. Arousals and nocturnal respiration in symptomatic 
+snorers and nonsnorers. Sleep. 
+1997;20:1157-1161. 
+3. Mathur R, Douglas NJ. Frequency of EEG arousals from nocturnal sleep in normal 
+subjects. Sleep. 
+1995;18:330-333. 
+4. Goh DYT, Galster P, Marcus CL. Sleep architecture and respiratory disturbance 
+un children with obstructive sleep apnea. Am 
+J 
+Respir 
+Crit 
+Care 
+Med. 
+2000;162: 
+682-686. 
+5. Marcus CL, Omlin KJ, Basinki DJ, et al. Normal polysomnographic values for 
+children and adolescents. Am 
+Rev 
+Respir 
+Dis. 
+1992;146:1235-1239. 
+6. Acebo C, Millman RP, Rosenberg C, Cavallo A, Carskadon MA. Sleep, breathing, 
+and cephalometrics in older children and young adults, part 1: normative values. 
+Chest. 
+1996;109:664-672. 
+7. Sa´nchez-ArmengolA,Fuentes-PraderaMA,Capote-GilF,etal.Sleep-relatedbreath(
+REPRINTED) ARCH PEDIATR ADOLESC MED/VOL 157, JULY 2003 WWW.ARCHPEDIATRICS.COM 
+
+653 
+
+
+Downloaded from www.archpediatrics.com on March 4, 2009 
+
+©2003 
+American 
+Medical 
+Association. 
+All 
+rights 
+reserved. 
+
+
+
+ing disorders in adolescents aged 12 to 16 years: clinical and polygraphic findings. 
+Chest. 
+2001;119:1393-1400. 
+
+8. 
+American Thoracic Society. Standards and indications for cardiopulmonary sleep 
+studies in children. Am 
+J 
+Respir 
+Crit 
+Care 
+Med. 
+1996;153:866-878. 
+9. Rechtschaffen A, Kales AA, eds. A 
+Manual 
+of 
+Standardized 
+Terminology 
+Techniques 
+and 
+Scoring 
+System 
+for 
+Sleep 
+Stages 
+of 
+Human 
+Subjects. 
+Washington, 
+DC: Government Printing Office; 1968. NIH Publication 204. 
+10. 
+American Sleep Disorders Association. EEG arousals: scoring rules and examples. 
+Sleep. 
+1992;15:173-184. 
+11. Culebras A. Clinical 
+Handbook 
+of 
+Sleep 
+Disorders. 
+Worburn, Mass: Butterworth-
+Heinemann; 1996. 
+12. Sa´nchez-Armengol A, Capote-Gil F, Cano-Go´mez S, Ayerbe-Garci´a R, Delgado-
+Moreno F, Castillo-Go´mez J. Polysomnographic studies in children with adenotosillar 
+hypertrophy and suspected obstructive sleep apnea. Pediatr 
+Pulmonol. 
+1996;22:101-105. 
+13. Sa´nchez Armengol A, Capote Gil F, Cano Gomez S, Carmona Bernal C, Garci´a 
+Di´az E, Castillo Gomez J. Tratamiento quiru´rgico de la hipertrofia adenoamigdalar 
+en nin˜os contrastornos respiratorios duranteel suen˜o: cambios enel patro´n 
+polisomnogra´fico. Arch 
+Bronconeumol. 
+1997;33:124-128. 
+14. Serebrisky D, Cordero R, Mandeli J, Kattan M, Lamm C. Asseemnt of inspiratory 
+flow limitation in children with sleep-disordered breathing by a nasal cannula 
+pressure transducer system. Pediatr 
+Pulmonol. 
+2002;33.380-387. 
+15. 
+Trang H, Leske V, Gaultier C. Use of nasal cannula for detecting sleep apneas and 
+hypopneas in infants and children. Am 
+J 
+Respir 
+Crit 
+Care 
+Med. 
+2002;166:464-468. 
+16. 
+Mograss MA, Ducharme FM, Brouillette RT. Movement/arousals: description, classification, 
+and relationship to sleep apnea in children. Am 
+J 
+Respir 
+Crit 
+Care 
+Med. 
+1994;150:1690-1696. 
+17. Kahn A, Dan B, Groswasser J, Franco P, Sottiaux M. Normal sleep architecture 
+in infants and children. J 
+Clin 
+Neurophysiol. 
+1996;13:184-197. 
+18. Carroll JL, Loughlin GM. Diagnostic criteria for obstructive sleep apnea syndrome 
+in children. Pediatr 
+Pulmonol. 
+1992;14:71-74. 
+19. 
+Gau SF, Soong WT. Sleep problems of junior high school students in Taipei. Sleep. 
+1995;18:667-673. 
+20. Berry RB, Gleeson K. Respiratory arousal from sleep: mechanism and significance. 
+Sleep. 
+1997;20:654-675. 
+21. Martin SE, Wraith PK, Deary IJ, Douglas NJ. The effect of nonvisible sleep fragmentation 
+on daytime function. Am 
+J 
+Respir 
+Crit 
+Care 
+Med. 
+1997;155:15961601. 
+22. Rosen C, D’Andrea L, Haddad G. Adult criteria for obstructive sleep apnea do 
+not identify children with serious obstruction. Am 
+Rev 
+Respir 
+Dis. 
+1992;146: 
+1231-1234. 
+23. Marcus CL. Sleep-disordered breathing in children. Curr 
+Opin 
+Pediatr. 
+2000;12: 
+208-212. 
+24. Marcus CL, Carroll JL, Koerner CB, Hamer A, Lutz J, Loughlin GM. Determinants 
+of growth in children with the obstructive sleep apnea syndrome. J 
+Pediatr. 
+1994;125:556-562. 
+25. Frank Y, Kravath RE, Pollak CP, Weitzman ED. Obstructive sleep apnea and its 
+theraphy: clinical and polysomnographic manifestations. Pediatrics. 
+1983;71: 
+737-742. 
+26. Scholle S, ZwackaG. Arousals and obstructive sleep apnea syndrome in children. 
+Clin 
+Neurophysiol. 
+2001;112:984-991. 
+27. Marcus CL. Pathophysiology of chilhood obstructive sleep apnea: current concepts. 
+Respir 
+Physiol. 
+2000;119:143-154. 
+28. Bandla HP, Gozal D. Changes in delta wave electroencephalographic activity during 
+REM-associated obstructive sleep apnea events in children. Sleep. 
+1999;22: 
+S125. 
+29. Baharav A, Rubin BK, Pratt J, Akselrod S. Autonomic cardiovascular control in 
+children with obstructive sleep apnea. Clin 
+Auton 
+Res. 
+1999;9:345-351. 
+(REPRINTED) ARCH PEDIATR ADOLESC MED/VOL 157, JULY 2003 WWW.ARCHPEDIATRICS.COM 
+
+654 
+
+
+Downloaded from www.archpediatrics.com on March 4, 2009 
+
+©2003 
+American 
+Medical 
+Association. 
+All 
+rights 
+reserved. 
+
+
+

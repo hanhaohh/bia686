@@ -1,0 +1,742 @@
+Health Care Services Utilization in Children With Obstructive Sleep Apnea 
+Syndrome 
+
+
+Haim Reuveni, Tzahit Simon, Asher Tal, Asher Elhayany and Ariel Tarasiuk 
+Pediatrics 2002;110;68-72 
+DOI: 10.1542/peds.110.1.68 
+
+
+The online version of this article, along with updated information and services, is 
+
+
+located on the World Wide Web at: 
+
+
+http://www.pediatrics.org/cgi/content/full/110/1/68 
+
+
+PEDIATRICS is the official journal of the American Academy of Pediatrics. A monthly 
+publication, it has been published continuously since 1948. PEDIATRICS is owned, published, and 
+trademarked by the American Academy of Pediatrics, 141 Northwest Point Boulevard, Elk Grove 
+Village, Illinois, 60007. Copyright © 2002 by the American Academy of Pediatrics. All rights 
+reserved. Print ISSN: 0031-4005. Online ISSN: 1098-4275. 
+
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+Health Care Services Utilization in Children With Obstructive Sleep 
+Apnea Syndrome 
+
+
+Haim Reuveni, MD*‡§; Tzahit Simon, BA¶; Asher Tal, MD‡§; Asher Elhayany, MD*‡; and 
+Ariel Tarasiuk, PhD‡. 
+
+
+ABSTRACT. Objective. Little is known about the effects 
+of obstructive sleep apnea syndrome (OSAS) on 
+utilization of health care services in children. The present 
+study compares medical service utilization by children 
+with OSAS with that of healthy children. 
+
+Methods. A cross-sectional study of 287 consecutively 
+recruited children (1–18 years) with OSAS and no concomitant 
+diseases and a control group matched by age, 
+gender, and geographic location was conducted at the 
+Clalit Health Care Services clinic in the southern region 
+of Israel. Children in the study group underwent nocturnal 
+polysomnography (PSG) studies. The control group 
+(N . 
+1149) was randomly selected from the Clalit Health 
+Care Services database. PSG was performed for the 
+OSAS patients. Indices of health care utilization 1 year 
+before the PSG study were analyzed. 
+
+Results. A 226% increase in health care utilization 
+was noted among children with OSAS. Children up to 5 
+years of age consumed more health care resources than 
+children over 5 years. Children with OSAS consumed 
+more health care services than the control group at all 
+ages. The leading components of this high cost are utilization 
+of more hospital days, drugs, and visits to the 
+emergency department. The severity of the OSAS correlates 
+directly to total annual costs and independently to 
+age (. 
+0.19). 
+
+Conclusions. Children with OSAS are heavy consumers 
+of health care services 1 year before any specific 
+evaluation and treatment for apnea. Early diagnosis and 
+intervention may be cost-effective. Pediatrics 2002;110: 
+68–72; children, costs, heath care utilization, obstructive 
+sleep apnea syndrome. 
+
+ABBREVIATIONS. OSAS, obstructive sleep apnea syndrome; 
+T&A, adenotonsillectomy; CHS, Clalit Health Care Services; PSG, 
+polysomnographic; EEG, electroencephalogram; ED, emergency 
+department; RDI, respiratory disturbances index; SEM, standard 
+error of the mean. 
+
+O
+O
+bstructive sleep apnea syndrome (OSAS) in 
+children may be associated with recurrent 
+respiratory tract infections, growth failure, 
+cor pulmonale, secondary enuresis, behavioral and 
+
+From the *Department of Health Policy and Management and ‡Faculty of 
+Health Sciences, Ben-Gurion University of the Negev, Beer-Sheva, Israel; 
+§Department of Pediatrics and Physiology and Sleep Disorders Center, 
+Soroka University Medical Center, Beer-Sheva, Israel; and ¶Department of 
+Economics and Statistics, Clalit Health Care Services, Beer-Sheva, Israel. 
+Received for publication Sep 4, 2001; accepted Jan 8, 2002. 
+Address correspondence to Ariel Tarasiuk, PhD, Department of Physiology, 
+Faculty of Health Sciences, Ben-Gurion University of the Negev, Box 105, 
+Beer-Sheva 84105, Israel. E-mail: reuveni@bgumail.bgu.ac.il 
+PEDIATRICS (ISSN 0031 4005). Copyright © 2002 by the American Academy 
+of Pediatrics. 
+
+
+neurocognitive problems, growth retardation, and 
+poor school achievement.1– 6 The prevalence of OSAS 
+in children is estimated to be 1% to 2%.1,7 The most 
+common cause of OSAS in children is adenotonsillar 
+hypertrophy; adenotonsillectomy (T&A) is the treatment 
+of choice.8 
+
+Recent evidence9 –11 demonstrated that adults with 
+OSAS are massive consumers of health care services, 
+including higher admission rates and longer lengths 
+of stay in hospitals,12 with a 2-to 3.5-fold increase 
+compared with healthy subjects years before their 
+apnea is diagnosed in sleep laboratories. This elevation 
+of health care consumption was related to cardiovascular 
+morbidity, obesity, and, most likely, risk 
+factors that predispose to OSAS, such as alcohol use, 
+caffeine, and tobacco use.9,12 Adequate treatment by 
+continuous positive airway pressure, which is the 
+treatment of choice, reduces health care utilization11–
+13 and improves quality-adjusted life years.14 
+
+A recent state-of-the-art publication on sleep disorder 
+breathing in children1 did not emphasize the 
+effect of OSAS on the health care system. We hypothesized 
+that because of the associated morbidity, 
+health care utilization by these children would be 
+higher. In the present study, we compared the utilization 
+of medical resources of children with OSAS to 
+a matched healthy control group. 
+
+METHODS 
+
+Subjects 
+
+All children are members of Clalit Health Care Services (CHS), 
+the largest health maintenance organization in Israel. All children 
+who participated in the study were from the Negev, the southern 
+region of Israel. This region includes approximately 450 000 CHS 
+enrollees, 20% of whom are of Bedouin origin. All families of 
+included children had been permanent residents of the region for 
+at least 3 years before study initiation. 
+
+We compared health care utilization between “typical” OSAS 
+and control patients. We excluded children who exhibited extreme 
+consumption of health care services, ie, 10 times the mean values 
+of their group. This excluded 3 children from the OSAS group and 
+none from the control group. 
+
+The study group included all children who were ages 1 to 18 
+years and referred to the Sleep-Wake Disorder Unit in the Soroka 
+University Medical Center in Beer-Sheva for evaluation of OSAS. 
+Children were recruited consecutively during the period of August 
+1998 through August 2000. We excluded children younger 
+than 1 year and those with additional chronic morbidity. 
+
+The control group was matched to the OSAS group by age, 
+gender, and area of residence (to adjust for socioeconomic factors). 
+Four control subjects with no documentation for concomitant 
+chronic disease were randomly selected for each OSAS patient 
+(using Microsoft Access; Microsoft Corp, Redmond, WA) from the 
+regional CHS database (containing 126 357 enrollees). We con
+
+
+68 PEDIATRICS Vol. 110 No. 1 July 2002
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+firmed that the control group was healthy by verifying that they 
+did not receive any long-term medication. 
+
+Polysomnographic Evaluation 
+
+The Sleep-Wake Disorder Unit in the Soroka University Medical 
+Center is the only such center for children in the Negev. All 
+children underwent nocturnal polysomnographic (PSG) monitoring 
+(SensorMedics Inc, Yorba Linda, CA).15 
+
+Subjects reported to the sleep laboratory at 8:30 pm and were 
+discharged at 7:30 am the next morning. They were encouraged to 
+maintain their usual daily routine and take medications as usual. 
+
+Overnight PSG monitoring was performed as follows. Two 
+silver-silverchloride electroencephalogram (EEG) electrodes filled 
+with electrolyte were applied to the C3 and C4 locations, and 
+reference electrodes were attached behind the ears in the left (A1) 
+and right (A2) mastoid areas. Two electromyographic electrodes 
+were applied over the submental muscles. Two electro-oculographic 
+electrodes were applied 1 cm above the outer canthus of 
+1 eye and 1 cm below the outer canthus of the other eye. The 
+montage arrangement for PSG reading consisted of C3A2 and 
+O2A1, 2 electro-oculographic, and electrocardiogram (modified V2 
+lead). Nasal airflow was monitored by a pressure transducer 
+(RespSponse; Synectics Sleep Inc, Stockholm, Sweden); thoracic 
+and abdominal movements were monitored by strain gauge electrodes; 
+and hemoglobin oxygen saturation was monitored by 
+pulse oximetry (Ohmeda 4700, Madison, WI). Sleep/wake sleep 
+stages,16 arousals, and awakenings were scored as recommended 
+with the appropriate modifications for children, 3,17,18 and obstructive 
+apneic and hypopneic events7 were recorded. 
+
+Health Care Utilization 
+
+The CHS billing system records 95% of all medical expenditures 
+of the health maintenance organization. All costs were collected 
+for each child in the 12-month period before the PSG 
+evaluation. The costs of the PSG, as well as direct or indirect costs 
+resulting from the PSG study, were not included in the study. 
+
+Cost indicators include 1) number of hospitalization days, 
+number of pediatric “day hospital” visits (24-hour admission), 
+and number of emergency department (ED) visits; 2) number of 
+(new and repeated) visits to the primary care physician and specialist; 
+3) drugs prescribed (type and cost for each drug; all prescribed 
+drugs are categorized according to World Health Organization 
+recommendation19); and 4) diagnostic tests. We defined 
+“total annual cost” as the sum of the costs for all indicators. Costs 
+are expressed as the mean per patient per year in US dollars 
+according to the price list published by the Israeli Ministry of 
+Health. The exchange rate was NIS4.1 per 1 US dollar. Values were 
+adjusted for inflation. 
+
+Data Analysis 
+
+Cost data were analyzed according to previously reported recommendations20 
+using SPSS software (SPSS, Inc, Chicago, IL). 
+Population t test was used to determine differences in respiratory 
+and sleep parameters between children 5 years and 5 years. 2 
+test was used to confirm “population match” between the control 
+and OSAS population in relation to gender and age. Two-way 
+analysis of variance was used to determine the significance of total 
+annual costs in children 5 and 5 years in the OSAS and control 
+populations. Stepwise multiple linear regression tests were performed 
+to analyze the effects of respiratory disturbances index 
+
+(RDI), age, and arousal index on total annual costs. Mann-Whitney 
+test was used to determine statistical significance of cost elements. 
+Data were presented as mean . 
+standard deviation for all sleep 
+parameters (Table 1) and as mean . 
+standard error of the mean 
+(SEM) for costs; statistical significance was accepted when P . 
+.05. 
+The Ethics Committee of Ben-Gurion University of the Negev 
+approved this study. 
+
+RESULTS 
+
+Population Characteristics 
+
+A total of 287 children with a mean age of 5.7 . 
+3.7 
+years (male/female: 106/186) were referred for PSG 
+evaluation. We excluded 50 children who had 
+known comorbidity. The control population included 
+1149 children matched (2 test) for age and 
+gender (mean age: 5.7 . 
+3.5 years; male/female: 
+426/726). 
+
+The OSAS population (Table 1) had an average 
+RDI of 7.9 . 
+9.5 events/h, compatible with OSAS of 
+moderate severity.21 RDI was higher (P . 
+.05) in 
+children up to age 5. As expected, RDI during rapid 
+eye movement sleep was higher. As a group, children 
+with OSAS did not present evidence of significant 
+nocturnal hypoxemia but demonstrated a significantly 
+higher number of arousals. RDI severity 
+was comparable between boys and girls. 
+
+Health Care Utilization 
+
+Health care utilization (Fig 1) among the OSAS 
+population was 226% (P . 
+.001) higher than in the 
+control population. Table 2 summarizes the mean 
+cost elements per patient per year before the PSG 
+study. Patients with OSAS had an average of 0.1 new 
+admissions per year compared with 0.06 new admissions 
+(P . 
+.05) in the control group. Mean number of 
+hospitalization days was also higher in the OSAS 
+population compared with control (0.23 vs 0.16 days, 
+respectively; P . 
+.05). Number of pediatric day hospital 
+visits in the OSAS group was considerably 
+higher as compared with the control group (0.06 vs 
+
+0.03 days; P . 
+.05). However, no differences in cost 
+per day were found in pediatric day hospital visits 
+between the 2 groups. 
+Children with OSAS had considerably more visits 
+to the ED compared with the control group (0.54 vs 
+
+0.24 days, respectively; P . 
+.05). The OSAS group 
+needed more consultations (2 visits) than the control 
+group (67% vs 19%; P . 
+.05). 
+Common consultations in the OSAS group included 
+ears, nose, and throat surgeons for 210 children 
+(69.7%), pediatric pulmonologists for 43 chil-
+
+TABLE 1. Respiratory and Sleep Parameters in the Children With OSAS 
+
+Parameter Entire OSAS 5Y 5Y 
+Population (n . 
+157) (n . 
+130) 
+(n . 
+287) 
+
+RDI (events/h) 7.9 . 
+9.5 8.9 . 
+10.5 6.8 . 
+7.9* 
+RDI-REM (events/h) 12.6 . 
+17.1 14.3 . 
+13.0 10.9 . 
+16.7 
+T90 (%) 0.8 . 
+3.2 1.0 . 
+3.5 0.6 . 
+3.0 
+TST (min) 381 . 
+39 385 . 
+38 377 . 
+39 
+Arousal index (events/h) 21.8 . 
+11.5 21.1 . 
+11.3 22.5 . 
+11.6 
+
+RDI-REM indicates RDI during rapid eye movement sleep; T90, % sleep time with saturation below 
+90%; TST, total sleep time; arousal index, number of arousal events per hour of sleep. Values are 
+mean . 
+standard deviation (SD); values were compared using a population t test. 
+
+* P . 
+.0578 comparing 5yto 5y. 
+ARTICLES 69
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+Fig 1. Total annual costs in OSAS children and control children. 
+Costs are mean SEM 1 year before OSAS diagnosis. N 1149 for 
+the control group; N 287 for the OSAS group. Values are per 
+patient per year in US dollars; *P .0001, Mann-Whitney test. 
+
+
+dren (15%), and ophthalmologists for 43 children 
+(15%). Other consultations included neurologists, 
+cardiologists, dermatologists, and orthopedic surgeons 
+(27 children [10%] for each specialty). The 
+control population had significantly lower visit rates 
+to specialists: 138 children (12%) to ears, nose, and 
+throat surgeons, and 103 children (9%) to ophthalmologists; 
+all other specialists had 1% to 5% referrals 
+per specialty. 
+
+The main diagnostic tests for OSAS patients included 
+facial sinus radiographs in 147 children 
+(51%), chest radiographs in 44 children (15%), hearing 
+tests in 32 children (11%), tympanometry in 15 
+children (5%), and EEG in 12 children (4%). The 
+control group had chest radiographs in 59 children 
+(5%), radiograph of the facial sinuses in 32 children 
+(3%), audiometry in 25 children (2%), tympanometry 
+in 12 children (1%), and EEG in 7 children (0.6%). 
+The cost of imaging and diagnostic tests for children 
+with OSAS was significantly higher as compared 
+with the controls (P .001). 
+
+The following pharmacological groups accounted 
+for 80% of the cost for prescribed drugs: respiratory 
+
+TABLE 2. Cost Elements for All Subjects 1 Year Before Diagnosis 
+
+
+Parameter Control OSAS 
+(n 1149) (n 287) 
+Hospitalization 57.6 10 88.0 19* 
+Day hospital 7.9 2 8.7 4 
+ED (visits) 25.4 2 55.1 5* 
+Consultations (n) 17.8 1.5 70.5 8* 
+Procedures (n) 5.5 0.7 24.4 3* 
+Drugs 14.3 1 43.1 5* 
+Total costs 128.4 11 289.7 26* 
+
+Values are costs of the services per patient per year in US dollars; 
+and are presented as mean SEM. 
+
+* P .0001, Mann-Whitney test. 
+system drugs (4.6-fold greater in the OSAS group 
+[P .05]); general anti-infective drugs for systemic 
+use (2.4-fold greater in the OSAS group [P .05]); 
+dermatologicals (2.1-fold greater in the OSAS group 
+[P .05]), and various other drugs (14.6-fold greater 
+in the OSAS group [P .05]). The cost of the prescribed 
+drugs was 301% (P .0001) higher in the 
+OSAS group compared with the control group (Table 
+2). 
+
+An analysis of distribution of RDI and total annual 
+cost according to the number of subjects, by year of 
+life, is presented in Table 3. A total of 236 of the 287 
+children (82%) with OSAS included in the present 
+study were in the 1-to 8-year-old age range. Between 
+2 and 7 years of age, the distribution of the number 
+of children who underwent PSG study was roughly 
+the same. OSAS severity according to RDI was the 
+same for this age range. There was a significant 
+linear correlation between the age of the children and 
+total annual costs for both the OSAS and control 
+groups (. 
+0.23, P .002). However, the OSAS 
+group had significantly higher costs (P .001) compared 
+with the control group, for all ages in the 1-to 
+8-year-old range (Table 3). 
+
+Costs, Age, Ethnicity, and RDI 
+
+The leading elements of cost that explain the differences 
+between children 5 years compared with 
+children 5 years are summarized in Table 4. In both 
+groups, we found that children 5 years consume 
+more health care resources (P .001, 2-way analysis 
+of variance) compared with children 5 years (Fig 2). 
+Children 5 years had more hospitalization days, 
+had more visits to the ED, and received more prescriptions 
+for more drugs. 
+
+Total annual costs for the entire OSAS population 
+was found to correlate with age but not with ethnic 
+group or arousal index. Additional analysis (Table 5) 
+by a split multiple stepwise multiple linear regression 
+(children up to and above the age of 5 years) 
+revealed that OSAS severity, as calculated by RDI 
+but not arousal index, correlated independently to 
+the total annual costs only for children 5 years. For 
+children 5 years, no correlation was found between 
+total annual cost and RDI or arousal index. 
+
+DISCUSSION 
+
+In the present study, we demonstrated that children 
+with OSAS are heavy consumers of health care 
+resources. The main elements that affect this high 
+consumption of health services are hospitalization 
+rates, visits to the ED, and specialists and drugs 
+issued. Children who are 5 years and have OSAS 
+are higher consumers of health care services than are 
+children who are 5 years and the control group. In 
+children 5 years, RDI correlated to the total annual 
+costs. 
+
+Several lines of evidence support our premise that 
+the information presented in this study reflects the 
+“true” consumption of health care resources of children 
+with OSAS. First, all PSG and the relevant medical 
+information regarding OSAS patients are stored 
+in the only Sleep-Wake Disorder Center in the study 
+region. Second, CHS uses 1 billing system located in 
+
+70 HEALTH CARE USE IN CHILDREN WITH OBSTRUCTIVE SLEEP APNEA SYNDROME
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+TABLE 3. Distribution of RDI and Total Annual Costs for Each Year of Life According to the Number of Children 
+Parameter Group Age (Years) 
+1 2 3 4 5 6 7 8 
+n Control 84 216 156 84 120 126 96 54 
+OSA 16 46 41 26 32 35 25 15 
+RDI (events/h) OSA 8.0 6 8.5 9 12.3 18 9.3 15 8.1 9 7.4 7 7.4 9 7.0 5 
+Annual costs US dollars Control 232 42 127 17 83 18 136 35 106 25 49 9 89 17 73 29 
+(mean SE) OSA 331 64* 423 62† 259 53† 292 63† 199 5† 245 66† 175 32 91 20* 
+
+Annual cost the total of the costs for all services; values are mean SD for the RDI and SEM for total annual cost. 
+
+* P .05. 
+† P .01. 
+the regional Department of Health Economics. Third, 
+equal access to medical services is provided to all 
+children according to the national health care law 
+implemented in January 1995. Finally, physicians are 
+paid a capitation fee once every 3 months per patient 
+and therefore do not have any economic incentive to 
+increase consumption of services. 
+
+Our data may be difficult to compare with those 
+from other health care systems that have more than 1 
+payer. We believe that our data can be compared 
+with recently published9–11 reports from Manitoba, 
+Canada, where they demonstrated higher health care 
+service utilization in adults with OSAS. 
+
+The present study demonstrates results for “typical” 
+children with OSAS because we excluded 3 children 
+who showed a 10-fold increase in health care 
+utilization. The control population was matched by 
+age, gender, and settlement location (to control for 
+socioeconomic factors); thus, we compared patients 
+matched to general population controls. The control 
+group was selected randomly from a database containing 
+information about chronic diseases and/or 
+prescribing medications for chronic conditions. We 
+do not have medical information on the control 
+group. It is possible that 1% to 2% of the control 
+population might have undiagnosed OSAS. With 
+this in mind, our control population was 4 times 
+larger than the group with OSAS. 
+
+Health care utilization in adults with OSAS is related 
+to risk factors that predispose to OSAS, such as 
+obesity, alcohol use, caffeine and tobacco consumption, 
+and comorbidity, eg, cardiovascular complications 
+and hypertension.9,12 In the current study, the 
+elevation of health care consumption is most likely 
+related to the associated morbidity in children with 
+OSAS. We assume that recurrent respiratory tract 
+infections were the main problem, but additional 
+investigation of the patient complaints that led to ED 
+visits is required. Our database for the present study 
+did not include this type of information. 
+
+This study was designed to compare the cost of 
+
+TABLE 4. Effects of Age on Health Care Utilization 
+
+Parameter Control OSAS 
+n 1149 P Value n 287 P Value 
+
+Hospitalization 1.9 .003 2.7 .025. 
+ED 1.3 .019 2.3 .003. 
+Drugs 2.3 .001 1.9 .001 
+
+Values are ratios of costs for children 5y/5 y. Mann-Whitney 
+U test; 0.05 control group versus OSAS group. 
+
+medical services for children with OSAS with 
+matched controls. Several findings within the patient 
+group warrant elaboration. We found that children 
+
+5 years have more severe OSAS (higher RDI) than 
+children 5 years. This can be explained by the fact 
+that occurrence of adenotonsillar hypertrophy peaks 
+between ages 3 and 6.1,22 In addition, in children 5 
+years, health care utilization was maximal. The main 
+factors in elevated total annual costs in children who 
+are 5 years and have OSAS are inpatient admissions 
+and visits to the ED. These 2 cost indicators 
+may reflect severe morbidity, are mainly induced by 
+physicians, and can serve as “objective” indicators to 
+identify patients with high morbidity. Inpatient admissions, 
+visits to the ED, and prescription drugs 
+represent 50% of total annual costs of OSAS patients. 
+It is interesting that the amount of sleep fragmentation 
+(high number of arousals) does not affect costs. 
+Additional research is planned to identify information 
+in the medical diagnoses that influence admissions, 
+visits to the ED, and drug consumption by 
+children with OSAS. 
+Preliminary results from our laboratory on 70 children 
+who had OSAS and underwent T&A revealed a 
+
+Fig 2. The effect of age on total annual costs. Costs are mean 
+SEM 1 year before OSAS diagnosis. Values are per patient per year 
+in US dollars. 
+
+
+ARTICLES 71
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+TABLE 5. Determinants of Total Annual Costs 
+4. Gozal D. Sleep-disordered breathing and school performance in chil-
+
+Parameter . 
+P Value 
+Entire OSAS population (n . 
+287) 
+Age (y) 0.17 .007 
+Ethnic (Bedouin/non-Bedouin) 0.02 .70 
+Arousal index (events/h) 0.02 .77 
+5y(n . 
+157) 
+RDI (events/h) 0.19 .04 
+Arousal index (events/h) 0.04 .66 
+5y(n . 
+130) 
+RDI (events/h) 0.08 .38 
+Arousal index (events/h) 0.02 .83 
+
+For predicting total annual cost, stepwise multiple linear regression 
+was performed. . 
+is the weight of the independent variable 
+on the total annual costs. 
+
+20% decrease (P . 
+.05) in total annual cost within the 
+following year.23 These results are part of an ongoing 
+study on children who underwent T&A. This study 
+will follow children for up to 3 years to investigate 
+the effect of intervention on costs and quality of life. 
+OSAS is a chronic condition in children and adults. 
+Chronic disorders consume most of the health care 
+resources; therefore, decision makers should prioritize 
+early OSAS diagnosis and treatment.14,24 A better 
+understanding of OSAS in children may necessitate 
+a change in our approach to treatment, for 
+example, defining better timing for PSG evaluation 
+and T&A. This in turn may provide better medical 
+and cost outcomes. 
+
+CONCLUSION 
+
+We found that children with OSAS are heavy consumers 
+of health care services 1 year before PSG 
+evaluation. The consumption of health care services 
+was greater in children 5 years and in direct correlation 
+to the severity of OSAS. Additional research is 
+needed to determine the proper timing for diagnosis 
+and intervention relative to quality of life and cost-
+effectiveness. 
+
+REFERENCES 
+
+1. Marcus CL. Sleep disordered breathing in children. Am J Respir Crit Care 
+Med. 2001;164:16 –30 
+2. Ali NJ, Pitson D, Stardling JR. Sleep disordered breathing: effect of 
+adenotonsillectomy on behaviour and psychological functioning. Eur 
+J Pediatr. 1996;155:56 –62 
+3. Bar A, Tarasiuk A, Segev Y, Phillip M, Tal A. The effect of adenotonsillectomy 
+on serum insulin-like growth factor-I and growth in children 
+with obstructive sleep apnea syndrome. J Pediatr. 1999;135:76 –80 
+dren. Pediatrics. 1998;102:616 –620 
+
+5. Gozal D, Pope DW Jr. Snoring during early childhood and academic 
+performance at ages thirteen to fourteen years. Pediatrics. 2001;107: 
+1394–1399 
+6. Tal A, Leiberman A, Margulis G, Sofer S. Ventricular dysfunction in 
+children with obstructive sleep apnea: radionuclide assessment. Pediatr 
+Pulmonol. 1988;4:139 –143 
+7. Standards and indications for cardiopulmonary sleep studies in children. 
+The official statement of the American Thoracic Society. Am J 
+Respir Crit Care Med. 1996;153:866 –878 
+8. Suen JS, Arnold JE, Brooks LJ. Adenotonsillectomy for treatment of 
+obstructive sleep apnea in children. Arch Otolaryngol Head Neck Surg. 
+1995;121:525–530 
+9. Kryger HM, Roos L, Delaive K, Walld R, Horrocks J. Utilization of 
+health care services in patients with severe obstructive sleep apnea. 
+Sleep. 1996;19(suppl):111–116 
+10. Ronald J, Delaive K, Roos L, Manfreda J, Bahammam A, Kryger M. 
+Health care utilization in the 10 years prior to diagnosis in obstructive 
+sleep apnea syndrome patients. Sleep. 1999;22:225–229 
+11. Bahammam A, Delaive K, Ronald J, Manfreda J, Roos L, Kryger MH. 
+Health care utilization in males with obstructive sleep apnea syndrome 
+two years after diagnosis and treatment. Sleep. 1999;22:740 –747 
+12. Peker Y, Hedner J, Johansson A, Bende M. Reduced hospitalization with 
+cardiovascular and pulmonary disease in obstructive sleep apnea patients 
+on nasal CPAP treatment. Sleep. 1997;20:645–654 
+13. Fischer J, Raschke F. Economic and medical significance of sleep-related 
+breathing disorders. Respiration. 1997;64:39 –44 
+14. Chervin RD, Murman DL, Malow BA, Totten V. Cost-utility of three 
+approaches to the diagnosis of sleep apnea: polysomnography, home 
+testing, and empirical therapy. Ann Intern Med. 1999;130:496 –505 
+15. Zamir G, Press J, Tal A, Tarasiuk A. Sleep fragmentation in children 
+with juvenile rheumatoid arthritis. J Rheumatol. 1998;25:1191–1197 
+16. Rechtschaffen A, Kales A. A Manual of Standardized Terminology: Techniques 
+and Scoring System for Sleep Stages of Human Subjects. Washington, 
+DC: US Public Health Service; 1968 
+17. American Sleep Disorders Association. EEG arousals: scoring rules and 
+examples. Sleep. 1992;15:173–184 
+18. Mograss MA, Ducharme FM, Broillette RT. Movements/arousals. Description, 
+classification, and relationship to sleep apnea in children. 
+Am J Respir Crit Care Med. 1994;150:1690 –1696 
+19. World Health Organization. Collaborating Center for Drug Statistic Methodology 
+Guidelines for ATC Classification and DDD Assignment. Oslo, 
+Norway: WHO Publication Center; 2000 
+20. Thompson SG, Barber J. How should cost data in pragmatic randomized 
+trials be analyzed? BMJ. 2000;320:1197–1200 
+21. Goh DYT, Galster P, Marcus CL. Sleep architecture and respiratory 
+disturbances in children with obstructive sleep apnea. Am J Respir Crit 
+Care Med. 2000;162:682–686 
+22. Marcus CL, Carroll JL. Obstructive sleep apnea syndrome. In: GM 
+Loughlin, H Eigen, eds. Respiratory Disease in Children: Diagnosis and 
+Management. 1st ed. Baltimore, MD: Williams & Wilkins; 1994:475–499 
+23. Tarasiuk A, Simon T, Tal A, Elhayany A, Reuveni H. Health 
+care 
+consumption in children with OSAS. In: Proceedings of the 4th Israeli 
+Sleep Society Annual Meeting; May 8, 2001; Haifa, Israel 
+24. Cost justification for diagnosis and treatment of obstructive sleep apnea. 
+Position statement of the American Academy of Sleep Medicine. Sleep. 
+2000;23:1017–1018 
+72 HEALTH CARE USE IN CHILDREN WITH OBSTRUCTIVE SLEEP APNEA SYNDROME
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+Health Care Services Utilization in Children With Obstructive Sleep Apnea 
+Syndrome 
+
+
+Haim Reuveni, Tzahit Simon, Asher Tal, Asher Elhayany and Ariel Tarasiuk 
+Pediatrics 2002;110;68-72 
+
+
+DOI: 10.1542/peds.110.1.68 
+& Services 
+Updated Information 
+http://www.pediatrics.org/cgi/content/full/110/1/68 
+including high-resolution figures, can be found at: 
+References 
+http://www.pediatrics.org/cgi/content/full/110/1/68#BIBL 
+at: 
+This article cites 17 articles, 7 of which you can access for free 
+Citations 
+http://www.pediatrics.org/cgi/content/full/110/1/68#otherarticles 
+This article has been cited by 15 HighWire-hosted articles: 
+Subspecialty Collections 
+http://www.pediatrics.org/cgi/collection/office_practice 
+Office Practice 
+following collection(s): 
+This article, along with others on similar topics, appears in the 
+Permissions & Licensing 
+http://www.pediatrics.org/misc/Permissions.shtml 
+tables) or in its entirety can be found online at: 
+Information about reproducing this article in parts (figures, 
+Reprints 
+http://www.pediatrics.org/misc/reprints.shtml 
+Information about ordering reprints can be found online: 
+
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+

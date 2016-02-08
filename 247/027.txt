@@ -1,0 +1,883 @@
+Original Article
+
+J Bras Pneumol. 2007;33(1):62-68
+
+The effect of adenotonsillectomy on oxygen saturation
+in children with sleep-disordered breathing*
+
+Jaime Luís Freitas Arrarte1, José Faibes Lubianca Neto2, Gilberto Bueno Fischer3
+
+Abstract
+
+Objective: To evaluate the effect of adenotonsillectomy on oxygen saturation measured through nocturnal pulse oximetry in children 
+with sleep-disordered breathing. Methods: A pre- and post-intervention study was carried out using nocturnal pulse oximetry. The study 
+involved 31 children who were suspected of having sleep-disordered breathing and had been referred for adenotonsillectomy. Results: A 
+total of 27 children completed the study. The mean age was 5.2 ± 1.8 years, and 18 (66.7%) of them were male. Upon physical examination, 
+23 (85.2%) of the children presented class III or class IV hyperplasia of the palatine tonsils. There was significant improvement in the post-
+operative period over the pre-operative period in terms of the oxygen desaturation rate (OR = 0.65; 95% CI: 0.5–1.3 vs. OR = 1.63; 95% 
+CI: 1.1–2.4; p < 0.001). Conclusion: Adenotonsillectomy significantly improved oxygen saturation, as measured through nocturnal pulse 
+oximetry, in children with sleep-disordered breathing.
+
+Keywords: Sleep apnea obstructive; Tonsillectomy; Oximetry; Child.
+
+* Study carried out at the Santo Antônio Children’s Hospital of the Santa Casa Hospital Complex in Porto Alegre (SP) Brazil.
+
+1. Masters student in Pediatrics at the Federal University of Rio Grande do Sul (UFRGS, School of Medicine) – Porto Alegre (RS) Brazil.
+
+2. Adjunct Professor of Otorhinolaryngology at the Fundação Faculdade Federal de Ciências Médicas de Porto Alegre (FFFCMPA, Federal Foundation School of 
+Medical Sciences of Porto Alegre) – Porto Alegre (RS) Brazil.
+
+3. Full Professor of Pediatrics at the Fundação Faculdade Federal de Ciências Médicas de Porto Alegre (FFFCMPA, Federal Foundation School of Medical Sciences 
+of Porto Alegre) – Porto Alegre (RS) Brazil.
+
+Correspondence to: Jaime Luís Freitas Arrarte. Rua 13 de maio, 581/803, Centro, CEP 95700-000, Bento Gonçalves, RS, Brasil. 
+
+Phone 55 54 452-7670. E-mail: macjames@terra.com.br
+
+Submitted: 22/6/ 2005. Accepted, after review: 3/5/2006.
+
+
+
+The effect of adenotonsillectomy on oxygen saturation in children with sleep-disordered breathing
+
+63
+
+J Bras Pneumol. 2007;33(1):62-68
+
+Introduction
+
+The association between behavior/learning 
+disorders and sleep disorders has been known for 
+approximately 100 years.(1) In the last 30 years, several 
+sleep-related diseases have been defined as a result 
+of the monitoring of vital signs during sleep. Among 
+those, sleep-disordered breathing (SDB) encompasses 
+a wide spectrum of conditions presenting 
+varying degrees of airway obstruction during sleep, 
+ranging from primary snoring to partial or complete 
+obstruction of the upper airways, known as obstructive 
+sleep apnea-hypopnea syndrome (OSAHS). In 
+the general population, OSAHS is one of the most 
+prevalent SDB conditions, affecting adults as well 
+as children. However, OSAHS seams to be different 
+in children than in adults in many aspects, especially 
+those related to congenital, neurological, and 
+anatomical changes.(2,3)
+
+SDB conditions have an important effect on the 
+quality of life of affected children. In a study evaluating 
+61 children with OSAHS, diagnosed through 
+the use of polysomnography, a standard quality of 
+life questionnaire, known as the OSA-18, was used.(4) 
+Based on this questionnaire, the authors found the 
+impact of OSAHS to be minimal in 20 children (33%), 
+moderate in 19 (31%), and considerable in 22 (36%). 
+There was a significant correlation between OSA-18 
+scores and the apnea-hypopnea index, even when 
+adjusted for confounding factors in a multiple linear 
+regression model (r = 0.5, p = 0.007). In 2003, 
+another group of authors evaluated the impact of 
+adenotonsillectomy using the same questionnaire 
+in a cohort of 54 children. The size of the effect 
+(mean of the standardized response) on the questionnaire 
+score (before and after surgery) was 1.54 
+(95% CI: 1.26–1.82), an effect equal to or greater 
+than 0.8 being considered significant.(5)
+
+Due to the positive response to the surgical treatment, 
+together with the relative rarity of sleep studies 
+in Brazil, children are diagnosed and submitted to 
+surgery without a formal study. Therefore, the evaluation 
+of the effect of this surgery on peripheral 
+oxygen saturation, as measured by nocturnal pulse 
+oximetry (NPO), during sleep in children with SDB 
+is relevant.
+
+Methods
+
+In order to evaluate the effect of adenotonsillectomy 
+in children with SDB, a before and after 
+type cohort study was designed. The study sample 
+was selected from among the children treated in the 
+Pediatric Otorhinolaryngology and Pulmonology 
+Outpatient Clinic of the Santo Antônio Children’s 
+Hospital of the Santa Casa Hospital Complex in Porto 
+Alegre, Brazil. All selected patients were candidates 
+for tonsillectomy, with or without adenoidectomy 
+(Chart 1), and had been referred for treatment by 
+pediatricians of the Municipal Secretary of Health. 
+The eligibility criteria of these candidates were 
+checked by resident physicians who were unaware 
+of the objective of the study. The inclusion criteria 
+were being from two to ten years of age and having 
+presented obstructive respiratory symptoms during 
+sleep for at least three months. The exclusion criteria 
+were as follows: presenting craniofacial, genetic or 
+neurological abnormalities; suffering from asthma 
+or other chronic pulmonary diseases; and having 
+nasal polyposis. 
+
+The objectives, risks and benefits of the study 
+were explained to the parents and legal guardians. 
+They were then asked to observe signs and symptoms 
+in the children for a period of two weeks. 
+Those who agreed to participate in the study gave 
+written informed consent. The parents and guardians 
+were then interviewed, and the children were 
+examined. The size of the palatine tonsils seen in 
+the nasal endoscopy was classified according to the 
+criteria previously defined.(6) Pre-operative laboratory 
+examinations (blood workup and coagulation 
+profile) and electrocardiogram, as well as radio
+
+
+Chart 1 - Indications for tonsillectomy, with or without 
+adenoidectomy.
+
+Infection
+
+Recurrent tonsillitis* 
+
+ 
+
+Chronic nasopharyngitis
+
+ 
+
+Chronic/recurrent sinusitis
+
+Obstruction
+
+Hyperplasia with non-responsive 
+obstruction to clinical treatment, 
+
+with or without obstructive 
+apnea, severe dysphagia, and late 
+development
+
+ 
+
+Nasal obstruction with speech or 
+orodental abnormalities
+
+Miscellaneous
+
+Recurrent peritonsillar abscess
+
+Unilateral tonsillar hyperplasia 
+
+Hemorrhagic tonsillitis
+
+ 
+
+Chronic tonsilloliths
+
+
+
+
+
+*Recurrent: defined as seven or more episodes in one year, five 
+episodes in the last two years, or three episodes in the last three 
+years.
+
+
+
+64 Arrarte JLF, Lubianca Neto JF, Fischer GB
+
+logical studies of the nasopharynx and chest, were 
+ordered.
+
+The selected patients participated in the study by 
+allowing themselves to be subjected to NPO during 
+the night preceding the surgical treatment. For this 
+study, an Ohmeda oximeter (model 3700®; Ohmeda, 
+Boulder, CO, USA), which has a memory for up to 
+eight hours of study, was used at a 12 sec sampling 
+rate. If the child was suffering from an airway infection, 
+the study and surgery were postponed. During 
+the night, the room was monitored by two nurses. A 
+previously trained medical student, under the supervision 
+of the researcher, was responsible for prepping 
+the patient and for giving instructions to the patient 
+and to the parent/guardian regarding the examination. 
+The sensor was attached to the finger of 
+the patient, preferably the middle finger. For better 
+fixation of the sensor, a splint was attached to the 
+forearm with adhesive tape. Parents and guardians 
+were instructed in the use of the equipment, so that 
+they could turn it on or off in case the child had to 
+go to the bathroom or upon ending of the examination, 
+when the child woke up. The examination was 
+considered valid if it continued for a period of at 
+least four hours.(7)
+
+The following variables were studied: total 
+number of desaturations of = 4%; oxygen desaturation 
+index (ODI), defined as the total number of 
+desaturations of = 4% divided by the duration of 
+the examination in hours; percentage of time during 
+which saturation was lower than 95%; percentage of 
+time during which saturation was lower than 90%; 
+mean saturation; and minimum saturation. The 
+oximetric data collected were analyzed in oximetric 
+data and heart rate distribution tables created with 
+the Excel® program and using a programmed algorithm 
+to identify possible movement artifacts. All 
+desaturations of = 4% were identified and noted. 
+Heart rate was evaluated during the 36 sec prior to 
+desaturation, and those presenting a pulse amplitude 
+modulation range of = 40 were considered 
+valid desaturations.(8)
+
+All surgical procedures were performed in the 
+morning and always by the same surgeon. After 
+initiation of anesthesia, the nasopharynx was 
+evaluated. Hyperplasia of the pharyngeal tonsils 
+(adenoids) was verified and classified using a flexible 
+fiberoptic laryngoscope (Machida, Tokyo, Japan) 
+(Figure 1). After surgery, patients remained at least 
+four hours in the anesthesia recovery room and were 
+then sent to the infirmary. The volume of the palatine 
+tonsils, obtained by determining the difference 
+in liquid volume after their immersion in a graded 
+flask containing a known volume of saline solution, 
+was noted at the end of the procedure.
+
+Unless there was some surgical complication, 
+patients were discharged from the hospital on 
+the day after the procedure. The interval between 
+surgery and the post-operative NPO was at least four 
+weeks. On the day of the post-operative oximetry, 
+the questionnaire was again administered to the 
+children. The oximetric variables were analyzed 
+before and after surgery using the Student’s t-test 
+or the Wilcoxon t-test, depending on the type of 
+data distribution. In order to determine whether 
+the pre-operative oximetry findings presented any 
+associations with the anthropometric data or with 
+the results of the physical examination, Spearman’s 
+rank correlation coefficient (rs) was used. Data were 
+tabulated and analyzed using the Excel® program 
+and the SPSS program, version 11.0. The anthropometric 
+data were analyzed using the Nutristat® 
+program contained within the 2002® Epi Info™ 
+package. The necessary sample size was estimated 
+using the Student’s t-test to compare the difference 
+between the mean pre-operative ODI and the mean 
+postoperative ODI. For the calculation, a previous 
+study was used with the same oximetry model 
+used in a sample of patients with similar clinical 
+characteristics.(9) The Samples® program contained 
+within the PEPI® statistical package was used. An 
+alpha error of 5% and a power of 90% were esti
+
+
+Class 0Class IClass IIClass IIIClass IVPharyngeal tonsil (PT) volumeClass 0 – no PT hyperplasiaClass I – up to 25% of the PT volumeClass II – 25 to 50% of the PT volumeClass III – 50 to 75% of the PT volumeClass IV – above 75% of the PT volume
+Figure 1 - Hyperplasia of the pharyngeal tonsils. Model 
+of nasal endoscopy classification.
+
+
+
+mated. The minimum sample size calculated was 
+21 patients with SDB. This study was approved by 
+the Ethics in Research Committee of the Santa Casa 
+Hospital of Porto Alegre.
+
+Results
+
+Of the 35 eligible patients, 8 were excluded for 
+not being submitted to post-operative oximetry. 
+Therefore, the final sample consisted of 27 patients, 
+all of whom completed the study. The mean age was 
+5.2 ± 1.8 years. Of those 27 patients, 18 were male 
+(67.7%), and 22 were white (81.5%). Most parents 
+and guardians had less than eight years of schooling 
+(63%). The most common clinical complaints were 
+snoring (100%), respiratory pauses during sleep 
+(96.3%), nocturnal mouth breathing (96.3%), restless 
+sleep (81.5%), and sialorrhea (74.1%) (Table 1). 
+Most patients presented class III or class IV pharyngeal 
+and palatine tonsil hyperplasia (96.3% and 
+85.2%, respectively) (Table 2). There were 6 children 
+(22.2%; 3 males and 3 females) who were under the 
+25th percentile in terms of weight-for-age, and there 
+were 3 (25.9%; 2 males and 1 female) were over the 
+75th percentile.
+
+There were no intra-operative or post-operative 
+complications. The mean surgical time was 42.9 ± 
+13.8 min. The average palatine tonsil volume was 
+10.18 ± 3.11 mL, ranging between 5 mL and 18 mL. 
+The oximetric study results are described in Table 3. 
+The mean interval between surgery and the postoperative 
+NPOs was 281.9 days. All patients reported 
+symptom improvement after surgery, except for 
+2 cases in which snoring persisted. One of those 
+2 patients also continued to present significant 
+desaturations during the postoperative period 
+(ODI = 4.5).
+
+There was a significant difference between pre-
+operative ODI and post-operative ODI (p < 0.001), 
+as well as between pre-operative and post-operative 
+total number of desaturations, percentage of 
+saturation time lower than 95%, and percentage of 
+saturation time lower than 90% (p < 0.001) (Table 3). 
+We found no differences between the pre-operative 
+and post-operative values for examination time, 
+mean saturation, mean minimum values, and mean 
+maximum values. The ODI was not found to correlate 
+significantly with age or weight (p = 0.526 and 
+p = 0.496, respectively), nor with the degree of 
+hyperplasia observed in the pharyngeal and palatine 
+tonsils (p = 0.427 and p = 0.851, respectively).
+
+Discussion
+
+In this study there was a clear improvement 
+in the principal post-operative oximetric variables 
+in all but one of the patients studied. Prior to 
+surgery, this patient presented class III and class IV 
+hyperplasia of the pharyngeal and palatine tonsils, 
+respectively. Considering the significant clinical 
+symptom improvement, as well as the improved 
+oximetry findings, in children submitted to surgical 
+treatment, it is important to emphasize that there 
+was only a weak correlation between pre-operative 
+ODI and the degree of hyperplasia of the pharyngeal 
+and palatine tonsils, which, in daily practice, is 
+an important finding to indicate surgical treatment. 
+This finding is similar to those of other studies.(10-12) 
+However, it is important to correlate the tonsil 
+volume with the size of the pharyngeal space. In 
+
+Table 2 - Degree of pharyngeal and palatine tonsilar 
+hyperplasia (n = 27).
+
+Degree of hyperplasia
+
+Class
+
+0
+
+I
+
+II
+
+III
+
+IV
+
+Pharyngeal tonsils
+
+0
+
+0
+
+1(3.7)
+
+7(25.9)
+
+19(70.4)
+
+Palatine tonsils
+
+0
+
+1(3.7)
+
+3(11.1)
+
+9(33.3)
+
+14(51.9)
+
+
+
+
+
+Data are shown as numbers and percentages.
+
+Table 1 - Signs and symptoms of the patients studied 
+before and after surgery (n = 27).
+
+Symptoms
+
+Frequency
+
+Pre-operative
+
+Post-operative
+
+Snoring
+
+27
+
+(100.0)
+
+2
+
+(7.4)
+
+Respiratory pauses
+
+26
+
+(96.3)
+
+0
+
+Nocturnal mouth 
+breathing
+
+26
+
+(96.3)
+
+5
+
+(18.5)
+
+Restless sleep
+
+22
+
+(81.5)
+
+2
+
+(7.4)
+
+Sialorrhea
+
+20
+
+(74.1)
+
+1
+
+(3.7)
+
+Daytime mouth 
+breathing
+
+19
+
+(70.4)
+
+4
+
+(14.8)
+
+Irritability
+
+19
+
+(70.4)
+
+4
+
+(14.8)
+
+Rhinorrhea
+
+14
+
+(51.9)
+
+3
+
+(11.1)
+
+Loss of appetite
+
+12
+
+(44.4)
+
+3
+
+(11.1)
+
+Nocturnal enuresis
+
+12
+
+(44.4)
+
+4
+
+(14.8)
+
+Stunted growth
+
+9
+
+(33.3)
+
+1
+
+(3.7)
+
+Nightmares
+
+10
+
+(37.0)
+
+2
+
+(7.4)
+
+Excessive sleepiness
+
+5
+
+(18.5)
+
+1
+
+(3.7)
+
+
+
+
+
+Data are shown as numbers and percentages.
+
+
+
+a narrow pharynx, even small tonsils can cause 
+significant airway obstruction. In adults, OSAHS 
+seams to have a multifactorial origin: genetic and 
+neuromuscular factors can play important roles. In 
+children, factors other than the volumetric increase 
+in Waldeyer’s lymphoid ring can be involved.(13)
+
+In the pediatric population, the estimated prevalence 
+of primary snoring ranges from 3.2% to 12.1%, 
+compared with 0.7% to 10.3% for OSAHS.(10) In children 
+with SDB, the prevalence of OSAHS, diagnosed 
+through polysomnography, has been reported to be 
+as high as 70%.(14-17) Although polysomnography is 
+considered the gold standard in the investigation 
+of SDB, NPO is an interesting investigative option 
+due to its low cost and wide availability. However, 
+the sensitivity of NPO is low when compared with 
+that of polysomnography. In a transversal study, 
+349 children were submitted to evaluation for SDB. 
+The authors showed that a positive NPO has a positive 
+predictive value of 97%. However, a negative 
+or inconclusive NPO has a negative predictive value 
+of only 57%.(14) If we use the cut-off value established 
+by these authors, which is the same as that 
+recommended by the American Thoracic Society (an 
+ODI equal to or greater than 3), we can see that 
+5 (18.5%) of the children evaluated in our study 
+presented abnormal desaturations based on the 
+NPO results.(18) This proportion is lower than those 
+found in similar studies, in which the proportion of 
+children with SDB found to present OSAHS ranged 
+from 46% to 70%.
+
+One hypothesis that could explain the low 
+proportion of children with more than three desaturations 
+is that an oximeter that provides an oximetric 
+average over a prolonged period of time underestimates 
+the number of short episodes of desaturation 
+in children with OSAHS.(19) In this study, the oximeter 
+was used in eight-hour memory mode. In this mode, 
+the equipment calculates the average every 12 sec. 
+The problem of the sampling rate in the memory of 
+the device has been highlighted by other authors, 
+who carried out a study involving 16 adult patients 
+with SDB and the simultaneous use of two oximeters 
+with different sampling rates. In that study, the 
+oximeter set to use a 12-sec sampling rate registered 
+a mean ODI of 3.2 (range, 1 to 18.3), while the other 
+(set to a 2-sec sampling rate) registered a mean ODI 
+of 8.34 (range, 2 to 22.8) (rs = 0.69, p < 0.001).(20) 
+Another possibility for the low frequency may be 
+the fact that we have included in the sample children 
+with indication of tonsillectomy for repeated 
+tonsillitis, even though snoring is one of the selection 
+criteria. However, despite the above-mentioned 
+limitations of NPO, this examination can still be 
+useful if we take into account its high specificity, its 
+wide availability, and the limited availability of sleep 
+laboratory polysomnography for pediatric patients.
+
+There is still no consensus on when surgical treatment 
+is indicated in children with SDB. Most authors 
+agree that children with severe OSAHS should receive 
+immediate treatment due to the potential risks of 
+cardiopulmonary complications. On the other hand, 
+the appropriate treatment for children with borderline 
+or moderate forms of the disease is still under 
+debate, principally because little is known regarding 
+the natural history and late consequences of mild 
+OSAHS in children. Another factor to be considered 
+is that there are still no recognized criteria for classifying 
+the severity of OSAHS in children.
+
+In the present study, most of the children selected 
+for adenotonsillectomy in the otorhinolaryngology 
+outpatient clinic (21-77.8%) were of pre-school 
+
+Table 3 - Comparison between the pre-operative and post-operative oximetry findings (n = 27).
+
+Variable
+
+Pre-operative
+
+Post-operative
+
+Difference
+
+95% CI
+
+p
+
+ODI
+
+1.6 (1.1 to 2.5)
+
+0.7 (0.5 to 1.3)
+
+-1.1
+
+-1.9 to -0.4
+
+<0.001*
+
+DesN
+
+12.0 (9.0 to 18.0)
+
+4.0 (4.0 to 7.0)
+
+-8.0
+
+-11.0 to -3.0
+
+<0.001*
+
+SpO2 < 95%
+
+6.2 (4.3 to 22.8)
+
+1.0 (0.2 to 4.6)
+
+-5.3
+
+-16.9 to -3.5
+
+<0.001*
+
+SpO2 < 90%
+
+0.5 (0.0 to 1.4)
+
+0.0 (0.0 to 0.2)
+
+-0.4
+
+-0.8 to 0.0
+
+<0.001*
+
+Mean SpO2
+
+97.2 ± 1.07
+
+97.3 ± 1.65
+
+-0.12
+
+-0.9 to 0.6
+
+0.75**
+
+Minimum SpO2
+
+84.5 ± 8.03
+
+89.2 ± 5.23
+
+-4.7
+
+-8.5 to -0.9
+
+0.02**
+
+
+
+
+
+Data expressed as mean ± standard deviation or median (interquartile range, 25–75%), *Wilcoxon t-test; **Student’s t-test; 95% CI: 
+95% confidence interval; ODI: oxygen desaturation index; DesN: total number of desaturations; SpO2: peripheral oxygen saturation 
+(measured using pulse oximetry); SpO2 < 95%: percentage of time during which saturation remained below 95%; SpO2 < 90%: 
+percentage of time during which saturation remained below 90%.
+
+
+
+age (two to six years of age), of which 62.9% were 
+between three and five years of age. These results are 
+consistent with the findings in the literature, since 
+children in this age bracket present a greater quantity 
+of lymphoid tissue in relation to the adjacent 
+airway, resulting in a narrower airway.(21,22) In the 
+present study, the prevalence of snoring was higher 
+in boys (18–66.7%), which is different from that 
+found in other studies, with the exception of that 
+reported in a population-based transversal study 
+carried out in Iceland, in which the prevalence of 
+snoring was higher in boys than in girls (24.3% vs. 
+16.5%).(9,23,24) Therefore, this difference can also be 
+explained by the limited sample size of the present 
+study. It is known that there is an association 
+between growth retardation and OSAHS. One group 
+of authors studied 41 children with SDB submitted 
+to surgical treatment and found that 46% were in 
+the 5th percentile in terms of weight-for-age.(25) In 
+contrast with these data, the proportion of children 
+in the present study presenting weight-for-age 
+below the 25th percentile was 22.2% (6 children), 
+and none presented weight-for-age below the 
+5th percentile.
+
+We conclude that adenotonsillectomy has a 
+beneficial effect on peripheral oxygen saturation 
+measured by pulse oximetry in children presenting 
+airway obstruction during sleep. However, children 
+in whom the symptoms persist post-operatively 
+should be submitted to further investigation, since 
+oxygen desaturation can be caused by conditions 
+other than hyperplasia of the pharyngeal lymphoid 
+tissue.
+
+Acknowledgements
+
+We would like to thank the medical students 
+of the Ana Letícia Boff Foundation for the Federal 
+School of Medical Sciences at Porto Alegre, as well 
+as Leonardo de Azambuja and Vinícius Richter for 
+their dedication to the quality of the sleep studies. 
+We are also grateful to Dr. João Lima for his suggestions 
+regarding the sleep study protocols. 
+
+References
+
+ 1. Lavie P. Nothing new under the moon. Historical 
+accounts of sleep apnea syndrome. Arch Intern Med. 
+1984;144(10):2025-8.
+
+ 2. Greene MG, Carroll JL. Consequences of sleep-
+disordered breathing in childhood. Curr Opin Pulm Med. 
+1997;3(6):456-63
+
+ 3. Coleman J. Sleep studies: Current techniques and future 
+trends. Otolaryngol Clin North Am. 1999;32(2):195-210.
+
+ 4. Franco RA Jr, Rosenfeld RM, Rao M. First place--resident 
+clinical science award 1999. Quality of life for children 
+with obstructive sleep apnea. Otolaryngol Head Neck Surg. 
+2000;123(1 Pt 1):9-16. 
+
+ 5. Sohn H, Rosenfeld RM. Evaluation of sleep-disordered 
+breathing in children. Otolaryngol Head Neck Surg. 
+2003;128(3):344-52.
+
+ 6. Brodsky L. Adenotonsillar disease in children: General 
+considerations. In: Cotton RT, Myer CM, editors. Practical 
+pediatric otolaryngology. Philadelphia: Lippincott Williams 
+&Wilkins; 1999. p.15-40.
+
+ 7. Smith TC, Proopos DW, Pearman K, Hutton P. Hypoxia in 
+sleeping children: overnight studies can be reduced to 4 
+hours without loss of clinical significance. Clin Otolaryngol 
+Allied Sci. 1992;17(3):243-5.
+
+ 8. LaFontaine VM, Ducharme FM, Brouillette RT. Pulse 
+oximetry: accuracy of methods of interpreting graphic 
+summaries. Pediatr Pulmonol. 1996.;21(2):121-31.
+
+ 9. Ali NJ, Pitson DJ, Stradling JR. Snoring, sleep disturbance, 
+and behaviour in 4-5 years olds. Arch Dis Child. 
+1993;68(3):360-66.
+
+ 10. Schechter MS; Section on Pediatric Pulmonology, 
+Subcommittee on Obstructive Sleep Apnea Syndrome. 
+Technical report: diagnosis and management of childhood 
+obstructive sleep apnea syndrome. Pediatrics. 2002;109(4):
+e69. 
+
+ 11. Ågren K, Nordlander B, Linder-Aronsson S, Zettergren-
+Wijk L, Svanborg E. Children with nocturnal upper airway 
+obstruction: Postoperative orthodontic and respiratory 
+improvement. Arch Otolaryngol. 1998;118(4):581-7.
+
+ 12. Suen JS, Arnold JE, Brooks LJ. Adenotonsillectomy for 
+treatment of obstructive sleep apnea in children. Arch 
+Otolaryngol Head Neck Surg. 1995;121(5):525-30. 
+
+ 13. Friberg D, Ansved T, Borg K, Carlsson-Nordlander B, Larsson 
+H, Svanborg E. Histological indications of a progressive 
+snorers disease in an upper airway muscle.Am J Respir Crit 
+Care Med. 1998;157(2):586-93.
+
+ 14. Brouillette RT, Morielli A, Leimanis A, Walters KA, Luciano R, 
+Ducharme FM. ...........................................Nocturnal pulse oximetry as an abbreviated 
+testing modality for pediatric obstructive sleep apnea. 
+Pediatrics. 2000;105(2):405-12.
+
+ 15. Carroll JL, McColley SA, Marcus CL, Curtis S, Loughlin GM. 
+Inability of clinical history to distinguish primary snoring 
+from obstructive sleep apnea syndrome in children. Chest. 
+1995;108(3):610-8.
+
+ 16. Rosen CL. Clinical features of obstructive sleep apnea 
+hypoventilation syndrome in otherwise healthy children. 
+Pediatr Pulmonol. 1999;27(6):403-9.
+
+ 17. Van Someren V, Burmester M, Alusi G, Lane R. Are sleep 
+studies worth doing? Arch Dis Child. 2000;83(1):76-81.
+
+ 18. Cardiorespiratory sleep studies in children. Estabilishment 
+of normative data and polysomnographic predictors of 
+morbidity. American Thoracic Society. Am J Respir Crit Car 
+Med. 1999;160(4):1381-7.
+
+ 19. Nixon GM, Kermack AS, Davis GM, Manoukian JJ, Brown 
+KA, Brouillette RT. Planning adenotonsillectomy in children 
+with obstructive sleep apnea: the role of overnight oximetry. 
+Pediatrics. 2004;113(1 Pt 1):e19-25. 
+
+ 20. Witshire N, Kendrick AH, Catterall JR. Home oximetry studies 
+for diagnosis of sleep apnea/hypopnea syndrome. Chest. 
+2001;120(2): 384-9.
+
+
+
+21. Jeans WD, Fernando DC, Maw AR, Leighton BC. ...............A longitudinal 
+study of the growth of the nasopharynx and its contents in 
+normal children. Br J Radiol. 1981;54(638):117-21.
+
+ 22. Marcus CL. Sleep-disordered breathing in children. Am J 
+Respir Crit Care Med. 2001;164 (1):16-30.
+
+ 23. Redline S, Tishler PV, Schluchter M, Aylor J, Clarck K, Graham 
+G. Risk factors for sleep-disordered breathing in children. 
+Associations with obesity, race, and respiratory problems. Am 
+J Respir Crit Care Med. 1999;159(5 Pt 1):1527-32.
+
+ 24. Gislason T, Benediktsdóttir B. Snoring, apneic episodes and 
+nocturnal hypoxemia among children 6 Months to 6 Years 
+Old. Chest. 1995;107(4): 963-6.
+
+ 25. Williams EF 3rd, Woo P, Miller R, Kellman RM. The effects 
+of adenotonsillectomy on growth in young children. 
+Otolaryngol Head Neck Surg. 1991;104(4):509-16.
+
+
+

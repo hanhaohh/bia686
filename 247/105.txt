@@ -1,0 +1,803 @@
+Sleep Medicine 4 (2003) 21–27 
+www.elsevier.com/locate/sleep 
+
+School performance, race, and other correlates of 
+sleep-disordered breathing in children 
+
+Ronald D. Chervina,*, Dave F. Clarkea, Jennifer L. Huffmanb, Erica Szymanskia, 
+Deborah L. Ruzickaa, Vnona Millerc, Arie L. Nettlesd, MaryFran R. Sowerse, Bruno J. Giordanib 
+
+
+aMichael S. Aldrich Sleep Disorders Laboratory, Department of Neurology, University of Michigan, 8D8702 University Hospital, Box 0117, 1500 E. Medical 
+Center Dr., Ann Arbor, MI 48109-0117, USA 
+bDivision of Child and Adolescent Psychiatry, Department of Psychiatry, University of Michigan, Ann Arbor, MI, USA 
+cYpsilanti Public School System, Ypsilanti, MI, USA 
+dUniversity of Michigan School of Education, Ann Arbor, MI, USA 
+eDepartment of Epidemiology, University of Michigan School of Public Health, Ann Arbor, MI, USA 
+
+
+Received 17 July 2002; received in revised form 1 November 2002; accepted 4 November 2002 
+
+Abstract 
+
+Objectives: Childhood sleep-disordered breathing (SDB) has been associated with poor school performance. Both problems are common 
+among African–American (AA) children, but potential confounders such as low socioeconomic status (SES) and obesity have not been well 
+studied. 
+
+Methods: Children in second and fifth grades at six urban elementary schools were evaluated by teachers’ ratings and year-end reading 
+and math assessments. Risk for SDB was assessed with the validated parental Pediatric Sleep Questionnaire, and SES by qualification for 
+school lunch assistance. 
+
+Results: Among 146 children whose parents completed surveys, risk for SDB was associated with AA race, low SES, and poor teacher 
+ratings ðP , 
+0:01Þ, but not assessment scores ðP . 
+0:1Þ. In multiple regression models, poor school performance was consistently and 
+independently predicted by low SES ðP , 
+0:01Þ 
+but not by AA race or SDB risk. Risk for SDB was associated with low SES before, but not 
+after body mass index (BMI) was taken into account. 
+
+Conclusions: The SDB symptoms, AA race, and low SES all vary to some extent with poor school performance, but the only consistent 
+and independent covariate of performance is SES. Risk for SDB is associated with low SES, perhaps because of a third variable, namely high 
+BMI. 
+q 
+2002 Elsevier Science B.V. All rights reserved. 
+
+Keywords: Child; Sleep disorders; Snoring; Sleep apnea; Obstructive; Socioeconomic status; Pediatric Sleep Questionnaire; Performance; Race 
+
+1. Introduction 
+Sleep-disordered breathing (SDB) affects at least 1–3% of 
+children [1], and cognitive impairments may be among the 
+most important consequences of the condition [2]. For 
+example, in a study of 297 poorly performing first grade 
+children, 54 (18%) showed evidence of SDB [3]; those 
+who were treated showed significantly better grades the 
+following year, whereas those not treated showed no 
+improvement. In addition, a subsequent study of seventh 
+and eighth grade students showed that earlier childhood 
+snoring – a common symptom of SDB – predicted current 
+school performance [4]. Neuropsychometric studies suggest 
+
+* 
+Corresponding author. Tel.: 11-734-647-9064; fax: 11-734-647-9065. 
+E-mail address: chervin@umich.edu (R.D. Chervin). 
+that SDB, even when mild, may impair executive functions 
+crucial to good school performance [5–7]. 
+
+School performance also varies with racial background, 
+and this observation is a frequent cause of concern in the lay 
+press. An ‘achievement gap’ between African–American 
+(AA) children and their peers has been variously attributed 
+to differential resources, pre-school experiences, adult 
+expectations, and other factors [8]. At the same time, 
+cross-sectional studies have suggested that AA children 
+have SDB at 3–4 times the frequency of non-AA children 
+[9], and that when present, SDB may be more severe among 
+AA than non-AA children [10]. Neither the studies of SDB 
+in AA children, those of SDB and school performance, nor 
+many of the studies of achievement gap have accounted for 
+socioeconomic status (SES), a potentially important 
+confounder. Whether an increased frequency of SDB 
+
+1389-9457/02/$ -see front matter q 
+2002 Elsevier Science B.V. All rights reserved. 
+doi:10.1016/S1389-9457(02)00243-5 
+
+
+R.D. Chervin et al. / Sleep Medicine 4 (2003) 21–27 
+among AA children could explain part of the achievement 
+gap has not been studied. 
+
+We therefore surveyed parents of second and fifth grade 
+students, in an urban school district, about the sleep of their 
+children, and compared these data to subjective and objective 
+performance measures provided by the children’s 
+schools. We sought to determine whether poor school 
+performance is associated with SDB symptoms, AA race, 
+or SES, and to test the hypothesis that an increased 
+frequency of SDB might help to explain poor performance 
+among AA children in comparison to non-AA children. 
+
+2. Methods 
+2.1. Subjects and setting 
+On May 29, 2001, students attending second and fifth 
+grades in the six public elementary schools of the Ypsilanti 
+School District took home cover letters, parental consent 
+forms, child assent forms, and surveys. Several days later, 
+to maximize yield, a second packet of consents and surveys 
+was sent out again. Neither parents nor children were 
+compensated directly for their participation. However, as 
+incentives to the schools, the two with the highest questionnaire 
+return rates from students were given $200 to spend 
+for the benefit of the students. The second and fifth grades 
+were chosen for this study because second graders are at an 
+age when adenotonsillar hypertrophy is typically prominent, 
+fifth graders have had an additional 3 years to develop any 
+consequences of SDB, and objective performance assessments 
+were available for all students in these two grades. 
+The study was approved by the University of Michigan IRB 
+and the research committee for the school system. 
+
+Questionnaires were considered completed and were 
+included in analyses when data were available on teacher-
+rated performance, racial background, and SDB scores. 
+Questionnaire packets were distributed to teachers or principals 
+of 806 students, and 145 (18%) were completed. 
+Participation rates among the six schools ranged from 13 
+to 33%. In comparison to other surveys performed in this 
+school district, which serves a highly urbanized community 
+about 30 miles west of Detroit, this overall participation rate 
+was considered by a district administrator to be excellent: 
+previous surveys for research purposes had generated only 
+single-digit response rates. 
+
+For comparison to the study sample, the District provided 
+the following data. Fifty-two percent of all students are male, 
+and 59% of elementary school students qualify for school 
+lunch assistance. District student racial distributions are: 
+0.2% American Indian, 2.0% Asian or Pacific Islander, 
+54% Black, 2.7% Hispanic, 41.1% White, and 2.4% multiracial. 
+
+
+2.2. Measures 
+Two measures of student performance were included. 
+
+First, teachers rated the students’ overall performance, relative 
+to their classmates, using a 5-point Likert scale from 1 
+(worse) to 5 (better). Though not validated against other 
+performance measures, this variable provided concise 
+summary data collected in a similar manner and at the 
+same time point from all teachers. Second, a district-wide 
+grade-specific reading and mathematics assessment, administered 
+in the school district annually, was used as an 
+objective score. This instrument, the Wayne RESA Benchmark 
+(Wayne RESA Assessment and Evaluation Services, 
+Wayne, MI, USA), was developed to assess the degree to 
+which school systems successfully teach material outlined 
+in the Michigan Curriculum Framework (Standards and 
+Benchmarks). The mathematics section has 35 multiple-
+choice items for second graders and 59 items for fifth 
+graders. The reading section has 40 items for second graders 
+and 60 items for fifth graders. No cut-point scores or normative 
+data are available, but the 2001 district-wide average 
+second grade scores were 52 ^18 (s.d.) % in math and 
+61 ^ 24% in reading; fifth grade scores averaged 
+46 ^ 17% in math and 69 ^ 19% in reading. Children’s 
+scores were used in the current study as a relative measure 
+of the extent to which each had learned the year-long curriculum. 
+The Benchmark evaluation was designed to avoid 
+racial and gender bias, and was subjected to formal gender 
+and racial bias review. It has not been reported, in several 
+years of use, to show differential functioning for race or 
+gender (Wayne RESA Assessment and Evaluation Services, 
+personal communication). 
+
+Additional variables collected in this study included 
+parent-reported race, which was then classified into one 
+(occasionally more) of six categories commonly used by 
+the Department of Health and Human Services. SES was 
+determined by identifying participation in the school lunch 
+assistance program, qualification for which involves an 
+objective assessment of financial need. Specifically, eligibility 
+for either free or reduced-price lunches is based on 
+family income and the number of dependents in the family, 
+as determined from a Department of Social Services registry 
+or an application from parents to Food Services, an agency 
+of the Department of Agriculture. 
+
+The risk of SDB was assessed with a validated subscale 
+of the Pediatric Sleep Questionnaire [11]. Question-items 
+ask about snoring frequency and loudness, breathing during 
+sleep, daytime sleepiness, and other behaviors. In a 
+previous study of children with polysomnographically 
+confirmed SDB and controls, the full 22-item SDB 
+subscale showed a sensitivity of 81% and specificity of 
+87%, and correctly classified 85% of the subjects [11]. In 
+the current study, the SDB scale was used without six 
+items – those that ask about inattention and hyperactivity 
+
+– to avoid artificial associations with poor school performance. 
+The excluded items are not disproportionately 
+important to overall performance of the scale [11]. Children 
+at high risk for SDB have SDB subscale scores $0.33 
+(i.e. 33% of symptoms present). 
+
+R.D. Chervin et al. / Sleep Medicine 4 (2003) 21–27 
+Table 1 
+Grade level, sex, lunch assistance, teacher-rated performance, and Benchmark scores are shown for all subjects, African–American (AA) subjects, and non-AA 
+subjectsa 
+
+All subjects (n ¼ 
+145) AA subjects (n ¼ 
+61) Non-AA subjects (n ¼ 
+84) 
+No. (%) grade 2 
+No. (%) male 
+No. (%) with lunch assistance 
+No. (%) with poor performance 
+Benchmark score 
+85 (59) 
+58 (40) 
+63 (43) 
+25 (17) 
+63 ^18 
+44 (72)* 
+23 (38) 
+36 (59)* 
+16 (26)* 
+57 ^ 18* 
+41 (49) 
+35 (42) 
+27 (32) 
+9 (11) 
+67 ^17 
+
+a *P , 
+0:05 for difference between AA and non-AA subjects (chi-square tests for dichotomous variables and t-test for continuous variables). 
+
+2.3. Analysis 
+Data were summarized as proportions or means and standard 
+deviations. Teacher-rated performance did not follow a 
+normal distribution and was dichotomized to poor performance 
+(rating of 1 or 2) and adequate performance (ratings 
+of 3, 4, or 5). Logistic regression models were then 
+constructed to assess associations between poor performance 
+and normalized SDB symptom scores, race (AA 
+vs. non-AA), and SES (lunch assistance vs. none). In an 
+analogous manner, the normally distributed Benchmark 
+total scores (average of percent correct on reading and 
+math sections) were regressed (multiple linear regression) 
+on the explanatory variables. All regressions controlled for 
+grade level. In analyses designed to determine what variables 
+may contribute to risk for SDB, high risk was modeled 
+by multiple logistic regression on SES, and several potential 
+confounders that could be associated with both SDB and 
+SES: normalized body mass index (BMI, kg/m2), asthma, 
+AA race, and typical hours in bed (rise time–bedtime). 
+Analyses were performed with SASw, version 8.1 (SAS 
+Institute Inc., Cary, NC, USA). The level of significance 
+was set at P , 
+0:05. 
+
+3. Results 
+3.1. Subjects 
+Grade level, sex, lunch assistance program participation, 
+teacher performance ratings, and Benchmark scores are 
+shown for all students, AA students, and non-AA students 
+in Table 1. The mean age of the second grade students ðn ¼ 
+
+
+Table 2 
+Logistic regressions of poor teacher-rated performance on African–American 
+(AA) race, sleep-disordered breathing (SDB) symptom score (normalized), 
+and low socioeconomic status (lunch assistance): beta coefficients, 
+standard errors, tests of significance, and odds ratios are showna 
+
+Beta s.e. P-value Odds ratio 
+AA race 1.26 0.48 0.0088 3.53 
+SDB score 0.56 0.20 0.0049 1.74 
+Lunch assist. 2.94 0.68 # 
+0.0001 18.94 
+
+85Þ 
+was 8.1 ^ 0.4 (s.d.) years, and the mean age of fifth 
+grade students ðn ¼ 
+60Þ 
+was 11.1 ^0.4 years. Among 
+second grade students, 36 (42%) were males, and among 
+fifth grade students, 22 (37%) were males. Race was 
+reported by parents as follows: four (3%) American Indian 
+or Alaskan Native; seven (5%) Asian or Pacific Islander; 61 
+(42%) Black, non-Hispanic; 77 (53%) White, non-Hispanic; 
+ten (7%) Hispanic; six (4%) other or unknown. The total 
+race reports ðn ¼ 
+165Þ 
+exceeds the number of subjects ðn ¼ 
+145Þ 
+because some parents listed more than one race for 
+individual children. 
+
+Parental identification of AA race, with or without additional 
+racial backgrounds, was significantly associated with 
+the SDB score (Wilcoxon rank sums, P ¼ 
+0:0062) and with 
+lunch assistance (chi-square, P ¼ 
+0:0013). Also, the SDB 
+score was associated with lunch assistance (Wilcoxon, 
+P ¼ 
+0:0036). Among 63 children who received lunch assistance, 
+12 (19%) had high SDB scores, whereas among 82 
+children without lunch assistance, only four (5%) had similarly 
+high SDB scores. 
+
+3.2. Poor performance and low benchmark scores 
+Poor teacher-rated performance was associated with AA 
+race, increased SDB scores, and lunch assistance (Table 2). 
+Benchmark scores showed inverse associations with AA 
+race and lunch assistance, but no significant association 
+with SDB score (Table 3 and Fig. 1). Habitual snoring 
+alone, assessed with one Pediatric Sleep Questionnaire 
+item by parents of 139 subjects, was associated similarly 
+with poor teacher-rated performance (chi-square ¼ 
+3:87, 
+
+Table 3 
+Linear regressions of Benchmark total scores on African–American (AA) 
+race, sleep-disordered breathing (SDB) symptom score (normalized), and 
+low socioeconomic status (lunch assistance): beta coefficients, standard 
+errors, tests of significance, and Part R2 are showna 
+
+Beta s.e. P-value 100 £ 
+Part R2* 
+AA race 
+SDB score 
+Lunch assist. 
+2 
+10.74 
+2 
+2.52 
+2 
+11.59 
+3.13 
+1.60 
+3.06 
+0.0008 
+0.1182 
+0.0002 
+7.74 
+1.73 
+9.26 
+
+a 
+
+All models adjusted for grade level. *Part R2, also called the semi-
+partial R2, is the difference in R2 for the model with and without the indi
+
+
+a All models adjusted for grade level. cated variable. 
+
+
+R.D. Chervin et al. / Sleep Medicine 4 (2003) 21–27 
+P ¼ 
+0:049) but not Benchmark scores (t ¼ 
+1:37, P ¼ 
+0:17). 
+Among 22 children with habitual snoring, seven (32%) had 
+poor teacher-rated performance, whereas among 117 non-
+habitual snorers, only 17 (15%) had poor performance. 
+
+Fig. 1. Benchmark total scores (BMTOTAL) for subjects who were (1) and 
+were not (0) reported to be Black, non-Hispanic (top panel); to have high 
+risk for a sleep-related breathing disorder (SRBD, defined by an SDB score 
+.0.33, middle panel); and to qualify for a lunch assistance program 
+(bottom panel). Box plots show median (dark bar), 25th (bottom of box), 
+75th (top of box), 10th (bottom serif), and 90th (top serif) percentiles. 
+
+
+Multiple logistic regression models that simultaneously 
+included AA race, SDB score, and lunch assistance (and 
+grade level) showed that poor teacher-rated performance 
+was still associated with lunch assistance (OR ¼ 
+13:76, 
+P ¼ 
+0:0002) after controlling for the other variables. 
+However, neither AA race (OR ¼ 
+2:18, P ¼ 
+0:15) nor 
+SDB score (OR ¼ 
+1:29, P ¼ 
+0:25) retained a significant 
+association with poor performance after accounting for 
+lunch assistance. An analogous multiple linear regression 
+of Benchmark total score on the explanatory variables 
+showed that both AA race (100 £ 
+Part R2 ¼ 
+4:55, 
+P ¼ 
+0:0077) and lunch assistance (100 £ 
+Part R2 ¼ 
+5:82, 
+P ¼ 
+0:0027) retained significance, but SDB score did not 
+(100 £ 
+Part R2 ¼ 
+0:04, P ¼ 
+0:80). 
+
+In exploratory analyses, Benchmark reading and math 
+scores separately were regressed on explanatory variables 
+in simple and then multiple linear regression models. The 
+results for reading and math were uniformly similar to each 
+other and to the Benchmark total score results presented 
+previously. 
+
+3.3. Correlates of SDB risk 
+Several potential third variables from parent questionnaires 
+were tested in an effort to explain the association, 
+between low SES and SDB risk, that had left no discernable 
+association between SDB risk and performance. The SES, 
+BMI, presence of asthma, race, and reported hours spent in 
+bed are shown in Table 4 for all subjects, those at high risk 
+for SDB, and those at low risk. Multivariable logistic regression 
+models showed that low SES retained association with 
+high SDB risk after adjusting for asthma history, AA race, 
+or hours in bed. However, low SES showed no association 
+with high SDB risk after including BMI in the model (Table 
+5). A multiple stepwise logistic regression to evaluate high 
+SDB risk considering low SES, BMI, asthma, AA race, and 
+hours in bed excluded SES and confirmed that high SDB 
+risk was best explained by BMI (beta ¼ 
+0:78, s:e: ¼ 
+0:31, 
+OR ¼ 
+2:2 ½1:2; 4:2) and asthma (beta ¼ 
+1:5, s:e: ¼ 
+0:77, 
+OR ¼ 
+4:7 ½1:0; 21:7). These results implied that high BMI 
+was associated with low SES: a logistic regression showed a 
+trend (beta ¼ 
+0:38, s:e: ¼ 
+0:22, OR ¼ 
+1:5 ½1:0; 2:3). 
+
+Among 139 children with data on habitual snoring, 61 
+were classified as low SES and 14 (23%) of these snored 
+habitually, whereas 78 children were not classified as low 
+SES and only eight (10%) of these snored habitually 
+(chi-square ¼ 
+4:1, P ¼ 
+0:04). Low SES was a significant 
+correlate of habitual snoring (beta ¼ 
+0:96, s:e: ¼ 
+0:48, 
+OR ¼ 
+2:6 ½1:0; 7:0) before, but not after, adjustment for 
+BMI (beta ¼ 
+0:48, s:e: ¼ 
+0:64, OR ¼ 
+1:6 ½0:4; 5:8). 
+
+4. Discussion 
+This study of second and fifth grade students in an urban 
+public school system shows that SDB symptoms, AA race, 
+and SES all vary with academic performance, but the only 
+
+
+R.D. Chervin et al. / Sleep Medicine 4 (2003) 21–27 25 
+Table 4 
+Characteristics of all subjects, those at risk for SDB, and those at less riska 
+All subjects (n ¼ 
+145) High risk for SDB (n ¼ 
+16) Low risk for SDB (n ¼ 
+129) 
+No. (%) grade 2 
+No. (%) male 
+No. (%) with lunch assistance 
+Body mass index (mean ^ s.d.)** 
+No. (%) with asthma 
+No. (%) African–American 
+Hours in bed 
+85 (59) 
+58 (40) 
+63 (43) 
+13.9 ^ 4.1 
+24 (17) 
+61 (42) 
+9.8 ^0.8 
+9 (56) 
+8 (50) 
+12 (75)* 
+17.6 ^6.1* 
+7 (44)* 
+10 (63) 
+9.8 ^0.6 
+76 (59) 
+50 (39) 
+51 (39) 
+13.5 ^ 3.5 
+17 (13) 
+51 (40) 
+9.8 ^ 0.8 
+
+a *P # 
+0:01 for difference between high SDB risk and low SDB risk subjects (logistic regression; P . 
+0:05 for all others). **n ¼ 
+90 subjects for whom 
+height and weight were reported by parents. Children with and without height and weight data showed identical frequencies of high SDB scores. 
+
+variable independently associated with both objective and 
+teacher-rated performance is SES. High unadjusted SDB 
+symptom scores showed an association with poor teacher-
+rated performance, but not low test results. Low SES, as 
+assessed by qualification for a lunch assistance program, 
+was strongly associated with high SDB scores, which 
+showed no significant association with performance after 
+SES was taken into account. Similarly, accounting for 
+SES substantially reduced or eliminated the association 
+between AA race and performance measures. 
+
+Several potential correlates of low SES – BMI, asthma, 
+and AA race – were also associated with SDB risk, but only 
+BMI explained a large part of the association between low 
+SES and SDB risk. While correlative studies cannot prove 
+causality, if low SES does increase SDB risk, the current 
+results suggest that the effect may be mediated by increased 
+obesity [9]. Although care must be taken in the extrapolation 
+of results because of the low participation, the findings raise 
+important considerations in interpretation of previous 
+reports that childhood SDB is associated with poor school 
+performance. Finally, an excess frequency of SDB among 
+AA children does not appear to be a direct explanation for 
+the ‘achievement gap’. 
+
+Few previous reports have examined associations 
+between SES and risk for childhood SDB. One study of 
+4–5 years old children reported that lower SES, as defined 
+by a father’s manual as opposed to non-manual work, was 
+associated with increased SDB symptoms before, but not 
+
+Table 5 
+Logistic regressions of high sleep-disordered breathing risk on low socioeconomic 
+status, after adjustment for each specified risk factor: socioeconomic 
+status beta coefficients, standard errors, odds ratios, and odds ratio 
+95% confidence intervals are shown 
+
+Risk factor taken into account Beta s.e. Odds ratio 95% CI 
+
+Body mass index (kg/m2)* 0.78 0.73 2.2 [0.5, 9.7] 
+Asthma 1.46 0.62 4.3 [1.4, 16.5] 
+African-American 1.37 0.62 3.9 [1.2, 15.1] 
+Hours in bed* 1.49 0.61 4.4 [1.4, 16.7] 
+
+
+* These variables were normalized; the change modeled was therefore an 
+increase by one standard deviation. 
+after maternal smoking was taken into account [12]. 
+However, BMI was not studied, the SDB questionnaire-
+items had been validated without polysomnography, and 
+the six SDB symptoms analyzed included three (coughs 
+and colds, restless sleep, and problem related to sleeping) 
+that may assess overall sleep quality rather than SDB specifically. 
+Overall sleep quality is known to correlate with SES 
+among adults [13]. For example, a French survey of 5622 
+people aged 15 years or more found that lower family 
+income correlated with insomnia [14]. A subsequent study 
+of 205,347 French patients showed that those with low 
+buying power, more often than others, reported that they 
+suffered from a sleep disorder [15]. Neither of these studies, 
+however, focused on SDB. In one previous study of 496 
+adults, more specific questionnaire evidence of snoring 
+and SDB showed no association with ‘socio-professional’ 
+categories [16]. 
+
+Why our subjects from poor families tended to have high 
+body mass indices is uncertain. These children may have 
+higher calorie, less nutritive diets more likely to produce 
+obesity. Such children may have few opportunities for 
+sports and other activities that could reduce weight. In 
+developed countries, persons with low SES are more likely 
+to be overweight, although the association is stronger and 
+more consistent among adults than among children [17]. 
+Obesity among children from low-income families is a 
+growing public health problem in the US [18], especially 
+in this state (Michigan), which has one of the highest 
+frequencies of childhood obesity. Adenotonsillar hypertrophy 
+and craniofacial anomalies may be the most frequent 
+anatomical features in childhood SDB, but obesity is also a 
+known correlate in this age group [9], and the importance of 
+obesity is likely to grow as obesity becomes more prevalent. 
+
+Besides obesity and perhaps maternal smoking, several 
+unstudied variables, to which children might be more 
+vulnerable than adults, also could contribute to an association 
+between lower SES and SDB risk. Low SES is associated 
+with poor health overall, deficient diets, more limited 
+access to health services, and lower participation in health 
+promotion activities such as non-emergent routine care. 
+Untreated adenotonsillar hypertrophy or asthma increases 
+the risk for SDB [9,19]. Low SES may also be associated 
+
+
+R.D. Chervin et al. / Sleep Medicine 4 (2003) 21–27 
+with insufficient sleep or poor sleep hygiene, due to parents’ 
+work schedules, the sleeping environment, or other factors. 
+Inadequate sleep could increase SDB scores by making children 
+more sleepy, and if chronic, directly increase the risk 
+for SDB [20]. 
+
+Consistent with our data, previous investigations also 
+found an association between poor grades and childhood 
+SDB [3,4], but evidence that SDB actually causes or contributes 
+to poor grades has not been conclusive. One study that 
+showed improvement in school grades 1 year after treatment 
+for SDB relied on parents, not randomization, to decide 
+whether to pursue treatment for SDB [3]. Obesity, SES, 
+access to health care, and related factors often have not 
+been assessed, though one study did match high performing 
+students to low performers who lived on the same street or 
+nearby, in an effort to match for SES [4]. Additional 
+evidence that SDB could affect school performance arose 
+from studies that documented neurocognitive deficits and 
+hyperactive behavior in association with SDB or related 
+symptoms [5,7,21], but these studies also did not control 
+for SES. One study found relative deficits in attention, 
+memory, and intelligence in 16 snoring children who were 
+compared to 16 non-snoring controls [6]. This study did 
+adjust for maternal occupation, but this measure of SES 
+showed no association with snoring or most psychometric 
+results, perhaps due to sample size limitations or imprecision 
+of the SES measure. The current results suggest that 
+future studies of SDB, race, and school performance should 
+incorporate more direct measures of SES and obesity. 
+
+Current results also suggest that detection of associations 
+between school performance and SDB may depend on the 
+performance measure used. Previous studies that relied on 
+teachers’ grades to gauge performance found associations 
+with SDB [3,4]. Our study suggests that objective test scores 
+may not show these associations. Teachers’ grades may 
+reflect other factors – hyperactive and disruptive classroom 
+behavior, for example – that could be influenced by SDB or 
+SES [21,22]. 
+
+In contrast to sleep-related studies, a number of previous 
+reports on achievement did address SES. Data collected by 
+the National Longitudinal Survey from approximately 2000 
+children suggest a strong effect of family financial capital on 
+math and reading scores [23]. Family income shows an 
+association with achievement and ability-related outcomes 
+in studies of children [24] and, more specifically, AA children 
+[8,25]. Furthermore, the achievement gap can persist 
+between Black and White populations after stratification by 
+SES levels, though test-specific characteristics also could 
+explain such results [26]. 
+
+This study is the first, to the authors’ knowledge, to examine 
+the possibility that an increased frequency of SDB could 
+contribute to poor school performance among AA children. 
+The data, which do not support the hypothesis, demonstrate 
+the importance of a broad analysis of multiple factors likely 
+to contribute to poor school achievement. However, the idea 
+that SDB may contribute to an achievement gap cannot be 
+
+discounted definitively by current results. The study design 
+was correlational, and unsuspected confounders could have 
+obscured underlying relationships. Moreover, gold-standard 
+measures were abandoned in favor of instruments that 
+would cause less disruption of the school day and permit 
+inclusion of larger numbers of subjects. The Pediatric Sleep 
+Questionnaire has good validity but is not equivalent to 
+polysomnography. Qualification for the public school 
+lunch assistance program requires an objective and relatively 
+rigorous screening of family finances, but every qualified 
+family may not apply. SES can be assessed in more 
+detail, rather than a single dichotomous measure, by other 
+methods. Lunch assistance conceivably could affect food 
+consumption and obesity in some manner not directly 
+related to SES. Perhaps most importantly, our survey return 
+rate of 18% – though commendable in this urban school 
+setting – raises the possibility that the sample was not representative 
+of the target population. However, the sample did 
+not show major differences with the entire school district in 
+racial composition or SES. In addition, any selection bias 
+that might have affected frequencies or levels of study variables 
+probably would have had less effect on associations 
+(between those variables) which form the main findings of 
+this report. 
+
+In conclusion, this study did not support the initial 
+hypothesis that an increased frequency of SDB may 
+explain a substantial portion of the achievement gap 
+between AA and non-AA school children. Instead, a simple 
+but objective measure of SES appeared to account for the 
+association between SDB and poor performance, perhaps 
+because low SES was associated with high BMI. Physicians, 
+school nurses, and health officials whose work 
+involves children from low-income families should be 
+aware that these patients may be at increased risk for 
+SDB. The question of whether AA children have increased 
+risk for SDB because of their race, SES, BMI, or other 
+factors remains an important public health question. The 
+outcomes of SDB in children are poorly defined, and 
+further research is needed to determine the extent to 
+which SDB may have cognitive, behavioral, and academic 
+consequences. However, such studies should account for 
+SES and obesity, and attempt to determine whether these 
+variables – as opposed to SDB or race – may explain 
+associated morbidity. 
+
+Acknowledgements 
+
+The authors thank Bruce Fay, Assessment Consultant at 
+Wayne RESA Assessment and Evaluation Services, Wayne, 
+MI, for help with interpretation of Wayne RESA Benchmark 
+results; the students and parents of the Ypsilanti Public 
+School System who participated in this research; and the 
+teachers and principals who distributed and collected 
+surveys. This work was supported by the NINDS (K02NS02009). 
+
+
+
+R.D. Chervin et al. / Sleep Medicine 4 (2003) 21–27 
+References 
+
+[1] Gislason T, Benediktsdottir B. Snoring, apneic episodes, and nocturnal 
+hypoxemia among children 6 months to 6 years old. An epidemiologic 
+study of lower limit of prevalence. Chest 1995;107:963– 
+966. 
+[2] Beebe DW, Gozal D. Obstructive 
+sleep apnea and the prefrontal 
+cortex: towards a comprehensive model linking nocturnal upper 
+airway obstruction to daytime cognitive and behavioral deficits. J 
+Sleep Res 2002;11:1–16. 
+[3] Gozal D. Sleep-disordered breathing and school performance in children. 
+Pediatrics 1998;102:616–620. 
+[4] Gozal D, Pope Jr DW. Snoring during early childhood and academic 
+performance at ages thirteen to fourteen years. Pediatrics 
+2001;107:1394–1399. 
+[5] Rhodes SK, Shimoda KC, Wald LR, O’Neil PM, Oexmann MJ, 
+Collop NA, et al. Neurocognitive deficits in morbidly obese children 
+with obstructive sleep apnea. J Pediatr 1995;127:741–744. 
+[6] Blunden S, Lushington K, Kennedy D, Martin J, Dawson D. Behavior 
+and neurocognitive performance in children aged 5–10 years who 
+snore compared to controls. J Clin Exp Neuropsychol 2000;22:554– 
+568. 
+[7] Lewin DS, England SJ, Rosen RC. Cognitive and behavioral sequelae 
+of obstructive sleep apnea in children. Sleep 1999;22(Suppl.):S126. 
+[8] Nettles MT, Perna LW. The African American education databook, 
+Preschool through high school education, vol. II. Frederick D. Patterson 
+Research Institute of the College Fund/UNCF, Fairfax, VA. 1997. 
+[9] Redline S, Tishler PV, Schluchter M, Aylor J, Clark K, Graham G. 
+Risk factors for sleep disordered breathing in children: associations 
+with obesity, race, and respiratory problems. Am J Respir Crit Care 
+Med 1999;159:1527–1532. 
+[10] Stepanski E, Zayyad A, Nigro C, Lopata M, Basner R. Sleep-disordered 
+breathing in a predominantly African–American pediatric 
+population. J Sleep Res 1999;8:65–70. 
+[11] Chervin RD, Hedger KM, Dillon JE, Pituch KJ. Pediatric Sleep Questionnaire 
+(PSQ): validity and reliability of scales for sleep-disordered 
+breathing, snoring, sleepiness, and behavioral problems. Sleep Med 
+2000;1:21–32. 
+[12] Ali NJ, Pitson DJ, Stradling JR. Snoring, sleep disturbance, and behaviour 
+in 4–5 year olds. Arch Dis Child 1993;68:360–366. 
+[13] Moore PJ, Adler NE, Williams DR, Jackson JS. Socioeconomic status 
+and health: the role of sleep. Psychosom Med 2002;64:337–344. 
+[14] Ohayon M. Epidemiological study on insomnia in the general population. 
+Sleep 1996;19:S7–S15. 
+[15] Cugy D, Paty J, Balan J, Vinclair J, Cugy S, Lenain J-L, et al. Purchasing 
+power and prevalence of sleep complaint about a survey of 205 
+347 people from 1988 to 1998. Acta Fisiol 2001;7:284. 
+[16] Mayeux L, Teculescu D, Montaut-Verient B, Virion JM, Michaely JP, 
+Hannhart B. Occupational status and sleep-disordered breathing in a 
+sample of French males. Eur J Epidemiol 2001;17:71–75. 
+[17] Sobal J, Stunkard AJ. Socioeconomic status and obesity: a review of 
+the literature. Psychol Bull 1989;105:260–275. 
+[18] Mei Z, Scanlon KS, Grummer-Strawn LM, Freedman DS, Yip R, 
+Trowbridge FL. Increasing prevalence of overweight among US 
+low-income preschool children: the Centers for Disease Control and 
+Prevention pediatric nutrition surveillance, 1983 to 1995. Pediatrics 
+1998;101:E12. 
+[19] Lind MG, Lundell BPW. Tonsillar hyperplasia in children: a cause of 
+obstructive sleep apneas, CO2 retention, and retarded growth. Arch 
+Otolaryngol 1982;108:650–654. 
+[20] Stoohs RA, Bingham LA, Itoi A, Guilleminault C, Dement WC. Sleep 
+and sleep-disordered breathing in commercial long-haul truck drivers. 
+Chest 1995;107:1275–1282. 
+[21] Chervin RD, Dillon JE, Bassetti C, Ganoczy DA, Pituch KJ. Symptoms 
+of sleep disorders, inattention, and hyperactivity in children. 
+Sleep 1997;20:1185–1192. 
+[22] Ali NJ, Pitson D, Stradling JR. Sleep disordered breathing: effects of 
+adenotonsillectomy on behaviour and psychological functioning. Eur 
+J Pediatr 1996;155:56–62. 
+[23] Parcel TL, Dufur MJ. Capital at home and at school: effects on student 
+achievement. Soc Forces 2001;79:881–912. 
+[24] Duncan GJ, Yeung WJ, Brooks-Gunn J, Smith JR,. How much does 
+childhood poverty affect the life chances of children? Am Soc Rev 
+1998;63:406–423. 
+[25] Adams CR, Singh K. Direct and indirect effects of school learning 
+variables on academic achievement of African American 10th 
+graders. J Negro Educ 1998;67:48–66. 
+[26] Willie CV. The contextual effects of socioeconomic status on student 
+achievement test scores by race. Urban Educ 2001;36:461–478. 
+

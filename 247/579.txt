@@ -1,0 +1,641 @@
+International Journal of Pediatric Otorhinolaryngology 
+65 (2002) 7–13 
+
+www.elsevier.com/locate/ijporl 
+
+
+Nasal resistances are useful in identifying children with 
+severe obstructive sleep apnea before polysomnography 
+
+Maurizio Rizzi a, Jose` Onorato b, Arnaldo Andreoli a, Stefano Colombo a, 
+Marica Pecis a, Paola Marchisio b, Marco Morelli b, Nicola Principi b, 
+Susanna Esposito b, Margherita Sergi a,* 
+
+
+a Serizio Fisiopatologia Respiratoria, Uniersita` di Milano, Ospedale Luigi Sacco Azienda Ospedaliera, Polo Uniersitario, 
+Via G.B. Grassi 74, Milan 20157, Italy 
+b Clinica Pediatrica IV, Uniersita` di Milano, Ospedale Luigi Sacco Azienda Ospedaliera, Polo Uniersitario, Via G.B. Grassi 74, 
+Milan 20157, Italy 
+
+
+Received 29 August 2001; received in revised form 12 April 2002; accepted 20 April 2002 
+
+Abstract 
+
+Objectie: In this study, we would like to show that anterior rhinometry measurement of nasal resistance would be 
+a simple and useful test to identify severe obstructive sleep apnea (OSA) in a population of children affected by 
+adenotonsillar hypertrophy. Methods: Seventy-three consecutive children (44 males; mean age 5.41.2 years) with 
+adenotonsillar hypertrophy, who complained sleep-disordered breathing, were studied. All the parents completed a 
+questionnaire concerning the children’s sleeping habits and sleep complaints before consultation; each child underwent 
+a general paediatric examination and an evaluation of craniofacial features and upper airway patency. In all 73 
+children polysomnography was performed and anterior rhinometry nasal patency was measured. Results: The 
+diagnosis of OSA was confirmed in 44/73 patients (60%). Total nasal resistance showed a significant direct correlation 
+with apnea hypopnea index, arousal index, snoring time, percentage of sleep time spent at SaO2 90% and a 
+significant inverse correlation with total sleep time, sleep efficiency and the mean of SaO2% during sleep. Total nasal 
+resistance was significantly related to snoring, mouth breathing and daytime sleepiness. The receiver operator 
+characteristics (ROC) curve indicates that in the range of age of our sample a nasal resistance value of 0.59 Pa/cm3/s 
+has a sensitivity of 91% and specificity of 96% for identifying the children with adenotonsillar hypertrophy affected 
+by OSA. Conclusions: Our study shows that in children with adenotonsillar hypertrophy nasal resistance seems to be 
+risk factor for OSA. The anterior rhinometry appears as a useful tool in routine evaluation of sleep-disordered 
+breathing in these patients. © 2002 Elsevier Science Ireland Ltd. All rights reserved. 
+
+Keywords: Obstructive sleep apnea; Nasal resistance; Polysomnography; Adenotonsillar hypertrophy 
+
+1. Introduction 
+* Corresponding author. Tel.: +39-02-39042277; fax: +3902-
+39042613. 
+E-mail address: fisiopatologia@ospedalesacco.lom.it (M. Paediatric obstructive sleep apnea (OSA) is a 
+Sergi). disorder characterised by complete or partial up
+
+
+0165-5876/02/$ -see front matter © 2002 Elsevier Science Ireland Ltd. All rights reserved. 
+
+PII: S0165-5876(02)00119-2 
+
+
+8 M. Rizzi et al. / 
+Int. J. Pediatr. Otorhinolaryngol. 65 (2002) 7–13 
+
+per airway obstruction during sleep, and is associated 
+with snoring, apneic episodes, restless sleep, 
+hypoxemia, growth failure, daytime hypersomnolence, 
+behavioural problems and cor pulmonale 
+[1,2]. Marcus et al. [3] have recently shown that 
+children with moderate OSA have higher diastolic 
+blood pressure than controls and it is possible 
+that they will develop worsening hypertension 
+over the years unless they receive treatment. 
+
+OSA affects 1–3% of the pre-school population 
+[4,5]. It is usually provoked by adenotonsillar 
+hypertrophy and can be treated efficiently by 
+adenotonsillectomy. 
+
+The number of subjects with suspected OSA 
+referred to sleep laboratories is increasing and it 
+is difficult to manage a waiting list properly because 
+some patients may have severe OSA and 
+others a mild disorder. As in the case of adults, a 
+procedure for establishing priority in paediatric 
+patients with severe OSA would be useful in 
+managing the waiting list and promptly planning 
+confirmatory polysomnography (PSG) and surgical 
+procedures. 
+
+We hypothesised that the rhinometry measurement 
+of nasal resistances would be a simple and 
+useful test that could help identify children with 
+severe OSA. 
+
+2. Methods 
+2.1. Patients 
+The study involved 73 consecutive children 
+with a mean age of 5.41.2 years (range 4–7), 
+who were referred for sleep study by paediatricians 
+or otolaryngologists because of a history of 
+snoring and/or difficulty in breathing during 
+sleep. The exclusion criteria were acute adenotonsillitis, 
+tonsillectomy, rhinitis, asthma, neuromuscular 
+disease and craniofacial abnormalities: all of 
+the children had enlarged adenoids and tonsils 
+confirmed by clinical examination and endoscopy. 
+
+Informed consent was obtained from parents or 
+legal guardians, and the study was approved by 
+the hospital Ethics Committee. 
+
+2.2. Clinical ealuation 
+The parents completed a questionnaire concerning 
+the children’s sleeping habits and sleep 
+complaints before consultation, including questions 
+about snoring (more than 2–3 times a 
+week), observed apnea, mouth breathing and daytime 
+sleepiness (sometimes or often falling asleep 
+watching television). All of the questions required 
+yes or no answers and the questionnaire usually 
+took about 5 min to complete. The answers were 
+reviewed with the parents and the child during 
+the clinical interview. 
+
+Each child underwent a general paediatric examination 
+and an evaluation of craniofacial features 
+and upper airway patency. Tonsillar size 
+was evaluated according to a previously published 
+scale [6]: all of the children were classified as 
+grade 2 (enlarged beyond the pillars, but not 
+meeting the uvula) or grade 3 (meeting the uvula). 
+
+2.3. Single nostril anterior rhinometry 
+Nasal patency was measured by means of single 
+nostril anterior rhinometry [7] using a transparent 
+plastic oronasal mask with an inflatable cuff. A 
+pressure catheter was attached to the nostrils with 
+adhesive tape in order to provide an airtight seal 
+with minimal distortion of the nostrils. Nasopharyngeal 
+pressure and airflow velocity were measured 
+using a linear pneumotachograph and 
+plotted on a X–Y recorder (Rhinotest MP 500, 
+Allergopharma J. Ganzer KG Reinbek, Hamburg, 
+Germany). Nasal resistance was calculated 
+at standard pressure (150 Pa) and expressed as 
+centimetres of H2O per litre per second. Airflow 
+velocity (ml/s) was measured at a pressure differential 
+of -1.5 cm H2O. The device was calibrated 
+before use by means of a standard resistor 
+at a reading of 250 ml/s. The measurements were 
+made with the patient in an erect position, the 
+readings being made first in the right nostril and 
+then in the left [8]. Right and left resistances and 
+airflow were recorded, and total resistance was 
+calculated using the formula (R×L)/(R+L), 
+where R and L were the resistances of the right 
+and left nostril. A minimum of three readings 
+with a variability of less than 5% were made in 
+
+
+M. Rizzi et al. / 
+Int. J. Pediatr. Otorhinolaryngol. 65 (2002) 7–13 9 
+order to obtain a final average. Rhinometry was 
+performed before PSG. 
+
+2.4. Sleep studies 
+All of the 73 children underwent PSG, a noninvasive, 
+objective and accepted test for assessing 
+OSA (Alice 3 Healthdyne, Marietta, OH, USA), 
+without any sleep deprivation or sedation. 
+Overnight sleep studies were performed using 
+standard polysomnographic techniques, including 
+recordings of an electroencephalogram (EEG) 
+(C4/A2,C3/A1), electrooculogram (EOG), sub-
+mental electromyogram (EMG) and electrocardiogram 
+(ECG) with surface electrodes. Airflow 
+and ventilatory efforts were, respectively 
+recorded by means of naso-oral thermocouples 
+and piezoelectrodes; oxygen saturation (SaO2) 
+was monitored using a finger oximeter (Pulsox 7, 
+Minolta, Osaka, Japan). The transducers and 
+lead wires allowed normal positional changes 
+during sleep. Snoring sounds were recorded by 
+means of an air-coupled subminiature microphone 
+(sensitivity threshold 20 dB UIL at 125 
+Hz), both taped to the skin at the level of the 
+larynx. 
+
+Quiet breathing was recorded at a level of less 
+than 50 dB; any deflections synchronous with 
+respiration in the microphone channel and exceeding 
+50 dB were counted as snores, and the 
+percentage of total sleep time (TST) spent in 
+snoring was calculated. 
+
+Bedtime and waking time were left to each 
+subject’s discretion, with PSG being terminated 
+after final awakening. In order to avoid the first 
+night effect, each subject slept two nights in the 
+sleep laboratory and only the sleep parameters 
+recorded during the second night were evaluated. 
+Each signal was acquired on an optical disk and 
+manually scored in 30-s epochs to identify 
+pathological respiration during sleep, according 
+to the recommendations of the ATS [9]. 
+
+Sleep stages and architecture were analysed 
+according to standard criteria [10], with microarousals 
+being scored as defined by the 
+ASDA [11]. The collection of transient arousals 
+
+allowed the calculation of the arousal index 
+(number of arousals per hour of sleep). 
+
+TST and sleep stages were evaluated according 
+to the ATS recommendations [9]; sleep efficiency 
+was defined as the ratio between TST and 
+the total time in bed. 
+
+In accordance with the ATS criteria, apnea 
+was classified as obstructive (cessation of airflow 
+of any duration with the presence of chest wall 
+motion), central (a period without airflow and 
+respiratory efforts) and mixed (with the characteristics 
+of both). 
+
+Hypopnea was defined as a decrease in airflow 
+of at least half in comparison with previous values, 
+associated with a simultaneous drop in 
+SaO2 of 4% or more in comparison with the 
+previous recorded data. 
+
+The apnea hypopnea index (AHI) was the 
+number of hypopneas, obstructive and mixed 
+apneas per hour of sleep [9]. 
+
+Using the nocturnal tracing, the mean values 
+of each epoch and SaO2, and the percentage of 
+sleep time spent at SaO2 90% (CT 90) were 
+calculated. 
+
+The diagnosis of OSA required an AHI of 1 
+or more per hour of sleep. 
+
+2.5 Statistical analysis 
+The clinical data and PSG variables are expressed 
+as mean valuesSD. 
+
+The correlation between nasal resistance and 
+the parameters monitored during PSG were evaluated 
+using Spearman’s correlation test; logistic 
+regression was used to evaluate the relationship 
+between clinical symptoms and total nasal 
+resistance. 
+
+Standard techniques were used to obtain Receiver 
+Operator Characteristics (ROC) curves. 
+Assuming nasal resistance as a reference value 
+for the severity of OSA, we calculated the specificity, 
+sensitivity, and positive and negative predictive 
+values of rhinometry. 
+
+A P value of 0.05 was considered statistically 
+significant; all of the statistical calculations 
+were made using the SPSS (SPSS Inc., Chicago, 
+IL, USA) 
+
+
+10 M. Rizzi et al. /Int. J. Pediatr. Otorhinolaryngol. 65 (2002) 7–13 
+
+3. Results 
+We studied 73 consecutive patients (59% males; 
+mean age 5.41.2, years: range 4–7) referred for 
+suspected OSA; their mean weight and height was 
+19.12.1 kg (range 16–23) and 1083cm 
+(range 102–112). The parents reported habitual 
+snoring in 55 cases (78%, without any gender 
+differences), witnessed apneic episodes in 37 
+(53%), oral breathing in 46 (66%) and daytime 
+sleepiness in 18 (26%). 
+
+The diagnosis of OSA was confirmed in 44/73 
+patients (60%). The mean AHI in the population 
+as a whole was 109 and the same value was 
+observed for the arousal index. TST was 43135 
+min and sleep efficiency 925% the distribution 
+of sleep stages as percentages of TST was REM 
+124%, S1+S2 543% and S3+S4 263%, 
+and the snoring time was 2623%. 
+
+Mean nocturnal SaO2 was 923%, CT9O 
+4.03% of TST, and the mean total nasal resistance 
+was 0.920.8 Pa/cm3/s. 
+
+The correlation between nasal resistance and 
+AHI and the arousal index was similar (r=0.83 
+and 0.81; P0.0001) (Figs. 1 and 2). Snoring 
+time (r=0.85), CT9O (r=0.65), TST (r=- 
+0.75), sleep efficiency (r=-0.65) and SaO2 (r= 
+-0.78) were significantly correlated (P0.000l) 
+with nasal resistance (Table 1). 
+
+Fig. 1. Relationship between nasal resistance (Pa/cm3/s) and 
+the AH1 Spearman’s correlaton test. 
+
+
+Fig. 2. Relationship between nasal resistance (Pa/cm3/s) and 
+the arousal index. Spearman’s correlation test. 
+
+The logistic regression data are shown in Table 
+
+2. There was a significant correlation (P0.005) 
+between total nasal resistance and snoring, oral 
+breathing and daytime sleepiness, but no significant 
+correlation with witnessed apnea. 
+The ROC curve of nasal resistance is shown in 
+Fig. 3, without a specific cut-off point; the ability 
+to identify patients with OSA is greatly affected 
+by varying the threshold value along the curve. A 
+value of 0.59 Pa/cm3/s had a sensitivity of 0.91% 
+(true positive ratio), a specificity of 0.96% (true 
+negative ratio), a positive predictive value (PPV) 
+of 97%, and a negative predictive value (NPV) of 
+86%. 
+
+Table 1 
+Spearman’s correlation test between total nasal resitence and 
+polysonmographic data of the 73 children involved in the 
+study, limit of significance P0.05 
+
+rP 
+
+Res tot vs AHI 0.83 0.0001 
+Res tot vs arousal index 0.81 0.0001 
+Res tot vs snoring time 0.85 0.0001 
+Res tot vs CT90 0.65 0.0001 
+Res tot vs TST -0.75 0.0001 
+Res tot vs sleep efficiency -0.65 0.0001 
+Res tot vs SaO2 mean -0.78 0.0001 
+
+Abbreviations: Res tot, total nasal resistence; AHI, apnea 
+hypopnea index; SaO2%, oxygen saturation; CT90, percentage 
+of sleep time spent at SaO2% 90%. 
+
+
+M. Rizzi et al. / 
+Int. J. Pediatr. Otorhinolaryngol. 65 (2002) 7–13 11 
+Table 2 
+Logistic regression between total nasal resistence, sleeping 
+habits and sleep complaints of the 73 children involved in the 
+study, limit of significance P0.05 
+
+P 
+
+Res tot vs snoring 0.005 
+Res tot vs mouth breathing 0.005 
+Res tot vs daytime sleepiness 0.005 
+Res tot vs apnea witnessed n.s. 
+
+Abbreviations: Res tot, total nasal resistence. 
+
+4. Discussion 
+The aim of this study was to evaluate the 
+usefulness of nasal resistance measurements in 
+identifying children with clinically severe OSA in 
+order to allow prompt diagnostic PSG, because 
+the number of patients sent to sleep laboratories is 
+continually increasing and the waiting lists may 
+extend for months. 
+
+As in the case of adults, PSG is being increasingly 
+requested for children, some of whom have 
+severe symptoms and others less severe complaints. 
+Using an AHI5 events/h of sleep, the 
+prevalence of OSA in the pediatric population 
+ranges from 15 to 51% [6,12]; when a less selective 
+AHl cut-off of 1 event/h of sleep plus low 
+saturation levels is used, Sivan et al. [13], Marcus 
+et al. [3] and our own study found 62, 61 and 60% 
+of OSA-positive patients. These data clearly indicate 
+that, in many sleep laboratories, about 40% 
+of the patients tested have no OSA risk and could 
+be examined later. 
+
+Fig. 3. ROC curve of nasal resistance (Pa/cm3/s) in detecting 
+children with OSA. 
+
+
+A large number of adult surveys have been 
+conducted in order to establish the presence or 
+absence of OSA by means of parameters such as 
+age, sex, snoring, witnessed apnea and daytime 
+sleepiness, and giving a score for each clinical 
+feature suggestive of sleep apnea. 
+
+An AHl cut-off value of 10/h of sleep [14,15] 
+has been found to have a sensitivity of 74–78% 
+and a specificity of between 93 and 67%, whereas 
+the sensitivity and specificity of an AHI15 
+were, respectively 92 and 51% [16]. 
+
+Many ‘sleep disorder questionnaires’ (SDQs) 
+have been tested with conflicting results: some 
+authors [17] have found 85% sensitivity and 76% 
+specificity, but others [18] have found less interesting 
+results (45% sensitivity and 41% specificity) 
+and excluded the clinical usefulness of this approach. 
+A similar conclusion was also reached by 
+another study [19]. 
+
+Attempts to predict OSA before PSG have led 
+to similarly conflicting results in children. One 
+study [20] has shown that an OSA-positive nap 
+correlates well with noctumal PSG results (a sensitivity 
+and specificity of, respectively 74 and 
+100%, a PPV of 100% and an NPV of 17%), and 
+another study [21] has found that some nap 
+parameters have good specificity but only moderate 
+sensitivity. 
+
+Brouillette et al. [22] suggest a score based on 
+noctumal respiratory difficulties, apnea, snoring 
+and the data obtained using a questionnaire: this 
+system has a PPV of 92%, but it is not capable of 
+distinguishing OSA from normal subjects or simple 
+snorers [23]. In another study, Rosen et al. [24] 
+concluded that a clinical evaluation of symptomatic 
+children is not reliable for diagnosing or 
+excluding OSA, and that even asymptomatic snorers 
+require PSG. Finally, Carroll et al. [25] concluded 
+that a medical history cannot distinguish 
+primary snoring (PS) and OSA. 
+
+Brouillette et al. [26] have recently used noctumal 
+oxymetry in 485 children as a test for predicting 
+OSA, and found a PPV of 97%: it is therefore 
+capable of identifying the patients requiring diagnostic 
+PSG, but a negative result is not sufficient 
+to exclude OSA. 
+
+Nasal resistances in adults do not correlate with 
+the severity of respiratory disturbances during 
+
+
+12 
+M. Rizzi et al. / 
+Int. J. Pediatr. Otorhinolaryngol. 65 (2002) 7–13 
+
+sleep [27,28], nor do they represent a risk factor 
+for causing or worsening OSA [29] or a diagnostic 
+predictive factor [30]: however, they are a risk 
+factor for snoring [31,32]. The nasal resistance in 
+children significantly decreases with age and it is 
+elevate in the presence of muconasal swelling, 
+adenoid enlargement and other significant nasal 
+pathology [33–36]. Kim et al. (1998) [37] concluded 
+that the occurrence of upper airway obstruction 
+is frequently seen in patients with 
+adenotonsillar hypertrophy due to a congestion of 
+the inferior turbinate, with a complete normalisation 
+after adenoidectomy and tonsillectomy. 
+
+Our case record shows that parental reports of 
+snoring and oral breathing are the commonest 
+symptoms, followed by daytime sleepiness; all 
+three significantly correlated with nasal resistance. 
+Previous studies [22–25] showed a little utility of 
+this symptoms in predicting OSA. Moreover 
+Parker et al. [33] demonstrated that the only 
+presence of mouth-breathing and/or ‘adenoidal 
+facies’ may depends not only from an increase in 
+nasal resistances but also to other conditions such 
+us alterations in mandibular posture. 
+
+The children spent 26% of TST in snoring and 
+their sleep architecture was roughly similar to the 
+published data [38]. Nasal resistance significantly 
+correlated with the PSG parameters: the increased 
+lymphatic tissue and inflammation observed may 
+lead to upper airway intraluminal collapse, thus 
+promoting apnea, hypopnea and arousals. 
+
+The ROC curve indicates that a nasal resistance 
+value of 0.59 Pa/cm3/s has a sensitivity of 91%, a 
+specificity of 96%, a PPV of 97% and an NPV of 
+86%: these values are higher than those reported 
+in published studies of the possibility of diagnosing 
+OSA before PSG. Nasal resistances also offer 
+better diagnostic opportunities than oxymetry and 
+nap, and represent a more simple and objective 
+system that saves technician time by avoiding the 
+need to score and interpret the results of monitoring. 
+In our study, only four patients with clinically 
+significant disturbed breathing during sleep were 
+missed using this approach (false negatives). 
+
+It can be concluded that nasal resistances in the 
+presence of local lymphoid tissue hypertrophy are 
+a useful means of managing waiting lists: although 
+the symptomatic patients with normal 
+
+nasal resistance must obviously undergo PSG in 
+any case, they can be examined at a later time. In 
+the range of age of our sample we suggest to use 
+
+0.59 Pa/cm3/s as threshold to identify the children 
+with adenotonsillar hypertrophy affected by OSA. 
+References 
+
+[1] W.P. Potsic, Sleep apnea in children, Otolaryngol. Clin. 
+North Am. 22 (1989) 537–544. 
+[2] R.T. Brouillette, S.K. Fembach, C.E. Hunt, Obstructive 
+sleep apnea in infants and children, J. Pediatr. 100 (1982) 
+31–39. 
+[3] C.L. Marcus, M.G. Greene, I.L. Carroll, Blood pressure 
+in children with obstructive sleep apnea, Am. J. Respir. 
+Crit. Care Med. 157 (1998) 1098–1103. 
+[4] N.J. Ali, D.J. Pitson, J.R. Stradling, Snoring, sleep disturbance, 
+and behavior in 4–5 years old, Arch. Dis. Child. 
+68 (1993) 360–366. 
+[5] T. Gislason, B. Benediktsdottir, Snoring, apneic episodes, 
+and nocturnal hypoxemia among children 6 months to 6 
+years old, Chest 107 (1995) 963–966. 
+[6] J.S. Suen, E.A. James, L.J. Brooks, Adenotonsillectomy 
+for treatment of obstructive sleep apnea in children, Arch. 
+Otolaryngol. Head Neck Surg. 121 (1995) 525–530. 
+[7] J.T. Connel, Rhinometry measurements of nasal patency, 
+Ann. Allergy 49 (1982) 179–185. 
+[8] J.T. Connel, Objective measurements of nasal airflow and 
+other diagnostic nasal tests, Clin. Rev. Allergy 51 (1984) 
+213–223. 
+[9] American Thoracic Society, Standards and indications for 
+cardiopulmonary sleep studies in children, Am. J. Respir. 
+Crit. Care Med. 153 (1996) 866–878. 
+[10] A. Rechtschaffen, A. 
+Kales, A manual of standardized 
+terminology, techniques and scoring systems for sleep 
+stages of human subjects, Los Angeles Brain Information 
+Service, Brain Research Institute, UCLA, Los Angeles, 
+CA, 1968. 
+[11] Sleep disorders atlas task force of the American sleep 
+disorders association, EEG arousals: scoring rules and 
+examples, Sleep 15 (1992) 173–184. 
+[12] C.L. Rosen, L. D’Andrea, G. Haddad, Adult criteria for 
+obstructive sleep apnea do not identify children with 
+serious obstruction, Am. Rev. Respir. Dis. 146 (1992) 
+1231–1234. 
+[13] Y. Sivan, A. Kornecki, T. Schonfeld, Screening obstructive 
+sleep apnea syndrome by home videotape recording 
+in children, Eur. Respir. J. 9 (1996) 2127–2131. 
+[14] A. Fein, H. 
+Niederman, H. Sklarek, R. Mantovani, H. 
+Rosen, Can clinical findings predict a positive sleep 
+study?, Am. Rev. Respir. Dis. 133 (1986) A55. 
+[15] L. Kapuniai, D. Andrew, D. Crowell, I. Pearce, Identifying 
+sleep apnea from self-reports, Sleep 11 (1988) 430– 
+436. 
+
+M. Rizzi et al. / 
+Int. J. Pediatr. Otorhinolaryngol. 65 (2002) 7–13 
+13 
+[16] B.D. Crocker, L.G. Olson, N.A. Saunders, M.J. Hensley, 
+J.L. McKeon, K.M. AIlen, S.G. Gyulay, Estimation of 
+the probability of disturbed breathing during sleep before 
+a sleep study, Am. Rev. Respir. Dis. 142 (1990) 14–18. 
+[17] A.B. Douglas, R. Borstein, G. Nino-Murcia, S. Keenan, 
+I. Miles, V.P. Zarcone, C. Guilleminault, W.C. Dement, 
+The sleep disorders questionnaire I: creation and multivariate 
+structure of SDQ, Sleep 17 (1994) 160–167. 
+[18] H. Rauscher, W. Popp, H. Zwick, Model for investigating 
+snores with suspected sleep apnea, Thorax 48 (1993) 
+275–279. 
+[19] S.M. Scharf, E. Garshick, R. 
+Brown, P.V. Tishler, T. 
+Tosteson, R. Mc Carley, Screening for subclinical sleep-
+disordered breathing, Sleep 13 (1990) 344–353. 
+[20] C.L. Marcus, T.G. Keens, S.L. Davidson Ward, Comparison 
+of nap and overnight polysomnography in children, 
+Pediatr. Pulmonol. 13 (1992) 16–21. 
+[21] M.M. Saeed, M.W. Stabile, J. Bolokowicz, T.G. Keens, 
+S.E. Davidson Ward, Do nap sleep study parameters 
+predict abnormal overnight studies (ONP)?, Am. J. Resp. 
+Crit. Care Med. 159 (1999) A486 (Part 2). 
+[22] R.T. Brouillette, D. Hanson, R. 
+David, E. Klemka, A. 
+Szarkowski, S. Fembach, C. Hunt, A diagnostic approach 
+to suspected obstructive sleep apnea in children, J. Pediatr. 
+105 (1984) 10–14. 
+[23] R.T. Brouillette, A. Morielli, Do all children suspected of 
+obstructive sleep apnea (OSAS) need polysomnography 
+(PSG) before tonsillectomy and adenoidectorny (T&A)?, 
+Am. J. Resp. Crit. Care Med. 151 (1995) A152. 
+[24] C.L. Rosen, S.H. Hui, L.A. D’Andrea, D.N. Traquina, 
+Polysomnography (PSG) in habitual snoring children: 
+lack of correlation with clinical assessment of obstructive 
+sleep apnea syndrome (OSAS), Am. J. Resp. Crit. Care 
+Med. 151 (1995) A152. 
+[25] J.L. Carroll, S.A. McColley, C.L. Marcus, S. Curtis, 
+G.M. Loughlin, Inability of clinical history to distinguish 
+primary snoring from obstructive sleep apnea syndrome 
+in children, Chest 108 (1995) 610–618. 
+[26] R.T. Brouillette, A. Morielli, A. Leimanis, K.A. Waters, 
+R. Luciano, F.M. Ducharme, Noctumal oximetry as an 
+abbreviated testing modality for pediatric obstructive 
+sleep apnea, Pediatrics 105 (2000) 405–412. 
+
+[27] A. Metes, M. Ohki, P. Cole, J.S. Haight, V. Hoffstein, 
+Snoring, apnea and nasal resistance in men and women, J. 
+Otolaryngol. 20 (1991) 57–61. 
+[28] H. Miljeteig, V. Hoffstein, P. Cole, The effects of unilateral 
+and bilateral nasal obstruction on snoring and sleep 
+apnea, Laryngoscope 102 (1992) 1150–1152. 
+[29] M. Atkins, V. Taskar, N. Clavton, P. Stone, A. Woodcock, 
+Nasal resistance in obstructive sleep apnea, Chest 
+105 (1994) 1133–1135. 
+[30] P. Desfonds, C. Plane´s, C. Fuhrman, A. Foucher, B. 
+Raffestin, Nasal resistance in snorers with or without 
+sleep apnea: effect of posture and nasal ventilation with 
+continuous positive airway pressure, Sleep 21 (1998) 625– 
+632. 
+[31] K.D. Olsen, E.B. Kern, Nasal influences on snoring and 
+obstructive sleep apnea, Mayo Clin. Proc. 65 (1990) 
+1059–1105. 
+[32] T. Young, L. Finn, H. Kim, Nasal obstruction as a risk 
+factor for sleep-disordered breathing, J. Allergy Clin. 
+Immunol. 99 (1997) S757–S762. 
+[33] L.P. Parker, W.S. Crysdale, P. Cole, D. Woodside, Rhinomanometry 
+in children, Int. J. Pediatr. Otorhinolaryngol. 
+17 (1989) 127–137. 
+[34] A. Saito, S. 
+Nishihata, Nasal airway resistance in children, 
+Rhinology 19 (1981) 149–154. 
+[35] J.J. Principato, P. Wolf, Pediatric nasal resistance, Laryngoscope 
+95 (1985) 1067–1069. 
+[36] P.B. Van Cauwenberge, K. de Schynkel, P.M. Kluyskens, 
+Clinical use of rhinomanometry in children, Int. J. Pediatr. 
+Otorhinolaryngol. 8 (1984) 163–175. 
+[37] Y.K. Kim, J.H. Kang, K.S. Yonn, Acoustic rhinometric 
+evaluation of nasal cavity and nasopharynx after adenoidectomy 
+and tonsillectomy, Int. J. Pediatr. Otorhinolaryngol. 
+44 (1998) 215–220. 
+[38] Y. Franck, R.E. Kravath, C.P. Pollack, E.D. Weitzman, 
+Obstructive sleep apnea and its therapy: clinical and 
+polysomnograhic manifestations, Pediatrics 71 (1983) 
+737–742. 
+

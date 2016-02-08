@@ -1,0 +1,1564 @@
+Sleep and Neurobehavioral Characteristics of 5- to 7-Year-Old Children With 
+Parentally Reported Symptoms of Attention-Deficit/Hyperactivity Disorder 
+
+
+Louise M. O’Brien, Cheryl R. Holbrook, Carolyn B. Mervis, Carrie J. Klaus, Jennifer 
+L. Bruner, Troy J. Raffield, Jennifer Rutherford, Rochelle C. Mehl, Mei Wang, 
+Andrew Tuell, Brittany C. Hume and David Gozal 
+Pediatrics 2003;111;554-563 
+DOI: 10.1542/peds.111.3.554 
+
+
+The online version of this article, along with updated information and services, is 
+located on the World Wide Web at: 
+
+
+http://www.pediatrics.org/cgi/content/full/111/3/554 
+
+
+PEDIATRICS is the official journal of the American Academy of Pediatrics. A monthly 
+publication, it has been published continuously since 1948. PEDIATRICS is owned, published, 
+and trademarked by the American Academy of Pediatrics, 141 Northwest Point Boulevard, Elk 
+Grove Village, Illinois, 60007. Copyright © 2003 by the American Academy of Pediatrics. All 
+rights reserved. Print ISSN: 0031-4005. Online ISSN: 1098-4275. 
+
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+Sleep and Neurobehavioral Characteristics of 5-to 7-Year-Old 
+Children With Parentally Reported Symptoms of 
+Attention-Deficit/Hyperactivity Disorder 
+
+
+Louise M. O’Brien, PhD*; Cheryl R. Holbrook, MAT, RPSGT*; Carolyn B. Mervis, PhD‡; Carrie J. Klaus*; 
+Jennifer L. Bruner, BSc*; Troy J. Raffield, MA‡; Jennifer Rutherford, MA‡; Rochelle C. Mehl, PhD‡; 
+Mei Wang, PhD*; Andrew Tuell, BA*; Brittany C. Hume*; and David Gozal, MD* 
+
+
+ABSTRACT. Objectives. This study examined the hypothesis 
+that domains of neurobehavioral function 
+would be selectively affected by sleep-disordered breathing 
+(SDB). Therefore, we assessed potential relationships 
+between objectively measured sleep disturbances and 
+neurobehavioral function in children with reported 
+symptoms of attention-deficit/hyperactivity disorder 
+(ADHD) and also determined the incidence of snoring 
+and other sleep problems in 5-to 7-year-old children in 
+the local community and potential relationships to parental 
+snoring and passive smoking. 
+
+Methods. Parents of 5-to 7-year-old children in public 
+schools were surveyed about their child’s sleeping 
+habits using a validated questionnaire. The questionnaire 
+also asked whether they believed their child to be 
+hyperactive or have ADHD. Children with reported 
+symptoms of ADHD and control children were randomly 
+selected and invited to the Sleep Medicine Center for an 
+overnight polysomnographic assessment and a battery of 
+neurocognitive tests. 
+
+Results. The questionnaire response rate was 47.6% 
+(n . 
+5728). Frequent and loud snoring was reported for 
+673 children (11.7%). Similarly, 418 (7.3%) children were 
+reported to have hyperactivity/ADHD, 313 (76.5%) of 
+which were boys. Eighty-three children with parentally 
+reported symptoms of ADHD were invited for full evaluation 
+at the Sleep Medicine Center together with 34 
+control children. After assessment with the Conners’ Parent 
+Rating Scale, 44 children were designated as having 
+“significant” symptoms of ADHD, 27 as “mild,” and 39 
+designated as “none” (controls). Overnight polysomnography 
+indicated that obstructive sleep apnea was present 
+in 5% of those with significant ADHD symptoms, 26% of 
+those with mild symptoms, and 5% of those with no 
+symptoms. In the cohort, no sleep variable accounted for 
+more than a negligible proportion of the variance in 
+domains of neurobehavioral function. 
+
+Conclusions. An unusually high prevalence of snoring 
+was identified among a group of children designated 
+as showing mild symptoms of ADHD based on the Conners’ 
+ADHD index identified from a community sample. 
+However, whereas SDB is not more likely to occur among 
+
+From the *Kosair Children’s Hospital Research Institute, and Division of 
+Pediatric Sleep Medicine, Department of Pediatrics, and ‡Department of 
+Psychological and Brain Sciences, University of Louisville, Louisville, Kentucky. 
+Received for publication Apr 29, 2002; accepted Aug 13, 2002. 
+Reprint requests to (D.G.) Kosair Children’s Hospital Research Institute, 
+University of Louisville School of Medicine, 571 S Preston St, Ste 321, 
+Louisville, KY 40202. E-mail: david.gozal@louisville.edu 
+PEDIATRICS (ISSN 0031 4005). Copyright © 2003 by the American Academy 
+of Pediatrics. 
+
+
+children with significant ADHD symptoms, it is significantly 
+highly prevalent among children with mild hyperactive 
+behaviors. Sleep studies further revealed that 
+rapid eye movement disturbances are more likely to occur 
+in children with significant symptoms, and they seem 
+to impose significant but mild effects on daytime neurobehavioral 
+functioning. We conclude that in children 
+with significant symptoms of ADHD, the prevalence of 
+SDB is not different from that of the general pediatric 
+population and that rapid eye movement sleep in these 
+children is disturbed and may contribute to the severity 
+of their behavioral manifestations. Furthermore, SDB can 
+lead to mild ADHD-like behaviors that can be readily 
+misperceived and potentially delay the diagnosis and 
+appropriate treatment. Pediatrics 2003;111:554–563; snoring, 
+obstructive sleep apnea, periodic leg movement disorder 
+of sleep, ADHD, cognitive function. 
+
+ABBREVIATIONS. ADHD, attention-deficit/hyperactivity disorder; 
+SDB, sleep-disordered breathing; OSA, obstructive sleep apnea; 
+Spo2, oxygen saturation as measured by pulse oximetry; TST, 
+total sleep time; AHI, apnea/hypopnea index; PLM, periodic limb 
+movements; SD, standard deviation; DAS, Differential Ability 
+Scales; OR, odds ratio; REM, rapid eye movement; DSM-IV, Diagnostic 
+and Statistical Manual of Mental Disorders, Fourth Edition. 
+
+A
+A
+ttention-deficit/hyperactivity disorder (ADHD) 
+is the most frequently encountered pediatric 
+neurodevelopmental disorder and is characterized 
+by inattention, overactivity, and impulsivity.1 
+ADHD is estimated to affect between 3% and 5% of 
+school-aged children in the United States and Europe,
+2–4 although prevalence rates may vary depending 
+on whether samples are obtained from community 
+or clinical settings.5,6 Symptoms frequently 
+coincide with other emotional, behavioral, and learning 
+problems, and although the cause of ADHD 
+remains unknown, multiple contributors to this condition 
+have been identified, such as polygenic influences 
+and dopaminergic, adrenergic, and glutamatergic 
+alterations in specific brain regions.7 The 
+problem behaviors identified in ADHD are thought 
+to result from a lack of behavioral inhibition, which 
+interferes with 4 executive functions, namely working 
+memory, self-regulation of affect/arousal, internalization 
+of speech, and reconstitution.8 
+
+There is increasing evidence that snoring and 
+sleep-disordered breathing (SDB) are associated with 
+behavioral problems, in particular with hyperactivity 
+
+554 PEDIATRICS Vol. 111 No. 3 March 2003
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+–
+
+and ADHD.9 13 Hyperactive and inattentive behavior 
+has been reported in children with obstructive 
+sleep apnea (OSA) syndrome14,15 and habitual snoring,
+16,17 and it has been further suggested that up to 
+one third of all children with frequent, loud snoring 
+or SDB will display significant hyperactivity and 
+inattention.9 Improvement in the latter hyperactive 
+and inattentive behaviors has been found in children 
+who have undergone adenotonsillectomy for SDB.13 
+Conversely, children with ADHD seem to exhibit 
+more sleep disturbances than normal children.18 
+However, most of the studies on sleep and ADHD 
+have relied on parental reports of sleep disturbance, 
+with only a few studies actually performing objective 
+
+–
+
+sleep assessments.1922 The findings of most of the 
+latter studies are difficult to interpret because of 
+methodological problems such as small sample sizes, 
+associated comorbidities, and the lack of adequate 
+controls. Although improvement in behavior has 
+been noted after treatment of SDB, few studies have 
+specifically investigated the relationship between 
+SDB and neurobehavioral function. 
+
+To resolve some of these issues, we conducted this 
+study to examine potential relationships between 
+sleep measures and neurobehavioral function in a 
+community cohort of 5-to 7-year-old children with 
+reported symptoms of ADHD. Because we used both 
+questionnaire data and polysomnography, we were 
+in a unique position to compare both subjective and 
+objective information in this group of children. Furthermore, 
+we wished to determine the incidence of 
+snoring and sleep problems in these children and 
+assess the relationship with parental snoring and 
+parental smoking. 
+
+METHODS 
+
+Survey Questionnaire 
+
+The study was approved by the University of Louisville 
+Human Research Committee and the Jefferson 
+County Public Schools Board. A previously validated 
+questionnaire was used23 (Appendix 1), and a scannable 
+version was prepared using Teleform software 
+(Cardiff Software, San Marcos, CA). Parents of all 
+children who were enrolling in the first grade of the 
+Jefferson County Public Schools system were invited 
+to complete a detailed questionnaire about their 
+child’s sleeping habits. In addition to demographic 
+information and significant medical history of the 
+child, questions were included on whether the child 
+had difficulty initiating sleep, restless sleep, enuresis, 
+apnea, cyanosis during sleep, and snoring and, if so, 
+the severity of the snoring. The responses were 
+graded as “never,”“rarely”(once per week), “occasionally”(
+twice per week), “frequently”(3–4 times 
+per week), and “almost always” (4 times per 
+week). Questions were also included on whether the 
+parents considered the child to be hyperactive and 
+whether the parents believed that the child had 
+ADHD. In addition, parents answered questions regarding 
+their own smoking habits and whether they 
+snored. 
+
+Subject Selection 
+
+Returned questionnaires were scanned into a computerized 
+database using Microsoft Access (Redmond, 
+WA). Questionnaires of children whose parents 
+believed that they were hyperactive (with or 
+without a diagnosis of ADHD) were identified, and 
+the parents were contacted without any preferential 
+order and invited to the Sleep Medicine Center for an 
+overnight polysomnographic assessment and a battery 
+of neurobehavioral tests. Children were considered 
+eligible as controls provided that they had no 
+reports of hyperactivity and either did not snore or 
+snored rarely. These questionnaires were identified, 
+and parents were contacted in the same manner as 
+the other children. Children were not contacted 
+when the questionnaires reported other psychiatric 
+diagnoses, any chronic medical conditions, or genetic 
+or craniofacial syndromes. Children were retrospectively 
+excluded when during the later phases of the 
+study specific questioning would reveal the presence 
+of any exclusionary criteria. 
+
+Measures 
+
+Polysomnographic Assessment 
+
+Parental informed consent and child assent, in the 
+presence of a parent, were obtained. A standard 
+overnight multichannel polysomnographic evaluation 
+was performed at the Sleep Medicine Center of 
+Kosair Children’s Hospital. Children were studied 
+for up to 12 hours in a quiet, darkened room with an 
+ambient temperature of 24°C in the company of 1 of 
+their parents. No drugs were used to induce sleep. 
+There was no adaptation night, and children were 
+requested to be in bed with lights out occurring 
+between 21:00 and 21:30 hours. All studies were terminated 
+when the children woke up for the day or at 
+approximately 7 AM if they were still sleeping, regardless 
+of whether the studies were performed on a 
+school night or a weekend. The following parameters 
+were measured: chest and abdominal wall movement 
+by respiratory impedance or inductance plethysmography; 
+heart rate by electrocardiogram; and 
+air flow by a sidestream end-tidal capnograph, 
+which also provided breath-by-breath assessment of 
+end-tidal carbon dioxide levels (BCI SC-300, Menomonee 
+Falls, WI), and/or a thermistor. Arterial oxygen 
+saturation was assessed by pulse oximetry (Spo2; 
+Nellcor N 100; Nellcor Inc, Hayward, CA), with simultaneous 
+recording of the pulse wave form. The 
+bilateral electro-oculogram, 8 channels of electroencephalogram, 
+chin and anterior tibial electromyograms, 
+and analog output from a body position sensor 
+(Braebon Medical Corporation, Ogdensburg, NY) 
+were also monitored. All measures were digitized 
+using a commercially available polysomnography 
+system (Stellate Systems, Montreal, Canada). Tracheal 
+sound was monitored with a microphone sensor 
+(Sleepmate, Midlothian, VA), and a digital time-
+synchronized video recording was performed. 
+
+Sleep Variables 
+
+Sleep architecture was assessed by standard techniques.
+24 Arousals were defined as recommended by 
+
+ARTICLES 555
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+the American Sleep Disorders Association Task 
+Force report25 and include respiratory-related (occurring 
+immediately after an apnea, hypopnea, or 
+snore), technician-induced, and spontaneous arousals. 
+Arousals were expressed as the total number of 
+arousals per hour of sleep time (arousal index). The 
+apnea index was defined as the number of apneas 
+per hour of total sleep time (TST). Hypopneas were 
+defined as a decrease in nasal flow of 50% with a 
+corresponding decrease in Spo2 of 4% and/or 
+arousal.26 The apnea/hypopnea index (AHI) was defined 
+as the number of apneas and hypopneas per 
+hour of TST. Spo2, together with Spo2 nadir, was 
+determined. The mean and peak end-tidal carbon 
+dioxide tension was determined. Central, obstructive, 
+and mixed apneic events were counted. Obstructive 
+apnea was defined as the absence of airflow 
+with continued chest wall and abdominal movement 
+for a duration of at least 2 breaths.26,27 Periodic limb 
+movements (PLM) during sleep were scored when 
+there were at least 4 movements of 0.5 to 5 seconds 
+duration and between 5 and 90 seconds apart. A 
+PLM index of 5 per hour of sleep is generally 
+considered to be rare in normal children.28 For evaluating 
+the number of children with objectively measured 
+sleep disturbances, the number of children 
+with a sleep efficiency 70%, PLM index 10, AHI 
+5, or arousal index 20 was determined. The 
+threshold values for these indices were selected as 
+representing 3 standard deviations (SD) from normative 
+values obtained in a large cohort of normal 
+children and represent well-accepted criteria for the 
+presence of disease. 
+
+Neurobehavioral Assessments 
+
+A battery of neurobehavioral tests was administered 
+the morning after polysomnographic assessment. 
+These tests comprised the Conners’ Parent 
+Rating Scale,29 the Child Behavior Checklist,30 the 
+Differential Ability Scales,31 and the NEPSY.32 For 
+dividing the children into groups, the ADHD index 
+of the Conners’ Parent Rating Scale was used. Children 
+were classified as having significant ADHD 
+symptoms when their scores were 2 SD above the 
+mean (ie, 70). When scores were between 1 and 2 
+SD above the mean (ie, 61–69), children were assigned 
+to the “mild” group, and children whose 
+scores were 60 were included in the control group. 
+Children who were reported as having ADHD or 
+hyperactivity by their parents but scored 60 on the 
+Conners’ Parent Rating Scale were included in the 
+control group. 
+
+Behavioral Variables 
+
+The Conners’ Parent Rating Scale29 is used to identify 
+behavioral problems in children. The 48-item 
+version was used, which yields 7 factors: oppositional, 
+cognitive problems/inattention, hyperactivity, 
+anxious-shy, perfectionism, social problems, and 
+psychosomatic, several summary indices, all with a 
+mean score of 50 and an SD of 10. Although not a 
+diagnostic tool for ADHD, the ADHD index of this 
+rating scale is well validated and a score of 2 SD 
+
+above the mean provides a recognized measure of 
+children who are at risk for a diagnosis of ADHD.6,33 
+
+The Child Behavior Checklist30 is the most well-
+developed, empirically derived behavior rating scale 
+available for assessing psychopathology and social 
+competence in children.5 This questionnaire yields 8 
+factors: withdrawn, somatic complaints, anxious/depressed, 
+social problems, thought problems, attention-
+hyperactive, delinquent behavior, and aggressive 
+behavior with a mean T score of 50 and an SD 
+of 10. 
+
+Neurocognitive Variables 
+
+The Differential Ability Scales (DAS)31 is a battery 
+of cognitive tests designed to measure reasoning and 
+conceptual ability. Individual DAS subtests are designed 
+to measure separate and distinct areas of 
+cognitive functioning and thus have high specificity. 
+The ability score for a subtest is expressed as a T 
+score with a mean of 50 and an SD of 10. The sum of 
+the core subtest T scores is converted to a total standard 
+score, with a mean of 100 and an SD of 15. The 
+NEPSY,32 which abbreviates the word “NEuroPSYchology,” 
+is a relatively new neurobehavioral test 
+battery and was designed to assess neurobiological 
+development in 5 functional domains: attention/executive 
+functions, language, sensorimotor functions, 
+visuospatial processing, and memory and learning 
+with a mean score of 100 and an SD of 15. 
+
+Data Analysis 
+
+Data are presented as means . 
+SD unless otherwise 
+indicated. For questionnaire-derived responses, 
+descriptive statistics and odds ratios (ORs) were calculated 
+to assess relationships between snoring in 
+children with snoring and smoking in their parents. 
+Comparisons of the distribution of demographic and 
+risk factors according to group membership (index 
+or control) were made with unpaired t tests (continuous 
+variables) with P values adjusted for unequal 
+variances when appropriate or 2 analyses (dichotomous 
+outcomes). Analysis of variance was used 
+for comparisons of polysomnographic and neurocognitive 
+variables. Multiple regression and logistic 
+regression were performed to evaluate potential relationships 
+between sleep measures and neurobehavioral 
+scores for the study groups. All P values 
+reported are 2-tailed with statistical significance set 
+at .05. 
+
+RESULTS 
+
+Large-Scale Questionnaire 
+
+Of the 11 983 questionnaires mailed, 372 were returned 
+because of a wrong address, insufficient address, 
+or no forwarding address. Thus, 11 611 potential 
+responders were available. From the mailing 
+alone, 4322 completed questionnaires were received. 
+With an additional telephone call, 1890 households 
+were reached and 1406 either completed the questionnaire 
+on the telephone or mailed the filled-out 
+questionnaire. Because the distribution of findings 
+regarding reported ADHD and loud and frequent 
+snoring was similar between the 2 groups, the data 
+
+556 SLEEP AND NEUROBEHAVIORAL FUNCTION IN HYPERACTIVE CHILDREN
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+TABLE 1. Snoring in 6-Year-Old Children in Relation to Parental Snoring and Cigarette Smoking 
+n Child Snores P Value 
+Total responders 3072 252 
+Father snores 1644 230 OR (1.82; CI: 1.50 . 
+OR . 
+2.21) .0000001 
+Mother snores 726 138 OR (2.63; CI: 2.08 . 
+OR . 
+3.31) .0000001 
+Both parents snore 286 53 OR (2.55; CI: 1.81 . 
+OR . 
+3.56) .0000001 
+Total responders 3374 253 
+Father smokes 805 104 OR (1.83; CI: 1.43 . 
+OR . 
+2.35) .0000001 
+Mother smokes 404 76 OR (2.86; CI: 2.14 . 
+OR . 
+3.82) .0000001 
+Both parents smoke 261 68 OR (4.35; CI: 3.17 . 
+OR . 
+5.96) .0000001 
+
+were pooled. Thus, a total of 5728 responses was 
+achieved (47.6%). For the total sample, frequent and 
+loud snoring was reported for 673 children (11.7%). 
+Similarly, 418 children were reported by their parents 
+as being hyperactive or having a diagnosis of 
+ADHD (7.3%). Of these, 313 (76.5%) were boys. 
+
+When 1 of the parents snored, there was a mild 
+albeit significant increase in the risk for the child to 
+snore (Table 1). However, snoring by both parents 
+did not further increase the risk of snoring by the 
+child. When a parent smoked, an increased risk for 
+snoring by the child was apparent (Table 1). Furthermore, 
+a dose-dependent effect of passive smoking on 
+snoring emerged, particularly if one assumes that 
+children tend to spend more time with their mother 
+during waking hours (Table 1). 
+
+Among the 418 children from the returned questionnaires 
+who were reported to be hyperactive, 98 
+were also reported as having frequent and loud snoring. 
+Compared with the general sample, children 
+who were reported to be hyperactive were significantly 
+more likely to snore (OR: 2.30; 95% CI: 
+1.8OR2.4; P . 
+.00001). 
+
+Subjective Sleep Assessment 
+
+Subjective sleep disturbances were frequently reported 
+for the children classified as having symptoms 
+of ADHD based on the Conners’ Parent Rating 
+
+Scale (Table 2). With the use of the questionnaire 
+variables “difficulty initiating sleep,”“restless 
+sleep,” and “willingness to fall asleep” as an arbitrary 
+measure of sleep disturbance, 77% of children 
+with significant ADHD symptoms, 70% of children 
+with mild ADHD symptoms, and 43% of control 
+children were reported to have sleep disturbances 
+(P . 
+.003 significant versus control; P . 
+.05 mild 
+versus control). 
+
+Polysomnographic Variables 
+
+Results of polysomnographic data are shown in 
+Table 3. OSA (AHI 5) was present in 2 (5%) of 44 of 
+children with significant symptoms, in 7 (26%) of 27 
+children with mild symptoms, and in 2 (5%) of 39 
+control children (P . 
+.03 significant versus mild and 
+P . 
+.02 control versus mild). Analysis of variance 
+revealed that rapid eye movement (REM) latency 
+and proportion of REM sleep (%TST) were more 
+likely to be affected in the significant symptoms 
+group (P . 
+.01 for REM latency and REM% for 
+significant versus controls; P . 
+.03 for REM latency 
+and P . 
+.02 for REM% for significant versus mild). 
+The groups were not different for any other objective 
+sleep measure. 
+
+Two (5%) children with significant ADHD symptoms, 
+2 (7%) children with mild symptoms, and 2 
+(5%) control children had a PLM index of 10, and 
+
+TABLE 2. Detailed Sleep Survey Findings Among 44 Children With Significant Symptoms of ADHD, 27 Children With Mild 
+Symptoms of ADHD, and 39 Control Children 
+
+Variable Significant ADHD Mild ADHD Control (n . 
+39) 
+Symptoms (n . 
+44) Symptoms (n . 
+27) Frequently/Almost 
+Frequently/Almost Frequently/Almost Always (%) 
+Always (%) Always (%) 
+
+Fear of sleeping in the dark 52 62 36 
+Restless sleeper§ 67† 50 24 
+Awakenings at night 48* 41 21 
+Talking during sleep 30† 15 5 
+Sleepwalking 5 4 0 
+Grinding teeth 41†‡ 11 13 
+Head-banging 5 4 0 
+Enuresis 26* 30* 5 
+Nightmares 7 7 5 
+Bathroom during the night 14 22 5 
+Difficulty initiating sleep§ 30* 26 8 
+Snoring 66† 46* 15 
+Daytime sleepiness 30* 7 11 
+
+Rarely/Never (%) Rarely/Never (%) 
+Easy to arouse 35 43 21 
+Willingness to go to sleep§ 43* 44 21 
+Pleasant dreams 68 67 68 
+
+* P . 
+.05. 
+† P . 
+.01 versus controls. 
+‡ P . 
+.02 versus mild symptoms. 
+§ Variables used in the definition of disturbed sleep according to parental reports. 
+ARTICLES 557
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+TABLE 3. Polysomnographic Characteristics in 44 Children With Significant Symptoms of 
+ADHD, 27 Children With Mild Symptoms of ADHD, and 39 Control Children 
+
+Significant ADHD 
+Symptoms 
+(n . 
+44) 
+Mild ADHD 
+Symptoms 
+(n . 
+27) 
+Control 
+(n . 
+39) 
+Sleep efficiency (%) 89.7 . 
+10.0 88.4 . 
+8.4 89.4 . 
+6.5 
+Sleep latency (min) 27.8 . 
+30.9 32.9 . 
+30.9 28.8 . 
+29.5 
+REM latency (min) 172.6 . 
+86.2*† 132.1 . 
+63.5 121.1 . 
+42.9 
+No. of awakenings 3.8 . 
+3.5 3.9 . 
+3.5 4.0 . 
+3.1 
+SWS (%TST) 21.6 . 
+8.5 21.2 . 
+3.7 22.2 . 
+5.2 
+REM (% TST) 20.9 . 
+7.3*† 25.6 . 
+8.1 26.1 . 
+6.7 
+Spontaneous arousal index 8.8 . 
+3.8 8.6 . 
+4.6 9.1 . 
+4.0 
+Respiratory arousal index 1.4 . 
+2.8 1.9 . 
+4.0 0.9 . 
+1.5 
+PLM index with arousal (/h TST) 0.1 . 
+0.4 0.1 . 
+0.2 0.1 . 
+0.3 
+PLM index in sleep (/h TST) 1.9 . 
+3.4 2.1 . 
+4.8 1.8 . 
+2.9 
+PLM index total (/h TST) 2.0 . 
+3.5 2.2 . 
+4.9 1.9 . 
+3.1 
+AHI (/h TST) 1.5 . 
+1.9 2.4 . 
+2.5 1.3 . 
+1.7 
+AI (/h TST) 0.7 . 
+0.7 0.9 . 
+1.1 0.8 . 
+0.6 
+Mean Spo2 97.4 . 
+1.1 97.9 . 
+0.7 97.6 . 
+0.8 
+Spo2 nadir 91.1 . 
+5.1 90.9 . 
+5.8 92.4 . 
+3.6 
+SWS indicates slow wave sleep. 
+* P . 
+.01 versus controls. 
+† P . 
+.02 significant symptoms versus mild symptoms. 
+
+none had any significant associated arousals. Furthermore, 
+only 7 (16%) of those with significant 
+symptoms, 4 (15%) of those with mild symptoms, 
+and 5 (13%) controls had a PLM index of 5. 
+
+Nine (20%) of 44 children with significant symptoms 
+had 1 or more of the objective sleep disturbances 
+(sleep efficiency 70%, PLM index 10, AHI 
+5, or arousal index 20) compared with 13 (48%) of 
+27 children with mild symptoms and 6 (15%) of 39 
+control children (P . 
+.03 significant versus mild; P . 
+.01 mild versus controls). No subject in either group 
+had 1 of the above sleep abnormalities. 
+
+Neurobehavioral Variables 
+
+The results of the neurocognitive test findings are 
+shown in Table 4. As expected, the children with 
+significant ADHD symptoms consistently performed 
+worse on tasks related to language and memory 
+skills, visuospatial tasks, and attention. 
+
+Relationship Between Polysomnographic Measures and 
+Neurobehavioral Function 
+
+The correlations between the affected sleep variables 
+(REM latency and REM%) and the domains of 
+neurobehavioral function are shown in Table 5. REM 
+latency and REM% both were significantly correlated 
+with behavioral and neurocognitive measures. For 
+further assessing whether the sleep variables could 
+predict the presence of hyperactivity and disturbances 
+in neurobehavioral function, logistic regression 
+analysis was conducted. The dependent variable 
+was reported ADHD symptoms or not, and sleep 
+variables that were found to correlate with neurobehavioral 
+function (ie, REM% and REM latency, Table 
+5) were used in the model. Only REM% was included 
+in the model and found to account for 6% of the total 
+variance (P . 
+.007, Nagelkerke R2). Linear regression 
+was also performed for each neurobehavioral variable 
+(dependent variable) with REM% and REM latency 
+as the independent variables. REM% accounted 
+for small but significant differences (4%–7%) 
+of the variance for each of the following variables 
+
+from the Conners’ Parent Rating Scale: oppositional 
+subscale, hyperactive subscale, ADHD index, global 
+restless/impulsive scale, Diagnostic and Statistical 
+Manual of Mental Disorders, Fourth Edition (DSM-IV) 
+hyperactive/impulsive scale, and the DSM-IV total 
+scale. The only affected variables of the Child Behavior 
+Checklist and the DAS were the delinquency 
+subscale and the verbal ability subscale, respectively. 
+Variables affected by REM% on the NEPSY were 
+language, visuospatial, and memory, whereas REM 
+latency accounted for 5% of the variance of the attention/
+executive function scale of the NEPSY. Altogether, 
+although the effects of REM on these neurobehavioral 
+functions were statistically significant, 
+they were of small magnitude. 
+
+DISCUSSION 
+
+The major findings in this study were the increased 
+frequency of snoring among children classified 
+as having mild or significant symptoms of 
+ADHD based on the Conners’ Parent Rating Scale 
+randomly recruited from a community sample. Furthermore, 
+we show that although parental reports 
+indicated a high frequency of sleep problems, objective 
+assessment of sleep markedly restricted the percentage 
+of children with evidence of sleep abnormalities. 
+Logistic regression demonstrated that the only 
+affected sleep variable between the groups (REM%) 
+had a small but significant effect on the variance of 
+neurobehavioral function. Finally, among a group 
+without significant ADHD symptoms but with mild 
+behavioral hyperactivity (based on the Conners Parent 
+Rating Scale), a significantly higher prevalence of 
+OSA was present, suggesting that SDB may induce a 
+mild behavioral hyperactive/inattentive phenotype. 
+
+The overall response rate to the mailed questionnaires 
+was good for a survey of the general population. 
+Because no differences in the responses between 
+those who responded to the initial mailing and those 
+who completed the telephone questionnaires were 
+found, we believe that the findings are valid for the 
+cohort and essentially provides a very large commu
+
+
+558 SLEEP AND NEUROBEHAVIORAL FUNCTION IN HYPERACTIVE CHILDREN
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+TABLE 4. Neurocognitive Findings in 44 Children With Significant Symptoms of ADHD, 27 
+Children With Mild Symptoms of ADHD, and 39 Control Children 
+
+Significant ADHD Mild ADHD Control 
+Symptoms (n . 
+44) Symptoms (n . 
+39) 
+(n . 
+27) 
+Behavioral measures 
+Conners Parent Rating Scale 
+Impulsive symptoms 4.3 . 
+2.9†§ 2.5 . 
+2.1† 0.2 . 
+0.6 
+Inattentive symptoms 3.7 . 
+2.7†§ 0.5 . 
+0.6† 0.0 . 
+0.0 
+Oppositional 68.9 . 
+13.0†§ 58.5 . 
+8.7† 49.2 . 
+8.5 
+Cognitive problems/inattention 73.7 . 
+8.3†§ 59.1 . 
+6.8† 48.4 . 
+6.1 
+Hyperactivity 77.3 . 
+11.1†§ 70.5 . 
+7.4† 51.6 . 
+6.8 
+Anxious/shy 59.7 . 
+12.9† 57.7 . 
+10.1† 49.7 . 
+9.1 
+Perfectionism 56.5 . 
+12.9† 52.6 . 
+13.3 47.0 . 
+6.1 
+Social problems 64.5 . 
+18.2†§ 51.9 . 
+9.2 48.6 . 
+5.2 
+Psychosomatic 62.6 . 
+15.8† 55.5 . 
+10.7* 49.3 . 
+7.8 
+ADHD index 77.6 . 
+4.5†§ 65.3 . 
+2.6† 49.4 . 
+6.0 
+Global index restless-impulsive 77.6 . 
+9.8†§ 68.1 . 
+6.9† 50.6 . 
+7.0 
+Global index emotional lability 64.1 . 
+11.8†§ 54.1 . 
+10.4 48.5 . 
+7.4 
+Global index total 75.3 . 
+9.6†§ 64.9 . 
+6.6† 49.9 . 
+6.6 
+DSM-IV inattentive 74.3 . 
+7.0†§ 59.4 . 
+5.1† 47.7 . 
+5.7 
+DSM-IV hyperactive-impulsive 78.1 . 
+10.7†§ 71.6 . 
+7.2† 51.5 . 
+6.6 
+DSM-IV total 77.8 . 
+7.5†§ 66.0 . 
+4.8† 49.3 . 
+6.1 
+CBCL 
+Withdrawn 60.6 . 
+9.0† 57.4 . 
+7.4* 52.9 . 
+5.2 
+Somatic complaints 61.8 . 
+9.8† 60.0 . 
+6.0† 53.7 . 
+5.1 
+Anxious/depressed 61.4 . 
+9.4† 58.9 . 
+8.8* 54.1 . 
+5.4 
+Social problems 65.1 . 
+8.9†§ 59.0 . 
+7.5† 53.2 . 
+4.8 
+Thought 65.7 . 
+9.9†§ 60.2 . 
+7.6* 55.4 . 
+6.3 
+Attention 73.4 . 
+7.7†§ 65.6 . 
+6.5† 54.1 . 
+6.6 
+Delinquency 64.0 . 
+9.1† 58.9 . 
+8.0* 54.2 . 
+5.5 
+Aggression 69.1 . 
+11.4† 62.6 . 
+10.6† 54.1 . 
+5.5 
+Internalizing 62.2 . 
+10.4† 58.0 . 
+11.3† 49.1 . 
+9.2 
+Externalizing 67.4 . 
+9.2†§ 60.9 . 
+9.9† 50.1 . 
+9.7 
+Total 69.8 . 
+7.9†§ 62.3 . 
+9.9† 50.8 . 
+10.0 
+Neurocognitive measures 
+DAS 
+Verbal 93.4 . 
+14.0 99.3 . 
+12.5 98.5 . 
+13.0 
+Nonverbal 93.8 . 
+16.1* 100.7 . 
+14.0 101.9 . 
+13.8 
+Overall 93.1 . 
+14.7*‡ 100.0 . 
+11.1 100.4 . 
+12.7 
+NEPSY 
+Attention/executive 94.8 . 
+20.7† 102.7 . 
+16.6 108.5 . 
+16.8 
+Language 90.8 . 
+17.9†‡ 98.9 . 
+14.6 103.0 . 
+16.0 
+Visuospatial 92.9 . 
+13.4†‡ 100.3 . 
+14.2 107.2 . 
+14.8 
+Memory 101.4 . 
+18.3* 107.2 . 
+14.6 109.5 . 
+15.0 
+
+* P . 
+.05. 
+† P . 
+.001 versus controls. 
+‡ P . 
+.05 significant versus mild. 
+§ P . 
+.01 significant versus mild. 
+nity survey of sleep-associated snoring in a school 
+district of US children. The prevalence of frequent 
+snoring was similar to previous published studies in 
+Europe that included a more restricted number of 
+responders.2–4 It is interesting that we found that 
+snoring by 1 of the parents increased the risk of 
+snoring in the child. Our findings concur with those 
+of Redline et al,34 who evaluated 399 children recruited 
+from either 31 families in which a member 
+was diagnosed with OSA or from 30 families without 
+OSA. Indeed, these investigators found that a family 
+history of OSA increased the risk for OSA in the 
+offspring. However, they did not find increased risk 
+for OSA in the presence of maternal smoking, after 
+adjusting for other significant variables. This is in 
+contrast with current findings, which suggest that 
+the risk of nocturnal snoring is greatly increased not 
+only when children are exposed to passive smoking 
+but also as a function of the cigarette smoke exposure 
+duration and intensity. Furthermore, in previous 
+studies by Corbo et al and Forastiere et al,35,36 an 
+
+increased risk of snoring in children exposed to passive 
+smoking was indeed identified. Thus, this study 
+has allowed for identification of both genetic and 
+environmental risk factors for snoring during childhood 
+in the United States. 
+
+Although we did not perform rigorous assessments 
+for ADHD as stipulated by DSM-IV criteria, 
+we were able to confirm the presence of abnormal 
+levels of hyperactivity using a validated measure 
+and did not solely rely on a positive answer by the 
+parents to the questions, “Does your child have 
+ADHD?” and is, “Is your child hyperactive?” From 
+our initial recruitment, only half of the children 
+whose parents reported hyperactivity behaviors actually 
+fulfilled the score criteria of the Conners’ 
+ADHD index scale.29 These findings further highlight 
+potential biases introduced by the use of parental 
+reports when assessing for behavioral disturbances 
+in epidemiologic surveys. It should be 
+acknowledged, however, that by using the Conners’ 
+scale we were still unable to establish a formal diag-
+
+ARTICLES 559
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+TABLE 5. Relationships Between Polysomnographic Findings and Neurobehavioral Function in 
+110 5-to 7-Year-Old Children 
+
+Sleep Positive Correlation Negative Correlation 
+Variable 
+REM latency Conners’ NEPSY 
+Impulsive symptoms* Attention/executive function* 
+Inattentive symptoms* 
+Cognitive subscale* 
+Hyperactivity subscale† 
+Psychosomatic subscale* 
+ADHD index† 
+Global restless/impulsive* 
+Global total* 
+DSM-IV inattentive* 
+DSM-IV hyperactive/impulsive† 
+DSM-IV total† 
+REM % NEPSY Conners’ 
+Language* Inattentive symptoms* 
+Visuospatial* Impulsive symptoms† 
+Memory† Oppositional subscale* 
+DAS Cognitive subscale* 
+Verbal ability* Hyperactivity subscale† 
+ADHD index† 
+Global index restless/impulsive† 
+Global emotional lability† 
+Global index total† 
+DSM-IV inattentive† 
+DSM-IV hyperactive/impulsive† 
+DSM-IV total† 
+CBCL 
+Attention subscale* 
+Delinquency subscale* 
+
+CBCL indicates Child Behavior Checklist. 
+
+* P . 
+.05. 
+† P . 
+0.01. 
+nosis of ADHD based on DSM-IV criteria, and that is 
+a limitation of the current study. Our survey also 
+further expands on previous findings by Chervin et 
+al16,17 and Owens et al11 that children with ADHD 
+are at higher risk for snoring and other symptoms 
+suggestive of SDB. 
+
+An expanded inquiry into parental perception of 
+sleep quality in hyperactive children revealed that 
+77% of the children with significant ADHD symptoms 
+were considered to have a significant sleep 
+problem by their parents. These findings confirm 
+multiple earlier studies,10 –12 all of which found an 
+increased prevalence of parent-reported sleep disturbances 
+in hyperactive children. However, objective 
+sleep disorders were identified in only 20% of these 
+children in this community cohort, clearly a substantially 
+lower frequency than the frequency derived 
+from parental reports. This is of particular importance, 
+given that the majority of studies reporting 
+sleep disturbances in children with ADHD are based 
+on parental perception rather than on objective assessments. 
+Nevertheless, although children with significant 
+ADHD symptoms are at higher risk for objective 
+REM sleep disturbances compared with 
+normal children, the prevalence of OSA in this cohort 
+does not seem to differ from the prevalence in the 
+general population.9,34,37 However, among children 
+with mild ADHD symptoms, an unusually high frequency 
+of OSA was found. Thus, our findings suggest 
+that although OSA can induce statistically significant 
+yet mild behavioral effects, it does not seem 
+to mimic more severe ADHD symptoms as assessed 
+
+by the Conners’ Parent Rating Scale. Therefore, in a 
+child who presents with parental complaints of hyperactivity 
+and who does not meet the diagnostic 
+criteria of ADHD after undergoing a thorough evaluation 
+as recently recommended by the American 
+Academy of Pediatrics,33 a careful sleep history 
+should be taken, and if snoring is present, then an 
+overnight polysomnographic evaluation should be 
+performed. 
+
+The mechanism(s) by which OSA may contribute 
+to hyperactivity remains unknown. It is possible that 
+both the sleep fragmentation and episodic hypoxia 
+that characterize OSA will lead to alterations in the 
+neurochemical substrate of the prefrontal cortex and 
+resultant executive dysfunction.38 Notwithstanding 
+these considerations, sleep disturbances are frequently 
+reported by parents of children with ADHD 
+even when snoring is excluded.11 On the basis of the 
+available literature, the comorbidity of OSA and 
+ADHD could be shared by a substantial number of 
+hyperactive children, and, in fact, it has been suggested 
+that up to 25% of children with a diagnosis of 
+ADHD may actually have OSA.16 However, our data 
+suggest that children with mild hyperactive behaviors 
+rather than children who are at risk for a diagnosis 
+of ADHD are at higher risk for OSA. In addition, 
+the overlap between ADHD/hyperactivity may 
+be less prominent than previously estimated when 
+medication status and psychiatric comorbidity are 
+accounted for in the multivariate analysis.39 
+
+Sleep fragmentation and consequent daytime 
+sleepiness are another possible theoretical explana
+
+
+560 SLEEP AND NEUROBEHAVIORAL FUNCTION IN HYPERACTIVE CHILDREN
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+tion for the potential relationships between disturbed 
+sleep and ADHD. Evidence of increased 
+sleepiness, measured by multiple sleep latency tests, 
+was reported by Lecendreux et al40 in 30 children 
+with ADHD who otherwise had no significant polysomnographic 
+alterations. Therefore, these investigators 
+surmised that ADHD may be accompanied by 
+an intrinsic deficit in daytime alertness. 
+
+Restless sleep is frequently reported by parents of 
+children with ADHD.20,41 When accompanied by 
+arousals, frequent limb movements could induce 
+sleep fragmentation and daytime sleepiness. PLM 
+disorder of sleep has been described in children with 
+ADHD,42 and treatment of this condition often leads 
+to substantial behavioral improvements.42– 45 
+Chervin et al46 further reported a dose-dependent 
+association between hyperactivity, measured by the 
+Conners’ Parent Rating Scale, and PLM index, a finding 
+that we were unable to replicate in our study (see 
+below). Similarly, Konofal et al47 reported higher 
+levels of nocturnal limb activity in 30 unmedicated 
+children with ADHD when compared with 19 controls. 
+However, no disruption of sleep continuity 
+could be identified, so the implications of such findings 
+remain unclear. 
+
+Our findings do not support the concept that PLM 
+during sleep are more frequent in hyperactive children.
+46 However, our population was taken from a 
+community sample, and not from a highly selected 
+clinical population referred for sleep problems. In the 
+present study, we postulate that PLM disorder may 
+occur in a select group of children with more severe 
+ADHD symptoms and may in fact represent a distinct 
+categorical subset of ADHD. 
+
+A reduction in proportion of REM sleep and increased 
+REM latencies were found in our children 
+with significant symptoms of ADHD, based on the 
+Conners’ Parent Rating Scale. The exact implications 
+of these findings are unclear, although both hyperactivity 
+and neurocognitive measures associated 
+with executive function were weakly but significantly 
+correlated with REM sleep disturbance, suggesting 
+that delayed REM onset and/or decreased 
+REM percentage may impose a small but significant 
+adverse effect on daytime functioning. These findings 
+are not surprising when one considers some of 
+the putative functions ascribed to REM sleep. In 
+recent years, it has become apparent that REM sleep 
+may play an important role in memory consolidation 
+of a learned task.48 Memory for declarative or explicit 
+types of tasks seems not to be affected by REM 
+sleep loss, whereas memory and learning of cognitive 
+procedural or implicit types of material such as 
+visuospatial tasks is impaired. Visuospatial functions 
+exhibited negative correlations with REM sleep measures 
+in our cohort, suggesting that potential interventions 
+aiming at improving REM sleep in these 
+children may be accompanied by favorable changes 
+in some of their neurobehavioral functions. 
+
+CONCLUSION 
+
+We present additional confirmatory evidence that 
+symptoms of SDB are frequent in 5-to 7-year-old 
+children and that the risk increases when parents 
+
+snore or smoke cigarettes. In children with significant 
+symptoms of ADHD, REM sleep disturbances 
+are more frequent and may contribute mildly yet 
+significantly to neurobehavioral function. However, 
+these children do not seem to be at higher risk for 
+OSA than controls. In contrast, in children with parentally 
+perceived hyperactivity in whom moderate 
+elevations in Conner’s ADHD scores are found, an 
+unusually high prevalence of OSA was found. Although 
+this latter finding will need to be confirmed 
+by additional studies, it strongly suggests that OSA 
+can induce hyperactive behaviors and that the latter 
+may lead to unnecessary delays in OSA diagnosis 
+and treatment. 
+
+APPENDIX 1. The Sleep Questionnaire 
+
+Child’s demographic information 
+
+Name 
+
+Address 
+
+Telephone number 
+
+Date of birth 
+
+Gender 
+
+Ethnicity 
+Father’s demographic information 
+
+Profession: 
+
+Highest level graduated from: JHS HS COL GRAD 
+
+Snore: YES NO 
+
+Smoke: YES NO 
+
+Adenoids or tonsils removed: YES NO 
+Mother’s demographic information 
+
+Profession: 
+
+Highest level graduated from: JHS HS COL GRAD 
+
+Snore: YES NO 
+
+Smoke: YES NO 
+
+Adenoids or tonsils removed: YES NO 
+
+Pregnancy: Normal Abnormal 
+
+Pregnancy: Full-term Preterm 
+Child 
+
+Medical problems: 
+
+Medications: 
+
+Allergies: 
+
+Birth weight 
+
+Adenoids or tonsils removed: YES NO 
+
+Vision problems: YES NO 
+
+Hearing problems: YES NO 
+
+Poor appetite: YES NO 
+
+Poor growth: YES NO 
+
+Ear infections: YES NO 
+
+Asthma: YES NO 
+
+Frequent colds/flus: YES NO 
+
+Constant runny nose: YES NO 
+
+Does child sleep alone, share with 1, share with 2, share with 3, 
+
+share with 3 
+
+Do any of his/her siblings snore? YES NO 
+
+Does your child have ADHD (also called hyperkinetic/attention 
+
+deficit)? YES NO 
+
+Is your child hyperactive? YES NO 
+
+Is your child on any ADHD medication? YES NO; Which one: 
+
+How long does your child sleep at night? 
+
+At what time does your child go to bed? 
+
+At what time does your child wake up? 
+
+The following questions can be answered by “never,” “rarely,” “occasionally, 
+“frequently,” or “almost always”: 
+
+Have you seen or heard your child having nightmares that 
+
+he/she does not remember the next day? 
+
+Has he/she expressed fear of sleeping in the dark? 
+
+Is your child easy to wake up in the morning? 
+
+Does your child go to bed willingly? 
+
+Is he/she a restless sleeper? 
+
+Have you seen your child smiling during sleep? 
+
+Does he/she wake up at night? 
+
+Have you heard your child talking during his/her sleep? 
+
+Have you observed him/her sleepwalking? 
+
+ARTICLES 561
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+While asleep, does he/she ever sit up in bed? 
+
+Does he/she grind his/her teeth during sleep? 
+
+Have you heard your child laugh during sleep? 
+
+Has your child told you about having a frightening dream? 
+
+Have you observed repetitive actions such as rocking or head 
+
+banging during sleep? 
+
+Does he/she have problems with bed wetting? 
+
+Have you observed your child having a nightmare during 
+
+which he/she appeared extremely afraid or terrified? 
+
+Have you looked in on your child and discovered he/she was 
+
+crying while asleep? 
+
+Has he/she told you about having a pleasant dream? 
+
+Does your child complain about difficulties going to sleep? 
+
+Does your child get up to go to the bathroom during the night? 
+
+Does your child stop breathing during sleep? 
+
+Does your child struggle to breathe while asleep? 
+
+Does your child fall asleep easily? 
+
+Do you ever shake your child to make him/her breathe again 
+
+when asleep? 
+
+Do your child’s lips ever turn blue or purple while asleep? 
+
+Are you ever concerned about your child’s breathing during 
+
+sleep? 
+
+How often does your child snore? 
+
+How loud is the snore? (the responses to this question are “mildly 
+
+quiet,”“medium loud,”“loud,”“very loud,”and “extremely loud”) 
+How often does your child have a sore throat? 
+Does your child complain of morning headaches? 
+Is your child a daytime mouth breather? 
+Is your child sleepy during the daytime? 
+Does your child fall asleep at school? 
+Does your child fall asleep while watching television? 
+
+ACKNOWLEDGMENTS 
+
+This study was supported by National Institutes of Health 
+Grant HL-65270, Department of Education Grant H324E011001, 
+and the Commonwealth of Kentucky Research Challenge Trust 
+Fund. 
+
+We thank the parents and children for cooperation. We are 
+particularly grateful to Dr Robert J. Rodovsky and Richard Spayd 
+from the Jefferson County Public School System for assistance in 
+this project. 
+
+REFERENCES 
+
+1. American Psychiatric Association. 
+Diagnostic and Statistical Manual of 
+Mental Disorders. 4th ed. Washington DC: American Psychiatric 
+Association; 1994 
+2. Hulcrantz E, Lofstarnd TB, Ahlquist RJ. The epidemiology of sleep 
+related breathing disorders in children. Int J Pediatr Otorhinolaryngol. 
+1995;6(suppl):S63–S66 
+3. Ferreira AM, Clemente V, Gozal D, et al. Snoring in Portuguese primary 
+school children. Pediatrics. 2000;106(5). Available at: www.pediatrics. 
+org/cgi/content/full/106/5/e64 
+4. Teculescu DB, Caillier I, Perrin P, Rebstock E, Rauch A. Snoring in 
+French preschool children. Pediatr Pulmonol. 1992;13:239–244 
+5. Barkley RA. 
+Attention-Deficit Disorder: A Handbook for Diagnosis and 
+Treatment. New York, NY: Guilford Press; 1990:1–147 
+6. Brown RT, Freeman WS, Perrin JM, et al. Prevalence and assessment of 
+attention-deficit/hyperactivity disorder in primary care settings. Pediatrics. 
+2001;107(3). Available at: www.pediatrics.org/cgi/content/full/ 
+107/3/e43 
+7. National Institutes of Health. Diagnosis and Treatment of Attention-Deficit 
+Hyperactivity Disorder. Washington, DC: US Government Printing 
+Office; NIH Consensus Statement; 1998 
+8. Barkley RA. Behavioral inhibition, sustained attention, and executive 
+functions: constructing a unifying theory of ADHD. Psychol Bull. 1997; 
+121:65–94 
+9. Ali NJ, Pitson D, Stradling JR. Snoring, sleep disturbance and behaviour 
+in 4 –5 year olds. Arch Dis Child. 1993;68:360–366 
+10. Corkum P, Tannock R, Moldofsky H. Sleep disturbance in children with 
+attention-deficit hyperactivity disorder. J Am Acad Child Adolesc Psychiatry. 
+1998;37:637–646 
+11. Owens, J, Maxim R, Nobile C, McGuinn M, Msall M. Parental and 
+self-report of sleep in children with attention deficit/hyperactivity disorder. 
+Arch Pediatr Adolesc Med. 2000;154:549–555 
+12. Corkum P, Tannock R, Moldofsky H, Hogg-Johnson S, Humphries T. 
+Actigraphy and parental ratings of sleep in children with attention 
+deficit/hyperactivity disorder (ADHD). Sleep. 2001;24:303:312 
+
+13. Ali NJ, Pitson D, Stradling JR. Sleep disordered breathing: effects of 
+adenotonsillectomy on behaviour and psychological functioning. Eur J 
+Paediatr. 1996;155:56–62 
+14. Guilleminault C, Korobkin R, Winnkle R. A review of 50 children with 
+obstructive sleep apnea syndrome. Lung. 1981;159:275–287 
+15. Guilleminault C, Winkle R, Korobkin R, Simmons B. Children and 
+nocturnal snoring: evaluation of the effects of sleep related respiratory 
+resistive load and daytime functioning. Eur J Pediatr. 1982;139:165–171 
+16. Chervin RD, Dillon JE, Bassetti C, Ganoczy DA, Pituch KJ. Symptoms of 
+sleep disorders, inattention, and hyperactivity in children. Sleep. 1997; 
+20:1185–1192 
+17. Chervin RD, Archbold KH, Dillon JE, et al. Inattention, hyperactivity, 
+and symptoms of sleep disordered breathing. Pediatrics. 2002;109: 
+449–456 
+18. Trommer BL, Hoeppner JB, Rosenberg RS, Armstrong KJ, Rothstein JA. 
+Sleep disturbance in children with attention deficit disorder. Ann Neurol. 
+1988;24:322 
+19. Busby K, Firestone P, Pivik RT. Sleep patterns in hyperkinetic and 
+normal children. Sleep. 1981;4:366–383 
+20. Greenhill L, Puig-Antich J, Goetz R, Hanlon C, Davies M. Sleep architecture 
+and REM sleep measures in prepubertal children with attention 
+deficit disorder with hyperactivity. Sleep. 1983;6:91–101 
+21. Busby K, Pivik RT. Auditory arousal thresholds during sleep in hyperkinetic 
+children. Sleep. 1985;8:322–341 
+22. Ramos Platon MJ, Vela Bueno A, Espinar Sierra J, Kales S. Hypnopolygraphic 
+alterations in attention deficit disorder (ADD) children. Int 
+J Neurosci. 1990;53:87–101 
+23. Gozal D. Sleep-disordered breathing and school performance in children. 
+Pediatrics. 1998;102:616–620 
+24. Rechtschaffen A, Kales A. A Manual of Standardized Terminology, Techniques 
+and Scoring Systems for Sleep Stages of Human Subject. Washington, 
+DC: National Institutes of Health; 1968 (Publ. No. 204) 
+25. Sleep Disorders Atlas Task Force. EEG arousals: scoring and rules and 
+examples. Sleep. 1992;15:173–184 
+26. 
+American Thoracic Society. Standards and indications for cardiopulmonary 
+sleep studies in children. Am J Respir Crit Care Med. 1996;153:866–878 
+27. Marcus CL, Omlin KJ, Basinski DJ, et al. Normal polysomnographic 
+values for children and adolescents. Am Rev Respir Dis. 1992;156: 
+1235–1239 
+28. Diagnostic Classification Steering Committee. Periodic limb movement 
+disorder. In: International Classification of Sleep Disorders: Diagnostic and 
+Coding Manual. Rochester, MN: American Sleep Disorders Association; 
+1990:69–71 
+29. Conners CK. 
+Conners’ Rating Scales—Revised. North Tonawanda, NY: 
+Multi-Health Systems Publishing; 1997 
+30. Achenbach TM. Manual for the Revised Child Behavior Checklist. Burlington, 
+VT: University of Vermont, Department of Psychiatry; 1991 
+31. Elliott CD. Differential Ability Scales: Handbook. San Antonio, TX: Harcourt 
+Brace Jovanovich; 1990 
+32. Korkman M, Kirk U, Kemp S. A Developmental Neuropsychological Assessment. 
+San Antonio, TX: Harcourt Brace Jovanovich; 1998 
+33. American Academy of Pediatrics. Clinical practice guideline: diagnosis 
+and evaluation of the child with attention-deficit/hyperactivity disorder. 
+Pediatrics. 2000;105:1158–1170 
+34. Redline S, Tishler PV, Schluchter M, Aylor J, Clark K, Graham G. Risk 
+factors for sleep-disordered breathing in children. Associations with 
+obesity, race, and respiratory problems. Am J Respir Crit Care Med. 
+1999;159:1527–1532 
+35. Corbo GM, Fuciarelli F, Foresi A, De Benedetto F. Snoring in children: 
+association with respiratory symptoms and passive smoking. BMJ. 1989; 
+299:1491–1494 
+36. Forastiere F, Corbo GM, Michelozzi P, et al. Effects of environment and 
+passive smoking on the respiratory health of children. Int J Epidemiol. 
+1992;21:66–73 
+37. Gislason T, Benediktsdottir B. Snoring, apneic episodes, and nocturnal 
+hypoxemia among children 6 months to 6-years-old. Chest. 1995;107: 
+963–966 
+38. Beebe DW, Gozal D. Obstructive sleep apnea and the prefrontal cortex: 
+towards a comprehensive model linking nocturnal upper airway dysfunction 
+to daytime cognitive and behavioral deficits. J Sleep Res. 2002; 
+11:1–16 
+39. Corkum P, Moldofsky H, Hogg-Johnson S, Humphries T, Tannock R. 
+Sleep problems in children with attention-deficit/hyperactivity 
+disorder: impact of subtype, comorbidity, and stimulant medication. 
+J Am Acad Child Adolesc Psychiatry. 1999;38:1285–1293 
+562 SLEEP AND NEUROBEHAVIORAL FUNCTION IN HYPERACTIVE CHILDREN
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+40. Lecendreux M, Konofal E, Bouvard M, Falissard B, Mouren-Simeoni 
+MC. Sleep and alertness in children with ADHD. J Child Psychol Psychiatry. 
+2000;41:803–812 
+41. Simonds JF, Parraga H. Sleep behaviors and disorders in children and 
+adolescents evaluated at psychiatric clinics. J Dev Behav Pediatr. 1984;5: 
+6–10 
+42. Picchietti DL, Walters AS. Restless legs syndrome and periodic limb 
+movement disorder in children and adolescents: comorbidity with at-
+tention-deficit hyperactivity disorder. Child Adolesc Psychiatr Clin N Am. 
+1996;5:729–740 
+43. Picchietti DL, England SJ, Walters AS, Willis K, Verrico T. Periodic limb 
+movement disorder and restless legs syndrome in children with attention-
+deficit hyperactivity disorder. J Child Neurol. 1998;13:588–594 
+44. Picchietti DL, Underwood DJ, Farris WA, et al. Further studies 
+on 
+periodic limb movement disorder and restless legs syndrome in children 
+with attention-deficit-hyperactivity disorder. Mov Disord. 1999;14: 
+1000–1007 
+
+45. Walters AS, Mandelbaum DE, Lewin DS, Kugler S, England SJ, Miller 
+M. Dopaminergic therapy in children with restless legs/periodic limb 
+movements in sleep and ADHD. Pediatr Neurol. 2000;22:182–186 
+46. Chervin RD, Archbold KH. Hyperactivity and polysomnographic findings 
+in children evaluated for sleep-disordered breathing. Sleep. 2001; 
+24:313–320 
+47. Konofal E, Lecendreux M, Bouvard MP, Mouren-Simeoni MC. High 
+levels of nocturnal activity in children with attention-deficit hyperactivity 
+disorder: a video analysis. Psychiatry Clin Neurosci. 2001;55: 
+97–103 
+48. Karni A, Tanne D, Rubenstein BS, Askenasy JJ, Sagi D. Dependence on 
+REM sleep of overnight improvement of a perceptual skill. Science. 
+1994;265:679–682 
+THE PREVALENCE OF AUTISM 
+
+“The current social context seems to exert a stronger influence on the debate than 
+the scientific arguments. Although claims about an epidemic of autism and about 
+its putative causes have the weakest empirical support, the subsequent controversy 
+has put autism on the public agenda. In recent years, children with autism, their 
+families, and professionals involved in their care and in research have seen welcome 
+and legitimate increases in public funding. Yet, ironically, what has triggered 
+substantial social policy changes in autism appears to have little connection with 
+the state of the science. Whether this will continue to be the case in the future 
+remains to be seen, but further consideration should be given to how and to why 
+the least evidence-based claims have achieved such impressive changes in funding 
+policy.” 
+
+Fombonne E. JAMA. 2003;289:87–89 
+
+Noted by JFL, MD 
+
+ARTICLES 563
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+Sleep and Neurobehavioral Characteristics of 5- to 7-Year-Old Children With 
+Parentally Reported Symptoms of Attention-Deficit/Hyperactivity Disorder 
+
+
+Louise M. O’Brien, Cheryl R. Holbrook, Carolyn B. Mervis, Carrie J. Klaus, Jennifer 
+L. Bruner, Troy J. Raffield, Jennifer Rutherford, Rochelle C. Mehl, Mei Wang, 
+Andrew Tuell, Brittany C. Hume and David Gozal 
+Pediatrics 2003;111;554-563 
+
+
+DOI: 10.1542/peds.111.3.554 
+& Services 
+Updated Information 
+http://www.pediatrics.org/cgi/content/full/111/3/554 
+including high-resolution figures, can be found at: 
+References 
+http://www.pediatrics.org/cgi/content/full/111/3/554#BIBL 
+at: 
+This article cites 36 articles, 10 of which you can access for free 
+Citations 
+s 
+http://www.pediatrics.org/cgi/content/full/111/3/554#otherarticle 
+This article has been cited by 31 HighWire-hosted articles: 
+Subspecialty Collections 
+try 
+http://www.pediatrics.org/cgi/collection/neurology_and_psychia 
+Neurology & Psychiatry 
+following collection(s): 
+This article, along with others on similar topics, appears in the 
+Permissions & Licensing 
+http://www.pediatrics.org/misc/Permissions.shtml 
+tables) or in its entirety can be found online at: 
+Information about reproducing this article in parts (figures, 
+Reprints 
+http://www.pediatrics.org/misc/reprints.shtml 
+Information about ordering reprints can be found online: 
+
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+

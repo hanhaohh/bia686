@@ -1,0 +1,1314 @@
+Journal of Clinical Sleep Medicine, Vol. 4, No. 2, 2008
+
+129
+
+Scientific investigations
+
+Obesity and Risk of Sleep Related Upper Airway Obstruction in Caucasian Children 
+
+Mark Kohler, B.Psych. (Hon)1,2; Kurt Lushington, Ph.D.1,3; Richard Couper, M.B.Ch.B.4; James Martin, M.B.Ch.B.2; Cameron van den Heuvel, Ph.D.1,4; 
+Yvonne Pamula, Ph.D.2; Declan Kennedy, M.D.2,4
+
+1Centre for Sleep Research, University of South Australia, Adelaide, Australia; 2Department of Pulmonary Medicine, Women’s and Children’s 
+Hospital, Adelaide, Australia; 3School of Psychology, University of South Australia, Adelaide, Australia; 4Department of Paediatrics, University of 
+Adelaide, Adelaide, Australia.
+
+Background: Obesity is thought to be a significant risk factor for upper 
+airway obstruction during sleep in children. However, the moderating 
+influences of age and ethnicity have not been well explored and 
+the relative contribution of obesity per se to upper airway obstruction 
+has yet to be quantified. Given the markedly increasing prevalence of 
+childhood obesity, an objective understanding of the impact of obesity 
+on upper airway obstruction is important. The purpose of the present 
+study was to examine the interaction between obesity, age and upper 
+airway obstruction in Australian Caucasian children referred for evaluation 
+of snoring.
+
+Methods: This was a retrospective case study involving 190 children 
+(4-12 y) who were referred for evaluation of upper airway obstruction 
+and underwent one night of polysomnography at the Adelaide 
+Women’s and Children’s Hospital Sleep Disorders Unit. Children were 
+classified as Infrequent Snorers (n = 80), Habitual Snorers (n = 68) or 
+Obstructive Sleep Apnea Syndrome (OSAS) (n = 42) (i.e., obstructive 
+apnea hypopnea index (OAHI) = 1).
+
+Results: Thirty-five percent (66/190) of children were overweight or 
+obese. Body mass index but not age was a significant but weak predictor 
+of OAHI (< 5% of the variance).
+
+Conclusion: In Australian Caucasian children aged 4-12 years who 
+snore, obesity but not age was a significant, albeit weak, predictor of 
+upper airway obstruction during sleep.
+
+Keywords: Obstructive sleep apnea syndrome, obesity, children, 
+Caucasian.
+
+Citation: Kohler M; Lushington K; Couper R; Martin J; van den 
+Heuvel C; Pamula Y; Kennedy D. Obesity and risk of sleep related 
+upper airway obstruction in caucasian children. J Clin Sleep Med 
+2008
+
+Childhood obesity is now recognized as a major pediatric 
+health issue.1 Over the past decade the prevalence of obesity 
+in children has increased two- to threefold in the UK,2 fourfold 
+in USA and four- to sixfold in Australia.3 It is associated with 
+a range of known significant health and social problems (e.g., 
+diabetes, hypertension, peer rejection)4 and there is emerging 
+evidence that childhood obesity may also be an important risk 
+factor for obstructive sleep apnea syndrome (OSAS).5 Moreover, 
+the inflammatory effects of both obesity and upper airway 
+obstruction may be additive.6 However, the relationship 
+between childhood obesity and OSAS may be more complex 
+than previously thought.
+
+In children the physiological effects of obesity on the respiratory 
+system are believed to be similar to that of adults with 
+an increased mass effect on the upper airway, deposition of fat 
+in the pharyngeal muscles, decreased chest wall compliance, 
+cephalad displacement of the diaphragm and blunting of central 
+respiratory drive all increasing the potential severity of OSAS.7 
+The rise in childhood obesity is therefore likely to predispose 
+increasing numbers of children to OSAS.
+
+Obesity in children may also be a risk factor for other sleep 
+breathing disorders. Verhulst et al.8 recently reported the intriguing 
+finding that abdominal obesity was associated with central 
+apnea (but not OSAS) in 91 overweight and obese children referred 
+for evaluation of snoring. This work awaits further exploration.
+
+
+Ethnicity is a recognized modulator of OSAS in children. For 
+example, African American compared to Caucasian children are 
+reported to be at greater risk of OSAS,5,9,10 and while not directly 
+compared with other groups, Asian children are thought to be at 
+lower risk.11 However, the detailed interaction, between ethnicity, 
+obesity and OSAS has not been well explored. A summary of 
+the literature exploring ethnicity and OSAS frequency in children 
+is given in Appendix 1. In general, the studies have not specifically 
+evaluated the relative contribution of ethnicity with most 
+recruiting mixed ethnic samples. Inspection of the findings from 
+studies which have largely sampled a single ethnic group would 
+suggest that there is a modest association between obesity and 
+OSAS in samples containing predominantly African American 
+children,12,13 mixed findings in Asian children with one group 
+reporting no association (Chinese)14 and two groups (both Chinese) 
+a weak association15,16 and little association in Caucasian 
+children.17,18 Given this background, the relative contribution of 
+
+Disclosure Statement
+
+This was not an industry supported study. The authors have indicated no 
+financial conflicts of interest.
+
+Submitted for publication July, 2007
+
+Accepted for publication December, 2007
+
+Address correspondence to: Mr. Mark Kohler, Centre for Sleep Research, 
+The University of South Australia, Level 7, Playford Building, City East 
+Campus, Frome Road, Adelaide, South Australia, Australia 5000; Tel: (+) 
+61 8302 6624; Fax: (+) 61 8302 6623; E-mail mark.kohler@unisa.edu.au
+
+
+
+ethnicity remains to be more fully examined especially in Caucasian 
+children where there is a paucity of data.
+
+Age may also be an important factor modulating the impact 
+of obesity on OSAS in children with an emerging consensus 
+that the association may be stronger in older children.19 Our 
+review of the literature suggests that an association between 
+obesity and OSAS is more often reported in older than younger 
+children (Appendix 1). In the only study to date that has specifically 
+examined the relationship between OSAS and obesity in 
+different age groups, Stepanski et al20 report that obesity was 
+more frequent in older (8-12 years) compared to younger (< 8 
+years) children with OSAS.
+
+Considering the findings of age and ethnicity in the genesis 
+of OSAS in children an important question is once these factors 
+have been controlled, what is the relative contribution of 
+obesity to OSAS? The aim of the present study was to examine 
+the interaction between obesity, age and upper airway obstruction 
+in Australian Caucasian children referred for evaluation of 
+snoring.
+
+METHODS
+
+Participants
+
+This was retrospective case study. Consecutive healthy children 
+aged 4 to 12 years who were referred for evaluation of 
+snoring and possible OSAS to the Sleep Disorders Unit, Women’s 
+and Children Hospital, Adelaide, South Australia over the 
+period October 1999 to December 2003 were included as participants 
+in the present study. We excluded non-Caucasian children, 
+children with specific syndromes (e.g., midface hypoplasia, 
+Prader-Willi Syndrome), children prescribed psychotropic 
+medication and children with a significant medical condition 
+that could potentially result in hypoxemia and/or sleep fragmentation 
+(e.g., uncontrolled asthma, cystic fibrous). A final 
+total of 190 Caucasian children were selected, of which 55% 
+were referred from respiratory medicine, 22% otorhinolaryngology, 
+and 23% general pediatric clinics. The children were 
+classified by polysomnography (PSG) and parental responses 
+to the question “Does your child snore”? into three groups reflecting 
+increasing severity: Intermittent Snorers (IS; normal 
+PSG [OAHI < 1] and snoring < 3 nights per week, n = 80), 
+Habitual Snorers (HS; normal PSG [OAHI < 1] and snoring 
+= 3 or more nights per week, n = 68) and Obstructive Sleep apnea 
+Syndrome (OSAS; obstructive apnea and hypopnea index 
+[OAHI = 1], n = 42).
+
+Established growth charts corrected for age and gender were 
+used to determine body mass index (BMI) z-scores and classify 
+overweight and obesity (BMI = 85th and 95th percentile respectively.
+21
+
+Because of previous evidence of an association between 
+childhood OSAS and parental snoring,22 smoking in the home22 
+and socioeconomic status (SES) 23 these variables were also collected 
+and covaried for in the analyses. Frequent snoring by 
+either parent and smoking of cigarettes by any member of a 
+household was determined by parental report. A measure of 
+socioeconomic status (SES) was derived from the Australian 
+Bureau of Statistics’ Index of Relative Socio-economic Advantage/
+Disadvantage 2001 national census data (Australian Bureau 
+of Statistics, Canberra, 2001). A higher score on this index 
+indicates increased income and occupational skills and/or training 
+within the geographical area of residence.
+
+This study was approved by the Human Ethics Committee 
+Women’s and Children’s Hospital Adelaide.
+
+Polysomnography
+
+Overnight PSG was conducted without sedation or sleep 
+deprivation and began at each child’s usual bedtime. A parent 
+accompanied each child throughout the procedure. Polysomnography 
+was performed using a computerized sleep data acquisition 
+system (Compumedics S-Series Sleepwatch System, 
+Melbourne, Australia). The following standard parameters were 
+measured and recorded continuously utilizing the appropriate 
+signal sampling and filtering protocols: electroencephalogram 
+(EEG; C3-A2 or C4-A1), left and right electrooculogram 
+(EOG), submental and intercostal electromyogram (EMG) with 
+skin surface electrodes, leg movements by piezoelectric motion 
+detection, heart rate by electrocardiogram (ECG), oronasal airflow 
+by thermistor and nasal pressure, respiratory movements 
+of the chest and abdominal wall using uncalibrated respiratory 
+inductive plethysmography, arterial oxygen saturation (SpO2) 
+by pulse oximetry (Nellcor N2000) and transcutaneous CO2 
+(TcCO2) using a heated (41oC) transcutaneous electrode (TINA, 
+Radiometer Pacific). All data were digitized and stored on computer 
+disk for subsequent analysis. Each child was continuously 
+monitored and observed via infrared camera by a pediatric sleep 
+technician who also documented observations of sleep behavior 
+including the presence or absence of snoring.
+
+Data Analysis
+
+All polysomnograms were analyzed and scored manually by 
+a sleep technician experienced and trained in analyzing pediatric 
+sleep studies. The interscorer concordance (kappa) between 
+two sleep technicians who randomly sampled a set of PSG used 
+in this study was > 0.9. Sleep stages were scored in 30-sec epochs 
+according to the standardized EEG, EOG, and EMG criteria.
+24 Movement time was scored as a separate category and was 
+not included in either sleep or awake time. Epochs were scored 
+as movement if the EEG and EOG signals were obscured for 
+> 50% of the epoch by muscle tension or artifact associated 
+with movement of the subject.24 Awake time refers to time spent 
+awake during the recording period after initial sleep onset.
+
+Respiratory variables were scored according to standard 
+guidelines recommended for pediatric sleep studies.25 Obstructive 
+apneas were defined as the absence of airflow associated 
+with continued chest and abdominal wall movement for duration 
+of two or more respiratory cycles. Obstructive hypopneas 
+were defined as a 50% to 80% reduction in the amplitude of 
+the RIP and/or airflow signal associated with paradoxical chest/
+abdominal wall movement for duration of two or more respiratory 
+cycles and associated with = 3% oxygen desaturation. 
+The presence of any other supportive data such as increased 
+intercostal or submental EMG activity was also used to distinguish 
+between obstructive and central hypopneas. The obstructive 
+apnea and hypopnea index (OAHI) was calculated as the 
+
+M Kohler, K Lushington, R Couper et al
+
+
+
+divided by the total sleep time and expressed as the number of 
+events per hour of sleep. An OAHI > 1 was considered indicative 
+of OSAS.
+
+Spontaneous and respiratory arousals were scored according 
+to the criteria of the American Sleep Disorders Task Force and 
+are expressed as the total number of arousals per hour of sleep 
+(spontaneous arousal index and respiratory arousal index).25
+
+Central apneas were scored when there was an absence 
+of respiratory effort to < 20% of baseline for = 2 respiratory 
+cycles in association with an absence of airflow and, as well, 
+an absence of thoracoabdominal effort and reliable diaphragmatic 
+EMG activity in the presence of = 3% oxygen desaturation. 
+The central apnea index (CAI) was calculated as the total 
+number of central apneas divided by the total sleep time and 
+expressed as the number of events per hour of sleep.
+
+Statistical Analysis
+
+Statistical analyses were conducted using SPSS version 14.0 
+for Windows (Chicago, IL). All p values reported are 2-tailed, 
+with statistical significance determined at a = 0.05. Data are 
+presented as mean (95% CI) unless otherwise stated.
+
+The severity of upper airway obstruction was entered as an 
+independent variable (i.e., IS, HS, and OSAS) into a series of 
+Chi-square analyses to explore group differences in categorical 
+variables (gender, parental snoring, and smoking in the home). 
+One-way analysis of variance (ANOVA) was used to test for 
+group differences in the continuous variables, i.e., age, socioeconomic 
+status, BMI z-score, and sleep variables. Games-
+Howell tests were used in post hoc analyses.
+
+Apart from two exceptions all variables were normally distributed. 
+The two exceptions were OAHI and CAI, which displayed 
+significant positive skew and were, therefore, inversely 
+transformed before entering into analyses [i.e. 1/(x+c), where 
+x = data value and c = 1].26 The transformed values are indicated 
+as OAHI-transformed and CAI-transformed. Please note 
+that lower transformed scores indicate more severe disease.
+
+The relationship between Age and BMI z-score with demographic 
+and sleep variables were explored using Pearson-r or 
+in the case of ordinal data Spearman-rho correlational analyses 
+and significance was tested using Fishers r-z transformations. 
+Hierarchical regressions were used to explore the variance explained 
+by age (step 1) and BMI z-score (step 2) in OAHI and, 
+likewise, age (step 1) and BMI z-score (step 2) in CAI.
+
+RESULTS
+
+Heavier children were more likely to have OSAS. The percentage 
+of overweight/obese was higher in OSAS (52% [22/42]) 
+than either IS (30% [24/80]) or HS (29% [20/68]) children. Conversely, 
+OSAS was more frequent in overweight/obese (22/66 
+[33%]) than normal weight (20/124 [16%]) children.
+
+ANOVA revealed that OSAS children had a significantly 
+higher BMI z-score than either IS or HS children (post hoc 
+analysis: OSAS > IS = HS, p < 0.05) (Table 1). As expected, 
+Respiratory Arousal Index scores were significantly higher 
+(OSAS > IS = HS, p < 0.05) while OAHI-transformed (i.e. inverse 
+OAHI) and SpO2 nadir scores were significantly lower 
+in OSAS than IS and HS children (both OSAS < IS = HS, 
+p < 0.05). CAI-transformed (i.e. inverse CAI) scores were also 
+
+Child Obesity and Upper Airway Obstruction
+
+Table 1—Frequency (%) or Mean (95% CI) for Demographic and Sleep Variables According to Severity of Upper Airway Obstruction (Intermittent 
+Snorer, Habitual Snorer and OSAS) with Chi-Square and F-Test Results
+
+Demographic/Sleep Severity of Upper Airway Obstruction
+
+variable Intermittent Snorer (n=80) Habitual Snorer (n = 68) OSAS (n= 42)
+
+ n % n % n % Chi-square
+
+Gender (male) 43 (54%) 40 (59%) 23 (55%) 0.47
+
+Parental snoring 52 (65%) 44 (65%) 26 (62%) 0.07
+
+Smoking in home 23 (29%) 22 (32%) 12 (29%) 0.28
+
+ mean 95% CI mean 95% CI mean 95% CI F-test
+
+BMI z-score 0.63 0.40-0.86 0.67 0.42-0.92 1.26 0.87-1.61 5.07**
+
+Age 7.20 6.66-7.74 6.54 5.88-7.20 6.93 6.11-7.74 1.20 
+
+Socioeconomic status 991 971-1011 972 955-989 958 932-983 2.52
+
+Total sleep time (min) 439 430-448 426 414-437 422 405-437 2.67
+
+Stage 1% 3.26 2.80-3.72 3.83 3.22-4.44 4.17 3.22-5.14 2.13
+
+Stage 2% 45.2 43.8-46.6 45.4 43.8-47.1 43.0 41.3-45.2 1.62
+
+SWS (3+4)% 30.6 29.1-31.8 30.6 29.0-32.3 31.6 29.6-33.3 0.33
+
+REM% 20.9 19.9-22.0 20.1 18.9-21.3 21.1 19.8-22.5 0.85
+
+REM latency (min) 103 92-115 112 98-127 122 106-138 1.70
+
+OAHI 0.14 0.09-0.19 0.18 0.13-0.23 5.35 3.75-7.00 75.4****
+
+OAHI-transformeda 0.91 0.88-0.94 0.88 0.84-0.90 0.25 0.20-0.29 353****
+
+CAI 0.53 0.38-0.67 1.14 0.46-1.81 1.96 0.86-3.06 4.94**
+
+CAI-transformeda 0.74 0.69-0.78 0.66 0.60-0.72 0.54 0.45-0.61 10.6****
+
+Spontaneous Arousal Index 6.71 5.92-7.50 7.81 6.77-8.85 8.25 6.57-9.93 2.1
+
+Respiratory Arousal Index 0.89 0.62-1.16 1.36 0.96-1.77 6.44 4.14-8.75 34.5****
+
+SpO2 nadir 93.0 92.3-93.8 92.3 91.5-93.1 88.0 86.1-89.6 24.6****
+
+NB *denotes p < 0.05, **p < 0.01, ***p < 0.005 and ****p < 0.001. aResults for inverse functions indicate the opposite direction of actual 
+severity, i.e., a smaller value indicates greater raw value and severity. OSAS = obstructive sleep apnea syndrome. Stage 1,2, SWS (stage 3+4 
+
+
+
+lower in OSAS than either IS and HS children (OSAS < IS = 
+HS, p < 0.05). No significant group differences were observed 
+in the remaining demographic or sleep variables.
+
+Correlational analysis indicated that children with a higher 
+BMI z-score demonstrated a significantly higher number of obstructive 
+and central respiratory events during sleep, increased 
+frequency of respiratory arousals and lower SpO2 nadir (Table 
+2). As well, older age was associated with fewer central apneas.
+
+
+To investigate the possible interaction between age with obesity 
+and SDB, we divided the sample according to the criteria 
+used by Stepanski et al (1999) into young (< 8 y) and old (= 8 y) 
+children. Restricting our examination to children with obesity 
+(n = 51), OSAS was more frequent in younger children (47% 
+[14/30]) than older children (24% [5/21]). However, despite 
+this trend the distribution of SDB subtypes was not significantly 
+different between young and old children (chi-square = 2.9, 
+p > 0.05).
+
+As can be seen in Table 1, the Parental Snoring, Smoking 
+in the Home and SES scores were comparable across the three 
+SDB groups. Examination of the relationship between these 
+variables and OAHI and, likewise, CAI revealed no significant 
+correlations (all p > 0.05). A history of parental snoring, exposure 
+to smoking in the home or lower SES were not associated 
+with increased OAHI and CAI.
+
+The regression results are summarized in Table 3. BMI 
+z-score was predictive of upper airway obstruction. However, 
+while significant, BMI z-score contributed only 4.5% of explained 
+variance in OAHI-transformed. Age and BMI z-score 
+were significant predictors of central apnea, but again only contributed 
+a small percentage of the variance in CAI-transformed, 
+3.7% and 3.8% respectively.
+
+DISCUSSION
+
+In a large clinical sample of Australian Caucasian children 
+undergoing overnight PSG for the assessment of snoring, those 
+with confirmed OSAS had a greater body mass index than children 
+with either intermittent or habitual snoring. Regression 
+analyses revealed that increased body mass index was predictive 
+of upper airway obstruction. However, the association was 
+weak, with body mass index explaining less than 5% of the 
+variance in obstructive apnea hypopnea index. This is comparable 
+to findings reported by de la Eva et al17 and Goodwin et 
+al18 in samples consisting mainly of Caucasian children. In the 
+present study, increased body mass index together with younger 
+age were also predictive of central apnea. Again however, the 
+association was weak with age and body mass index together 
+explaining less than 8% of the variance in central apnea index. 
+Overall, the present findings suggest that obesity is a weak 
+predictor of upper airway obstruction in Australian Caucasian 
+children.
+
+Recent reports suggest that older obese children are at higher 
+risk for OSAS.19 This is supported by inspection of the studies 
+summarized in Appendix 1 where the relationship between obesity 
+and OSAS is more frequently reported in studies performed 
+in older compared to younger children. In contradistinction to 
+these findings, age in the present study was not predictive of 
+upper airway obstruction. The current literature examining the 
+relationship between age, childhood obesity and upper airway 
+obstruction is limited by several methodological shortcomings. 
+These include small subject numbers a failure to normalize obesity 
+for age and gender, lack of quantification of upper airway 
+severity by full overnight polysomnography, lack of a comparison 
+or control group and, in particular, a lack of control for 
+ethnicity.5,14,20,27-29
+
+In the present study we restricted our sample to Australian 
+Caucasian children because they form the majority of the population 
+seen in our sleep laboratory. Studies reporting an association 
+between obesity and OSAS have included a relatively high 
+percentage of African American and/or Asian children. Independent 
+of obesity, African American children appear to be at 
+higher risk of OSAS.5,9,10 The relationship between obesity and 
+OSAS is less well documented in Asian children, but Lam et 
+al.15 report a weak association in a sample of 480 Chinese children 
+(r = 0.16). Unfortunately, to date, the interaction between 
+obesity, ethnicity and OSAS has not been well explored and 
+
+Table 2—Association between BMI Z-Score, Age, and Demographic 
+and Sleep Variables (n=190)
+
+Demographic/Sleep variable Age BMI z-score 
+
+Age (years) -0.09
+
+BMI z-score 0.09 -
+
+Socioeconomic status -0.04 0.01
+
+Parental snoringa 0.01 -0.02
+
+Smoking in homea 0.10 0.04
+
+Total sleep time (min) -0.04*** -0.09
+
+Stage 1% 0.11 0.09
+
+Stage 2% 0.30**** -0.01
+
+SWS% -0.15* -0.11
+
+REM% -0.30**** -0.11
+
+REM latency (min) 0.16* -0.02
+
+(OAHI -0.09 0.24***)
+
+OAHI-transformed 0.04 -0.21**
+
+(CAI -0.04 0.16*)
+
+CAI-transformed 0.19** -0.18*
+
+Spontaneous Arousals Index -0.10 0.03
+
+Respiratory Arousals Index -0.03 0.19*
+
+SpO2 nadir 0.14 -0.17*
+
+NB *denotes p < 0.05, **p < 0.01, ***p < 0.005 and ****p < 
+0.001. Stage 1, stage 2, SWS (slow wave sleep), and REM sleep 
+are presented as a percentage of total sleep time. Spontaneous and 
+Respiratory Arousals are number of events per hour of total sleep 
+time. aSpearman correlation for ordinal data, remaining relationships 
+Pearson-r correlations.
+
+Table 3—Hierarchical Regression Results with OAHI-Transformed 
+and CAI-Transformed as Dependent Variables and Age 
+(Step 1) and BMI Z-Score (Step 2) as Independent Variables
+
+Variable Regression Results
+
+ Step 1 ß Step 2 ß R2 Adj R2 R2 
+
+ change
+
+OAHI-transformed
+
+ Age 0.04 0.06 0.00 0.00 0.00
+
+ BMI z-score -0.21*** 0.05 0.04 0.04
+
+CAI-transformed
+
+ Age 0.19 0.21** 0.04 0.03 0.04
+
+ BMI z-score -0.20** 0.08 0.07 0.04
+
+NB *denotes p < 0.05, **p < 0.01 and ***p < 0.005.
+
+
+
+while the percentage of obese children with OSAS is sometimes 
+reported the percentage further divided by ethnicity is not 
+(Appendix 1). Taken together, we suggest that ethnicity may 
+be a more important modulator of increased risk of upper airway 
+obstruction in obese children than has been previously assumed.
+
+
+Like Verhulst and colleagues,8 we found that body mass index 
+was predictive of central apnea. In addition, we found that 
+younger age was predictive of increased CAI severity. Nonetheless 
+some caution is needed in the interpretation of these findings. 
+Chest and abdominal movement recordings during PSG 
+are particularly prone to artifact amongst obese patients. When 
+increased abdominal adiposity is present and muscle function 
+and respiratory drive are impaired, such as during REM, the 
+ability to move the chest wall in response to an obstructed upper 
+airway may be impaired.30 Consequently, obstructive respiratory 
+events may be erroneously scored as central events thereby 
+underscoring the degree of obstruction.
+
+A limitation of the present study is that we studied children 
+referred to a sleep unit at a children’s hospital. It is conceivable 
+that obesity might be a differential factor for referral and this 
+tendency would have increased the likelihood of overweight/
+obese children with suspected OSAS in our sample. We therefore 
+reasoned that this would result in an increased likelihood 
+of finding a relationship between obesity and OSAS. Thirty-
+five percent of our sample was overweight or obese. This is 
+comparable to values reported elsewhere in a U.S. clinic sample.
+6 In our “biased” sleep laboratory sample, we would have 
+expected a higher prevalence of obese children with OSAS than 
+was observed. Given this positive bias, the finding of only a 
+weak relationship between childhood obesity and upper airway 
+obstruction in our present study is therefore instructive. 
+Nonetheless, because children referred to a sleep clinic may be 
+dissimilar to the general population of children the present findings 
+may not be applicable to the general pediatric community. 
+A further limitation of the present study is that the contribution 
+of regional adiposity was not evaluated. In adults with OSAS 
+excess parapharyngeal fat is associated with OSAS severity 31 
+and whether the same applies to children is unclear. Finally, 
+tonsillar size was not evaluated in the present study. Brooks et 
+al13 report a significant correlation between adenoidal-nasopharyngeal 
+ratio and apnea duration while Lam et al15 report a significant 
+relationship between tonsillar size and OSAS severity. 
+However, the relationship of tonsillar size to upper airway caliber 
+during sleep may be the critical predictor of OSAS severity 
+rather than tonsillar size per se.32
+
+Socioeconomic status, parental snoring and smoking at 
+home are reported to be associated with OSAS.22,23 In the present 
+study the mean and/or frequency of these factors were comparable 
+across the three upper airway obstruction groups. In 
+addition, lower socioeconomic status, a history parental snoring 
+and smoking at home were not associated with increased 
+disease severity. A similar pattern of results were observed for 
+central apnea.
+
+Recent studies have established that children who demonstrate 
+UAO have increased upper airway collapsibility,33 decreased 
+upper airway volume,32 but successful neuromuscular 
+compensatory mechanisms which maintain airway patency during 
+wakefulness and NREM sleep.34 However, during obstructive 
+events and REM sleep, upper airway tone is temporarily 
+and dramatically reduced.35 Further, developmental changes 
+in upper airway tone may also play a significant role in upper 
+airway obstruction as upper airway tone is reported to decrease 
+with age.36,37 No independent relationship between age 
+and OSAS was demonstrated in the present study. The majority 
+of studies reporting obesity to increase the risk of OSAS 
+have recruited study participants with a mean age greater than 
+10 years.12,16,38,40,41 Stepanski and colleagues20 have shown that 
+children displaying upper airway obstruction had significantly 
+greater BMI than children with no symptoms only when older 
+than 8 years. Rosen10 in a sample of children with a mean age = 
+5.8 years, while finding an increased proportion of obese children 
+amongst referrals to a sleep clinic, did not report any association 
+between obesity and OSAS. If an age point exists at 
+which OSAS becomes a risk, as opposed to not, this has yet to 
+be established. However, it is not unreasonable to suspect developmental 
+factors play an important intermediary role in the 
+development of upper airway obstruction.
+
+In conclusion, we found in a homogenous group of Australian 
+Caucasian children referred to a sleep disorders clinic for 
+suspected upper airway obstruction that obesity was a significant 
+but weak predictor of OSAS. Given the dramatic recent 
+increase in the prevalence of childhood overweight and obesity 
+and the emerging literature suggesting that adenotonsillectomy 
+may not result in the same degree of resolution of obstruction 
+as in normal weight children this area of research will continue 
+to require detailed study.
+
+Acknowledgments
+
+We would like to thank Helen Newman for her assistance with 
+PSG scoring. This study was supported by a Project Grant from 
+the National Health and Medical Research Council #250369, 
+and a Postgraduate Scholarship awarded to Mark Kohler from 
+The Queen Elizabeth Hospital Research Foundation.
+
+REFERENCES
+
+1. Deane S, Thomson A. Obesity and the pulmonologist. Arch Dis 
+Child 2006;91:188-91.
+
+2. Lobstein TJ, James WP, Cole TJ. Increasing levels of excess 
+weight among children in England. Int J Obes Relat Metab Disord 
+2003;27:1136-8.
+
+3. Goodman S, Lewis PR, Dixon AJ, Travers CA. Childhood obesity: 
+of growing urgency. Med J Aust 2002;176:400-1.
+
+4. Flodmark CE, Lissau I, Pietrobelli A. Child and adolescent obesity: 
+why we need to fight! Acta Paediatr Suppl 2005;94:4-7.
+
+5. Redline S, Tishler PV, Schluchter M, Aylor J, Clark K, Graham G. 
+Risk factors for sleep-disordered breathing in children. Associations 
+with obesity, race, and respiratory problems. Am J Respir 
+Crit Care Med 1999;159(5, Pt 1):1527-32.
+
+6. Tauman R, Gozal D. Obesity and obstructive sleep apnea in children. 
+Paediatr Respir Rev 2006;7:247-59.
+
+7. Koenig SM. Pulmonary complications of obesity. Am J Med Sci 
+2001;321:249-79.
+
+8. Verhulst SL, Schrauwen N, Haentjens D, et al. Sleep-disordered 
+breathing in overweight and obese children and adolescents: 
+prevalence, characteristics and the role of fat distribution. Arch 
+Dis Child 2006;92:205-8.
+
+9. Morton S, Rosen C, Larkin E, Tishler P, Aylor J, Redline S. Pre
+
+
+
+dictors of sleep-disordered breathing in children with a history of 
+tonsillectomy and/or adenoidectomy. Sleep 2001;24:823-9.
+
+10. Rosen CL. Clinical features of obstructive sleep apnea hypoventilation 
+syndrome in otherwise healthy children. Pediatr Pulmonol 
+1999;27:403-9.
+
+11. Anuntaseree W, Rookkapan K, Kuasirikul S, Thongsuksai P. 
+Snoring and obstructive sleep apnea in Thai school-age children: 
+prevalence and predisposing factors. Pediatr Pulmonol 
+2001;32:222-7.
+
+12. Marcus CL, Curtis S, Koerner CB, Joffe A, Serwint JR, Loughlin 
+GM. Evaluation of pulmonary function and polysomnography 
+in obese children and adolescents. Pediatr Pulmonol 
+1996;21:176-83.
+
+13. Brooks LJ, Stephens BM, Bacevice AM. Adenoid size is related 
+to severity but not the number of episodes of obstructive apnea in 
+children. J Pediatr 1998;132:682-6.
+
+14. Chay OM, Goh A, Abisheganaden J, et al. Obstructive sleep apnea 
+syndrome in obese Singapore children. Pediatr Pulmonol 
+2000;29:284-90.
+
+15. Lam YY, Chan EY, Ng DK, et al. The correlation among obesity, 
+apnea-hypopnea index, and tonsil size in children. Chest 
+2006;130:1751-6.
+
+16. Wing YK, Hui SH, Pak WM, et al. A controlled study of sleep related 
+breathing in obese children. Arch Dis Child 2003;88:1043-7.
+
+17. de la Eva RC, Baur LA, Donaghue KC, Waters KA. Metabolic 
+correlates with obstructive sleep apnea in obese subjects. J Pediatr 
+2002;140:654-9.
+
+18. Goodwin JL, Kaemingk KL, Fregosi RF, et al. Clinical outcomes 
+associated with sleep-disordered breathing in Caucasian and Hispanic 
+children--the Tucson Children’s Assessment of Sleep Apnea 
+study (TuCASA). Sleep 2003;26:587-91.
+
+19. Ievers-Landis CE, Redline S. Pediatric sleep apnea: implications 
+of the epidemic of childhood overweight. Am J Respir Crit Care 
+Med 2007;175:436-41.
+
+20. Stepanski E, Zayyad A, Nigro C, Lopata M, Basner R. Sleep-disordered 
+breathing in a predominantly African-American pediatric 
+population. J Sleep Res 1999;8:65-70.
+
+21. Bellizzi MC, Dietz WH. Workshop on childhood obesity: summary 
+of the discussion. Am J Clin Nutr 1999;70:173S-5S.
+
+22. O’Brien LM, Holbrook CR, Mervis CB, et al. Sleep and neurobehavioral 
+characteristics of 5- to 7-year-old children with parentally 
+reported symptoms of attention-deficit/hyperactivity disorder. 
+Pediatrics 2003;111:554-63.
+
+23. Chervin RD, Clarke DF, Huffman JL, et al. School performance, 
+race, and other correlates of sleep-disordered breathing in children. 
+Sleep Med 2003;4:21-7.
+
+24. Rechtschaffen A, Kales A. A manual of standardized terminology, 
+techniques and scoring system for sleep stages of human subjects. 
+Los Angeles: BIS/BRI; 1968.
+
+25. Standards and indications for cardiopulmonary sleep studies in 
+children. American Thoracic Society. Am J Respir Crit Care Med 
+1996;153:866-78.
+
+26. Tabachnick BG, Fidell LS. Using Multivariate Statistics 4th ed. 
+Boston: Allyn and Bacon; 2001.
+
+27. Mallory GB Jr, Fiser DH, Jackson R. Sleep-associated breathing 
+disorders in morbidly obese children and adolescents. J Pediatr 
+1989;115:892-7.
+
+28. Marcus CL, Loughlin GM. Obstructive sleep apnea in children. 
+Semin Pediatr Neurol 1996;3:23-8.
+
+29. Silvestri JM, Weese-Mayer DE, Bass MT, Kenny AS, Hauptman 
+SA, Pearsall SM. Polysomnography in obese children with a history 
+of sleep-associated breathing disorders. Pediatr Pulmonol 
+1993;16:124-9.
+
+30. Bourke SC, Gibson GJ. Sleep and breathing in neuromuscular 
+disease. Eur Respir J 2002;19:1194-201.
+
+31. Mortimore IL, Marshall I, Wraith PK, Sellar RJ, Douglas NJ. 
+Neck and total body fat deposition in nonobese and obese patients 
+with sleep apnea compared with that in control subjects. Am J 
+Respir Crit Care Med 1998;157:280-3.
+
+32. Arens R, McDonough JM, Corbin AM, et al. Upper airway 
+size analysis by magnetic resonance imaging of children with 
+obstructive sleep apnea syndrome. Am J Respir Crit Care Med 
+2003;167:65-70.
+
+33. Gozal D, Burnside MM. Increased upper airway collapsibility in 
+children with obstructive sleep apnea during wakefulness. Am J 
+Respir Crit Care Med 2004;169:163-7.
+
+34. Katz ES, White DP. Genioglossus activity in children with obstructive 
+sleep apnea during wakefulness and sleep onset. Am J 
+Respir Crit Care Med 2003;168:664-70.
+
+35. Katz ES, White DP. Genioglossus activity during sleep in normal 
+controls and children with obstructive sleep apnea. Am J Respir 
+Crit Care Med 2004;170:553-60.
+
+36. Arens R, Marcus CL. Pathophysiology of upper airway obstruction: 
+a developmental perspective. Sleep 2004;27:997-1019.
+
+37. Marcus CL, Fernandes Do Prado LB, et al. Developmental changes 
+in upper airway dynamics. J Appl Physiol 2004;97:98-108.
+
+38. Beebe DW, Lewin D, Zeller M, et al. Sleep in overweight adolescents: 
+shorter sleep, poorer sleep quality, sleepiness, and sleep-
+disordered breathing. J Pediatr Psychol 2006;32:69-79.
+
+39. Carroll JL, McColley SA, Marcus CL, Curtis S, Loughlin 
+GM. Inability of clinical history to distinguish primary snoring 
+from obstructive sleep apnea syndrome in children. Chest 
+1995;108:610-8.
+
+40. Dubern B, Tounian P, Medjadhi N, Maingot L, Girardet JP, Boule 
+M. Pulmonary function and sleep-related breathing disorders in 
+severely obese children. Clin Nutr 2006;25:803-9.
+
+41. Reade EP, Whaley C, Lin JJ, McKenney DW, Lee D, Perkin R. 
+Hypopnea in pediatric patients with obesity hypertension. Pediatr 
+Nephrol 2004;19:1014-20.
+
+
+
+Appendix 1. Comparison of Studies Investigating Obesity in Children and its Association with Upper Airway Obstruction
+
+Author 
+
+Referral Source
+
+N (mean age ± 
+SD)
+
+Ethnicity
+
+Definition 
+of Obesity 
+
+Inclusion 
+Criteria 
+
+% (n) Obese
+
+% (n) Obese 
+with OAHI 
+= 5 
+
+Relationship 
+between obesity 
+and apnea 
+severity
+
+Brooks et al.13
+
+Hospital Clinic
+
+17 (4.4 ± 0.8 y) 
+RDI < 5
+
+16 (5.1 ± 1.0 y) 
+RDI = 5
+
+64% (21/33) AA
+
+36% (12/33) 
+Caucasian
+
+Not reported
+
+
+SDB
+
+30%
+
+(5/16)
+
+Not reported
+
+Obesity correlated 
+with 
+RDI
+
+(r = 0.49)
+
+Beebe et al.38 
+
+Obesity Clinic
+
+22 (12.6 ± 1.7 y) 
+Controls
+
+60 (13.1 ± 1.8 y) 
+Obese
+
+55% (45/82) AA
+
+41% (34/82) 
+Caucasian
+
+4% (3/82) Other
+
+BMI > 95th 
+%ile
+
+Obesity 
+
+73%
+
+(60/82)
+
+13% (8/60)
+
+OR Obesity 
+to OAHI > 1 
+= 6.6
+
+Carroll et al.39
+
+Hospital Clinic
+
+48 (5.6 ± 3.4 y) 
+OAHI < 1
+
+35 (4.3 ± 2.4 y) 
+OAHI = 1
+
+68% (56/82) AA
+
+31% (25/82) 
+Caucasian
+
+1% (1/82)
+
+BMI > 95th 
+%ile
+
+SDB
+
+23%
+
+(19/83)
+
+Not reported
+
+Frequency of 
+obesity same 
+for
+
+OAHI < 1 & 
+OAHI = 1
+
+Chay et al.14
+
+Obesity Clinic
+
+146 (6-18 y) 
+
+58% (85/146) 
+Chinese
+
+32% (47/146) 
+Malay
+
+8% (12/146) 
+Indian
+
+2% (2/146) 
+Other
+
+= 180% of 
+IBW
+
+Obesity or 
+SDB 
+
+41%
+
+(60/146)
+
+13% (8/60) 
+
+No significant 
+association 
+
+de la Eva et 
+al.17
+
+Hospital Clinic
+
+62 (10.9 ± 3.1 y)
+
+80% (50) Caucasian
+
+
+10% (6) Middle 
+Eastern
+
+7% (4) Asian
+
+3% (2) Others
+
+BMI > 95th 
+%ile
+
+Obesity and 
+snoring
+
+100% (62/62)
+
+Not reported
+
+No significant 
+association
+
+Dubern et al.40
+
+Nutrition Clinic
+
+54 (12.0 ± 2.6 y)
+
+67% (36/54) 
+Caucasian
+
+33% (18/54) 
+Black
+
+BMI z-
+score>3 SD 
+over mean 
+(severe 
+obesity)
+
+Obesity
+
+100% (54/54)
+
+15% (8/54) 
+RDI>10
+
+Severe obesity 
+correlated with
+
+RDI (r = 0.30)
+
+Goodwin et 
+al.18 
+
+Community
+
+239 (6-11 y)
+
+49% (117/239) 
+Caucasian
+
+51% (122/329) 
+Hispanic
+
+BMI > 95th 
+%ile
+
+Nil
+
+12% (28/239)
+
+Not reported
+
+No significant 
+association
+
+Lam et al.15
+
+Hospital Clinic
+
+482 (median age 
+= 6y; interquartile 
+range 
+4-9 y)
+
+100% (482/482) 
+Chinese
+
+BMI Z 
+score > 
+1.96
+
+SDB
+
+30% (111/371)
+
+49.5% (55/111)
+
+Obesity correlated 
+with 
+(ln)AHI
+
+(r = 0.16).
+
+OR obesity to 
+OAHI > 1.5 
+= 2.3
+
+Mallory et al.27 
+
+Obesity Clinic
+
+41 (10.3 ± 4.4 y)
+
+Not reported
+
+= 150% of 
+IBW
+
+Obesity and 
+SDB
+
+100% (41/41)
+
+24% (10/41)
+
+No significant 
+association 
+
+Marcus et al.12
+
+Hospital Clinic
+
+22 (10.0 ± 5.0 y)
+
+91% (20/22) AA
+
+9% (2/22) Caucasian
+
+
+> 120% of 
+IBW or
+
+subscapular 
+skinfold 
+thickness > 
+85th %ile
+
+Obesity
+
+100% (22/22)
+
+27% (6/22)
+
+obstructive 
+apneas > 1/hr
+
+Obesity correlated 
+with
+
+obstructive 
+apneas/h (r = 
+0.47)
+
+
+
+
+
+Appendix 1 continues on next page.
+
+
+
+Author 
+
+Referral Source
+
+N (mean age ± 
+SD)
+
+Ethnicity
+
+Definition 
+of Obesity 
+
+Inclusion 
+Criteria 
+
+% (n) Obese
+
+% (n) Obese 
+with OAHI 
+= 5 
+
+Relationship 
+between obesity 
+and apnea 
+severity
+
+Reade et al.41
+
+Hospital Clinic
+
+90 (10.7: 4-18 y)
+
+64.4% (58/90) 
+AA
+
+34.4% (31/90) 
+Caucasian
+
+1% (1/90) Hispanic
+
+
+BMI > 95th 
+%ile 
+
+SDB
+
+62.2% (56/90)
+
+53% (30/56) 
+apnea Index 
+> 1
+
+Obesity correlated 
+with 
+OAHI
+
+(r = 0.29) 
+
+Rosen10
+
+Hospital Clinic
+
+326 (5.8 ± 3.0 y) 
+
+38% (137/326) 
+AA
+
+30% (98/326) 
+Caucasian
+
+31% (101/326) 
+Hispanic
+
+= 120% 
+of IBW or 
+BMI > 95th 
+%ile
+
+SDB
+
+28% (91/326) 
+
+26% (24/91)
+
+No significant 
+association 
+
+Stepanski et 
+al.20
+
+Hospital Clinic
+
+196 (5.9 ± 3.7y) 
+
+68% (133/196) 
+AA
+
+12% (24/196) 
+Caucasian
+
+19% (37/196) 
+Hispanic
+
+1% (2/196) 
+Arabic
+
+BMI > 95th 
+ile
+
+SDB 
+
+23% (47/198)
+
+NR
+
+Non-SDB BMI 
+< SDB BMI
+
+(only for children 
+> 8y)
+
+Verhulst et al. 8 
+
+Obesity Clinic
+
+91 (11.2 ± 2.6 y)
+
+Not reported
+
+BMI > 95th 
+ile
+
+Obesity
+
+70%
+
+(64/91)
+
+8% (5/64)
+
+No significant 
+association
+
+Wing et al. 16 
+
+Obesity Clinic 
+and Community
+
+46 Obese (10.8 ± 
+2.3y)
+
+44 Control (11.7 
+± 2.1y)
+
+100% Chinese
+
+= 120% of 
+IBW
+
+Obesity
+
+51.1% (46/90)
+
+15% (7/46) 
+
+OR Obesity to 
+RDI = 5 = 1.2
+
+
+
+
+
+To produce the table the terms “Obesity,” “Children,” and “Polysomnography” were entered as search terms in the PubMed database. From 
+that search we identified 16 studies that report sufficient details to determine OAHI, ethnicity and frequency of obesity. Studies that used 
+nonstandard polysomnographic protocols were excluded. Abbreviations: ADT = adenotonsillectomy, AA = African-American, BMI = body 
+mass index, IBW = ideal body weight, SDB = sleep disordered breathing, RDI = respiratory disturbance index (total respiratory events per 
+
+M Kohler, K Lushington, R Couper et al
+
+
+

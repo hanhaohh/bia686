@@ -1,0 +1,679 @@
+ORIGINAL ARTICLE ORIGINAL ARTICLE 
+Snoring and Obstructive Sleep Apnea in Children 
+
+A 6-Month Follow-up Study 
+
+Peter Nieminen, MD; Uolevi Tolonen, MD, PhD; Heikki Lo¨ppo¨nen, MD, PhD 
+
+Background: Snoring children may present symptoms 
+suggestive of obstructive sleep apnea syndrome 
+(OSAS). Different and controversial methods to establish 
+the diagnosis and to choose the treatment modalities 
+have been proposed. 
+
+Objectives: To study children with symptoms raising 
+the suspicion of OSAS with overnight polysomnography 
+(PSG). To evaluate the efficacy of adenotonsillectomy 
+as treatment of pediatric OSAS and to elucidate the 
+natural history of OSAS and primary snoring. 
+
+Design: A controlled, prospective, nonrandomized clinical 
+trial. 
+
+Setting: Academic medical center. 
+
+Subjects: Fifty-eight snoring but otherwise healthy children 
+aged 3 to 10 years with symptoms suggestive of OSAS 
+underwent PSG twice, 6 months apart. Thirty healthy children 
+served as controls. 
+
+Results: Twenty-seven children had OSAS with an obstructive 
+apnea/hypopnea index greater than 1, while 31 
+had primary snoring. There were statistical differences 
+in the symptoms and signs among the 3 study groups. 
+Adenotonsillectomy was curative in the 21 children with 
+OSAS who were operated on. Obstructive apneas and hypopneas 
+in the healthy, nonsnoring children were almost 
+nonexistent in this study. 
+
+Conclusions: Half of the children or fewer with symptoms 
+suggestive of OSAS actually had the condition. Clinical 
+symptoms may raise the suspicion, but it is not possible 
+to establish the diagnosis without PSG. Because 
+snoring and obstructive symptoms may resolve over time, 
+a normal PSG finding may help the clinician decide on 
+an observation period. Adenotonsillectomy is curative in 
+most cases of pediatric OSAS. Obstructive symptoms may 
+continue after adenoidectomy alone. 
+
+Arch Otolaryngol Head Neck Surg. 2000;126:481-486 
+
+From the Departments of 
+Otorhinolaryngology 
+(Drs Nieminen and Lo¨ppo¨nen) 
+and Clinical Neurophysiology 
+(Dr Tolonen), Oulu University 
+Hospital, Oulu, Finland. 
+
+M
+M
+ORE THAN 10% of 
+preschool-aged children 
+snore regularly.1 
+However, obstructive 
+sleep apnea syndrome 
+(OSAS), a condition related to snoring with 
+possible serious complications if untreated,
+2,3 is less common. In a recent study, 
+the prevalence of OSAS was estimated at 
+about 3%.4 There is no doubt about the seriousness 
+of pediatric OSAS, but no universally 
+accepted criteria have been developed 
+for its diagnosis and treatment. 
+Much lower apnea indexes and shorter apneas 
+than those considered acceptable for 
+adults2 have been recognized as indicators 
+of OSAS in children.5,6 However, the 
+natural history of mild OSAS and primary 
+snoring (PS), ie, snoring with obstructive 
+symptoms but nonpathologic 
+polysomnography (PSG) findings, is not 
+well known.7 The most common cause for 
+snoring and OSAS in normal children is 
+adenotonsillar hypertrophy.3 
+
+This follow-up study was designed to 
+study children with symptoms suggestive 
+ofOSAS,thepresumptivecauseofthesymptoms 
+being adenotonsillar hypertrophy. 
+These signs and symptoms were related to 
+the overnight polysomnographic (PSG) 
+findings. The effect of adenotonsillectomy 
+as a treatment of the syndrome was evaluated 
+in a repeated study 6 months later in 
+the cases with a PSG finding indicative of 
+OSAS.ThechildrenwithPSwhounderwent 
+no therapeutic interventions also received 
+a follow-up examination 6 months later. 
+
+RESULTS 
+FIRST VISIT 
+
+Twenty-seven of the 58 children had pathologic 
+OAHIs higher than 1 (OSAS group), 
+while the remaining 31 children had nonpathologic 
+PSG recordings (PS group). The 
+main general findings for both groups and 
+the control group are given in Table 1. 
+
+ARCH OTOLARYNGOL HEAD NECK SURG/ VOL 124, APR 1998 
+
+481 
+
+Downloaded from www.archoto.com at American Academy of Pediatrics, on March 5, 2009 
+
+©1998 American Medical Association. All rights reserved. 
+
+
+SUBJECTS, METHODS, 
+AND MATERIALS 
+
+We reviewed all referrals from primary health care sites to 
+the Department of Otorhinolaryngology in the Oulu University 
+Hospital for adenoidectomy, tonsillectomy, or both, 
+for children aged 3 to 10 years from 1994 to 1997. Parents 
+of children with reported snoring, apneas, or difficult nighttime 
+breathing completed a detailed questionnaire regarding 
+their child’s nighttime and daytime symptoms. Children 
+with known upper airway anomalies, an underlying 
+disease predisposing to upper airway obstruction, asthma, 
+or perennial allergy were excluded at this point. 
+
+Based on the questionnaire responses, the children with 
+obstructive symptoms underwent an ear, nose, and throat 
+evaluation. Where recognized, upper airway anomalies and 
+abnormal facial morphologic characteristics led to exclusion. 
+After the patient history had been thoroughly updated 
+and the questionnaire responses checked, 78 children 
+(43 boys; mean age, 5.7 years; range, 2.4-10.5 years) 
+fulfilled the inclusion criteria (ie, had symptoms suggestive 
+of OSAS, were regular snorers, and/or had apneas during 
+sleep, the presumable cause for the symptoms being 
+adenotonsillar hypertrophy). If a child had a previous adenoidectomy, 
+this did not lead to exclusion. 
+
+The children were examined twice, 6 months apart. 
+Fifty-eight children (31 boys; mean age, 5.7 years) participated 
+in the entire follow-up study. Fifteen children did 
+not participate in the second part of the study; in 4 cases 
+there was a protocol violation, and in 1 case, technical problems. 
+Thirty nonsnoring, healthy children (17 boys; mean 
+age, 7.1 years) were also examined for comparison and to 
+establish normative values for overnight PSG. 
+
+CLINICAL SYMPTOMS 
+
+The questionnare included 31 questions designed to determine 
+the severity of the most typical symptoms of childhood 
+OSAS. To score the symptoms, we selected those linked 
+with a high risk for OSAS,8 and assigned the following numeric 
+values to the symptoms of snoring, apneas, nighttime 
+mouth breathing, and restless sleep: 0, never; 1, occasionally; 
+2, regularly; and 3, always. Daytime somnolence 
+was assigned the following values: 0, never; 1, occasionally; 
+and 2, regularly. Odd sleeping positions were valued 
+at 0, no; and 1, yes. The maximum score a child could have 
+was thus 15. 
+
+In addition, the obstructive sleep apnea (OSA) scoring 
+system developed and presented by Brouilette and coworkers9 
+was applied to our series. According to Brouilette 
+et al, an OSA score greater than 0 is predictive of OSAS, 
+while a score less than 0 is predictive of normality. A score 
+greater than 3.5 should be considered diagnostic of OSAS, 
+while a score less than -1.0 indicates absence of OSAS. The 
+OSA scores between –1.0 and 3.5 may or may not indicate 
+OSAS.9 There is one caveat to our analysis of the OSA scores 
+in this study: we used the criterion of laborious breathing 
+instead of breathing difficulties during sleep as in the original 
+formula. 
+
+CLINICAL SIGNS 
+
+Thorough clinical ear, nose, and throat examinations were 
+done. The palatine tonsils were clinically graded on a scale 
+from 1 to 4, slightly modified from the standardized evaluation 
+system recommended by Brodsky,10 as follows: grade 
+1 tonsils remain within the tonsillar fossa; grade 2 tonsils 
+do not reach the midline between the anterior faucial pillar 
+and the uvula; grade 3 tonsils extend medially from the 
+
+More children in the OSAS group than in the PS 
+and control groups had had a previous adenoidectomy. 
+The average palatine tonsillar size was also greater in the 
+OSAS group, with 93% (25/27) having enlarged tonsils, 
+while 68% (20/31) had them in the PS group and only 
+3% (1/30) in the control group. 
+
+SYMPTOMS 
+
+On the symptom scale, the children with OSAS had a median 
+value of 12 (range, 4-14), those with PS, 9 (range, 
+2-14), and the controls, 1 (0-7). The mean OSA score was 
+
+3.1 for the OSAS group, 2.1 for the PS group (P = .03 for 
+difference from OSAS group), and -3.7 for the control 
+group (P.01 for difference from OSAS group). The constancy 
+of snoring and the frequency of nights when the 
+parents had detected apneas differed between the OSAS 
+and PS groups (Table 1). 
+Nighttime and daytime mouth breathing and odd 
+sleeping positions were significantly less common in the 
+control group than in the OSAS and PS groups. Restless 
+sleep was significantly more typical of the OSAS than PS 
+group, 54% vs 22% (P = .03), being nonexistent in the 
+control group (P.01). Excessive daytime somnolence, 
+the hallmark for OSAS in adults, was rare, and only 6 children 
+(23%) in the OSAS group suffered from it daily. 
+
+POLYSOMNOGRAPHY 
+
+The main polysomnographic results of the OSAS, PS, and 
+control groups are shown in Table 2. 
+
+Inclusion of apneas shorter than 10 seconds into the 
+OAHI would not have changed the categorization. Of all 
+obstructive events lasting longer than 10 seconds, hypopneas 
+accounted for 76.6% in the OSAS and 98.7% in the 
+PS groups. Short obstructive events were much less common 
+than those lasting longer than 10 seconds in both 
+groups. Central apneas did not differ among the 3 groups. 
+There were no significant differences in apneic events between 
+the PS group and the control group. Four children, 
+3 of them in the OSAS group, had 1 central apnea each lasting 
+longer than 20 seconds with desaturation below 90%. 
+
+The 4% and 10% desaturation episodes per hour indexes, 
+which indicate events with 4% and 10% drops in 
+the oxygen saturation level, were manually checked. Both 
+indexes were higher for the OSAS than PS group (Table 
+2). Both groups had higher 4% indexes than the control 
+group (Table 2). The average width of the saturation distribution, 
+which shows the variation in oxygen saturation 
+between the highest and lowest 10 percentiles, was 
+greater in the OSAS than the PS group (P = .05), while there 
+was no significant difference between the PS and control 
+groups. Periods of cardiac arousals were more frequent in 
+
+ARCH OTOLARYNGOL HEAD NECK SURG/ VOL 124, APR 1998 
+
+482 
+
+Downloaded from www.archoto.com at American Academy of Pediatrics, on March 5, 2009 
+
+©1998 American Medical Association. All rights reserved. 
+
+
+midline; and grade 4 tonsils have a maximum distance of included in this index. Since there was no electroencepha4 
+mm between them. Tonsils graded 3 and 4 were consid-lographic or electro-oculographic tracing, arousals could 
+ered enlarged in this study. not be quantified reliably. To detect periods of increased 
+
+upper airway respiratory resistance outside of clinically 
+POLYSOMNOGRAPHY significant apneas and hypopneas, an indirect method was 
+
+used. The PSG recordings were manually checked for peri-
+Polygsomnographic monitoring was done in the hospital odic hypopneas with a less than 50% decrease in the orounder 
+the surveillance of a trained nurse. The children were nasal signal amplitude linked with a pulse increase at the 
+accompanied by a parent through the night. termination of hypopneas. These respiratorily induced 
+
+A 6-channel computerized PSG was used, developed pulse increases evidently indicate arousals,12 and they may 
+by the Department of Clinical Neurophysiology, with leads be linked to increased upper airway resistance syndrome. 
+for an oronasal thermistor, a thoracoabdominal strain gauge, According to Noda et al,13 these pulse increases are cardiac 
+pulse oximeter, body-position sensor, leg electromyo-arousals. 
+graph, and static charge–sensitive bed. Although the analysis 
+program included a possibility of automatic analysis of TREATMENT PROTOCOL 
+the nighttime events, all recordings were manually checked 
+by the same clinical neurophysiologist (U.T.). The children with OAHIs of 2 or higher underwent ton-
+
+In this study, the apneas lasting for 5 to 10 seconds sillectomy (and adenoidectomy, if not previously per-
+and those lasting longer than 10 seconds were counted sepa-formed) shortly after the first visit. The children with OAHIs 
+rately. An obstructive apneic episode was defined as a to-lower than 2 were followed up without intervention. Two 
+tal cessation of oronasal airflow, as detected by the therm-children with OAHIs above 2 were included in this group 
+istor, in the presence of continuous breathing efforts, as (2.6 and 2.7, respectively) because, owing to ongoing speech 
+revealed by the thoracoabdominal strain gauge or the static therapy, the phoniatrician suggested that surgical therapy 
+charge–sensitive bed, and hypopnea as a reduction of 50% should be avoided. 
+or more in the airflow signal, as proposed by Gould et al.11 
+A central apnea was defined as a cessation of the airflow in STATISTICAL ANALYSIS 
+the absence of breathing efforts. Central apneas followed 
+by a deep sigh were disregarded. Mixed apneas and hypop-The data were processed using the SPSS for Windows softneas 
+starting with a central component and continuing with ware (version 6.1; SPSS Inc, Chicago, Ill). The t test for 2 
+an obstructive one were classified into the obstructive ap-independent samples and paired samples was applied for 
+nea category. the normally distributed data. The nonparametric Mann-
+
+In this study, an obstructive apnea/hypopnea index Whitney U test was applied for the nonnormally distrib(
+OAHI) greater than 1, including apneas/hypopneas last-uted data. The Mantel-Haenszel 2 test was applied to the 
+ing for 10 seconds or more, was considered abnormal and ordinal variables. The correlation coefficients were counted 
+used as the criterion for OSAS. Central apneas were not with the Pearson 2-tailed test. 
+
+the OSAS group (P = .01), while there was also a significant 
+difference between the PS and the control groups 
+(P.01). The correlation coefficient between OAHI and 
+cardiac arousals was 0.61 (P = .01) in the OSAS group. 
+
+FOLLOW-UP VISIT 
+
+Surgical Group 
+
+Twenty-one children with OAHI greater than 2 underwent 
+adenotonsillectomy shortly after the first visit. The 
+results are shown in Table 3; 73% of the children operated 
+on (16/21) had had previous adenoidectomies, 
+which had not resolved the obstructive symptoms, or the 
+symptoms had begun after the adenoidectomy. At the operation 
+evaluated for this study, the epipharynx was 
+checked, and none of the children appeared to have substantial 
+regrowth of adenoidal tissue. 
+
+Clinically, all children benefited from the operation. 
+All the symptoms of 16 children disappeared. Fivechildren 
+continuedtohavesomeminorsymptoms.Nonehadanyneed 
+for additionaltreatment.Onthe symptomscale, themedian 
+score for the children operated on dropped from 12 (range, 
+7-15) to 1 (range, 0-6). The mean OSA score had changed 
+significantly from 3.4 to –3.1 (P.01). The only child with 
+apostoperative OSA score greaterthan 0 was a boy, the only 
+one to still snore on most nights. The snoring was thought 
+
+to be lighter,however,andhewasmore alertinthe daytime. 
+Theother4childrencontinuedtosnoreirregularly;1ofthem 
+reported still having laborious breathing at night. 
+
+There was a distinct improvement in the PSG results 
+after the operation (Table 3). All indexes except those 
+for central apneas were significantly improved. The mean 
+OAHI dropped from 6.9 to 0.3 (P.01). The remaining 
+obstructive events were also improved, as were all hypopnea 
+indexes. Two children still had pathologic OAHIs 
+postoperatively: the boy mentioned above had a score of 
+
+5.1 (8.9 at first measurement) and a girl had 1.0 (11.8 at 
+first measurement). All the other children had OAHIs of 
+less than 1. The periods of cardiac arousals decreased significantly, 
+but did not disappear. 
+Conservative Group 
+
+According to the responses to the follow-up questionnaire, 
+6 children had developed more symptoms, and their mean 
+(SD; range) OSA scores had risen from 1.2 (2.3, -3.1 to 3.3) 
+to2.4(2.4,-2.4to4.0),thoughtheyallhadnormalPSGfind-
+ings(OAHI = 0).Fifteenchildrenhadunchangedsymptoms, 
+while 16 reported decreased symptoms. The mean indexes 
+in this group had not changed significantly over the follow-
+up period (Table 3). Two children had abnormal OAHIs at 
+the secondvisit: 1 was a boy with unchanged OAHI 2.6. For 
+1 child, the OAHI increased from 0.5 to 1.0. 
+
+ARCH OTOLARYNGOL HEAD NECK SURG/ VOL 124, APR 1998 
+
+483 
+
+Downloaded from www.archoto.com at American Academy of Pediatrics, on March 5, 2009 
+
+©1998 American Medical Association. All rights reserved. 
+
+
+Table 1. General Findings and Symptoms of the Children in the OSAS, PS, and Control Groups* 
+
+Subject Groups 
+Characteristic OSAS and PS (n = 58) OSAS (n = 27) P † PS(n=31) P ‡ Control (n = 30) P § 
+Age (SD) (range), y 5.8 (1.8) (2.4-10.5) 5.6 (1.9) (2.4-10.5) .36 6.0 (1.8) (3.1-10.0) .02 7.1 (1.8) (4.3-10.9) .03 
+Sex, M/F 31/27 14/13 .97 17/14 .90 17/13 .92 
+Earlier adenoidectomy, 52 (31/58) 70 (19/27) .02 39 (12/31) .92 37 (11/30) .02 
+% (ratio) 
+Grade 3-4 tonsils 78 (45/58) 93 (25/27) .01 68 (20/31) .01 3 (1/30) .01 
+OSA score (SD) (range) 2.5 (1.7) (-3.1-4.0) 3.1 (1.4) (-0.3-4.0) .03 2.1 (1.8) (-3.1-4.0) .01 -3.7 (1.3) (-3.8-0.4) .01 
+Constant nighttime 75 (43/57) 78 (21/27) .93 73 (22/30) .01 7 (2/28) .01 
+mouth breathing 
+Snoring constantly 60 (35/58) 74 (20/27) .08 48 (15/31) .01 0 .01 
+Duration of snoring, mo 24 (20) (6-110) 21 (15) (6-60) .42 27 (24) (6-110) .01 0 .01 
+Apneas every night 33 (19/56) 59 (16/27) .001 10 (3/29) .11 0 .01 
+Odd sleeping positions 67 (39/58) 74 (20/27) .45 61 (19/31) .01 10 (3/30) .01 
+Restless sleep 37 (21/57) 54 (14/26) .03 22 (7/31) .01 0 .01 
+Regular excessive 10 (6/57) 23 (6/26) .07 0 .01 0 .01 
+daytime somnolence 
+
+*OSAS indicates obstructive sleep apnea syndrome; PS, primary snoring; and OSA, obstructive sleep apnea. Unless otherwise indicated, data are percentage 
+(ratio) of patients. 
+
+†Between OSAS and PS groups. 
+‡Between PS and control groups. 
+§Between OSAS and control groups. 
+Table 2. Polysomnographic Findings of the Children in the OSAS, PS, and Control Groups* 
+
+Subject Group 
+Characteristic OSAS and PS (n = 58) OSAS (n = 27) P † PS(n=31) P ‡ Controls (n = 30) P § 
+Apnea index 3.2 (4.3) (0-16.8) 6.4 (4.4) (1.2-16.8) .01 0.4 (0.3) (0-1.0) .20 0.3 (0.30) (0-0.9) .01 
+Obstructive 2.7 (4.0) (0-14.6) 5.7 (4.2) (1.0-14.6) .01 0.1 (0.2) (0-0.9) .01 0 .01 
+apnea/hypopnea index 
+Obstructive apnea index 0.5 (1.0) (0-4.2) 1.1 (1.1) (0-4.2) .01 0.0 (0.0) (0-0.1) .32 0 .01 
+Obstructive hypopnea 2.2 (3.4) (0-14.5) 4.6 (3.8) (0.4-14.8) .01 0.1 (0.2) (0-0.8) .001 0 .01 
+index 
+Central apnea index 0.5 (0.9) (0-5.8) 0.7 (1.2) (0-5.8) .05 0.3 (0.3) (0-0.9) .76 0.3 (0.3) (0-0.9) .05 
+Short obstructive apnea 0.6 (1.2) (0-5.7) 1.3 (1.5) (0-5.7) .01 0.0 (0.1) (0-0.3) .26 0.0 (0.03) (0-0.1) .01 
+index 
+Short central apnea index 1.3 (1.1) (0-6.4) 1.6 (1.1) (0.3-5.0) .10 1.1 (1.1) (0-6.4) .27 0.8 (0.6) (0-2.7) .002 
+4% Oxygen desaturation 2.3 (5.1) (0-29.6) 4.5 (6.9) (0-29.6) .01 0.4 (0.9) (0-4.1) .05 0.1 (0.2) (0-0.9) .01 
+events per hour (ODI4) 
+10% Oxygen desaturation 0.1 (0.3) (0-1.4) 0.2 (0.4) (0-1.4) .01 0.0 (0.0) (0-0.1) .34 0 .01 
+events per hour 
+(ODI10) 
+Mean apnea duration, s 14.4 (3.2) (0-22.1) 15.9 (2.6) (11.6-22.1) .01 13.1 (3.1) (0-20.2) . . . 12.7 (4.9) (0-23.3) .004 
+Saturation distribution, % 2.9 (1.3) (0.8-10.2) 3.3 (1.8) (0.8-10.2) .05 2.6 (0.7) (1.7-4.5) .24 2.4 (0.7) (0.3-3.7) .02 
+Increased respiratory 0.9 (0.9) (0-4.6) 1.3 (1.1) (0.2-4.6) .01 0.6 (0.6) (0-2.4) .01 0.1 (0.2) (0-1.2)1 .01 
+resistance, min/h 
+Total sleeping time, h 8.8 (0.8) (7.0-10.0) 8.6 (0.8) (7.0-10.0) .45 8.9 (0.7) (7.6-10.0) .45 8.8 (0.7) (7.7-10.0) .45 
+
+*OSAS indicates obstructive sleep apnea syndrome; PS, primary snoring; ODI, oxygen desaturation index; and elllipses, not applicable. Unless otherwise 
+indicated, data are index scores (SD) (range). 
+
+†Difference between OSAS and PS groups. 
+‡Difference between PS and control groups. 
+§Difference between OSAS and control groups. 
+COMMENT 
+As the number of adenoidectomies and tonsillectomies 
+performed declines because of the increased use of antimicrobial 
+therapy, the risk for obstructive sleep disorders 
+may increase in the pediatric population.14 Children 
+who snore and have symptoms suggestive of OSAS 
+are frequently encountered in clinical practice. 
+
+The natural history of mild OSAS is not well known, 
+though it may be rather uneventful,7 as also suggested 
+by our results. It is not known, either, how high apnea 
+indexes and a long duration of OSAS are capable of producing 
+complications. 
+
+The pathologic apnea index for children is reported 
+to be greater than 15 when real obstructive apneas lasting 
+for at least 2 to 3 normal breath cycles are counted into 
+
+ARCH OTOLARYNGOL HEAD NECK SURG/ VOL 124, APR 1998 
+
+484 
+
+Downloaded from www.archoto.com at American Academy of Pediatrics, on March 5, 2009 
+
+©1998 American Medical Association. All rights reserved. 
+
+
+Table 3. Polysomnography Results of the Children Operated On (OAHI 2) and Not Operated On* 
+
+Subjects Operated On (n = 21) Subjects Not Operated On† (n = 37) 
+Characteristic Visit 1 P ‡ Visit 2 P § Visit 1 Visit 2 
+
+Age, y 5.6 (2.1) (2.4-10.5) . . . 6.3 (2.0) (2.9-11.1) . . . 6.0 (1.7) (3.1-10.0) 6.6 (1.7) (3.6-10.6) 
+Earlier adenoidectomy, % (ratio) 76 (16/21) . . . .01 39 (15/37) 
+OSA score 3.4 (1.3) (-0.3-4.0) .01 -3.1 (1.3) (-3.8-0.4) .01 (1.8) (-3.1-4.0) 0.5 (2.3) (-3.1-4.0) 
+Apnea index 7.5 (4.4) (2.1-16.8) .01 0.7 (1.2) (0-5.3) .01 0.8 (1.1) (0-4.9) 0.5 (0.6) (0-2.6) 
+Obstructive apnea/hypopnea 6.9 (4.1) (2.0-14.6) .01 0.3 (1.1) (0-5.1) .01 0.4 (0.7) (0-2.6) 0.2 (0.5) (0-2.6) 
+index 
+Obstructive apnea index 1.4 (1.2) (0.1-4.2) .01 0.0 (0.03) (0-0.1) .01 0.05 (0.2) (0-0.7) 0.01 (0.1) (0-0.4) 
+Obstructive hypopnea index 5.5 (3.9) (0.4-14.5) .01 0.3 (1.1) (0-5.0) .01 0.3 (0.6) (0-2.2) 0.2 (0.5) (0-2.6) 
+Central apnea index 0.7 (1.3) (0-5.8) .08 0.3 (0.4) (0-1.4) .26 0.4 (0.5) (0-2.6) 0.3 (0.3) (0-1.6) 
+Short obstructive apnea index 1.6 (1.6) (0-5.7) .001 0.1 (0.1) (0-0.6) .01 0.1 (0.1) (0-0.5) 0.05 (0.2) (0-0.9) 
+Short central apnea index 1.6 (1.1) (0.3-5.0) .23 1.5 (1.0) (0.3-3.9) .15 1.2 (1.1) (0-6.4) 1.1 (1.2) (0-6.9) 
+4% Oxygen desaturation events 5.0 (7.4) (0-29.6) .04 0.2 (0.6) (0-2.6) .02 0.8 (2.2) (0-12.5) 0.8 (2.7) (0-14.3) 
+per hour (ODI4) 
+10% Oxygen desaturation 0.2 (0.4) (0-1.4) .02 0 (0.0) (0-0.2) .02 0.01 (0.03) (0-0.1) 0.0 (0.03) (0-0.2) 
+events per hour (ODI10) 
+Saturation distribution, % 3.4 (1.9) (0.8-10.2) .19 2.7 (0.5) (1.7-3.9) .04 2.6 (0.7) (1.7-4.5) 2.6 (0.7) (1.7-6.0) 
+Increased respiratory 1.4 (1.3) (0.2-4.6) .001 0.4 (0.4) (0.0-1.3) .01 0.7 (0.6) (0-2.4) 0.5 (0.5) (0-2.7) 
+resistance, min/h 
+Total sleeping time, h 8.7 (0.8) (7.0-10.0) .21 8.9 (0.7) (7.0-10.0) .21 8.9 (0.8) (7.6-10.0) 8.9 (0.8) (6.9-10.0) 
+
+*OAHI indicates obstructive apnea/hypopnea index; ellipses, not applicable; and ODI, oxygen desaturation index. Unless otherwise indicated, data are mean 
+(SD) (range). 
+
+†Two children with pathologic OAHIs are included in the group not operated on because of contraindications for surgery. 
+‡Difference before and after surgery. 
+§Difference between those operated on and those not at the first visit. 
+the index. Obstructive apneas seem to be rare in normal, riodic hypopneas with a less than 50% decrease in oronanonsnoring 
+children,5 which is confirmed by the results sal signal amplitude linked to pulse increase at the termiof 
+this study, where only occasional short obstructive hy-nation of the hypopneas were manually checked. These 
+popneas occurred in the control group. Hypopneas ac-respiratorily induced pulse increases evidently indicate 
+counted for most obstructive events in this study. In chil-arousals,12 and may be linked to increased upper airway 
+dren, obstructive events often consist of periods of resistance. Video recording, which helps detect most arousprolonged 
+hypoventilation instead of clear-cut apneas, als19 was not used on all patients, but the nurse on duty 
+which are rather a culmination of the hypopnea syn-reported in writing both all interventions with reattachdrome.
+11 In this study, OAHIs higher than 1 were consid-ments of sensors and waking periods. The role of arousals 
+ered abnormal, when obstructive and mixed apneas and in pediatric OSAS remains unclear, and arousals are probhypopneas 
+lasting for 10 seconds or more were included ably not an important mechanism in the termination of resin 
+the index. The criterion of 10 seconds for apneas, which piratory events.15,16,21,22 Hence, electroencephalographic criis 
+used for adults, is probably too high for children15,16 be-teria are not essential for determining the clinical severity 
+cause children have a smaller respiratory capacity and of OSA in the pediatric population.23 In our study, none of 
+greater oxygen consumption.6 The separately counted ap-the children with PS showed excessive daytime somnoneas 
+lasting for 5 to 10 seconds should correlate fairly well lence, and only 23% in the OSAS group did so, supporting 
+with the criteria of 2 to 3 missed breaths used by many,5,15 the assumption that interruption of sleep is not a major probbut 
+the use of shorter apneas as a criterion would not have lem for these children. 
+affectedtheresultsofthisstudy. Centralapneaswereexcludedfromtheindex,whether 
+
+According to our results, PSG is needed to diagnose or not they were accompanied by a desaturation of greater 
+patients with OSAS because some OSAS cases cannot be than10%.Centralapneasoccurinchildrenwithoutobstrucdiagnosed 
+on merely clinical grounds. Polysomnography tive symptoms,24 and in this study they were seen equally 
+is the standard method for studying children with sus-often in children with OSAS and PS and in controls. 
+pected obstructive sleep disorders.17 Full-scale PSG, how-That pediatric OSAS is equally common in both sexes16 
+ever, is quite invasive, may disturb the child’s natural sleep, is supported by the results of this study. The age distriand 
+is also quite expensive.15,18 Simpler montages suitable bution of the studied children was quite even. All the chilfor 
+home use have been shown to be sensitive and yield dren participating in this study had symptoms of various 
+reliable information of the nighttime events.19,20 The PSG degrees, causing a suspicion of OSAS. The symptom score 
+device used in this study meets most of the minimum re-for OSAS developed by Brouilette and coworkers9 did not 
+quirements of the consensus statement of the American Tho-discriminate very well between the children with OSAS 
+racic Society (1996).17 In this study separate arousals could and those with PS, as has been noted earlier.15 Though only 
+not be quantified owing to a lack of electroencephalo-1 child in the OSAS group had an OSA score lower than 
+graphic channels, while periods of cardiac arousals were 0.5, children with PS had OSA scores higher than 3.5, which 
+quantified from the PSG recordings. The intervals of pe-are considered by Brouilette et al9 diagnostic for OSAS. The 
+
+ARCH OTOLARYNGOL HEAD NECK SURG/ VOL 124, APR 1998 
+
+485 
+
+Downloaded from www.archoto.com at American Academy of Pediatrics, on March 5, 2009 
+
+©1998 American Medical Association. All rights reserved. 
+
+
+wide range of OSA scores in both groups confirms the difficulty 
+of establishing a diagnosis on a clinical basis,15 and 
+in many study series, only half or fewer of the children 
+with suspected OSAS are proved to have it by the PSG criteria.
+8,15,18,25 Most of the daytime and nighttime symptoms 
+reported as typical for children with OSAS, ie, morning 
+headaches, bed wetting, profuse sweating, sleepwalking, 
+nightmares, irritability, concentration difficulties, and frequent 
+nighttime awakenings, were quite similar among the 
+OSAS and PS groups, while most of these symptoms were 
+significantly less common in the control group. Only the 
+habitual snoring, apneas, and restless sleep detected by the 
+parents were significantly more common in the OSAS than 
+the PS group. 
+
+Tonsillectomy and adenoidectomy are effective in 
+the treatment of pediatric OSAS, especially when there 
+is no underlying predisposition.2,3,26 This fact was confirmed 
+by the present results. All children who were operated 
+on improved in terms of symptoms and PSG results. 
+Only 1 boy had clearly pathologic OAHI 
+postoperatively, with some but notably milder obstructive 
+symptoms. There was also a decline in mild hypopneainduced 
+cardiac arousals, but no total disappearance. 
+Could this result indicate that these children had a predisposition 
+for obstructive sleep disorders? Why do some 
+children snore, while some do not, with apparently similar 
+facial morphologic characteristics and pharyngeal status? 
+It has been proposed that primary snoring, upper 
+airway resistance syndrome, and OSAS constitute a continuum.
+21 Most children in the conservative group had 
+periods of obstructed breathing causing cardiac arousals 
+equally or more often than the children with OSAS 
+postoperatively. Is there a similar tendency toward obstructed 
+breathing in these children, but some difference 
+in the upper airway regulatory reflexes? Deficit in 
+the central ventilatory drive is probably not a major factor 
+in the pathogenesis of OSAS.22 
+
+Normal PSG findings can help the clinician justify 
+an observation period for the snoring child, since the stability 
+of the PSG findings in the conservative group seems 
+to indicate that, during a short interval, primary snorers 
+do not have a tendency to develop OSA, supporting the 
+earlier findings.7 The finding that snoring may be restricted 
+to a period of childhood,1 and that almost half 
+of the children in the conservative group showed spontaneous 
+regression of the obstructive symptoms over the 
+follow-up period, further supports the idea of an observation 
+period. 
+
+A history of previous adenoidectomy in snoring children 
+has been shown to be a risk factor for OSAS.8 In our 
+study, most of the children with OSAS had had earlier 
+adenoidectomies, which indicates that adenoidectomy 
+alone is not always effective in the treatment of pediatric 
+OSAS. Nor did adenoidectomy seem to have reconstituted 
+nighttime nasal breathing in these children, which 
+further indicates that orovelopharyngeal factors are dominant 
+in producing obstructive symptoms. 
+
+CONCLUSIONS 
+Half or fewer children with symptoms suggestive of OSAS 
+actually have the syndrome. Clinical symptoms may raise 
+
+this suspicion, but the diagnosis cannot be established 
+without PSG. A normal PSG finding may help the clinician 
+decide on an observation period, since snoring and 
+obstructive symptoms may resolve over time. Adenotonsillectomy 
+is, in most cases, a curative treatment of pediatric 
+OSAS, while adenoidectomy alone does not seem 
+to be enough. 
+
+Accepted for publication November 16, 1999. 
+
+Reprints: Peter Nieminen, MD, Hiirihaukankatu 3, 
+65320 Vaasa, Finland (e-mail: peter.nieminen@pp.qnet.fi). 
+
+REFERENCES 
+1. Ali NJ, Pitson D, Strandling JR. Natural history of snoring and related behaviour 
+problems between the ages of 4 and 7 years. Arch Dis Child. 1994;71:74-76. 
+2. Guilleminault C, Korobkin R, Winkle RA. Review of 50 children with obstructive 
+sleep apnea syndrome. Lung. 1981;159:275-289. 
+3. Brouilette RT, Fernbach SK, Hunt CE. Obstructive sleep apnea in infants and children. 
+J Pediatr. 1982;100:31-40. 
+4. Gislason T, Benediktsdottir B. Snoring, apneic episodes, and nocturnal hypoxemia 
+among children 6 months to 6 years old: an epidemiological study of lower 
+limit of prevalence. Chest. 1995;107:963-966. 
+5. Marcus CL, Omlin KJ, Basinki J, et al. Normal polysomnographic values for children 
+and adolescents. Am Rev Respir Dis. 1992;146:1235-1239. 
+6. Carroll JL, Loughlin GM. Diagnostic criteria for obstructive sleep apnea syndrome 
+in children. Pediatr Pulmonol. 1992;14:71-74. 
+7. Marcus CL, Hamer A, Loughlin GM. Natural history of primary snoring in children. 
+Pediatr Pulmonol. 1998;26:6-11. 
+8. NieminenP,TolonenU,Lo¨ppo¨nenH,Lo¨ppo¨nenT,LuotonenJ,JokinenK.Snoring 
+children: factors predicting sleep apnea. Acta Otolaryngol (Stockh). 1997; 
+(suppl)529:190-194. 
+9. Brouilette R, Hanson D, David R, et al. A diagnostic approach to suspected obstructive 
+sleep apnea syndrome in children. J Pediatr. 1984;105:10-14. 
+10. Brodsky L. Modern assessment of tonsils and adenoids. Pediatr Clin North Am. 
+1989;36:1551-1569. 
+11. Gould GA, Whyte KF, Rhind GB, et al. The sleep hypopnea syndrome. Am Rev 
+Respir Dis. 1988;137:895-898. 
+12. Marcus CL, McColley SA, Carroll JL, Loughlin GM, Smith PL, Schwartz AR. Upper 
+airway collapsibility in children with obstructive sleep apnea. J Appl Physiol. 
+1994;77:918-924. 
+13. 
+Noda A, Okada T, Katsumata K, Yasuma F, Nakashima N, Yokota M. Suppressed 
+cardiac and electroencephalographic arousal on apnea/hypopnea termination 
+in elderly patients with cerebral infarctation. J Clin Neurophysiol. 
+1997;14:68-72. 
+14. Grundfast KM, Witich DJ. Adenotonsillar hypertrophy and upper airway obstruction 
+in evolutionary perspective. Laryngoscope. 1982:92:650-656. 
+15. Carroll JL, McColley SA, Marcus CL, Curtis S, Loughlin GM. Inability of clinical 
+history to distinguish primary snoring from obstructive sleep apnea syndrome 
+in children. Chest. 1995;108:610-618. 
+16. Ward SL, Marcus CL. Obstructive sleep apnea in infants and young children. 
+J Clin Neurophysiol. 1996;13:198-207. 
+17. 
+American Thoracic Society. Standards and indications for cardiopulmonary sleep 
+studies in children. Am J Respir Crit Care Med. 1996:153;866-878. 
+18. Leach J, Olson J, Hermann J, Manning S. Polysomnographic and clinical findings 
+in children with obstructive sleep apnea. Arch Otolaryngol Head Neck Surg. 
+1992;118:741-744. 
+19. 
+Mograss MA, Ducharme FM, Brouilette RT. Movement/arousals: description, classification, 
+and relationship to sleep apnea in children. Am J Respir Crit Care Med. 
+1994;150:1690-1696. 
+20. Jacob SV, Morielli A, Mograss MA, Ducharme FM, Schloss MD, Brouilette RT. 
+Home testing for pediatric obstructive sleep apnea syndrome secondary to adenotonsillar 
+hypertrophy. Pediatr Pulmonol. 1995;20:241-252. 
+21. Downey R, Perkin RM, MacQuarrie J. Upper airway resistance syndrome: sick, 
+symptomatic but underrecognized. Sleep. 1993;16:620-623. 
+22. Marcus CL, Lutz J, Carroll JL, Bamford O. Arousal and ventilatory responses 
+during sleep in children with obstructive sleep apnea. J Appl Physiol. 1998;84: 
+1926-1936. 
+23. McNamara F, Issa FG, Sullivan CE. Arousal pattern following central and obstructive 
+breathing abnormalities in infants and children. J Appl Physiol. 1996; 
+81:2651-2657. 
+24. Carskadon MA, Harvey K, Dement WC, Guilleminault C, Simmons B, Anders TF. 
+Respiration during sleep in children. West J Med. 1979;128:477-481. 
+25. Suen JS, Arnold JE, Brooks LJ. Adenotonsillectomy for treatment of obstructive 
+sleep apnea in children. Arch Otolaryngol Head Neck Surg. 1995;121:525530. 
+26. Strandling JR, Thomas G, Warley ARH, Williams P, Freeland A. Effect of adenotonsillectomy 
+on nocturnal hypoxemia, sleep disturbance, and symptoms in snoring 
+children. Lancet. 1990;335:249-253. 
+ARCH OTOLARYNGOL HEAD NECK SURG/ VOL 124, APR 1998 
+
+486 
+
+Downloaded from www.archoto.com at American Academy of Pediatrics, on March 5, 2009 
+
+©1998 American Medical Association. All rights reserved. 
+
+

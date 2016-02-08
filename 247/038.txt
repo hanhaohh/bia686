@@ -1,0 +1,823 @@
+T
+
+The effect of adenotonsillectomy on serum insulin-
+like growth factor-I and growth in children with 
+
+obstructive sleep apnea syndrome 
+
+Amir Bar, BSc, Ariel Tarasiuk, PhD, Yael Segev, PhD, Moshe Phillip, MD, and Asher Tal, MD 
+
+Objective: Obstructive sleep apnea syndrome (OSAS) in children is frequently 
+associated with growth interruption. The objective of this study was 
+to evaluate the effect of OSAS and adenotonsillectomy on the insulin-like 
+growth factor-I (IGF-I) axis in children. 
+
+Study design: Thirteen prepubertal children (mean age, 6.0 ± 2.8 years) 
+were studied before and after adenotonsillectomy (T&A). Weight, height, 
+overnight polysomnography, and IGF-I and IGF-binding protein-3 levels 
+were evaluated before and 3 to 12 months after T&A. The children’s 
+weights and heights were monitored for 18 months. 
+
+Results: The respiratory disturbance index improved from 7.8 ± 9.1 
+events/h to 1.0 ± 2.1 events/h after T&A (P < .02). Slow-wave sleep increased 
+from 29.1% ± 7.2% to 34.6% ± 9.8% after T&A (P < .02). The 
+weight standard deviation score increased from 0.86 ± 1 to 1.24 ± 0.9, 18 
+months after T&A (P < .01). Serum IGF-I levels increased from 146.3 ± 
+
+76.2 ng/mL before T&A to 210.3 ± 112.5 ng/mL after surgery (P < .01), but 
+IGF–binding protein-3 levels did not change significantly. 
+Conclusion: The respiratory improvement after T&A in children with 
+OSAS is associated with a significant increase in serum IGF-I levels and 
+weight. We conclude that the IGF-I axis is affected in children with OSAS. 
+(J Pediatr 1999;135:76-80) 
+
+
+Obstructive sleep apnea syndrome is 
+clinically characterized by snoring, difficulty 
+in breathing during sleep, and 
+repeated obstructive apnea. The syndrome 
+occurs in 0.7% to 4% of children.
+1 Complications of OSAS may in
+
+
+clude pulmonary hypertension, nocturnal 
+enuresis, sweating during sleep, 
+morning headache, behavioral problems, 
+and failure to thrive.2 Polysomnographic 
+criteria for the diagnosis of 
+OSAS include a respiratory distur-
+
+From Department of Pediatrics, Sleep-Wake Disorders Unit, Department of Physiology, and Molecular Endocrinology 
+Laboratory, Soroka Medical Center of Kupat Holim Klalit, Faculty of Health Sciences, Ben-Gurion University 
+of the Negev, Beer-Sheva, Israel. 
+
+Supported by grant no. 89914101 from the Israeli Chief Scientist. 
+Submitted for publication Sept 4, 1998; revision received Dec 23, 1998; accepted Mar 19, 1999. 
+Reprints requests: Asher Tal, MD, Department of Pediatrics, Soroka Medical Center, PO Box 
+
+
+151, Beer-Sheva, 84101, Israel. 
+Copyright © 1999 by Mosby, Inc. 
+0022-3476/99/$8.00 + 0 9/21/98790 
+
+
+bance index of >1 obstructive event per 
+hour of sleep and nadir arterial oxygen 
+saturation of <92%.3 The most common 
+cause of OSAS in children is adenotonsillar 
+hypertrophy. Thus adenotonsillectomy 
+is the treatment of choice. A 
+significant reduction in sleep disturbances 
+after T&A has been reported, as 
+well as catch-up growth.4-11 The prevalence 
+of growth retardation in children 
+with OSAS was estimated to be up to 
+50%, although the prevalence is probably 
+lower today, as a result of earlier diagnosis 
+and treatment.7,8 
+
+CPAP Continuous positive airway pressure 
+GH Growth hormone 
+IGF-I Insulin-like growth factor-I 
+IGFBP3 IGF–binding protein-3 
+OSAS Obstructive sleep apnea syndrome 
+PSG Polysomnography 
+RDI Respiratory disturbance index 
+SaO2 Arterial oxygen saturation 
+SDS Standard deviation score 
+SWS Slow-wave sleep 
+T&A Adenotonsillectomy 
+
+The mechanism causing failure to 
+thrive is unclear. Interruption of the 
+growth hormone–insulin-like growth 
+factor-I axis secondary to abnormal 
+nocturnal GH secretion,12,13 low 
+caloric intake caused by poor appetite 
+and dysphagia,5,11 and high energy expenditure 
+as a consequence of increased 
+work of breathing during 
+sleep6,14 have been proposed as causes. 
+
+The purpose of this study was to clarify 
+the relationship between OSAS in 
+children and the potent growth factor 
+IGF-I. Serum IGF-I and IGF–binding 
+protein-3 (its main binding protein in 
+the serum) are highly correlated with 
+
+
+THE JOURNAL OF PEDIATRICS BAR ET AL 
+VOLUME 135, NUMBER 1 
+
+the 24-hour mean GH levels and thus 
+can be used as an index of the GH status.
+15-17 We hypothesized that children 
+with OSAS would exhibit significant 
+improvement after T&A, with catch-up 
+growth and increased serum IGF-I and 
+IGFBP3 levels. 
+
+METHODS 
+
+Study Population 
+
+Prepubertal children aged 1 to 11 
+years were recruited. They were referred 
+to the Sleep-Wake Disorders 
+Unit because of signs and symptoms 
+consistent with OSAS. The parents of 
+51 children (of 85 who were approached) 
+gave informed consent for 
+their children to participate in the study. 
+Thirty-three of these 51 children were 
+diagnosed with OSAS and referred for 
+T&A. The diagnosis of OSAS was 
+based on a detailed clinical history obtained 
+by using a standard question-
+naire,18 physical examination, and sleep 
+monitoring. Thirteen of the 33 children 
+returned for a second sleep evaluation 
+after T&A. There was no substantial 
+difference between the children who attended 
+the second sleep study and those 
+who did not. Ten of the 13 patients returned 
+for a full polysomnography, and 
+3 had an overnight oximetry test. The 
+decision not to perform a full PSG on 
+the latter 3 children was not related to 
+the severity of their clinical symptoms 
+but was due to their inability to cooperate 
+at the baseline PSG. Children with 
+other chronic medical illnesses or facial 
+anomalies were excluded. No sedation 
+was used to induce sleep. The institutional 
+ethics committee approved the 
+study protocol. 
+
+Polysomnographic Evaluation 
+
+The children were studied before 
+and 3 to 12 months after T&A. Two 
+sleep studies, PSG (10 children) and 
+overnight oximetry (3 children), were 
+performed. 
+
+OVERNIGHT POLYSOMNOGRAPHY. Thirteen 
+signals were acquired by using a 
+
+commercially available sleep monitoring 
+system (SensorMedics Inc) and 
+streamed through to an optical disk for 
+later analysis. Signals were analyzed by 
+computerized software, and the results 
+were edited manually by a trained technician 
+and by one of the investigators 
+(A.B.). The following parameters were 
+acquired: electroencephalogram—C4A1, 
+C3A2; left and right electro-oculogram; 
+left and right chin electromyogram; 
+electrocardiogram—modified V2 lead; 
+right tibialis electromyogram; snore (by 
+a microphone); nasal and buccal airflow 
+(by a thermistor); thoracic and abdominal 
+movements (strain-gauges); SaO2 
+by a pulse oximeter (Ohmeda 4700). 
+
+OVERNIGHT OXIMETRY. When full PSG 
+could not be carried out (non-cooperative 
+patients), an attended overnight 
+oximetry was conducted. The child 
+slept at the sleep laboratory and was 
+observed by the technician throughout 
+the night, and SaO2 was measured continuously 
+by a Biox 3700 pulse oximeter. 
+The mean percent SaO2 during an 
+8-hour sleep period and the percent 
+time with SaO2 <90% during sleep 
+were calculated automatically by using 
+customized software.19 
+
+Scoring 
+
+SLEEP ARCHITECTURE. Sleep/wake and 
+sleep stages during nocturnal sleep 
+were scored by using the criteria of 
+Rechtschaffen and Kales.20 Sleep latency, 
+sleep efficiency, and indices of 
+arousals and awakenings (events per 
+hour of sleep) were calculated. 
+Arousals and awakenings were scored 
+according to the American Sleep Disorders 
+Association task force recommendations 
+with appropriate modifications 
+for children.21 The sleep stage 
+accumulative duration expresses the 
+time spent in each sleep stage as a percent 
+of the total sleeping time. 
+
+RESPIRATORY PARAMETERS. Obstructive 
+apneic and hypopneic events were 
+scored according to the recommended 
+pediatric criteria of the American Thoracic 
+Society.22 Paradoxical breathing 
+for at least 2 respiratory cycles with 
+complete cessation of nasal airflow was 
+
+defined as obstructive apnea. A hypopnea 
+was scored if the paradoxical 
+breathing was accompanied by a reduction 
+of 50% in airflow, resulting in 
+either an arousal or in oxygen desaturation 
+of at least 4%. The RDI was calculated 
+as the number of respiratory 
+events (apnea/hypopnea) per hour of 
+sleep. Paradoxical breathing time, an 
+indication of increased upper airway 
+resistance,23 was defined as the percentage 
+of the total sleep time spent in 
+paradoxical breathing. The desaturation 
+index was calculated as the number 
+of desaturation events (SaO2 decreased 
+more than 4%) per hour of 
+sleep. The percentage of time with a 
+mean SaO2 below 90% was calculated 
+and expressed as T90. 
+
+Growth and Growth Factors 
+
+Data for growth parameters were 
+collected from the charts of the primary 
+care clinics. Additional measurements 
+were taken on arrival at the sleep 
+laboratory and at 2 follow-up visits (3 
+to 6 and 14 to 22 months after T&A). 
+
+Venous blood samples were drawn 
+for measurements of serum IGF-I and 
+IGFBP3 on the mornings after the 
+sleep studies (before and after T&A). 
+The samples were centrifuged, frozen, 
+and stored frozen at –20°C. 
+
+SERUM IGF-I DETERMINATION. The determination 
+of all serum IGF-I levels 
+was performed in one assay. Two hundred 
+fifty microliters of serum was 
+added to 1 mL of 0.5 normal HCl, and 
+IGF-binding proteins were removed by 
+using Octadecasilyl-silica columns before 
+the assay of IGF-I. The extracted 
+serum was assayed for IGF-I concentration 
+with the iodine 125 radioimmunoassay 
+kit (Instar, Stillwater, Minn) by 
+using a polyclonal rabbit antibody. 
+Human serum IGF-I was used to generate 
+a standard curve. The sensitivity of 
+the assay was approximately 20 µg/L. 
+The intra- and inter-assay variances 
+were 4.5% and 7.2%, respectively. 
+
+SERUM IGFBP3 DETERMINATION. The 
+determination of all serum IGFBP3 
+levels was also performed in one assay. 
+
+
+BAR ET AL 
+
+Table I. Sleep characteristics before and after T&A (n = 10) 
+
+Before T&A 
+
+After T&A 
+
+
+Mean SD Mean SD P value 
+
+Sleep latency (min) 14.8 11.0 31.8 42.7 NS 
+Sleep efficiency (%) 83.5 9.9 79.8 14.5 NS 
+Stage II—accumulative duration (%) 47.8 8.0 47.0 9.0 NS 
+SWS—accumulative duration (%) 29.1 7.2 34.6 9.8 <.02 
+REM—accumulative duration (%) 19.0 6.9 16.8 4.5 NS 
+Arousal index (events/h) 15.6 9.2 12.9 5.8 NS 
+Awakening index (events/h) 3.3 1.5 3.0 1.3 NS 
+
+
+REM, Rapid eye movement. 
+
+Table II. Respiratory parameters,determined by PSG,before and after T&A (n = 10) 
+
+Before T&A 
+
+After T&A 
+
+
+Mean SD Mean SD P value 
+
+RDI (events/h of sleep)* 7.8 9.1 1.0 2.2 <.02 
+Paradoxical breathing time (%) 37.4 17.8 18.6 18.8 <.02 
+Mean sleep SaO2 (%) 96.4 1.0 96.8 1.0 NS 
+T90 (%) 0.33 0.58 0.07 0.16 NS 
+Desaturation index (events/h of sleep) 1.9 2.4 0.8 0.75 NS 
+
+
+T90 , Percentage of time with a mean SaO2 below 90%. 
+*Apnea + hypopnea events per hour. 
+
+
+Table III. Serum growth factor levels and growth before and after T&A (n = 13) 
+
+Before T&A 
+
+After T&A 
+
+
+Mean SD Mean SD P value 
+
+THE JOURNAL OF PEDIATRICS 
+JULY 1999 
+
+Data were compared by using 2-tailed 
+t tests for non-paired data. A multivariate 
+linear regression analysis was performed 
+by using the mean baseline 
+serum IGF-I levels and the change in 
+its level after treatment as the dependent 
+variables versus the mean values 
+and changes in the variables RDI, 
+SaO2 percent, desaturation index, duration 
+of slow-wave sleep and stage II 
+sleep, which served as independent 
+variables. The null hypothesis was rejected 
+at the 5% level. 
+
+RESULTS 
+
+Patients 
+
+Thirteen prepubertal children, 11 
+boys and 2 girls, participated in this 
+study. The mean age at surgery (T&A) 
+was 6.0 ± 2.8 years (range, 1.6 to 10.8 
+years). In 10 children, a PSG study 
+was performed, whereas in the other 3, 
+overnight oximetry was performed. 
+The mean time from the pre-T&A sleep 
+study to surgery was 3.0 ± 2.6 months 
+(range, 0.3 to 10 months), and the 
+mean time between the pre-T&A and 
+the post-T&A sleep studies was 5.0 ± 
+
+3.0 months (range, 3 to 10 months). 
+Polysomnography 
+
+Weight (SDS)* 0.9 1.0 1.2 0.9 <.01 
+Height (SDS)* 0.7 1.2 0.8 1.2 NS 
+Serum IGF-I (ng/mL)† 146.3 76.2 210.0 112.0 <.01 
+Serum IGFBP3 (ng/mL)† 3179 1189 3241 1060 NS 
+
+Weight and height are expressed as mean and SD of the SDS. 
+
+*18 ± 2.3 months after T&A. 
+
+†5.1 ± 3 months after T&A. 
+Serum IGFBP3 was measured by 
+IRMA kit (Diagnostic Systems Laboratories 
+Inc, Webster, Texas). Ten microliters 
+of serum was diluted to 0.5 
+mL of IGFBP3 sample diluent and 
+then added to coated tubes with goat 
+anti-IGFBP3 polyclonal immunoglobulin 
+immobilized to the inside wall of 
+each tube. The samples were assayed 
+for IGFBP3 concentration with 125Ilabeled 
+goat anti-IGFBP3 polyclonal 
+antibody. Human serum IGFBP3 was 
+
+used to generate a standard curve. The 
+intra- and inter-assay coefficient variations 
+were less than 4% and 2%, respectively. 
+There was negligible IGFBP3 antiserum 
+cross-reactivity against IGF-I, 
+IGF-II, and the other IGFBPs. 
+
+Data Analysis 
+
+Data for control and OSAS groups 
+were compiled and tested for normal 
+distribution (Kolmagorov-Smirnov 
+test) and are presented as mean ± SD. 
+
+SLEEP CHARACTERISTICS (TABLE I). 
+
+The combined stage III and IV, that is, 
+SWS accumulative duration increased 
+significantly from 29.1% ± 7.2% before 
+to 34.6% ± 9.8% after T&A (P < .02). 
+There were no significant changes in 
+the accumulative duration spent in the 
+other sleep stages, sleep latency, or 
+sleep efficiency. 
+
+RESPIRATORY CHARACTERISTICS (TABLE 
+II). The RDI and paradoxical breathing 
+time significantly decreased from 7.8 ± 
+
+9.1 events/h and 37.4% ± 17.8% to 1.0 ± 
+2.2 events/h and 18.6% ± 18.8% (P < 
+.02), respectively. There were no significant 
+changes in the T90, the desaturation 
+index, or the mean sleep SaO2. 
+GROWTH. The mean weight standard 
+deviation score24 increased significantly 
+from 0.86 ± 1.02 to 1.24 ± 0.94, 18 
+
+
+THE JOURNAL OF PEDIATRICS BAR ET AL 
+VOLUME 135, NUMBER 1 
+
+months after T&A (P < .01). Postoperative 
+changes in the mean height SDS 
+did not reach statistical significance, although 
+in 7 of the 13 children there 
+was an improvement of at least 0.2 
+SDS (Table III). All children were still 
+in Tanner stage I (prepubertal) at the 
+last follow-up. 
+
+SERUM GROWTH FACTORS. The mean 
+serum IGF-I level increased by 70%, 
+from 146.3 ± 76.0 ng/mL before T&A 
+to 210.3 ± 112.0 ng/mL after T&A (P < 
+.01), whereas the IGFBP3 did not 
+change significantly (Table III). 
+
+The multivariate linear regression 
+analysis showed no correlation between 
+the baseline IGF-I levels or its 
+change after T&A and any other sleep 
+study variable and no relationship between 
+baseline serum IGF-I levels or 
+its change after T&A and weight or 
+height and their change over the 
+course of the follow-up. 
+
+DISCUSSION 
+
+Improvement in growth after the resolution 
+of OSAS in children is accompanied 
+by a significant increase in 
+serum IGF-I levels. The children’s 
+weight increased after surgery, consistent 
+with previous studies reporting 
+catch-up growth after T&A.4-11 Although 
+there was no statistically significant 
+increase in the mean height, in 7 
+of the 13 children the SDS of height 
+increased by at least 0.2. 
+
+The physiologic secretion of GH is 
+episodic and closely associated with 
+the sleep-wake cycle. The relationship 
+between GH secretion and sleep was 
+first reported by Quabbe et al.25 Other 
+investigators expanded on these findings 
+and linked the nocturnal GH secretion 
+to the first cycle of SWS.26 It 
+has been suggested that GH secretion 
+is associated with sleep onset and transition 
+from non-rapid eye movement 
+sleep to rapid eye movement sleep 
+rather than SWS.27,28 Buzi et al29 suggested 
+that nocturnal GH secretion in 
+
+prepubertal short children is independent 
+of the different sleep stages. 
+
+The only parameter of sleep architecture 
+that changed after T&A was the 
+SWS accumulative duration, which increased 
+by 5.5%. However, we have no 
+data to prove that the increase in SWS 
+is the direct cause of the increase in 
+IGF-I levels. Studies in adult patients 
+with OSAS also demonstrated elevated 
+GH levels after continuous positive 
+airway pressure therapy, accompanied 
+by an increase in the total amount of 
+SWS.30,31 Although the reduction in 
+the amount of SWS may interrupt the 
+secretion of GH, the precise linkage 
+between GH secretion and SWS is not 
+sufficiently clear. GH secretion is not 
+directly associated with SWS.27-29 It is 
+possible that SWS is an indirect factor 
+that amplifies the secretion of GH, 
+rather than a direct stimulus. It is also 
+possible that both GH secretion and 
+SWS are interrupted simultaneously 
+and independently by the respiratory 
+disturbance, and thus without a direct 
+association between them, both increase 
+after the resolution of OSAS. 
+
+Serum IGF-I levels reflect daily 
+mean GH levels.15,16 Others have 
+shown a similar correlation between 
+IGFBP3 and mean GH levels.17 An increase 
+in serum IGF-I levels points to 
+a role for the GH-IGF-I axis in the 
+catch-up growth after T&A in children 
+with OSAS. Although the serum IGFI 
+levels increased significantly after 
+surgery, there was no significant 
+change in serum IGFBP3 levels. This 
+dissociation between IGF-I and 
+IGFBP3 levels may express the complexity 
+of the IGF-I and the IGF-binding 
+protein systems, which are controlled 
+by several positive and negative 
+feedback pathways, rather than one 
+simple pathway. The increase in IGF-I 
+levels without a corresponding change 
+in IGFBP3 levels may indicate an elevation 
+of the free IGF-I levels, because 
+IGFBP3 is the major binding protein 
+in the circulation. It should be emphasized 
+that although there was a significant 
+improvement in sleep-disordered 
+
+breathing after treatment, the respiratory 
+parameters did not return to normal 
+in some of the children. 
+
+Serum IGF-I levels change minimally 
+with growth in the prepubertal period.
+32 In our study all the children remained 
+prepubertal throughout the 
+study period. In addition, the duration 
+of SWS is not expected to change in 
+the course of a few months in this age 
+group. Thus in this study group, the 
+change in serum IGF-I is probably not 
+time- or age-dependent. Each patient 
+served as his or her own control, and 
+the interval between the 2 PSG studies 
+and serum IGF-I measurements was 
+relatively short (a few months), so it is 
+unlikely that the change in SWS and 
+IGF-I is time dependent. 
+
+We assume that the respiratory disturbance 
+during sleep in children with 
+OSAS is associated with an interruption 
+of nocturnal GH secretion, a major factor 
+in growth retardation. This hypothesis 
+is supported by several studies in 
+adults with OSAS, which demonstrated 
+an increase in GH levels after treatment 
+with CPAP.12,30,31 Cooper et al31 measured 
+blood levels of insulin, C-peptide, 
+GH, cortisol, and glucagon together 
+with the intermediate metabolites of carbohydrate 
+in 6 obese nondiabetic adult 
+patients with OSAS, with and without 
+CPAP. They found a marked reduction 
+in GH concentrations in patients with 
+OSAS, with a significant increase on the 
+CPAP night, indicating that the suppression 
+of GH secretion in untreated 
+patients with OSAS is rapidly reversed 
+by appropriate therapy.31 Previous studies 
+suggested that failure to thrive in 
+children with OSAS is related to energy 
+balance, that there is a reduced energy 
+supply stemming from dysphagia and 
+lack of appetite,5,11 and that there is increased 
+energy consumption because of 
+the increased respiratory effort during 
+sleep.6,14 
+
+The small number of patients is a relative 
+limitation of this study. However, 
+the significant increase in serum IGF-I 
+levels, which is described for the first 
+time in children with OSAS, could 
+
+
+BAR ET AL 
+
+make an important contribution to the 
+understanding of growth retardation in 
+these children. The improvement in 
+growth after surgical removal of the nasopharyngeal 
+airway obstruction is a 
+well-known phenomenon, possibly involving 
+multiple factors such as increased 
+GH secretion, increased caloric 
+intake, decreased energy expenditure, 
+and an increase in serum IGF-I levels. 
+
+The significant increase in serum IGF-I 
+levels and weight in children with OSAS 
+after T&A found in this study indicates a 
+role for the IGF-I axis in growth retardation 
+of children with chronic upper 
+airway obstruction caused by hypertrophied 
+adenoids and tonsils. 
+
+REFERENCES 
+
+1. 
+Waters KA, Everett F, Bruderer J, 
+MacNamara F, Sullivan CE. The use 
+of nasal CPAP in children. Pediatr 
+Pulmonol 1995;11(suppl):91-3. 
+2. 
+Sheldon SH, Spire JP, Levy HB. Sleep-
+disordered respiration in childhood. In: 
+Sheldon SH, Spire JP, Levy HB, editors. 
+Pediatric sleep medicine. 1st ed. 
+Toronto: WB Saunders; 1992. p. 136-50. 
+3. 
+Marcus CL, Omlin KG, Basinki DJ, 
+Bailey SL, Rachal AB, Von Pechmann 
+WS, et al. Normal polysomnographic 
+values in children and adolescents. Am 
+Rev Respir Dis 1992;146:1235-9. 
+4. 
+Bate TW, Price DA, Holme CA, 
+McGucken RB. Short stature caused 
+by obstructive apnoea during sleep. 
+Arch Dis Child 1984;59:78-80. 
+5. 
+Williams EF, Woo P, Miller R, Kellman 
+RM. The effects of adenotonsillectomy 
+on growth in young children. Otolaryngol 
+Head Neck Surg 1991;104:509-16. 
+6. 
+Ahlqvist-Rastad J, Hultcrantz E, Me-
+lander H, Svanholm H. Body growth 
+in relation to tonsillar enlargement and 
+tonsillectomy. Int J Pediatr Otorhinolaryngol 
+1992;24:55-61. 
+7. Brouillette RT, Fernbach SK, Hunt C. 
+Obstructive sleep apnea in infants and 
+children. J Pediatr 1982;100:31-40. 
+8. 
+Guilleminaullt C, Korobkin R, Winkle 
+R. A review of 50 children with obstructive 
+sleep apnea syndrome. Lung 
+1981;159:275-87. 
+9. 
+Suen JS, Arnold JE, Brooks LJ. Adenotonsillectomy 
+for treatment of obstructive 
+sleep apnea in children. Arch Otolaryngol 
+Head Neck Surg 1995;121:525-30. 
+10. Everett AD, Koch WC, Saulsbury FT. 
+Failure to thrive due to obstructive 
+sleep apnea. Clin Pediatr 1987;26:90-2. 
+11. 
+Stradling JR, Thomas G, Warley 
+HRA, Williams P, Freeland A. Effect 
+of adenotonsillectomy on nocturnal hypoxaemia, 
+sleep disturbance, and 
+symptoms in snoring children. Lancet 
+1990;335:249-53. 
+12. 
+Grunstein RR, Handelsman DJ, 
+Lawrence SJ, Blackwell C, Caterson 
+ID, Sullivan CE. Neuroendocrine dysfunction 
+in sleep apnoea: reversal by 
+continuous positive airways pressure 
+therapy. J Clin Endocrinol Metab 
+1989;68:352-8. 
+13. 
+Goldstein SJ, We RH, Thorpy MJ, 
+Shpintzen RJ, Marion RE, Saenger P. 
+Reversibility of deficient sleep entrained 
+growth hormone secretion in a 
+boy with achondroplasia and obstructive 
+sleep apnea. Acta Endocrinol 
+Copenh 1987;116:95-101. 
+14. 
+Marcus CL, Carroll JL, Koerner CB, 
+Hamer A, Lutz J, Louglin GM. Determinants 
+of growth in children with obstructive 
+sleep apnea syndrome. J Pediatr 
+1994;125:556-62. 
+15. 
+Barkan Al, Bitens IZ, Kelch RP. Plasma-
+insulin-like growth factor-1/somatomedin 
+C in acromegaly: correlation 
+with degree of growth hormone 
+hypersecretion. J Clin Endocrinol 
+Metab 1988;67:69-73. 
+16. 
+Melamed S. Acromegaly. N Engl J 
+Med 1990;322:966-77. 
+17. 
+Blum WF, Albertsson-Wikland K, 
+Rosberg S, Ranke MB. Serum levels 
+of insulin-like growth factor 1 (IGF-1) 
+and IGF binding protein 3 reflect 
+growth hormone secretion. J Clin Endocrinol 
+Metab 1993;76:1610-6. 
+18. 
+Brouillette RT, Hanson D, David R, 
+Klemka L, Szatkowske A, Fernbach S, 
+et al. A diagnostic approach to suspected 
+obstructive sleep apnea in children. 
+J Pediatr 1984;105:10-4. 
+19. 
+Montgomery M, Weibicke W, Bibi H, 
+Pagtakhan RD, Pasterkamp H. Home 
+measurement of oxygen saturation 
+during sleep in patients with cystic fibrosis. 
+Pediatr Pulmonol 1989;7:29-34. 
+20. Rechtschaffen A, Kales A. A manual of 
+standardized terminology: techniques 
+and scoring system for sleep stage of 
+human subjects. US Public Health Service; 
+1968. NIH Publication No. 204. 
+21. 
+Mograss MA, Ducharme FM, Brouillette 
+RT. Movement/arousals. Description, 
+classification, and relationship to 
+sleep apnea in children. Am J Respir 
+Crit Care Med 1994;150:1690-6. 
+22. American Thoracic Society. Standards 
+THE JOURNAL OF PEDIATRICS 
+JULY 1999 
+
+and indications for cardiopulmonary 
+sleep studies in children. The official 
+statement of the American Thoracic 
+Society. Am J Respir Crit Care Med 
+1996;153:866-78. 
+
+23. 
+Guilleminaullt C, Pelayo R, Leger D, 
+Clerk A, Bocian RCZ. Recognition of 
+sleep-disordered breathing in children. 
+Pediatrics 1996;98:871-82. 
+24. 
+Vaughan VC, Litt IF. Growth and development. 
+In: Behrman RE, Kliegman 
+RM, Nelson WE, editors. Nelson textbook 
+of pediatrics. 14th ed. Philadelphia: 
+Saunders; 1992. p. 13-28. 
+25. 
+Quabbe H, Schilling E, Helge H. Pattern 
+of growth hormone secretion during 
+24 hour fast in normal adults. J Clin 
+Endocrinol Metab 1996;26:1173-7. 
+26. 
+Sassin JF, Parker DC, Mace JW, 
+Gotlin RW, Johnson LC, Rossman 
+LG. Human growth hormone release: 
+relation to slow-wave sleep-waking cycles. 
+Science 1969;165:513-5. 
+27. Jarrett DB, Greenhouse JB, Miewald 
+JM, Fedorka IB, Kupfer DJ. A reexamination 
+of the relationship between 
+growth hormone and slow wave sleep 
+using delta analysis. Biol Psychiatry 
+1990;27:497-509. 
+28. Born J, Muth S, Fehm HL. The significance 
+of sleep onset and slow wave 
+sleep for release of growth hormone 
+(GH) and cortisol. Psychoneuroendocrinol 
+1988;13:233-43. 
+29. 
+Buzi F, Zanotti P, Tiberti A, 
+Montleone M, Lombardi A, Ugazio 
+AG. Overnight growth hormone secretion 
+in short children: independence of 
+the sleep pattern. J Clin Endocrinol 
+Metab 1993;77:1495-9. 
+30. 
+Saini J, Krieger J, Bradenberger G, 
+Wittersheim G, Simon C, Follenius M. 
+Continuous positive airway pressure 
+treatment. Effects on growth hormone, 
+insulin and glucose profiles in obstructive 
+sleep apnea patients. Horm Metab 
+Res 1993;25:375-81. 
+31. Cooper BG, White JES, Ashworth LA, 
+Alberti KGMM, Gibson GJ. Hormonal 
+and metabolic profiles in subjects 
+with obstructive sleep apnea syndrome 
+and the acute effects of nasal continuous 
+positive airway pressure (CPAP) 
+treatment. Sleep 1995;18:172-9. 
+32. 
+Juul A, Bang P, Hertel NT, Main K, 
+Dalgaard P, Jorgensen K, et al. Serum 
+insulin-like growth factor-I in 1030 
+healthy children, adolescents, and 
+adults: relation to age, sex, stage of puberty, 
+testicular size, and body mass 
+index. J Clin Endocrinol Metab 
+1994;78:744-52. 
+

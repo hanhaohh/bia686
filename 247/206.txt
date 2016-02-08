@@ -1,0 +1,774 @@
+ORIGINAL ARTICLE ORIGINAL ARTICLE 
+Child Behavior and Quality of Life Before 
+and After Tonsillectomy and Adenoidectomy 
+
+Nira A. Goldstein, MD; Mahnur Fatima, MD; Thomas F. Campbell, PhD; Richard M. Rosenfeld, MD, MPH 
+
+Objective: To determine the relationship between child 
+behavior and quality of life before and after tonsillectomy 
+and adenoidectomy by means of a standardized assessment 
+of child behavior, the Child Behavior Checklist 
+(CBCL), and a validated quality-of-life survey of 
+pediatric obstructive sleep apnea, the OSA-18. 
+
+Design: Before-after study. 
+
+Setting: Hospital-based pediatric otolaryngology practice 
+in a metropolitan area. 
+
+Participants: Sixty-four children (mean [SD] age, 5.8 
+
+[3.1] years; 36 boys, 28 girls) who underwent tonsillectomy 
+and adenoidectomy for treatment of sleep-
+disordered breathing or recurrent tonsillitis. 
+Intervention: Parents or caretakers completed the 
+OSA-18 and the CBCL for ages 2 to 3 years or 4 to 18 
+years before surgery and 3 months postoperatively. 
+
+Main Outcome Measures: The OSA-18 mean survey 
+scores and change scores, and the CBCL total problem 
+T scores and change in total problem T scores. 
+
+Results: The mean (SD) preoperative OSA-18 score was 
+
+3.9 (1.5) and change score was 2.3 (95% confidence interval, 
+1.9-2.7). The mean total problem score was 7.3 
+points lower after surgery (95% confidence interval, 4.99.7), 
+indicating a significant decrease (P.001, matched 
+t test). The preoperative CBCL total problem score was 
+consistent with abnormal behavior for 16 children (25%), 
+but only 5 children (8%) scored in the abnormal range 
+postoperatively (P=.03, log-likelihood ratio test). The 
+OSA-18 preoperative mean survey score had fair to good 
+correlation with the preoperative CBCL total problem T 
+score (r=0.50, P.001, Pearson correlation), and the 
+OSA-18 change score had fair to good correlation with 
+the change in CBCL total problem T score (r = 0.54, 
+P.001, Pearson correlation). 
+Conclusions: Behavioral and emotional difficulties are 
+found in children with sleep-disordered breathing before 
+treatment and improve after intervention. Scores on 
+a standardized measure of assessment of behavior demonstrate 
+significant correlation with scores on a validated 
+quality-of-life instrument. 
+
+Arch Otolaryngol Head Neck Surg. 2002;128:770-775 
+
+From the Division of Pediatric 
+Otolaryngology, State 
+University of New York 
+Downstate Medical Center and 
+the Long Island College 
+Hospital, Brooklyn, NY 
+(Drs Goldstein, Fatima, and 
+Rosenfeld); and Department 
+of Communication Science 
+and Disorders, University 
+of Pittsburgh, and Department 
+of Audiology and 
+Communication Disorders, 
+Children’s Hospital of 
+Pittsburgh, Pittsburgh, Pa 
+(Dr Campbell). 
+
+S
+S
+LEEP-DISORDERED BREATHING in 
+children is viewed as a continuum 
+of severity from partial 
+obstruction of the upper 
+airway producing snoring to 
+increased upper airway resistance to continuous 
+episodes of complete upper airway 
+obstruction or obstructive apnea. The 
+prevalence of pediatric obstructive sleep apnea 
+syndrome (OSAS) has been estimated 
+to be between 1% and 3% in preschool and 
+school-aged children.1 Children with OSAS 
+are usually brought to medical attention 
+because of nighttime breathing difficulties. 
+While behavioral, emotional, and neurocognitive 
+difficulties have long been 
+anecdotally associated with pediatric 
+OSAS, recent reports using standardized 
+behavioral assessments are supporting 
+these observations.1-7 
+
+The Child Behavior Checklist (CBCL) 
+is a standardized measure of children’s behavior.
+8,9 In a pilot study by our group of 
+36 children undergoing tonsillectomy and 
+adenoidectomy (T & A) for chronic upper 
+airway obstruction,3 10 (28%) scored 
+in the abnormal range on the preoperative 
+CBCL. The CBCL scores significantly 
+improved after T & A (n=15), although 
+changes in classification (normal, 
+borderline, or abnormal) were not statistically 
+significant. Limitations of that study 
+included a small sample size and lack of a 
+control group. 
+
+The OSA-18 is an 18-item health-
+related quality-of-life (QOL) survey of pediatric 
+OSAS that has been correlated with 
+the respiratory disturbance index on nap 
+polysomnography.10 Because of its ease of 
+administration, reliability, validity, and re
+
+
+(REPRINTED) ARCH OTOLARYNGOL HEAD NECK SURG/VOL 128, JULY 2002 WWW.ARCHOTO.COM 
+
+770 
+
+Downloaded from www.archoto.com on March 4, 2009 
+
+©2002 American Medical Association. All rights reserved. 
+
+
+Each item is scored as follows: not true, 0; somewhat or 
+
+PATIENTS AND METHODS 
+
+sometimes true, 1; and very true or often true, 2. The CBCL/ 
+
+4-18 also has 35 questions regarding children’s competen-
+PARTICIPANTS cies in school, activities, and social contexts, which are 
+
+scored on the basis of the amount and quality of partici-
+Parents of children aged 2 through 18 years who were sched-pation for children aged 6 and older (total competence). 
+uled forT&Aor tonsillectomy were recruited from the Raw scores are converted to normalized T scores, which 
+private practice office of 3 pediatric otolaryngologists (in-are compared with the scores of children in normative 
+cluding N.A.G. and R.M.R.) and the pediatric otolaryngol-samples. Scores are then divided into normal (95th perogy 
+clinic of the Long Island College Hospital in Brook-centile), borderline (95th percentile but 98th percenlyn, 
+NY, from July 1, 1999, through December 31, 2000. tile), or abnormal (98th percentile) ranges. 
+Surgery was performed for treatment of OSAS–upper air-The CBCL/2-3 is scored to obtain a total problem score, 
+way obstruction and/or recurrent tonsillitis. Children were which provides a global index of the child’s behavioral and 
+diagnosed as having OSAS by a clinical history of night-emotional function. The responses can be further divided 
+time snoring, apneic pauses, and struggling to breath, and into scores for internalizing (anxious or depressed and with-
+by a physical examination documenting hypertrophic ton-drawn) and externalizing (aggressive behavior and destrucsils 
+and adenoids. Polysomnography was not routinely per-tive behavior) groupings, and scores for the individual synformed. 
+Children with craniofacial syndromes, neuromus-drome scales (anxious or depressed, withdrawn, sleep 
+cular diseases, behavioral disorders, learning disabilities, problems, somatic problems, aggressive behavior, and de-
+and psychiatric disease, and children whose parents did not structive behavior). The CBCL/4-18 is scored to obtain a 
+read or understand English, were excluded. The protocol total problem score, scores for internalizing (withdrawn, 
+was approved by the institutional review board of the Long somatic complaints, anxious or depressed) and external-
+Island College Hospital, informed consent was obtained from izing (delinquent behavior and aggressive behavior) group-
+the parents, and a convenience sample was recruited. ings, and scores for the individual syndrome scales (with
+
+
+drawn, somatic complaints, anxious or depressed, social 
+COMPLETION OF QUESTIONNAIRES problems, thought problems, attention problems, delin
+
+
+quent behavior, and aggressive behavior). The CBCL/ 
+Parents or caretakers completed the OSA-18 and the CBCL 4-18 total competence score is reported separately and not 
+for ages 2 through 3 years (CBCL/2-3) or ages 4 through included in the total problem score calculation. 
+18 years (CBCL/4-18) before surgery and 3 months post-To determine the relationship between behavior and 
+operatively. At entry, parents also completed a standard QOL, we included children undergoing surgery for treat-
+questionnaire that recorded demographic information, fam-ment of recurrent infection without sleep-disordered breathily 
+socioeconomic status, and parental education level. ing in all our analyses. This ensured a distribution of chil-
+
+The OSA-18 consists of 18 survey items divided into 5 dren with varying degrees of sleep-disordered breathing in 
+domains (sleep disturbance, physical symptoms, emotional the study sample. 
+symptoms, daytime functioning, and caregiver concerns). The 
+18 items are scored with a 7-point ordinal scale assessing fre-ANALYSES 
+quency of specific symptoms scored as follows: none of the 
+time, 1; hardly any of the time, 2; a little of the time, 3; some Comparison of preoperative and postoperative CBCL T 
+of the time, 4; a good bit of the time, 5; most of the time, 6; scores was performed with a matched, 2-tailed t test, and 
+and all of the time, 7. The scores on each of the 18 items are preoperative and postoperative T score classifications (norsummed 
+to produce a total survey score that can range from mal, borderline, and abnormal) were compared by the log18 
+to 126. The OSA-18 total survey scores less than 60 sug-likelihood ratio test. Change in impact of health-related QOL 
+gest a small impact on health-related QOL, scores between based on OSA-18 scores was compared by the 2 test. The 
+60 and 80 suggest a moderate impact, and scores greater than preoperative total problem T score categories were com80 
+suggest a large impact.10 A mean survey score and indi-pared with the preoperative OSA-18 QOL impact scores by 
+vidual domain mean scores are also calculated. The OSA-18 means of the log-likelihood ratio test. Pearson correlation 
+change scores are calculated by subtracting the postopera-was used to compare the mean preoperative OSA-18 surtive 
+mean survey score and individual domain mean scores vey scores and change scores with the CBCL preoperative 
+from the preoperative mean survey and individual domain total problem, internalizing, and externalizing T scores, and 
+mean scores. Change scores range from -7.0 to 7.0, with nega-changes in T scores postoperatively. Analysis of variance 
+tive numbers indicating deterioration and positive numbers was used to compare the CBCL T scores and OSA-18 mean 
+indicating improvement in QOL. Change scores of less than survey and change scores with the parent’s education level, 
+
+0.5 indicate trivial change, 0.5 to 0.9 indicate small change, family income, and patient sex. A linear regression model 
+1.0 to 1.4 indicate moderate change, and 1.5 or greater in-was used to compare the preoperative OSA-18 mean surdicate 
+large change.11 vey score and parent education level as predictors of the 
+The CBCL/2-3 is a 100-item survey and the CBCL/ CBCL total problem T score. P.05 was considered statis4-
+18 is a 113-item survey of specific childhood behaviors. tically significant.12 
+
+sponsiveness, it is a practical method of determination 
+of the QOL impact from OSAS.10,11 
+
+We evaluated the impact ofT&Aon children’s behavioral 
+and emotional problems by means of the CBCL 
+and the OSA-18. Surgery was performed for treatment 
+
+of OSAS–upper airway obstruction, recurrent tonsillitis, 
+or both. Correlation was sought between CBCL and 
+OSA-18 scores. Changes in postoperative scores were assessed 
+to evaluate longitudinal change in both behavior 
+and QOL. 
+
+(REPRINTED) ARCH OTOLARYNGOL HEAD NECK SURG/VOL 128, JULY 2002 WWW.ARCHOTO.COM 
+
+771 
+
+Downloaded from www.archoto.com on March 4, 2009 
+
+©2002 American Medical Association. All rights reserved. 
+
+
+Table 1. Demographics and Indication for Tonsillectomy and 
+Adenoidectomy for 64 Children Whose Parents Completed 
+the OSA-18 and Child Behavior Checklist* 
+
+Characteristic Finding 
+
+Sex, No. (%) 
+Male 36 (56) 
+Female 28 (44) 
+
+Age, y 
+Mean±SD 5.8±3.1 
+Range 2.0-18.1 
+
+Race, No. (%) 
+White 24 (38) 
+African American 21 (33) 
+Hispanic 14 (22) 
+East Asian 2 (3) 
+Mixed 3 (5) 
+
+Parent’s education level, No. (%)† 
+
+High school 10 (16) 
+High school 14 (22) 
+Some college 24 (38) 
+College 6 (9) 
+Postgraduate 6 (9) 
+Unknown 4 (6) 
+Family income, No. (%) 
+
+$10 000 5 (8) 
+$10 000-$19 999 4 (6) 
+$20 000-$35 999 18 (28) 
+$36 000-$50 999 5 (8) 
+$51 000-$75 999 8 (12) 
+$76 000-$100 999 2 (3) 
+$101 000-$120 000 2 (3) 
+$120 000 0 
+Unknown 20 (31) 
+Indication for tonsillectomy and adenoidectomy, No. (%) 
+Upper airway obstruction 39 (61) 
+Recurrent tonsillitis 10 (16) 
+Both 15 (23) 
+
+*OSA-18 indicates 18-item quality-of-life survey for pediatric obstructive 
+sleep apnea. 
+
+†Asked of the parent who completed the OSA-18 and Child Behavior 
+Checklist. 
+RESULTS 
+Parents of 133 children were offered participation in the 
+protocol, and 71 agreed to participate. Complete preoperative 
+and postoperative surveys were available for 64 children 
+who composed the study population. Patient demographics 
+and indication for surgery are presented in 
+Table 1. The male-female ratio was 1.3:1, and the mean 
+patient age was 5.8 years (range, 2.0-18.1 years). Fifty parents 
+(83%) who completed the surveys had graduated from 
+high school and 12 (20%) had graduated from college. Most 
+families were middle or upper middle class (annual family 
+income between $21000 and $100000).13 Surgery was 
+performed for the treatment of OSAS–upper airway obstruction 
+in 39 children (61%), recurrent tonsillitis in 10 
+(16%), and both obstruction and tonsillitis in 15 (23%). 
+The majority of children with upper airway obstruction were 
+diagnosed by clinical assessment, as only 5 (8%) had preoperative 
+polysomnograms (mean respiratory disturbance 
+index, 25.2; range, 3.9-74.5). 
+
+The OSA-18 preoperative and change scores are 
+presented in Table 2. Sleep disturbance, physical symp-
+
+Table 2. OSA-18 Preoperative Mean Survey Scores 
+and Change Scores (N = 64)* 
+
+Preoperative 
+Score, Change Score, 
+OSA-18 Domain Mean (SD)† Mean (95% CI)‡ 
+
+Sleep disturbance 4.3 (1.9) 2.9 (2.4-3.4) 
+Physical symptoms 4.3 (1.7) 2.4 (2.0-2.9) 
+Emotional symptoms 3.7 (2.0) 1.4 (0.9-1.9) 
+Daytime function 2.9 (1.5) 1.3 (0.9-1.7) 
+Caregiver concerns 4.2 (2.0) 2.7 (2.2-3.2) 
+Mean survey score (all 18 items) 3.9 (1.5) 2.3 (1.9-2.7) 
+
+*OSA-18 indicates 18-item quality-of-life survey for pediatric obstructive 
+sleep apnea; CI, confidence interval. 
+
+†Mean of items in domain; range, 1.0 to 7.0; higher scores indicate poorer 
+quality of life. 
+‡Preoperative score minus postoperative score; positive values indicate 
+improvement. 
+Table 3. Impact of OSAS on Child Quality of Life Based 
+on OSA-18 Scores (N = 64)* 
+
+No. (%) of Patients 
+Preoperative Postoperative 
+Small impact (item total 60) 
+Moderate impact (item total 60-80) 
+Large impact (item total 80) 
+22 (34) 
+16 (25) 
+26 (41) 
+63 (98) 
+1 (2) 
+0 
+
+*OSAS indicates obstructive sleep apnea syndrome; OSA-18, 18-item 
+quality-of-life survey for obstructive sleep apnea. Change in quality of life is 
+significant; . 
+22= 59.0, P.001. 
+
+toms, and caregiver concerns were the highest-rated domains, 
+followed by emotional symptoms and daytime 
+function. Change scores (preoperative mean scores minus 
+postoperative mean scores) for sleep disturbance, caregiver 
+concerns, and physical symptoms indicate a large 
+change in QOL (change score of 1.5), while change 
+scores for emotional symptoms and daytime function indicate 
+a moderate change in QOL (change score of 
+1.0-1.4). Preoperatively, the health-related QOL impact 
+of the children’s sleep-disordered breathing was small for 
+22 children (34%), moderate for 16 children (25%), and 
+large for 26 children (41%) (Table 3). A highly significant 
+change (P.001) was found in QOL postoperatively, 
+where a small impact was found in 63 children 
+(98%) and a moderate impact was found in 1 child (2%). 
+
+Mean preoperative CBCL T scores and change in T 
+scores for the individual syndrome scales, internalizing 
+and externalizing groupings, and the total problem score 
+are presented in Table4. Sample size varied because some 
+of the syndrome scales are applicable to only the CBCL/ 
+2-3 or the CBCL/4-18, the total competence items are 
+scored only for children aged 6 years and older, and 3 
+CBCLs had incomplete responses for the total competence 
+items and were excluded from the analysis. The 
+mean total problem score was 7.3 points lower after surgery, 
+resulting in a statistically significant decrease 
+(P.001). Scores were significantly lower after surgery 
+for the internalizing and externalizing subgroups and all 
+but 2 of the individual syndrome scales (total competence 
+and social problems). Preoperative and postopera
+
+
+(REPRINTED) ARCH OTOLARYNGOL HEAD NECK SURG/VOL 128, JULY 2002 WWW.ARCHOTO.COM 
+
+772 
+
+Downloaded from www.archoto.com on March 4, 2009 
+
+©2002 American Medical Association. All rights reserved. 
+
+
+tive T score classifications are presented in Table 5. Although 
+there were trends toward improvement, changes 
+in classification were only significant for the total problem 
+score and the individual problem scales of anxious 
+or depressed, thought problems, and sleep problems. 
+
+Since a number of socioeconomic variables have been 
+shown to have a significant influence on children’s development,
+14 we used analysis of variance to compare parent’s 
+education level, family income, and patient sex with 
+CBCL and OSA-18 results. There was no significant relationship 
+between the 3 sociodemographic variables and 
+the preoperative OSA-18 mean survey scores and change 
+scores. There was also no significant relationship between 
+family income and sex and the preoperative CBCL 
+total problem, internalizing, and externalizing T scores, 
+although the relationship between parent education level 
+and the total problem and externalizing T scores approached 
+significance (Table 6). 
+
+Table 4. Impact of Tonsillectomy and Adenoidectomy 
+on Child Behavior Checklist Scores* 
+
+Mean Change in T 
+CBCL Sample Preoperative Score, Mean P 
+Problem Scale Size T Score (SD) (95% CI)† Value‡ 
+
+Total competence 30 40.5 (8.4) -1.4 (-3.6 to 0.9) .19 
+Withdrawn 64 55.7 (8.3) 3.1 (1.5 to 4.6) .001 
+Somatic complaints 64 57.4 (8.6) 3.6 (1.8 to 5.5) .001 
+Anxious/depressed 64 55.4 (8.2) 2.7 (1.3 to 4.2) .001 
+Social problems 42 53.3 (6.2) 1.0 (-0.2 to 2.2) .22 
+Thought problems 42 54.8 (6.9) 2.7 (0.7 to 4.8) .01 
+Attention problems 42 54.0 (6.6) 2.1 (0.5 to 3.7) .01 
+Delinquent behavior 42 54.3 (6.2) 2.1 (0.7 to 3.4) .003 
+Aggressive behavior 64 56.3 (9.2) 3.4 (2.1 to 4.6) .001 
+Sleep problems 22 59.4 (10.2) 6.7 (1.5 to 12.0) .009 
+Destructive behavior 22 56.3 (8.2) 3.6 (0.8 to 6.3) .01 
+Internalizing 64 52.8 (11.9) 7.0 (4.7 to 9.3) .001 
+Externalizing 64 51.9 (12.3) 5.7 (3.8 to 7.6) .001 
+Total problems 64 53.4 (13.2) 7.3 (4.9 to 9.7) .001 
+
+*CBCL indicates Child Behavior Checklist; CI, confidence interval. 
+
+†Preoperative score minus postoperative score; positive values indicate 
+improvement. 
+‡t Test matched samples, 2-tailed P value. 
+The correlation between the preoperative OSA-18 
+health-related QOL impact scores and the preoperative 
+CBCL total problem score classifications is presented in the 
+Figure. All 22 children with an OSA-18 survey score indicating 
+a small impact on QOL also had a CBCL total problem 
+score in the normal range. Of the 16 children with a 
+survey score indicating a moderate impact on QOL, 4 (25%) 
+had a total problem score in the abnormal range. Of the 
+26 children with a survey score indicating a large impact 
+on QOL, 12 (46%) had a total problem score in the abnormal 
+range. These results are highly significant (P.001). 
+
+The OSA-18 preoperative mean survey scores had 
+fair to good correlation with the preoperative CBCL total 
+problem scores (r=0.50, P.001) and the internalizing 
+(r=0.43, P.001) and externalizing (r=0.43, P.001) 
+subgroups. The OSA-18 change scores had fair to good 
+correlation with the change in CBCL total problem scores 
+(r=0.54, P.001) and the internalizing (r=0.50, P.001) 
+and externalizing (r=0.49, P.001) subgroups. About 
+25% of the variations in one score could be explained by 
+variations in the other. 
+
+Because the influence of parent education level on 
+CBCL scores approached significance by univariate analysis, 
+a linear regression model was constructed to compare 
+the preoperative OSA-18 mean survey score and parent’s 
+education level as predictors of the total problem T 
+score (Table 7). Although parents who were both high 
+school and college graduates reported significantly lower 
+total problem CBCL T scores than parents who did not 
+finish high school, the mean OSA-18 score was a more 
+significant predictor of CBCL results (P=.01 vs P.001). 
+
+COMMENT 
+Our study population of 64 children undergoingT&A 
+predominantly for the treatment of sleep disordered-
+breathing (84%) demonstrated a high prevalence of behavioral 
+and emotional (25%) problems. In addition, 
+CBCL T scores for the total problem score and the majority 
+of the individual domains significantly improved 
+after T & A. Changes in classification (normal, border-
+
+Table 5. Impact of Tonsillectomy and Adenoidectomy on Child Behavior Checklist (CBCL) T Score Classification 
+Preoperative T Score Classification, No. (%) Postoperative T Score Classification, No. (%) P 
+Value for 
+CBCL Problem Scale Normal Borderline Abnormal Normal Borderline Abnormal Change* 
+Total competence 19 (63) 2 (7) 9 (30) 18 (60) 6 (20) 6 (20) .26 
+Withdrawn 55 (86) 4 (6) 5 (8) 61 (95) 1 (2) 2 (3) .17 
+Somatic complaints 52 (81) 6 (9) 6 (9) 58 (91) 5 (8) 1 (2) .11 
+Anxious/depressed 52 (81) 10 (16) 2 (3) 61 (95) 3 (5) 0 .02 
+Social problems 39 (93) 0 3 (7) 41 (98) 1 (2) 0 .06 
+Thought problems 37 (88) 5 (12) 0 42 (100) 0 0 .007 
+Attention problems 39 (93) 1 (2) 2 (5) 41 (98) 1 (2) 0 .20 
+Delinquent behavior 39 (93) 2 (5) 1 (2) 42 (100) 0 0 .12 
+Aggressive behavior 56 (88) 3 (5) 5 (8) 60 (94) 3 (5) 1 (2) .22 
+Sleep problems 16 (73) 1 (5) 5 (23) 22 (100) 0 0 .01 
+Destructive behavior 18 (82) 3 (14) 1 (5) 21 (95) 1 (5) 0 .26 
+Internalizing 46 (72) 7 (11) 11 (17) 54 (84) 3 (5) 7 (11) .20 
+Externalizing 46 (72) 9 (14) 9 (14) 56 (88) 4 (6) 4 (6) .09 
+Total problems 44 (69) 4 (6) 16 (25) 53 (83) 6 (9) 5 (8) .03 
+
+*Log-likelihood ratio test. 
+
+(REPRINTED) ARCH OTOLARYNGOL HEAD NECK SURG/VOL 128, JULY 2002 WWW.ARCHOTO.COM 
+
+773 
+
+Downloaded from www.archoto.com on March 4, 2009 
+
+©2002 American Medical Association. All rights reserved. 
+
+
+Table 6. Influence of Parental Education on Child 
+Behavior Checklist Scores* 
+
+Mean Preoperative CBCL T Score (SD) 
+
+Total 
+Parent Education Level Problem Internalizing Externalizing 
+
+High school (n = 10) 61.7 (12.5) 59.0 (14.7) 60.1 (12.6) 
+High school (n = 38) 50.5 (13.2) 50.6 (10.9) 49.8 (12.7) 
+College (n = 12) 54.3 (12.5) 53.3 (12.8) 50.9 (9.5) 
+Unknown(n=4) ... ... ... 
+ANOVA (df = 59) 
+P .06 .15 .06 
+F 3.00 1.98 2.92 
+*CBCL indicates Child Behavior Checklist; ANOVA, analysis of variance; and 
+ellipses, not applicable. 
+
+25 
+Preoperative T Score Total 
+
+22 
+
+Problem Classification 
+Normal 
+20 
+
+Borderline 
+Abnormal 
+
+15 
+
+12 
+11 11 
+
+10 
+
+5 
+
+4 
+3 
+
+1
+
+00 
+0 
+
+
+
+No. of Patients 
+
+Small Moderate Large 
+Preoperative OSA-18 Score QOL Impact 
+
+Correlation between preoperative quality-of-life (QOL) impact scores on the 
+18-item pediatric obstructive sleep apnea scale (OSA-18) and preoperative 
+Child Behavior Checklist total problem T score classifications. Correlation is 
+significant; log-likelihood ratio, P.001. 
+
+Table 7. Linear Regression Model Comparing OSA-18 Score 
+and Parental Education Level as Predictors of Child 
+Behavior Checklist Total Problem Score* 
+
+Coefficient P 
+Predictor (SE) 95% CI Value 
+
+Mean OSA-18 score 4.44 (0.98) 2.48 to 6.40 .001 
+Parent education 
+High school vs -10.27 (3.99) -18.27 to -2.28 .01 
+high school 
+College vs -9.30 (4.82) -18.96 to 0.36 .06 
+high school 
+
+*Total problem T score: model R = 0.58, r 2 = 33.9%, F = 9.55, P.001, 
+intercept = 43.97. OSA-18 indicates 18-item quality-of-life survey for 
+pediatric obstructive sleep apnea; CI, confidence interval. 
+
+line, or abnormal) were also statistically significant for 
+the total problem score and some of the individual domains. 
+Only 8% of the children scored in the abnormal 
+range for the total problem score postoperatively. The 
+health-related QOL impact of sleep-disordered breathing 
+was large (41%) or moderate (25%) for our study 
+population, and significantly improved postoperatively 
+(66% vs 2%). The relationship between behavior and QOL 
+was both static and dynamic, since both the baseline and 
+the change scores demonstrated significant correlation. 
+
+The CBCL results are similar to the results obtained 
+in the pilot study by our group of 36 children undergoingT&
+Afor treatment of chronic upper airway 
+obstruction.3 Preoperatively, the total problem score was 
+abnormal for 28% of the patients as compared with 25% 
+in the present study. Individual syndrome scales most 
+affected in both studies were total competence, sleep problems, 
+and somatic complaints. The mean total problem 
+score was 7.5 points lower 3 months postoperatively in 
+the previous study (n=15) as compared with 7.3 points 
+in the present study. Although changes in classification 
+were not significant in the previous study after surgery, 
+we were able to demonstrate significant postoperative 
+changes in the total problem score, anxious or depressed, 
+thought problems, and sleep problems in the 
+present study, which may be attributed to our larger 
+sample size (N=64). 
+
+Sociodemographic variables including parental 
+education, family income, and race or ethnicity have 
+been shown to influence children’s developmental performance.
+14 Boys also tend to score higher on the CBCL 
+than girls.8,9 Only parental education level influenced 
+the CBCL results, as parents who had not graduated 
+from high school reported higher CBCL scores for their 
+children than did parents who had graduated from high 
+school or from college. The relationship between OSA-18 
+QOL scores and CBCL scores, however, remained highly 
+significant when adjusted for the confounding effect of 
+parent education (Table 7). Together, the OSA-18 scores 
+and parent education predicted 34% of the variance in 
+CBCL scores. 
+
+Although widely cited as a common complication 
+of pediatric OSAS, behavioral disturbances have mostly 
+been inferred from parental reports of children’s behavior 
+before and after treatment. A few recent studies using 
+standardized assessments have identified the presence 
+of inattention, hyperactivity, memory problems, 
+learning difficulties, and poor school performance in children 
+with sleep-disordered breathing.1-4,7 Our study also 
+identifies thought problems and attention problems in 
+children with sleep-disordered breathing, but hyperactivity 
+is not a problem scale on the CBCL. Although the 
+physiological mechanism by which OSAS produces its 
+neurocognitive and behavioral effects is unknown, disrupted 
+sleep patterns and hypoxia are considered integral 
+to their development.15,16 
+
+The OSA-18 is the only QOL survey that has been 
+validated as a discriminative measure of severity of pediatric 
+sleep-disordered breathing and an evaluative measure 
+of longitudinal change. The preoperative mean survey 
+score and change score for our 64 patients were even 
+greater than the scores obtained in the study performed 
+to validate the responsiveness of the survey.11 In this previous 
+study of 69 children undergoing tonsillectomy or 
+adenoidectomy for the treatment of sleep-disordered 
+breathing (78%) or recurrent tonsillitis (22%), the mean 
+survey score was 3.1. The mean change score for the children 
+with clinical evaluations suggestive of sleep-
+disordered breathing was 1.14. Although not an objective 
+measure of the severity of sleep-disordered breathing, 
+such as polysomnography, the OSA-18, like other health-
+related QOL surveys, focuses on the physical problems, 
+
+(REPRINTED) ARCH OTOLARYNGOL HEAD NECK SURG/VOL 128, JULY 2002 WWW.ARCHOTO.COM 
+
+774 
+
+Downloaded from www.archoto.com on March 4, 2009 
+
+©2002 American Medical Association. All rights reserved. 
+
+
+functional limitations, and emotional consequences of 
+OSAS. The OSA-18 is more comprehensive in its scope 
+than polysomnography. 
+
+No child with an OSA-18 survey score demonstrating 
+a small impact on QOL scored in the abnormal range 
+on the CBCL total problem score. In contrast, 25% of children 
+with an OSA-18 survey score demonstrating a moderate 
+impact on QOL and 46% of children with a score 
+demonstrating a large impact scored in the abnormal 
+range. Fair to good correlation was found between the 
+OSA-18 QOL and CBCL preoperative and change scores. 
+Four items (22%) on the OSA-18 that evaluate the frequency 
+of mood swings, aggression or hyperactivity, discipline, 
+and inattention overlap with domains of the CBCL. 
+Despite this overlap, the 2 survey instruments evaluate 
+separate but related consequences of sleep-disordered 
+breathing. 
+
+This is, to our knowledge, the first prospective study 
+of pediatric obstructive sleep apnea correlating children’s 
+behavioral disturbances with QOL and documenting improvements 
+in both after treatment using validated assessments. 
+The major weakness is that “effectiveness” or “efficacy” 
+cannot be inferred, since the study did not have a 
+control group. Although improvements in both behavior 
+and QOL occurred, we cannot be certain that they were 
+the result of T & A. 
+
+Our study provides further evidence that behavioral 
+and emotional difficulties are present in children 
+with sleep-disordered breathing and improve after treatment. 
+Scores on our standardized assessment of behavior 
+demonstrated significant correlation with scores on 
+a validated QOL instrument. Additional work is needed 
+to define the precise spectrum of behavioral abnormalities, 
+elucidate their pathophysiologic mechanism, and provide 
+diagnostic clues to allow their early recognition. 
+
+Accepted for publication December 17, 2001. 
+
+This study was supported by a 1999 Research Award 
+from the American Society of Pediatric Otolaryngology (Dr 
+Goldstein). 
+
+This study was presented at the American Society of 
+Pediatric Otolaryngology 16th Annual Meeting, Scottsdale, 
+Ariz, May 10, 2001. 
+
+We thank Kathy Rivera for assistance with data collection. 
+
+
+Corresponding author and reprints: Nira A. Gold-
+stein, MD, Department of Otolaryngology, State University 
+of New York Downstate Medical Center, 450 Clarkson 
+Ave, Box 126, Brooklyn, NY 11203-2098 (e-mail: 
+ngoldstein@netmail.hscbklyn.edu). 
+
+REFERENCES 
+1. Ali NJ, Pitson DJ, Stradling JR. Snoring, sleep disturbance, and behaviour in 4-5 
+year olds. Arch Dis Child. 1993;68:360-366. 
+2. Ali NJ, Pitson DJ, Stradling JR. Sleep disordered breathing: effects of adenotonsillectomy 
+on behaviour and psychological functioning. Eur J Pediatr. 1996; 
+155:56-62. 
+3. Goldstein NA, Post JC, Rosenfeld RM, Campbell TF. Impact of tonsillectomy and 
+adenoidectomy on child behavior. Arch Otolaryngol Head Neck Surg. 2000;126: 
+494-498. 
+4. Gozal D. Sleep-disordered breathing and school performance in children. Pediatrics. 
+1998;102(3, pt 1):616-620. 
+5. Greene MG, Carroll JL. Consequences of sleep-disordered breathing in childhood. 
+Curr Opin Pulm Med. 1997;3:456-463. 
+6. 
+Hansen DE, Vandenberg B. Neuropsychological features and differential diagnosis 
+of sleep apnea syndrome in childhood. J Clin Child Psychol. 1997;26:304-310. 
+7. 
+Rhodes SK, Shimoda KC, Waid LR, et al. Neurocognitive deficits in morbidly obese 
+children with obstructive sleep apnea. J Pediatr. 1995;127:741-744. 
+8. Achenbach TM. Manual for the Child Behavior Checklist/2-3 and 1992 Profile. 
+Burlington: Dept of Psychiatry, University of Vermont; 1992. 
+9. Achenbach TM. Manual for the Child Behavior Checklist/4-18 and 1991 Profile. 
+Burlington: Dept of Psychiatry, University of Vermont; 1991. 
+10. 
+Franco RA Jr, Rosenfeld RM, Rao M. First place—resident clinical science award 
+1999: quality of life for children with obstructive sleep apnea. Otolaryngol Head 
+Neck Surg. 2000;123:9-16. 
+11. 
+Sohn H, Rosenfeld RM. Evaluation of sleep-disordered breathing in children. Otolaryngol 
+Head Neck Surg. In press. 
+12. 
+Gustafson TL. True Epistat Reference Manual. 5th ed. Richardson, Tex: Epistat 
+Services; 1994. 
+13. 
+Employment Policy Foundation. The shrinking middle class: more American families 
+gain than fall behind. Fact Fallacy [serial online]. January 1996. Available at: 
+http://www.epf.org/ff/ff2-1.htm. Accessed April 8, 1999. 
+14. 
+Dollaghan CA, Campbell TF, Paradise JL, et al. Maternal education and 
+measures of early speech and language. J Speech Lang Hear Res. 1999;42:14321443. 
+15. 
+Be´dard M-A, Montplaisir J, Malo J, Richer F, Rouleau I. Persistent neuropsychological 
+deficits and vigilance impairment in sleep apnea syndrome after treatment 
+with continuous positive airway pressure (CPAP). J Clin Exp Neuropsychol. 
+1993;15:330-341. 
+16. 
+Findley LJ, Unverzagt ME, Suratt PM. Automobile accidents involving patients 
+with obstructive sleep apnea. Am Rev Respir Dis. 1988;138:337-340. 
+(REPRINTED) ARCH OTOLARYNGOL HEAD NECK SURG/VOL 128, JULY 2002 WWW.ARCHOTO.COM 
+
+775 
+
+Downloaded from www.archoto.com on March 4, 2009 
+
+©2002 American Medical Association. All rights reserved. 
+
+

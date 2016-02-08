@@ -1,0 +1,764 @@
+OSTETRICAL AND PEDIATRIC ANESTHESIA 
+
+Children with severe OSAS who have adenotonsillectomy 
+in the morning are less likely to have 
+postoperative desaturation than those operated in 
+the afternoon 
+
+[Les enfants atteints d’un SAOS sévère, opérés pour amygdalectomie le matin, sont 
+
+moins susceptibles de désaturation postopératoire que les opérés d’après-midi] 
+
+Albert Koomson MD,* Isabelle Morin MSc,‡ Robert Brouillette MD,† Karen A. Brown MD* 
+
+P
+PPu
+uur
+rrp
+ppo
+oos
+sse
+ee: 
+:: To determine, in a subset of children previously reported, 
+if the time of day when adenotonsillectomy for severe obstructive 
+sleep apnea syndrome (OSAS) was performed affected the 
+incidence of postoperative respiratory complications. 
+
+C
+CCl
+lli
+iin
+nni
+iic
+cca
+aal 
+ll f
+ffe
+eea
+aat
+ttu
+uur
+rre
+ees
+ss: 
+:: Children having adenotonsillectomy were 
+included if they had a polysomnographic diagnosis of severe OSAS 
+within six months prior to operation. Patients who met the inclusion 
+criteria were grouped by the occurrence of postoperative 
+desaturation into a saturated (SAT) and desaturated (deSAT) group. 
+The charts of children in group deSAT were reviewed. The clock 
+time of the surgical procedure was recorded and categorized as 
+morning (AM) or afternoon (PM). 
+
+R
+RRe
+ees
+ssu
+uul
+llt
+tts
+ss: 
+:: Eighty-eight patients met the inclusion criteria. There were 
+31 girls and 57 boys. The mean ± SD age (yr) and weight (kg) were 
+
+4.6 ± 2.9 yr and 20.8 ± 14.5 kg respectively. There were 63 children 
+in the SAT group and 25 in the deSAT group. Differences in age, 
+weight and gender were not significant. The preoperative oxygen saturation 
+(SaO2) nadir for the SAT and deSAT groups was 80.8 ± 
+10.2% and 67.6 ± 17.5% (P < 0.05) respectively. The preoperative 
+obstructive apnea and hypopnea index was 15.8 ± 10.2 and 
+35.7 ± 34.6 events·hr–1 (P < 0.05), respectively. Surgery in 63 
+(71.6%) children was performed in the AM. Univariate logistic 
+regression identified PM surgery [odds ratio (OR) 4.6, 95% confidence 
+interval (CI) 1.7 to 12.6, P = 0.002] and a preoperative SaO2 
+nadir < 80% (OR 3.6, 95% CI 1.4 to 9.4, P = 0.009) as risk factors 
+predicting postadenotonsillectomy desaturation. 
+C
+CCo
+oon
+nnc
+ccl
+llu
+uus
+ssi
+iio
+oon
+nn: 
+:: Children with severe OSAS whose surgery is performed 
+in the AM are less likely to desaturate following adenotonsillectomy 
+than children whose surgery is performed in the PM. 
+
+Objectif : Déterminer, chez un sous-groupe connu d’enfants, si 
+l’heure à laquelle l’amygdalectomie a été réalisée pour un syndrome 
+sévère d’apnée obstructive du sommeil (SAOS) a un effet sur l’incidence 
+de complications respiratoires postopératoires. 
+
+Éléments cliniques : Des enfants subissant une amygdalectomie 
+ont été inclus dans notre étude si un diagnostic polysomnographique 
+de SAOS sévère avait été établi dans les six mois avant l’opération. Les 
+patients admis ont été répartis selon l’occurrence de désaturation 
+postopératoire dans un groupe de saturation (SAT) ou de désaturation 
+(deSAT). Les dossiers des enfants du groupe deSAT ont été révisés. 
+L’heure de l’opération a été notée sous matin (AM) ou après-midi 
+(PM). 
+
+Résultats : Ont été admis à l’étude, 88 patients dont 31 filles et 57 
+garçons. La moyenne d’âge et de poids ± l’écart type étaient respectivement 
+de 4,6 ± 2,9 ans et 20,8 ± 14,5 kg. Il y a eu 63 enfants dans 
+le groupe SAT et 25 dans le groupe deSAT. Les différences d’âge, de poids 
+et de sexe n’étaient pas significatives. Le niveau préopératoire minimal 
+de saturation en oxygène (SaO2) a été de 80,8 ± 10,2 % et de 67,6 
+± 17,5 % (P < 0,05) dans les groupes SAT et deSAT respectivement. 
+Les indices d’apnée obstructive et d’hypopnée préopératoires étaient de 
+15,8 ± 10,2 et de 35,7 ± 34,6 événements·h-1 (P < 0,05), respectivement. 
+L’opération de 63 (71,6 %) enfants s’est faite en AM. Une 
+analyse univariée de régression logistique a considéré l’opération réalisée 
+en PM [risque relatif (RR) de 4,6, intervalle de confiance (IC) de 95 %, 
+1,7 à 12,6, P = 0,002] et un niveau minimal de SaO2 préopératoire < 
+80 % (RR de 3,6, IC de 95 %, 1,4 à 9,4, P = 0,009) comme des facteurs 
+de risque prédictifs de désaturation postamygdalectomie. 
+
+Conclusion : Les enfants atteints d’un SAOS sévère, opérés en AM, 
+sont moins susceptibles de subir une désaturation postamygdalectomie 
+que les enfants opérés en PM. 
+
+From the Departments of Anesthesia,* and Pediatrics,† Montreal Children’s Hospital; and the Biostatistics Laboratory,‡ McGill University 
+Health Centre Research Institute, Montreal, Quebec, Canada. 
+
+Address correspondence to: Dr. Karen A. Brown, McGill University Health Centre/Montreal Children’s Hospital, Division of Pediatric 
+Anesthesia, 2300 Tupper Street, Room C-1118, Montreal, Quebec H3H 1P3, Canada. Phone: 514-412-4463; Fax: 514-412-4341; 
+E-mail: roula.cacolyris@muhc.mcgill.ca 
+
+Accepted for publication April 23, 2003. 
+
+Revision accepted July 21, 2003. 
+
+CAN J ANESTH 2004 / 51: 1 / pp 62–67 
+
+
+Koomson et al.: TIMING OF ADENOTONSILLECTOMY 
+
+A 
+A 
+DENOTONSILLECTOMY is one of the 
+commonest operations performed in children 
+with the annual caseload in excess of 
+
+a quarter million in the USA alone.1 In the 
+
+UK about 2.3/1,000 children under the age of 12 yr 
+undergo tonsillectomy annually.2 
+
+Children with the obstructive sleep apnea syndrome 
+(OSAS) have a higher risk for respiratory morbidity 
+following adenotonsillectomy compared with 
+the general pediatric population.3–5 Quality assurance 
+programs have focused attention on patient characteristics 
+contributing to postoperative risk.6 An evolving 
+viewpoint emphasizes the need to look beyond the 
+patient, to factors in the health delivery system per se, 
+which may affect outcome. Newland et al.7 reported 
+that surgery performed after 15:00 hr was associated 
+with a higher risk for anesthetic-related cardiac arrest. 
+Using our large database of children with OSAS who 
+have undergone adenotonsillectomy, we aimed to 
+assess the time of day of surgery as an independent risk 
+factor for postadenotonsillectomy respiratory morbidity. 
+A second aim was to examine the time interval 
+between postoperative opioid administration and respiratory 
+outcome. 
+
+M
+MMe
+eet
+tth
+hho
+ood
+ddo
+ool
+llo
+oog
+ggy 
+yy 
+
+The study received Institutional approval. 
+
+Patient selection criteria 
+
+The selected patients represent a subset of children 
+previously reported.5 The inclusion criteria were: 1) a 
+sleep study documenting severe OSAS; 2) adenotonsillectomy 
+within six months prior to surgery; and 3) 
+extubation in the operating room at the end of 
+surgery. The diagnostic criterion for severe OSAS was 
+an abnormal sleep study defined, in our institution 
+and elsewhere,8 by an obstructive apnea and hypopnea 
+(OAH) index > 5 events·hr–1. 
+
+Chart review and study parameters 
+
+DIAGNOSTIC CRITERIA FOR OSAS 
+A diagnosis of OSAS was made with either 
+polysomnography performed in the sleep laboratory 
+or a cardiorespiratory sleep study performed in the 
+home. Details of our sleep study recording systems 
+have been published elsewhere.9–12 Although the studies 
+were analyzed for several variables,5 only the OAH 
+index and the preoperative saturation nadir (preSaO2 
+nadir) are reported. The preSaO2 nadir was defined as 
+the minimum hemoglobin oxygen saturation regardless 
+of duration and was validated by visual inspection 
+of a computerized data record.10,13 
+
+POSTOPERATIVE CARE FOLLOWING ADENOTONSILLECTOMY 
+It is our practice to extubate children when awake in 
+the operating room and to administer oxygen by face-
+mask, attached to a Jackson Rees circuit, placed in 
+close proximity to the child’s face for the initial postoperative 
+period. We administer iv morphine, in 
+repeated doses (0.05 mg·kg–1), as the opioid of choice 
+in the postoperative care unit until the child is able to 
+tolerate oral codeine. In addition we monitor all children 
+with a diagnosis of OSAS with an Nellcor N200 
+oximeter (Nellcor, Pleasanton, CA, USA) on the first 
+postoperative night. Postoperative events of interest 
+included both respiratory complications and medical 
+interventions. Postoperative respiratory desaturation 
+was defined as a room air oxygen saturation less than 
+95%. Administration of oxygen, insertion of an 
+oropharyngeal airway, reintubation and ventilation 
+were considered medical interventions. 
+
+MEDICAL CHART REVIEW 
+The children were divided into two groups based on 
+the presence of postoperative desaturation into a desaturated 
+(deSAT) or saturated (SAT) group. Desaturation 
+which occurred before the child left the operating 
+room, did not influence the grouping criteria. 
+
+Pertinent history, operative and postoperative 
+information were recorded including the start time of 
+the operative procedure. Outcome was assessed from 
+written reports in the nursing and medical records. A 
+review of medical charts was conducted for children in 
+the deSAT group. The number of desaturations in the 
+first 24 hr postoperative period, as documented in the 
+medical chart, were recorded by a pediatric anesthesiologist 
+(A.K.). The clock time of opioid administration 
+and the clock time at which a respiratory 
+complication occurred were recorded. The temporal 
+relationship between opioid administration and the 
+first (postdeSAT1st) and minimum (postSaO2 nadir) 
+were determined. The “sleep state” reported in the 
+nursing charts as “awake” or “asleep” at the time of 
+desaturation was noted. 
+
+RELATIONSHIP BETWEEN POSTOPERATIVE MORPHINE 
+ADMINISTRATION AND POSTOPERATIVE 
+DESATURATION 
+Children who did not desaturate in the postoperative 
+period (group SAT) were assigned a value for 
+postSaO2 nadir of 95%. The difference between the 
+postdeSAT1st and postSaO2 nadir was calculated. The 
+time intervals: 1) between the postSaO2 nadir1st and 
+opioid administration immediately preceding it 
+(Interval1st); and 2) between the postSaO2 nadir and 
+
+
+FIGURE Timing of events 
+Box plot distribution of data for the start time of surgery in group 
+SAT and deSAT. Data is also given for the clock time at which the 
+post oxygen saturation (SaO2) nadir occurred in group deSAT. 
+The median clock time for the postSaO2 nadir was 23:00 hr. 
+
+opioid administration immediately preceding the 
+episode (Intervalnadir) were calculated. Opioid dosing 
+was converted to equianalgesic morphine doses, such 
+that the relative potencies for codeine, fentanyl and 
+sufentanil were 0.1, 100 and 1,000 respectively.14 The 
+mean dose of opioid, administered in the initial three 
+hours, was calculated as the sum of the intraoperative 
+plus the first two postoperative hours (opioid-three 
+hours) dose. The mean dose of opioid, administered 
+in a 24-hr period during and following surgery (opioid-
+24) was also calculated. 
+
+Statistical analysis 
+
+The variables were analyzed using SAS for Windows 
+(version 8.02, SAS Institute, Cary, NC, USA). 
+Categorical data were summarized using frequencies 
+and continuous variables were reported as mean ± SD 
+or ranges. 
+
+Known risk factors namely young age, a low oxygen 
+saturation nadir and an associated medical condition, 
+were categorized as age risk (< 3 yr or $ 
+3 yr), oxygen 
+saturation (SaO2) nadir risk (< 80% or $ 
+80%) and associated 
+medical condition risk (yes vs no).3,4 Surgery performed 
+between 7:45 and 12:59 was designated 
+morning (AM) and after 13:00 was designated afternoon 
+(PM). The season for surgery performed between 
+October and March was assigned to winter and for 
+surgery performed between April and September was 
+assigned to summer. Since the majority of children 
+received postoperative opioids, opioid administration 
+could not be evaluated as an independent risk factor. 
+Opioid dosing, converted to morphine equivalents, was 
+treated as a continuous variable. 
+
+CANADIAN JOURNAL OF ANESTHESIA 
+
+The main outcome was the occurrence of desaturation 
+following adenotonsillectomy. Risk factors were 
+first evaluated with univariate analysis followed by 
+multivariate logistic regression.15 Associations were 
+tested by Chi squared statistics. 
+
+R
+RRe
+ees
+ssu
+uul
+llt
+tts 
+ss 
+
+There were 31 girls and 57 boys. The mean ± SD age 
+(yr) and weight (kg) were 4.6 ± 2.9 yr and 20.8 ± 14.5 
+kg, respectively. Twenty-seven percent (n = 24) of 
+children had an associated medical condition (asthma 
+= 13, cardiac = 2, neuromuscular = 1). The preoperative 
+SaO2 nadir was 77.1% ± 13.9 (range 20%–90%). 
+The preoperative OAH index was 21.5 ± 22.0 (range 
+5–142.2) events·hr–1. 
+
+The hospital stay was 38.6 ± 34.9 hr. The minimum 
+stay in hospital was eight hours. Sixty-six children 
+were discharged prior to 24 hr postoperatively. 
+Four children were discharged the same day of 
+surgery, 9.9 ± 1.4 hr after surgery. (SaO2 nadir = 
+82.8% ± 12.7, OAH index = 14.6 ± 12.3 events·hr–1). 
+Sixty-two children were discharged the AM following 
+surgery, mean stay in hospital was 23.4 ± 9.4 hr (SaO2 
+nadir = 79.0 ± 12%, OAH index = 16.2 ± 10.7 
+events·hr–1). 
+
+There were 63 (71.6%) patients who did not experience 
+postoperative desaturation (SAT group) and 25 
+(28.4%) children who did (deSAT group). The distribution 
+of known and potential risk factors is given in 
+Table I. Differences in age, weight, gender and the 
+presence of an associated medical condition were not 
+significant. The preoperative SaO2 nadir for the SAT 
+and deSAT groups was 80.8 ± 10.2% and 67.6 ± 
+17.5%, respectively (P < 0.05). The preoperative OAH 
+index was 15.8 ± 10.2 and 35.7 ± 34.6 events·hr–1, 
+respectively (P < 0.05). 
+
+Surgery was performed in the winter season in 45 
+(51%) children. The mean ± SD duration of surgery 
+was 49.1 ± 11.5 min. Differences in the duration of 
+surgery were not significant. Surgery was performed 
+in the AM in 63 (71.6%) children. The time of surgery 
+(24 hr clock) for groups SAT and deSAT was 11:24 ± 
+
+2.03 hr and 13:09 ± 2.7 hr, respectively. 
+The anesthetic technique varied. An iv induction 
+was used in 62.5% of children (n = 55). Propofol was 
+administered to 60 children whereas sodium pentothal 
+was used in 18. Anesthesia was maintained with isoflurane 
+(n = 23), halothane (n = 59) or sevoflurane (n = 
+4) and unrecorded in two. The trachea of all children 
+were intubated for the adenotonsillectomy. Atropine 
+was administered at induction of anesthesia in 63% (n 
+= 55) of children. Non-opioid adjuncts were administered 
+to 44 children (acetaminophen = 19, ketorolac 
+
+
+Koomson et al.: TIMING OF ADENOTONSILLECTOMY 
+
+TABLE 1 Risk factors for postadenotonsillectomy desaturation 
+
+Risk factor Group deSAT GroupSAT P-value 
+(n = 25) (n = 63) 
+Age 
+< 3 yr 10 19 NS 
+$ 
+3 yr 15 44 
+Associated medical condition 
+Yes 10 14 NS 
+No 15 49 
+SaO2 nadir 
+< 80% 16 21 P < 0.05 
+$ 
+80% 9 42 
+Clock time of surgery 
+PM 13 12 P < 0.05 
+AM 12 51 
+Time of year 
+Winter 10 35 NS 
+Summer 15 28 
+
+Two by two Table for known (age, medical conditions, obstructive 
+sleep apnea syndrome severity) and potential (time of day, season 
+of year) risk factors. Differences in the preoperative SaO2 nadir 
+during sleep and clock time of surgery were statistically significant 
+by Chi squared analysis. SaO2 = oxygen saturation; AM = morning; 
+PM = afternoon. 
+
+TABLE II Univariate analysis of risk factors for postadenotonsillectomy 
+respiratory complications 
+
+Potential risk factor OR 95% CI P-value 
+Age 
+$ 
+3 yr vs < 3 yr 0.65 0.25–1.70 0.376 
+Associated medical condition 
+yes vs no 2.33 0.86–6.32 0.091 
+SaO2 nadir 
+< 80% vs $ 
+80% 3.56 1.35–9.38 0.009 
+Time of year 
+Winter vs summer 0.53 0.21–1.37 0.188 
+Clock time of surgery 
+PM vs AM 4.60 1.68–12.58 0.002 
+Opioid dose 1.01 0.21–4.81 0.993 
+
+The odds ratio (OR) for a preoperative SaO2 nadir < 80% during 
+sleep and surgery performed in the afternoon were significant risk 
+factors by statistical criteria. Opioid dosing was treated as a continuous 
+variable. SaO2 = oxygen saturation; AM = morning; PM = 
+afternoon. 
+
+= 25). Seventy-one children received a muscle relaxant 
+(atracurium = 1, rocuronium = 43, vecuronium = 13, 
+succinylcholine = 14). Thirty-seven (65%) children 
+who had received a nondepolarizing muscle relaxant 
+did not receive a reversal agent. Seventy-six (86.4%) 
+children received an intraoperative opioid (morphine 
+= 6, fentanyl = 37, sufentanil = 31, codeine = 2). 
+Differences in anesthetic management between the 
+SAT and deSAT groups were not significant. 
+
+In the postoperative period 87 children received 
+acetaminophen. Antiemetics were administered to a 
+minority of children (droperidol = 4, dimenhydrinate 
+= 1). Seven (8%) children (group SAT = 3, group 
+deSAT = 4) did not require any postoperative opioid 
+in the first 24 hr. Sixty-nine (78.4%) children received 
+an opioid in the first two postoperative hours (morphine 
+= 66, meperidine = 1, codeine = 2). Oral 
+codeine was the most frequently administered opioid 
+beyond the initial two postoperative hours (codeine = 
+62, morphine = 1). 
+
+The main outcome was the occurrence of postoperative 
+desaturation. Univariate analysis of known3,4 and 
+potential risk factors identified two risk factors: the preoperative 
+SaO2 nadir risk (< 80% vs $ 
+80%) and the time 
+of day of surgery (PM vs AM; Table II). These risk factors 
+remained significant when analyzed with a multivariate 
+analysis. In addition, multivariate analysis gave 
+an OR for the season (winter vs summer) of 0.27, (95% 
+confidence interval 0.08–0.94, P = 0.04). 
+
+Secondary analysis of the mean number of desaturations 
+recorded for the first postoperative 24-hr period, 
+was 2.0 ± 1.0. Overall the value for the postSaO2 
+nadir was 16.2 ± 13.0% higher than the preSaO2 nadir. 
+The postdeSAT1st and postSaO2 nadir were 90.4 ± 
+4.3% and 88.6 ± 4.6% respectively. The median clock 
+time for the first and minimum desaturation was 
+
+17:30 and 23:00, respectively (Figure 1). The median 
+time interval between surgery and respiratory complications 
+was 3.3 hr (range 67 min to 21 hr). The time 
+interval between the first and minimum postoperative 
+desaturation ranged from 0 to 13 hr (2.5 ± 3.8 hr). 
+Eighteen (72%) patients were asleep at the time of 
+postdeSAT1st and 21 (84%) patients were asleep at the 
+time of the postSaO2 nadir. 
+Four (16%) patients had received no opioid prior to 
+the postoperative desaturation. The mean dose for 
+opioid-three hours (morphine equivalents, mg·kg–1) 
+was 0.21 ± 0.13 and for opioid 24 hr (morphine 
+equivalents, mg·kg–1) was 0.48 ± 0.30. Differences in 
+opioid dosing between groups SAT and deSAT were 
+not significant. The time interval between opioid 
+administration and the first postoperative desaturation 
+was 4.2 ± 4.5 hr (range 0.5–17.3 hr). 
+
+The medical interventions required in the deSAT 
+group were O2 administration (n = 25) and airway 
+instrumentation (oropharyngeal airway = 2, bag and 
+mask ventilation = 4, reintubation = 1). 
+
+D
+DDi
+iis
+ssc
+ccu
+uus
+sss
+ssi
+iio
+oon 
+nn 
+
+This report has several limitations inherent in a retrospective 
+review. Recording of events may not be complete 
+and it is likely that we under report the true incidence of 
+
+
+desaturation. In addition, it was not possible to report 
+reliable data on a history of recent upper airway infections, 
+which might have influenced the occurrence of 
+desaturation following surgery.16,17 We used a threshold 
+of 95% to define postoperative desaturation, since this 
+threshold is a criterion for discharge in our institution. 
+Overall the postoperative saturation nadir increased 16% 
+from the preoperative SaO2 nadir, a finding which is in 
+agreement with that of Helfaer et al.18 However, one 
+third of children in our study desaturated < 95% on the 
+first postoperative night and were given O2. 
+
+Several factors may have contributed to desaturation 
+in the postoperative period, including severity of 
+OSAS, and the time of day at which surgery occurred. 
+
+OSAS severity 
+
+Although we sought to restrict the analysis to a 
+homogenous population of children with severe OSAS, 
+the fact that preSaO2 nadir was lower and the OAH 
+index higher in the deSAT group suggests our population 
+of severe OSAS was not as homogeneous a population 
+as intended. In this regard, there is an emerging 
+consensus that OSAS severity is an independent risk factor 
+for respiratory morbidity.3,4,18,19 Furthermore the 
+criteria for stratification of OSAS disease severity for 
+diagnosis and prediction of postoperative respiratory 
+morbidity probably differ. As an example, the criterion 
+for a diagnosis of severe OSAS is an OAH index > 5 
+events·hr,–1 20 whereas that for prediction of postadenotonsillectomy 
+respiratory morbidity is an OAH index > 
+10 events·hr–1.4 There is a need to develop criteria 
+applicable to an operative setting which define perioperative 
+risk stratification in OSAS. 
+
+Time of day of surgery 
+
+Surgery performed in the AM in children with severe 
+OSAS was associated with a lower risk for postoperative 
+desaturation compared with those having their 
+operation in the PM and we propose two explanations 
+for this finding. First, children who are operated on in 
+the AM have a longer time to recover from the effects 
+of anesthesia before their first postoperative nocturnal 
+sleep. Second, postoperative children may be better 
+observed by day staff and alert parents early in the day. 
+
+The shortened time interval, between postoperative 
+morphine dosing and bedtime, imposed by PM 
+surgery may have contributed to the incidence of 
+postoperative desaturation, given the exaggerated respiratory 
+depression to opioids which has recently been 
+reported in children with severe OSAS.21 It is noteworthy 
+that the majority of desaturation (72%) 
+occurred during sleep. Pediatric OSAS is a disease of 
+rapid eye movement (REM) sleep. Proportionally, 
+
+CANADIAN JOURNAL OF ANESTHESIA 
+
+REM sleep increases and respiratory function is at its 
+nadir, later in the sleep period.12,22 There is a strong 
+possibility that the combination of opioids and sleep 
+promote desaturation following adenotonsillectomy 
+in children with severe OSAS. 
+
+A recent study reported that hospital admissions 
+and surgeries performed on weekends were associated 
+with a higher mortality than on weekdays, a finding 
+attributed to lower staffing patterns on weekends.23 
+The median clock time at which the postSaO2 nadir 
+occurred was 23:00 hr, coincident with the lowest 
+staffing ratio. The child with severe OSAS may benefit 
+from the close supervision afforded by a high nurse 
+and physician staffing ratio. 
+
+C
+CCo
+oon
+nnc
+ccl
+llu
+uus
+ssi
+iio
+oon 
+nn 
+
+Children with severe OSAS whose surgery is performed 
+in the AM are less likely to desaturate following 
+adenotonsillectomy than children whose surgery is 
+performed in the PM. Surgery performed in the AM, 
+could represent a cost-effective risk reduction strategy 
+to decrease postadenotonsillectomy respiratory complications 
+in children with severe OSAS which merits 
+prospective study. 
+
+R
+RRe
+eef
+ffe
+eer
+rre
+een
+nnc
+cce
+ees 
+ss 
+
+1 
+Rosenfeld RM, Green RP. Tonsillectomy and adenoidectomy: 
+changing trends. Ann Otol Rhinol 
+Laryngol 1990; 99: 187–91. 
+
+
+2 
+Pickering AE, Bridge HS, Nolan J, Stoddart PA. 
+Double-blind, placebo-controlled analgesic study of 
+ibuprofen or rofecoxib in combination with paracetamol 
+for tonsillectomy in children. Br J Anaesth 2002; 
+
+88: 72–7. 
+3 
+Rosen GM, Muckle RP, Mahowald MW, Goding GS, 
+Ullevig C. Postoperative respiratory compromise in 
+children with obstructive sleep apnea syndrome: can it 
+be anticipated? Pediatrics 1994; 93: 784–8. 
+
+4 
+McColley SA, April MM, Carroll JL, Naclerio RM, 
+Loughlin GM. Respiratory compromise after adenotonsillectomy 
+in children with obstructive sleep apnea. 
+Arch Otolaryngol Head Neck Surg 1992; 118: 940–3. 
+
+5 
+Wilson K, Lakheeram I, Morielli A, Brouillette R, 
+Brown K. Can assessment for obstructive sleep apnea 
+help predict postadenotonsillectomy respiratory complications? 
+Anesthesiology 2002; 96: 313–22. 
+
+6 
+Parnis SJ, Barker DS, Van Der Walt JH. Clinical predictors 
+of anaesthetic complications in children with 
+respiratory tract infections. Paediatr Anaesth 2001; 11: 
+29–40. 
+
+7 
+Newland MC, Ellis SJ, Lydiatt CA, et al. Anesthetic-
+related cardiac arrest and its mortality. A report covering 
+72,959 anesthetics over 10 years from US teaching 
+
+
+Koomson et al.: TIMING OF ADENOTONSILLECTOMY 
+
+hospitals. Anesthesiology 2002; 97: 108–15. 
+
+8 
+Katz ES, Greene MG, Carson KA, et al. Night-to-night 
+variability of polysomnography in children with suspected 
+obstructive sleep apnea. J Pediatr 2002; 140: 
+589–94. 
+
+9 
+Jacob SV, Morielli A, Mograss MA, Ducharme FM, 
+Schloss MD, Brouillette RT. Home testing for pediatric 
+obstructive sleep apnea syndrome secondary to adenotonsillar 
+hypertrophy. Pediatr Pulmonol 1995; 20: 
+241–52. 
+
+10 
+Brouillette RT, Morielli A, Leimanis A, Waters KA, 
+Luciano R, Ducharme FM. Nocturnal pulse oximetry 
+as an abbreviated testing modality for pediatric 
+obstructive sleep apnea. Pediatrics 2000; 105: 405–12. 
+
+11 
+Waters KA, Forbes P, Morielli A, et al. Sleep-disordered 
+breathing in children with myelomeningocele. J Pediatr 
+1998; 132: 672–81. 
+
+12 
+Morielli A, Ladan S, Ducharme FM, Brouillette RT. 
+Can sleep and wakefulness be distinguished in children 
+by cardiorespiratory and videotape recordings? Chest 
+1996; 109: 680–7. 
+
+13 
+Lafontaine VM, Ducharme FM, Brouillette RT. Pulse 
+oximetry: accuracy of methods of interpreting graphic 
+summaries. Pediatr Pulmonol 1996; 21: 121–31. 
+
+14 
+Tobias JD. Pain management for the critically ill child 
+in the pediatric intensive care unit. In: Schechter NL, 
+Berde CB, Yaster M (Eds.). Pain in Infants, Children, 
+and Adolescents, 2nd ed. Philadelphia, PA: Lippincott 
+Williams & Wilkins; 2003: 807–40. 
+
+15 
+Hosmer DW, Lemeshow S. Applied Logistic Regression, 
+2nd ed. New York: A Wiley-Interscience Publication; 
+2000. 
+
+16 
+Cohen MM, Cameron CB, Duncan PG. Pediatric anesthesia 
+morbidity and mortality in the perioperative 
+period. Anesth Analg 1990; 70: 160–7. 
+
+17 
+Cohen MM, Cameron CB. Should you cancel the operation 
+when a child has an upper respiratory tract infection? 
+Anesth Analg 1991; 72: 282–8. 
+
+18 
+Helfaer MA, McColley SA, Pyzik PL, et al. 
+Polysomnography after adenotonsillectomy in mild 
+pediatric obstructive sleep apnea. Crit Care Med 1996; 
+
+24: 1323–7. 
+19 
+Suen JS, Arnold JE, Brooks LJ. Adenotonsillectomy for 
+treatment of obstructive sleep apnea in children. Arch 
+Otolaryngol Head Neck Surg 1995; 121: 525–30. 
+
+20 
+Marcus CL, Omlin KJ, Basinki DJ, et al. Normal 
+polysomnographic values for children and adolescents. 
+Am Rev Respir Dis 1992; 146: 1235–9. 
+
+21 
+Waters KA, McBrien F, Stewart P, Hinder M, 
+Wharton S. Effects of OSA, inhalational anesthesia, and 
+fentanyl on the airway and ventilation of children. 
+J Appl Physiol 2002; 92: 1987–94. 
+
+22 
+Goh DY, Galster P, Marcus CL. Sleep architecture and 
+
+respiratory disturbances in children with obstructive 
+sleep apnea. Am J Respir Crit Care Med 2000; 162: 
+682–6. 
+
+23 
+Bell CM, Redelmeier DA. Mortality among patients 
+admitted to hospitals on weekends as compared with 
+weekdays. N Engl J Med 2001; 345: 663–8. 
+
+

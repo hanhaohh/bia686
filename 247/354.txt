@@ -1,0 +1,1028 @@
+Improving Pediatric Compliance with Positive Airway Pressure Therapy: the 
+Impact of Behavioral Intervention 
+
+Kristine L. Koontz, PhD1; Keith J. Slifer, PhD1; Marilyn D. Cataldo, MA1; Carole L. Marcus, MBBCh2 
+
+1The Kennedy Krieger Institute and Johns Hopkins University School of Medicine; 2The Eudowood Division of Pediatric Respiratory Sciences, Johns 
+
+Hopkins University 
+
+Study Objective: The purposes of this study were (1) to describe behavior 
+interventions provided to improve compliance with positive airway 
+pressure (PAP) therapies in children with obstructive sleep apnea, (2) to 
+survey physician and caregiver satisfaction with these interventions, and 
+
+(3) to present preliminary outcome data on the effects of these interventions. 
+Design: Retrospective, descriptive analysis. 
+Setting: Pediatric psychology consultation service at a university-affiliated 
+rehabilitation hospital. 
+Participants: 20 children (aged 1-17 years) with obstructive sleep apnea, 
+referred by physicians for noncompliance with PAP. 
+Interventions: Patients self-selected into 1 of 3 groups: (1) a group 
+receiving a 1.5-hour consultation and recommendation session (CR+), (2) 
+a group receiving consultation and recommendations plus a course of 
+behavior therapy (BT), and (3) a group for whom behavior therapy was 
+recommended after the consultation and recommendations, but the family 
+did not follow-up (CR-). 
+Results: Prior to behavior intervention, none of the children were consistently 
+wearing the PAP equipment. After intervention, 75% of children 
+who received behavior intervention (CR+ and BT groups) successfully tolerated 
+PAP with increased hours of documented usage. This was in contrast 
+to children whose families declined recommended behavior therapy 
+(CR- group), of whom 0% increased their usage of PAP. High satisfaction 
+ratings were obtained from referring physicians and patient caregivers for 
+children in the CR+ and BT groups. 
+Conclusions: The results are encouraging and support the importance of 
+behavior analysis and therapy for increasing compliance and making the 
+benefits of PAP available to a greater number of children. 
+Citation: Koontz KL; Slifer KJ; Cataldo MD; Marcus CL. Improving pediatric 
+compliance with positive airway pressure therapy: the impact of 
+behavioral intervention. SLEEP 2003;26(8):1010-5. 
+
+INTRODUCTION 
+the mask, physiologic arousal from struggling, or both. They begin to 
+experience anxiety and distress at the mention or sight of the equipment,
+
+OBSTRUCTIVE SLEEP APNEA (OSA) IS A SIGNIFICANT CAUSE 
+
+and they learn that physical and verbal resistance to PAP can cause the 
+
+OF MORBIDITY IN CHILDREN WITH COMPLICATIONS, 
+
+caregiver to delay or give up on the use of PAP. 
+
+INCLUDING FAILURE TO THRIVE, DEVELOPMENTAL DELAY, 
+
+Behavior analysis and therapy techniques have been used to teach
+
+AND COR PULMONALE.1 Although surgical procedures such as ade
+
+
+children behaviors that facilitate the clinical management of their medi
+
+
+notonsillectomy are successful in alleviating OSA in many children with 
+
+cal conditions (eg, decreasing abnormal movements in neurologic disor
+
+
+adenotonsillar hypertrophy, some children have persistent OSA after the 
+
+ders,5 teaching tracheostomy self-care6 or self-catheterization,7 or train
+
+
+operation.2 These children, like those who have other predisposing fac
+
+
+ing motion suppression for neuroimaging8 or radiation treatments9).
+
+tors for OSA (eg, craniofacial anomalies, neuromuscular weakness, or 
+
+Pediatric pulmonary and behavioral psychology specialists have used
+
+obesity) require alternative treatments. Nasal continuous positive airway 
+
+behavior training to improve adherence to PAP in 20 young and /or 
+
+pressure (CPAP) was introduced nearly 2 decades ago and is now wide-
+
+developmentally delayed children with OSA. This article describes the 
+
+ly used with adults who have OSA.3 Despite encouraging results with 
+
+behavior program and presents preliminary efficacy-outcome data along 
+
+adults, positive airway pressure (PAP) is rarely used with younger chil
+
+
+with results of physician and caregiver satisfaction surveys.
+
+dren or those with developmental disabilities. A 1995 study4 examining 
+the safety and efficacy of CPAP found that it was safe for use with chil-
+
+METHODS
+
+dren and effective in 86% of children with OSA. When CPAP was not 
+successful, it was because of poor compliance in 92% of the cases. Patient Sample and Setting 
+To benefit from PAP, the patient must wear a snuggly fitting mask that 
+
+The patients were 20 physician-referred children with OSA from 2 
+
+forces air under pressure into the nostrils during both inhalation and 
+
+major urban medical centers. All were prescribed bilevel PAP and 
+
+exhalation when sleeping. Positive airway pressure can be particularly 
+
+referred for behavior training to increase PAP compliance. These “dif
+
+
+difficult for children with developmental delays, and for those with anx
+
+
+ficult” cases represented approximately 10% of the pediatric pulmonary
+
+iety or behavior problems. These children often verbally and physically 
+
+patients prescribed PAP for the management of OSA. Their characteris
+
+
+resist caregivers’ efforts to put on the mask, and they may develop con-
+
+tics are presented in Table 1. The caregivers were mothers (65%), grand
+
+
+ditioned anxiety because of poorly fitting equipment and repeated asso
+
+
+parents (20%), fathers (10%), and foster parents (5%). Family ethnicity
+
+ciation of the sight, sound, and sensation of PAP with discomfort from 
+
+was African American (55%), Caucasian (30%), Hispanic (5%), and 
+other (10%). Of the 20 patients referred, 55% received behavior therapy 
+(BT), 30% received brief behavior consultation (1 session lasting 1.5
+
+Disclosure Statement 
+
+hours) and recommendations (CR+), and 15% declined behavior thera-
+
+Dr. Carole Marcus received unrelated support for research from ResMed, Inc. 
+
+py when it was recommended after brief behavior consultation (CR-). 
+There was a trend for CR+ patients to be younger than BT patients (XCR+
+
+Submitted for publication January 2003 
+
+= 3.83, SD = 4.8; XBT = 8.6, SD = 4.9; P = .06). Behavior treatment was
+
+Accepted for publication August 2003 
+
+provided in a hospital or clinic room or at home using the prescribed
+
+Address correspondence to: Kristine Koontz, Hempfield Behavioral Health, 251 
+
+PAP equipment. 
+
+Wiconisco Street, Harrisburg, PA 17111; Tel: 717-221-8004 x 200; 
+E-mail: Kkoontzhca@cs.com 
+
+SLEEP, Vol. 26, No. 8, 2003 
+1010 Improving Pediatric Compliance With PAP—Koontz et al 
+
+
+Measures 
+
+Behavior Assessment 
+
+Each child was observed during an inpatient session or outpatient 
+visit. The caretaker was asked to use her or his customary child behavior 
+management strategies and to put the PAP equipment on the child as 
+trained by pulmonary, home health agency staff, or both. A task analysis 
+of child behavior necessary for PAP compliance was developed by 
+breaking this complex behavior into an ordered sequence of component 
+steps. Child compliance with each step was recorded, and the percentage 
+of steps with the child complying was calculated. A copy of the PAP 
+Task Analysis is available from the authors and is included in the electronic 
+version of this paper (Appendix A). 
+
+Meter Readings of PAP Usage 
+
+A retrospective analysis of patient charts was conducted. The mean 
+hours per day of wearing PAP as read from the equipment usage meter 
+and documented in the chart was calculated for 3 time points: (1) before 
+behavior intervention, (2) during the behavior intervention, and (3) after 
+the behavior intervention (mean posttreatment assessment interval was 
+
+25.7 months, SD = 22.9). 
+Table 1—Patient Diagnosis and Levels of Functioning 
+
+Participant # 
+Medical Estimated Age, y PAP 
+Diagnoses Cognitive setting, 
+& Stressors* Function cm H2O 
+
+Inpatient 
+
+1 
+Jeunes Borderline 6 8/4 
+syndrome, 
+kidney failure, 
+legally blind 
+
+2 Chronic Average 1 10/4 
+pneumonia 
+3 Myelomeningocele, Borderline 13 12/6 
+
+obesity 
+4 Myelomeningocele Borderline 14 8/2 
+5 Cerebrovascular Average 8 10/4 
+
+accident 
+
+Outpatient 
+
+6 
+Achondroplasia Average 2 8/4 
+
+7 
+Attention deficit Average 7 14/8 
+disorder, 
+oppositional 
+defiant disorder 
+
+8 — Average 1 10/4 
+9 — Average 2 8/2 
+10 Myelomeningocele, Mild MR 2 10/4 
+
+acute stress reaction 
+11 Treacher Collins Moderate MR 9 8/0 
+syndrome 
+
+12 
+Turner syndrome, Mild MR 1 12/8 
+nasopharyngeal 
+stenosis, 
+hearing loss 
+
+13 
+Communication Average 4 6/0 
+
+disorder 
+14 Down syndrome Moderate MR 5 10/6 
+15 Cerebral palsy Severe MR 15 12/6 
+16 Chronic heart and Borderline 3 6/0 
+
+lung failure 
+17 Down syndrome Moderate MR 12 14/8 
+18 Cerebral palsy Severe MR 6 12/6 
+19 Cerebrovascular Moderate MR 7 4/0 
+
+accident; 
+Down syndrome 
+20 Down syndrome Moderate MR 13 14/8 
+
+*diagnoses in addition to OSA. 
+PAP refers to positive airway pressure; MR, mental retardation. 
+
+
+Caregiver and Physician Satisfaction 
+
+The Caregiver Questionnaire had 8 items. It was developed by the 
+authors to measure caregiver perception of child behavior and medical 
+status, as well as the level of intrusiveness and difficulty of the recommended 
+intervention. Physician satisfaction with whether or not the 
+behavior intervention resulted in adequate PAP compliance was assessed 
+using categorical ratings (successful or unsuccessful) of compliance and 
+treatment efficacy. (The caregiver questionnaire is available from the 
+authors and is included in the electronic version of this paper (Appendix 
+B). 
+
+Intervention Procedures 
+
+Behavior Consultation 
+
+Initial compliance data were obtained during a behavior consultation 
+session. This consisted of a structured interview and direct observation 
+of the caregiver’s attempt to place the equipment on the child. The caregiver 
+was asked to identify the child’s favorite activities that might be 
+used to relax, distract, and motivate the child (small prizes, snacks, 
+games, and videotapes). Individualized behavior recommendations were 
+provided in writing to the caregivers. The caregivers were instructed to 
+implement the recommendations for 1 week and to record notes on the 
+child’s cooperation. The need for ongoing behavior therapy was determined 
+based on the results of this initial trial. Behavior therapy was recommended 
+for any caregiver who was unsuccessful at implementing the 
+behavior recommendations. A retrospective analysis of patients revealed 
+that after the behavior consultation, children and caregivers could be categorized 
+as (1) those who effectively implemented the intervention 
+(CR+), (2) those who were not able to effectively implement the intervention 
+and who declined recommended behavior therapy (CR-), and (3) 
+those who completed the recommended behavior therapy (BT). The 
+CR+ and CR- groups received only 1 session, which included the behavior 
+consultation and presentation of recommendations. The BT group 
+averaged 6 sessions (SD = 3.1) with multiple sessions conducted within 
+a 1-hour appointment. 
+
+Behavior Therapy 
+
+Children in the BT group participated in behavior-rehearsal sessions 
+during which PAP-related stimuli were presented with gradually increasing 
+proximity and duration but were also associated with positive events. 
+The therapy techniques described below were integrated within the 
+rehearsal sessions. 
+
+Positive reinforcement refers to systematic presentation of a stimulus 
+or event contingent on a target behavior resulting in a subsequent 
+increase in the frequency of that target behavior. Differential positive 
+reinforcement involved consistently reinforcing some behaviors (eg, 
+cooperation with PAP) with praise and not praising others (eg, removal 
+of the mask). At the start of each session, the child was asked to choose 
+1 from an assortment of prizes or activities to earn by “listening, following 
+instructions, and not trying to take off the mask.” Praise was provided 
+for each step completed in the PAP task analysis. For younger or 
+developmentally delayed children with a limited attention span and difficulty 
+delaying gratification, an immediate and tangible reinforcer 
+(token or sticker) was awarded, along with praise for completion of each 
+step (stickers were exchanged for the prize at the end of the appointment). 
+Gradually, the requirements for reinforcement were increased 
+until the child willingly got into position, helped to put on the equipment, 
+and quietly tolerated the mask and air pressure until either falling 
+asleep or the session was ended by the therapist. 
+
+Graduated exposure was conducted by presenting the PAP equipment 
+and its application 1 step at a time according to the sequence outlined in 
+the PAP task analysis and at a pace that challenged but did not overly 
+distress the child. 
+
+Counter conditioning was conducted by prompting and praising the 
+child’s participation in a favorite and distracting activity (music, conver-
+
+SLEEP, Vol. 26, No. 8, 2003 
+1011 Improving Pediatric Compliance With PAP—Koontz et al 
+
+
+sation, stories, movie, or computer game). The activity was used to relax 
+the child, then potentially distressing PAP equipment and sensations 
+were presented 1 at a time while praising the child’s tolerance of this 
+stimulation. This planned pairing of comforting and feared stimuli was 
+continued until the patient comfortably tolerated all of the sensations and 
+steps in the PAP task analysis. 
+
+Escape or avoidance prevention strategies were implemented by the 
+therapist or caregiver to teach the child that attempts to avoid or remove 
+the PAP equipment no longer would be effective. The child’s vocal 
+protests were ignored. The therapist, speaking in a calm voice, intermittently 
+reassured the child that “you can do it, you will be OK, etc.” The 
+child’s attempts to remove the mask were physically interrupted, and the 
+child’s hands were directed away from the mask and toward the activity 
+being used for counter conditioning. If the child removed the mask, it 
+was immediately put back in place by the therapist or caregiver. 
+
+Caregiver and Staff Training 
+
+The therapist implemented treatment during initial sessions when the 
+child was most resistant to the PAP. At first, the caregiver and therapist 
+worked as a team with the caregiver following instructions and demonstrations 
+by the therapist. As the caregiver became proficient with the 
+routine, the therapist slowly withdrew from the hands-on aspect of the 
+treatment. Caregivers were trained to collect data on the child’s compliance 
+with PAP, which provided a means of checking staff or caregiver 
+compliance and identifying the parts of the protocol that were especially 
+difficult for the caregiver. The form also prompted and guided the 
+caregiver’s behavior in the absence of the therapist. Written behavior 
+guidelines for helping children tolerate PAP were also given to caregivers. 
+This information is available from the authors and is included in 
+the electronic version of this paper (Appendix C). 
+
+Statistical Analyses 
+
+This study was a retrospective analysis involving a small number of 
+participants and is therefore limited in possible type and interpretation of 
+
+analyses. Descriptive statistics (means and SD) were initially used to test 
+for between-group differences on demographic variables. Mean hours of 
+equipment usage were analyzed using a repeated measures analysis of 
+variance and Tukey posthoc difference testing (P < .05) when appropriate. 
+
+
+RESULTS 
+
+Figure 1 presents mean hours of compliance per night recorded at 
+baseline, during treatment, and after treatment. Patients in both BT and 
+CR+ groups displayed clinically significant gains in the amount of time 
+PAP was worn. None of the 3 groups differed in mean hours of PAP 
+usage at baseline, and the CR+ and BT groups did not differ significantly 
+during the treatment and posttreatment phases (Tukey HSD test > 
+.05). The CR+ group displayed significantly longer PAP usage at posttreatment 
+when compared to the CR- group (Tukey HSD test < .05). 
+Table 2 shows that after treatment, all patients in the CR+ group were 
+compliant with PAP and displaying good OSA management (OSA had 
+resolved in 1 patient). Of the BT patients, 8 of the 11 (73%) reportedly 
+wore the PAP whenever sleeping. Of these 8, 1 family elected tracheostomy 
+despite the child’s adequate compliance (participant #7), and 
+1 child no longer required PAP after a follow-up sleep study indicated 
+that the OSA had resolved (participant #9). Of the 3 BT children with 
+poor compliance, 2 displayed increases in PAP usage but not enough to 
+effectively manage their OSA, and 1 child died in a house fire. 
+Compliance for the CR- group was low. Of the 3 children in the CR-
+group, 1 child’s OSA was reportedly resolved (participant #13), 1 child 
+died of respiratory failure (participant #16), and 1 child remained on 
+PAP but continued to display poor OSA management. 
+
+The second column in Table 2 distinguishes between sessions required 
+to initially obtain child compliance (number shown in parentheses) and 
+the total number of sessions. On average, children receiving BT 
+achieved compliance within 3 rehearsal sessions conducted during 1 to 
+3 appointments. 
+
+Physicians’ and therapists’ ratings were highest for patients receiving 
+CR+, with 100% of physicians expressing satisfaction and therapists rat
+
+
+ing both child cooperation and parent fol
+
+
+low-through as satisfactory for all. 
+
+Physicians’ ratings of PAP usage were sat
+
+
+isfactory for 8 of 11 (73%) of the BT par
+
+
+ticipants. For the 3 participants receiving 
+
+poor ratings (# 4, 11, and 17), the behavior 
+
+therapist had recorded the child’s skills as 
+
+satisfactory but caregiver follow-through 
+
+was poor. Only 1 (33%) of the CR- partic
+
+
+ipants received a satisfactory rating of 
+
+PAP usage from the physician, and the 
+
+child’s OSA had resolved. 
+
+Of the 15 caregivers who experienced 
+success, 12 responded to the satisfaction 
+survey, and 83% of them reported following 
+all of the behavior recommendations. 
+They also reported immediate changes in 
+their child’s behavior after she or he had 
+worn the PAP on a regular basis, including 
+improvement in mood (92%), increased 
+alertness (83%), more restful sleep (75%), 
+and seemingly enhanced learning abilities 
+(58%). Of the 5 cases rated as poor by 
+physicians, 3 caregivers responded. Two 
+of these reported difficulties following the 
+behavior recommendations and did not 
+establish a nighttime routine or a reinforcement 
+program. These 2 caregivers 
+reported that if their child removed the 
+mask, they often did not replace it in order 
+to avoid a physical and emotional struggle. 
+
+Figure 1— The 3 groups included (1) a group receiving a 1.5-hour consultation and recommendation session (CR+), (2) a group 
+receiving consultation and recommendations plus a course of behavior therapy (BT), and (3) a group for whom behavior therapy was 
+recommended after the consultation and recommendations but the family did not follow-up (CR-). Repeated measures analysis of 
+variance (F = 33.7; P < .001). The posttreatment Tukey HSD for CR+ vs CR- was < .05; all other comparisons were NS. 
+SLEEP, Vol. 26, No. 8, 2003 1012 Improving Pediatric Compliance With PAP—Koontz et al 
+
+
+
+The third caregiver reported that implementing the PAP routine produced 
+an “emotional struggle” and required “too much time.” Therefore 
+the family had chosen surgery for their child. 
+
+DISCUSSION 
+
+Data from pediatric pulmonary clinic records, behavior assessments, 
+and caregiver reports were examined to determine the efficacy of behavior 
+interventions targeting PAP compliance in children with OSA. Prior 
+to behavior intervention, none of the children were consistently wearing 
+the PAP equipment. After intervention, 75% of children who received 
+behavior intervention (CR+ and BT groups) were able to successfully 
+tolerate PAP and evidenced increased documented hours of usage. This 
+was in contrast to children whose families declined recommended 
+behavior therapy (CR- group), of whom 0% increased their successful 
+usage of PAP. Both the CR+ and BT patients displayed adequate posttreatment 
+compliance, with patients averaging approximately 8 hours 
+and 6 hours per night of PAP use, respectively. Compliance with PAP 
+appeared to be influenced by the fit of the equipment, the child’s adaptation 
+to the equipment, and caregiver follow-through when the child 
+became distressed and removed the equipment. 
+
+Compliance leading to effective OSA management was trained in a 
+short period of time, and some patients achieved compliance with only 
+90 minutes of behavior consultation and written recommendations. 
+These results are especially encouraging because the patients in this 
+study were the most challenging of cases (those who had been referred 
+for behavior intervention for PAP noncompliance). If routinely provided 
+prospectively, behavior training may prevent compliance problems for 
+many children. 
+
+This was not an experimentally controlled study. Families were not 
+randomly assigned to groups but, instead, self-selected the behavior ser
+
+
+vices they would accept. On average, children in the CR+ group were 
+younger and appeared to have less-challenging behavior problems (parents 
+of children with more-challenging behavior problems were offered 
+additional behavior therapy sessions). Younger children may respond 
+more quickly to behavior intervention because caregivers can implement 
+the recommendations more effectively with younger children who are 
+easier to physically guide and to block from pulling off the mask. The 
+greater mean hours of usage for the CR+ compared to the BT group 
+might have been a function of younger children sleeping more hours. 
+Only a few caregivers refused BT. One common characteristic across 
+these caregivers was their statements that the child really did not need 
+the PAP, even after being told about the risks associated with untreated 
+OSA. 
+
+Physicians were enthusiastic about the results of the CR+ group, with 
+100% of all cases described as successful. The CR+ is appealing for 
+many reasons. First, it required only 90 minutes of consulting time, was 
+relatively inexpensive (approximately $200-$250), and was noninvasive 
+and children typically enjoyed the sessions. The BT was also highly 
+regarded, and despite the fact that children in this group likely had more 
+pervasive behavior problems, 73% of the cases were rated as satisfactory. 
+The BT requires more time (and expense) but appears to be an effective 
+alternative for families who require more time or assistance in learning 
+to manage their child’s resistance to PAP. Results from the CR-
+group indicated that there are some patients and families (15% of our 
+sample) who could benefit from BT but will decline the services. 
+
+In most cases, the caregivers were receptive to and satisfied with the 
+behavior interventions. They also reported positive changes in their 
+child’s sleep, mood, and functioning. Caregivers in the CR+ group differed 
+from those in the BT group in terms of difficulty implementing the 
+protocols and the amount of time they spent in treatment. When compared 
+to the BT group, the CR+ group experienced progress with treat-
+
+Table 2—Positive Airway Pressure Compliance, Ratings and Patient Status as a Function of Intervention 
+
+PAP Compliance 
+Group Participant # Sessions, no.* Preintervention, Postintervention, Child Parent/Staff Management Patient 
+h/night† h/night† Cooperation Follow through of OSA status 
+and Skills 
+
+BT 
+1 
+3 
+4 
+5 
+7 
+9 
+10 
+1117 
+15 
+20 
+10 (4) 
+7 (4) 
+9 (6) 
+8 (3) 
+2 
+7 (3) 
+2 
+9 (4) 
+5 (2) 
+2 
+3 (1) 
+0 
+1.5 
+0 
+1 
+2 
+0 
+0 
+0 
+0 
+0 
+4 
+8 
+5 
+0 
+6 
+7 
+12.7 
+8.5 
+1.5 
+3 
+4.5 
+8.5 
+S 
+S 
+S 
+S 
+S 
+S 
+S 
+S 
+S 
+S 
+S 
+S 
+S 
+poor 
+S 
+S 
+S 
+S 
+poor 
+poor 
+S 
+S 
+S 
+S 
+poor 
+S 
+S 
+S 
+S 
+poor 
+poor 
+S 
+S 
+Tolerating PAP 
+Tolerating PAP 
+Deceased 
+Tolerating PAP 
+Tracheostomy 
+OSA resolved 
+Tolerating PAP 
+surgery 
+UPPP surgery 
+Tolerating PAP 
+Tolerating PAP 
+CR+ S S S 
+2 
+6 
+8 
+12 
+14 
+18 
+1 
+1 
+1 
+1 
+1 
+1 
+0 
+0 
+2.8 
+2 
+3 
+2.5 
+9 
+10.5 
+11 
+6 
+7.5 
+7.5 
+S 
+S 
+S 
+S 
+S 
+S 
+S 
+S 
+S 
+S 
+S 
+S 
+S 
+S 
+S 
+S 
+S 
+S 
+Tolerating PAP 
+Tolerating PAP 
+OSA resolved 
+Tolerating PAP 
+Tolerating PAP 
+Tolerating PAP 
+CR-
+
+13 1 0 0 unknown unknown S OSA resolved 
+16 1 2 0 S poor poor Deceased 
+19 1 8 2 unknown unknown poor Poor 
+Compliance 
+
+*The number in parentheses is the number of sessions necessary for the child to become 100% cooperative with positive airway pressure (PAP), the other number 
+is the total behavior therapy sessions provided. 
+
+†For preintervention and postintervention columns, the data are displayed by mean number of hours per night that PAP was worn during sleep hours. Data for 
+hours spent wearing the PAP were taken from clinic meter readings. 
+OSA refers to obstructive sleep apnea; BT, the group receiving consultation and recommendations plus a course of behavior therapy; S, satisfactory; UPPP, uvulopalatopharyngoplasty; 
+CR+, the group receiving a 1.5-hour consultation and recommendation session; CR-, the group for whom behavior therapy was recommended 
+after the consultation and recommendations but the family did not follow-up. 
+ment almost immediately, 
+whereas the 
+BT group typically 
+experienced success 
+after 2 to 3 sessions. 
+The majority of 
+caregivers from 
+both groups reported 
+that the most 
+helpful aspect of the 
+program was “individually 
+tailored 
+treatment.” In addition 
+to treatment for 
+PAP, BT caregivers 
+reported valuing the 
+support and training 
+of the behavior psychologist 
+for general 
+child behavior-
+management problems 
+(eg, tantrums, 
+noncompliance with 
+adult demands). A 
+majority of caregivers 
+in both the 
+CR+ group and BT 
+groups reported that 
+the most difficult 
+recommendation to 
+follow was “setting 
+up and maintaining 
+a reinforcement system” 
+for their child. 
+The CR-group 
+
+SLEEP, Vol. 26, No. 8, 2003 1013 Improving Pediatric Compliance With PAP—Koontz et al 
+
+
+reported their difficulties as “recommended strategies were too difficult 
+to put into place with my family,” “partner would not follow techniques,” 
+“child displayed no progress, so I discontinued protocol,” and 
+“other issues demanded my full attention.” 
+
+Conclusions drawn from this retrospective descriptive analysis are 
+limited by the small sample size and lack of random assignment of participants 
+to groups. Furthermore, measuring compliance using a machine 
+definition (ie, the PAP hour meter) may overestimate usage if the PAP 
+machine is operating even when the patient is not wearing it. Although 
+these data were cross-referenced with chart notes, caregiver reports, and 
+physician subjective ratings, it is possible that compliance was lower 
+than reported. 
+
+These clinical outcome data support the use of behavior intervention 
+for increasing child and caregiver usage of PAP. These approaches 
+appear to be effective with a broad range of pediatric patients regardless 
+of age, presence of preexisting behavior problems, or developmental disabilities. 
+The results support the utility of behavior analysis and therapy 
+for improving compliance, thereby making the benefits of PAP available 
+to a greater number of children. To further document the efficacy of 
+behavior methods in improving compliance, future studies should utilize 
+a larger, randomized, prospective design with a diverse group of children 
+with sleep-related respiratory disturbances and should systematically 
+track the cost-effectiveness of such interventions so that evidence-based 
+literature will exist to support the use of these strategies. 
+
+ACKNOWLEDGEMENT 
+
+This study was funded, in part, by the Kennedy Krieger Institute and 
+Johns Hopkins University School of Medicine Mental 
+Retardation/Developmental Disabilities Research Center Grant (NICHD 
+No. HD24061) 
+
+REFERENCES 
+
+1. 
+Brouillette, TR, Fernbach, SK, Hunt CE. Obstructive sleep apnea in infants and children. 
+J Pediatr 1982; 100:31-40. 
+2. 
+Suen JS, Arnold JE, Brooks LJ. Adenotonsillectomy for treatment of obstructive sleep 
+apnea in children. Arch Otolaryngol Head Neck Surg 1995; 121:525-30. 
+3. 
+Sullivan CE, Grunstein RR. Continuous positive airway pressure in sleep-disordered 
+breathing. In: Kryger MH, Roth T, Dement WC, eds. Principles and Practice of Sleep 
+Medicine. 2nd ed. Philadelphia: WB Saunders; 1994:694-705. 
+4. 
+Marcus CL, Davidson-Ward, SL, Mallory GB, et al. Use of nasal continuous positive airway 
+pressure as treatment of childhood obstructive sleep apnea. J Pediatr 1995;127:8894. 
+5. 
+Parker LH, Cataldo MF, Bourland G, et al. Operant treatment of orofacial dysfunction in 
+neuromuscular disorders. J Appl Behav Anal 1984;17:413-27. 
+6. 
+Derrickson J, Neef N, Parrish J. Teaching self-administration of suctioning to children 
+with tracheostomies. J Appl Behav Anal 1993;42:469-70. 
+7. 
+Hagopian LP, Thompson RH. Reinforcement of compliance with respiratory treatment 
+in a child with cystic fibrosis. J Appl Behav Anal 1999;32:233-6. 
+8. 
+Slifer KJ, Cataldo MF, Cataldo MD, et al. Behavior analysis of motion control for pediatric 
+neuroimaging. J Appl Behav Anal 1993;24:563-70. 
+9. 
+Slifer KJ, Bucholtz JD, Cataldo, MD. Behavioral training of motion control in young 
+children undergoing radiation treatment without sedation. J Pediatr Onc Nurs 
+1994;11:55-63. 
+APPENDIX A 
+
+Bilevel PAP Task Analysis 
+
+1. 
+The child sits on bed or stretcher. 
+2. 
+The child cooperates with having the Bilevel PAP cap placed on the back of head. 
+3. 
+The child lies in the supine position on the bed/stretcher. 
+4. 
+The child remains supine and calm while the mask (not attached to the hose or cap) is 
+placed in position on the face for 5 seconds. 
+5. 
+The child remains supine and calm while the mask (not attached to the hose or cap) is 
+placed in position on the face for 10 seconds. 
+6. 
+The child remains supine and calm while the mask (not attached to the hose or cap) is 
+placed in position on the face for 1 minute. 
+7. 
+The child remains supine and calm while one side of the mask is attached to the cap. 
+**Prior to next step, the mask will need to be connected to the tube and the tube will 
+need to be connected to the machine. 
+8. 
+The child remains supine and calm while the mask (attached to hose and one side of the 
+cap) is placed in position on the face and while the air is turned on for 3 seconds. 
+9. 
+The child remains supine and calm while the mask (attached to hose and one side of the 
+cap) is placed in position on the face and while the air is turned on for 5 seconds. 
+10. 
+The child remains supine and calm while the mask (attached to hose and one side of the 
+cap) is placed in position on the face and while the air is turned on for 10 seconds. 
+11. 
+The child remains supine and calm while the mask (attached to hose and one side of the 
+cap) is placed in position on the face and while the air is turned on for 1 minute 
+12. 
+The child remains supine and calm while the mask is placed in position on the face and 
+is connected to the cap on both sides. 
+13. 
+The child remains supine and calm while the mask (attached to hose and both sides of 
+the cap) is placed in position on the face and while the air is turned on for 1 minute. 
+14. 
+The child remains supine and calm while the mask (attached to hose and both sides of 
+the cap) is placed in position on the face and while the air is turned on for 5 minutes. 
+15. 
+The child remains supine and calm while the mask (attached to hose and both sides of 
+the cap) is placed in position on the face and while the air is turned on for 10 minutes. 
+16. 
+The child remains supine and calm while the mask (attached to hose and both sides of 
+the cap) is placed in position on the face and while the air is turned on for 15 minutes. 
+APPENDIX B 
+
+Caregiver Satisfaction Questionnaire 
+
+1) 
+Is your child still wearing the Bilevel PAP? 
+
+(If yes): How are they doing? 
+WEARING Bilevel PAP: 
+a) Every night 
+b) 3-5 nights a week 
+c) Less than 3 nights each week 
+
+
+(If no): Why? 
+(Permit caregiver to generate. Sample responses include: OSA corrected through surgery; 
+was too difficult to get them to wear it, so we stopped; physician said s/he no longer needed 
+to wear it…) 
+
+
+2) 
+Did you notice any changes in your child’s behavior after s/he was tolerating the Bilevel 
+PAP regularly? 
+
+a) Sleeping better 
+b) Improved mood 
+c) Learning more 
+d) Seemed more alert 
+e) No differences noted 
+
+3) 
+Do you believe you could have been successful in getting _____(child)____ to wear the 
+Bilevel PAP without our help? 
+Yes No (allow caregiver to explain response) 
+
+Level of Intrusiveness 
+
+4) 
+Were you able to follow the recommendations given by the behavioral therapist? For 
+
+example, were you able to: 
+a) Set up a bedtime routine for your child 
+b) Set up reinforcement system 
+c) Put the mask back on each time your child removed it 
+
+(If not): Which of the following best describes why you believe it was difficult to use the 
+Bilevel PAP? 
+
+a) Life is too hectic/other issues demanded my full attention 
+b) Recommended strategies were too difficult to put into place with my family 
+c) Techniques were too time-consuming 
+d) Partner would not follow techniques 
+e) Child displayed no progress, so I gave up 
+
+
+5) What was the most helpful aspect of our service? 
+a) Support with problem behaviors 
+b) Access to/increased communication with medical personnel 
+c) Education about Bilevel PAP 
+d) Individually-tailored treatment for my child and family 
+e) Other (________________________________________) 
+
+
+6) What was the least helpful aspect of our program? 
+a) Took too much time to complete 
+b) Difficult to get an appointment 
+c) Other (________________________________________) 
+
+
+7) 
+Do you believe that the behavioral psychology department provides an important service 
+for patients needing to wear Bilevel PAP? 
+
+a) Yes, definitely 
+b) Yes, for the most part 
+c) No, not really that important 
+d) No, not at all important 
+
+8) 
+How can we improve our service? 
+Let parent/caregiver generate…. 
+
+Is your child in school? 
+What kind of school program does your child attend? (special education/regular programming) 
+
+
+SLEEP, Vol. 26, No. 8, 2003 
+1014 Improving Pediatric Compliance With PAP—Koontz et al 
+
+
+APPENDIX C 
+
+General Behavior Guidelines for Helping Children Tolerate CPAP/Bilevel 
+PAP 
+
+These are general guidelines to be followed at home. Persistent noncompliance may indicate 
+additional problems. If this is the case, it is strongly recommended that a consult be arranged 
+with a behavioral psychologist or someone trained to analyze and change behavior. 
+
+1) 
+It is very important to develop a routine whenever your child is getting ready for sleep. 
+This includes putting on pajamas, placing him/her in a crib or bed, playing with a special 
+toy, and other activities that already have been established. 
+
+2) 
+Turn on machine as soon as you enter his/her room. 
+
+3) 
+When your child is in bed, rub his/her arms, and talk in a low voice to create a calm and 
+relaxing environment. 
+
+4) 
+Present the mask with the cap attached in front of your child. Never place any of the 
+equipment on from behind. The goal is to teach your child that this equipment is part 
+of bedtime routine so it’s important that everything is predictable and done consistently. 
+
+5) 
+Slowly place the mask on the nose and then place the cap on the head. Fasten the strap 
+to the mask (only undo one strap so it can be fastened quickly when the cap is placed on 
+your child’s head). Depending upon your child’s age, it may be developmentally appropriate 
+for your child to be involved in placing the mask or adjusting it. Older children 
+often appreciate the opportunity to assist in their own medical care. 
+
+6) 
+If your child struggles, use one hand to block his/her hands and keep them down. With 
+the other hand, keep the mask over his/her nose. As s/he starts to calm down, slowly lift 
+your hand and proceed with putting on the cap and place the mask so it is in the proper 
+position over the nose. In the case of older children, it might not be possible to effectively 
+physically block them from removing the mask. Most importantly, if the mask is 
+removed, it must be put on again immediately. 
+
+7) 
+Your child may cry when the equipment is placed on him/her. However if s/he is not 
+grabbing at the equipment and begins to breathe thru the mask when it is put on, you 
+should begin rubbing his/her arms and speak softly. You can place a plush toy around 
+his/her arms when the equipment is on and your child is calm. For older children, it is 
+suggested that you engage them in a favorite quiet activity (e.g., reading a favorite book, 
+or watching a preferred movie or TV program). Such quiet time activities are not only a 
+reward for tolerating the mask, but may also act as a useful distraction. 
+
+8) 
+If your child struggles again (which will probably occur in the beginning), do not look 
+directly at him/her, animate your face, or speak to him/her. Try to keep a neutral face and 
+proceed with blocking your child’s arms and get the equipment on him/her quickly and 
+safely. 
+
+9) 
+When the equipment is on again, then you can rub your child’s arms, smile and soothe 
+your child. Proceed with the favorite activity (e.g., reading books, talking, etc) only 
+when s/he is not touching the mask. 
+
+10) If the equipment comes off because your child rolls or pulls it off while s/he sleeps, follow 
+the procedure as outlines above. It is critical that the equipment gets placed back on 
+your child after each time it comes off regardless of whether s/he removed it or it comes 
+off during movement while asleep. CPAP and bilevel PAP machines can be equipped 
+with an alarm that will sound when the mask comes off. Many caregivers have found 
+these alarms quite helpful in monitoring compliance and ensuring that the mask is 
+replaced immediately if it happens to be removed. 
+
+11) Lastly, be sure that your child knows that only the caregiver is to remove the mask. For 
+older children, or children who are physically able to safely remove the masks, you may 
+make arrangements that they can take the mask off, but only after a caregiver instructs 
+them to do so. 
+
+SLEEP, Vol. 26, No. 8, 2003 
+1015 Improving Pediatric Compliance With PAP—Koontz et al 
+
+

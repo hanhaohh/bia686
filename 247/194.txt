@@ -1,0 +1,1102 @@
+ORIGINAL 
+ARTICLE 
+
+
+Health 
+outcome 
+measurements 
+in 
+children 
+with 
+sleep 
+disordered 
+breathing 
+
+
+Georgalas, 
+C., 
+Babar-Craig, 
+H., 
+Arora, 
+A., 
+& 
+Narula, 
+A. 
+
+
+Department 
+of 
+Otolaryngology 
+– 
+Head 
+and 
+Neck 
+Surgery, 
+St 
+Mary’s 
+Hospital, 
+Paddington, 
+London, 
+UK 
+
+
+Accepted 28 March 2007 
+Clin. 
+Otolaryngol. 2007, 32, 268–274 
+
+Objective: 
+To validate the Child Health Questionnaire, 
+measure quality of life in children with obstructive sleep 
+apnoea and assess the impact of surgery. 
+Methods: 
+The primary carer of a consecutive series of 42 
+patients with sleep disordered breathing referred to a paediatric 
+otolaryngology clinic completed the Child Health 
+Questionnaire (version PF 28). Questionnaires were analysed 
+for data quality and completeness, item/scale correlation, 
+internal consistency and discriminant validity, 
+interscale correlation and reliability. Following overnight 
+pulse oximetry 37 children were diagnosed with obstructive 
+sleep apnoea and underwent adenotonsillectomy. 
+Results: 
+Child Health Questionnaire Physical Functioning 
+28 demonstrated excellent measuring characteristics in our 
+population. Compared with normative data, children with 
+
+obstructive sleep apnoea and their carers suffer a significant 
+quality of life deficit, involving 10 of 13 subscales of the 
+Child Health Questionnaire. This was most prominent in 
+parental emotional impact, general health perception and 
+family activities. There was no correlation between the 
+severity of obstructive sleep apnoea and quality of life indices. 
+Following surgery, there was a significant improvement 
+in all Child Health Questionnaire subscales, which became 
+equivalent to healthy children. 
+Conclusion: 
+The Child Health Questionnaire Physical 
+Functioning 28 is an accurate and reliable way of assessing 
+the impact of obstructive sleep apnoea on the quality 
+of life in children in Britain. This appears to be significant 
+in most aspects of a child’s life, but is fully reversed 
+following surgery. 
+
+Sleep disordered breathing and obstructive sleep apnoea 
+(OSA) are common conditions in childhood, with prevalence 
+ranging from 3.2% to 12.1% for sleep disordered 
+breathing and 0.7% to 10.3% for OSA.1–3 Both conditions, 
+but primarily OSA, are associated with significant 
+sequelae, including cognitive and behavioural abnormalities, 
+possible impact on growth and cardiovascular complications, 
+which seem to be reversed with surgical 
+treatment.4 As a direct result, an increasing number of 
+operations are performed for sleep disordered breathing 
+and OSA whilst the rate of adenotonsillectomies for 
+recurrent tonsillitis has been decreasing. 
+
+In addition, both OSA and sleep disordered breathing 
+have a significant psychological impact on the patients 
+and their carers: parents may feel helpless and interpret 
+the disturbed breathing pattern of their child as a sign of 
+impending apnoea, resulting in significant stress and disruption 
+in family relations. This may be further complicated 
+by behavioural changes of the child, resulting 
+directly from OSA. 
+
+Correspondence: Christos Georgalas, Department of Otolaryngology – 
+Head and Neck Surgery, St Mary’s Hospital, Paddington, London, UK, 
+Tel.: +44 207 886 6666; fax: +44 207 886 1394; e-mail: cgeorgalas1@ 
+yahoo.co.uk 
+
+The Child Health Questionnaire (version PF 28) is a 
+sensitive and reliable generic instrument for measuring 
+quality of life in young children through their parents’ 
+responses, 5 and is a 28-item questionnaire evaluating 13 
+areas of a child’s well being. These include physical functioning 
+(PF), role/social–physical (RP), general health 
+(GH) and bodily pain (BP), parental impact in terms of 
+time (PT) as well as emotional impact (PE), family cohesion 
+(FC), family activities (FA), role limitations social– 
+emotional/behavioural (REB), self-esteem (SE), mental 
+health (MH), behaviour–global behaviour (BE) as well as 
+perceived change in overall health status (CH). It has 
+been used extensively in studies assessing quality of life in 
+children, including children with epilepsy,6 asthma7 and 
+juvenile rheumatoid arthritis.8 
+
+Although there have been a number of studies in the 
+USA assessing the quality of life impact of paediatric 
+OSA using disease specific questionnaires, namely the 
+OSA-18,9–17 only two studies,18,19 have used a generic 
+questionnaire. Neither of these two studies used overnight 
+sleep oximetry for OSA diagnosis or validated the Child 
+Health Questionnaire in their study sample. Following our 
+use of the Child Health Questionnaire in children with 
+adenotonsillar disease,20 we planned this first UK study to 
+assess (i) the measuring characteristics of the Child Health 
+
+. 
+2007 The Authors 
+268 
+
+
+Journal compilation . 
+2007 Blackwell Publishing Limited, Clinical 
+Otolaryngology, 
+32, 
+268–274 
+
+
+Quality 
+of 
+life 
+in 
+OSA 
+children 
+269 
+
+
+Questionnaire as well as (ii) the quality of life and impact 
+of surgery in our study population of British children. 
+Assessment of the measuring characteristics of the Child 
+Health Questionnaire was important: Although it has been 
+performed in different populations, cultural and social 
+differences as well as divergent attitudes towards health 
+and disease, different health systems and access to health-
+care mean that their conclusions are not immediately 
+applicable to this particular group of children. 
+
+Materials 
+and 
+methods 
+
+
+Design 
+
+
+Prospective observational survey. 
+
+Setting 
+
+
+A tertiary, academic paediatric specialty clinic serving an 
+inner city population of multiethnic background (St 
+Mary’s Paediatric ENT Clinic, Paddington, London). 
+
+Patients 
+
+
+Consecutive series of 42 patients with sleep disordered 
+breathing. Eligibility criteria included age from 1 to 
+14 years and referral for snoring, apnoeic episodes and 
+disturbed sleep pattern. Exclusion criteria were immunodeficiency, 
+suspicion of neoplasm, other significant comorbidity 
+and non-English speaking primary carer. 
+
+Methods 
+
+
+Child Health Questionnaire (version PF 28) was used. 
+After review of the referral letter by the examining doctor, 
+carers of referred patients were asked to participate in the 
+study. The assisting nurse subsequently collected the completed 
+questionnaires while the examining doctor 
+remained blinded to their responses. The questionnaire 
+was administered again, 3 months after surgery. 
+
+Ethical 
+considerations 
+
+
+As this was a non-interventional audit, ethics committee 
+approval was not applied for. All carers of patients provided 
+verbal consent to participate in our study. 
+
+Outcome 
+measures 
+
+
+Psychometric 
+validation 
+of 
+the 
+Child 
+Health 
+Questionnaire. 
+Psychometric validation of the questionnaire was 
+
+. 
+2007 The Authors 
+performed using multi-trait item scaling analysis21 as described 
+in the Child Health Questionnaire development 
+manual5 and using routines developed on SPSS (version 
+13.0; SPSS Inc., Chicago, IL, USA) software by the first 
+author. 
+
+Quality 
+of 
+life 
+measurement. 
+
+
+1 
+Assessment of quality of life using Child Health 
+Questionnaire (PF28) subscale scores (comparison of our 
+patients with a normative sample). 
+2 
+Impact of surgery on Child Health Questionnaire 
+scores. 
+3 
+Correlation between OSA indices and Child Health 
+Questionnaire scores. 
+
+Power 
+calculations 
+
+
+Assuming 80% statistical power (0.2 type b error) and 
+
+0.05 type a error in a bi-directional hypothesis, a sample 
+of 45 children was estimated to be sufficient for detecting 
+a 10 point difference in any subscale between our group 
+and normative data. Two tailed t-tests with Bonferroni 
+adjustments for multiple comparisons were used for comparisons 
+between groups. 
+Results 
+
+
+The study took place between November 2005 and June 
+2006. The carer completing the questionnaire was the 
+physical parent in 94% of the children (the mother in 
+78%) and his/her median age was 35.1 years. Fourteen of 
+42 (32%) carers worked either part or full time while 
+their median educational level was O Level/GCSE. All 42 
+carers completed and returned the questionnaires. The 
+mean age of children was 6.1 years (median: 5.7; range: 
+1–11). Twenty-two were boys and 20 girls. All 42 children 
+had overnight oximetry. This demonstrated an 
+average of 59 desaturation episodes (range: 0–160). Their 
+average (lowest) oxygen desaturation was 74% (range: 
+98–60%). 
+
+Thirty-seven children had more than five apnoeic episodes 
+per hour and were thus diagnosed with OSA, and 
+subsequently underwent surgery. The postoperative questionnaire 
+was completed by the parents 3 months following 
+surgery. 
+
+Psychometric 
+validation 
+of 
+CHQ 
+questionnaire 
+
+
+Questionnaires were analysed for ‘completeness and item 
+comparability’. The overall rate of missing responses per 
+item was 2.3% (range 0–11). In all 28 questions, 
+the responses had a normal distribution. Items in six 
+
+Journal compilation . 
+2007 Blackwell Publishing Limited, Clinical 
+Otolaryngology, 
+32, 
+268–274 
+
+
+270 
+C. 
+Georgalas 
+et al. 
+
+Table 
+1. 
+Psychometric characteristics of the Child Health Ques-Table 
+2. 
+Psychometric characteristics of the Child Health Questionnaire 
+in our group of children (item/scales descriptives) tionnaire in our group of children (item/scale correlations) 
+
+Item/scales descriptives 
+
+No. Range of Range of standard 
+Scale items means deviations 
+PF 3 3.49–3.72 0.66–0.92 
+RP 1 3.63 0.89 
+GH 4 2.71–3.84 0.94–1.56 
+BP 1 4.50 1.53 
+FA 2 3.84–3.94 1.17–1.24 
+REB 1 3.86 0.89 
+PT 2 3.37–3.47 0.97–1.0 
+PE 2 3.70–3.82 1.32–1.48 
+SE 3 4.16–4.25 1.05–1.16 
+MH 3 4.09–4.45 0.89–1.13 
+BE 4 3.51–4.08 0.92–1.43 
+CH 1 3.24 1.01 
+FC 1 2.20 1.08 
+
+PF, physical functioning; RP, role/social–physical; GH, general 
+health; BP, bodily pain; FA, family activities; REB, role limitations 
+social–emotional/behavioural; PT, parental impact in terms 
+of time; PE, emotional impact; SE, self-esteem; MH, mental 
+health; BE, behaviour–global behaviour; CH, perceived change 
+in overall health status; FC, family cohesion. 
+
+multi-item scales had similar means and standard deviations 
+and as a result did not require standardisation (physical 
+functioning, mental health, self-esteem, parental 
+impact in terms of time, emotional impact, family activities). 
+However, that was not the case for general heath 
+and behaviour–global behaviour (Table 1). 
+
+Equal 
+items 
+– 
+scale 
+correlation. 
+It is important that each 
+item contributes equally to the individual construct being 
+measured. This was assessed by comparing the item-scale 
+Pearson correlation coefficients between the items that 
+comprise the eight multi-item scales. For seven of eight 
+scales, the items/scale correlation coefficients were very 
+similar, with the exception of general health (Table 2). 
+
+Items 
+internal 
+consistency 
+(linearity). 
+The absolute values 
+of correlation coefficients between items and scales is a 
+measure of the internal consistency of the scale. Generally 
+a Pearson item-scale correlation >0.4 is considered 
+acceptable and >0.6 is excellent. In our sample, all 23 
+(100%) items contributing to multi-item scales were correlated 
+with their scales with Pearson correlation coefficients 
+>0.4, while 21 of 23 had correlation coefficients 
+>0.6 (Table 2). 
+
+Item 
+discriminant 
+validity. 
+Item discriminant validity 
+evaluates the specificity of an item as a measure of a par
+
+
+Item/scale correlations 
+
+Pearson 
+correlation 
+Scale Items coefficient 
+
+PF 2.1a 
+
+0.94 
+
+2.1 b 0.84 
+2.1 c 0.82 
+BE 5.1a 
+0.82 
+
+5.1 b 0.85 
+5.1 c 0.84 
+5.2 0.61 
+SE 7.1 a 0.92 
+7.1 b 0.90 
+7.1 c 0.94 
+GH 8.1 a 0.80 
+8.1 b 0.51 
+8.1 c 0.75 
+8.2 0.49 
+PE 9.1 a 0.94 
+9.1 b 0.93 
+PT 9.2 a 0.95 
+9.2 b 0.95 
+FA 9.3 a 0.94 
+9.3 b 0.93 
+PF, physical functioning; BE, behaviour–global behaviour; SE, 
+self-esteem; GH, general health; PE, emotional impact; PT, parental 
+impact in terms of time; FA family activities. 
+In column 2, a, b and c refer to specific numbered questions 
+asked, i.e. 2.1a, 2.1b. 
+
+
+ticular construct. It requires that the correlation of the 
+item with its scale is at least one (or preferably two) 
+standard errors higher than its correlation with the other 
+scales. In our sample, Fisher transformation (from r 
+to z) 
+was performed to facilitate comparison. All items (100%) 
+demonstrated acceptable and 79% excellent discriminant 
+validity (Table 4). 
+
+Floor and ceiling effects (the frequency of lowest and 
+highest scored answers) were investigated to assess the 
+‘variability of answers’. The floor effect median was 2.5% 
+(range 1.3–7.6) while the ceiling effect median was 38.5% 
+(range 1.3–78.4), with the highest frequency of positive 
+outcomes >50% observed for parental impact in terms of 
+time, self-esteem, role limitations social–emotional/behavioural 
+and role/social–physical scale items. 
+
+‘Reliability’ was assessed with the use of Cronbach 
+alpha. Cronbach alpha were calculated for all eight multi-
+item scales. They were >0.7 in seven of eight (87%) 
+scales, failing in the case of general health. Median was 
+
+0.85 (range 0.59–0.91; Table 4). 
+. 
+2007 The Authors 
+Journal compilation . 
+2007 Blackwell Publishing Limited, Clinical 
+Otolaryngology, 
+32, 
+268–274 
+
+
+Quality 
+of 
+life 
+in 
+OSA 
+children 
+271 
+
+
+Table 
+3. 
+Psychometric characteristics of the Child Health Questionnaire in our group of children [Interscale correlations (Pearson 
+correlation Sig. two-tailed)] 
+
+PF BE MHSE GHPE PT FA 
+
+PF 1 0.372 (0.001)** 0.466 (0.000)** 0.170 (0.136)** 0.464 (0.000)** 0.537 (0.000)** 0.439 (0.000)** 0.449 (0.000)** 
+BE 0.372 (0.001)** 1 0.479 (0.000)** 0.167 (0.141) 0.403 (0.000)** 0.560 (0.000)** 0.459 (0.000)** 0.499 (0.000)** 
+MH 0.466 (0.000)** 0.479 (0.000)** 1 0.198 (0.082) 0.325 (0.004)** 0.417 (0.000)** 0.308 (0.006)** 0.261 (0.022)* 
+SE 0.170 (0.136)** 0.167 (0.141) 0.198 (0.082) 1 0.335 (0.003)** 0.312 (0.005)** 0.173 (0.130) 0.245 (0.031)* 
+GH 0.464 (0.000)** 0.403 (0.000)** 0.325 (0.004)** 0.335 (0.003)** 1 0.624 (0.000)** 0.455 (0.000)** 0.617 (0.000)** 
+PE 0.537 (0.000)** 0.560 (0.000)** 0.417 (0.000)** 0.312 (0.005)** 0.624 (0.000)** 1 0.645 (0.000)** 0.715 (0.000)** 
+PT 0.439 (0.000)** 0.459 (0.000)** 0.308 (0.006)** 0.173 (0.130) 0.455 (0.000)** 0.645 (0.000)** 1 0.659 (0.000)** 
+FA 0.449 (0.000)** 0.499 (0.000)** 0.261 (0.022)* 0.245 (0.031)* 0.617 (0.000)** 0.715 (0.000)** 0.659 (0.000)** 1 
+
+PF, physical functioning; BE, behvaiour–global behaviour; MH, mental health; SE, self-esteem; GH, general health; PE, emotional 
+impact; PT, parental impact in terms of time; FA, family activities. 
+*Correlation is significant at the 0.05 level (two-tailed). ** Correlation is significant at the 0.01 level (two-tailed). 
+
+
+Table 
+4. 
+Psychometric characteristics of the Child Health Questionnaire 
+in our group of children (distance more than one 
+(two) SE) 
+
+Distance more than one (two) SE 
+
+Scale 
+Discriminant 
+validity tests (%) 
+Reliability–Croalpha 
+nbach 
+Interscale 
+correlation 
+tests 
+PF 100 (100) 0.85 Pass 
+GH 100 (25) 0.59 Fail 
+FA 100 (100) 0.86 Pass 
+PT 100 (100) 0.91 Pass 
+PE 100 (100) 0.86 Pass 
+SE 100 (100) 0.91 Pass 
+MH 100 (100) 0.80 Pass 
+BE 100 (50) 0.79 Pass 
+
+0 
+10 
+20 
+30 
+40 
+50 
+60 
+70 
+80 
+90 
+100 
+Healthy CHildren (n = 221) 
+OSA children - preop (n = 42) 
+OSA children - postop (n = 37) 
+Family activities 
+
+Parental impact-Time
+
+Parental impact-
+
+EmotionalGeneral health 
+perceptions
+
+Global behavior
+
+Behavior
+
+Bodily pain
+
+Physical limitations
+
+Emotional 
+BehaviorlimitationsPhysical functioning
+
+Fig. 
+1. 
+Child Health Questionnaire (PF 28) Subscale scores in 
+UK children with OSA before and following surgery compared 
+with normative data. 
+
+the difference was statistically significant in 10 of 13 
+subscales. Most prominent were the differences in emotional 
+impact of the child’s problems on the parents 
+(P 
+¼ 
+0.001), general health perception (P 
+< 0.001), 
+family activities (P 
+¼ 
+0.0003) and parents’ time (P 
+¼ 
+0.001; Fig. 1). 
+
+Correlation 
+analysis. 
+Although our sample was small, we 
+felt the excellent scaling characteristics of the Child 
+Health Questionnaire could enable us to assess a correlation 
+between OSA indices (lowest O2 desaturation/Apnoeic 
+episodes and Child Health Questionnaire scores). There 
+
+PF, physical functioning; GH, general health; FA, family activities; 
+PT, parental impact in terms of time; PE, emotional 
+impact; SE, self-esteem; MH, mental health; BE behaviour– 
+global behaviour. 
+
+‘Interscale correlation’ was used to evaluate how much 
+each scale is distinct from the other scales and requires 
+that the correlation coefficients between two scales are 
+less than their reliability coefficients. Seven of eight 
+(87%) constructs met the requirements, the exception 
+being GH (Table 3). 
+
+Quality 
+of 
+life 
+measurement 
+
+
+Pre-treatment 
+quality 
+of 
+life. 
+We compared our results 
+with existing normative data, as derived from a recent 
+UK study.22 Children in our group scored lower in 
+most scales than this sample of healthy British children. 
+After Bonferroni adjustment for multiple comparisons, 
+
+. 
+2007 The Authors 
+Journal compilation . 
+2007 Blackwell Publishing Limited, Clinical 
+Otolaryngology, 
+32, 
+268–274 
+
+
+272 
+C. 
+Georgalas 
+et al. 
+
+Table 
+5. 
+Comparison of Child Health Questionnaire scores between children with sleep disordered breathing before and after surgery 
+
+
+Children with Children with 
+SDB preoperatively SDB after surgery 
+(n 
+¼ 
+42) (n 
+¼ 
+37) 
+95% CI of 
+Scale Mean (sd) Mean (sd) P-value difference 
+Physical functioning 80.5 23.8 94.6 19.2 0.005 4.4–23.8 
+Role limitations–emotional behavioural 82.1 30.8 96.4 10.5 0.007 4.0–24.5 
+Role limitations–physical 77.2 31.1 76.4 17.2 0.001 7.9–30.4 
+Bodily pain 65.7 31.3 72.9 15.8 <0.001 16.3–38.2 
+Behaviour 74.1 22.6 88.5 17.1 <0.001 12.4–30.2 
+Mental health 74.1 20.9 88.5 19.6 0.003 5.1–23.4 
+Self-esteem 74.5 24.3 86.5 26.3 0.17 )3.4–19.2 
+Global health 51.1 23.1 68.4 21.4 0.001 7.3–27.3 
+General health perceptions 58.5 27.9 85.5 23.1 <0.001 15.5–38.4 
+Global behaviour 65.5 24.8 85.4 15.8 <0.001 1).5–29.0 
+Family cohesion 73.8 23.9 71.8 20.9 0.12 )2.1–18.1 
+Parental impact–emotional 50.0 30.6 90.5 20.0 <0.001 29.0–52.0 
+Parental impact–time 67.6 35.7 95.8 13.4 <0.001 16.8–40.7 
+Family activities 59.8 30.6 86.8 16.1 <0.001 15.6–38.3 
+
+SDB, sleep disordered breathing. 
+
+was no significant correlation between quality of life and 
+OSA indices, as assessed preoperatively. 
+
+Post-treatment 
+analysis. 
+Child Health Questionnaire 
+scores improved in all children following surgery. The 
+change was more prominent in areas that demonstrated 
+the greatest deficit. There was no difference in Child 
+Health Questionnaire scores between healthy children and 
+children with OSA who had surgery (Table 5). 
+
+Discussion 
+
+
+Psychometric 
+issues 
+
+
+As medicine is adopting a more patient-centred perspective, 
+the use of questionnaires is proving valuable in the 
+assessment of the impact of disease. However, the ability 
+of a questionnaire to measure what it is supposed to be 
+measuring can never be taken at face value: Differences in 
+attitudes towards health and disease, cultural, social, 
+financial disparities, different health systems and different 
+ways of access to health-care mean that one questionnaire 
+that was useful to measure the burden of a condition in 
+one country may be completely useless in a different setting. 
+With this in mind, we performed a psychometric 
+validation of the Child Health Questionnaire in this 
+group of children: We found that all questions were 
+strongly correlated with the concept they were supposed 
+to be measuring (excellent internal consistency) and more 
+
+so than with the other concepts (acceptable discriminant 
+validity). All concepts demonstrated good reliability 
+(Cronbach alpha) and were clearly distinct between them 
+(lower interscale correlation) with the exception of general 
+health. In summary, we showed that the scaling characteristics 
+of the Child Health Questionnaire (PF28) in 
+our sample were very satisfactory. The only scale that did 
+not demonstrate consistently good results was global 
+health, which has been noted previously3 and reflects the 
+heterogeneity of this particular subscale. 
+
+Clinical 
+issues 
+
+
+This study has shown significant improvements in quality 
+of life following surgery for obstructive sleep apnoea. 
+Although several studies in USA have focused on the 
+quality of life impact of paediatric OSA, their results can 
+not be considered directly applicable in the United Kingdom: 
+quality of life studies are culture-specific, reflecting 
+the fact that emphasis on disease and aspects of health 
+vary in different countries and cultures. This makes it difficult 
+to extrapolate the results from one such study from 
+one country to another, which prompted us to perform 
+this study. 
+
+We used a generic questionnaire as we feel that they 
+are generally preferable to disease specific questionnaires 
+for multiple reasons: First, they are designed to measure 
+the patient’s overall well being, and not just a small area 
+that is of interest to the clinician, and as a result they are 
+
+. 
+2007 The Authors 
+Journal compilation . 
+2007 Blackwell Publishing Limited, Clinical 
+Otolaryngology, 
+32, 
+268–274 
+
+
+Quality 
+of 
+life 
+in 
+OSA 
+children 
+273 
+
+
+by definition, more relevant to the patient. Second, the 
+fact that they can be used to measure health status in 
+patients with different pathologies means that they can 
+provide a common scale for directly comparing the 
+impact of different disease processes. Finally, by producing 
+generic health status data they can be valuable in 
+informing health policy and management decisions such 
+as those based on Quality Adjusted Life Years assessment. 
+Their main drawback, however, is that they are generally 
+considered to be a ‘crude’ way of measuring quality of 
+life and are sometimes unable to detect small changes in 
+health status or not sensitive enough to measure the 
+treatment effect. In this study, we have shown that a generic 
+quality of life scale can measure the health impact of 
+paediatric OSA while maintaining excellent sensitivity to 
+change following corrective surgery. 
+
+This study has demonstrated that paediatric sleep disordered 
+breathing has a significant impact on children 
+and their parents, reflected by the statistically and clinically 
+significant decreases in 10 of 13 subscales of the Child 
+Health Questionnaire. The impact, although comparable 
+to that measured in Flannery’s study, is more prominent 
+than measured in Stewart’s study, which showed change 
+only in physical but not psychosocial measures. Our 
+results show that these children and their carers suffer 
+significant morbidity, which merits treatment per 
+se, and 
+perhaps independently of the neurobehavioural or cardiovascular 
+sequelae of OSA. In terms of quality of life, these 
+children and their families suffer as much as children 
+with rheumatoid arthritis or moderate asthma. 
+
+Some of the children we assessed preoperatively had 
+been diagnosed with sleep disordered breathing, and not 
+necessarily OSA. The fact that their deficit in terms of 
+quality of life was so prominent points towards the conclusion 
+that OSA/sleep disordered breathing are part of a 
+continuum, as reflected in prevalence and sequelae, and 
+are interpreted as such by the parents. This is further 
+supported by the fact that we found no correlation 
+between OSA indices (lowest Saturation/Desaturation 
+episodes) and Child Health Questionnaire scales. It is of 
+interest that the criteria for the diagnosis of OSA are 
+quite arbitrary – as stated in Paediatrics technical report 
+
+– ‘normative standards for PSG have been chosen on the 
+basis of normative distribution of data but it has not 
+been established that they have any validity as predictors 
+of complications’.23 
+Our results highlight the fact that our population may 
+be more severely affected than previously reported in US 
+studies, with implications for management. This has been 
+shown in other areas, such as OME (where studies in the 
+USA.24 failed to show a cognitive impact of OME in children, 
+in direct contradiction to similar studies in the 
+
+. 
+2007 The Authors 
+UK.25) This could be the result of different access to 
+health care in the UK compared with the USA, as NHS 
+constraints and the ‘gatekeeper’ role of the general practitioner 
+mean that only children with significant morbidity 
+reach specialist attention. In terms of specific quality of 
+life impact, we found that the subscales which showed 
+the most significant impact were the emotional impact 
+on the parents as well as the impact on family activities 
+and the global health perceptions of the parents. 
+
+Two of these three areas were also the ones more affected 
+in Steward’s US study. This corroborates our results, 
+and confirms a pattern – namely that parents interpret 
+apnoeic episodes/sleep disordered breathing as potentially 
+life threatening events: while we as clinicians are worried 
+about the long-term sequelae, the parents are worried 
+about their child stopping breathing, and in many cases 
+have to stay awake. This is also reflected in poor health 
+perception and also in disruption in family activities, further 
+complicated by neurobehavioural and growth problems 
+of the child, which can arise as a direct consequence 
+of OSA. 
+
+Importantly, we found that all the negative quality of 
+life effects of OSA/sleep disordered breathing are reversed 
+after surgery. This has been shown in previous studies, 
+but must be interpreted with caution, as expectation bias 
+from surgery can always skew such findings. However, 
+the scale of improvement is impressive, and more 
+importantly, is almost exclusively in the areas with more 
+significant preoperative decrease, which makes it unlikely 
+to be purely explained by expectation bias, and adds to 
+the arguments for surgery. 
+
+We recognise that our study has some limitations: foremost 
+is the small number of patients recruited in our 
+study. However, the number of patients was based on a 
+priori 
+power calculations and indeed it was planned as a 
+preliminary study. The patients and their parents were 
+not blinded to treatment, as it would be impossible by 
+definition to have patients and parents unaware of surgery 
+performed, although the doctor administering the 
+questionnaire was blinded as to the intervention applied 
+We appreciate that the open design of this study makes it 
+vulnerable to introduction of bias, specifically expectation 
+bias and the placebo effect of surgery. This is problem 
+that is inherent in most studies of surgical interventions 
+and is only partly addressed by the findings of decreased 
+Child Health Questionnaire scores preoperatively. Additionally, 
+the normative data we used came from a study 
+performed in the UK in 2001 and refer to children older 
+than the ones we studied: we appreciate that this difference 
+in ages could make the comparison problematic. 
+However, the results of children after surgery mirror these 
+normative data, and we feel that differences in age are 
+
+Journal compilation . 
+2007 Blackwell Publishing Limited, Clinical 
+Otolaryngology, 
+32, 
+268–274 
+
+
+274 
+C. 
+Georgalas 
+et al. 
+
+unlikely to account for the gap between children with 
+sleep disordered breathing and healthy children. 
+
+In summary, we found that in a British cohort of children 
+with sleep disordered breathing, there is a significant 
+impact in almost all areas of Quality of life that is fully 
+reversed by surgery. Although this was only a preliminary 
+study, we hope that it will generate further research in 
+this area, that will help us understand better these vulnerable 
+patients and their carers. 
+
+Conflict 
+of 
+Interest 
+
+
+None to declare. 
+
+References 
+
+
+1 Ali N.J., Pitson D.J. & Stradling J.R. (1993) Snoring, sleep disturbance, 
+and behaviour in 4–5 year olds. Arch. 
+Dis. 
+Child 
+68, 
+360–366 
+
+2 Gislason T. & Benediktsdottir B. (1995) Snoring, apneic episodes, 
+and nocturnal hypoxemia among children 6 months to 
+6 years old. An epidemiologic study of lower limit of prevalence. 
+Chest 
+107, 
+963–966 
+
+3 Ferreira A.M., Clemente V., Gozal D. et 
+al. (2000) Snoring in 
+Portuguese primary school children. Pediatrics 
+106, 
+E64 
+
+4 Schechter M.S. Section on Pediatric Pulmonology, Subcommittee 
+on Obstructive Sleep Apnea Syndrome (2002) Technical 
+report: diagnosis and management of childhood obstructive 
+sleep apnea syndrome. Pediatrics 
+109, 
+e69 
+
+5 Landgraf J.M., Abetz L. & Ware J.E. (1996) Child 
+Health 
+Questionnaire(
+CHQ) 
+A 
+User’s 
+Manual 
+First 
+Printing. Health Act, 
+Boston, MA. 
+
+6 Gilliam F., Wyllie E., Kashden J. et 
+al. (1997) Epilepsy surgery 
+outcome: comprehensive assessment in children. Neurology 
+48, 
+1368–1374 
+
+7 Rutishauser C., Sawyer S.M. & Bowes G. (1998) Quality-of-life 
+assessment in children and adolescents with asthma. Eur. 
+Respir. 
+
+
+J. 
+12, 
+486–494 
+8 Nugent J., Ruperto N., Grainger J. et 
+al. Paediatric Rheumatology 
+International Trials Organisation (2001) The British version of 
+the Childhood Health Assessment Questionnaire (CHAQ) and 
+the Child Health Questionnaire (CHQ). Clin. 
+Exp. 
+Rheumatol. 
+19(Suppl. 23), 
+S163–S167 
+
+9 Mitchell R.B., Kelly J., Call E. et 
+al. (2004) Long-term changes 
+in quality of life after surgery for pediatric obstructive sleep 
+apnea. Arch. 
+Otolaryngol. 
+Head 
+Neck 
+Surg. 
+130, 
+409–412 
+
+10 Tran K.D., Nguyen C.D., Weedon J. et 
+al. (2005) Child behavior 
+and quality of life in pediatric obstructive sleep apnea. Arch. 
+Otolaryngol. 
+Head 
+Neck 
+Surg. 
+131, 
+52 
+
+11 Mitchell R.B., Kelly J., Call E. et 
+al. (2004) Quality of life after adenotonsillectomy 
+for obstructive sleep apnea in children. Arch. 
+Otolaryngol. 
+Head 
+Neck 
+Surg. 
+130, 
+190–194 
+
+12 Mitchell R.B. & Kelly J. (2005) Quality of life after adenotonsillectomy 
+for SDB in children. Otolaryngol. 
+Head 
+Neck 
+Surg. 
+133, 
+569–577 
+
+13 Mitchell R.B. & Kelly J. (2004) Outcome of adenotonsillectomy 
+for severe obstructive sleep apnea in children. Int. 
+J. 
+Pediatr. 
+Otorhinolaryngol. 
+68, 
+1375–1379 
+
+14 Mitchell R.B. & Kelly J. (2004) Adenotonsillectomy for obstructive 
+sleep apnea in obese children. Otolaryngol. 
+Head 
+Neck 
+Surg. 
+131, 
+104–108 
+
+15 Goldstein N.A., Fatima M., Campbell T.F. et 
+al. (2002) Child behavior 
+and quality of life before and after tonsillectomy and adenoidectomy. 
+Arch. 
+Otolaryngol. 
+Head 
+Neck 
+Surg. 
+128, 
+770 
+
+16 De Serres L.M., Derkay C., Astley S. et 
+al. (2000) Measuring 
+quality of life in children with obstructive sleep disorders. Arch. 
+Otolaryngol. 
+Head 
+Neck 
+Surg. 
+126, 
+1423–1429 
+
+17 De Serres L.M., Derkay C., Sie K. et 
+al. (2002) Impact of adenotonsillectomy 
+on quality of life in children with obstructive sleep 
+disorders. Arch. 
+Otolaryngol. 
+Head 
+Neck 
+Surg. 
+128, 
+489–496 
+
+18 Flanary V.A. (2003) Long-term effect of adenotonsillectomy on 
+quality of life in pediatric patients. Laryngoscope 
+113, 
+1639– 
+1644 
+
+19 Stewart M.G., Glaze D.G., Friedman E.M. et 
+al. 
+(2005) Quality 
+of life and sleep study findings after adenotonsillectomy in children 
+with obstructive sleep apnea. Arch. 
+Otolaryngol. 
+Head 
+Neck 
+Surg. 
+131, 
+308–314 
+
+20 Georgalas C., Tolley N. & Kanagalingam J. (2004) Measuring 
+quality of life in children with adenotonsillar disease with the 
+Child Health Questionnaire: a first UK study. Laryngoscope 
+114, 
+1849–1855 
+
+21 Campbell D.T. & Fisk D.W. (1959) Convergent and discriminant 
+validation by the multitrait–multimethod matrices. Psychol. 
+Bull. 
+56, 
+85–105 
+
+22 Nugent J., Ruperto N., Grainger J. et 
+al. (2001) The British version 
+of the Childhood Health Assessment Questionnaire 
+(CHAQ) and the Child Health Questionnaire (CHQ). Clin. 
+Exp. 
+Rheumatol. 
+19(Suppl. 23), 
+S163–S167. 
+
+23 Schechter M.S.; Section on Pediatric Pulmonology, Subcommittee 
+on Obstructive Sleep Apnea Syndrome (2002) Technical 
+report: diagnosis and management of childhood obstructive 
+sleep apnea syndrome. Pediatrics 
+109, 
+e69 
+
+24 Paradise J.L., Feldman H.M., Campbell T.F. et 
+al. 
+(2001) Effect 
+of early or delayed insertion of tympanostomy tubes for persistent 
+otitis media on developmental outcomes at the age of three 
+years. N. 
+Engl. 
+J. 
+Med. 
+344, 
+1179–1187 
+
+25 Maw R., Wilks J., Harvey I. et 
+al. 
+(1999) Early surgery compared 
+with watchful waiting for glue ear and effect on language development 
+in preschool children: a randomised trial. Lancet 
+353, 
+960–963 
+
+. 
+2007 The Authors 
+Journal compilation . 
+2007 Blackwell Publishing Limited, Clinical 
+Otolaryngology, 
+32, 
+268–274 
+
+

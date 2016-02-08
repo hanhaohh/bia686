@@ -1,0 +1,896 @@
+Evaluation of sleep-disordered breathing in children 
+
+HAN SOHN, MD, and RICHARD M. ROSENFELD, MD, MPH, Brooklyn, New York 
+
+OBJECTIVE: We evaluated changes in disease-specific 
+quality of life (QOL) for children with sleep-
+disordered breathing (SDB). 
+PATIENTS, DESIGN, AND SETTING: We conducted a 
+cohort study in 69 children (age range, 6 months to 
+13 years; median age, 6.1 years) from a hospital-
+based pediatric otolaryngology practice in a metropolitan 
+area. We used the OSA-18, an 18-item 
+QOL survey with known test-retest reliability, internal 
+consistency, and construct validity. Survey domains 
+included sleep disturbance, physical suffering, 
+emotional distress, daytime problems, and 
+caregiver concerns. 
+INTERVENTION: Tonsillectomy or adenoidectomy 
+was performed as part of routine clinical care. The 
+OSA-18 was completed at entry by the child’s caregiver 
+and again at least 4 weeks after surgery. 
+MAIN OUTCOME MEASURES: The validity of the 
+OSA-18 change score was assessed by comparison 
+with multiple external constructs, including a 
+validated measure of longitudinal change (OSD-6 
+survey). Responsiveness was assessed by the standardized 
+response mean (SRM). 
+RESULTS: The mean baseline OSA-18 survey score 
+was 3.1 (SD, 0.9) of a maximum 7.0, with higher 
+values indicating poorer QOL. Change scores were 
+available for all children, with a mean interval between 
+preoperative and postoperative surveys of 
+61 days (range, 42 to 92 days). The mean OSA-18 
+change score of 1.14 (SD, 0.71) showed significant 
+correlation with tonsil size (r . 
+0.40), adenoid size 
+(r . 
+0.31), OSD-6 change scores (r . 
+0.71), and the 
+direct caregiver estimates of change (r . 
+0.34). 
+OSA-18 change scores showed large responsiveness 
+to change (SRM 1.44; 95% confidence interval, 
+
+From the Department of Otolaryngology, State University of 
+New York Downstate Medical Center and The Long Island 
+College Hospital. 
+
+Presented at the Annual Meeting of the American Academy 
+of Otolaryngology–Head and Neck Surgery, Denver, CO, 
+September 9-12, 2001. 
+
+Reprint requests: Richard M. Rosenfeld, MD, MPH, Department 
+of Otolaryngology, 339 Hicks St, Brooklyn, NY 
+11201; e-mail: richrosenfeld@msn.com 
+
+Copyright © 2003 by the American Academy of Otolaryngology–
+Head and Neck Surgery Foundation, Inc. 
+
+0194-5998/2003/$30.00 . 
+0 
+
+doi:10.1067/mhn.2003.4 
+
+1.16 to 69), with the most responsive domains being 
+sleep disturbance, physical suffering, and caregiver 
+concerns. Significant responsiveness was also 
+demonstrated for the domains of daytime problems 
+and emotional distress. 
+CONCLUSIONS: The OSA-18 is a valid, reliable, and 
+responsive QOL measure that combines the advantages 
+of a discriminative and evaluative survey in a 
+single instrument. The OSA-18 is a useful measure of 
+patient-based outcomes for clinical trials, health 
+services research, and routine clinical care. 
+(Otolaryngol Head Neck Surg 2003;128:344-52.) 
+
+Sleep-disordered breathing (SDB) caused by 
+enlarged tonsils or adenoids is common in early 
+childhood.1 The characteristic feature of SDB is 
+habitual snoring, which may or may not be 
+associated with abnormal gas exchange. SDB 
+without alterations in alveolar ventilation or 
+sleep architecture is called primary snoring and 
+affects up to 12% of young children. In contrast, 
+SDB with associated apneas or hypopneas affects 
+between 1% and 3% of children and is 
+called obstructive sleep apnea syndrome 
+(OSAS).2 Because OSAS and primary snoring 
+cannot be distinguished without polysomnography,
+3 the broader term SDB is more relevant for 
+everyday clinical practice. 
+
+SDB is an increasingly common indication for 
+tonsillectomy and adenoidectomy (T&A).4 Despite 
+the large number of patients undergoing surgery, 
+the ability to assess patient-based outcomes 
+is limited. Change within patients is best measured 
+using an evaluative survey, administered before 
+and after an intervention or period of observation. 
+The only existing evaluative instrument for obstructive 
+sleep disorders, the OSD-6, was not validated 
+against polysomnography and has unknown 
+discriminative ability.5 In contrast, a discriminative 
+survey measures differences between patients 
+at a single point in time. We previously validated 
+the OSA-18 survey as a discriminative instrument 
+using polysomnography, but the evaluative properties 
+are unknown.6 An evaluative survey is 
+needed, however, because SDB has a large impact 
+on global and disease-specific QOL.6,7 
+
+
+Otolaryngology– 
+Head and Neck Surgery 
+
+
+Volume 128 Number 3 
+
+The purpose of our investigation was to validate 
+the OSA-18 as a measure of longitudinal 
+change in disease-specific quality of life (QOL) 
+for children with SDB of sufficient severity to 
+warrant intervention. Changes in QOL are important 
+to clinicians and patients because they 
+measure perceived effectiveness. Evaluative 
+surveys have been used successfully to measure 
+QOL changes after tympanostomy tube insertion 
+for children with chronic or recurrent otitis 
+media and to classify these changes as trivial, 
+small, moderate, or large.8 A similar measure 
+for SDB would permit rapid evaluation of QOL 
+changes in individuals undergoing medical or 
+surgical interventions. Further, validating the 
+OSA-18 as a measure of change within individuals 
+would provide clinicians with a single instrument 
+that possessed both discriminative and 
+evaluative properties. 
+
+METHODS 
+
+This prospective, observational study was approved 
+by the institutional review board of the 
+Long Island College Hospital in Brooklyn, New 
+York. A consecutive sample of patients was 
+recruited from July 1, 1999, through December 
+31, 1999. A sample size of 68 subjects was 
+needed to detect a moderate effect size (standardized 
+response mean [SRM]) assuming an . 
+of 0.05 and . 
+of 0.20.9 This size would also 
+permit detection of a population correlation as 
+low as 0.30, which was adequate for the anticipated 
+levels in this study. 
+
+Specific inclusion criteria were age 6 months 
+through 12 years, inclusive; history of snoring and 
+disrupted sleep for 3 months or longer; and scheduled 
+for tonsillectomy, adenoidectomy, or T&A as 
+part of routine clinical care. Specific exclusion 
+criteria were prior tonsil or adenoid surgery; 
+Down or other syndrome involving the head and 
+neck; neuromuscular disorders; cleft palate or previous 
+pharyngeal surgery; known cognitive deficit 
+or mental retardation; known psychiatric disorder; 
+or inability of caregiver to read and understand 
+English. To ensure that at least some children 
+studied would have small or trivial changes in 
+SDB-related QOL after surgery, we also sought to 
+include 15 to 20 children undergoing tonsil or 
+adenoid surgery for recurrent infection. 
+
+SOHN and ROSENFELD 345 
+
+The primary outcome measure was the 
+OSA-18 survey (Fig a), a valid and reliable 
+discriminative QOL measure for children with 
+varying levels of SDB.6 The OSA-18 has been 
+previously shown to possess satisfactory test-
+retest reliability and internal consistency.6 The 
+survey consists of 18 items grouped into 5 domains: 
+sleep disturbance (4 items), physical suffering 
+(4 items), emotional distress (3 items), 
+daytime problems (3 items), and caregiver concerns 
+(4 items). Items are scored on a 7-point 
+ordinal scale and have excellent test-retest reliability 
+(R . 
+0.74). The overall survey score is 
+calculated as the mean of the 18 items, which 
+correlates significantly with the respiratory distress 
+index (R . 
+0.43) and adenoid size (R . 
+0.43). The OSA-18 also provides a direct global 
+rating of SDB-related QOL via a 10-point visual 
+analogue scale with specific semantic anchors. 
+
+Data were collected at 2 consecutive times 
+(from the same caregiver) during the routine 
+care of a child scheduled for surgery meeting 
+the above criteria: the day of surgery (visit 1) 
+and approximately 2 to 4 months later (visit 2). 
+At visit 1 the caregiver completed the OSA-18 
+survey,6 OSD-6 survey,5 and a 3-item questionnaire 
+used to calculate an OSAS score based on 
+a discriminant function described by Brouilette 
+et al.10 The discriminant function ranks the 
+probability of OSAS for a given child as low, 
+intermediate, or high. Tonsil size was categorized 
+from 1. 
+to 4. 
+using standard criteria,11 
+and adenoid size was also categorized on a 
+4-point scale based on the degree of choanal 
+obstruction observed at surgery.6 
+
+At visit 2 the parent or caregiver who provided 
+information at visit 1 completed a second 
+OSA-18 survey, second OSD-6 survey, and a 
+change assessment form. The change assessment 
+form provided a direct caregiver estimate 
+of longitudinal change using a 7-point scale 
+described by Juniper and colleagues.12 A response 
+of “no change” or “almost the same” 
+indicated trivial change and was coded as zero. 
+Otherwise, a value of 1 to 3 was assigned to the 
+degree of reported change as follows: “a little” 
+or “somewhat” indicated small change and was 
+coded as 1; “moderately” or “a good deal” indicated 
+moderate change and was coded as e; “a 
+
+
+Otolaryngology– 
+Head and Neck Surgery 
+
+346 SOHN and ROSENFELD March 2003 
+
+
+Fig 1. The OSA-18 quality-of-life survey for sleep disordered breathing. The survey score is calculated as the mean of the 
+18 items. The direct global rating of quality of life at the bottom of the form (visual analogue scale) provides additional 
+information but is not used in calculating the survey score. 
+
+
+Otolaryngology– 
+Head and Neck Surgery 
+
+
+Volume 128 Number 3 
+
+great deal” or “a very great deal” indicated large 
+change and was coded as 3. Improvement was 
+coded as a positive value, and worsening was 
+coded as a negative value. The direct caregiver 
+estimate of change, therefore, ranged from 3 
+to 3 in integer increments. 
+
+Validity of the OSA-18 as a measure of longitudinal 
+change was determined using the change 
+score, calculated by subtracting the mean survey 
+score at visit 2 from the mean score at visit 1. The 
+OSA-18 change score was correlated with 3 external 
+construct measures: (1) direct caregiver estimate 
+of change, (2) OSD-6 change score, and (3) 
+global change score from the OSA-18 visual analogue 
+scale. Data from other evaluative surveys 
+with 7-point response scales suggest that change 
+scores of 0.5 indicate trivial change, 0.5 to 0.9 
+indicate small change, 1.0 to 1.4 indicate moderate 
+change, and 1.5 indicate large change.8,12 
+
+Responsiveness to longitudinal change was also 
+assessed using the SRM, defined as the change 
+score divided by its standard deviation. As a measure 
+of effect size, the SRM describes signal-tonoise 
+ratio.13 Ideally, the signal (variations in the 
+change score caused by true change) should be 
+high relative to the noise (variations in the change 
+score caused by random error). Because SRMs are 
+ideally determined before and after an intervention 
+of known efficacy, only the change scores for 
+patients undergoing surgery for a primary indication 
+of SDB were included for this part of the 
+analysis. SRMs were determined for the OSA-18 
+overall score, domain score, and individual items. 
+The OSA-18 overall score SRM was correlated 
+with the SRM for the OSD-6 as a further validity 
+assessment. 
+
+Data entry was performed using a microcomputer 
+database and verified for 100% accuracy. All 
+statistical analyses were performed using True Epistat 
+software.14 Pearson correlation was used to 
+compare numerical data and a t test for comparison 
+of the mean was used to determine the significance 
+of change scores. A parametric approach 
+was used because the data had a relatively symmetric 
+distribution, with only trivial changes in 
+results when nonparametric tests (Spearman rank 
+correlation) were substituted. A 2-sided . 
+level of 
+
+0.05 was used for all hypothesis tests, and 95% 
+SOHN and ROSENFELD 347 
+
+confidence intervals (CIs) were calculated for primary 
+results when applicable. 
+
+RESULTS 
+
+Sixty-nine patients met eligibility criteria for 
+the study. The median age was 6.1 years (range, 
+
+1.4 to 13.1 years), with a 64% male predominance. 
+The ethnic distribution was 64% white, 25% 
+black, 10% Hispanic, and 1% Asian. Surveys were 
+completed by the child’s mother (90%) or father 
+(10%), with a high school (54%) or college level 
+(46%) education. Fifty-four children (78%) had 
+surgery for a primary indication of sleep-disordered 
+breathing, while the remaining 15 children 
+(22%) had recurrent or chronic infections as the 
+primary surgical indication. 
+Surgical procedures included 35 tonsillectomies 
+and adenoidectomies (52%), 30 adenoidectomies 
+alone (44%), and 3 tonsillectomies alone (4%). 
+The degree of baseline oropharyngeal obstruction 
+caused by the tonsils was 25% for 3 children 
+(4%), between 26% and 50% for 32 children 
+(47%), between 51% and 75% for 23 children 
+(33%), and 75% for 11 children (16%). The 
+degree of baseline nasopharyngeal obstruction 
+caused by the adenoids was between 26% and 
+50% for 15 children (22%), between 51% and 
+75% for 30 children (43%), and 76% for 24 
+children (35%). Study results were not stratified 
+by the type of surgery performed (tonsillectomy 
+versus adenoidectomy) because the outcome of 
+interest was change in SDB, not the effectiveness 
+of a specific surgical procedure. 
+
+Preoperative responses for the OSA-18 survey 
+are shown in Table 1. Sleep disturbance and physical 
+suffering were the highest rated domains, followed 
+by caregiver concerns, daytime problems, 
+and emotional distress. A similar rank order was 
+observed for the OSD-6 item responses listed in 
+Table 2. The mean OSA-18 survey score was 3.1 
+(SD, 0.9), which suggested the impact of SDB on 
+QOL was small for 47 children (68%), moderate 
+for 14 (20%), and large for 8 (12%). The mean 
+Brouilette score10 was 0.68 (SD, 1.93), with 15 
+children (22%) classified as low probability of 
+obstructive sleep apnea, 50 (72%) as intermediate 
+probability, and 4 (6)% as high probability. The 
+mean global QOL rating on the OSA-18 was 5.2 
+(SD, 2.0). 
+
+
+Otolaryngology– 
+Head and Neck Surgery 
+
+348 SOHN and ROSENFELD March 2003 
+
+Table 1. Preoperative domain scores for the OSA-18 survey (N . 
+69) 
+
+OSA-18 domain Domain content (items) 
+Response, 
+mean (SD)* 
+Sleep disturbance 
+Physical suffering 
+Emotional distress 
+Daytime problems 
+Caregiver concerns 
+Overall survey score 
+Loud snoring; breath holding or pauses in breathing; choking 
+or gasping; fragmented sleep 
+Mouth breathing; frequent colds or URIs; rhinorrhea; dysphagia 
+Mood swings or temper tantrums; aggressive or hyperactive 
+behavior; discipline problems 
+Excessive drowsiness or sleepiness; poor attention span; difficulty 
+awakening 
+Caregiver worried over child health; concerned not getting 
+enough air; missed activities; frustration 
+Mean score for all 18 items 
+3.7 (1.2) 
+3.5 (1.0) 
+2.6 (1.6) 
+2.6 (1.1) 
+3.2 (1.3) 
+3.1 (0.9) 
+URIs, Upper respiratory infections. 
+*Responses are graded on an ordinal scale, from 1 to 7, with higher numbers indicating poorer quality of life. 
+Table 2. Preoperative item scores for the OSD-6 survey (N . 
+69) 
+OSA-18 domain Domain content 
+Response, 
+mean (SD)* 
+Physical suffering 
+Sleep disturbance 
+Speech or swallowing 
+problems 
+Emotional distress 
+Activity limitations 
+Caregiver concerns 
+Overall survey score 
+Sore throat, dry throat, nasal congestion, completely 
+blocked nose, bedwetting, excessive daytime 
+tiredness, failure to gain weight, bad breath 
+Snoring, choking or gasping for air, stopping 
+breathing for a few seconds, restless sleep, difficult 
+to awaken from sleep, chest caving in with 
+breathing 
+Difficulty swallowing certain foods, choking on 
+foods, muffled speech, nasal sounding speech, 
+poor pronunciation 
+Irritable, frustrated, sad, restless, poor appetite, 
+can’t pay attention, or child made fun of because 
+of snoring 
+Playing, participating or excelling at sports, doing 
+things with friends or family, attending school or 
+day care 
+Caregiver worry, concern, inconvenience 
+Mean score for all 6 items 
+4.1 (1.4) 
+4.1 (1.5) 
+2.7 (1.7) 
+2.5 (1.6) 
+2.0 (1.3) 
+3.5 (1.7) 
+3.2 (1.2) 
+
+*Responses are graded on an ordinal scale, from 1 to 7, with higher numbers indicating poorer quality of life. 
+
+The OSA-18 survey score had very good correlation 
+with the OSD-6 survey score (r . 
+0.73, 
+P . 
+0.0001) and with the Brouilette score (r . 
+0.69, P . 
+0.0001); about 50% of the variations in 
+one score could be predicted by variations in the 
+other. Similarly, the OSA-18 change score had 
+very good correlation with the OSD-6 change 
+score (r . 
+0.71, P . 
+0.0001). Change scores were 
+available for all children, with a mean interval 
+between preoperative and postoperative surveys of 
+61 days (range, 42 to 92 days). The OSA-18 
+
+Table 3. OSA-18 change scores vs degree of 
+clinical change* 
+
+OSA-18 change score 
+
+Change reported 
+by caregiver (n) Mean 95% CI Range 
+
+None or trivial (5) 0.56 1.07 to 2.03 0-1.4 
+Small clinical change (20) 0.85 0.55 to 1.12 0.1-2.1 
+Moderate clinical change (42) 1.17 0.88 to 1.44 0.1-2.9 
+Large clinical change (22) 1.27 0.96 to 1.49 0.3-2.6 
+
+CI, Confidence interval. 
+*Pearson correlation R . 
+0.34, P . 
+0.005. 
+
+
+
+Otolaryngology– 
+Head and Neck Surgery 
+
+
+Volume 128 Number 3 SOHN and ROSENFELD 349 
+
+Table 4. Effect size for change in quality of life after surgery (N . 
+54)* 
+
+OSA-18 domain 
+Change score 
+mean (SD)† 
+Effect size 
+(95% CI)‡ P value 
+Sleep disturbance 
+Physical suffering 
+Emotional distress 
+Daytime problems 
+Caregiver concerns 
+Overall OSA-18 score 
+1.65 (1.07) 
+1.21 (0.94) 
+0.41 (1.34) 
+0.91 (1.03) 
+1.38 (1.18) 
+1.14 (0.71) 
+1.54 (1.26-1.82) 
+1.29 (1.00-1.56) 
+0.31 (0.02-0.57) 
+0.88 (0.59-1.11) 
+1.17 (0.90-1.44) 
+1.61 (1.32-1.89) 
+0.001 
+0.001 
+0.029 
+0.001 
+0.001 
+0.001 
+
+CI, Confidence interval. 
+*Includes 54 children with a primary surgical indication of sleep-disordered breathing; excludes 15 children with a primary surgical indication 
+of chronic or recurrent infection. 
+
+
+†Difference in OSA-18 scores before and after surgery. 
+‡Standardized response mean (mean change score divided by its standard deviation); values of 0.2 indicate a small effect; 0.5, a moderate effect; 
+and 0.8, a large effect. 
+change score did not correlate with change in the 
+direct global QOL rating (r . 
+0.21, P . 
+0.082). 
+
+There was fair correlation between the direct 
+change estimate and the OSA-18 change score 
+(r . 
+0.34, P . 
+0.005). Results (Table 3) are 
+similar to other surveys with a 7-point response 
+scale, with 0.5 to 1.0 suggesting a small clinical 
+change and 1.0 suggesting a moderate or large 
+change. The small number of children (n . 
+5) 
+having no change makes this result imprecise, but 
+the mean value is consistent with other surveys. 
+The OSA-18 change score showed fair correlation 
+with baseline tonsil size (r . 
+0.40, P . 
+0.001) and 
+adenoid size (r . 
+0.31, P . 
+0.009). In contrast, 
+the OSD-6 change score showed poorer correlation 
+with tonsil size (r . 
+0.30, P . 
+0.014) and did 
+not correlate with adenoid size (r . 
+0.18, P . 
+0.129). 
+
+Effect sizes for change in QOL after surgery 
+(Table 4) suggest large responsiveness to change 
+for the OSA-18 survey. The lower limit of the 
+95% CI for the SRM also indicated large responsiveness 
+for the domains of sleep disturbance, 
+physical suffering, and caregiver concerns; daytime 
+problems had moderate to large responsiveness, 
+and emotional distress had small responsiveness 
+(which was statistically significant). The 
+OSD-6 survey also demonstrated large responsiveness 
+to change (SRM, 1.44; 95% CI, 1.16 to 
+1.69), but the SRM was slightly less than for the 
+OSA-18 (SRM, 1.61; 95% CI, 1.32 to 1.89). 
+
+The level of clinical change detected by the 
+OSA-18 and OSD-6 can be categorized as trivial, 
+small, moderate, and large (Table 5) using change 
+
+score cut points of 0.50, 1.00, and 1.50. Thirty-six 
+children (52%) had concordant change levels on 
+both surveys, and 59 (86%) had scores on one 
+survey within 1 level of the other survey. More 
+children had large change as judged by the OSD-6 
+(42%) than by the OSA-18 (22%); responses for 
+trivial change were more consistent (17% versus 
+20%). Overall, the OSA-18 produced a more 
+evenly distributed range of response improvement 
+than did the OSD-6. 
+
+DISCUSSION 
+
+Our study validates the OSA-18 as a measure of 
+longitudinal change for children aged 1 to 12 years 
+with SDB secondary to enlarged tonsils or adenoids. 
+Clinicians and researchers can use the 
+OSA-18 to categorize the baseline impact of SDB 
+on QOL as small, moderate, or large (Table 6) and 
+to quantify changes in QOL over time as trivial, 
+small, moderate, or large (Table 6). The OSA-18 
+is the only survey that has been validated as both 
+a discriminative measure of SDB severity among 
+individuals, and as an evaluative measure of longitudinal 
+change in SDB status. Discrimination 
+and evaluation are distinct survey properties that 
+require separate validation and assessment.15 The 
+OSA-18 was previously validated as a discriminative 
+measure,6 and the present study validates the 
+survey’s responsiveness. 
+
+Other QOL measures exist for children with 
+adenotonsillar disease. Stewart16 validated a 15item 
+survey for tonsil and adenoid morbidity, including 
+recurrent infection, but change in children 
+with SDB was not specifically addressed. In con
+
+
+
+Otolaryngology– 
+Head and Neck Surgery 
+
+350 SOHN and ROSENFELD March 2003 
+
+Table 5. Comparison of change magnitude on OSA-18 survey vs OSD-6 survey* 
+
+OSD-6 change 
+score Trivial 
+OSA-18 change score 
+Small Moderate Large 
+Total n 
+(%) 
+Trivial 
+Small 
+Moderate 
+Large 
+Total, n (%) 
+7 
+5 
+2 
+— 
+14 (20) 
+4 
+8 
+2 
+7 
+21 (30) 
+1 
+1 
+8 
+9 
+19 (28) 
+— 
+— 
+2 
+13 
+15 (22) 
+12 (17) 
+14 (20) 
+14 (20) 
+29 (42) 
+69 (100) 
+*Pearson correlation R . 
+0.71, R . 
+0.001. 
+
+Table 6. How to administer, score, and interpret 
+the OSA-18 quality of life survey 
+
+1. The target population is otherwise healthy children 
+aged 6 months to 12 years with sleep-disordered 
+breathing, manifest by primary snoring or 
+obstructive sleep apnea syndrome. 
+2. The child’s parent or caregiver completes the 
+OSA-18 at baseline. Item responses are totaled to 
+produce a severity score ranging from 18 (best 
+QOL) to 126 (poorest QOL). A severity score less 
+than 60 suggests a small impact on disease-specific 
+QOL, scores of 60 to 80 suggest a moderate 
+impact, and scores above 80 suggest a large impact. 
+3. The baseline survey score is calculated as the 
+mean of the 18-item scores. The global QOL rating 
+at the bottom of the survey form is read directly 
+and is not used when calculating the baseline 
+survey score. 
+4. The same person who completed the baseline 
+OSA-18 completes a second survey after a specific 
+intervention (observation, medicine, or surgery), 
+with a minimum time between surveys of 4 
+weeks. The follow-up survey score is calculated as 
+the mean of the 18-item scores. 
+5. A change score is calculated by subtracting the 
+follow-up survey score from the baseline survey 
+score. A positive value indicates clinical improvement, 
+and a negative value indicates deterioration. 
+A change score of less than 0.5 indicates trivial 
+change, 0.5 to 0.9 indicates small change, 1.0 to 
+1.4 indicates moderate change, and 1.5 or greater 
+indicates large change. 
+QOL, Quality of life. 
+
+trast, de Serres and colleagues5 validated a 6-item 
+evaluative measure, the OSD-6. The OSD-6 uses a 
+single question to assess a given domain, scoring 
+a positive response if any of a list of related 
+aspects of SDB presentation has occurred. Although 
+a highly efficient use of parental time, this 
+“any of” grouping may be more bias prone than a 
+
+separate listing of SDB aspects within each domain 
+(as occurs in the OSA-18).17 Second, unlike 
+the OSA-18, the OSD-6 has not been validated 
+against polysomnography. 
+
+Change in health status can be measured directly 
+by asking people how much better or worse 
+they feel after an intervention or indirectly by 
+assessing health status at two time points and 
+studying the difference.13 Clinicians often use the 
+direct approach, exemplified by questions such as 
+“Since your child had surgery, how much has their 
+quality of life changed?” Although this is a time-
+honored approach, there are good reasons not to 
+ask about change directly: people simply do not 
+remember how they were at the beginning, and 
+retrospective estimates of initial state are typically 
+highly correlated with the present state (not the 
+initial state). Because of these problems, indirect 
+measurement of change is preferable.15-18 
+
+Change scores are the preferred indirect measure 
+of change in QOL for individuals.9,19 The 
+change score is easily calculated by subtracting 
+the follow-up survey score from the baseline score 
+for the same patient (Table 6). A positive change 
+score indicates a clinical improvement, and a negative 
+score indicates a deterioration. The magnitude 
+of the change score reflects the degree of 
+change experienced by a given individual and has 
+immediate clinical relevance. When using a 
+7-point response scale, change scores of 0.5 generally 
+indicate a small change, 1.0 indicates a 
+moderate change, and 1.5 indicates a large 
+change.12 These cutpoints appear similar for most 
+7-point response scales, including the OSD-6 and 
+the OSA-18 surveys. 
+
+Another measure of responsiveness to change is 
+the SRM, which is readily calculated as the mean 
+change score divided by its standard deviation.18 
+
+
+Otolaryngology– 
+Head and Neck Surgery 
+
+
+Volume 128 Number 3 
+
+SRMs obtained for the OSA-18 (Table 4) indicate 
+large responsiveness to change for the overall survey 
+score and for all domains except emotional 
+distress. The OSD-6 has shown even larger responsiveness 
+to change (SRM, 2.3)5 but for the 
+sample herein demonstrated comparable responsiveness 
+to the OSA-18 (SRM, 1.44 versus 1.61). 
+The OSA-18, however, produced a more even 
+distribution of change magnitude (Table 5) than 
+the OSD-6 for our study population. The OSD-6 
+yielded larger apparent benefits, with 42% of patients 
+having large change versus only 22% for the 
+OSA-18. Therefore, the OSA-18 yields more conservative 
+change estimates. Further, the OSA-18 
+change scores correlated with tonsil size (P . 
+.001) and adenoid size (P . 
+.009), whereas the 
+OSD-6 change score correlated only with tonsil 
+size (P . 
+.014). 
+
+Strengths of this study relate to the prospective 
+design and use of sound psychometric principles 
+for survey validation. The OSA-18 is also the only 
+existing SDB survey previously validated as a 
+discriminative measure using polysomnography. 
+Further advantages of the OSA-18 include simplicity, 
+self-administration, and a low response 
+burden (completion in about 5 minutes). The survey 
+does not contain age-specific questions, allowing 
+a single instrument to be used for children 
+aged 6 months through 12 years. While the OSD-6 
+also uses age-independent questions, the survey 
+was only validated for children aged 2 years. 
+
+Weaknesses of this study relate primarily to the 
+subject nature of QOL assessments and the difficulty 
+in finding “gold standard” measures to assess 
+criterion validity. To help reduce this problem, we 
+compared the OSA-18 change score with multiple 
+external constructs. Significant correlations were 
+obtained with the OSD-6 change score (r . 
+0.71, 
+P . 
+0.0001), direct change estimate (r . 
+0.34, 
+P . 
+0.005), baseline tonsil size (r . 
+0.40, P . 
+0.001), and baseline adenoid size (r . 
+0.31, P . 
+0.009). OSA-18 change scores, however, did not 
+correlate with the change in global quality of rating 
+(r . 
+0.21, P . 
+0.082). Rather than suggest a 
+problem with the OSA-18, we believe this further 
+highlights the inability of a single global question 
+to quantify change in disease-specific QOL. Despite 
+the above concerns, the robust effect sizes 
+
+SOHN and ROSENFELD 351 
+
+(Table 4) obtained for the OSA-18 provide additional 
+evidence of instrument responsiveness. 
+
+The OSA-18 is suitable for use in a wide variety 
+of situations for which patient-based outcomes are 
+desirable. The survey is self-administered and easily 
+completed by most caregivers in about 5 minutes. 
+Clinicians could generate effectiveness data 
+for marketing and quality improvement or for 
+comparison with outcomes achieved by colleagues. 
+Researchers could use the OSA-18 in 
+conjunction with objective outcome measures (eg, 
+polysomnography) to create expanded descriptions 
+of patient-based outcomes for clinical trials 
+and observational studies. We hope these efforts 
+will contribute to improved QOL and enlightened 
+clinical management of children with SDB. 
+
+REFERENCES 
+
+1. Gozal D. Sleep-disordered breathing and school performance 
+in children. Pediatrics 1998;102:616-20. 
+2. Owens J, Opipari L, Nobile C, et al. Sleep and daytime 
+behavior in children with obstructive sleep apnea and 
+behavioral sleep disorders. Pediatrics 1998;108:1178-84. 
+3. Carroll JL, McColley SA, Marcus CL, et al. Inability of 
+clinical history to distinguish primary snoring from obstructive 
+sleep apnea syndrome in children. Chest 1995; 
+108:610-8. 
+4. Rosenfeld RM, Green RP. Tonsillectomy and adenoidectomy: 
+changing trends. Ann Otol RhinolLaryngol 
+1990;99:187-91. 
+5. de Serres LM, Derkay C, Astley S, et al. Measuring 
+qualify of life in children with obstructive sleep disorders. 
+Arch Otolaryngol Head Neck Surg 
+2000;126:1423-9. 
+6. Franco RA, Rosenfeld RM, Rao M. Quality of life for 
+children with obstructive sleep apnea. Otolaryngol Head 
+Neck Surg 2000;123:9-16. 
+7. Stewart MG, Friedman EM, Sulek M, et al. Quality of 
+life and health status in pediatric tonsil and adenoid 
+disease. Arch Otolaryngol Head Neck Surg 2000;126: 
+45-8. 
+8. Rosenfeld RM, Bhaya MH, Bower CM, et al. Impact of 
+tympanostomy tubes on child quality of life. Arch Otolaryngol 
+Head Neck Surg 2000;126:585-92. 
+9. Guyatt G, Walter S, Norman G. Measuring change over 
+time: assessing the usefulness of evaluative instruments. 
+J Chron Dis 1987;40:171-8. 
+10. Brouilette R, Hanson D, David A, et al. A diagnostic 
+approach to suspected obstructive sleep apnea in children. 
+J Pediatr 1984;105:10-4. 
+11. Brodsky L. Modern assessment of the tonsils and adenoids. 
+Pediatr Clin North Am 1989;36:1551-69. 
+12. Juniper EF, Guyatt GH, Willan A, et al. Determining a 
+minimal important change in a disease-specific quality of 
+life questionnaire. J Clin Epidemiol 1994;47:81-7. 
+13. Streiner DL, Norman GR. Health measurement scales: a 
+practical guide to their development and use. Oxford 
+(UK): Oxford Medical Publications; 1995. 
+
+352 SOHN and ROSENFELD 
+
+14. Gustafson TL. True Epistat reference manual, 5th ed. 
+Richardson (TX): Epistat Services; 1994. 
+15. Guyatt GH, Feeny DH, Patrick DL. Measuring health-
+related quality of life. Ann Intern Med 1993;118:622-9. 
+16. Stewart MG. Pediatric outcomes research: development 
+of an outcomes instrument for tonsil and adenoid disease. 
+Laryngoscope 2000;110:12-5. 
+17. Haggard MP, Smith SC. Impact of otitis media on child 
+quality of life. In: Rosenfeld RM, Bluestone CD, editors. 
+Otolaryngology– 
+Head and Neck Surgery 
+
+March 2003 
+
+Evidence-based otitis media. Hamilton: BC Decker Inc; 
+1999. p. 375-98. 
+
+18. Liang MH, Fossel AH, Larson MG. Comparisons of five 
+health status instruments for orthopedic evaluation. Med 
+Care 1992;28:632-42. 
+19. Deyo RA, Diehr P, Patrick DL. Reproducibility and 
+responsiveness of health status measures: statistics and 
+strategies for evaluation. Control Clin Trials 1991;12: 
+142S-58S. 
+

@@ -1,0 +1,620 @@
+International Journal of Pediatric Otorhinolaryngology (2006) 70, 419—424 
+
+
+www.elsevier.com/locate/ijporl 
+
+Neurocognitive abilities in children with 
+adenotonsillar hypertrophy 
+
+Piotr Kurnatowski a,*, Leszek Putyn´skib,1, Magdalena Lapienisc,2, 
+Barbara Kowalska b 
+
+a Department of Biology and Medical Genetics, Medical University, pl. Hallera 1 Building No. 2, 
+90-647 Lo´dz´, Poland 
+bDepartment of Psychology, University of Lo´dz´, Smugowa 10/12, 91-433 Lo´dz´, Poland 
+c Department of Otorhinolaryngology, Medical University, Paderewskiego 4, 93-509 Lo´dz´, Poland 
+
+Received 6 April 2005; accepted 15 July 2005 
+
+KEYWORDS Summary 
+Sleep-disordered 
+breathing; 
+Apnea; 
+Adenotonsillar 
+Objective: Sleep apnea is one of the most deleterious disorders in children with 
+adenotonsillar hypertrophy because it can induce hypoxemia of brain. Sleep apnea 
+may lead to failure to thrive or to physical and mental delay in development, including 
+hypertrophy; 
+Minimal brain 
+cognitive disturbances. 
+The aim of this study was to analyze the influence of adenotonsillar hypertrophy, 
+dysfunction; 
+Behavior disturbances; 
+causing obstructive sleep apnea on neurocognitive abnormalities. 
+We were interested in sensorimotor coordination, perception, memory, learning 
+Neurocognitive deficits ability, concentration, focused attention and language reception. 
+Materials and methods: We examined 221 children. One-hundred and seventeen 
+children had sleep apnea caused by adenotonsillar hypertrophy: 87 children aged 6—9 
+years and 34 children aged 10—13 years. The control group, without adenotonsillar 
+hypertrophy, consisted of 104 healthy children. Both groups of children with and 
+without apnea were examined psychologically to determine abilities and minor 
+neurocognitive deficit. The token test (TT), diagnosis test of brain dysfunction 
+(DCS-test), Luria auditory verbal learning test (LAVLT) and Rey complex figure test 
+(RCFT) were applied to both groups. The tests: TT, DCS-test, RCFT were used to 
+investigate the level of sensorimotor integration and perception processes. Memory 
+and learning abilities were measured using LAVLT. The TT assessed language dysfunction 
+in children. 
+
+* Corresponding author. Tel.: +48 42 63 93 370; fax: +48 42 63 93 371. 
+E-mail addresses: pkurnatowski@yahoo.com(P.Kurnatowski), putek@invar.net.pl(L. Putyn´ski), mmagdal@gazeta.pl(M. Lapienis). 
+1 Tel.: +48 42 66 55 522. 
+2 Tel.: +48 42 689 54 62. 
+
+0165-5876/$ — see front matter # 
+2005 Elsevier Ireland Ltd. All rights reserved. 
+doi:10.1016/j.ijporl.2005.07.006 
+
+
+P. Kurnatowski et al. 
+Results: This study shows that adenotonsillar hypertrophy in children aged 6—9 years 
+is associated with neurocognitive abnormalities such as: memory problems, concentration 
+of attention deficits, learning disability, language dysfunction, lower sensorimotor 
+integration and perception. 
+
+The older children (aged 10—13 years) with adenotonsillar hypertrophy had 
+memory problems and learning disabilities. They are likely to be caused by of 
+concentration of attention deficits. The older children were found to have more 
+severe language dysfunction. 
+Conclusions: Our study shows that sleep apnea may lead to neurocognitive deficits. 
+The results may be helpful in the process of making decision for or against surgery in 
+doubtful cases. 
+
+It is important to know the problems connected with apnea in order to recognize 
+them and help the child develop by providing adequate treatment and cognitive 
+stimulation. 
+# 
+2005 Elsevier Ireland Ltd. All rights reserved. 
+
+1. Introduction 
+Sleep-related breathing disorders range in disease 
+severityfromprimaryor simplesnoring(snoringwithout 
+blood gas abnormalities) through upper airway 
+resistance syndrome (UARS-snoring, increased work 
+of breathing and nocturnal arousals with a normal 
+blood gas profile) and at the severe end of the 
+spectrum, obstructive sleepapnea syndrome(OSAS). 
+
+Obstructive sleep apnea (cessation of air movement 
+past the pharynx in conjunction with continued 
+chest and diaphragmatic activity that last 
+longer than two (1/2) breaths each) is one of the 
+most deleterious disorders in children with adenotonsillar 
+hypertrophy because it can induce hypoxemia 
+of brain [1]. The other major symptoms of 
+obstructive sleep apnea are: snoring, pauses in 
+breathing, cough, sweat, enuresis andrestless sleep 
+[2,18]. The level of oxygen in blood falls, the pulse 
+and the blood pressure oscillate and during sleep 
+some changes in EEG and ECG may be observed. 
+Daytime somnolence, fatigue, headaches, poor 
+appetite, short attention span are caused by constant 
+hypoxia and frequent arousals [14,16,19]. 
+Moreover respiratory disorders and frequent infections 
+of upper respiratory tract appear in children 
+with sleep-disordered breathing [1,3,5,6,10]. Sleep 
+apnea may lead to failure to thrive and to physical 
+and mental delayin development, including cognitive 
+disturbances [12,20]. 
+
+Adenotonsillar hypertrophy plays a role in the 
+pathogenesis of childhood sleep apnea. The size 
+of the tonsils and adenoids increases during child-
+hood;thus all children have some degree of adenotosillar 
+hypertrophy. The lymphoid tissue in the 
+upper airway increases in volume from birth to 
+approximately 12 years of age. Simultaneouslythere 
+is gradual growth in the size of the skeletal boundaries 
+of the upper airway. Thus, between 3 and 6 
+
+years of age, the tonsils and adenoids are largest in 
+relation to the underlying upper airway size, resultingina 
+relatively narrow upperairway.Other causes 
+of sleep apnea in children include obesity, craniofacial 
+and neuromuscular disease [14]. 
+
+If the physicalexamination (including tonsil size) 
+and clinical history do not provide for a reliable 
+diagnosis, the gold standard–—polysomnography 
+(PSG) can be ordered [2,10]. 
+
+The aim of this study was to analyze the influence 
+of adenotonsillar hypertrophy, causing obstructive 
+sleep apnea on neurocognitive abnormalities. 
+
+2. Subjects 
+A total of 221 children from primary, secondary 
+schools and from the last class of kindergarten were 
+examined. One-hundred and seventeen children had 
+obstructive sleep apnea caused by adenotonsillar 
+hypertrophy: 87 children aged 6—9 years and 34 
+children aged 10—13 years. Study group with adenotonsillar 
+hypertrophy was examined before their 
+adenotonsillectomy. 
+
+The control group without adenotonsillar hypertrophy 
+consisted of 104 healthy children in the 
+similar age ranges (74 aged 6—9 years and 30 aged 
+10—13 years). 
+
+3. Methods 
+Allpatientswiththeirparents filledoutthesymptoms 
+questionnaire. Then children underwent complete 
+physical examination, nocturnal polysomnography 
+and psychological testing, to determine abilities 
+and minor neurocoqnitive deficit. 
+
+The questionnaire included inquiry about medical 
+history, physiological, emotional and behavioural 
+
+
+Neurocognitive abilities in children with adenotonsillar hypertrophy 
+
+problems. The parents signed an informed consent 
+from. 
+
+Physical examination documented adenotonsillar 
+hypertrophy and malocclusion. Tonsil size was 
+graded from 1 to 4. 
+
+Obstructive sleep apnea was confirmed by polysomnography-
+Sleep/Lab/Pro/Erich Jaeger EmbH-
+Wurzburg. PSG studies were performed overnight 
+in a quiet, dark room. No sedation or sleep deprivation 
+was used. During PSG the following parameters 
+were recorded: electroencephalogram(C3,C4), sub-
+mental surface electromyogram (EMG), surface EMG 
+r/l tibialis anterior, electrooculogram (EOG), electrocardiogram 
+(EKG), nasal airflow (thermistor), 
+thoracic and abdominal effort, hemoglobin saturation 
+(pulse oximetry), snoring (microphone). The 
+obstructive apnea index (OAI) was defined as the 
+number of obstructive apneas per hour of sleep. A 
+diagnosis of obstructive sleep apnea was based on 
+PSG in patient with obstructive apnea index >1and 
+oxygen desaturation SpO2 
+< 
+92% [10]. 
+
+In neuropsychological tests we were interested in 
+sensorimotor coordination, perception, memory, 
+learning ability, concentration, focused attention 
+and language reception. The token test (TT), diagnosis 
+testofbraindysfunction(DCS-test),Luriaaudi-
+toryverballearningtest(LAVLT)andtheReycomplex 
+figure test (RCFT) were applied toboth groups. 
+
+The token test includes tasks with progressively 
+longer and more complex instructions and abstract 
+concepts (form, size, colors), e.g. ‘‘show me a 
+circle’’, ‘‘together with the yellow circle pick up 
+the blue circle’’. The participant’s accuracy in performing 
+these tasks is assessed. All the tasks are 
+divided into five categories. In the first-each instruction 
+includes one verb, adjective and noun. In the 
+second category, sizeis addedin the instructions.In 
+the third, a childhas to keep in mind size and colors 
+of two tokens and in the fourth category size, colors 
+and shape of two tokens. The fifth category, quite 
+different from first to fourth includes instructions 
+with different suffixes, conjunctions and adverbs. 
+The token test measured verbal comprehension, 
+memory, concentration ability and subtle language 
+dysfunction in children [4]. 
+
+The moto—visuo—spatial integration, concentration 
+of attention, direct memory and learning ability 
+were measured using the diagnosis test ofbrain dysfunction. 
+It was an accurate and reliable diagnostic 
+toolfor detecting minor neurocognitivedeficit [22]. 
+
+The Luria auditory verbal learning test assessed 
+direct auditory memory, learning ability, concentration 
+and focused attention [8,13]. 
+
+TheReytestrequires participantstocopyafigure 
+while it is in view (the copy trial)(Fig.1). They are 
+then asked to draw the figure again, but from 
+
+Fig. 1 
+
+
+memory,inthe recall trial.Participants are awarded 
+points for accuracy and placement of each element 
+in the overall design. It was used to investigate 
+perceptual organizational and also to detect 
+visual—spatial deficit in children [15,23]. 
+
+For all results the average values and standard 
+deviations were calculated. Student’s t-test was 
+used to compare differences in both groups of children. 
+The minimum level of p< 
+0.05 was set as 
+statistically significant. 
+
+4. Results 
+The children with obstructive sleep apnea reported 
+more problems with: snoring, difficult breathing by 
+nose, mouth breathing, nasal congestion, cough, 
+halitosis, reported frequent tonsillitis and frequent 
+upper infection. But only differences in daytime 
+somnolence( p= 0.04) and halitosis( p= 0.05) were 
+statistically significant(Table1). 
+
+Table1 Clinical features of children with and without 
+sleep apnea 
+
+Clinical features 
+Children with Children with 
+obstructive sleep normal PSG 
+apnea (%) finding (%) 
+
+Snoring 93 (87) 31 (30) 
+Difficult breathing 89 (83.5) 10 (10) 
+
+by nose 
+Mouth breathing 78 (72.7) 4 (4) 
+Nasal congestion 75 (69.9) 7 (7) 
+Cough 56 (52.2) 3 (3) 
+Hyperactivity 22 (47.0) 22 (21) 
+Halitosis 62 (58.3) 21 (20) 
+Fear 41 (38.3) 11 (11) 
+Daytime somnolence 41 (38.3) 9 (9) 
+Headaches 41 (38.3) 10 (10) 
+Frequent tonsillitis 75 (70.4) 21 (20) 
+Frequent upper 65 (60.9) 52 (50) 
+
+infection 
+
+
+P. Kurnatowski et al. 
+Table 2 Tonsillar hypertrophy in children with and 
+without sleep apnea 
+
+Tonsil size Children with Children with 
+obstructive sleep 
+apnea (%) 
+normal PSG 
+findings (%) 
+1+ 
+2+ 
+3+ 
+4+ 
+0 (0) 
+0 (0) 
+21 (20) 
+86 (80) 
+39 (37.5) 
+40 (38.5) 
+25 (24) 
+0 (0) 
+
+Physical examination revealed malocclusion in 
+57(53%)children with apnea andin14(13%) children 
+with normal PSGfindings.Tonsilsizeof three 
+andfour was foundin 100% ofthegroup of obstructive 
+sleep apnea (usingafour-pointscale), butonly 
+in 25% of the group with normal PSG findings 
+(Table 2). 
+
+Patients were classified to the group with 
+apnea with OAI >1. Children with OAI <1were 
+includedin thegroup withoutapnea.In86(80%) 
+children, whohad hadsleep apneaforover1 year 
+andin32(20%) children, whohadhad sleep apnea 
+for <1year, oxygen desaturationSpO2 
+< 
+92% was 
+found. 
+
+The TT, DCS-test, RCFT were used to assess the 
+level of sensorimotor integration and perception 
+
+processes. The scores from these tests are compared 
+in Table 3 (for 6—9-year old children) and 
+in Table 4 (for 10—13-year old children). 
+
+The differences in the means of all tests were 
+statistically significant. Children with adenotonsillar 
+hypertrophy attained lower results than healthy 
+children. RCFT-copy was similar for both groups of 
+children between 10 and 13 years old and the 
+differences in mean results were statistically insignificant( 
+p= 0.234). 
+
+Decisions about whether to perform adenotonsillectomy 
+was based on the history, physical examination, 
+results of the sleep study and psychological 
+tests. 
+
+5. Discussion 
+Children with sleep apnea caused by adenotonsillar 
+hypertrophy had more problems with perception 
+and sensorimotor integration. 
+
+Brain areas, might be particularly susceptible, to 
+damage from sleep-disordered breathingbegins during 
+firstdecadeof life.Periodof rapid neurological 
+development, traditionally associated with major 
+brain growth and substantial acquisition of cognitive 
+and intellectual capabilities. 
+
+Table3 The mean results obtained with different tests for 6—9-year old children: with normal PSG findings and with 
+apnea 
+
+Test Children with apnea Children with normal 
+PSG findings 
+t p 
+X S.D. X S.D. 
+Token test 6.43 4.52 4.83 4.62 2.18 0.030 
+Diagnosis of brain dysfunction 
+Luria auditory verbal and learning test 
+The Rey complex figure test-copy 
+The Rey complex figure test-replica 
+35.5 
+24.1 
+18.5 
+4.25 
+16.1 
+9.34 
+8.21 
+3.18 
+45.0 
+29.2 
+24.1 
+14.3 
+15.0 
+7.72 
+5.48 
+5.12 
+3.81 
+3.69 
+4.95 
+15.0 
+0.000 
+0.000 
+0.000 
+0.000 
+
+The tests measured organic damages of brain and neurocognitive processes. S.D., standard deviation; X, average; t, results of 
+Student’s t-test; p, probability. 
+
+Table4 The mean results obtained with different tests for 10—13-year old children: with normal PSG findings and 
+with apnea 
+
+Test Children with apnea Children with normal 
+PSG findings 
+t p 
+X S.D. X S.D. 
+Token test 3.32 4.11 1.50 1.55 2.28 0.026 
+Diagnosis of brain dysfunction 
+Luria auditory verbal and learning test 
+The Rey complex figure test-copy 
+The Rey complex figure test-replica 
+49.1 
+29.9 
+27.0 
+11.3 
+13.5 
+6.17 
+6.33 
+7.10 
+61.2 
+38.3 
+28.7 
+17.4 
+8.09 
+5.52 
+3.99 
+5.55 
+4.26 
+5.68 
+1.20 
+3.79 
+0.000 
+0.000 
+0.232 
+0.001 
+
+The tests measured organic damages of brain and neurocognitive processes. S.D., standard deviation; X, average; t, results of 
+Student’s t-test; p, probability. 
+
+
+Neurocognitive abilities in children with adenotonsillar hypertrophy 
+
+DCS-test,TT,LAVLTand RCFTtestswere sensitive 
+indicators of neurocognitive disability. 
+
+Memory and learning abilities wereassessed using 
+LAVLT. The differences obtained in bothgroups were 
+large and statistically significant( p= 0.000), particularly 
+for children between 10 and 13 years old. 
+It means that that older children were found to 
+have more severe deficits with direct memory and 
+learning. 
+
+Impaired functions were also confirmed by other 
+tests: (1) usedto measure directmemory (RCFT, TT) 
+and (2) learning ability (DCS-test). The differences 
+obtained in the results were statistically significant 
+(p< 
+0.05). 
+
+Language reception and memory was determined 
+by using TT. All children with sleep apnea showed 
+lower score than children with normal PSG findings. 
+There were significant differences between groups 
+on the TT but less than in other tests. 
+
+The analysis of the results revealed no significant 
+differences in the copy of the Rey complex figure 
+test in children between 10 and 13 years old.Probably 
+the inverse correlation occurs–—the older children 
+are, the weaker sensorimotor integration and 
+perception appear. 
+
+Recent studies have shown that even primary 
+snoring without OSAS is not as ‘‘benign’’ as was 
+‘‘first’’ thought andis also associated with cognitive 
+problems, including reduced verbal and global intelligence 
+reduced attention and memory deficits [11]. 
+By contrast Owens-Stivel et al. [17] report preliminary 
+evidence that memory performance was not 
+reduced in children with mild moderate and severe 
+OSAS comparedto age norms. School problems have 
+been reported repeatedlyin case seriesof children 
+with sleep-disordered breathing which may in fact 
+underlie poor test performance. Gozal [9] found a 
+high incidence of sleep-disordered breathing (40%) 
+in a study of 297 academic poor achievers. Of his 
+40%, 18% children (who were functioning in the 
+lowest-10th — percentile of their class) shored 
+and showed nocturnal gas exchange abnormalities. 
+Urschitz and Guenther [21] also reported that snoring 
+was associated with poor performance in mathematics, 
+science and spelling in third-grade school 
+children. Current literature indicates that these 
+neurocognitive deficits may be reversible by tonsillectomy 
+and adenotonsillectomy. Gozal [9] showed 
+that children with sleep-disordered breathing who 
+were poor academic performers improved their 
+grades after adenotonsillectomy. This did not apply 
+to children without sleep-disordered breathing and 
+to children with sleep-disordered breathing who 
+refusedsurgical therapy. Friedman et al. [7] studied 
+27 children with OSAS who had impaired neurocognitive 
+function before and after adenotonsillect
+
+
+omy. After treatment children in OSAS group 
+showed improvement and approached the levels 
+to the control group. 
+
+6. Conclusion 
+Sleep apnea might be responsible for a minimal 
+brain dysfunction and for neurocognitive disabilities. 
+That a reason of poor academic achievements 
+obtained by children with adenotonsillar hypertrophy 
+in school. 
+
+This study shows that sleep apnea caused by 
+adenotonsillar hypertrophy in children aged 6—9 
+years is associated with: memory problems, concentration 
+of attention deficits, learning disability, 
+dysphasia, lower sensorimotor integration and perception. 
+
+
+The older children (aged10—13 years) had memory 
+problems and learning disabilities. They are 
+likely to be caused by concentration of attention 
+deficits. Older children had learning dysfunction. 
+
+The results of the present study couldbe helpful 
+in the process of making decision for or against 
+surgery in doubtful cases. 
+
+The association between adenotonsillar hypertrophy, 
+neurocognitive deficits and behavior seems 
+to be an important factor which should be taken 
+under consideration by parents and teachers. It is 
+important to know the problems connected with 
+sleep-disordered breathing in order to recognize 
+them and help the child develop through adequate 
+treatment and cognitive stimulation. 
+
+Acknowledgement 
+
+Thestudyhas obtainedthepermissionofTheMedical 
+University Ethical Committee Nr RNN/78/02/KE. 
+
+References 
+
+[1] A.Boguslawska,Trzecimigdalek–—czynalez.ygousuwac´?2001 
+(http://www.zdrowie.zgora.pl/html/artykuly_w_12.html). 
+[2] C.M. Bower, A. 
+Gungor, Pediatric obstructive sleep apnea 
+syndrome, Otolaryngol. Clin. North Am. 33 (1) (2000) 49— 
+73. 
+[3] M.A. Carskadon, S.M. Pueschel, R.P. Millman, Sleep-disordered 
+breathing and behaviour in three risk groups: preliminary 
+findings from parental reports, Child Nerv. Syst. 9 
+(8) (1993) 452—457. 
+[4] E.DeRenzi, L.A.Vignolo,The token test:a sensitive testto 
+detect receptive disturbances in aphasics, Brain 85 (1962) 
+665—675. 
+[5] P.G. Eckhardt, R.P. Bijlmer, Het obstructieve slaap–—apneu 
+syndroom,Tijdschrift voor kindergenneskunde 52 (6) (1984) 
+212—217. 
+
+P. Kurnatowski et al. 
+[6] R.A. 
+Franco, R.M. Rosenfeld, M. Rao, Quality of life for 
+children with obstructive sleep apnea, Otolaryngol. Head 
+Neck Surg. 123 (1) (2000) 9—16. 
+[7] B.C. Friedman, A. Hendeles, E. Kozminsky, et al. 
+Adenotonsillectomy 
+improves neurocognitive function in children 
+with obstructive sleep apnea syndrome, Sleep 26 (2003) 
+999—1005. 
+[8] M. Geyer,G. Niebergall, et al. 
+Zur diagnostischen Anwendbarkeit 
+desTokenTestimKindes und Jugenalter, Nervenarzt 
+49 (1978) 298—302. 
+[9] D. Gozal, 
+Sleep-disordered breathing and school performance 
+in children, Pediatrics 102 (1998) 616—620. 
+[10] A. Jain, J.K. Sahni, Polysomnographic studies 
+in children 
+undergoing adenoidectomy and/or tonsillectomy, J. Laryngol. 
+Otol. 116 (9) (2002) 711—715. 
+[11] J.D. Kennedy, S. Blunden, C. Hirte, et al. 
+Reduced neurocognition 
+in children who snore, Pediatr. Pulmonol. 37 
+(2004) 330—337. 
+[12] A.M. Li, S. Hui, E. Wong, A. Cheung, T.F. Fok, Obstructive 
+sleep apnoea in children with adenotonsillar hypertrophy: 
+prospective study, HongKong Med. J.7(3) (2001) 236—240. 
+[13] A.R. Luria, 
+The Neuropsychology of Memory, Winston & 
+Sons, Washington, 1976. 
+[14] C.L. 
+Marcus, Pathophysiology of childhood obstructive 
+sleep apnea: current concepts, Respir. Physiol. 119 (2000) 
+143—154. 
+[15] J.E.Meyers,R.M.Kelly,ReyComplexFigureTestandRecognitionTrial,
+Profession Manual,PAR Inc.,Odessa, Florida, 1995. 
+[16] M.A. Mograss, F.M. Ducharme, R.T. Brouillette, Movement/ 
+arousals. Description, classification, and relationship to 
+sleep apnea in children, Am. J. Respir. Crit. Care Med. 
+150 (1994) 1690—1696. 
+[17] J. Owens-Stivel, M. McGuinn, et al. Neuropsychological and 
+behavioral correlates of obstructive sleep apnea in children, 
+Sleep Res. 26 (1997) 452. 
+[18] C.L.Rosen,Obstructivesleepapneasyndrome(OSAS)inchildren:
+diagnostic challenges,Sleep19(10)(1996)S274—S277. 
+[19] S. Scholle, G. Zwacka, Arousal and obstructive sleep apnea 
+syndromeinchildren, Clin.Neurophysiol. 112(2001) 984— 
+991. 
+[20] B. Strupaczewska, Test Figury Zloz.onej Rey–—Osterrieth’a. 
+Podre.cznik, Centralny Os´rodek Metodyczny Poradnictwa 
+Wychwawczo–—Zawodowego MEN, Warszawa, 1990. 
+[21] M.S. 
+Urschitz, A. Guenther, et al. Snoring intermittent 
+hypopxia and academic performance in primary school 
+children, Am. J. Respir. Crit. Care Med. 168 (2003) 464— 
+468. 
+[22] S.I. Weidlich, G. Lamberti, Diagnosticum fur Cerebralschadigung 
+Handbuch, Huber Verlag, Bern, 1980. 
+[23] H.Wolfram, J. Neuman,V. Wieczorek, Psychologische Leistungtests 
+in der Neurologie und Psychiatrie, Georg. Thieme 
+Verlag, Leipzig, 1986. 
+

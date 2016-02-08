@@ -1,0 +1,1102 @@
+Sleep in Overweight Adolescents: Shorter Sleep, Poorer Sleep 
+Quality, Sleepiness, and Sleep-Disordered Breathing 
+
+Dean W. Beebe,1 PHD, Daniel Lewin,2 PHD, Meg Zeller,3 PHD, Marie McCabe,4 MA, 
+Kendra MacLeod,4 MA, Stephen R. Daniels,1 MD, PHD, and Raouf Amin,1 MD 
+
+1Cincinnati Children’s Hospital Medical Center and Department of Pediatrics, University of 
+Cincinnati School of Medicine, 2Children’s National Medical Center, 3Cincinnati Children’s Hospital 
+Medical Center and the Department of Pediatrics, University of Cincinnati School of Medicine, and 
+4Department of Psychology, University of Cincinnati 
+
+Objective To document the sleep of overweight adolescents and to explore the degree 
+to which weight-related sleep pathology might account for diminished psychosocial 
+outcome. Methods Sixty children aged 10–16.9 from a weight-management clinic were 
+compared to 22 healthy controls using comprehensive actigraphic, polysomnographic, and parent- 
+and self-report questionnaire assessments. Results Overweight participants averaged more 
+symptoms of sleep-disordered breathing, later sleep onset, shorter sleep time, and more 
+disrupted sleep than controls. Although the groups did not differ in self-reported sleep habits, 
+multiple concerns were reported by parents of overweight participants, including daytime 
+sleepiness, parasomnias, and inadequate sleep. Group differences in academic grades and 
+depressive symptoms were at least partially accounted for by short sleep and daytime 
+sleepiness. Conclusions Excessive weight is associated with an increased risk of sleep 
+problems. There is a need for further research in this area and for clinicians who work with 
+overweight children to evaluate their sleep. 
+
+Key words adolescence; childhood; obesity; overweight; pediatrics; sleep; sleep apnea. 
+
+The prevalence of overweight adolescents in the United 2004). Conversely, excessive weight is a risk factor for 
+States has tripled over the past 30 years, with recent esti-sleep-disordered breathing, including obstructive sleep 
+mates falling around 16% (Daniels et al., 2005). Concur-apnea (OSA). Between 13 and 33% of overweight chilrently, 
+there has been a growing interest in identifying dren have OSA, which is several times the prevalence in 
+behaviors that may be targets for weight-management lean children (Chay et al., 2000; Marcus, 1996; Wing 
+treatment or prevention of excess weight. Disordered et al., 2003). However, research on overweight children 
+sleep may be one of the many contributors to excessive has used limited sleep measures (e.g., nonvalidated single-
+weight during childhood. Cross-sectional associations item parent-report scales) or has focused on only 
+between short sleep duration and overweight have been selected aspects of sleep (e.g., OSA). 
+reported (Gupta, Mueller, Chan, & Meininger, 2002; Like excessive weight, OSA and inadequate sleep 
+von Kries, Toschke, Wurmser, Sauerwald, & Koletzko, have been causally linked to insulin resistance (De la Eva, 
+2002; Sekine et al., 2002), and longitudinal studies have Baur, Donaghue, & Waters, 2002) and cardiovascular dis-
+documented that shorter sleep predicts the later emer-ease (Amin et al., 2005). Pediatric OSA and inadequate 
+gence of overweight (Agras, Hammer, McNicholas, & sleep also have been associated with poor academic per-
+Kraemer, 2004; Reilly et al., 2005; Sugimori et al., formance and depressive symptoms (Fallone, Owens, & 
+
+All correspondence concerning this article should be addressed to Dean W. Beebe, PhD, Division of Behavioral 
+Medicine and Clinical Psychology (MLC 3015), Cincinnati Children’s Hospital Medical Center, 3333 Burnet Avenue, 
+Cincinnati, Ohio 45229. E-mail: dean.beebe@cchmc.org. 
+
+Journal of Pediatric Psychology 32(1) pp. 69–79, 2007 
+doi:10.1093/jpepsy/jsj104 
+Advance Access publication February 8, 2006 
+Journal of Pediatric Psychology vol. 32 no. 1 © The Author 2006. Published by Oxford University Press on behalf of the Society of Pediatric Psychology. 
+All rights reserved. For permissions, please e-mail: journals.permissions@oxfordjournals.org 
+
+
+
+70 Beebe et al. 
+
+Deane, 2002). Interestingly, these psychosocial factors 
+are correlates of overweight during early adolescence 
+(Swallen, Reither, Haas, & Meier, 2005), with depressive 
+symptoms more commonly reported than acting out 
+behaviors among treatment-seeking adolescents (Zeller, 
+Saelens, Roehrig, Kirk, & Daniels, 2004) and child 
+mood being an important predictor of dropout from 
+weight-management treatment (Zeller, Kirk et al., 
+2004). However, little research has examined whether 
+poor sleep quantity or quality mediates the links 
+between childhood overweight and psychosocial outcome. 
+
+The primary aim of this study was to provide 
+detailed documentation of the sleep of overweight 
+adolescents as compared with normal-weight controls 
+of similar demographic background. It was hypothesized 
+that the overweight group would display shorter 
+sleep duration, poorer quality sleep, and greater evidence 
+of sleep-disordered breathing than normal-
+weight controls. The secondary aim was to explore 
+the degree to which short sleep, daytime sleepiness, 
+and OSA symptoms could account for the diminished 
+academic performance and depressive symptoms 
+that have been reported among adolescents who are 
+overweight. 
+
+Methods 
+
+Sample and Procedures 
+
+The overweight group was comprised of 60 participants, 
+aged 10–16.9 years, who were recruited consecutively 
+at the time of intake into a hospital-based 
+multidisciplinary pediatric weight-management clinic. 
+Exclusion criteria included neurological history (e.g., 
+seizures), craniofacial abnormalities, developmental 
+disorders (e.g., Down syndrome), conditions involving 
+daytime hypoxia (e.g., poorly controlled asthma), use 
+of psychiatric or neurological medication (given potential 
+effects on sleep), and treatment for OSA in the past 
+2 years. The control group was comprised of 22 children, 
+who had been healthy controls in a previous 
+study (Zeller, Ramey, & Allen, 2003), or their siblings. 
+Initial recruitment from that study was from a representative 
+cross-section of public and private school classrooms, 
+using the “revised class play” paradigm (Noll 
+et al., 1999). Parents of controls aged 10–16.9 were 
+invited by mail and telephone to participate in this 
+study. Controls met the same exclusion criteria as overweight 
+participants and were reported by their parents 
+to be of normal weight. 
+
+All procedures were approved by the local Institutional 
+Review Board. Parents provided written consent 
+
+and participants provided oral assent to participate. 
+Families of overweight adolescents were compensated 
+$50 for participating, while those of controls were compensated 
+$70. The difference in compensation was justified 
+by the greater potential for direct benefit to the 
+overweight adolescents; indeed, because of study findings 
+and with family consent, several were referred for 
+clinical follow-up of previously undiagnosed OSA. During 
+the first part of the research, parents and participants 
+completed demographic and sleep questionnaires, and 
+participants underwent a week of objective sleep monitoring 
+with actigraphy (described below). Part two 
+included behavioral questionnaires and an inpatient 
+overnight sleep study. 
+
+Measures 
+
+Anthropometric Data 
+
+To obtain body mass index (BMI; kg/m2), height was 
+measured with a wall-based stadiometer and weight with 
+a calibrated hospital scale. A BMI z-score was then computed 
+based on tables published in 2000 by the U.S. 
+Centers for Disease Control and Prevention. Pubertal 
+status was obtained via a validated self-report questionnaire 
+(Carskadon & Acebo, 1993). 
+
+Sleep Measures 
+
+A comprehensive sleep evaluation protocol capitalized 
+on the strengths of several measurement techniques. 
+Parent-and self-report questionnaires were used to 
+assess each reporter’s perspective on the participant’s 
+typical sleep, including unusual sleep behaviors that are 
+not well-quantified by other methods (e.g., parasomnias). 
+However, questionnaires are subject to reporter 
+and recall biases, as well as imprecision with respect to 
+nocturnal arousals and sleep onset and offset times. 
+Complementing questionnaire data, typical sleep patterns 
+also were measured by actigraphy, which uses 
+movement patterns to provide an objective, unobtrusive 
+measure of sleep phase, duration, and continuity over 
+multiple nights in the home (Acebo et al., 1999; Sadeh, 
+Sharkey, & Carskadon, 1994). Finally, overnight polysomnography 
+(PSG) objectively measured sleep-stage 
+distribution and sleep-related respiratory function. PSG 
+was conducted during a single night in a hospital-based 
+sleep laboratory with an examiner-determined bedtime 
+and noninvasive but mildly obtrusive monitoring. As a 
+result, although PSG is considered the gold standard for 
+the diagnosis of OSA, actigraphy and questionnaires 
+may yield better measures of a child’s typical sleep habits. 
+By using these complementary measurement techniques, 
+we sought to obtain a more complete and 
+accurate picture of participants’ sleep. 
+
+
+Sleep and Overweight Adolescents 
+
+Parent-Report Sleep Questionnaire. The Child Sleep 
+Habits Questionnaire (CSHQ) (Owens, Spirito, & 
+McGuinn, 2000) is a broad-band measure of pediatric 
+sleep difficulties. For each of 45 items, parents rate 
+whether a sleep-related behavior occurs rarely, sometimes, 
+or often. The questionnaire has eight subscales: 
+bedtime resistance, sleep onset delay, adequacy of sleep 
+duration, sleep-related anxiety, night wakings, parasomnias 
+(e.g., talks during sleep), sleep-disordered breathing 
+(e.g., snores loudly), and daytime sleepiness. It also 
+includes an item assessing napping frequency, as well as 
+open-ended queries on bedtime, rise time, and sleep 
+duration for weeknights and weekends. Parent-reported 
+sleep duration was computed as the mean of the direct 
+report of the parent and the arithmetic difference 
+between reported bedtime and rise time. Parents also 
+completed the sleepiness and sleep-disordered breathing 
+subscales from the Pediatric Sleep Questionnaire (PSQ) 
+(Chervin, Hedger, Dillon, & Pituch, 2000). All CSHQ 
+and PSQ items and subscales were coded so that high 
+scores reflect increased pathology. 
+Self-Report Sleep Questionnaires. The Pediatric Daytime 
+Sleepiness Scale (PDSS) (Drake et al., 2003) is a validated 
+scale that asks about the frequency of difficulty 
+waking in the morning and the ability to maintain 
+arousal during the day. The Youth Sleep Habits Survey 
+(YSHS) (Acebo & Carskadon, 2002; Wolfson et al., 
+2003) is a validated survey measure from which we analyzed 
+five subscales: sleepiness 1 (situations in which 
+sleepiness occurs), sleepiness 2 (general frequency of 
+feeling sleepy), sleep quality (satisfaction with sleep), 
+sleep delay (e.g., staying up past 3:00 a.m.), and ‘owl 
+and lark’ (time of day preferences for various activities). 
+In addition, the YSHS includes open-ended items relating 
+to bed and rise times and total sleep duration. Self-
+reported sleep duration was computed as the mean of 
+the direct report of the participants and the arithmetic 
+difference between reported bedtime and rise time. 
+Polysomnography (PSG). Each participant underwent 
+inpatient full-night PSG, with a parent or guardian 
+present in a separate bed. Participants were not deprived 
+of sleep before the PSG and were not given any sedative. 
+The following were monitored: Electroencephalogram 
+(C3-A2, C4-A1, O1-A2, O2-A1), electrooculogram, submental 
+and tibial electromyogram, electrocardiography, nasal/oral 
+airflow through nasal pressure transducer or a three-
+pronged thermistor, end-tidal CO2 (at the nose), snoring 
+microphone, O2 saturation by pulse oximeter, oximeter 
+pulse waveform, actigraphy to measure limb movements, 
+infrared video monitoring, and rib cage and abdominal 
+volume (respiratory inductance plethysmograph). Sleep 
+
+staging and arousals were scored according to standardized 
+criteria (American Sleep Disorders Association, 
+1992; Rechtschaffen & Kales, 1968). Obstructive apneas 
+(i.e., complete cessation of airflow) were defined as a 
+>80% decline in airflow over two breaths, despite continued 
+chest/abdominal wall movement. Obstructive 
+hypopneas (i.e., partial cessation of airflow) were 
+defined as a decrease of 50–80% in airflow over at least 
+two breaths that was associated with (a) paradoxical respiration, 
+and (b) oxyhemoglobin desaturation (=4%) or 
+a subsequent arousal. The following variables were 
+coded for analyses: sleep duration, sleep efficiency after 
+sleep onset (percent of the total sleep period spent 
+asleep), percent of sleep in each stage (1–4 and rapid eye 
+movement or REM), lowest oxygen saturation, and percent 
+of sleep spent hypercapnic (end-tidal CO2 > 50). 
+The obstructive apnea index (AI), apnea + hypopnea 
+index (AHI), and arousal index (ArI) were each computed 
+as the sum of relevant events divided by hours 
+slept. 
+Actigraphy. The actigraphs used in the present study 
+(Mini-Motionlogger, Ambulatory Monitoring, Inc., NY) 
+are the size of a sports wristwatch and were worn on 
+participants’ non-dominant wrists during evening and 
+overnight hours. The devices carry a motion detector 
+and internal memory that records movement counts in 
+1-min epochs. These data were subsequently compared 
+against a self-report sleep diary to screen for potential 
+artifacts, such as removal of the watch. The following 
+variables were then inferred from a validated algorithm 
+(Sadeh et al., 1994): sleep onset and offset times, total 
+sleep period duration (offset minus onset), sleep efficiency, 
+number of awakenings from sleep, number of 
+awakenings from sleep that lasted longer than 5 min, 
+and the longest period of sleep. 
+
+Three sets of actigraphy data were generated. The 
+first was comprised of each participant’s average scores 
+for all nights studied, provided at least five nights were 
+recorded. This threshold has been established to ensure 
+reliability (Acebo et al., 1999) but does not allow for the 
+differentiation of school versus non-school-nights. As 
+supplemental indexes, the second set of actigraphy data 
+was comprised of each participant’s average for school-
+nights, provided at least three such nights were 
+recorded, and the third was comprised of each participant’s 
+average for non-school-nights, provided at least 
+two such nights were recorded. 
+
+Academic Grades and Symptoms of Depression 
+
+Participants and parents reported the participants’ typical 
+academic grades on an 8-point scale (As, As & Bs, Bs, 
+
+
+72 Beebe et al. 
+
+Bs & Cs, Cs, Cs & Ds, Ds, Ds & Fs). The two reports 
+were highly correlated, r = .81, p < .001, so they were 
+averaged into a single index. Depressive symptoms were 
+reported by parents via the depression subscale from the 
+Behavioral Assessment System for Children (Reynolds 
+& Kamphaus, 1992), a validated parent-report psychopathology 
+questionnaire. After a mid-study protocol 
+change, 16 overweight and 21 control participants also 
+completed the Children’s Depression Inventory (Kovacs, 
+1992), a validated pediatric self-report questionnaire of 
+depressive symptoms. Because the correlation between 
+parent- and self-report of depressive symptoms was 
+modest (r = .45), these scores were analyzed separately. 
+
+Preprocessing of Data and Analytic Strategy 
+
+On questionnaires, missing data were typically due to 
+omission of one or two items on a multi-item subscale. 
+Consequently, when less than half of a subscale’s items 
+were missing, composites were prorated from the remaining 
+items. Several sleep indexes were log-transformed to 
+reduce skew, which included the AI and AHI from the 
+PSG, the PSQ and CSHQ sleep-disordered breathing sub-
+scales, the PSQ sleepiness subscale, and the CSHQ sleep 
+onset delay subscale. 
+
+Demographic characteristics across groups were 
+compared using chi-square, Fisher’s exact tests, or independent 
+sample t-tests. These tests also compared cases 
+where there were missing data for a given set of analyses 
+to those with complete data on age, sex, race, family 
+income, maternal education, and study group. 
+
+Primary analyses were comprised of eight multivariate 
+analyses of variance (MANOVA), clustered on conceptual 
+and pragmatic grounds. The first compared the 
+overweight group to controls on PSG variables. The second 
+through fourth compared the groups on the three 
+sets of actigraphy data. The fifth compared the groups 
+on parent-reported bedtimes and arousal times, while 
+the sixth compared the groups on the other parent-
+reported sleep indexes. The seventh and eighth were 
+similar but replaced parent-report questionnaires with 
+self-report. 
+
+To increase the clinical utility of these findings, we 
+then compared the prevalence of sleep-disordered 
+breathing (on PSG and per parent report), as well as 
+daytime sleepiness, short sleep duration, and sleep disruption 
+in participants’ natural settings (on questionnaires 
+and actigraphy). Unfortunately, few established 
+normative values exit in the pediatric sleep medicine literature. 
+For present purposes, sleep-disordered breathing 
+was defined alternatively as an AHI >1, AHI >5, or a 
+PSQ sleep-disordered breathing score >0.5, indicating 
+endorsement of at least half the items; daytime sleepiness 
+
+was indexed by a PDSS =20 or a PSQ sleepiness score 
+=0.5, both indicating reported sleepiness on at least half 
+of the items; short sleep was defined as <8 h; and sleep 
+disruption was defined as post-onset sleep efficiency 
+<80%. Odds ratios were computed with and without 
+adjustments for age, race, gender, income, and maternal 
+education. 
+
+To address the secondary aim, three sets of regression 
+equations were computed, one with the composite 
+academic grade scale as dependent variable and the others 
+with parent- and self-report depressive symptoms as 
+dependent. In each set, the variance accounted for by 
+group membership was first computed as a zero-order 
+association; then analyses were rerun with selected sleep 
+variables as covariates. Potential covariates were selected 
+based on prior research that suggests an association of 
+childhood overweight with short sleep, sleepiness, and 
+OSA: log-transformed AHI, parent-reported OSA symptoms, 
+parent- and self-report of sleepiness and sleep 
+duration on weeknights and weekends, and actigraphderived 
+sleep duration on weeknights and weekends. To 
+maximize statistical power, only those covariates that 
+predicted each dependent measure in stepwise entry 
+were retained in the final analyses. 
+
+Alpha was set at .05 for statistical significance, with 
+Holm’s procedure controlling Type I error in primary 
+analyses (see below). Statistical “trends” (p < .10) are 
+also reported so that readers can judge their potential 
+relevance in light of the modest sample sizes. 
+
+Results 
+
+Sample Characteristics 
+
+As summarized in Table I, the groups did not significantly 
+differ in age, grade placement, sex, pubertal status, 
+family income, maternal education, or race (all but 
+three non-Caucasian participants—two overweight and 
+one control—were African-American). By design, the 
+groups differed in body mass. All controls fell in the 
+24th–92nd percentiles of BMI for age and sex; all overweight 
+participants were above the 95th percentile and 
+65% were above the 99th percentile. 
+
+All participants underwent PSG. Eighty-four percent 
+of participants wore the actigraph at least five 
+nights, 62% at least three school nights, and 78% at least 
+two non-school nights. Parent questionnaires yielded all 
+subscales 89% of the time and all bed and arousal times 
+67% of the time. Ninety-two percent of self-report questionnaires 
+yielded all subscales, while 100% reported 
+sleep onset and offset times. More Caucasians than non-
+Caucasians had school-night actigraphy data, p = .001, 
+
+
+Table I. Demographic Characteristics 
+
+Sleep and Overweight Adolescents 73 
+
+Controls Overweight p-value 
+Sample size 22 60 
+Body mass index (BMI) 19.4 ± 2.6 37.6 ± 7.5 <.0001 
+BMI z-score for sex and age 0.26 ± 0.61 2.48 ± 0.30 <.0001 
+Age 12.6 ± 1.7 13.1 ± 1.8 Not significant (p > .10) 
+Grade placement 6.7 ± 1.5 6.9 ± 1.7 Not significant 
+Family income (in 1000s)a 48.7 ± 34.0 39.4 ± 3.2 Not significant 
+Maternal education (years)a 13.4 ± 2.5 13.0 ± 2.1 Not significant 
+Percentage of females 64 67 Not significant 
+Percentage of Caucasians 46 40 Not significant 
+Percentage of Pre- or early pubertal 10 14 Not significant 
+Percentage of mid-pubertal 38 35 
+Percentage of late or post-pubertal 52 52 
+
+Values are presented as mean ± standard deviation or percentage of sample. Significance (p) values are based on chi-square for pubertal status, Fisher’s exact tests for sex 
+and race, and independent sample t-tests for age, grade placement at school, and BMI-related variables. 
+aFamily income was not reported on three controls and five overweight children. Maternal education was not reported for three overweight children. 
+
+
+and parent-reported sleep-onset and offset times, p = .017. 
+Higher income families more often had school-night 
+actigraphy data, complete parent questionnaire data, 
+and complete child questionnaire data, p = .001–.005. 
+Otherwise, participants with missing data did not differ 
+in sex, age, race, family income, maternal education, or 
+study group from those with complete data. Moreover, 
+MANOVA findings were essentially unchanged in 
+exploratory analyses that included age, sex, race, 
+income, and maternal education as covariates. 
+
+Primary Analyses: Group Differences in Sleep 
+
+The overweight and control groups differed on the multivariate 
+PSG analysis, F(12, 66) = 2.51, p = .011. Follow-
+up univariate analyses presented in Table II show that 
+
+Table II. Polysomnographic Characteristics 
+
+this was primarily due to a difference across groups in 
+log-transformed AHI (log-AHI), with statistical trends 
+on log-transformed AI and percent of sleep spent in 
+stage 3. 
+
+The groups differed in multivariate actigraphy findings 
+for the entire recording period, F(8, 60) = 3.69, p = .001, 
+and weekends, F(8, 52) = 3.96, p = .001, but not weeknights, 
+F(8, 44) = 1.95, p = .105. Table III presents 
+univariate data. The overweight group on average fell 
+asleep later and had shorter and more disrupted sleep 
+than controls. Although the findings were similar in 
+pattern across school nights and non-school nights, the 
+latter more clearly showed effects. 
+
+The groups showed a multivariate difference on 
+parent-report questionnaire subscales, F(12, 59) = 3.07, 
+
+Controls Overweight p-value 
+Sleep duration (min) 394 ± 55 396 ± 60 Not significant (p > .10) 
+Sleep efficiency after onset 89.5 ± 8.6 88.3 ± 8.9 Not significant 
+Percentage of sleep in stage 1 3.8 ± 2.0 3.5 ± 1.9 Not significant 
+Percentage of sleep in stage 2 55.8 ± 8.2 55.7 ± 8.0 Not significant 
+Percentage of sleep in stage 3 2.6 ± 1.1 3.2 ± 1.4 .066 
+Percentage of sleep in stage 4 21.9 ± 6.1 21.4 ± 8.7 Not significant 
+Percentage of sleep in REM 15.9 ± 4.5 16.2 ± 4.6 Not significant 
+Arousal index (events/h) 9.0 ± 3.7 8.2 ± 3.5 Not significant 
+Apnea index (events/h)a 0.27 ± 0.58 0.84 ± 1.85 .056 
+Apnea + hypopnea indexa 0.59 ± 1.11 2.17 ± 3.08 .001 
+Nadir O2 saturation 92.4 ± 4.0 90.8 ± 4.3 Not significant 
+Percentage of night with CO2 > 50 10.8 ± 28.0 8.7 ± 19.4 Not significant 
+
+Values are presented as mean ± standard deviation. Significance (p) values are based on univariate follow-ups to MANOVA. 
+aRaw apnea and apnea + hypopnea index scores are presented to aid interpretability, although both indexes were log-transformed in analyses to reduce marked skew. 
+
+
+
+74 Beebe et al. 
+
+Table III. Actigraphy Findings 
+
+Whole week School nights Non-school nights 
+Controls Overweight Controls Overweight Controls Overweight 
+
+Sleep onset time 23:02 ± 0:43 23:43 ± 1:12** 22:33 ± 0:44 22:56 ± 0:59 23:48 ± 1:17 00:22 ± 1:17 
+Sleep offset time 7:27 ± 0:58 7:30 ± 1:08 6:27 ± 0:46 6:27 ± 0:37 8:48 ± 1:19 8:30 ± 1:16 
+Sleep period (min) 507 ± 49 469 ± 50*** 475 ± 61 452 ± 58 535 ± 46 489 ± 73*** 
+Sleep efficiency post-onset (%) 86.8 ± 7.2 80.2 ± 12.2** 87.1 ± 8.8 84.4 ± 10.3 88.3 ± 6.2 78.3 ± 12.5**** 
+Motionless sleep (%) 57.7 ± 11.4 53.2 ± 15.0 59.7 ± 11.4 60.1 ± 13.1 59.2 ± 11.6 51.1 ± 15.3**** 
+Number of arousals 18.0 ± 9.3 16.0 ± 5.2 13.6 ± 6.4 14.3 ± 5.7 19.7 ± 9.4 17.3 ± 5.9 
+Number of arousals >5 min 3.9 ± 2.3 4.9 ± 2.6 3.6 ± 2.4 3.9 ± 2.6 3.9 ± 2.4 5.6 ± 2.5** 
+Longest continuous sleep (min) 147 ± 71 109 ± 47* 154 ± 68 118 ± 53* 151 ± 86 109 ± 50** 
+Significance values based on univariate follow-ups to MANOVA. 
+*p < .10, **p < .05, ***p < .01, ****p < .005. 
+Table IV. Questionnaire Results 
+
+Controls Overweight p-value 
+Parent report 
+School night asleep time 21:41 ± 0:34 21:54 ± 0:50 Not significant (p > .10) 
+Non-school night asleep time 23:07 ± 1:02 23:33 ± 1:00 Not significant 
+School night arousal time 6:25 ± 0:49 7:00 ± 1:18 Not significant 
+Non-school night arousal time 9:29 ± 1:35 9:29 ± 1:47 Not significant 
+School night sleep period (min) 523 ± 45 522 ± 55 Not significant 
+Non-school night sleep period 583 ± 46 570 ± 82 Not significant 
+PSQ sleep-disordered breathinga .05 ± .10 .35 ± .32 <.001 
+CSHQ sleep-disordered breatha 3.1 ± 0.4 4.6 ± 1.6 <.001 
+PSQ sleepinessa .07 ± .18 .26 ± .31 .042 
+CSHQ sleepiness 10.7 ± 2.5 13.2 ± 3.7 .009 
+CSHQ bedtime resistance 6.7 ± 0.7 7.3 ± 1.4 .037 
+CSHQ sleep onset delaya 1.2 ± 0.4 1.5 ± 0.6 .029 
+CSHQ sleep duration 3.7 ± 1.2 4.6 ± 1.6 .018 
+CSHQ night wakings 3.8 ± 0.9 3.9 ± 1.0 Not significant 
+CSHQ parasomnias 8.0 ± 1.1 8.9 ± 1.3 .007 
+CSHQ naps item 1.4 ± 0.5 1.4 ± 0.6 Not significant 
+Self-report 
+School night asleep time 21:51 ± 0:50 22:06 ± 0:55 Not significant (p > .10) 
+Non-school night asleep time 22:57 ± 2:42 23:55 ± 2:00 .084 
+School night arousal time 6:15 ± 1:35 6:04 ± 1:46 Not significant 
+Non-school night arousal time 9:46 ± 3:49 9:14 ± 3:17 Not significant 
+School night sleep period (min) 528 ± 60 499 ± 55 .047 
+Non-school night sleep period 600 ± 61 570 ± 90 Not significant 
+PDSS 12.2 ± 6.7 14.1 ± 6.6 Not significant 
+YSHQ sleepiness scale 1 14.2 ± 3.7 14.1 ± 3.2 Not significant 
+YSHQ sleepiness scale 2 9.3 ± 4.0 9.8 ± 4.5 Not significant 
+YSHQ phase delay behaviors 12.5 ± 5.8 13.9 ± 5.5 Not significant 
+YSHQ sleep quality 7.4 ± 2.0 7.8 ± 2.1 Not significant 
+YSHQ owl vs. lark (higher = lark) 28.4 ± 5.6 27.0 ± 5.3 Not significant 
+
+CSHQ, Child Sleep Habits Questionnaire; PDSS, Pediatric Daytime Sleepiness Scale; PSQ, Pediatric Sleep Questionnaire; YSHQ, Youth Sleep Habits Questionnaire. 
+Values are presented as mean ± standard deviation. Significance (p) values are based on univariate follow-ups to MANOVA. 
+aRaw scores on the marked scales are presented to aid interpretability, but were log-transformed in analyses to reduce marked skew. 
+
+
+p = .002, but not bedtimes and rise times, F(4, 51) = symptoms of sleep-disordered breathing, sleepiness, and 
+1.01, p = .41. Table IV presents univariate data. The parasomnias in the overweight group, though several 
+greatest differences were due to greater parent-reported other subscales differed to a measurable degree across 
+
+
+Sleep and Overweight Adolescents 75 
+
+groups. In contrast, there was not a multivariate difference 
+between the overweight and control groups in self-
+report subscales, F(8, 66) = 1.31, p = .25, or sleep onset 
+and offset times, F(4, 77) = 0.88, p = .48. 
+
+Given that eight MANOVAs were run, we used 
+Holm’s sequential procedure to guard against Type 1 
+errors. This procedure has improved power over the 
+Bonferroni correction without sacrificing control of 
+Type I error (Aickin & Gensler, 1996). Under this procedure, 
+the most stringent Bonferroni alpha cut-off (.05/8 
+or .006 in this case) is applied only to the most statistically 
+significant finding in the family of analyses. If this 
+threshold is crossed, then the next best significance level 
+obtained in the family is compared to a slightly less 
+stringent cut-off (.05/7 or .007 in this case), and so on. 
+Using this procedure, the multivariate findings for PSG, 
+actigraphy for the total recording period and for weekends, 
+and parent-report questionnaire subscales all 
+exceeded significance thresholds, whereas the others fell 
+far short. 
+
+Table V summarizes follow-up analyses on the 
+prevalence of sleep-disordered breathing, short sleep, 
+sleep disruption, and daytime sleepiness. These categorical 
+findings mirror those from analyses in which 
+sleep was treated continuously. Sleep problems were 
+often several times more likely among overweight participants 
+than controls. Indeed, some odds ratios could 
+
+not be computed because no controls met cut-offs for 
+pathology. 
+
+Secondary Analyses: Does Sleep Mediate Group 
+Effects on Grades and Depressive Symptoms? 
+
+Study group accounted for 4.2% of the variance in academic 
+grades, p = .033, 6.0% of the variance in parent-
+report depressive symptoms, p = .013, and 24.8% of the 
+variance in self-report depressive symptoms, p = .001. 
+The overweight group averaged one letter grade poorer 
+(B/C vs. A/B) and was one standard deviation higher on 
+depressive symptoms (parent T = 53 vs. 45, self T = 55 
+vs. 45) than controls. 
+
+Several potential covariates correlated with academic 
+grades in bivariate analyses: log-AHI, r = .34, p = 
+.002; actigraph-determined sleep duration for all 
+recorded nights and weeknights, r = –.23 and –.28, p = 
+.045 and .043, respectively; log-PSQ sleepiness, r = .25, 
+p = .023; parent-reported weeknight sleep, r = -.33, p = 
+.003; and PDSS, r = .39, p < .001. In stepwise entry into 
+the prediction of academic grades, only the PDSS and 
+parent-reported and self-reported weeknight sleep 
+were unique predictors, together accounting for 24% of 
+the variance in grades, p = .003. Consequently, a 
+regression equation was constructed in which academic 
+grades were predicted by these three covariates, 
+followed by study group. The amount of variance 
+
+Table V. Frequencies and Odds Ratios for Selected Sleep Measures Across Groups 
+
+Controls Overweight Raw OR Adjusted OR (95% CI) 
+PSG 
+AHI >5 0% 13% n/a n/a 
+AHI >1 14 50 6.3*** 6.6** (1.4–31.0) 
+Actigraphy 
+Total recording sleep <8 h 26% 56% 3.5** 11.5*** (1.8–74.0) 
+Weeknight sleep <8 h 40 68 3.1* 5.9* (0.9–38.8) 
+Weekend sleep <8 h 12 46 6.3** 13.1** (1.8–94.6) 
+Total recording efficiency <80% 21 42 2.7 4.3* (0.8–23.3) 
+Weeknight efficiency <80% 20 29 1.7 7.5 (0.5–109.8) 
+Weekend efficiency <80% 12 50 7.5** 10.3** (1.4–76.9) 
+Parent questionnaire 
+Weeknight sleep <8 h 23% 27% 1.2 1.7 (0.4–7.7) 
+Weekend sleep <8 h 5 13 3.1 47.9 (0.6–3722.2) 
+PSQ sleep-disordered breath =0.5 0 39 n/a n/a 
+PSQ sleepiness =0.5 14 39 4.0** 5.4** (1.0–28.4) 
+Child questionnaire 
+Weeknight sleep <8 h 32% 49% 2.1 5.1** (1.2–22.0) 
+Weekend sleep <8 h 0 18 n/a n/a 
+PDSS 14 23 1.9 2.6 (0.5–13.8) 
+
+AHI, apnea + hypopnea index; OR, odds ratio; adjusted OR covaried for age, sex, race, maternal education, and family income, with 95% confidence interval in parentheses; 
+PDSS, Pediatric Daytime Sleepiness Scale; n/a, not able to compute odds ratio because controls had 0% prevalence (in each case, Fisher’s exact test p < .05). 
+*p < .10, **p < .05, ***p = .01. 
+
+
+
+76 Beebe et al. 
+
+uniquely predicted by study group was thereby cut to 
+2.3%, p = .14. 
+
+In bivariate analyses, the CSHQ sleepiness subscale 
+and the log-PSQ sleepiness subscale each correlated with 
+parent-reported depressive symptoms, r = .33 and .27, 
+p = .003 and .017, respectively, but only the former survived 
+stepwise regression entry. A regression equation 
+consequently predicted parent-reported depressive 
+symptoms by CSHQ sleepiness, followed by study 
+group. The variance uniquely predicted by study group 
+was thereby cut to 2.2%, p = .17. 
+
+Self-reported depressive symptoms correlated with 
+log-PSQ sleepiness, r = .51, p = .001; parent report of 
+weekend sleep, r = –.33, p = .050; PDSS, r = .54, p = .001; 
+self-report on the YSHS Sleepiness 1 subscale, r = .34, 
+p = .001; and self-report of weeknight sleep, r = –.40, 
+p = .017. Only the PDSS and parent- and self-reports of 
+weeknight sleep duration survived stepwise entry into 
+the prediction of self-report depressive symptoms, 
+together accounting for 57% of the variance, p <.001. A 
+regression equation entering these three covariates, 
+followed by study group, found that the variance in self-
+reported depressive symptoms that was uniquely predicted 
+by study group was cut to 7.1%, p = .022. 
+
+Taken together, these data suggest that sleep duration 
+on weeknights and daytime sleepiness may have 
+mediated the difference between the groups in academic 
+grades and may have at least partially mediated group 
+differences in depressive symptoms. 
+
+Discussion 
+
+Consistent with our hypotheses, overweight adolescents 
+were at elevated risk for sleep-disordered breathing. In 
+addition, actigraphy data collected in the child’s normal 
+sleep environment found that, compared to demographically 
+similar normal-weight controls, those who were 
+overweight averaged shorter sleep time—due largely to a 
+later sleep onset—and less efficient and more disrupted 
+sleep. Although the groups did not differ in self-reported 
+sleep habits, multiple sleep concerns were reported by 
+parents of overweight participants, including daytime 
+sleepiness, parasomnias (e.g., sleepwalking), bedtime 
+resistance, delayed sleep onset, and dissatisfaction with 
+the adolescent’s sleep duration. 
+
+Because of the cross-sectional research design, it is 
+impossible from these data to infer the direction of causality 
+between sleep problems and high body mass. 
+However, the research literature suggests that short 
+sleep duration may contribute to excessive weight gain 
+(Agras et al., 2004; Reilly et al., 2005; Sugimori et al., 
+
+2004). The mechanism for this is not known, but sleep 
+deprivation may cause dietary cravings and hormonal 
+and metabolic shifts that foster weight gain (Spiegel, 
+Tasali, Penev, & van Cauter, 2004). Further, sleep deprivation 
+hampers attention, impulse control, and higher 
+level problem solving (Durmer & Dinges, 2005), providing 
+a second route by which dietary choices might be 
+undermined. Finally, sleepiness may contribute to physical 
+inactivity, although activity level has not been found 
+to statistically mediate the link between short sleep and 
+overweight (von Kries et al., 2002; Sekine et al., 2002). 
+
+On the other hand, OSA is more likely to be an 
+effect, rather than a cause, of overweight. In adults, OSA 
+is particularly predicted by fat deposition centrally and 
+around the upper airway (Gami, Caples, & Somers, 
+2003). Weight loss among overweight adolescents and 
+adults often results in improvement of OSA (Dixon, 
+Schachter, & O’Brien, 2005; Sugerman et al., 2003). 
+Overweight children also are at elevated risk for residual 
+or recurrent OSA following adenotonsillectomy, the 
+most common treatment (Mitchell & Kelly, 2004; Morton 
+et al., 2001). Interestingly, even when effective, adenotonsillectomy 
+may be followed by weight gain, not 
+loss, among lean and overweight children alike (Soultan, 
+Wadowski, Rao, & Kravath, 1999). 
+
+The excessive daytime sleepiness reported by parents 
+of overweight participants may result from short 
+sleep time, poor sleep quality, increased respiratory 
+effort during sleep, or excessive weight itself. Each has 
+been linked to systemic inflammation that may promote 
+sleepiness (Mills & Dimsdale, 2004). Of note, our overweight 
+adolescents appeared to be going to bed later 
+than their lean counterparts despite reported sleepiness. 
+
+Even if daytime sleepiness and short sleep are the 
+consequence, rather than the cause, of overweight, they 
+may mediate at least some of the link between pediatric 
+overweight and psychosocial morbidity. In this study, 
+short sleep and daytime sleepiness together statistically 
+accounted for much of the difference between the 
+groups in academic grades and self-reported depressive 
+symptoms. Daytime sleepiness also accounted for much 
+of the difference between groups in parent-reported 
+depressive symptoms. It is important to note that these 
+findings were based on exploratory analyses and should 
+be considered preliminary. Moreover, the symptoms of 
+sleepiness and those of depression can be difficult to disentangle, 
+though it may be helpful to limit item overlap 
+on questionnaires. For example, the BASC depression 
+subscale focuses on mood and social functioning, rather 
+than somatic symptoms, whereas items on the PDSS and 
+the sleepiness subscales from the CSHQ and PSQ focus 
+
+
+Sleep and Overweight Adolescents 77 
+
+almost exclusively upon drowsiness or sleep need (not 
+mood or social functioning). While the behavioral manifestations 
+of tiredness and depressed mood share some 
+features, the minimal item overlap in our measures 
+lends some confidence that associations between parent-
+reported sleepiness and depressive symptoms found in 
+this sample were not simple artifacts. Further, exploratory 
+analyses suggest that the several nonsomatic sub-
+scales on the CDI correlated with diminished weeknight 
+sleep in this sample (data not shown), lending further 
+confidence to our conclusions. These preliminary findings 
+highlight the need for further investigation of the 
+potential role of sleep-related variables as mediators of 
+adverse psychosocial outcomes among overweight 
+children. 
+
+Current data also suggest that research on the sleep 
+of overweight children extend beyond OSA, sleep duration, 
+and daytime sleepiness. In this sample, overweight 
+was associated with parasomnias and diminished sleep 
+quality, neither of which has received much research 
+attention in this population. Sleep-disordered breathing 
+may contribute to increased restlessness and to partial 
+arousal parasomnias (Guilleminault, Palombini, Pelayo, 
+& Chervin, 2003). While actigraphy can neither differentiate 
+partial from complete arousals nor determine the 
+nature of sleep disruption, our findings do suggest the 
+presence of disruptions in sleep continuity. 
+
+Despite evidence of differences in sleep functioning 
+across groups based on parent-report and two objective 
+sleep measures, self-report measures failed to yield significant 
+differences. To some degree, this may relate to 
+the relative inaccessibility of key sleep symptoms to self-
+observation. For example, symptoms of OSA and parasomnias 
+are almost always more apparent to others than 
+to the person who experiences them. It is also worth 
+noting that self-report effects were generally in the same 
+direction as those found via parent-report and actigraphy, 
+but analyses may have been underpowered. 
+
+These findings have important clinical implications. 
+Clinicians working with overweight adolescents should 
+ask about symptoms associated with OSA, including 
+loud snoring, labored breathing, or breathing pauses 
+during sleep. When there is a suspicion of OSA, patients 
+should be referred for formal sleep evaluation. The 
+American Academy of Sleep Medicine and American 
+Board of Sleep Medicine (http://www.sleepcenters.org, 
+http://www.absm.org) list accredited sleep centers and 
+board-certified sleep specialists. Clinicians should also 
+ask about sleep habits. Current recommendations are 
+that most adolescents need about 9¼ hours of sleep each 
+night for optimal functioning (Mindell & Owens, 2003). 
+
+Based on actigraphy, our control group came close to 
+that only for non-school nights. Worse still, our overweight 
+children averaged over an hour below recommendations 
+on non-school nights and nearly 2 h below 
+on school nights, suggesting the presence of a chronic 
+sleep deficit that may have physiological and psychosocial 
+consequences. Because this sleep deficit was largely 
+due to delayed sleep onset, clinicians should attend to 
+potential obstacles to establishing an appropriate bedtime. 
+Current research cannot yet support the assertion 
+that better sleep will contribute to weight loss, but successful 
+interventions for sleep problems have been associated 
+with subsequent gains in academic, behavioral, 
+and emotional functioning (Gozal, 1998; Minde, Faucon, 
+& Falkner, 1994). 
+
+Before concluding, it is important to highlight key 
+limitations of this study. Although the overweight participants 
+were not referred because of sleep problems, 
+the fact that they were participating in a comprehensive 
+pediatric weight-management program may make them 
+unique relative to the larger population of overweight 
+individuals. Missing data may also affect how representative 
+findings are of the general population. Present 
+findings generally agree with those from epidemiological 
+studies that had more limited sleep assessments, but 
+some caution is recommended in applying the present 
+findings to the general population, especially to minorities 
+and low income families who disproportionately had 
+missing data in this study, or to younger children. In 
+addition, though the CSHQ has been validated with 
+grade-school children, subscale findings in the current 
+sample should be considered tentative; to our knowledge, 
+no broad-band parent-report sleep questionnaire 
+has published validity evidence for adolescents. On a 
+similar measurement issue, although parent- and child-
+reported grades correlated strongly, we did not have 
+access to actual school records. Finally, the modest size 
+of the sample (especially for self-reported depression) 
+precluded investigation of more complex mediation and 
+moderation models, such as developmental and gender 
+effects, and whether sleep disorders can account for a 
+wider array of weight-linked medical (e.g., insulin resistance) 
+and behavioral morbidity. 
+
+Even so, this study provides the most comprehensive 
+assessment of sleep to date in a sample of overweight 
+adolescents, drawing upon the strengths of both 
+objective and subjective sleep assessment methods. 
+Present data add to a growing body of literature that 
+links short sleep to overweight, confirm previous findings 
+of increased risk for OSA among overweight children, 
+and further suggest the presence of a wider range 
+
+
+78 Beebe et al. 
+
+of sleep pathology, including parasomnias and poor 
+sleep quality, among overweight adolescents. These data 
+also suggest that at least some of the negative psychosocial 
+factors known to be associated with excessive 
+weight are also associated with sleep disturbance, with 
+sleep acting as a potential mediator. By carefully considering 
+children’s sleep, pediatric psychologists are in a 
+unique position to develop novel approaches to the prevention 
+of childhood overweight, behavioral weight-
+management treatment, and prevention of weight-related 
+morbidity. 
+
+Acknowledgments 
+
+This research was supported by grants to the first author 
+by the American Sleep Medicine Foundation (22-YI-03) 
+and the National Institutes of Health (K23 HL075369). 
+
+Received July 29, 2005; revision received December 31, 
+2005; accepted January 15, 2006 
+
+References 
+
+Acebo, C., & Carskadon, M. A. (2002). Influence of 
+irregular sleep patterns on waking behavior. In 
+
+M. A. Carskadon (Ed.), Adolescent sleep patterns: 
+Biological, social, and psychological influences 
+(pp. 220–235). Cambridge, UK: Cambridge 
+University Press. 
+Acebo, C., Sadeh, A., Seifer, R., Tzischinsky, O., Wolfson, 
+
+A. R., Hafer, A., et al. (1999). Estimating sleep 
+patterns with activity monitoring in children and 
+adolescents: How many nights are necessary for 
+reliable measures? Sleep, 22, 95–103. 
+Agras, W. S., Hammer, L. D., McNicholas, F., & 
+Kraemer, H. C. (2004). Risk factors for childhood 
+overweight: A prospective study from birth to 
+
+9.5 years. Journal of Pediatrics, 145, 20–25. 
+Aickin, M., & Gensler, H. (1996). Adjusting for multiple 
+testing when reporting research results: The Bonferroni 
+vs Holm methods. American Journal of Public Health, 
+86, 726–728. 
+
+American Sleep Disorders Association. (1992). EEG 
+arousals: Scoring rules and examples: A preliminary 
+report from the Sleep Disorders Atlas Task Force of 
+the American Sleep Disorders Association. Sleep, 15, 
+173–184. 
+
+Amin, R. S., Kimball, T. R., Kalra, M., Jeffries, J. L., 
+Carroll, J. L., Bean, J. A., et al. (2005). Left ventricular 
+function in children with sleep-disordered breathing. 
+American Journal of Cardiology, 95, 801–804. 
+
+Carskadon, M. A., & Acebo, C. (1993). A self-administered 
+rating scale for pubertal development. Journal of 
+Adolescent Health, 14, 190–195. 
+
+Chay, O. M., Goh, A., Abisheganaden, J., Tang, J., Lim, 
+
+W. H., Chan, Y. H., et al. (2000). Obstructive sleep 
+apnea syndrome in obese Singapore children. Pediatric 
+Pulmonology, 29, 284–290. 
+Chervin, R. D., Hedger, K. M., Dillon, J. E., & Pituch, K. J. 
+(2000). Pediatric sleep questionnaire (PSQ): 
+Validity and reliability of scales for sleep-disordered 
+breathing, snoring, sleepiness, and behavioral 
+problems. Sleep Medicine, 1, 21–32. 
+
+Daniels, S., Arnett, D. K., Eckel, R. H., Gidding, 
+
+S. S., Hayman, L. L., Kumanyika, S., et al. (2005). 
+Overweight in children and adolescents: 
+Pathophysiology, consequences, prevention, and 
+treatment. Circulation, 111, 1999–2012. 
+De la Eva, R., Baur, L., Donaghue, K., & Waters, K. 
+(2002). Metabolic correlates with obstructive sleep 
+apnea in obese subjects. Journal of Pediatrics, 140, 
+654–659. 
+
+Dixon, J. B., Schachter, L. M., & O’Brien P. E. (2005). 
+Polysomnography before and after weight loss in 
+obese patients with severe sleep apnea. International 
+Journal of Obesity and Related Metabolic Disorders, 
+29, 1048–1054. 
+
+Drake, C., Nickel, C., Burduvali, E., Roth, T., Jefferson, C., 
+& Pietro, B. (2003). The pediatric daytime sleepiness 
+scale (PDSS): Sleep habits and school outcomes in 
+middle-school children. Sleep, 26, 455–458. 
+
+Durmer, J. S., & Dinges, D. F. (2005). Neurocognitive 
+consequences of sleep deprivation. Seminars in 
+Neurology, 25, 117–129. 
+
+Fallone, G. P., Owens, J. A., & Deane, J. (2002). Sleepiness 
+in children and adolescents: Clinical implications. 
+Sleep Medicine Reviews, 6, 287–306. 
+
+Gami, A. S., Caples, S. M., & Somers, V. K. (2003). 
+Obesity and obstructive sleep apnea. Endocrinology 
+and Metabolic Clinics of North America, 32, 869–894. 
+
+Gozal, D. (1998). Sleep disordered breathing and school 
+performance in children. Pediatrics, 102, 616–620. 
+Guilleminault, C., Palombini, L., Pelayo, R., & Chervin, 
+
+R. D. (2003). Sleepwalking and sleep terrors in 
+prepubertal children: What triggers them? 
+Pediatrics, 111, e17–e25. 
+Gupta, N. K., Mueller, W. H., Chan, W., & Meininger, J. C. 
+(2002). Is obesity associated with poor sleep quality 
+in adolescents? American Journal of Human Biology, 
+14, 762–768. 
+
+Kovacs, M. (1992). Children’s Depression Inventory. 
+North Tonawanda, NY: Multi-Health Systems. 
+
+
+Sleep and Overweight Adolescents 79 
+
+von Kries, R., Toschke, A. M., Wurmser, H., Sauerwald, T., 
+& Koletzko, B. (2002). Reduced risk for overweight 
+and obesity in 5- and 6-y-old children by duration 
+of sleep. International Journal of Obesity and Related 
+Metabolic Disorders, 26, 710–716. 
+
+Marcus, C. L. (1996). Evaluation of pulmonary function 
+and polysomnography in obese children and adolescents. 
+Pediatric Pulmonology, 21, 176–183. 
+
+Mills, P. J., & Dimsdale, J. E. (2004). Sleep apnea: A 
+model for studying cytokines, sleep, and sleep 
+disruption. Brain, Behavior, and Immunity, 18, 
+298–303. 
+
+Minde, K., Faucon, A., & Falkner, S. (1994). Sleep 
+problems in toddlers: Effects of treatment on their 
+daytime behavior. Journal of the American Academy 
+of Child and Adolescent Psychiatry, 33, 1114–1121. 
+
+Mindell, J. A., & Owens, J. A. (2003). A clinical guide to 
+pediatric sleep: Diagnosis and management of sleep 
+problems. Philadelphia, PA: Lippincott, Williams, 
+and Wilkins. 
+
+Mitchell, R. B., & Kelly, J. (2004). Adenotonsillectomy 
+for obstructive sleep apnea in obese children. Otolaryngoly, 
+Head and Neck Surgery, 131, 104–108. 
+
+Morton, S., Rosen, C., Larkin, E., Tishler, P., Aylor, J., & 
+Redline, S. (2001). Predictors of sleep-disordered 
+breathing in children with a history of tonsillectomy 
+and/or adenoidectomy. Sleep, 24, 823–829. 
+
+Noll, R. B., Gartstein, M. A., Vannatta, K., Correll, J., 
+Bukowski, W. M., & Davies, W. H. (1999). Social, 
+emotional, and behavioral functioning of children 
+with cancer. Pediatrics, 103, 71–78. 
+
+Owens, J., Spirito, A., & McGuinn, M. (2000). The 
+children’s sleep habits questionnaire (CSHQ): 
+Psychometric properties of a survey instrument for 
+school-aged children. Sleep, 23, 1043–1051. 
+
+Rechtschaffen, A., & Kales, A. (1968). A Manual of 
+Standardized Terminology: Techniques and Scoring 
+System for Sleep Stages of Human Subjects. Los 
+Angeles: UCLA Brain Information Service/Brain. 
+Research Institute. 
+
+Reilly, J. J., Armstrong, J., Dorosty, A. R., Emmett, P. M., 
+Ness, A., Rogers, I., et al. (2005). Early life risk 
+factors for obesity in childhood: Cohort study. BMJ, 
+330, 1357. 
+
+Reynolds, C. R., & Kamphaus, R. W. (1992). 
+BASC – Behavioral Assessment System for Children Manual. 
+Circle Pines, MN: American Guidance Service. 
+
+Sadeh, A., Sharkey, K. M., & Carskadon, M. A. (1994). 
+Activity-based sleep-week identification: An empirical 
+test of methodological issues. Sleep, 17, 201–207. 
+
+Sekine, M., Yamagami, T., Handa, K., Saito, T., Nanri, S., 
+Kawaminami, K., et al. (2002). A dose–response 
+relationship between short sleeping hours and 
+childhood obesity: Results of the Toyama Birth 
+Cohort Study. Child: Care, Health and Development, 
+28, 163–170. 
+
+Soultan, Z., Wadowski, S., Rao, M., & Kravath, R. E. 
+(1999). Effect of treating obstructive sleep apnea by 
+tonsillectomy and/or adenoidectomy on obesity in 
+children. Archives of Pediatric and Adolescent 
+Medicine, 153, 33–37. 
+
+Spiegel, K., Tasali, E. F., Penev, P., & van Cauter, E. 
+(2004). Sleep curtailment in healthy young men is 
+associated with decreased leptin levels, elevated 
+ghrelin levels, and increased hunger and appetite. 
+Annals of Internal Medicine, 141, 846–850. 
+
+Sugerman, H. J., Sugerman, E. L., DeMaria, E. J., 
+Kellum, J. M., Kennedy, C., Mowery, Y., et al. 
+(2003). Bariatric surgery for severely obese 
+adolescents. Journal of Gastrointestinal Surgery, 7, 
+102–107. 
+
+Sugimori, H., Yoshida, K., Izuno, T., Miyakawa, M., 
+Suka, M., Sekine, M., et al. (2004). Analysis of 
+factors that influence body mass index from ages 
+3–6 years: A study based on the Toyama cohort 
+study. Pediatrics International, 46, 302–310. 
+
+Swallen, K. C., Reither, E. N., Haas, S. A., & Meier, A. M. 
+(2005). Overweight, obesity, and health-related 
+quality of life among adolescents: The National 
+Longitudinal Study of Adolescent Health. Pediatrics, 
+115, 340–347. 
+
+Wing, Y. K., Hui, S. H., Pak, W. M., Ho, C. K., Cheung, A., 
+Li, A. M., et al. (2003). A controlled study of sleep 
+related disordered breathing in obese children. 
+Archives of Diseases in the Child, 88, 1043–1047. 
+
+Wolfson, A. R., Carskadon, M. A., Acebo, C., Seifer, R., 
+Fallone, G. P., Labyak, S. E., et al. (2003). Evidence 
+for the validity of a sleep habits survey for adolescents. 
+Sleep, 26, 213–216. 
+
+Zeller, M., Kirk, S., Claytor, R., Khoury, P., Grieme, J., 
+Santangelo, M., et al. (2004). Predictors of attrition 
+from a pediatric weight management program. 
+Journal of Pediatrics, 144, 466–470. 
+
+Zeller, M. H., Ramey, C., & Allen, R. (2003). Social 
+competence of obese youth: Implications for 
+treatment [Abstract]. Obesity Research, 11, 594P. 
+
+Zeller, M. H., Saelens, B. E., Roehrig, H., Kirk, S., & 
+Daniels, S. R. (2004). Psychological adjustment of 
+obese youth presenting for weight management 
+treatment. Obesity Research, 12, 1576–1586. 
+
+

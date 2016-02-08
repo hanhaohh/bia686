@@ -1,0 +1,811 @@
+Night-to-night variability of polysomnography 
+in children with suspected obstructive sleep apnea 
+
+Eliot S. Katz, MD, Mary G. Greene, MD, MPH, Kathryn A. Carson, MPH, Patricia Galster, RPSGT, 
+Gerald M. Loughlin, MD, John Carroll, MD, and Carole L. Marcus, MBBCh 
+
+Objectives: To determine whether a single polysomnographic night was a 
+valid measure of obstructive sleep apnea syndrome (OSAS) in children with 
+symptoms of sleep-disordered breathing. 
+
+Study design: The night-to-night variability of respiratory and sleep parameters 
+was measured prospectively in 30 snoring children aged 1.6 to 11.3 
+years (mean ± SD, 4.1 ± 2) by using 2 nocturnal polysomnograms performed 
+7 to 27 days apart (14 ± 5 days). 
+
+Results: The mean of the respiratory variables including apnea index, 
+apnea/hypopnea index, arterial oxygen saturation, and end-tidal partial pressure 
+of carbon dioxide were not significantly different from night to night. 
+Among the sleep parameters, there was no significant night-to-night difference 
+in sleep efficiency, arousal index, percent rapid eye movement, or percent 
+of slow wave sleep. Only the percentage of stage 2 was significantly 
+different between the nights. The polysomnographic clinical diagnosis remained 
+the same on both nights for all children, although the disease severity 
+differed slightly in 2 patients. 
+
+Conclusions: There is little clinically significant night-to-night variability 
+in pediatric polysomnography, and no first-night effect. These data suggest 
+that a single polysomnographic night is an adequate measure of the OSAS 
+in children with symptoms of sleep-disordered breathing. (J Pediatr 
+
+2002;140:589-94.) 
+
+Children with obstructive sleep apnea 
+syndrome (OSAS) exhibit cyclic upper 
+airway obstruction during sleep that 
+may be associated with hypoxemia, hypercarbia, 
+thoraco-abdominal asyn
+
+
+chrony, and sleep disruption. The children 
+typically have symptoms between 
+2 and 6 years of age with adenotonsillar 
+hypertrophy, snoring, and labored 
+breathing. However, comprehensive 
+
+From the Eudowood Divison of Pediatric Respiratory Sciences and the Division of Oncology Biostatistics, Johns Hopkins 
+University, MedBiquitous Services, Inc, Baltimore, Maryland, and The University of Arkansas for Medical Sciences, 
+Little Rock. 
+
+Supported by grants RR-00052, Pediatric Clinical Research Center, The Johns Hopkins Hospital, 
+and National Heart, Lung, and Blood Institute grant HL58585 (to C. L. M.) and by an American 
+Lung Association of Maryland Research grant (to E. S. K.). 
+
+
+Submitted for publication July 31, 2001; revision received Dec 21, 2001; accepted Jan 23, 2002. 
+
+
+Reprint requests: Carole L. Marcus, MBBCh, Division of Pediatric Pulmonology, Park 316, 
+Johns Hopkins Hospital, 600 N Wolfe St, Baltimore, MD 21287-2533. 
+Copyright © 2002, Mosby, Inc. All rights reserved. 
+0022-3476/2002/$35.00 + 0 9/21/123290 
+doi:10.1067/mpd.2002.123290 
+
+
+clinical history and physical examination 
+alone cannot definitively identify 
+OSAS among snoring children.1,2 A 
+single overnight polysomnogram 
+(PSG) is a well-recognized diagnostic 
+tool used to determine the presence and 
+severity of OSAS in symptomatic children.
+2 However, few data exist regarding 
+the validity and variability of PSG 
+findings in children. That is, it is unknown 
+whether the frequency and 
+severity of OSAS among snoring children 
+is sufficiently consistent from night 
+to night to be accurately assessed by 
+one PSG. The misclassification of 
+OSAS as primary snoring after a single 
+
+AHI Apnea/hypopnea index 
+
+AI Apnea index 
+
+BMI Body mass index 
+
+OSAS Obstructive sleep apnea syndrome 
+
+PETCO2 End-tidal partial pressure of carbon 
+
+dioxide 
+
+PSG Polysomnogram 
+
+REM Rapid eye movement 
+
+SpO2 Arterial oxygen saturation 
+
+TST Total sleep time 
+
+PSG night has been shown in adults3,4 
+and may also occur in children. 
+
+Night-to night variability has been 
+examined in adult patients who underwent 
+nocturnal PSG on =2 consecutive 
+nights. An adaptation effect of 
+the sleep laboratory environment, 
+termed the “first night effect,” has 
+been reported to disrupt sleep architecture5-
+7 and perhaps underestimate 
+respiratory disturbance.6,8 The purpose 
+of this study is to determine the 
+variability of the presence and severity 
+of OSAS in children as measured 
+by 2 PSGs performed 1 to 4 weeks 
+apart. We hypothesized that a single 
+PSG night was a valid measure of 
+
+
+KATZ ET AL THE JOURNAL OF PEDIATRICS 
+MAY 2002 
+
+Table I. Patient characteristics (n = 30) 
+
+Age (y) 
+Sex (m) 
+BMI (kg/m2) 
+Length between studies (d) 
+Obese (BMI >95th percentile for age), n 
+
+
+Values are mean ± SD (range). 
+
+OSAS in children with symptoms of 
+sleep-disordered breathing. 
+
+METHODS 
+
+Consecutive children who had symptoms 
+of OSAS related to adenotonsillar 
+hypertrophy were prospectively 
+recruited into a research study involving 
+2 PSGs 1 and 4 weeks apart. 
+
+Patients 
+
+The study population was comprised 
+of 34 children younger than 12 years of 
+age who came to the Sleep Disorders 
+Clinic at the Johns Hopkins Hospital, 
+Baltimore, Maryland, with symptoms of 
+OSAS. All patients underwent a complete 
+history and physical examination 
+focusing on clinical evidence of OSAS 
+and possible etiologic factors. Patients 
+with other medical conditions known to 
+affect sleep or breathing, such as craniofacial 
+dysmorphism, mental retardation, 
+cerebral palsy, previous otolaryngologic 
+surgery, and children taking medications 
+known to affect sleep, were excluded. 
+Otherwise normal patients with 
+snoring were prospectively and consecutively 
+asked to participate in the study. 
+Signed, informed consent was obtained 
+from the parent and assent from children 
+older than 5 years. The study was 
+approved by the institutional review 
+board at our hospital. 
+
+Procedure 
+
+Each patient underwent 2 nocturnal 
+PSGs in our sleep laboratory 7 to 28 
+days apart. Studies were performed in 
+a designated pediatric sleep center 
+with an experienced staff. The second 
+study was performed before any thera
+
+
+4.1 ± 2 (1.6–11.3) 
+19 
+18.2 ± 4.1 (13.0–28.5) 
+14 ± 5 (7–27) 
+7 
+peutic intervention but did not delay 
+therapy. The technician (P. G.) and 
+physician (E. S. K.) scoring the second 
+studies were blinded to the patient’s 
+identification as well as the results of 
+the initial study. The physician reviewed 
+each PSG after it had been 
+scored by the technician. Because children 
+at our center generally undergo a 
+single diagnostic PSG, the clinical 
+management decisions were made on 
+the basis of the initial study. 
+
+Polysomnography 
+
+PSG studies were performed overnight. 
+No sedation or sleep deprivation 
+was used. Children were accompanied 
+by a parent throughout the night. Details 
+of our techniques and definitions 
+have been published elsewhere.9 Sleep 
+architecture was assessed by standard 
+techniques.10 An obstructive apnea was 
+defined as the presence of chest and/or 
+abdominal wall motion associated with a 
+reduction of airflow =80% of baseline, 
+lasting =2 breaths’ duration. The apnea 
+index (AI) was defined as the number of 
+obstructive apneas per hour of total 
+sleep time (TST). Mixed apneas (apneas 
+with central and obstructive components) 
+were included in the AI. An 
+obstructive hypopnea was defined as a 
+reduction in airflow between 50% and 
+80% of baseline associated with a drop 
+in arterial oxygen saturation (SpO2) 
+=4%, lasting =2 breaths’ duration. The 
+apnea/hypopnea index (AHI) was defined 
+as the total number of obstructive 
+apneas, mixed apneas, and hypopneas 
+per hour of TST. Micro-arousals were 
+identified according to the definition of 
+the American Sleep Disorders Association.
+11 The arousal index was defined as 
+the number of arousals and awakenings 
+
+per hour of TST. The percentage of TST 
+during which the end-tidal partial pressure 
+of carbon dioxide (PETCO2) was 
+=50 mm Hg was measured. Obstructed 
+hypoventilation was defined as PETCO2 
+=50 mm Hg for >10% TST. The AI, 
+rather than the AHI, was used as a primary 
+classification variable because normative 
+data for hypopneas in children 
+have not been established2,12; however, 
+both indices were evaluated. Although 
+strict PSG diagnostic criteria have not 
+been established for OSAS in children, 
+a classification on the basis of our clinical 
+experience and review of the literature 
+was made by using the following 
+guidelines2,13,14: 
+
+1. 
+Primary snoring: fulfilled all 4 of 
+the following PSG criteria: (1) AI 
+=1/hour, (2) SpO2 nadir >92%, (3) 
+peak PETCO2 =53 mm Hg 
+and duration of hypoventilation 
+(PETCO2 =50 mm Hg) <10% TST, 
+and (4) arousal index <10/ 
+hour.15,16 Patients with frequent 
+arousals associated with paradoxic 
+inward rib cage movement were 
+excluded to eliminate patients who 
+may have had the upper airway resistance 
+syndrome. 
+2. 
+Mild OSAS: =1 of the following 
+criteria: (1) AI between 1 and 
+4/hour, (2) SpO2 nadir 86% to 
+91% in association with obstruction, 
+and (3) duration of hypoventilation 
+between 10% and 24% 
+TST. 
+3. 
+Moderate OSAS: =1 of the following 
+criteria: (1) AI between 5 
+and 9/hour, (2) SpO2 nadir 76% 
+to 85% in association with obstruction, 
+and (3) duration of hypoventilation 
+between 25% and 
+49% TST. 
+4. Severe OSAS: =1 of the following 
+criteria: (1) AI =10/hour, (2) 
+SpO2 nadir =75% in association 
+with obstruction, and (3) duration 
+of hypoventilation =50% TST. 
+Data Analysis 
+
+The principal variables of interest 
+were the AI, AHI, sleep efficiency, per
+
+
+
+THE JOURNAL OF PEDIATRICS KATZ ET AL 
+VOLUME 140, NUMBER 5 
+Table II. Sleep and respiratory parameters for PSG nights 1 and 2 
+Night 1 Difference Intraclass 
+(mean ± SD) (night 1- night 2) P value correlation 
+Sleep variables 
+Total sleep time (min) 386 ± 65 –0.7 ± 65 .96 0.53 
+Sleep efficiency (%) 84 ± 14 1.5 ± 13 .70 0.57 
+Time awake after sleep onset (min) 45 ± 68 –3 ± 49 .76* 0.63† 
+Sleep latency (min) 30 ± 28 5 ± 42 .52 0.04† 
+Arousal index (arousals/hr TST) 10 ± 6.5 0.1 ± 8 .86* 0.63† 
+Stage 2 (%TST) 47 ± 8 –2.7 ± 7 .03 0.63 
+Slow wave sleep (%TST) 27 ± 9 0.8 ± 7 .53 0.62 
+REM (%TST) 22 ± 6 0.9 ± 7 .47 0.37 
+REM latency (min) 92 ± 46 18 ± 87 .51* 0.32† 
+Supine position (%TST) 30 ± 17 2.6 ± 27 .60 0.20† 
+Side position (%TST) 59 ± 18 –7 ± 31 .22 0.01 
+Respiratory variables 
+AI (events/hr TST) 5.8 ± 14 –0.6 ± 10 .38* 0.86† 
+AHI (events/hr TST) 8.8 ± 17 –1 ± 12 .26* 0.89† 
+SpO2 <92% (%TST) 1.3 ± 3 –0.58 ± 2 .23* 0.71† 
+SpO2 nadir (%) 87 ± 13 2 ± 9 .94* 0.70 
+PETCO2 >50 mm Hg (%TST) 4 ± 13 –0.88 ± 6 .55* 0.78† 
+PETCO2 peak (mm Hg) 51 ± 6 –0.2 ± 4.7 .84* 0.63† 
+
+*P value for non-normally distributed variables using the Wilcoxon signed-rank test. 
+
+†Intraclass correlation coefficients computed on natural logarithm transformation of data. 
+cent rapid eye movement (REM) sleep, 
+percent slow-wave sleep, SpO2 nadir, 
+duration of hypoventilation, and peak 
+PETCO2. The intersubject means of 
+variables were compared between the 
+nights by using the paired t test for normally 
+distributed data and the Wilcoxon 
+signed–rank test for nonparametric 
+variables. The intraclass correlation coefficient 
+was calculated for all variables. 
+For highly skewed variables, the statistical 
+computation was performed on the 
+natural logarithm of the variable. 
+
+RESULTS 
+
+Thirty-four patients were initially recruited 
+into the study. Three children 
+elected not to return to the laboratory 
+after the first PSG. One additional child 
+had severe seizures evident on the first 
+PSG and did not undergo a second 
+study. These patients were excluded 
+from further analysis. Demographic 
+data from the 30 children who complet
+
+
+ed both PSG nights are summarized in 
+Table I. Seven children were considered 
+obese on the basis of a body mass index 
+(BMI) >95th percentile for age.17 
+
+Mean values of the principal sleep 
+and respiratory variables from the first 
+PSG and night-to-night differences are 
+presented in Table II. Considering all 
+PSG variables, as per our routine interpretation 
+protocol, 10 patients were diagnosed 
+with primary snoring and 20 
+with OSAS. Of the patients with 
+OSAS, 9 were mild, 6 were moderate, 
+and 5 were severe. None of the children 
+had frequent or pathologic central 
+apnea. Three children demonstrated 
+obstructive hypoventilation on both 
+PSGs. The clinical classification of 
+OSAS or primary snoring remained the 
+same on both PSG nights for all patients. 
+The severity of OSAS varied in 
+only 2 patients; one changed from mild 
+to moderate and the other from severe 
+to moderate on nights 1 to 2. Categorization 
+of the patients on the basis of 
+the AI alone, without regard to other 
+
+PSG variables, would have resulted in a 
+diagnostic classification change in one 
+patient from primary snoring on night 1 
+(AI = 0.3) to OSAS on night 2 
+(AI = 5.5). However, this patient had 
+frequent hypopneas and gas exchange 
+abnormalities on both PSG nights. One 
+patient demonstrated considerable 
+night-to-night variability in AHI (AHI 
+
+84.7 on night 1 and 32.5 on night 2) but 
+was still clinically severe on both nights. 
+This patient demonstrated frequent hypopneic-
+appearing events that did not 
+fulfill our strict desaturation criteria on 
+the second study. 
+No statistically significant differences 
+in sleep or respiratory variables were 
+observed between the nights except for 
+the percent of TST in stage 2, which 
+was slightly higher on the second night 
+(Table II). Not only was there no significant 
+difference in the AI or AHI between 
+the 2 nights, but the absolute 
+differences observed were small (Fig 1). 
+Children with higher AIs and AHIs had 
+more variability between the PSG 
+
+
+KATZ ET AL 
+
+Fig 1. Frequency histograms demonstrating the night-to-night difference in the (A) AI and (B) AHI 
+in 30 children with symptoms of OSAS. 
+
+
+Fig 2. Night-to-night difference (night 1 minus night 2) versus mean for the (A) AI and the (B) 
+AHI in 30 children with symptoms of OSAS. Dashed lines indicate mean ± 2SD. 
+
+
+nights (Fig 2). There were no significant 
+differences in the distribution of 
+body position between the nights to explain 
+this difference (Table II). 
+
+There was no significant correlation 
+between either the patient’s age and AI 
+averaged between the 2 nights 
+(r = –0.06) or night-to-night change in 
+AI (r = 0.21), nor was there a correlation 
+between the patient’s percentage of predicted 
+BMI and either average AI 
+(r = 0.11) or night-to-night change in AI 
+(r = 0.20). Similarly, there were no significant 
+correlations between either the 
+patient’s age and AHI averaged between 
+the 2 nights (r = 0.1) or night-to-night 
+change in AHI (r = 0.23), nor between 
+the patient’s percentage of predicted 
+BMI and either average AHI (r = 0.17) 
+or night-to-night change in AHI (r = 
+0.09). Comparison of the obese and 
+nonobese children revealed no significant 
+difference in their AIs, AHIs, or 
+night-to-night differences in both. 
+
+Comparison of patients with high 
+night-to-night AI variability (>3 
+events/hour difference between the 
+nights, n = 8) with patients with low AI 
+variability (<3 events/hour difference 
+between the nights, n = 22) revealed no 
+significant differences in age, sex, or 
+percentage of predicted BMI. Furthermore, 
+these high- and low-variability 
+groups did not differ in the average or 
+night-to-night change in percent REM, 
+distribution of body position, or sleep 
+efficiency. Within the high variability 
+group, 5 patients had an increase and 3 
+patients had a decrease in AI and AHI 
+on night 2 compared with night 1. 
+
+DISCUSSION 
+
+In our prospective series, the clinical 
+diagnosis of either OSAS or primary 
+snoring remained the same in all children 
+undergoing 2 PSG studies 1 and 4 
+
+THE JOURNAL OF PEDIATRICS 
+MAY 2002 
+
+weeks apart. This supports the view 
+that a single PSG night is sufficient for 
+the diagnosis of OSAS in otherwise 
+normal, snoring children. Although the 
+overall classification of patients was unchanged, 
+there were minimal changes in 
+OSAS severity between nights. No 
+night-to-night systematic bias was observed 
+in any of the mean intersubject 
+respiratory parameters. Among the 
+sleep variables, only the percent of stage 
+2 differed slightly between the nights. 
+The intrasubject respiratory parameters, 
+however, demonstrated considerable 
+variability, particularly in children 
+with severe disease (Fig 2). The variability 
+in respiratory parameters could 
+not be accounted for by changes in 
+body position or percent REM time. 
+
+No statistically significant differences 
+were observed in the night-to-night intersubject 
+means for sleep efficiency, 
+percent slow wave sleep, percent REM, 
+or sleep latency. Furthermore, sleep efficiency 
+averaged >80% on both PSG 
+nights, suggesting that the PSG did not 
+have an adverse effect on sleep quality. 
+Similarly, in keeping with several adult 
+studies,5,19,22 the mean respiratory variables, 
+AI, AHI, SpO2, and PETCO2 
+were also not significantly different between 
+the nights. In fact, the intraclass 
+correlation coefficients of 0.86 and 0.89, 
+for the AI and AHI respectively, indicate 
+excellent agreement. This suggests 
+that respiratory disturbances were not 
+underestimated on the first PSG night. 
+The AI increased between the nights in 
+14 patients, decreased in 10 patients, 
+and remained the same in 6 patients. 
+
+The comparison of the nightly inter-
+subject variable means by using the 
+paired t test or Wilcoxon signed-rank 
+test is useful in determining a systematic 
+bias but does not clarify intrasubject 
+agreement. In fact, high intrasubject 
+variability may result in night-to-night 
+means that are not significantly different. 
+The intraclass correlation coefficient 
+represents the average correlation 
+using all possible orderings of the 2 
+study nights. This statistic is highly dependent 
+on the range of patient data 
+
+
+THE JOURNAL OF PEDIATRICS KATZ ET AL 
+VOLUME 140, NUMBER 5 
+
+and therefore generalizable only to the 
+population from which the sample was 
+drawn. An intraclass correlation of zero 
+represents agreement no greater than 
+chance, and a value of one indicates 
+perfect agreement. Graphic tools may 
+be useful at highlighting trends in the 
+data but are not quantitative. Therefore, 
+we elected to make our conclusions 
+principally on the basis of the degree of 
+diagnostic classification agreement. 
+
+The clinical classification of symptomatic 
+children is not exclusively based 
+on the AI alone. Consideration of the 
+AHI, SpO2, PETCO2, and arousal 
+index also contribute to the diagnosis of 
+OSAS. Pediatric OSAS may be associated 
+with prolonged partial obstruction 
+rather than discrete obstructive 
+events.14 The one child with the highest 
+AHI night-to-night variability (52.2 
+events/hour) had frequent obstructive 
+respiratory events on the second night, 
+which did not fulfill our strict oxygen 
+desaturation requirement for hypopnea. 
+Review of this record clearly revealed 
+the severity of the obstruction, but it 
+was not reflected in the AHI. Thus, diagnostic 
+interpretation of pediatric PSG 
+will continue to require consideration of 
+all respiratory parameters.4,6,22 In 
+adults, night-to-night variability studies 
+defining OSAS by a threshold level of 
+>5 events/hour resulted in the misclassification 
+of 8% to 43%3,4,23 of adults undergoing 
+consecutive night PSGs. 
+Thus, attempts to define OSAS solely in 
+terms of AI or AHI “cut-off” thresholds 
+may lead to misclassification. 
+
+Little is known regarding the factors 
+responsible for the night-to-night variability 
+in OSAS. The potential sources 
+of this variability include factors related 
+to the test, as well as biologic predispositions. 
+That the greatest variability was 
+observed in patients with the highest 
+AIs and AHIs suggests that the factors 
+responsible for the severity of OSAS 
+and its variability may be the same. Despite 
+the high variability seen in children 
+with severe OSAS, there were 
+only 2 instances in which the severity 
+classification differed between the 
+
+nights. Thus, from a clinical standpoint, 
+a single PSG night is also an adequate 
+measure of the degree of sleep-disordered 
+breathing. 
+
+Patient factors that have been evaluated 
+as sources of night-to-night variability 
+include sleep architecture, body 
+position, age, BMI, degree of nasal obstruction,
+3 respiratory infection, morphometric 
+indices, and laboratory 
+conditions. Our data in children between 
+2 and 11 years of age demonstrated 
+that body position did not differ 
+between the high- and low-variability 
+groups. Furthermore, evaluation of 
+night-to-night changes in body position 
+did not account for the observed AI or 
+AHI variability between the nights in 
+this study. Previous reports indicate 
+that pediatric OSAS is more severe 
+during REM.16,25 Analysis of the sleepstate-
+specific AIs or AHIs revealed that 
+the night-to-night variation in the percent 
+REM time did not account for the 
+overall AI or AHI variability. The failure 
+of changes in sleep state distribution 
+to account for the night-to-night AI 
+variability has also been previously reported 
+in adults with OSAS.22,26 
+
+Limitations of this study include the 
+arbitrary nature of the severity classification, 
+particularly in children who 
+overlapped categories, that poses a 
+source of error in that component of our 
+data. The distinction between OSAS 
+and primary snoring, however, relied on 
+strict objective criteria and was independently 
+determined by 2 observers. 
+The reliability of the PSG respiratory 
+data is predicated on having adequate 
+sleep and REM time. Most patients had 
+a sleep efficiency >75% (n = 24) and 
+percent REM time >15% (n = 24) on 
+both PSGs in this study. This is in keeping 
+with previous data from our laboratory.
+16 Because our studies were 
+performed in an experienced pediatric 
+sleep laboratory, the results might not 
+be generalizable to an adult-oriented 
+laboratory or domiciliary studies. Finally, 
+insofar as esophageal manometry 
+was not performed, some of the children 
+with primary snoring may have ac
+
+
+tually had the upper airway resistance 
+syndrome. However, this shortcoming 
+would have affected both studies. 
+
+Overall, there were no significant 
+differences between the nights in the 
+respiratory variables and minimal differences 
+in the sleep variables. Thus, a 
+systematic “first night effect” was not 
+observed. From a clinical standpoint, 
+despite some wide intrasubject differences 
+in AI or AHI between the 2 
+PSGs, there was no night-to-night variability 
+in the diagnosis of OSAS and 
+few changes in the severity classification. 
+In this symptomatic study population, 
+a single-night PSG was an 
+adequate measure of pediatric OSAS. 
+
+We thank Audrey Hamer, Janita Lutz, 
+RPsgT, and Cheryl Black, RRT, for performing 
+the polysomnograms. 
+
+REFERENCES 
+
+1. 
+Carroll J, McColley S, Marcus C, Curtis 
+S, Loughlin G. Inability of clinical 
+history to distinguish primary snoring 
+from obstructive sleep apnea syndrome 
+in children. Chest 1995;108:610-6. 
+2. 
+American Thoracic Society. Standards 
+and indications for cardiopulmonary 
+sleep studies in children. Am J Respir 
+Crit Care Med 1996;153:866-78. 
+3. 
+Bliwise D, Benkert R, Ingham R. Factors 
+associated with nightly variability 
+in sleep-disordered breathing in the elderly. 
+Chest 1991;100:973-6. 
+4. 
+Mosko S, Dickel M, Ashurst J. Nightto-
+night variability in sleep apnea and 
+sleep-related periodic leg movements in 
+the elderly. Sleep 1988;11:340-8. 
+5. 
+Aber W, Block A, Hellard D, Webb W. 
+Consistency of respiratory measurements 
+from night to night during the 
+sleep of elderly men. Chest 1989;96: 
+747-51. 
+6. 
+Le Bon O, Hoffman G, Tecca J, Staner 
+L, Noseda A, Pelc I, et al. Mild to moderate 
+sleep respiratory events: one negative 
+night may not be enough. Chest 
+2000;118:353-9. 
+7. 
+Agnew H, Webb W, Williams R. The 
+first night effect: an EEG study of sleep. 
+Percept Psychophys 1966;2:263-6. 
+8. 
+Bliwise D, Carey E, Dement W. Nightly 
+variation in sleep-related respiratory 
+disturbance in older aldults. Exp Aging 
+Res 1983;9:77-81. 
+
+KATZ ET AL THE JOURNAL OF PEDIATRICS 
+MAY 2002 
+
+9. 
+Marcus C, Hamer A, Loughlin G. Natural 
+history of primary snoring. Pediatr 
+Pulmonol 1998;26:6-11. 
+10. 
+Rechtschaffen A, Kales A. A manual 
+of standardized terminology: techniques 
+and scoring systems for sleep 
+stages of human subjects. Los Angeles 
+(CA): UCLA Brain Information Service/
+Brain Research Institute; 1968. 
+11. 
+ASDA Report. EEG arousals: scoring 
+rules and examples. Sleep 1992;15: 
+173-84. 
+12. 
+Moser NJ, Phillips BA, Berry DTR, 
+Harbison L. What is hypopnea, anyway? 
+Chest 1994;105:426-8. 
+13. Marcus C, Omlin K, Basinki D, Bailey 
+S, Rachal A, Von Pechmann W, et al. 
+Normal polysomnographic values for 
+children and adolescents. Am Rev 
+Respir Dis 1992;146:1235-9. 
+14. 
+Rosen C, D’Andrea L, Haddad G. 
+Adult criteria for obstructive sleep 
+apnea do not identify children with serious 
+obstruction. Am Rev Respir Dis 
+1992;146:1231-4. 
+15. 
+McNamara F, Issa F, Sullivan C. 
+Arousal pattern following central and 
+obstructive breathing abnormalities in 
+infants and children. J Appl Physiol 
+1996;81:2651-7. 
+
+16. 
+Goh D, Galster P, Marcus C. Sleep architecture 
+and respiratory disturbance 
+in children with obstructive sleep 
+apnea. Am J Respir Crit Care Med 
+2000;162:682-6. 
+17. 
+Hammer LD, Kraemer HC, Wilson 
+DM, Ritter PL, Dombusch SM. 
+Standardized percentile curves of body-
+mass index for children and adolescents. 
+Arch Pediatr Adolesc Med 
+1991;145:259-63. 
+18. Wittig R, Romaker A, Zorick F, Roehrs 
+T, Conway W, Roth T. Night-to-night 
+consistency of apneas during sleep. Am 
+Rev Respir Dis 1984;129:244-6. 
+19. Block A, Wynne J, Boysen P, Lindsey S, 
+Martin C, Cantor B. Menopause, 
+medroxyprogesterone and breathing during 
+sleep. Am J Med 1981;70:506-10. 
+20. Rebuffat E, Groswasser J, Kelmanson I, 
+Sottiaux M, Kahn A. Polygraphic evaluation 
+of night-to-night variability in 
+sleep characteristics and apneas in infants. 
+Sleep 1994;17:329-32. 
+21. 
+Jacob S, Morielli A, Mograss M, 
+Ducharme F, Schloss M, Brouillette R. 
+Home testing for pediatric obstructive 
+sleep apnea syndrome secondary to 
+adenotonsillar hypertrophy. Pediatr 
+Pulmonol 1995;20:241-52. 
+
+22. 
+Chediak A, Acevedo-Crespo J, Seiden D, 
+Kim H, Kiel M. Nightly variability in the 
+indices of sleep-disordered breathing in 
+men being evaluated for impotence with 
+consecutive night polysomnograms. 
+Sleep 1996;19:589-92. 
+23. 
+Mendelson W. Use of the sleep laboratory 
+in suspected sleep apnea syndrome: 
+is one night enough? Cleve Clin 
+J Med 1994;61:299-303. 
+24. Orr W, Stahl M, Duke J, McCaffree M, 
+Toubas P, Mattice C, et al. Effect of 
+sleep state and position on the incidence 
+of obstructive and central apnea in infants. 
+Pediatrics 1985;75:832-5. 
+25. 
+Morielli A, Laden S, Ducharme FM, 
+Brouillette RT. Can sleep and wakefulness 
+be distinguished in children by 
+cardiorespiratory and videotape recordings? 
+Chest 1996;109:680-7. 
+26. Meyer T, Eveloff S, Kline L, Millman R. 
+One negative polysomnogram does not 
+exclude obstructive sleep apnea. Chest 
+1993;103:756-60. 
+

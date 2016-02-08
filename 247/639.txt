@@ -1,0 +1,703 @@
+ARTICLE ARTICLE 
+Effect of Treating Obstructive Sleep Apnea 
+by Tonsillectomy and/or Adenoidectomy 
+on Obesity in Children 
+
+Zafer Soultan, MD; Stephen Wadowski, MD; Madu Rao, MD; Richard E. Kravath, MD 
+
+Background: Obstructive sleep apnea is common in 
+obese children who have enlarged tonsils and adenoids. 
+
+Objective: To determine if treatment of obstructive sleep 
+apnea by tonsillectomy and/or adenoidectomy will result 
+in normalization of an obese child’s weight, as it does 
+in underweight children, and as it does with other signs 
+and symptoms. 
+
+Design: Retrospective cohort study. We recorded weight 
+and height changes after tonsillectomy and/or adenoidectomy 
+and compared changes of the obese and morbidly 
+obese patients with those of the other patients. 
+
+Setting: A tertiary care inner-city hospital. 
+
+Participants: Children (n = 45) who underwent tonsillectomy 
+and/or adenoidectomy for obstructive sleep apnea 
+in 1994-1995; their mean (±SD) age was 4.9 ± 2.4 
+years at operation. 
+
+Results: At the time of surgery, 25 children were of 
+normal weight; 3, underweight; 7, obese; and 10, morbidly 
+obese. Postoperatively, 31 children (69%), including 
+10 of the 17 who were obese or morbidly obese, 
+had substantial weight gain: the z score ± SD for weight 
+of the entire group increased from 1.37 ± 2.49 to 2 ± 
+
+2.27 (P,.001). The mean z score ± SD for height 
+increased from 0.03 ± 1.08 to 0.58 ± 0.94 (P,.001). 
+The body mass index (BMI or Quetelet index): calculated 
+as weight in kilograms divided by the square of 
+the height in meters increased in 28 patients (62%) 
+(P = .004). 
+Conclusion: Treating obstructive sleep apnea by tonsillectomy 
+and/or adenoidectomy is associated with 
+increased gain in height, weight, and body mass index 
+in most children, including the obese and morbidly 
+obese. 
+
+Arch Pediatr Adolesc Med. 1999;153:33-37 
+
+Editor’s Note: Now here’s one to think about. Is it better to have 
+obstructive sleep apnea or morbid obesity? Might initial treatment 
+of the morbid obesity solve both problems? Would that it was 
+this easy. 
+
+Catherine D. DeAngelis, MD 
+
+I
+I
+T HAS been shown that obstructive 
+sleep apnea (OSA) may cause 
+poor growth in children, which 
+can be severe enough to present 
+as failure to thrive. Growth may 
+improve and failure to thrive may resolve 
+following tonsillectomy and/or adenoidectomy.
+1-12 
+Obstructive sleep apnea occurs 
+frequently in obese children who have 
+enlarged tonsils and/or adenoids, 
+
+From the Division of Pediatric 
+
+and complete or partial improvement in 
+
+Pulmonology, Children’s 
+
+OSA following tonsillectomy and/ 
+
+Medical Center, College of 
+
+or adenoidectomy in this group of 
+
+Medicine, the State University 
+of New York, Health Science 
+
+patients has been documented.13-16 Obe-
+
+Center at Brooklyn, sity, which is difficult to treat, contrib-
+
+Brooklyn, NY. utes to this condition. 
+
+Disturbed sleep and sleep deprivation 
+with subsequent daytime hypersomnolence 
+and decreased activities are also 
+known effects of OSA in children.11 We 
+thought that this decreased energy expenditure 
+might cause obesity, and therefore 
+we hypothesized that treatment of OSA by 
+surgery might improve sleep quality, decrease 
+hypersomnolence, increase activity, 
+and lead to weight loss. 
+
+RESULTS 
+Of the 45 patients, 13 (29%) were girls and 
+32 (71%) were boys. Most of the children 
+were African American or of Caribbean descent. 
+Their mean (±SD) age at the time 
+of surgery was 4.9 ± 2.4 years (age range, 
+1.4-10.25 years). The mean (±SD) follow-
+up period after surgery was 15 ± 8.5 
+months (range, 6-36 months). All of the 
+patients were evaluated at the pediatric 
+sleep apnea clinic and had a preoperative 
+clinical diagnosis of OSA, with enlarged 
+
+ARCH PEDIATR ADOLESC MED/ VOL 153, JAN 1999 
+
+33 
+
+Downloaded from www.archpediatrics.com on March 4, 2009 
+
+©1999 American Medical Association. All rights reserved. 
+
+
+The z score for height and weight, which represents 
+
+PATIENTS AND METHODS 
+
+the variance from the population median in units of the 
+population SD of the height or weight at a given age, is obtained 
+by using the following equation: 
+
+We recorded the heights and weights, at the time 
+
+z = (Actual Height or Weight – Median Height 
+
+of operation and postoperatively, of the children 
+
+or Weight for Age)/SD 
+
+who underwent tonsillectomy and/or adenoidectomy 
+for OSA from 1994 to 1995. The study was performed and was used to assess changes in height or weight for age 
+at the Children’s Medical Center of the State University over time.18 We considered postoperative increase or de-
+of New York, Health Science Center at Brooklyn, which crease in the z score of more than 0.2 as a significant change. 
+includes 2 large urban hospitals, the Kings County Body mass indices (BMI or Quetelet index), calculated as 
+Hospital Center and the University Hospital of Brooklyn. weight in kilograms divided by the square of the height in 
+We obtained the information by reviewing the med-meters: weight (kg)/height(m2), were used as an indirect 
+ical records retrospectively and by inviting patients measure of adiposity in these patients preoperatively and 
+to come in for evaluation when the information was postoperatively.19 The percentiles for these indices were obincomplete. 
+tained using the standardized curves for white children and 
+
+Forty-five children who underwent tonsillectomy adolescents.19 To eliminate the effect of the natural inand/
+or adenoidectomy in the study were evaluated post-crease or decrease in BMIs over time, which is known to 
+operatively in our center, either in the sleep apnea clinic occur in children,19 the difference between the patient’s BMIs 
+or in the general pediatric clinic. Follow-up measure-and the population median (BMI score = patient’s BMI - mements 
+were taken 6 to 12 months postoperatively from 32 dian BMI for age) was used to assess changes of BMIs over 
+patients, and 2 to 3 years postoperatively from 13 pa-time. A change in the BMI score of more than 0.2 was artients. 
+We also questioned the parents about apnea, dis-bitrarily considered significant. 
+turbed sleep, and daytime activities of the children from Daytime nap polysomnograpy (PSG) was performed 
+the postoperative perspective. on 20 patients. The children went to sleep spontaneously 
+
+The anthropometric measurements were performed after sleep deprivation the night before the study. The sleep 
+at the Children’s Medical Center with standard medical state was confirmed by the technician who performed the 
+equipment. The percentiles, percents of medians, and z PSG. The nasal/oral airflow, the heart rate, chest and ab-
+scores of the heights and weights for age of all patients were dominal wall movements, and pulse oximetry were re-
+obtained by using the Epi Info program (Version 6.04b, Cen-corded simultaneously. The respiratory disturbance inters 
+for Disease Control and Prevention, Atlanta, Ga). The dex (number of apneas and hypopneas per hour of sleep) 
+program is based on the data obtained from the National was calculated, and a respiratory disturbance index of 5 epi-
+Center for Health Statistics. Patients who weighed more than sodes or more per hour was considered diagnostic of OSA. 
+120% of their ideal body weight were considered obese and Echocardiograms were performed on 23 children. 
+those who weighed more than 150% were considered mor-Microsoft Excel (Version 97, Microsoft Corporation, 
+bidly obese.17 Ideal body weight was defined as the weight Redmond, Wa) was used for statistical analysis. The paired 
+at the 50th percentile for the age at which the child’s height t test was used to compare z scores and BMI scores before 
+is at the 50th percentile.17 Children with weights for age and after surgery. A 1-way analysis of variance was used 
+that fell below the fifth percentile were considered under-to compare the z score changes over time between the difweight. 
+ferent weight groups. 
+
+tonsils and adenoids seen on physical examination or by 
+radiography. 
+
+Nap PSG, which was performed on 20 of 45 children, 
+was diagnostic of OSA; the median (±SD) sleep time 
+was 49 ± 19 minutes (range, 40-104 minutes), the median 
+respiratory disturbance index (±SD) was 13.8 ± 21.4 
+episodes per hour (range, 5-69.5 episodes per hour). Oxygen 
+desaturation was found in 9 patients; the lowest de-
+saturation ranged between 59% and 86%. Echocardiograms 
+revealed signs of pulmonary hypertension in 12 
+of the 23 patients. 
+
+All children underwent tonsillectomy and adenoidectomy 
+except for 2 who only had an adenoidectomy and 
+1 who only had a tonsillectomy, based on assessment of 
+airway compromise by the ears, nose, and throat surgeon. 
+
+The children’s weights at the time of the surgery were 
+distributed into 4 categories (Table1); 17 (38%) were categorized 
+as obese or morbidly obese. Postoperatively, there 
+was an increase in weight percentiles in 31 patients (69%) 
+(Figure 1and Figure 2). The mean (±SD) z score for 
+weight of the whole group increased from 1.37 ± 2.49 to 
+
+2 ± 2.27 (P = .001). No change in the z score for weight was 
+noted in 5 patients (11%), and the z score for weight of 9 
+patients (20%) decreased. A change in z score does not always 
+indicate a change in category; a child’s z score could 
+increase or decrease but remain in the same category. All 
+3 underweight patients gained enough weight to attain normal 
+percentiles. Of the 25 patients of normal weight, 7 became 
+obese and the rest remained normal. Of the 7 obese 
+patients, 3 became morbidly obese and the others remained 
+obese. Of the 10 morbidly obese, 6 actually increased 
+their z scores and became even more obese, 1 remained 
+the same, and 3 decreased their z scores but 
+remained morbidly obese (Table 1). A total of 24 (53%) of 
+the children were obese or morbidly obese on follow-up 
+(vs 38% preoperatively). 
+
+There was no significant difference in preoperative to 
+postoperative z score changes in weight between the obese 
+or morbidly obese patients and the other patients (P = .17). 
+
+The mean (±SD) z score for height of these patients 
+increased from 0.03 ± 1.08 to 0.58 ± 0.94 (P,.001). The 
+percentile changes can be seen in Figure 3 and 
+
+ARCH PEDIATR ADOLESC MED/ VOL 153, JAN 1999 
+
+34 
+
+Downloaded from www.archpediatrics.com on March 4, 2009 
+
+©1999 American Medical Association. All rights reserved. 
+
+
+Table 1. Postoperative Weight z Score Changes 
+
+Postoperative Changes 
+Weight Category at Operation z Score Change* 
+Category No. (%) Increased Decreased No Change Category Change 
+Underweight 3 (6.5) 3 0 0 All 3 attained normal percentiles 
+Normal weight 25 (55.5) 18 4 3 7 Increased enough to become obese 
+Obese 7 (15.5) 4 2 1 3 Became morbidly obese 
+Morbidly obese 10 (22.5) 6 3 1 All stayed morbidly obese 
+Total, No. (%)† 45 (100) 31 (69) 9 (20) 5 (11) NA‡ 
+
+*A z score change of less than 0.2 was arbitrarily considered insignificant. 
+
+†The mean z score of the whole group increased significantly postoperatively ( P,.001). 
+‡NA indicates not applicable. 
+100 
+0 
+10 
+20 
+30 
+40 
+50 
+60 
+70 
+80 
+90 
+Weight, kg 
+1 2 3 4 5 6 7 8 9 10 11 12 
+95th 
+50th 
+5th 
+Age, y 
+Weight, kg 
+
+70 
+60 
+50 
+40 
+30 
+20 
+10 
+0 
+
+95th 
+50th 
+5th 
+1 2 3 4 5 6 7 8 910 
+Age, y 
+
+Figure 1. Weight of each boy at the time of surgery and at the time of Figure 2. Weight of each girl at the time of surgery and at the time of 
+follow-up. (The percentile lines are drawn from published data.20) follow-up. (The percentile lines are drawn from published data.20) 
+
+170 
+60 
+80 
+90 
+100 
+110 
+120 
+130 
+140 
+150 
+160 
+Height, cm 
+1 2 3 4 5 6 7 8 9 10 11 12 
+Age, y 
+70 
+95th 
+50th 
+5th 
+increased from 1.7 ± 2.7 to 2.3 ± 2.5 (P = .002). The mean 
+(±SD) z score for height increased from 0.01 ± 1.15 to 
+
+0.43 ± 0.88 (P = .007), and the mean (±SD) BMI score increased 
+from 4.6 ± 6.8 to 5.4±7(P = .03). The 13 patients 
+who were followed up for a longer period had an 
+increase in the mean (±SD) z score for weight from 
+0.48 ± 1.76 to 1.7 ± 1.6 (P = .001). Their mean (±SD) z 
+score for height increased from 0.09 ± 0.95 to 0.95 ± 1.04 
+(P = .009), and their mean (±SD) BMI score increased from 
+1.8±5to2.9±5.6(P = .02). 
+Following the surgery, 9 of the 10 morbidly obese 
+patients were reevaluated in the apnea clinic. Eight parents 
+reported resolution of the apnea and improvement 
+of the quality of sleep of their children, except for persistent 
+snoring without apnea in 2 patients. One patient’s 
+parent reported persistence of apnea and dis-
+
+Figure 3. Height of each boy at the time of surgery and at the time of 
+
+follow-up. (The percentile lines are drawn from published data.20) 
+
+Figure 4. There was also a significant positive correlation 
+between the changes in z scores of the height and 
+
+turbed sleep. 
+
+COMMENT 
+Our results are similar to previous studies that found that 
+
+the weight (r = 0.45, P,.001). 
+
+Postoperative BMI score changes are given in 
+Table2, and the percentile graphs are shown in Figure 5 
+and Figure 6. The mean (±SD) BMI score increased from 
+
+3.8 ±6.4 to 4.7± 6.7(P = .004). 
+Of the 32 patients who had measurements 6 to 12 
+months after surgery, the mean (±SD) z score for weight 
+
+the treatment of OSA with tonsillectomy and/or adenoidectomy 
+can result in an increase in height and weight percentiles 
+for those with low scores.1-12 We did not confirm 
+our hypothesis that treatment of OSA will reduce 
+obesity in either the obese or the morbidly obese children. 
+To the contrary, we found that the treatment of OSA 
+can make them even more obese, with the BMI increas-
+
+ARCH PEDIATR ADOLESC MED/ VOL 153, JAN 1999 
+
+35 
+
+Downloaded from www.archpediatrics.com on March 4, 2009 
+
+©1999 American Medical Association. All rights reserved. 
+
+
+48 
+
+46 
+
+44 
+42 
+
+40 
+38 
+
+36 
+34 
+
+95th 
+50th 
+5th 
+1 2 3 4 5 6 7 8 910 
+Age, y 
+
+
+95th 
+50th 
+5th 
+1 2 3 4 5 6 7 8 910 11 12 
+
+
+Body Mass Index, kg/m2 
+
+32 
+30 
+
+28 
+26 
+24 
+22 
+
+20 
+18 
+
+Height, cm 
+
+16 
+14 
+12 
+
+10 
+Age, y 
+
+Figure 4. Height of each girl at the time of surgery and at the time of Figure 5. Body mass index of each boy at the time of surgery and at the time 
+follow-up. (The percentile lines are drawn from published data.20) of follow-up. (The percentile lines are drawn from published data.19) 
+
+36
+
+Table 2. Postoperative BMI Score Changes 
+
+34 
+32
+
+Weight No. of Postoperative BMI* Score Changes† 
+
+30
+
+Category Children 
+
+95th 
+50th 
+5th 
+1 2 3 4 5 6 7 8 910 
+
+
+Body Mass Index, kg/m2 
+
+at Operation (%) Increased Decreased No Change 
+
+Underweight 3 (6.7) 1 0 2 
+
+Normal weight 25 (55.6) 16 9 0 
+Obese 7 (15.5) 4 3 0 
+Morbility obese 10 (22.2) 7 3 0 
+Total, No. (%)‡ 45 (100) 28 (62) 15 (33.3) 2 (4.4) 
+
+28 
+
+26 
+
+24 
+
+22 
+
+20 
+
+18 
+16 
+
+*BMI indicates body mass index. 
+
+14 
+
+†Values in parentheses are percentages, rounded to the nearest tenth. 
+12 
+
+‡Postoperatively, the mean BMI score of the whole group increased 
+significantly ( P = .004). 
+ing in 65% of the obese and morbidly obese children. Studies 
+in obese adults with OSA who were treated with 
+chronic nasal continuous airway pressure found that they 
+maintained their weight during treatment.21 
+
+To determine whether the length of time before follow-
+up would have an effect on our results, a separate 
+analysis of the children was done that compared those 
+seen 6 to 12 months after surgery with those seen after 2 
+to 3 years, which still revealed a significant increase in z 
+scores for heights and weights in both groups. 
+
+Several mechanisms have been found to cause 
+poor growth in children with OSA: (1) increased energy 
+expenditure from the increased work of breathing during 
+sleep,1 (2) poor appetite and difficulty swallowing,4 
+
+(3) stress and catabolism,3 and (4) decreased or abnormal 
+growth hormone secretion secondary to disturbed 
+sleep architecture.2,22 Perhaps these or other factors 
+counterbalance the effects of the presumed sedentary 
+lifestyle in obese children with OSA and make them less 
+obese and shorter than they would have been without 
+OSA. As a result, the treatment of OSA allows them to 
+reach their biologically “predestined” height and 
+weight. 
+We reviewed the history of the obese patients to determine 
+if they did not lose weight because they did not 
+respond to surgical therapy and if they continued to have 
+apnea due to the obesity alone and found that this was 
+not the case. Of the 9 morbidly obese patients on whom 
+
+10 
+
+Age, y 
+
+Figure 6. Body mass index of each girl at the time of surgery and at the time 
+of follow-up. (The percentile lines are drawn from published data.19) 
+
+follow-up information could be obtained, 8 reported improvement 
+in the symptoms of OSA. However, it is possible 
+that we might have missed a few patients who still 
+had OSA postoperatively. Suen et al23 found that 1 of 6 
+children whose mothers reported postoperative cure of 
+their children’s symptoms still had apnea when PSG was 
+repeated. 
+
+We found that 17 (38%) of the children in the group 
+with OSA were obese or morbidly obese prior to therapy, 
+which increased to 24 (53%) postoperatively, higher than 
+the 2 of 22 and 5 of 50 reported previously by Brouillette 
+et al10 and Guilleminault et al.11 This is a remarkable 
+finding for a disease known to cause failure to thrive. 
+A high incidence (37%-66%) of OSA in obese children 
+has been reported,13-15 which suggests that OSA may also 
+be an effect of obesity rather than a cause. 
+
+Obesity can cause OSA by narrowing the upper airway, 
+as a result of fat deposition in the pharyngeal wall24-25 
+and external compression from superficially located fat 
+in the subcutaneous area in the neck.26 Additionally, obesity 
+reduces the size of the upper airway indirectly through 
+a reflex mechanism secondary to a decrease in lung volume 
+in obese patients.27 Enlarged tonsils and adenoids 
+further compromise the airway. 
+
+ARCH PEDIATR ADOLESC MED/ VOL 153, JAN 1999 
+
+36 
+
+Downloaded from www.archpediatrics.com on March 4, 2009 
+
+©1999 American Medical Association. All rights reserved. 
+
+
+Various treatments of OSA in obese children have 
+been described. In a group of morbidly obese children 
+with OSA, Kudoh and Sanai16 found that tonsillectomy 
+and/or adenoidectomy and partial weight reduction 
+resolved the OSA even if the patients remained morbidly 
+obese. Willi et al28 found sleep apnea in 5 of 6 
+morbidly obese children, and weight loss led to resolution 
+of the apnea. Harris and Allen29 found that children 
+with Prader-Willi syndrome had OSA. The severity 
+of OSA was related to their weight, and the OSA 
+diminished following weight reduction. In adults, the 
+severity of OSA was also found to be proportionate to 
+a patient’s weight, and weight reduction resolved the 
+OSA.30-32 Treatment with nasal continuous positive airway 
+pressure is another effective method for treating 
+OSA in children.33 
+
+Nap PSG, which was used to diagnose OSA in 20 
+children, might underestimate the severity of OSA in these 
+children. Marcus et al34 found that nap PSG underestimates 
+the severity of OSA in children as compared with 
+overnight PSG. However, OSA detected by nap PSG was 
+always confirmed by overnight PSG, so that this factor 
+does not affect our study. 
+
+Whether the increase in obesity we observed following 
+treatment by tonsillectomy and/or adenoidectomy 
+constitutes a substantial health risk in some cases 
+awaits longer-term follow-up of such patients. Some health 
+risks, such as the development of diabetes, coronary artery 
+disease, and hypertension, are increased because of 
+obesity itself; others, such as hypoventilation, cor pulmonale, 
+heart failure, and death, could develop as a consequence 
+of the recurrence of sleep apnea as a further consequence 
+of the increasing obesity even in the absence 
+of obstructing tonsils and adenoids.35,36 It is important 
+to pursue ways to effectively treat obesity in children and 
+its resultant OSA and thus eliminate this problem. 
+
+In summary, treatment of OSA by tonsillectomy 
+and/or adenoidectomy in obese and morbidly obese children 
+leads to clinical improvement of the OSA, but will 
+not help with weight reduction and might even exacerbate 
+the obesity. When obesity complicates OSA, we think 
+that attention should be paid to reducing weight by such 
+measures as exercise, diet, and behavioral therapy, in addition 
+to treatment of the OSA. 
+
+Accepted July 20, 1998. 
+
+We thank Peter Homel, PhD, from the Scientific Academic 
+Computing Center, State University of New York at 
+Brooklyn, NY, for assistance with the statistical analysis. 
+
+Reprints: Richard E. Kravath, MD, State University of 
+New York, Health Science Center at Brooklyn, 450 Clark-
+son Ave (Box 49), Brooklyn, NY 11203. 
+
+REFERENCES 
+1. Marcus CL, Carroll JL, Koerner CB, Hamer A, Lutz J, Loughlin GM. Determinants 
+of growth in children with the obstructive sleep apnea syndrome. J Pediatr. 
+1994;125:556-562. 
+2. Goldstein SJ, WU RHK, Thorpy MJ, Shprintzen RJ, Marion RE, Saenger P. Reversibility 
+of deficient sleep entrained growth hormone secretion in a boy with 
+achondroplasia and obstructive sleep apnea. Acta Endocrinologica. 1987;116: 
+95-101. 
+3. Rastad-Ahlqvist J, Hultcrantz E, Melander H, Svanholm H. Body growth in relation 
+to tonsillar enlargement and tonsillectomy. Int J Pediatr Otorhinolaryngol. 
+1992;24:55-61. 
+
+4. Evertt AD, Koch WC, Saulsbury FT. Failure to thrive due to obstructive sleep apnea. 
+Clin Pediatr. 1987;26:90-92. 
+5. Stradling JR, Thomas G, Warley RAH, Williams P, Freeland A. Effect of adenotonsillectomy 
+on nocturnal hypoxaemia, sleep disturbance, and symptoms in snoring 
+children. Lancet. 1990;335:249-253. 
+6. Kravath RE, Pollak CP, Borowiecki B. Hypoventilation during sleep in children 
+who have lymphoid airway obstruction treated by nasopharyngeal tube and T 
+and A. Pediatrics. 1976;59:865-871. 
+7. Williams III EF, Woo P, Miller R, Kellman RM. The effects of adenotonsillectomy 
+on growth in young children. Otolaryngol Head Neck Surg. 1991;104:509-516. 
+8. Freezer NJ, Bucens IK, Robertson CF. Obstructive sleep apnoea presenting as 
+failure to thrive in infancy. J Paeditr Child Health. 1995;31:172-175. 
+9. Bate TWP, Price DA, Holme CA, McGucken RB. Short stature caused by obstructive 
+apnoea during sleep. Arch Dis Child. 1984;59:78-80. 
+10. Brouillette RT, Fernbach SK, Hunt CE. Obstructive sleep apnea in infants and children. 
+J Pediatr. 1982;100:31-40. 
+11. Guilleminault C, Korobkin R, Winkle R. A review of 50 children with obstructive 
+sleep apnea syndrome. Lung. 1981;159:275-287. 
+12. 
+Frank Y, Kravath RE, Pollak CP, Weitzman ED. Obstructive sleep apnea and its therapy: 
+clinical and polysomnographic manifestations. Pediatrics. 1983;71:737-742. 
+13. 
+Mallory GB Jr, Fiser DH, Jackson R. Sleep-associated breathing disorders in morbidly 
+obese children and adolescents. J Pediatr. 1989;115:892-897. 
+14. Silvestri JM, Weese-Mayer DE, Bass MT, Kenny AS, Hauptman SA, Pearsall SM. 
+Polysomnography in obese children with a history of sleep-associated breathing 
+disorders. Pediatr Pulmonol. 1993;16:124-129. 
+15. Marcus CL, Curtis S, Koerner CB, Joffe A, Serwint JR, Loughlin GM. Evaluation 
+of pulmonary function and polysomnography in obese children and adolescents. 
+Pediatr Pulmonol. 1996;21:176-183. 
+16. Kudoh F, Sanai A. Effect of tonsillectomy and adenoidectomy on obese children 
+with sleep-associated breathing disorders. Acta Otolaryngol. 1996;suppl 523: 
+216-218. 
+17. Dietz WH. Nutrition and obesity. In: Grand RJ, Sutphen JL, Dietz WH, eds. Pediatric 
+Nutrition: Theory and Practice. Stoneham, Mass: Butterworths; 1987: 
+525-538. 
+18. Krick J. Using the Z score as a descriptor of discrete changes in growth. Nutr 
+Support Serv. 1986;6:14-21. 
+19. Hammer LD, Kraemer HC, Wilson DM, Ritter PL, Dornbusch SM. Standardized 
+percentile curves of body-mass index for children and adolescents. AJDC. 1991; 
+145:259-263. 
+20. Hamill PVV, Drizd TA, Johnson CL, et al. Physical growth: National Center for 
+Health Statistics percentiles. Am J Clin Nutr. 1979;32:607-629. 
+21. Francis Ryan C, Love LL, Buckley PA. Energy expenditure in obstructive sleep 
+apnea. Sleep. 1995;18:180-187. 
+22. Waters KA, Kirjavainen T, Jimenez M, Cowell CT, Sillence DO, Sullivan CE. Overnight 
+growth hormone secretion in achondroplasia: deconvolution analysis, correlation 
+with sleep state, and changes after treatment of obstructive sleep apnea. 
+Pediatr Res. 1996;39:547-553. 
+23. Suen JS, Arnold JE, Brooks LJ. Adenotonsillectomy for treatment of obstructive 
+sleep apnea in children. Arch Otolaryngol Head Neck Surg. 1995;121:525-530. 
+24. Shelton KE, Woodson H, Gay S, Suratt PM. Pharyngeal fat in obstructive sleep 
+apnea. Am Rev Respir Dis. 1993;148:462-466. 
+25. Horner RL, Mohiaddin RH, Lowell DG, et al. Sites and sizes of fat deposits around 
+the pharynx in obese patients with obstructive sleep apnoea and weight matched 
+controls. Eur Respir J. 1989;2:613-622. 
+26. 
+Koeing JE, Thach BT. Effects of mass loading on the upper airway. J Appl Physiol. 
+1988;64:2294-2299. 
+27. 
+Hoffstein V, Zamel N, Phillipson E. Lung volume dependence of pharyngeal cross-
+sectional area in patients with obstructive sleep apnea. Am Rev Respir Dis. 1984; 
+130:175-178. 
+28. Willi SM, Oexmann MJ, Wright NM, Collop NA, Key LL. The effects of a high-
+protein, low-fat, ketogenic diet on adolescents with morbid obesity: body composition, 
+blood chemistries, and sleep abnormalities. Pediatrics. 1998;101:61-67. 
+29. Harris JC, Allen RP. Is excessive daytime sleepiness characteristic of Prader-
+Willi syndrome? Arch Pediatr Adolesc Med. 1996;150:1288-1293. 
+30. Herman EM, Wynne JW, Block AJ. The effect of weight loss on sleep-disordered 
+breathing and oxygen desaturation in morbidly obese men. Chest. 1982;82:291294. 
+31. Suratt PM, McTier RF, Findley LJ, Pohl SL, Wilhoit SC. Changes in breathing and 
+the pharynx after weight loss in obstructive sleep apnea. Chest. 1987;92:631637. 
+32. Smith PL, Gold AR, Meyers DA, Haponick EF, Bleecker ER. Weight loss in mildly 
+to moderately obese patients with obstructive sleep apnea. Ann Intern Med. 1985; 
+103:850-855. 
+33. Marcus CL, Davidson Ward SL, Mallory GB, et al. Use of nasal continuous positive 
+airway pressure as treatment of childhood obstructive sleep apnea. J Pediatr. 
+1995;127:88-94. 
+34. Marcus CL, Keens TG, Ward SL. Comparison of nap and overnight polysomnography 
+in children. Pediatr Pulmonol. 1992;13:16-21. 
+35. Carroll D. A Peculiar type of cardiopulmonary failure associated with obesity. Am 
+J Med. 1956;22:819-824. 
+36. Burwell SC, Robin ED, Whaley RD, Bickelmann AG. Extreme obesity associated 
+with alveolar hypoventilation: a pickwickian syndrome. Am J Med. 1956;21:811818. 
+ARCH PEDIATR ADOLESC MED/ VOL 153, JAN 1999 
+
+37 
+
+Downloaded from www.archpediatrics.com on March 4, 2009 
+
+©1999 American Medical Association. All rights reserved. 
+
+

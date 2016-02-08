@@ -1,0 +1,1188 @@
+PEDIATRICS 
+Pediatric Sleep Disorders: Exploratory Modulation of Their Relationships 
+
+Karen Spruyt, MS; Raymond Cluydts, PhD; Gino Benjamin Verleye, PhD 
+
+Department of Psychology, Vrije Universiteit Brussel (Free University of Brussels, Belgium) 
+
+Study Objectives: This study explores relationships between clinically subscales to their categorization: dyssomnia and parasomnia, without and 
+encountered sleep problems in children. with the indexes. 
+Design: The Sleep Disturbance Scale for Children (SDSC) (Bruni et al Conclusions: The final model had a satisfying fit and approximates the 
+1996), which screens 26 sleep problems and results in 6 sleep disorder-Association of Sleep Disorders Centers’ classification. Each disorder-subsubscales, 
+was used as core in a larger health-behavior questionnaire scale can be applied individually. However, some items are statistically of 
+(HBQ). low value. For that reason, the use as the inference of relations between 
+Participants: Caregivers of 3045 6- to 12-year-olds filled out the HBQ. such items should be cautious. Adding the 3 indexes improved the fit of 
+Interventions: N/A the model. The complexity of ‘sleep enuresis’ was especially revealed. For 
+Measurements and Results: 21 SDSC-items plus 15 new sleep items the practicing care provider, as for researchers, the statistical model pro-
+were selected. Via structural equation modelling we explored (1) relations posed could be a valuable directive in the diagnostic classification process 
+within and between disorder-subscales, (2) relations between the disor-of pediatric sleep problems. 
+der-subscales with 3 indexes added (i.e., sleep efficiency index, sleep Citation: Spruyt K; Cluydts R; Verleye GB. Pediatric sleep disorders: 
+environment index, and sleep enuresis) and (3) relations of the disorder-exploratory modulation of their relationships. SLEEP 2004;27(3):495-501. 
+
+INTRODUCTION 
+tem. More specifically, since our study involved a compilation of health-
+behavior questions (HBQ) that incorporated sleep items besides the
+
+THE LACK OF AN INTERNATIONALLY ACCEPTED CLASSIFI
+
+
+SDSC-items, which questioned other sleep behaviors or questioned
+
+CATION SYSTEM FOR SLEEP DISORDERS DURING CHILD-
+
+them differently, we wish to model their relationships. Nevertheless, 
+
+HOOD MIGHT BE INTERPRETED AS A SIGN OF INSUFFICIENT 
+
+when combining all sleep items in our compilation, we tried to remain
+
+INFORMATION ON THIS IMPORTANT CLINICAL FIELD. For this 
+
+as loyal as possible to the aims for the development of the SDSC in our
+
+reason, clinicians rely on classification systems such as the Diagnostic 
+
+analyses ie, the categorization of sleep disturbances and formulation of
+
+and Statistical Manual of Mental Disorders (DSM IV)1 or the 
+
+an index of sleep disorders based on sleep behaviors.16 Thus, our goal
+
+International Classification of Sleep Disorders (ICSD)2 or other sys
+
+
+was to explore quantitatively the relationships between sleep disorders,
+
+tems3-5 primarily designed for the adult population.6 Even a simple 
+
+based on selected items screening the quantity and quality of sleep in a
+
+search throughout the relevant literature is able to disclose the diversity 
+
+pediatric population.
+
+in definitions of the pediatric sleep disorders and, consequently, of surveys 
+based on them. The knowledge derived from these subjective meth-
+
+METHODS 
+
+ods is bound to be affected by errors like question wording or response 
+scale or as a result of the respondent perspective.7-9 Polysomnography Participants 
+and actigraphy are other ways for assessing sleep disorders, which are 
+
+The HBQ was distributed to parents via 31 schools in Flanders[1] that
+
+sometimes favored because of their somewhat objective features.10,11 
+
+agreed to participate. It was a nonstratified selection of schools, but
+
+Even if in combination with a questionnaire, both types of investigation 
+
+questionnaires were sent out to urban (12 with a total of 2444 pupils) as
+
+are likely to be susceptible to errors such as “first-night effects” and 
+
+well as rural (19 with a total of 2512 pupils) schools. During the process
+
+“laboratory effect.”10-12 
+
+of data collection, 4 schools withdrew, which resulted in 10 urban (2137 
+
+Moreover, information about relationships between pediatric sleep 
+
+pupils) and 17 rural (2260 pupils) schools. Hence, information was gath
+
+
+disorders is primarily at the level of clinical experience but rarely statis
+
+
+ered from 3045 of the 4397 school-aged children (ie, response rate of
+
+tically expressed.4,13-16 
+
+69.25%). The age range of the children varied from 6 year 4 months to 
+
+Bruni et al16 underlined this need and therefore developed the Sleep 
+
+13 year 1 month, and an almost equal number of boys and girls were
+
+Disturbance Scale for Children (SDSC). These authors stated that the 
+
+studied (respectively, 51.23% and 48.77%). 
+
+SDSC is congruent to the categories of the Association of Sleep 
+Disorders Centers,17 which proposed a classification system that is more 
+
+Development of the Questionnaire
+
+child friendly than the current ICSD.2 
+Our purpose was not to make a new sleep-wake questionnaire, but we 
+
+The following steps were undertakenaimed to model sleep items commonly used in sleep studies of 6- to 12
+
+
+A) Rewording items where indicated, preserving the proposed sleep 
+year-old children, with the SDSC as core questionnaire, since it was 
+
+disorders of the SDSC 
+proven to have good psychometric validity16 and fits a classification sys-
+
+B) Adding indexes (ie, sleep efficiency, sleep environment, and sleep 
+enuresis) 
+C) Modeling several relationships 
+
+Disclosure Statement 
+
+No significant financial interest/other relationship to disclose. 
+
+Selecting Items (Step A) 
+
+Submitted for publication September 2003 The SDSC contains 26 items and reveals 6 sleep subscales or disor-
+Accepted for publication December 2003 ders: disorders in initiating and maintaining sleep (DIMS), sleep breath-
+Address correspondence to: Karen Spruyt, Free University of Brussels, Faculty ing disorders (SBD), disorders of arousal (DA), sleep-wake transition 
+of Psychology and Educational Sciences, Department of Cognitive and disorders (SWTD), disorders of excessive somnolence (DES) and sleep 
+Physiological Psychology, Pleinlaan 2, 1050 Brussels, Belgium; Tel: 32 476 327 
+
+325; Fax: 32 2 629 24 89; E-mail: karen.spruyt@vub.ac.be 
+[1] Dutch-speaking part of Belgium; schools of all 5 provinces were contacted. 
+
+SLEEP, Vol. 27, No. 3, 2004 
+495 Pediatric Sleep Disorders—Spruyt et al 
+
+
+hyperhydrosis (SHY).16 This instrument was translated for the Flemish 
+population and showed a good validity.18 
+
+As stated, besides these items, several other questions pertaining to 
+sleep behaviors of school-aged children were in the HBQ. From a total 
+of 49 sleep items used throughout the HBQ, ie the 26 SDSC items 
+included, 36 were selected. That is, 21 of the SDSC and 15 other items 
+used in the HBQ. Via item analysis, the overlapping sleep items, ie, 
+semantically similar items (eg, “the child sleep walks” versus “you saw 
+the child sleepwalking”), and the items that are an assemblage of distinct 
+sleep characteristics, with consequently lower predictive value, were 
+excluded. 
+
+As a result, congruent to the SDSC subscales, the following changes 
+were made (each item is printed within the disorders subscales paragraphs 
+of the result section; Table 1-6). DIMS: We excluded 2 items 
+referring to total sleep time and sleep-onset latency because they are part 
+of the sleep-wake pattern, which will be dealt with in our separate index 
+(see below). The other 5 SDSC items in this factor remained; additionally, 
+we added an item referring to wake-up time that is too early or 
+“terminal insomnia” (item 6). SBD: The SDSC has 3 items questioning 
+breathing during sleep. We replaced the item “snoring” with “snoring 
+loudly” (item 9) and added 2 more items describing disturbed breathing 
+(ie, snorting or gasping [item 10] and a whistling or wheezing sound of 
+the chest [item 11]. DA: Differentiating between sleep terror (pavor nocturnes) 
+and nightmare (dream anxiety attack or rapid eye movement 
+nightmare) is difficult for laypersons. In our HBQ, we rephrased the 
+questions based on a simple description of their apparent polysomnographic 
+features (see Table 3). Cross-tabulation of these 4 items indicated 
+some diversity in perception, but the inclusion of all of them was statistically 
+advantageous. SWTD: The item “nocturnal hyperkinesias” in 
+the SDSC[2] was disentangled into 2 items: “hyperkinesias” (item 22) 
+and “periodic leg movements” (item 23). Consequently, a subscale of 7 
+items was formed. DES: We added 6 extra items referring to specific situations 
+where the child might fall asleep. These items were selected 
+because of their clinical relevance in the pediatric population. SHY: The 
+2 items from the SDSC remained. 
+
+Adding indexes (Step B) 
+
+In a previous study,19 we encountered the flexibility of questioning the 
+sleep-wake pattern via open questions. Additionally, the distinction in 
+sleep hygiene for weekend and weekdays could be made, which is on its 
+own very informative. Also a sleep efficiency index for these weeklong 
+periods can be calculated. The weekend and weeklong sleep efficiency 
+index was averaged and recoded into 5 categories, a categorization based 
+on clinical findings and literature.11,20 
+
+Other sleep items in the HBQ were co-sleeping (same room or same 
+bed) and the presence of noise, light, or noise and light. These 4 conditions 
+were rated independently by 5 sleep researchers from different 
+countries, and, based on the concordance between their ratings (Kendall 
+concordance of 0.89), a sleep environment index was formed. 
+
+The item “sleep enuresis” was not in the SDSC. Because of the age 
+range of our population, the relation of “sleep enuresis” was of special 
+interest. It was also scored on a 5-point scale, and its relation to other 
+disorders was modeled. 
+
+Modeling the relationships (Step C) 
+
+After the exclusion of aberrant sleep items and the addition of new 
+items (eg “terminal insomnia”), based on item analysis and clinical intuition, 
+their relationships were modeled. That is, modulation of 
+
+1. 
+The relationships within each subscale, in addition to the item 
+analysis 
+2. 
+a) The relationships between the subscales (or first order model) 
+[2] From Bruni et al (1996); the child has frequent twitching or jerking of legs while asleep 
+or often changes position during the night or kicks the covers off the bed. 
+[3] 
+GFI = Goodness of Fit Index; AGFI = Adjusted Goodness of Fit Index and RMR = 
+Root Mean Square Residual. 
+2. 
+b) The relationships between the subscales and their respective 
+classification category, ie, dyssomnias and parasomnias (or second 
+order model) 
+3. 
+a) The relationships between the indexes and the first order model 
+3. 
+b) The relationships between the indexes and the second order 
+model (or final model) 
+Data Analysis 
+
+To find a “final model” with adequate internal consistency and validity, 
+the following analyses have been carried out. For Modulation 1 and 
+2, each of the following statistical analyses was performed until an 
+acceptable model was found. 
+
+The heterogeneity of the model was analyzed via factor analysis using 
+the principal component extraction method and the varimax rotation 
+method. To select the number of components to be extracted, we applied 
+the Kaiser criterion. An item-reliability analysis was performed to investigate 
+the internal consistency; as such, the standardized Cronbach a 
+and 
+item-total correlation were calculated. These analyses were performed 
+by means of the Statistica version 6 (Statsoft Inc., Tulsa, OK). 
+
+Item response theory analysis allowed ordering of person and item on 
+the latent trait, provided that the necessary conditions, single and double 
+monotonicity, were fulfilled. The Mokken Scale analysis for Polytomous 
+Items (MSPwin version 5, iec ProGAMMA, Groningen; 21) was used. 
+Coefficients (of Loevinger) of 0.30 or higher indicate an acceptable to 
+very good scalability power. For the structural equation modeling (maximum 
+likelihood estimates), ie, the modulation of relationships between 
+observed and latent variables, and between latent variables themselves, 
+the statistical program AMOS (version 4, SmallWaters Corporation, 
+Chicago, IL; 22) was used. Since large sample sizes are known to influence 
+the results of the .2 test, we focused on the goodness of fit 
+indices.[3] Besides these, the standardized regression weights (ß) as correlations 
+will also be reported. 
+
+For Modulation 3, only structural equation modeling was calculated. 
+Analyses were performed on a random selection of subjects (n = 1520) 
+and then evaluated in the total sample. 
+
+RESULTS 
+
+The Subscales 
+
+Modulation of the Relationships Within each Subscale 
+
+Because of the changes made on item level, we first analyzed the heterogeneity 
+of the “selected sleep-wake questionnaire” items. From the 
+total of 36 items, 9 principal components were extracted, which 
+explained 58.33% of the variance. That is, the 6 components of the 
+SDSC were reproduced with the exception of the subscale DES that 
+
+Table 1—Subscale DIMS: Disorders of Initiating and Maintaining 
+Sleep 
+
+Item FA loading IR, item MSP, AMOS, ß 
+total item H 
+correlation 
+
+1. 
+Going to bed reluctantly* 0.45 0.27 0.27 0.31† 
+2. 
+Difficulty falling asleep* 0.73 0.46 0.36 0.64† 
+3. 
+Falling asleep anxiety* 0.63 0.39 0.32 0.50† 
+4. 
+Night wakening* 0.70 0.42 0.33 0.60† 
+5. 
+Difficulty in falling 
+asleep after wakening* 0.70 0.41 0.34 0.61† 
+6. 
+Terminal insomnia 0.31 0.17 (0.13) 0.22† 
+0.37‡ 0.64§ 0.32¶ 
+FA refers to factor analysis; IR, item-reliability analysis; MSP, Mokken Scale analysis for 
+Polytomous Items; AMOS, structural equation modeling using AMOS statistical program. 
+*Item from Sleep Disturbance Scale for Children 
+
+†Significant at P < .001 
+‡% Explained variance 
+§Standardized Cronbach a 
+¶Scalability coefficient of Loevinger 
+SLEEP, Vol. 27, No. 3, 2004 
+496 Pediatric Sleep Disorders—Spruyt et al 
+
+
+appeared to be heterogeneous. This resemblance in factor structure 
+allows us to report the SDSC-like subscales separately. 
+
+As shown in Table 1, these 6 items form 1 principal component, which 
+explained by itself 36.90% of the variance. The lowest item-total correlations 
+found were for the items “terminal insomnia” (item 6) and “going 
+to bed reluctantly” (item 1). But deleting any of the items could not ameliorate 
+the standardized Cronbach a, ie, 0.64. The scale coefficient H of 
+these items was 0.32, minus item 6, of which item H was too low to be 
+included. Due to the double monotonicity of this subscale, an ordering 
+of the 5 items was attained, ie, 1, 2, 3, 4, and 5. This means that when a 
+child has a (high) positive score on item 5, he or she will also have (high) 
+positive scores on the former items. 
+
+The goodness of fit index of the newly formed DIMS subscale indicated 
+a very good fit, ie, GFI = 0.990, AGFI = 0.978 with RMR = 0.019 
+(.2 of 84.719 with 9 df). No error covariances were needed. The standardized 
+regression weights of the items 1 and 6 were at the lower bound 
+(see Table 1). 
+
+In correspondence with the Kaiser criterion, 2 factors were extracted 
+explaining 65.40% of the variance (Table 2). Forcing them to load on 1 
+factor brought the explained variance to 44.82%, with the lowest factor 
+loading of 0.42 for item 9. The standardized Cronbach a 
+for these 5 
+items was 0.67, with the previous item having the lowest item-total correlation 
+(Table 2). The ordering of the items was 9, 10, 7, 11, and 8, 
+which is in increasing grade of “severity” of breathing disorders. The 
+scalability coefficient of Loevinger was 0.31. 
+
+For the SBD-subscale, the goodness of fit indices indicated a very 
+good fit: GFI = 0.997, AGFI = 0.985 with RMR = 0.006 (.2 of 22.131 
+with 3 df). Small error covariances between items 10 and 11 (r = 0.237, 
+P< .0001) but also between 9 and 10 (r = 0.176, P< .0001) were 
+allowed. 
+
+When extracting only 1 component, the explained variance dropped to 
+52.26% (2 components explained 74.01%); nevertheless, the loadings 
+remained high (Table 3). The Cronbach a 
+of 0.77 was indicative of relations 
+between the items. Item 12 had the weakest contribution to this 
+subscale. The severity of the items or the likelihood to exhibit sleep 
+problems such as 15 or 12 was lower than 16, 13, and 14. This subscale 
+had a scalability coefficient of 0.46. 
+
+Several combinations of these 5 items were explored, yet the best fit 
+was found for inclusion of all items and allowing the errors of item 12 
+and 13 (r = 0.253, P< .0001), and also 13 and 14 (r = 0.439, P< .0001) 
+to covariate. The goodness of fit achieved for this subscale was GFI = 
+0.962, AGFI = 0.810 with RMR = 0.022, indicating some discrepancy 
+between the specified and saturated model but still acceptable (Table 3). 
+
+All items loaded on 1 component explaining 35.78% of the variance 
+(Table 4). Item 21 had the lowest loading. It also had the lowest item-
+total correlation but the standard Cronbach a 
+of 0.69 could not be 
+increased via deletion of any of the items. Due to a too-low item-H coefficient, 
+item 21 was excluded from the Mokken scale analysis. With a 
+scalability coefficient of 0.34, the remaining items could be ordered 22, 
+20, 19, 17, 23, and 18. The child receiving a (high) positive score on item 
+18 also has (high) positive scores on the previous items. 
+
+The specified SWTD subscale had a very good fit; GFI = 0.961, AGFI 
+= 0.922 with RMR = 0.028 (.2 of 438.579 with 14 df). No error covariances 
+were needed. 
+
+Heterogeneity of this subscale was revealed via factor analysis (Table 
+5). Extraction via the Kaiser criterion resulted in 3 components that 
+explained 65.03% of the variance. Extracting just 1 component caused a 
+substantive drop in the amount of explained variance, ie, 33.03%; nevertheless 
+the loadings on this single component remained above .30, 
+which was still acceptable. The standardized Cronbach a 
+was 0.78, and 
+the item-total correlations were tolerable, with the exception of item 29. 
+Deleting this item had no beneficial influence on the Cronbach a. The 
+results from the Mokken scale analysis indicated that the specified DES 
+subscale was unidimensional and had a scalability coefficient of 0.38. 
+Item ordering was not possible when item 29 was still included. After 
+deletion of this item, the scalability coefficient increased until 0.46, and 
+the double monotonicity assumption was accepted. The item ordering is 
+25, 24, 26, 27, 28, 30, 32, 31, 34, and 33. The latter 5 items have an equal 
+“impact” or have an equal likelihood to be scored positive when previous 
+items received a (high) positive score. As shown in Table 5, 3 items 
+had a very low standardized regression weight, whereas 4 other items 
+had a very high standardized regression weight. Analyses have been performed 
+on the SDCS items and the newly added items separately, which 
+revealed better standardized regression coefficients, but since the other 
+analyses on this subscale indicated unidimensionality and a good internal 
+consistency, we kept them in 1 subscale. Moreover the fit of this sub-
+scale is very good: GFI = 0.951, AGFI = 0.913 and RMR = 0.046. 
+
+Table 4—Subscale SWTD: Sleep-Wake Transition Disorders 
+
+Item FA loading IR, item MSP, AMOS, ß 
+total item H 
+correlation 
+
+17. Hypnic jerks* 
+-0.73 0.50 0.39 0.68† 
+18. Rhythmic movement disorders* 
+-0.47 0.30 0.28 0.36† 
+19. Hypnagogic hallucinations* 
+-0.63 0.43 0.33 0.51† 
+20. Sleep talking* 
+-0.61 0.43 0.34 0.49† 
+21. Bruxism* 
+-0.40 0.25 (0.18) 0.29† 
+22. Hyperkinesias 
+-0.63 0.43 0.35 0.53† 
+23. 
+Periodic limb movements -0.65 0.45 0.36 0.59† 
+0.36‡ 0.69§ 0.34¶ 
+FA refers to factor analysis; IR, item-reliability analysis; MSP, Mokken Scale analysis for 
+Polytomous Items; AMOS, structural equation modeling using AMOS statistical program. 
+*Item from Sleep Disturbance Scale for Children 
+
+†Significant at P < .001 
+‡% Explained variance 
+§Standardized Cronbach a 
+¶Scalability coefficient of Loevinger 
+Table 2—Subscale SBD: Sleep Breathing Disorders 
+
+Item FA loading IR, item MSP, AMOS, ß 
+total item H 
+correlation 
+
+7. Breathing problems* 
+-0.84 0.53 0.39 0.90† 
+8. Sleep apnea* 
+-0.82 0.53 0.41 0.84† 
+9. Snores loudly 
+-0.42 0.26 0.22 0.21† 
+10. Snorting or gasping 
+-0.55 0.36 0.29 0.27† 
+11. 
+Wheezing or whistling 
+of the chest 
+-0.62 0.38 0.29 0.37† 
+0.45‡ 0.67§ 0.31¶ 
+
+FA refers to factor analysis; IR, item-reliability analysis; MSP, Mokken Scale analysis for 
+Polytomous Items; AMOS, structural equation modeling using AMOS statistical program. 
+*Item from Sleep Disturbance Scale for Children 
+
+†Significant at P < .001 
+‡% Explained variance 
+§Standardized Cronbach a 
+¶Scalability coefficient of Loevinger 
+Table 3—Subscale DA: Disorder of Arousal 
+
+Item FA loading IR, item MSP, AMOS, ß 
+total item H 
+correlation 
+
+12. Sleepwalking* 
+-0.55 0.40 0.36 0.24† 
+13. Sleep terrors* 
+-0.81 0.67 0.54 0.52† 
+14. Nightmares* 
+-0.73 0.57 0.49 0.40† 
+15. 
+Awakes before midnight, 
+anxious and crying -0.76 0.54 0.46 0.88† 
+16. 
+Awakes after midnight, 
+anxious and crying 
+-0.74 0.50 0.42 0.81† 
+0.52‡ 0.77§ 0.46¶ 
+
+FA refers to factor analysis; IR, item-reliability analysis; MSP, Mokken Scale analysis for 
+Polytomous Items; AMOS, structural equation modeling using AMOS statistical program. 
+*Item from Sleep Disturbance Scale for Children 
+
+†Significant at P < .001 
+‡% Explained variance 
+§Standardized Cronbach a 
+¶Scalability coefficient of Loevinger 
+SLEEP, Vol. 27, No. 3, 2004 
+497 Pediatric Sleep Disorders—Spruyt et al 
+
+
+The 2 items explain 85.53% of the variance and have a high internal 
+consistency, ie, 0.82. An ordering of the items is not at hand because of 
+the limited number of items within this subscale. And also therefore, the 
+global fit could not be estimated (Table 6). 
+
+Modulation of the Relationships Between the Subscales or the First Order 
+Model 
+
+Based on the aforementioned results, we modeled the first order relationships 
+between these 6 subscales. As stated, the factor analysis of all 
+36 items reveals SDSC-like subscales. The Cronbach a 
+of all 36 items is 
+
+0.88. 
+Since the double monotonicity assumption can be accepted, the sub-
+scale scores can be ordered, ie, DIMS, SWTD, DES, SHY, SBD, and 
+DA, with a scalability coefficient of 0.39. 
+
+With fit indices of GFI = 0.897, AGFI = 0.879, and RMR = 0.055, this 
+first order model had an acceptable fit. The error covariances drawn for 
+each subscale are still valid. Extra error covariances were drawn 
+between items 22 and 23 (r = 0.25, P< .001) and items 23 and 17 (r = 
+0.34, p< 0.001). The relationships between the subscales can be found in 
+Table 7. 
+
+Modulation of the Relationships Between the Subscales and Their 
+Respective Classification Category or the Second Order Model 
+
+In the next modulation, we wanted to implement the ICSD dyssomnia-
+parasomnia categories on these subscales or form a second order 
+model. Dyssomnias comprised the subscales DIMS, SBD, and DES, 
+whereas parasomnias included the subscales DA and SWTD. The sub-
+scale SHY was allowed to correlate with both categories. This division 
+
+Table 5—Subscale DES: Disorders of Excessive Somnolence 
+Item FA loading IR, item MSP, AMOS, ß 
+total item H 
+correlation 
+24. Difficulty waking up* -0.32 0.55 0.42 0.06‡ 
+25. Tired when waking up* -0.36 0.64 0.48 0.07† 
+26. Sleep paralysis* -0.32 0.57 0.43 0.05‡ 
+27. Daytime somnolence* -0.43 0.50 0.38 0.14‡ 
+28. Sleep attacks* -0.37 0.33 0.33 0.16‡ 
+29. Falling asleep watching TV -0.32 0.18 0.15 0.20‡ 
+30. Falling asleep studying/reading -0.61 0.28 0.28 0.50‡ 
+31. Falling asleep eating -0.83 0.24 0.37 0.94‡ 
+32. Falling asleep talking -0.80 0.27 0.38 0.82‡ 
+33. Falling asleep at school -0.71 0.22 0.31 0.64‡ 
+34. Falling asleep playing -0.82 0.24 0.38 0.87‡ 
+0.33§ 0.78¥ 0.38¶ 
+FA refers to factor analysis; IR, item-reliability analysis; MSP, Mokken Scale analysis for 
+Polytomous Items; AMOS, structural equation modeling using AMOS statistical program. 
+*Item from Sleep Disturbance Scale for Children 
+†Significant at P < .001 
+‡Significant at P < .01 
+§% Explained variance 
+¥Standardized Cronbach a 
+¶Scalability coefficient of Loevinger 
+Table 6—Subscale SHY: Sleep Hyperhydrosis 
+Item FA loading IR, item MSP, AMOS, ß 
+total item H 
+correlation 
+35. Falling asleep sweating* 0.92 0.71 0.74 -
+36. Night sweating* 0.92 0.71 0.74 -
+0.86† 0.82‡ 0.74§ 
+FA refers to factor analysis; IR, item-reliability analysis; MSP, Mokken Scale analysis for 
+Polytomous Items; AMOS, structural equation modeling using AMOS statistical program. 
+*Item from Sleep Disturbance Scale for Children 
+†% Explained variance 
+‡Standardized Cronbach a 
+§Scalability coefficient of Loevinger 
+
+did not influence significantly the overall fit, ie, GFI = 0.896, AGFI = 
+0.880, and RMR = 0.055. However, it revealed highly significant relationships 
+(P< .001): a 0.93 correlation between the specified dyssomnias 
+and parasomnias and an equally average correlation between the 
+subscale SHY and the 2 categories (respectively, r = 0.58 and r = 0.55). 
+The changes in standardized regression weights of the items between the 
+first and second order model were minor and thus not printed. Table 8 
+shows the standardized regression weights between the first and second 
+order variables. 
+
+The Indexes 
+
+The relationships of sleep efficiency, sleep environment, and “sleep 
+enuresis” to the first and second order models were also modeled. 
+
+Modulation of the Relationships between the Indexes and the First Order 
+Model 
+
+The sleep efficiency index was modeled in the first order model. In 
+comparison to the first order model, adding this index did not improve 
+the global fit substantially (GFI = 0.898, AGFI = 0.880, and RMR = 
+0.054), but significant standardized regression weights were found for 
+the subscales DIMS (ß 
+= 0.35, P < .001) and DES (ß 
+= 0.07, P< .05). 
+The subscales SHY, DA, and SBD were marginally significant. 
+
+The global fit of the first order model with inclusion of the sleep environment 
+index remained similar (GFI = 0.898, AGFI = 0.881, and RMR 
+= 0.054). Very low but significant standardized regression weights were 
+found for the subscales DIMS (ß 
+= 0.10, P< .05) and DES (ß 
+= 0.06, P 
+< .05). 
+
+Adding the item “sleep enuresis” in the first order model did not 
+improve the overall fit (GFI = 0.897, AGFI = 0.879, and RMR = 0.054) 
+but revealed significant standardized regression weights with the sub-
+scales DIMS, DES, and SWTD; ie, ß 
+= 0.12 (P < .05), ß 
+= 0.06 (P < .05) 
+and ß 
+= -0.15 (P < .05), respectively. 
+
+Table 7—First Order Model: Correlations Between the Subscales 
+
+Disorders* 
+DIMS SBD DA SWTD DES SHY 
+DIMS 1 0.47 0.68 0.77 0.11 0.47 
+SBD 0.47 1 0.39 0.48 0.10 0.37 
+DA 0.68 0.39 1 0.79 0.11 0.43 
+SWTD 0.77 0.48 0.79 1 0.12 0.53 
+DES 0.11 0.10 0.11 0.12 1 0.11 
+SHY 0.47 0.37 0.43 0.53 0.11 1 
+
+DIMS refers to disorders of initiating and maintaining sleep; SBD, sleep breathing disorders; 
+DA, disorders of arousal; SWTD, sleep-wake transition disorders; DES, disorders of 
+excessive somnolence; SHY, sleep hyperhydrosis. 
+*All are significant at P < .001. 
+.2 = 5847.577, 568 df (P< .0001) 
+GFI = 0.897, AGFI = 0.879, RMR = 0.055 
+
+
+Table 8—Second Order Model: Standardized Regression Weights of 
+the Subscales Disorders 
+
+ß 
+* 
+
+DIMS . 
+dyssomnias 0.86 
+SBD . 
+dyssomnias 0.55 
+DES . 
+dyssomnias 0.14 
+DA . 
+parasomnias 0.82 
+SWTD . 
+parasomnias 0.96 
+
+
+DIMS refers to disorders of initiating and maintaining sleep; SBD, sleep breathing disorders; 
+DES, disorders of excessive somnolence; DA, disorders of arousal; SWTD, sleep-
+wake transition disorders. 
+*All are significant at P < .001. 
+.2= 5878.289, 575 df (P< .0001) 
+GFI = 0.896, AGFI = 0.880, RMR = 0.055 
+
+
+SLEEP, Vol. 27, No. 3, 2004 498 Pediatric Sleep Disorders—Spruyt et al 
+
+
+Modulation of the Relationships Between the Indexes and the Second 
+Order Model (or Final Model) 
+
+Lastly, we modeled the relationship of these 3 indexes in the second 
+order model. The associations between the latent variables, as well as the 
+correlations between the categories (ie, dyssomnias and parasomnias), 
+remained the same, as did the correlations between a category and the 
+
+Table 9—The Final Model: Second Order Model with the 3 Indexes 
+
+Standardized regression weights 
+ß 
+Item Subscale 
+
+0.06 Sleep paralysis DES 
+0.07 Difficulty waking up DES 
+0.08 Tired when waking up DES 
+0.15 Daytime somnolence DES 
+0.16 Sleep attacks DES 
+0.20 Falling asleep watching TV DES 
+0.21 Terminal insomnia DIMS 
+0.23 Snores loudly SBD 
+0.28 Snorting or gasping SBD 
+0.31 Going to bed reluctantly DIMS 
+0.32 Bruxism SWTD 
+0.35 Periodic limb movements SWTD 
+0.37 Wheezing or whistling of the chest SBD 
+0.41 Rhythmic movement disorders SWTD 
+0.44 Hyperkinesias SWTD 
+0.45 Awakes before midnight, anxious and crying DA 
+0.49 Awakes after midnight, anxious and crying DA 
+0.50 Falling asleep studying/reading DES 
+0.52 Falling asleep anxiety DIMS 
+0.53 Sleepwalking DA 
+0.53 Hypnic jerks SWTD 
+0.56 Sleep talking SWTD 
+0.57 Difficulty falling asleep DIMS 
+0.61 Difficulty in falling asleep after wakenings DIMS 
+0.64 Falling asleep at school DES 
+0.65 Hypnagogic hallucinations SWTD 
+0.66 Night wakenings DIMS 
+0.74 Nightmares DA 
+0.80 Night sweating SHY 
+0.81 Sleep terrors DA 
+0.82 Falling asleep talking DES 
+0.87 Sleep apnea SBD 
+0.87 Breathing problems SBD 
+0.87 Falling asleep playing DES 
+0.89 Falling asleep sweating SHY 
+0.93 Falling asleep eating DES 
+Standardized regression weights ß 
+
+
+DIMS . 
+dyssomnias 0.87‡ 
+SBD . 
+dyssomnias 0.54‡ 
+DES . 
+dyssomnias 0.15* 
+DA . 
+parasomnias 0.82‡ 
+SWTD . 
+parasomnias 0.96‡ 
+
+Correlations between Dyssomnia r 
+and Parasomnia, and with SHY 
+
+parasomnias . 
+dyssomnias 0.93‡ 
+SHY . 
+dyssomnias 0.58‡ 
+SHY . 
+parasomnias 0.55‡ 
+
+Standardized regression ß 
+weights of the indexes 
+
+Sleep efficiency . 
+dyssomnias 0.86‡ 
+Sleep efficiency . 
+parasomnias -0.64‡ 
+Sleep efficiency . 
+SHY -0.12‡ 
+Sleep enuresis . 
+dyssomnias 0.35‡ 
+Sleep enuresis . 
+parasomnias -0.28† 
+Sleep enuresis . 
+SHY 0.00 
+Sleep environment . 
+dyssomnias 0.53‡ 
+Sleep environment . 
+parasomnias -0.40‡ 
+Sleep environment . 
+SHY -0.07† 
+
+*Significant at P< .01 
+
+†Significant at P< .05 
+‡Significant at P< .001 
+.2 = 6301.223, 677 df (P< .0001) 
+GFI = 0.898, AGFI = 0.882, RMR = 0.051 
+subscale SHY (Table 9). The RMR indicated a slightly better fit (GFI = 
+0.898, AGFI = 0.882, and RMR = 0.051) when adding the indexes. 
+
+Of interest was the relation of the 3 indexes with the categories dyssomnias 
+and parasomnias. 
+
+The standardized regression weights of the sleep efficiency and the 
+sleep environment indexes were highly significant (see Table 9) with 
+both categories. A significant negative standardized regression weight 
+was found for sleep enuresis and parasomnias (ß 
+= – 0.28, P< .05) and 
+a positive one with dyssomnias (ß 
+= 0.35, P< .001). 
+
+The predictive value of sleep environment and sleep efficiency 
+towards the SHY items was found to be small but significant (see Table 
+9). Sleep enuresis was of no explanatory significance to the subscale 
+SHY. 
+
+DISCUSSION 
+
+Sleep questionnaires are often used in research. However, only a few 
+studies have fully explored the psychometric characteristics of the questionnaire 
+used; some describe the relationships between sleep disorders 
+during childhood from a purely statistical point of view. Through the 
+modulation of the sleep items used in our study, we aimed to contribute 
+to the limited statistical knowledge of their relationships.4,14-16 The final 
+model had an acceptable fit, which has good psychometric characteristics 
+and reflects the ASDC (Table 9).17 Additionally, the subscales 
+appeared to be valuable when used individually. 
+
+Some remarks should be made concerning the data on which this final 
+model was based. The data represented a recollection of parental awareness 
+of sleep disorders of their child.9,23 Although data collection was not 
+stratified, analyses of some ambiguous confounding variables stated in 
+the literature, such as socioeconomic status, age, and sex distribution9,11,24-
+26 were carried out after data collection. None of them were 
+found to constrain the modulation of sleep disorders as in a “general 
+population.” In addition, the prevalence of sleep disorders found here 
+resembles those found in previous studies. 
+
+The First and Second Order Models 
+
+The developmental characteristic of sleep architecture and problems 
+should encourage researchers to statistically unravel the relationships 
+both within and between age groups and to quantify clinical intuition. 
+The strong correlation found in this study between dyssomnias and parasomnias 
+underlines the clinical assumption that these cannot be handled 
+separately in the school-aged child.27 However, not all sleep disorders 
+within these categories were closely related. 
+
+The subscale DES, as specified here, showed ample relationship with 
+the other subscales, and its predictive power to the category dyssomnias 
+was limited. In a separate structural-equation model, not reported here, 
+we also analyzed its importance toward parasomnias, but equally low 
+results were found. This outsider position of the DES subscale, in the 
+first- and second order models, could be ascribed to the nature of the 
+items, or to the subjectivity of the complaint and, in conjunction with the 
+latter, the age range of our survey. Few studies have reported these sleep-
+related symptoms in a preadolescent population.9,28,29 Therefore, we also 
+added “specific” situations to the DES subscale. For example “falling 
+asleep while watching TV” (item 29), in comparison to the other specific 
+situations where the child might fall asleep, is more heterogeneous in 
+its interpretation30; moreover, it is known to be influenced by television 
+habits of the parents.31 Consequently, it had low predictive value in our 
+study. Other symptoms of somnolence, ie, the items questioning waking 
+up, showed little contribution to DES; nevertheless, the presence of 
+them, ie, within clinical range, is precursory for sudden sleep attacks, 
+which can be deferred from our item ordering. 
+
+The subscales DIMS, DA, and SWTD showed strong relationships in 
+our first order model. Thus, the items comprised by these subscales 
+appear to be alike from the viewpoint of the parent. Their perception as 
+a common sleep behavior instead of a separate sleep “disorder” probably 
+lies underneath. The clinician using only selective items of these dis-
+
+SLEEP, Vol. 27, No. 3, 2004 499 Pediatric Sleep Disorders—Spruyt et al 
+
+
+order subscales should keep in mind that it is difficult for a caregiver to 
+discriminate between these items. 
+
+Item 6, “terminal insomnia,” has only a minor contribution towards 
+DIMS. Few studies11,32 can be found where “terminal insomnia” in children 
+was questioned, even though 5.8% of the children in 1 other study33 
+and 6.9% in our study were reported to show this problem. Suspecting a 
+misinterpretation by the respondent or impurity of the item in terms of 
+insufficient amount of sleep might be abandoned based on the adequate 
+amount of sleep, ie, deduced from the mean and the sleep efficiency 
+index, found in this study. Another weak indicator of DIMS is item 1 
+“going to bed reluctantly.” Despite this, it is a common item in questionnaires, 
+and, in literature, many synonyms for this item can be found, 
+such as bedtime resistance, reluctance to settle to sleep, or bedtime struggles.
+23 In addition, to what extent the parent is qualified, when scoring 
+this item, to distinguish the problem from a limit-setting disorder or 
+sleep-onset association disorder is unknown. Difficulty falling asleep 
+(item 2) appeared to be the best indicator of DIMS. The child who has 
+problems falling asleep after awakening several night a week, which is 
+within the clinical range, will very likely exhibit difficulties falling 
+asleep and anxiety when falling asleep. 
+
+Confounding elements such as anxiety and (partial) arousal might 
+possibly ground the strong correlation between the DIMS, DA, and 
+SWTD subscales, either at the onset or during or the end of sleep period.
+34,35 More specific for DA, the distinction between nightmares and 
+night terrors is not straightforward for a nonclinician to ascertain. Muris 
+et al36 screened for anxiety symptoms and noted that 80.5% of Dutch 
+children aged 4 to 12 years were reported to have scary dreams. Simonds 
+and Parraga24 stated that nightmares diminished with increasing age and 
+sleep terrors were more prominent in the youngest age group. Thus, in 
+the literature, differences in prevalence can be noted and the co-occurrence 
+of items in the DA and SWTD subscales has been underlined in 
+several epidemiologic reports. Within the DA subscale, the item sleepwalking 
+has the lowest contribution. A marginal note might be that 
+minor differences in item analysis were found between the formulations 
+“your child sleepwalks” versus “you saw the child sleepwalking.” For 
+the SWTD subscale, the weakest indicator is bruxism. The minor predictive 
+value of these 2 items within the DA and SWTD subscale might 
+be due to their low incidence over a long period—being noticed or not— 
+or due to other confounding variables evoking their exhibition, such as 
+emotional or physical stressors. The 3 subscales can be ordered; having 
+a (high) positive score on the subscale DA, the child has (high) positive 
+scores on SWTD and DIMS. 
+
+In the first order model, the subscale SBD has a moderate correlation 
+with each of these 3 subscales. It also is of moderate explanatory value 
+toward dyssomnias, its relation in the second order model. The ordering 
+of items within this subscale reveals that a child will score positive on 
+the item apnea whenever he or she has (high) positive scores on the other 
+breathing items. The weakest item to indicate SBD was item 9, “snores 
+loudly.” This can be explained by the impurity of the item, namely it 
+does not state the absence of rhinitis, allergies, and other causes of snoring. 
+These medical conditions were found to be associated with items 
+screening for breathing problems in the child (11 and many others). 
+
+In contrast to other research underlining the co-occurrence of breathing 
+difficulties during sleep, such as snoring, and daytime somnolence, 
+we found only a moderate correlation between the 2 subscales, ie, SBD 
+and DES. This might be due to our item selection but might as well be 
+ascribed to the difference in approach. Namely, co-occurrences or correlations 
+found throughout the literature are mostly drawn on item level, 
+whereas we analyzed them on subscale disorder level, subscales that 
+were statistically confirmed. The SBD subscale also correlates moderately 
+with SHY, which is in accordance with the findings of Bruni et al.16 
+
+Since SHY is a proposed sleep disorder in the ICSD,2 its position is 
+yet underdetermined, and future research will hopefully clarify its significance. 
+In our first order model, the best correlations were found to be 
+with SWTD, DIMS, and DA, respectively, with decreasing magnitude. 
+In our second order model, we also found that SHY correlates with equal 
+
+strength with our categories dyssomnias and parasomnias. 
+
+The First and Second Order Models with Indexes 
+
+In our first order model, only small but significant predictive values 
+for both sleep efficiency and sleep environment to the DIMS and DES 
+were found. In the second order model, sleep efficiency was found to be 
+a good indicator of dyssomnias, while its contribution towards parasomnias 
+was moderate and negative, a finding that is in accordance with 
+clinical intuition. Logically, all childhood sleep evaluations should comprise 
+the sleep-wake schedule even if the primary complaint suggests 
+other problems.37 The data on sleep architecture and duration in the normal 
+child11,38,39 might guide us in the clinical interpretation of its relation 
+with dyssomnias and parasomnias. 
+
+In the second order model, sleep environment, as specified here, contributed 
+equally to dyssomnias and parasomnias. Yet, the contribution to 
+this latter sleep category was found to be negative. An association 
+between poor sleep and a sleeping environment with exposure to noise 
+and light was found in the study of Kahn et al40 and in others. 
+
+For both of these indexes, we want to remind readers that associations 
+or co-occurrence with sleep problems are habitually inferred at the item 
+level. 
+
+In the first order model, sleep enuresis had a minor though significant 
+contribution to DES, DIMS, and SWTD, ie, in increasing order and for 
+the latter one negative. In both the ASDC17 and the ICSD,2 sleep enuresis 
+is placed under parasomnias. However, our analyses show that its 
+contribution to parasomnias and dyssomnias is equally substantive, even 
+if of opposite sign, ie, negative and positive, respectively. This finding 
+underlines the complexity of sleep enuresis, which has been the subject 
+of many studies.41-44 
+
+When including these indexes, the clinician, as well as the researcher, 
+will gain extra information that can be helpful in the interpretation of 
+sleep problems. 
+
+In conclusion, we found that some items commonly used in pediatric 
+sleep questionnaires have limited predictive value toward a specific 
+sleep disorder, as classified according to ASDC.17 Nevertheless, the 
+sleep disorders, or the specified subscales, in general showed a good fit 
+in a normal population of children aged 6 to 13 year. Apart from the position 
+of DES, our modulations confirmed the classification underlying the 
+SDSC, an instrument that was also validated in a clinical population. 
+
+Since sleep and its disorders in the child are complex and approximately 
+30% of the children exhibit a sleep problem in at least one 
+domain, an international classification system, where the presentation, 
+the underlying causes, the significance, and others are written, would be 
+useful to all disciplines involved in pediatric sleep research. Our final 
+model can be seen as an attempt to stress the importance of item specification 
+as selection. As such, it could be a step toward a classification 
+system as well as a step toward a more critical use of pediatric sleep 
+items (see addendum). It is noteworthy, in contrast to the lack of instruments 
+for the analyses of nighttime behavior, that an abundant number 
+of instruments assessing daytime behavior can be found. This denotes 
+that the developmental aspect of a pediatric population is a challenge and 
+not an obstruction. Further studies in normal and clinical child populations 
+are therefore desirable to quantify the relationships between sleep-
+related behaviors and disorders to wider health issues. 
+
+REFERENCES 
+
+1. 
+Diagnostic and Statistical Manual of Mental Disorders (DSM IV). Washington DC: 
+American Psychiatric Association; 1994. 
+2. 
+International Classification of Sleep Disorders. Diagnostic and Coding Manual. 
+Rochester, Minnesota: American Sleep Disorders Association; 1990. 
+3. 
+Coenen AML. De Slaap, Een Psychobiologische Inleiding. Assen: Van Gorcum; 1979. 
+4. 
+Dollinger SJ. On the varieties of childhood sleep disturbance. J Clin Child Psychol 
+1982;11:107-15. 
+5. 
+DeGiorgis G. Sleep disorder in childhood - data and aspect. Abstracts 1984, 4° ICSR 
+University of Rome. 
+6. 
+Rosen CL, D'Andrea L, Haddad GG. Adult criteria for obstructive sleep apnea do not 
+identify children with serious obstruction. Am Rev Respir Dis 1992;146:1231-4. 
+SLEEP, Vol. 27, No. 3, 2004 
+500 Pediatric Sleep Disorders—Spruyt et al 
+
+
+7. 
+Schuman H. Response effects with subjective survey questions. In: Turner CHF, Martin 
+E, eds. Surveying Subjective Phenomena. New York: Russell Sage Foundation 1984; 
+Vol. 1. 
+8. 
+Richman N. Surveys of sleep disorders in children in general population. In: 
+Guilleminault C, ed. Sleep and Its Disorders in Children. New York: Raven Press; 
+1987:115-27. 
+9. 
+Owens JA, Spirito A, McGuinn M, Nobile C. Sleep habits and sleep disturbance in elementary 
+school-aged children. J Dev Behav Pediatr 2000;21:27-36. 
+10. 
+Sheldon SH, ed. Evaluating Sleep in Infants and Children. Philadelphia: Lippincott 
+Raven; 1996. 
+11. 
+Quan S, Pernisco N, Morgan WJ. Prevalence of sleep disturbances and snoring in children 
+ages 3-14 years. Sleep 1999;22:H300.G. 
+12. 
+Acebo C, Sadeh A, Seifer R, et al. Mother's assessment of sleep behaviors in young children: 
+scale reliability and validation vs. actigraphy. Sleep Res 1994,23:130. 
+13. 
+Dollinger SJ. Childhood Sleep disturbances. J Clin Child Psychol 1985;9:279-332. 
+14. 
+Fisher BE, McGuire K. Children Sleep Behavior Scale: normative data on 870 children 
+in grades 1-6. Percept Mot Skills 1989;68:227-36. 
+15. 
+Kump K, Whalen C, Tishler PV, et al. Assessment of the validity and utility of a sleep-
+symptom questionnaire. Am J Respir Crit Care Med 1994;150:735-41. 
+16. 
+Bruni O, Ottaviano S, Guidetti V, et al. 1996 The Sleep Disturbance Scale for Children 
+(SDSC). Construction and validation of an instrument to evaluate sleep disturbances in 
+childhood and adolescence. J Sleep Res. 1996;5:251-61. 
+17. 
+Association of Sleep Disorders Centers and the Association for Psychophysiological 
+Study of Sleep. Diagnostic classification of sleep and arousal disorders. Sleep 1979;2:1137. 
+18. 
+Spruyt K, Cluydts R. Assessment of sleep complaints in Flemish children with the Bruni 
+sleep disturbance scale for children. Sleep 2000;23:S205. 
+19. 
+Spruyt K, Cluydts R. Sleep-wake rhythm changes from weekdays to weekends in primary 
+school children. Sleep Res Online 1999;2:S210. 
+20. 
+Iglowstein I, Jenny OG, Molinari L, Largo R.H. Sleep duration from infancy to adolescence: 
+reference values and generational trends. Pediatrics 2003;111:302-7. 
+21. 
+Molenaar IW, Sijstma K. User's Manual. MSP for windows. A program for Mokken 
+Scale Analyses for polytomous items. Version 5.0 Groningen, the Netherlands: iec 
+ProGAMMA; 2000. 
+22. 
+Arbuckle JL, Wothke W. Amos 4.0 User's Guide by SmallWaters Corporation, Chicago, 
+IL; 1995-99. 
+23. 
+Smedje H. Nighttime Sleep and Daytime Studies Based on Parents' Perceptions of Five 
+to Eight Year Old Children. Uppsala: University Press; 2000. 
+24. 
+Simonds JF, Parraga H. Prevalence of sleep disorders and sleep behaviors in children. J 
+Am Acad Child Psychiatry 1982;21:383-8. 
+25. 
+Fisher BE, Wilson AE. Selected sleep disturbances in school children reported. Percept 
+Mot Skills 1987;64:1147-57. 
+26. 
+Ferber RA. Solve your child's sleep problem. New York: Simon and Schuster; 1985. 
+27. 
+Sheldon SH, Spire JP, Levy HB. Pediatric Sleep Medicine. Philidelphia: WB Saunders; 
+1992:186. 
+28. 
+Anders TF, Carskadon MA, Dement WC, Harvey K. Sleep habits of children and the 
+identification of pathologic sleepy children. Child Psychiatry Hum Dev 1978;9:56-63. 
+29. 
+Fallone G, Owens JA, Deane J. Sleepiness in children and adolescents: clinical implications. 
+Sleep Med Rev 2002;6:287-306. 
+30. 
+Owens J, Maxim R, McGuinn M, Nobile C, Msall M, Alario A. Television-viewing 
+habits and sleep disturbances in school children. Pediatrics 1999;104:e27. 
+31. 
+Songul Yalcin S, Tugrul B, Nacar N,Tuncer M, Yurdakok K. Factors that affect television 
+viewing time in preschool and primary schoolchildren. Pediatr Int 2002;44:622-7. 
+32. 
+Adair RH, Bauchner H. Sleep problems in childhood. Curr Prob Pediatr 1993:147-70. 
+33. 
+Uytdenhouwen M. Slaap- en waakgedrag bijkinderen: een epidemiologisch onderzoek 
+naar voorkomen van slaapstoornissen. 1985, unpublished work. 
+34. 
+Laberge L, Tremblay RE, Vitaro F, Montplaisir J. Development of parasomnias from 
+childhood to early adolescence. Pediatrics 2000;106:67-74. 
+35. 
+Mehlenbeck R, Spirito A, Owens J, Boergers J. The clinical presentation of childhood 
+partial arousal parasomnias. Sleep Med 2000;1:307-12. 
+36. 
+Muris P, Merckelbach H, Gadet B, Moulaert V. Fears, worries, and scary dreams in 4- to 
+12-year-old children: their content, developmental pattern, and origins. J Clin Child 
+Psychol 2000;29:43-52. 
+37. 
+Ferber RA, Kryger M. Principles and Practice of Sleep Medicine in the Child. 
+Philadelphia: WB Saunders; 1995. 
+38. 
+Coble PA, Kupfer DJ, Reynolds CF, Houck P. EEG sleep of healthy children 6 - 12 years 
+of age. In: Guilleminault C, ed. Sleep and Its Disorders in Children. New York: Raven 
+Press; 1987:29-41. 
+39. 
+Stores G, Crawford C, Selman J, Wiggs L. Home polysomnography norms for children. 
+Technol Health Care 1998;12:299-308. 
+40. 
+Kahn A, van de Merckt C, Rebuffat E, et al. Sleep problems in healthy preadolescents. 
+Pediatrics 1989;84:542-6. 
+41. 
+Klackenberg G. Nocturnal enuresis in a longitudinal perspective. Acta Pediatr Scand 
+1981;70:453-7. 
+42. 
+Yeung CK, Chiu HN, Sit FK. Sleep disturbance and bladder dysfunction in enuretic children 
+with treatment failure: fact or fiction. Scand J Urol Nephrol 1999;202:S20-3. 
+43. 
+Neveus T, Stenberg A, Lackgren G, Tuvemo T, Hetta J. Sleep of children with enuresis: 
+polysomnographic study. Pediatrics 1999;103:1193-7. 
+44. 
+Challamel M-J, Cochat P. Enuresis: pathophysiology and treatment. Sleep Med Rev 
+1999;3:313-24. 
+45. 
+Muris P, Merckelbach H, Ollendick TH, King NJ, Bogie N. Children's nighttime fears: 
+parent-child ratings of frequency, content origins, coping behaviors and severity. Behav 
+Res Ther 2001;39:13-28. 
+IN ADDENDUM 
+
+When deciding to use a sleep problem questionnaire the practitioner should be very cautious 
+about the item formulation. In this study, the items listed below had low predictive value (* 
+= Sleep Disturbance Scale for Children item).16 This might be due to 
+-The low prevalence of the sleep disturbances during the suggested period, eg, last 3 
+
+months 
+-The difficulty in detecting or discriminating them as a caregiver 
+-The possibility of a blurred interpretation, ie, lack of preciseness in the formulation 
+
+Disorders of Initiating and Maintaining Sleep: 
+
+- 
+Item 6: terminal insomnia or the child wakes up too early and can’t get back to sleep 
+- 
+Item 1*: going to bed reluctantly 
+Sleep Breathing Disorders 
+
+- 
+Item 9: snores loudly (or even the SDSC-item ‘the child snores’ appeared to be weak) 
+- 
+Item 10: snorting or gasping 
+- 
+Item 11: wheezing or whistling of the chest 
+Disorders of Arousal 
+This disorder subscale is a peculiar one, since the standardized regression weights of the 
+items in the individual disorder subscale versus the final model fluctuate greatly. As stated, 
+the performed statistical analyses could not differentiate enough to determine which items are 
+the best to use. Therefore, we suggest 2 solutions: 
+
+- 
+In accordance to Kahn and coworkers,40 ie, to pool the “nightmare” and “sleep terror” 
+items as 1 item, namely “night fears” 
+- 
+In accordance to Muris and coworkers,36,45 ie, to elaborate on the origin, content, coping 
+behavior, and severity via separate questions. 
+Further research should focus on this. 
+
+Sleep-Wake Transition Disorders 
+
+- 
+Item 21*: bruxism 
+- 
+Item 18: rhythmic movement disorder 
+Disorders of Excessive Somnolence 
+
+- 
+Item 26*: sleep paralysis 
+- 
+Item 24*: difficulty waking up 
+- 
+Item 25*: tired when waking up 
+- 
+Item 27*: daytime somnolence 
+- 
+Item 28*: sleep attacks 
+- 
+Item 29: falling asleep watching TV 
+Sleep Hyperhydrosis 
+None. 
+
+In conclusion, based on our results, ie, in a “normal” population and from the caregivers’ perspective, 
+these items should be rephrased better or interpreted in the realm of their limitations. 
+
+SLEEP, Vol. 27, No. 3, 2004 
+501 Pediatric Sleep Disorders—Spruyt et al 
+
+

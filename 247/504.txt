@@ -1,0 +1,927 @@
+Planning Adenotonsillectomy in Children With Obstructive Sleep Apnea: The 
+Role of Overnight Oximetry 
+
+
+Gillian M. Nixon, Andrea S. Kermack, G. Michael Davis, John J. Manoukian, Karen 
+A. Brown and Robert T. Brouillette 
+Pediatrics 2004;113;e19-e25 
+DOI: 10.1542/peds.113.1.e19 
+
+
+The online version of this article, along with updated information and services, is 
+located on the World Wide Web at: 
+
+
+http://www.pediatrics.org/cgi/content/full/113/1/e19 
+
+
+PEDIATRICS is the official journal of the American Academy of Pediatrics. A monthly 
+publication, it has been published continuously since 1948. PEDIATRICS is owned, published, 
+and trademarked by the American Academy of Pediatrics, 141 Northwest Point Boulevard, Elk 
+Grove Village, Illinois, 60007. Copyright © 2004 by the American Academy of Pediatrics. All 
+rights reserved. Print ISSN: 0031-4005. Online ISSN: 1098-4275. 
+
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+Planning Adenotonsillectomy in Children With Obstructive Sleep Apnea: 
+
+
+The Role of Overnight Oximetry 
+
+
+Gillian M. Nixon, MD, MBChB, FRACP*‡; Andrea S. Kermack, BSc*; G. Michael Davis, MD, MBChB*‡; 
+John J. Manoukian, MD§; Karen A. Brown, MD; and Robert T. Brouillette, MD* 
+
+
+ABSTRACT. Objective. Obstructive sleep apnea 
+(OSA) in children is usually effectively treated by adenotonsillectomy 
+(T&A). However, there may be a waiting 
+list for T&A, and the procedure is associated with an 
+increased risk of postoperative complications in children 
+with OSA. Needed is a simple test that will facilitate 
+logical prioritization of the T&A surgical list and help to 
+predict children who are at highest risk of postoperative 
+complications. The objective of this study was to develop 
+and validate a severity scoring system for overnight 
+oximetry and to evaluate the score as a tool to prioritize 
+the T&A surgical list. 
+
+Methods. This study comprised 3 phases. In phase 1, 
+a severity score was developed by review of preoperative 
+overnight oximetry in children who had urgent T&A in 
+1999–2000. In phase 2, the score was validated retrospectively 
+in 155 children who had polysomnography (PSG) 
+before T&A in 1992–1998. In a phase 3, a 12-month prospective 
+evaluation of a protocol based on the score was 
+conducted. 
+
+Results. In phase 1, a 4-level severity score was developed 
+on the basis of the number and the depth of 
+desaturation events (normal to severely abnormal, categories 
+1–4). In phase 2, the McGill oximetry score correlated 
+with severity of OSA by PSG criteria. In phase 3, a 
+clinical management protocol was developed based on 
+the score. Of 230 children tested, 179 (78%) had a normal/ 
+inconclusive oximetry (category 1) and went on to have 
+PSG. Those with a positive oximetry (categories 2–4; 
+22%) had no additional sleep studies before T&A. Timing 
+of T&A was based on oximetry score, leading to a 
+significant reduction in waiting time for surgery for 
+those with higher oximetry scores. Postoperative respiratory 
+complications were more common with increasing 
+oximetry score. 
+
+Conclusions. Overnight pulse oximetry can be used 
+to estimate the severity of OSA, to shorten the diagnostic 
+and treatment process for those with more severe disease, 
+and to aid clinicians in prioritization of T&A and planning 
+perioperative care. Pediatrics 2004;113:e19–e25. 
+URL: http://www.pediatrics.org/cgi/content/full/113/1/ 
+e19; oximetry, obstructive sleep apnea, child, adenotonsillectomy, 
+postoperative complications. 
+
+From the *Department of Pediatrics, McGill University and Montreal Children’s 
+Hospital, Montreal, Quebec, Canada; and Divisions of ‡Respiratory 
+Medicine, §Otolaryngology, and Anesthesiology, Montreal Children’s 
+Hospital, Montreal, Quebec, Canada. 
+Received for publication Jan 23, 2003; accepted Jun 19, 2003. 
+Reprint requests to (R.T.B.) Department of Pediatrics, Montreal Children’s 
+Hospital, 2300 rue Tupper, Montreal, Quebec H3H 1P3, Canada. E-mail: 
+robert.brouillette@muhc.mcgill.ca 
+PEDIATRICS (ISSN 0031 4005). Copyright © 2004 by the American Academy 
+of Pediatrics. 
+
+ABBREVIATIONS. OSA, obstructive sleep apnea; T&A, adenotonsillectomy; 
+PSG, polysomnography; CRSS, cardiorespiratory sleep 
+study; SaO2, arterial oxygen percent saturation; AHI, apnea-hypopnea 
+index. 
+
+O
+O
+bstructive sleep apnea (OSA) is a common 
+condition in childhood, affecting approximately 
+1% to 3% of children.1,2 The morbidity 
+associated with OSA includes sleep disruption, failure 
+to thrive, and cor pulmonale.3 In addition, potential 
+neuropsychological and cognitive consequences 
+are being increasingly recognized, including 
+lower academic performance4,5 and higher rates of 
+behavioral problems,6 when compared with unaffected 
+children of the same age. Most otherwise normal 
+children with OSA have adenotonsillar enlargement, 
+and adenotonsillectomy (T&A) is usually a 
+highly effective treatment.7,8 
+
+Approximately 6% to 12% of healthy children have 
+habitual snoring.1,2,9 In this group, clinical history 
+and examination findings fail to distinguish clinically 
+significant OSA from benign snoring (snoring 
+without impairment of oxygenation or ventilation 
+and without sleep disruption).10 Polysomnography 
+(PSG), involving an overnight stay in a sleep laboratory, 
+provides a detailed evaluation of both sleep 
+quality and breathing during sleep11 and is currently 
+the best method available for diagnosis of OSA.12 
+However, in many centers, such an evaluation either 
+is not available or involves a considerable waiting 
+time. In addition, waiting lists for T&A may be long 
+and clinicians must prioritize cases for surgery. For 
+these reasons, alternatives to full PSG for the evaluation 
+of suspected OSA are often sought.13 
+
+Periodic clusters of desaturation on continuous 
+overnight recording of oxygen saturation with 3 or 
+more desaturations 90% has been demonstrated to 
+have a 97% positive predictive value for OSA in 
+otherwise healthy children.14 Since September 2000, 
+children without other medical problems and with a 
+history strongly suggestive of OSA plus a positive 
+overnight oximetry14 have been referred directly for 
+T&A in our center, without proceeding to a more 
+detailed sleep study. It had been our practice to 
+expedite T&A in children with more severe desaturation 
+during sleep, rather than have these children 
+wait on the surgical waiting list. This practice was 
+based on experimental evidence of the effects of severe 
+intermittent hypoxia on the developing brain15 
+and on our disquiet in waiting several months for 
+
+http://www.pediatrics.org/cgi/content/full/113/1/e19 PEDIATRICS Vol. 113 No. 1 January 2004 e19 
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+definitive treatment in young children with severe 
+episodic desaturation. To formalize this prioritization 
+process, we set out to develop a scoring system 
+for overnight oximetry that is easily applied; reflects 
+the severity of the underlying OSA; and can be used 
+by pediatricians, sleep physicians, respiratory physicians, 
+anesthesiologists, and otolaryngologists to prioritize 
+patients who require T&A. This article presents 
+the development of such a score and its 
+validation and a prospective evaluation of a clinical 
+management protocol based on the score. 
+
+METHODS 
+
+Development and evaluation of a severity scoring system for 
+overnight oximetry was undertaken in 3 phases: 1) development 
+of the criteria for the score; 2) comparison of the score with 
+polysomnographic markers of OSA severity; and 3) prospective 
+evaluation of a clinical management protocol based on the score, 
+to determine whether use of the score had the desired effect of 
+expediting surgical treatment for those with more severe OSA. 
+
+Phase 1: Development of the Oximetry Score 
+
+The goal for phase 1 was to establish an easily implemented 
+oximetry scoring system that reflected consensus opinion about 
+what constitutes a mildly, moderately, or severely abnormal oximetry. 
+Children who had T&A performed on the urgent operating 
+list at the Montreal Children’s Hospital between January 1, 1999, 
+and March 31, 2001, were identified from the operating room 
+record. This group was chosen because it was an easily defined 
+group that would be expected to include a number of children 
+with severe OSA. T&A was being performed on an urgent basis 
+because of a high level of clinical concern on the part of the 
+treating physician and/or otolaryngologist.16 In cases in which 
+continuous overnight oximetry had been performed preoperatively, 
+the overnight oximetry trend and individual desaturation 
+events were reviewed by 3 independent raters (G.M.N., G.M.D., 
+and R.T.B.).14,17 Pulse oximetry was performed using either a 
+Nellcor (Pleasanton, CA) N-200 (mode 2, fast averaging) or N-3000 
+oximeter. Identifying features were removed from the records so 
+that the raters were unaware of the child’s clinical details. Each 
+evaluator ranked the tests in order of severity, and then the list 
+was divided into the following groups, with the criteria for inclusion 
+in each category being determined individually and independently 
+by each rater: 1) normal or inconclusive oximetry recording,
+14 and therefore not able to exclude OSA without additional 
+evaluation of breathing during sleep; 2) mildly abnormal study, 
+predictive of OSA14 necessitating T&A but not on an urgent basis; 
+3) markedly abnormal study, with a pattern consistent with OSA, 
+requiring surgery on an expedited basis (arbitrarily defined as 
+within 2 weeks); and 4) severely abnormal study, with a pattern 
+consistent with OSA, requiring surgery on an urgent basis (arbitrarily 
+defined as within 1–2 days, with admission to hospital for 
+stabilization before surgery). 
+
+The list of rankings was then compared, and objective criteria 
+were determined for each of the above categories, after discussion 
+between the scorers. This step in the development of the score was 
+
+undertaken to determine the level of agreement between experienced 
+observers of overnight oximetry as to what constitutes an 
+abnormal study and to translate that consensus opinion into objective 
+criteria for determining severity. The final scoring system 
+criteria are shown in Table 1. Examples of overnight oximetry 
+trend graphs for each score are shown in Fig 1. 
+
+Phase 2: Retrospective Validation of the Score 
+
+This scoring system (Table 1) was then applied to the overnight 
+oximetry tests performed as part of in-laboratory PSG or a home 
+cardiorespiratory sleep study (CRSS)18 for evaluation of suspected 
+OSA between 1992 and 1998. Detailed information on the perioperative 
+course of children in this cohort has been published previously.
+19 Each overnight oximetry test was scored by a single 
+investigator (G.M.N.), without knowledge of the results of the 
+PSG/CRSS or the postoperative course of the patient. The oximetry 
+score was then correlated with indices of severity of OSA as 
+defined by the PSG/CRSS. The incidence of intervention for respiratory 
+compromise in the postoperative period was also compared 
+between the groups. Major postoperative respiratory compromise 
+was defined by a requirement for 1 or more of the 
+following interventions, from the time of emergence from anesthesia: 
+ventilation with a bag and mask, administration of continuous 
+positive airways pressure, reintubation, administration of 
+medication for airway compromise or respiratory distress, placement 
+of an oropharyngeal/nasopharyngeal airway, and/or unplanned 
+admission to the pediatric intensive care unit for respiratory 
+compromise. Minor postoperative respiratory compromise 
+was defined by a requirement for oxygen therapy beyond the 
+usual period (15–30 minutes postoperatively) or repositioning of 
+the child to improve airway patency. 
+
+Phase 3: Prospective Evaluation of the Score 
+
+After the above evaluation, we began systematically performing 
+overnight oximetry as a first test in children who were referred 
+to the sleep laboratory with suspected OSA. A parent comes to the 
+sleep laboratory to obtain the oximeter, receives instruction in its 
+use, performs the test on the child at home overnight, and returns 
+the oximeter to the laboratory for downloading and interpretation 
+the following morning. Occasionally, the test was performed on an 
+inpatient when the medical team suspected OSA. Consecutive 
+patients who were referred for suspected OSA from October 1, 
+2001, until September 30, 2002, were included in the analysis. The 
+patient group represents a clinical group of children with adenotonsillar 
+hypertrophy and includes a small number of children 
+with other medical conditions (see Results). 
+
+We devised a clinical management protocol based on the oximetry 
+score for children undergoing T&A for OSA, after the results 
+of the retrospective analysis found that the oximetry score correlated 
+with severity of OSA and predicted a higher risk of postoperative 
+respiratory compromise. Children who had an oximetry 
+score of 1 (normal/inconclusive) were scheduled for a more comprehensive 
+sleep study. Those with an oximetry score of 2 were 
+referred to an otolaryngologist for T&A on an elective basis. For 
+those with a score of 3, surgery was recommended on an expedited 
+basis, preferably within 2 weeks of the oximetry test. Children 
+in this group were to be treated postoperatively in the 
+postanesthetic care unit for the first night, with continuous arterial 
+
+TABLE 1. The McGill Oximetry Scoring System Devised in Phase 1 and Validated in Phases 2 and 3 
+
+Oximetry Comment Criteria Recommendation 
+Score 
+
+No. of Drops No. of Drops No. of Drops Other 
+in SaO2 in SaO2 in SaO2 
+90% 85% 80% 
+
+1 Normal study/ 3 0 0 Baseline: stable (3 clusters Additional evaluation of 
+inconclusive of desaturation) and breathing during sleep 
+for OSA 95% required to rule out OSA 
+
+2 OSA, mild 3 3 0 Three or more clusters of Recommend T&A on the waiting 
+desaturation events14 list 
+
+3 OSA, moderate 3 3 3 Three or more clusters of Recommend surgery within 2 wk 
+desaturation events14 
+
+4 OSA, severe 3 3 3 Three or more clusters of Recommend urgent surgery 
+desaturation events14 (within days) 
+
+e20 ADENOTONSILLECTOMY FOR OBSTRUCTIVE SLEEP APNEA 
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+Fig 1. Examples of the oxygen saturation 
+trend graphs from overnight 
+oximetry tests: from top to bottom, 
+categories 1 to 4. 
+
+oxygen percent saturation (SaO2) monitoring. Children with an 
+oximetry score of 4 were referred for T&A on an emergency basis, 
+with the aim of performing T&A within 24 to 48 hours of the 
+oximetry test. Children with an oximetry score of 4 had a preoperative 
+evaluation including a chest radiograph, complete blood 
+count, electrocardiogram and early-morning capillary blood gas, 
+and an anesthetic consultation. Postoperatively, those with a score 
+of 4 were admitted electively to the pediatric intensive care unit, 
+with continuous monitoring as for category 3. Details of the postoperative 
+course were assessed from the patient records by an 
+anesthesiologist (K.B.) who was blinded to the preoperative oximetry 
+score. Major and minor respiratory compromise was defined 
+as for phase 2. 
+
+For assessing the ease of use and interobserver repeatability of 
+the oximetry score, 3 clinicians not involved in the development of 
+the score were asked to evaluate 100 overnight oximetry recordings. 
+The independent scorers were a clinical fellow in pediatric 
+respiratory medicine, a clinical fellow in anesthesiology, and a 
+sleep laboratory technologist. The last had experience in use of the 
+score; the first 2 scorers had not used the scoring system before, 
+and the anesthesiology fellow had no experience in interpreting 
+overnight oximetry records. A training session in interpretation of 
+
+
+overnight oximetry was provided to each scorer by the same 
+investigator (G.M.N.), including explanation of the definition of a 
+cluster of desaturation events and identification of movement 
+artifact-related desaturation events.14,17 This was followed by a 
+practice run using 4 oximetry recordings that were not part of the 
+evaluation. The entire teaching session took approximately 20 
+minutes. The overnight oximetry recordings from 100 consecutive 
+children who were referred for evaluation of suspected OSA after 
+October 1, 2002 (including those used in phase 3) were then 
+presented to the scorer in random order. This group included 
+unselected tests with proportions of each severity as is usually 
+seen in referred patients. No additional clinical information was 
+provided. The time taken to determine the score was recorded for 
+each oximetry test, and the scores were compared with the score 
+assigned to the test at the time it was performed (scored by R.T.B. 
+or G.M.N.). 
+
+Statistical Analysis 
+
+Statistical analysis was performed using the SPSS for Windows 
+program, version 9.0.0 (SPSS Inc, Chicago, IL). Comparisons between 
+scorers in the development of the score and evaluation of its 
+
+http://www.pediatrics.org/cgi/content/full/113/1/e19 e21 
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+use are made using the weighted . 
+statistic.20 This method for 
+measuring agreement with ordinal data assigns weight based on 
+the magnitude of observed disagreement so that disagreement 
+between categories 2 and 3 is given less weight than between 
+categories 2 and 4, for example. The relationships between oximetry 
+score and PSG results were analyzed using Kruskall-Wallis 
+analysis of variance; posthoc analyses used Dunnett’s C test. Proportions 
+of subjects in each oximetry category requiring postoperative 
+respiratory intervention were compared using Kendall’s 
+
+-b (for ordinal variables) or Fisher’s exact test when any group 
+contained 5 subjects. Waiting time for surgery was not normally 
+distributed; thus, median waiting times are given and compared 
+between groups using Kruskall-Wallis analysis of variance. 
+RESULTS 
+
+Phase 1: Development of the Scoring System 
+
+Of the 64 children who had T&A on the urgent 
+surgical list between January 1, 1999, and March 31, 
+2001, 31 had preoperative overnight oximetry recordings 
+available for analysis. Without instruction 
+in how to categorize the oximetry studies, the overall 
+interrater agreement among the 3 scorers was 56%. 
+Much of the variation between scorers was crossover 
+between categories 3 and 4, with an average 
+weighted . 
+statistic of 0.55 reflecting moderate agreement.
+20 After discussion of differences, the scorers 
+agreed on objective and easily implemented criteria 
+for each category (Table 1). 
+
+Phase 2: Retrospective Validation of the Score 
+
+Between October 1992 and April 1998, 349 children 
+were referred to the Sleep Laboratory at Montreal 
+Children’s Hospital. Of these, 163 had T&A (n . 
+143), adenoidectomy (n . 
+14), or tonsillectomy (n . 
+6) performed within 6 months of the PSG/CRSS.19 
+Pulse oximetry recorded during the preoperative 
+sleep study was available for review in 155 (95%) of 
+the surgical cases, 80% of which were performed 
+during a CRSS performed in the child’s home.18 
+
+Children with higher oximetry scores had more 
+severe OSA by PSG/CRSS criteria (Table 2). Higher 
+oximetry scores were associated with a higher apneahypopnea 
+index (AHI; P . 
+.001), higher desaturation 
+index (P . 
+.001), lower SaO2 nadir (P . 
+.001), and 
+
+higher respiratory arousal index (P . 
+.001). Posthoc 
+analyses revealed a difference between all of the 
+oximetry score groups except 2 and 3, but these 2 
+scores were kept separate because of differences in 
+postoperative complication rates. Oximetry score 
+was significantly associated with an increasing proportion 
+of subjects who required intervention for 
+respiratory compromise in the postoperative period 
+(P . 
+.01, Fisher’s exact test). A positive oximetry 
+(score 2–4) detected 9 (82%) of 11 children who required 
+major intervention for respiratory compromise 
+(Table 2). The missed cases both were boys, 
+aged 20 and 22 months, with preoperative AHIs of 
+
+5.0 and 8.3 events/hour, respectively, on preoperative 
+PSG without desaturation 90%. Both required 
+brief bag-and-mask ventilation on emergence from 
+anesthesia. One boy required oxygen in the recovery 
+room, but no other interventions were required in 
+either case after that time. The positive predictive 
+value of oximetry for major respiratory compromise 
+was 10% (9 of 86). 
+Phase 3: Prospective Evaluation of the Score 
+
+A total of 230 children (39% female; 65% white; 
+median age: 4.3 years) had overnight oximetry as a 
+first test for suspected OSA in 12 months. Eighty 
+percent of parents reported that their children had no 
+other medical problems. Reported medical problems 
+included asthma or other chronic lung disease (12), 
+Down syndrome (3), obesity (3), developmental delay 
+(8), and other significant medical condition (9). 
+The outcome after oximetry testing could not be 
+determined in 7 cases (4 girls; median age: 4.4 years), 
+and these were excluded from additional analyses. 
+All 7 had normal/inconclusive oximetry (category 
+1). 
+
+The oximetry study was technically unsatisfactory 
+in 8 (3.5%) cases, because 6 hours were recorded 
+before disconnection of the oximeter (5 of 8 [63%] 
+were younger than 3 years, compared with 30% of 
+the whole group (P . 
+.06, Fisher’s exact test). Oximetry 
+was repeated in 4 cases within 1 month of the 
+
+TABLE 2. Phase 2 Sleep Study Parameters, by McGill Oximetry Score 
+
+Oximetry Score P Value 
+1 2 3 4 
+(n . 
+69) (n . 
+38) (n . 
+23) (n . 
+25) 
+AHI (n/h) 
+Mean 4.1 12.6 13.3 39.9 .001* 
+95% CI 3.0–5.1 9.1–16.0 8.5–18.1 26.5–53.3 
+Desaturation index (n/h) 
+Mean 2.4 8.6 11.4 40.0 .001* 
+95% CI 1.8–2.9 6.2–10.9 7.8–15.1 26.3–53.7 
+Lowest SaO2 (%) 
+Mean 89.6 83.2 80.9 59.2 .001* 
+95% CI 88.6–90.5 80.9–85.4 77.7–84.2 54.3–64.1 
+Respiratory arousal index (n/h) 
+Mean 1.9 6.3 8.8 22.0 .001* 
+95% CI 1.4–2.3 4.4–8.2 5.2–12.5 12.8–31.3 
+Major intervention for respiratory 2 (3%) 2 (5%) 2 (9%) 5 (20%) .04† 
+compromise (n [%]) 
+
+CI indicates confidence interval. 
+
+* Kruskall-Wallis analysis of variance with posthoc analyses using Dunnett’s C test demonstrated significant differences among results of 
+all measures between scores 1, 2/3, and 4. 
+† Fisher’s exact test. 
+e22 ADENOTONSILLECTOMY FOR OBSTRUCTIVE SLEEP APNEA 
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+first test; all were successful, and 1 patient had a 
+positive result (category 2). Including these repeated 
+tests, the oximetry was considered to be positive for 
+OSA (score 2, 3, or 4) in a total of 51 (22%) of 230 
+cases. These patients were referred directly for consideration 
+of T&A without additional testing. Those 
+with a normal or inconclusive oximetry (category 1, 
+n . 
+172) or technically unsatisfactory oximetry (n . 
+7) were recommended to undergo a more detailed 
+sleep study. The course of additional investigation 
+and treatment after the oximetry was available for 
+223 (97%) of 230 children; all additional analysis was 
+performed on this subset. 
+
+Of 178 of 223 children with a normal, inconclusive, 
+or technically unsatisfactory oximetry, 119 (67%) of 
+178 had either a PSG (33) or a CRSS (86); a PSG or 
+CRSS is planned for an additional 7 children. Additional 
+testing after oximetry was refused by the referring 
+doctor or parent in the remaining 47 (26%) of 
+178 children. The PSG or CRSS was diagnostic of 
+OSA in 58 (49%) of 119 children, and these children 
+were referred for T&A. The oximetry recorded during 
+PSG/CRSS remained inconclusive for OSA (category 
+1) in all cases. 
+
+A total of 113 patients have had T&A for OSA, 
+including 49 of 50 with a positive oximetry, 34 of 58 
+with a positive PSG/CRSS, and 30 of 47 in whom an 
+inconclusive oximetry (category 1) was the only preoperative 
+test. As envisioned at protocol development, 
+there was an inverse relationship between the 
+oximetry score and waiting time for surgery 
+(Kruskal-Wallis test, P . 
+.001; Fig 2). 
+
+Details for the postoperative course were available 
+
+
+Fig 2. Waiting times for surgery by oximetry group. “Oximetry 
+only” refers to those children in whom overnight oximetry was 
+normal or inconclusive for OSA, who proceeded to have T&A 
+without additional sleep studies. “Positive PSG/CRSS” are those 
+children with a normal or inconclusive overnight oximetry in 
+whom OSA was subsequently diagnosed by PSG or home CRSS. 
+Categories 2 to 4 refer to children with positive oximetry results. 
+Median waiting times are 86 days for oximetry only, 217 days for 
+positive PSG/CRSS, 77 days for category 2, 36 days for category 3, 
+and 4 days for category 4 (P . 
+.001, Kruskall Wallis analysis of 
+variance). 
+
+for 102 (90%) of 113 children. Postoperative respiratory 
+compromise was significantly related to oximetry 
+score (P . 
+.003, Fisher’s exact test; Table 3). In 
+addition, subgroup analysis was statistically significant 
+for both major and minor respiratory compromise; 
+those with higher oximetry scores had a higher 
+incidence of complications, as had been found in 
+phase 2. The positive predictive value of oximetry for 
+major respiratory compromise was 13% (6 of 48). A 
+positive oximetry (categories 2–4) detected 25 of 35 
+(sensitivity: 71%) of those who required any intervention 
+for respiratory compromise in the postoperative 
+period and 6 of 7 (sensitivity: 86%) of those who 
+had major postoperative respiratory compromise. 
+The 1 major complication that occurred in a child 
+with an oximetry score of 1 occurred in an otherwise 
+healthy 3.7-year-old boy who required bag-andmask 
+ventilation for laryngospasm in the recovery 
+room. He had not had a PSG/CRSS, so the severity of 
+OSA was unknown. Eight of the 9 children who had 
+an inconclusive oximetry and went on to have minor 
+postoperative respiratory compromise were in high-
+risk groups based on the literature21: 4 were younger 
+than 3 years, 2 others had an AHI 10 events/hour, 
+and 2 had significant comorbidity. The outstanding 
+minor complication (required supplemental oxygen) 
+occurred in a 4.3-year-old girl with an AHI of 
+7/hour. 
+
+After the 20-minute training session, the 3 test 
+scorers (“learners”) took a median time of 9 seconds 
+per study to apply the score to the 100 oximetries 
+(interquartile range: 2, 45 seconds; maximum: 5 minutes). 
+Raw agreement with the score given to the 
+oximetry recording at the time it was performed 
+
+(G.M.N. or R.T.B., “experts”) was 87%, 88%, and 97% 
+for the pediatric respiratory fellow, the anesthesiology 
+fellow, and the sleep technologist, respectively 
+(weighted : 0.85, 0.86, and 0.97, all demonstrating 
+almost perfect agreement20). Scores differed on a 
+total of 27 (9.0%) of 300 occasions. Oximetry results 
+were misclassified as positive on 10 (3.3%) of 300 
+occasions, as a result in all but 1 case of the misinterpretation 
+of movement artifact by the learners. On 
+3 occasions, a positive oximetry was read as inconclusive 
+(category 1) by the learners. On 14 (4.6%) of 
+300 occasions, the score was reported as positive by 
+both the learners and the experts but the severity 
+category did not agree. The learners overread the 
+oximetry on 6 occasions and underread it on 8 but 
+were 1 category different on only 1 occasion (category 
+4 by experts and category 2 by learner). 
+DISCUSSION 
+
+We present the development and prospective evaluation 
+of a scoring system for overnight oximetry 
+testing in children with suspected OSA. The score 
+objectifies consensus opinion as to what constitutes a 
+mildly, moderately, or severely abnormal oximetry 
+result. The score was correlated with the severity of 
+OSA as measured by PSG. In our series, a positive 
+oximetry test (categories 2–4) detected children who 
+were at higher risk of respiratory compromise requiring 
+intervention in the postoperative period. After 
+implementation of our protocol, children with a 
+
+http://www.pediatrics.org/cgi/content/full/113/1/e19 e23 
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+TABLE 3. Phase 3: Proportion of Children With Postoperative Respiratory Compromise (n . 
+102), by Method of Diagnosis of 
+OSA/McGill Oximetry Score 
+
+OSA by History, OSA by PSG/CRSS, Oximetry Oximetry Oximetry P 
+Inconclusive Inconclusive Score 2 Score 3 Score 4 Value 
+Oximetry Oximetry (n . 
+17) (n . 
+10) (n . 
+21) 
+(n . 
+22)* (n . 
+32)† 
+Major respiratory compromise 1 (5%) 0 1 (6%) 0 5 (24%) .01 
+(n [%]) 
+Minor respiratory 3 (14%) 6 (19%) 5 (29%) 6 (60%) 8 (38%) .05 
+compromise (n [%]) 
+Any respiratory compromise 4 (18%) 6 (19%) 6 (35%) 6 (60%) 13 (62%) .003 
+(n [%]) 
+
+* Children with a normal/inconclusive oximetry in whom the PSG/CRSS was cancelled are in this group. 
+† Children with a normal/inconclusive oximetry who went on to have a positive PSG/CRSS are in this group. 
+positive overnight oximetry waited less time for surgery 
+than those who had to wait for a more complex 
+evaluation of breathing during sleep. The greatest 
+benefit of this oximetry-based protocol—surgical intervention 
+with minimal delay—accrued to those 
+with the most severe impairment of oxygenation 
+during sleep. 
+
+The preoperative overnight SaO2 nadir has been 
+associated with an increased risk of postoperative 
+respiratory compromise.19,21,22 The proposed score 
+has 3 main advantages over a simple SaO2 nadir as a 
+preoperative test: 1) our score is based on previous 
+work showing that oximetry can have a high positive 
+predictive value for OSA,14 2) a single fall in SaO2 
+may be seen during sleep in normal children in association 
+with a central apnea23 and thus will be less 
+specific for detecting desaturation as a result of OSA, 
+and 3) the score grades the severity of abnormality 
+based on the frequency and depth of the desaturations 
+and thus is not an all-or-nothing test. 
+
+PSG is the most comprehensive way of quantifying 
+ventilatory and sleep abnormalities caused by 
+OSA and is currently the gold standard diagnostic 
+modality.12 However, many children undergo T&A 
+for OSA on the basis of clinical history and examination 
+findings alone. Although history and examination 
+findings have been demonstrated to have 
+poor specificity for OSA10 and do not allow the clinician 
+to anticipate which patients might be at highest 
+risk of postoperative respiratory complications, 
+many children undergo T&A for OSA without the 
+benefit of any testing. An ideal screening test for 
+OSA would be easy to carry out, be inexpensive, and 
+have high positive and negative predictive values for 
+OSA. Oximetry meets the first 2 of these criteria and 
+has a high positive predictive value.14 We believe, 
+therefore, that it has validity and potential applications 
+in centers where children are referred for evaluation 
+of suspected OSA. Where PSG is not available 
+or is likely to be significantly delayed, overnight 
+oximetry may be used to select patients who require 
+surgery on an expedited basis and those who require 
+close postoperative monitoring in a center that is 
+capable of providing emergency respiratory support 
+after hours. 
+
+Some cautionary notes regarding the use of overnight 
+oximetry as an abbreviated diagnostic test in 
+the evaluation of children with suspected OSA are in 
+order. Despite the benefits outlined above, oximetry 
+
+testing has a low negative predictive value for 
+OSA14; children with a normal or inconclusive test 
+may have significant OSA. An oximetry score of 1 
+(normal/inconclusive) therefore should not be used 
+to reassure parents or clinicians of the absence of 
+significant OSA. The information provided by nocturnal 
+pulse oximetry, hemoglobin saturation, and 
+pulse rate is far less complete than that provided by 
+PSG. Thus, PSG should be used when a comprehensive 
+assessment of sleep and breathing is required. 
+The characteristics of the oximeter being used are 
+also extremely important. An oximeter with a long 
+averaging time will underestimate the brief desaturation 
+events seen in children with OSA, and oximeters 
+that are prone to movement artifact may overestimate 
+desaturation events, especially in young 
+children who move a lot during sleep.24 
+
+Whether it is reasonable to prioritize cases for T&A 
+on the basis of our oximetry score depends on the 
+face, criterion, and construct validity of the score and 
+on interobserver repeatability. Animal studies provide 
+experimental evidence of the adverse neural 
+effects of recurrent brief hypoxemia, specifically, 
+learning impairment, hyperactivity, and apoptosis in 
+the hippocampus and cortex.25 This suggests that 
+prioritization on the basis of the frequency and severity 
+of desaturation makes sense (ie, has face validity). 
+The choice of 80% as a cutoff for the most 
+severe category was based on evidence of increased 
+risk of postoperative respiratory compromise at this 
+level of SaO2 nadir.19,21,22 On retrospective analysis, 
+increasing oximetry score was associated with increasing 
+severity of OSA, and the score was correlated 
+with the AHI, the respiratory arousal index, 
+and the desaturation index as measured with more 
+complex tests of respiration during sleep (criterion 
+validity). The scoring system was applied quickly 
+and accurately by scorers who were not involved in 
+its development, suggesting that the scoring system 
+is easy to learn and apply (high interobserver repeatability). 
+
+
+The question remains, however, whether the oximetry 
+score is a good measure of surgical priority 
+(construct validity). It is a limitation of our study that 
+we have not attempted to measure the adverse outcome 
+of a prolonged waiting time for T&A. It is not 
+known whether waiting weeks to months for surgery 
+would make a difference to morbidity or mortality in 
+children with severe OSA, but it is feasible that it 
+
+e24 ADENOTONSILLECTOMY FOR OBSTRUCTIVE SLEEP APNEA 
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+might, given the evidence of the adverse effect of 
+hypoxemia on the developing brain15 and the known 
+association of severe OSA with cor pulmonale, failure 
+to thrive, and adverse neurobehavioral outcomes.
+3,4,26,27 Proof that surgical delay affects morbidity 
+would require a randomized, controlled trial, 
+with the test group at an increased risk that would 
+not be ethically justified. 
+
+CONCLUSIONS 
+
+In this study, we validated a severity scoring system 
+for overnight oximetry, demonstrating that it 
+reflects the underlying severity of OSA and identifies 
+children who are at increased risk of postoperative 
+respiratory compromise. We show that prioritizing 
+operative intervention on the basis of oximetry score 
+can shorten the diagnostic and treatment process for 
+those with more severe disease. Likewise, knowledge 
+of oximetry results can aid clinicians in planning 
+perioperative care. However, oximetry is inconclusive 
+in a large number of children with suspected 
+OSA and cannot replace PSG for the definitive diagnosis 
+of OSA. 
+
+ACKNOWLEDGMENTS 
+
+This article was presented at the American Thoracic Society 
+International Conference, Seattle, Washington, May 2003; and at 
+the Sleep Disorders in Infancy and Childhood, 20th Annual Conference, 
+Rancho Mirage, California, January 2002. 
+
+Dr Nixon received the Alan Ross Fellowship, McGill University. 
+Ms Kermack was supported by the Fonds de la recherche en 
+sante´ Quebec. 
+
+We thank the otolaryngologists, anesthesiologists, respirologists, 
+and sleep laboratory technicians of the Montreal Children’s 
+Hospital for input into the development and implementation of 
+the oximetry score. We also thank Dr A.-M. Canakis, Dr A. Koomson, 
+and C. McGregor for taking part in the evaluation of inter-
+observer repeatability. 
+
+REFERENCES 
+
+1. Anuntaseree W, Rookkapan K, Kuasirikul S, Thongsuksai P. Snoring 
+and obstructive sleep apnea in Thai school-age children: prevalence and 
+predisposing factors. Pediatr Pulmonol. 2001;32:222–227 
+2. Brunetti L, Rana S, Lospalluti ML, et al. Prevalence of obstructive sleep 
+apnea syndrome in a cohort of 1,207 children of southern Italy. Chest. 
+2001;120:1930–1935 
+3. Brouillette RT, Fernbach SK, Hunt CE. Obstructive sleep apnea in 
+infants and children. J Pediatr. 1982;100:31–40 
+4. Gozal D. Sleep-disordered breathing and school performance in children. 
+Pediatrics. 1998;102:616 –620 
+5. Blunden S, Lushington K, Kennedy D, Martin J, Dawson D. Behavior 
+and neurocognitive performance in children aged 5–10 years who snore 
+compared to controls. J Clin Exp Neuropsychol. 2000;22:554 –568 
+6. Ali NJ, Pitson DJ, Stradling JR. Snoring, sleep disturbance, and behaviour 
+in 4 –5 year olds. Arch Dis Child. 1993;68:360 –366 
+7. Stradling JR, Thomas G, Warley ARH, Williams P, Freeland A. Effect of 
+adenotonsillectomy on nocturnal hypoxaemia, sleep disturbance, and 
+symptoms in snoring children. Lancet. 1990;335:249 –253 
+8. Ali NJ, Pitson D, Stradling JR. Sleep disordered breathing: effects of 
+adenotonsillectomy on behaviour and psychological functioning. Eur 
+J Pediatr. 1996;155:56 –62 
+9. Corbo GM, Forastiere F, Agabiti N, et al. Snoring in 9-to 15-year-old 
+children: risk factors and clinical relevance. Pediatrics. 2001;108: 
+1149–1154 
+10. Carroll JL, McColley SA, Marcus CL, Curtis S, Loughlin GM. Inability of 
+clinical history to distinguish primary snoring from obstructive sleep 
+apnea syndrome in children. Chest. 1995;108:610 –618 
+11. American Thoracic Society. Standards and indications for cardiopulmonary 
+sleep studies in children. Am J Respir Crit Care Med. 1996;153: 
+866–878 
+12. American Academy of Pediatrics. Clinical practice guideline: diagnosis 
+and management of childhood obstructive sleep apnea syndrome. Pediatrics. 
+2002;109:704–712 
+13. Nixon GM, Brouillette RT. Diagnostic techniques for obstructive sleep 
+apnoea: is polysomnography necessary? Paediatr Respir Rev. 2002;3: 
+18–24 
+14. 
+Brouillette RT, Morielli A, Leimanis A, Waters KA, Luciano R, 
+Ducharme FM. Nocturnal pulse oximetry as an abbreviated testing 
+modality for pediatric obstructive sleep apnea. Pediatrics. 2000;105: 
+405–412 
+15. Row BW, Kheirandish L, Neville JJ, Gozal D. Impaired spatial learning 
+and hyperactivity in developing rats exposed to intermittent hypoxia. 
+Pediatr Res. 2002;52:449 –453 
+16. Brown KA, Morin I, Hickey C, Manoukian JJ, Nixon GM, Brouillette RT. 
+Urgent adenotonsillectomy: an analysis of risk factors associated with 
+respiratory morbidity. Anesthesiology. 2003;99:586 –595 
+17. Lafontaine VM, Ducharme FM, Brouillette RT. Pulse oximetry: accuracy 
+of methods of interpreting graphic summaries. Pediatr Pulmonol. 1996; 
+21:121–131 
+18. Jacob SV, Morielli A, Mograss MA, Ducharme FM, Schloss MD, Brouillette 
+RT. Home testing for pediatric obstructive sleep apnea syndrome 
+secondary to adenotonsillar hypertrophy. Pediatr Pulmonol. 1995;20: 
+241–252 
+19. Wilson K, Lakheeram I, Morielli A, Brouillette R, Brown K. Can assessment 
+for obstructive sleep apnea help predict postadenotonsillectomy 
+respiratory complications? Anesthesiology. 2001;96:313–322 
+20. Kramer MS, Feinstein AR. Clinical biostatistics LIV. The biostatistics of 
+concordance. Clin Pharmacol Ther. 1981;29:111–123 
+21. Rosen GM, Muckle RP, Mahowald MW, Goding GS, Ullevig C. Postoperative 
+respiratory compromise in children with obstructive sleep 
+apnea syndrome: can it be anticipated? Pediatrics. 1994;93:784 –788 
+22. McColley SA, April MM, Carroll JZ, Nadiero RM, Loughlin GM. Respiratory 
+compromise after adenotonsillectomy in children with obstructive 
+sleep apnea. Arch Otolaryngol Head Neck Surg. 1992;118: 
+940–943 
+23. Hunt CE, Hufford DR, Bourguignon C, Oess MA. Home documented 
+monitoring of cardiorespiratory pattern and oxygen saturation in 
+healthy infants. Pediatr Res. 1996;39:216 –222 
+24. Brouillette RT, Lavergne J, Leimanis A, Nixon GM, Ladan S, McGregor 
+CD. Differences in pulse oximetry technology can affect detection of 
+sleep-disordered breathing in children. Anesth Analg. 2002;94(suppl): 
+S47–S53 
+25. Gozal D, Daniel JM, Dohanich GP. Behavioral and anatomical correlates 
+of chronic episodic hypoxia during sleep in the rat. J Neurosci. 2001;21: 
+2442–2450 
+26. Marcus CL, Carroll JL, Koerner CB, Hamer A, Lutz J, Loughlin GM. 
+Determinants of growth in children with the obstructive sleep apnea 
+syndrome. J Pediatr. 1994;125:556 –562 
+27. Chervin RD, Archbold KH, Dillon JE, et al. Inattention, hyperactivity, 
+and symptoms of sleep-disordered breathing. Pediatrics. 2002;109: 
+449–456 
+http://www.pediatrics.org/cgi/content/full/113/1/e19 e25 
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+
+Planning Adenotonsillectomy in Children With Obstructive Sleep Apnea: The 
+Role of Overnight Oximetry 
+
+
+Gillian M. Nixon, Andrea S. Kermack, G. Michael Davis, John J. Manoukian, Karen 
+A. Brown and Robert T. Brouillette 
+Pediatrics 2004;113;e19-e25 
+
+
+DOI: 10.1542/peds.113.1.e19 
+& Services 
+Updated Information 
+http://www.pediatrics.org/cgi/content/full/113/1/e19 
+including high-resolution figures, can be found at: 
+References 
+http://www.pediatrics.org/cgi/content/full/113/1/e19#BIBL 
+at: 
+This article cites 27 articles, 11 of which you can access for free 
+Citations 
+s 
+http://www.pediatrics.org/cgi/content/full/113/1/e19#otherarticle 
+This article has been cited by 1 HighWire-hosted articles: 
+Peer Reviews (P3Rs) 
+Post-Publication 
+http://www.pediatrics.org/cgi/eletters/113/1/e19 
+One P3R has been posted to this article: 
+Permissions & Licensing 
+http://www.pediatrics.org/misc/Permissions.shtml 
+tables) or in its entirety can be found online at: 
+Information about reproducing this article in parts (figures, 
+Reprints 
+http://www.pediatrics.org/misc/reprints.shtml 
+Information about ordering reprints can be found online: 
+
+
+Downloaded from www.pediatrics.org at Univ Of Louisville on March 4, 2009 
+
+

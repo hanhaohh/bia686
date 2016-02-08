@@ -1,0 +1,953 @@
+Intracapsular tonsillar reduction (partial tonsillectomy): 
+Reviving a historical procedure for obstructive sleep 
+disordered breathing in children 
+
+PETER J. KOLTAI, MD, C. ARTURO SOLARES, MD, JEFFERY A. KOEMPEL, MD, KEIKO HIROSE, MD, TOM I. ABELSON, MD, 
+PAUL R. KRAKOVITZ, MD, JAMES CHAN, MD, MENG XU, MS, and EDWARD J. MASCHA, MS, Cleveland, Ohio, and Los Angeles, 
+California 
+
+
+OBJECTIVE: We sought to reintroduce a historical 
+procedure—intracapsular tonsillar reduction (partial 
+tonsillectomy or tonsillotomy)—for tonsillar hypertrophy 
+causing obstructive sleep disordered 
+breathing (OSDB) in children, as well as to determine 
+whether partial tonsillectomy, compared with 
+conventional (total) tonsillectomy when performed 
+by more than one surgeon, is equally effective for 
+the relief of OSDB while resulting in less pain and 
+more rapid recovery. 
+STUDY DESIGN: We conducted a retrospective case 
+series at a tertiary children’s hospital. The charts of 
+children who underwent partial tonsillectomy and 
+total tonsillectomy (1998 through 2002) for postoperative 
+complications were reviewed. The caregivers 
+were surveyed to assess postoperative pain, 
+rapidity of recovery, and effectiveness of surgery 
+for relieving symptoms of OSDB. 
+RESULTS: Two hundred forty-three children underwent 
+partial tonsillectomy and 107 children underwent 
+total tonsillectomy. There were no significant 
+differences in immediate and delayed complications 
+between the groups. Both operations were 
+equally effective in relieving OSDB. Children who 
+had partial tonsillectomy had significantly less 
+postoperative pain and significantly more rapid 
+recovery. 
+
+From the Section of Pediatric Otolaryngology (Drs Koltai, 
+Solares, Hirose, Abelson, Krakovitz, and Chan) and Department 
+of Biostatistics and Epidemiology (Dr Koempel), 
+The Cleveland Clinic Foundation, and the Division of 
+Otolaryngology, Children’s Hospital of Los Angeles (Drs 
+Xu and Mascha). 
+
+Presented at the Annual Meeting of the American Academy 
+of Otolaryngology–Head and Neck Surgery, San Diego, 
+CA, September 22-25, 2002. 
+
+Reprint requests: Peter J. Koltai, MD, Section of Pediatric 
+Otolaryngology, The Children’s Hospital at the Cleveland 
+Clinic Foundation, 9500 Euclid Avenue, A71, Cleveland, 
+OH 44195.; e-mail, koltaip@ccf.org. 
+
+Copyright © 2003 by the American Academy of Otolaryngology–
+Head and Neck Surgery Foundation, Inc. 
+
+0194-5998/2003/$30.00 . 
+0 
+
+doi:10.1016/S0194-5998(03)00727-7 
+
+CONCLUSION: Intracapsular tonsillar reduction with 
+an endoscopic microdebrider relieves OSDB as effectively 
+as conventional tonsillectomy, but results 
+in less postoperative pain and a more rapid recovery. 
+(Otolaryngol Head Neck Surg 2003;129:532-8.) 
+
+The primary management of tonsillar hypertrophy 
+causing obstructive sleep disordered breathing 
+(OSDB) in children today is conventional (total) 
+tonsillectomy by a variety of technical means 
+(cold dissection, electrocautery, microbipolar, and 
+harmonic scalpel). Removal of the tonsils (combined 
+with adenoidectomy) eliminates the source 
+of most children’s upper airway obstruction and 
+improves nighttime breathing. Although effective, 
+total tonsillectomy is often associated with a difficult 
+recovery with prolonged pain and a low, but 
+predictable, rate of delayed postoperative hemorrhage. 
+
+
+In a search for a less invasive but equally effective 
+technique, we revisited an old procedure— 
+tonsillotomy, or partial tonsillectomy, but performed 
+with contemporary technology. We 
+perform a purposeful reduction in the tonsil size, 
+partially shaving them away using an endoscopic 
+microdebrider.1 The goal of this procedure is to 
+eliminate the obstructive portion of the tonsil 
+while preserving the tonsillar capsule. By maintaining 
+the integrity of the capsule, a natural biologic 
+dressing is left in place over the pharyngeal 
+muscles, preventing them from sustaining injury, 
+inflammation, and infection. This results in less 
+postoperative pain, a more rapid recovery, and 
+perhaps fewer delayed complications.1 
+
+The goal of this study was to demonstrate the 
+historical context of our procedure and to assess 
+whether partial tonsillectomy compared to (total) 
+conventional tonsillectomy, when performed by 
+several surgeons in a larger cohort of patients, is 
+equally effective for the relief of OSDB while 
+resulting in less pain and a more rapid recovery. 
+
+
+Otolaryngology– 
+Head and Neck Surgery 
+
+
+Volume 129 Number 5 
+
+PATIENTS AND METHODS 
+Patients 
+
+We reviewed the outpatient and inpatient medical 
+records of all children (n . 
+243, partial tonsillectomy 
+group) who underwent intracapsular 
+tonsillectomy for tonsillar hypertrophy causing 
+OSDB performed by 1 of 3 surgeons (P.J.K., K.H., 
+or T.I.A.) at the Children’s Hospital at the Cleveland 
+Clinic between October 1998 and June 2002. 
+The diagnosis of OSDB was based on the history 
+provided by the child’s caregiver (snoring, gasping, 
+apnea, restless sleep, frequent awakenings, 
+bet wetting, and daytime somnolence). For comparison, 
+we reviewed the outpatient and inpatient 
+records of all children (n . 
+107, total tonsillectomy 
+group) who underwent standard tonsillectomy 
+for tonsillar hypertrophy causing OSDB (ascertained 
+by history) performed by the same 
+surgeons during the same period at the same hospital. 
+We also conducted a telephone survey of the 
+primary caregivers of the children (211 [87% of 
+caregivers] in the partial tonsillectomy group1 and 
+90 [84%] in the total tonsillectomy group) by 
+using a questionnaire that elicited their assessment 
+of their children’s postoperative recovery and relief 
+of the symptoms of OSDB. 
+
+The choice of whether a child had a partial or 
+total tonsillectomy was made preoperatively by 
+the caregivers. Caregivers were told during the 
+preoperative consultation that children who have 
+partial tonsillectomy may have less postoperative 
+discomfort compared with total tonsillectomy. 
+They were also told that there was a risk of tonsillar 
+regrowth after partial resection. 
+
+Data collected from the outpatient records were 
+the patient’s age, gender, and history of symptoms 
+of OSDB. Data collected from the inpatient 
+records were the amount of intraoperative blood 
+loss and the occurrence of intraoperative complications, 
+and immediate and delayed postoperative 
+complications (dehydration and hemorrhage). 
+Data obtained by the caregiver telephone survey 
+included the caregiver’s subjective assessment of 
+the child’s postoperative pain as being none, mild, 
+moderate, or severe during recovery (on postoperative 
+days 1 to 3, 4 to 6, and 7 to 9; after day 9; 
+and globally); number of days until return to normal 
+activity; number of days until return to normal 
+diet; number of days of analgesic use; and relief of 
+
+KOLTAI et al 533 
+
+the symptoms of OSDB. The telephone surveys 
+were conducted by one of the authors (C.A.S.) 
+retrospectively and in an unblinded way, from 1 
+month up to 12 months after the surgery. 
+
+This study was approved by the Cleveland 
+Clinic Foundation Institutional Review Board. 
+
+Surgical Technique 
+
+Orotracheal intubation is performed with the 
+child in the Rose position. A mouth gag is used to 
+retract the jaw. The soft palate is retracted with 
+catheters in anticipation of a concurrent adenoidectomy; 
+this stabilizes the tonsil and pulls the 
+uvula out of the way. Resection begins with the 
+left-side tonsil, with the microdebrider (set to 1500 
+rpm in oscillating mode) held in the right hand, 
+and moves from the inferior to the superior pole, 
+starting medially and proceeding laterally. When 
+the plane of the pillars has been reached, a Hurd 
+elevator is used to retract the anterior pillar, medialize 
+the remaining tonsil, and allow deeper portions 
+of the tonsillar tissue to be shaved. Care is 
+taken to leave a thin rim of lymphoid tissue on the 
+tonsillar capsule. After resection has been completed, 
+suction cautery is used to control the bleeding 
+from the left-side tonsillar bed. The right-side 
+tonsil is then similarly resected with the microdebrider 
+held in the left hand. Power-assisted adenoidectomy2 
+is performed in conjunction with 
+most cases after the intracapsular tonsillectomy. 
+
+The conventional (total) tonsillectomies were 
+performed using the handheld electocautery wand 
+at a setting of 10 to 15 W in a standard fashion by 
+all 3 surgeons. 
+
+Statistical Methods 
+
+Descriptive statistics are given as median and 
+quartiles (25th and 75th percentiles) for ordinal 
+and nonnormally distributed continuous data and 
+as frequency and percent for categorical data. 
+
+The significance level for each hypothesis was 
+
+0.05. SAS statistical software (Cary, NC) was 
+used for all analyses. 
+Univariable Methods 
+
+Treatment techniques were compared on the 
+ordinal outcomes (pain during recovery and postoperative 
+quality of life improved), nonnormally 
+distributed continuous outcomes (days to normal 
+
+
+534 KOLTAI et al 
+
+activity, days to normal diet, days of analgesic, 
+and blood loss), and baseline predictors using the 
+nonparametric Wilcoxon rank sum test. Techniques 
+were compared on categorical predictors 
+and outcomes with 2 tests. 
+
+Multivariable Methods 
+
+Because this was not a randomized study, it was 
+important to adjust for any preoperative factors 
+that might affect the outcome, especially factors 
+that might be different between the technique 
+groups. We considered age at surgery, gender, 
+preoperative life affected, inpatient/outpatient status, 
+tonsillar hypertrophy, adenoidal hypertrophy, 
+OSDB symptoms, snoring, sinusitis, peritonsillar 
+abcess, recurrent otitis, sleep problems, and apnea 
+as potential covariates in multivariable analyses 
+assessing the relationship between technique and 
+the various outcomes. We also compared the technique 
+groups on these variables. 
+
+Cumulative logit regression models were used 
+to compare the treatment techniques on pain during 
+recovery and postoperative quality of life improved 
+adjusting for covariates significant at the 
+
+0.05 level using backwards variable selection. To 
+satisfy the proportional odds assumption, the moderate 
+and severe pain categories were sometimes 
+combined. An odds ratio and 95% confidence interval 
+(CI) are reported for each factor. The odds 
+ratio indicates the odds of getting a worse outcome 
+in the total versus the partial tonsillectomy. 
+Cox proportional hazards regression models 
+were used to compare the treatment techniques on 
+the time-to-event outcomes (days to normal activity, 
+days to normal diet, days of analgesic) adjusting 
+for covariates significant at the 0.05 level 
+using backwards selection. 
+
+Regression models were used to compare the 
+treatment techniques on the ranks of the continuous 
+variables (blood loss and fluid infusion). 
+
+The proportions with resolution (and 95% confidence 
+interval [CI]) for those who had the symptoms 
+before surgery are given. 
+
+RESULTS 
+The Data 
+
+We compared the total tonsillectomy and partial 
+tonsillectomy groups on the interested outcomes 
+
+Otolaryngology– 
+Head and Neck Surgery 
+
+November 2003 
+
+Table 1. Demographic variable by technique 
+
+Predictor Level n Mean (SD) P value* 
+
+Surgery age Total 107 9.1 (3.4) 0.001 
+Partial 243 6.1 (3.0) 
+
+*t Test. 
+
+for the children with tonsillar hypertrophy with 
+OSDB. 
+
+Significant associations between baseline predictors 
+and treatment for the data are as follows: 
+sleep problem (P . 
+0.002), apnea (P . 
+0.007), 
+and surgery age (P . 
+0.001). 
+
+Tables 1 to 5 summarize the comparison of the 
+partial tonsillectomy and total tonsillectomy on 
+the main outcomes for our data. 
+
+Univariable Results 
+
+Partial tonsillectomy was significantly better 
+than total tonsillectomy with less pain during recovery 
+on day 1 to 3, day 4 to 6, day 7 to 9, day 
+9, global pain, days to normal activity, days to 
+normal diet, and days of analgesic. We did not 
+detect a significant difference between techniques 
+on the blood loss or postoperative life improved. 
+
+Multivariable Results 
+
+After adjusting for significant covariates (Tables 
+3 and 4), partial tonsillectomy was significantly 
+better than total tonsillectomy with less 
+pain during recovery on days 1 to 3, days 4 to 6, 
+days 7 to 9, day 9; global pain; days to normal 
+activity; days to normal diet; and days of analgesic. 
+Multivariable cumulative logit regression on 
+the quartiles of blood loss indicated that total 
+patients were significantly less likely to have 
+greater blood loss compared to the partial tonsillectomy 
+patients (estimated odds ratio [CI] 0.42 
+[0.25, 0.71]) after adjusting for significant predictors 
+sinusitis with OR (CI) 2.0 (1.02, 3.8) and age 
+at surgery with OR (CI) 1.3 (1.2, 1.4) (Table 4). 
+Due mainly to the partial patients being younger 
+(Table 1) and the strong positive correlation between 
+surgery age and blood loss, the age-adjusted 
+analysis shows partial patients to have higher 
+blood loss than total patients. Almost identical 
+results were derived using quintiles of blood loss 
+as the outcome. 
+
+
+Otolaryngology– 
+Head and Neck Surgery 
+
+
+Volume 129 Number 5 KOLTAI et al 535 
+
+Table 2. Other baseline variables by technique 
+
+Tonsillectomy 
+Partial 
+tonsillectomy 
+Predictor Level Total n % n % P value 
+Gender 
+Level of preoperative 
+life affected 
+Female 
+Male 
+Mild 
+Moderate 
+Severe 
+165 
+184 
+8 
+157 
+135 
+45 
+62 
+5 
+43 
+41 
+42.1 
+57.9 
+5.6 
+48.3 
+46.1 
+120 
+123 
+3 
+114 
+94 
+49.4 
+50.6 
+1.4 
+54 
+44.6 
+0.19* 
+0.90† 
+*Pearson 2 test. 
+†Wilcoxon rank sum test. 
+Table 3. Comparison of 2 techniques on ordinal follow-up outcomes 
+Outcome Level Total 
+Tonsillectomy 
+n % 
+Partial 
+tonsillectomy 
+n % 
+Multivariable results 
+Odds ratio* 
+(total vs partial) P value 
+Univariable 
+results 
+P value† 
+Pain during recovery 
+Days 1–3 
+Days 4–6 
+Days 7–9 
+Days 9. 
+Global 
+Postoperative quality 
+of life improved 
+No pain 
+Mild 
+Moderate 
+Severe 
+No pain 
+Mild 
+Moderate 
+Severe 
+No pain 
+Mild 
+Moderate 
+Severe 
+No pain 
+Mild 
+Moderate 
+Severe 
+No pain 
+Mild 
+Moderate 
+Severe 
+Mild 
+Moderate 
+Marked 
+1 
+144 
+109 
+46 
+101 
+113 
+64 
+19 
+200 
+49 
+38 
+10 
+231 
+28 
+27 
+9 
+0 
+210 
+78 
+11 
+6 
+9 
+285 
+0 
+13 
+47 
+29 
+8 
+24 
+45 
+11 
+25 
+30 
+28 
+6 
+44 
+15 
+24 
+5 
+0 
+30 
+53 
+6 
+3 
+3 
+83 
+0 
+14.6 
+52.8 
+32.6 
+10.1 
+27.0 
+50.6 
+12.4 
+28.1 
+33.7 
+31.5 
+6.7 
+50 
+17.1 
+27.3 
+5.7 
+0 
+33.7 
+59.6 
+6.7 
+3.4 
+3.4 
+93.3 
+1 
+131 
+62 
+17 
+92 
+89 
+19 
+8 
+175 
+19 
+10 
+4 
+187 
+13 
+3 
+4 
+0 
+180 
+25 
+5 
+3 
+6 
+202 
+0.5 
+62.1 
+29.4 
+8.1 
+44.2 
+42.8 
+9.1 
+3.9 
+84.1 
+9.1 
+4.8 
+1.9 
+90.3 
+6.3 
+1.5 
+1.9 
+0 
+85.7 
+11.9 
+2.4 
+1.4 
+2.8 
+95.7 
+7.5 (4.4,12.8) 
+8.5 (5.0,14.4) 
+12.0 (6.8,21.3) 
+10.1 (5.4,19.0) 
+13.7 (7.1,26.4) 
+0.7 (0.2, 2.3) 
+0.001 (1) 
+0.001 (2) 
+0.001 (3) 
+0.001 (4) 
+0.001 (5) 
+0.59 (6) 
+0.001 
+0.001 
+0.001 
+0.001 
+0.001 
+0.29 
+
+*Odds ratio indicates the odds of having a worse outcome in total vs partial patients (cumulative logit model). 
+
+†Wilcoxon rank sum test. 
+We did not detect a significant difference be-the medical records, inability to contact caregivers, 
+tween techniques on improvement of postopera-or the lack of recall of specific information by the 
+tive quality of life. No differences were found caregivers during the telephone survey. 
+between the groups on the incidence of delayed 
+
+DISCUSSION
+
+complications (Table 5). 
+The variability of the numbers in the various cat-There have been changes in the methods used in 
+egories (Tables 1 to 5) reflect missing data points in tonsil surgery since the first description from the 
+
+
+Otolaryngology– 
+Head and Neck Surgery 
+
+536 KOLTAI et al 
+November 2003 
+
+Table 4. Comparison of 2 techniques on continuous outcomes 
+
+Multivariable 
+Median 
+(25th, Mean Hazard ratio Univariable 
+Outcome Level n 75th) (SD) (95% CI) P value P value* 
+
+Blood loss (mL) 
+Total 106 25 (20, 45) 34.7 (29.0) 0.42† (0.25, 0.71) 0.001§ 0.82 
+Partial 243 25 (20, 35) 34.8 (44.5) 
+
+Days to normal activity 
+Total 89 8 (5, 10) 8.3 (3.9) 0.47§ (0.36, 0.60) 0.001. 
+0.001 
+Partial 210 4 (3, 6) 4.8 (3.4) 
+
+Days to normal diet 
+Total 89 7 (4, 10) 7.7 (4.9) 0.49§ (0.43, 0.63) 0.001. 
+0.001 
+Partial 209 3 (2, 5) 4.2 (4.0) 
+
+Days of analgesic 
+Total 89 5 (2, 10) 5.4 (4.1) 0.51§ (0.39, 0.67) 0.001** 0.001 
+Partial 210 2 (1, 3) 2.9 (3.1) 
+
+*Wilcoxon rank sum test; significant P value means partial is better than total. 
+
+†Cumulative logit odds ratio giving odds of having more blood loss in total vs partial groups. 
+‡Hazard ratio indicates the odds of being back to normal for the total vs the partial patient at any point in time (eg, estimated hazard ratio of 0.5 
+for total vs partial means that total patients are about 50% slower to return to normal [or partial patients are about 2 times as fast]). 
+§Cumulative logit regression model with the quartiles of blood loss as outcome, adjusting for surgery age and sinusitis. Significant odds ratio 
+indicates that patients are less likely to have more blood loss after total compared with partial tonsillectomy (ie, total appears better). 
+Cox regression model adjusting for inpatient and prediagnosis snoring. 
+**Cox regression model adjusting for surgery age, recurrent otitis media, symptoms associated with OSA, and level of preoperative life affected. 
+Table 5. Comparison of 2 techniques on delayed complications 
+
+Tonsillectomy 
+Partial 
+tonsillectomy 
+Delayed complications Level Total n % n % P value* 
+Postoperative hemorrhage 
+Dehydration-readmission 
+Torticollis 
+Velopharyngeal insufficiency 
+Voice change 
+Depression 
+No 
+Yes 
+No 
+Yes 
+No 
+Yes 
+No 
+Yes 
+No 
+Yes 
+No 
+Yes 
+339 
+9 
+342 
+5 
+347 
+0 
+346 
+1 
+344 
+1 
+342 
+0 
+101 
+5 
+103 
+2 
+104 
+0 
+104 
+0 
+104 
+0 
+104 
+0 
+95.3 
+4.7 
+98.1 
+1.9 
+100 
+0 
+100 
+0.00 
+100 
+0.00 
+100.0 
+0 
+238 
+4 
+239 
+3 
+243 
+0 
+242 
+1 
+240 
+1 
+238 
+0 
+98.4 
+1.7 
+98.8 
+1.2 
+100 
+0 
+99.6 
+0.41 
+99.6 
+0.41 
+100.0 
+0 
+0.11 
+0.57 
+0.99 
+0.99 
+
+*Exact unconditional test. 
+
+first century AD by Celsus, who used a finger to 
+remove the tonsil and when that method was ineffective, 
+recommended a scalpel.3 Philip Physick 
+of Philadelphia invented the first major advance in 
+tonsil surgery when he described the tonsillotome 
+or tonsil guillotine in 1828.4 With this instrument, 
+tonsil surgery came to be performed with an increasing 
+frequency. Contemporary tonsillectomy, 
+a complete removal of the entire tonsil by anatomic 
+dissection, was conceived and described by 
+American otolaryngologists in the early 1900s in 
+response to persistent symptoms that some pa
+
+
+tients complained of and which were attributed to 
+retained tonsillar tissue after tonsillotomy.5 G. 
+Hudson Mauken of Philadelphia first made the 
+distinction between an “intracapsular” and an “extracapsular” 
+tonsillectomy.6 In 1910, Sluder7 and 
+Whillis and Pybus8 independently published their 
+techniques of tonsillectomy with a guillotine in 
+which they were able to remove the tonsil in its 
+entirety with the capsule intact. As a result, tonsillotomy 
+fell into disrepute and was not readdressed 
+in a meaningful way again for another 80 
+
+9,10
+
+years.
+
+
+Otolaryngology– 
+Head and Neck Surgery 
+
+
+Volume 129 Number 5 
+
+By the 1950s, the morbidity of conventional 
+adenotonsillectomy came to be better understood 
+and attention to hemostasis was intensified.11 
+Electrocautery for control of tonsillar hemostasis 
+for tonsillar bleeding is first mentioned in 196212 
+and was initially used in conjunction with suction 
+for controlling bleeding after cold dissection. By 
+the 1980s, many surgeons had worked out a technique 
+using the guarded blunt electrocautery tip as 
+the primary instrument for the entire dissection. 
+With the advantage of short operative time and 
+minimal blood loss, the electrocautery dissection 
+technique is probably the most common method of 
+tonsillectomy in the United States today. However, 
+postoperative pain, which is thought to be 
+intensified by the thermal trauma of electrocautery, 
+and delayed postoperative hemorrhage remain 
+a problem, and the quest for improved techniques 
+of total tonsillectomy continue.13,14 
+
+Concurrent with the technical changes that have 
+occurred over the past 100 years of tonsillectomy 
+have been the changing indications. Although 
+much of the historical literature addresses the 
+problem of recurrent tonsillar infection, much of 
+the current concern revolves around the problem 
+of tonsillar hypertrophy resulting in obstructed 
+breathing during sleep. This raises the question 
+about the necessity of removing all of the tonsils 
+when only part of them is causing the obstruction. 
+Our experience and results suggest that the answer 
+to this question is no. 
+
+Clarification regarding the appropriate nomenclature 
+of our procedure requires some comment. 
+A guillotine tonsillotome performs a tonsillotomy, 
+which literally means a “hole or incision” in the 
+tonsil. We are doing something much more anatomic 
+and purposeful. Intracapsular tonsillar reduction 
+(we like the descriptive term “partial tonsillectomy”) 
+specifically addresses the source of 
+pharyngeal obstruction. At the same time, the operation 
+maintains some of the native tissues as a 
+surgical barrier and reduces the postoperative inflammation 
+in the pharyngeal muscles, resulting in 
+significantly less postoperative pain and a more 
+rapid recovery. 
+
+Another important aspect of partial tonsillectomy 
+is concern about tonsillar regrowth and subsequent 
+infection of the tonsillar remnant. Although 
+this has not so far been observed in this 
+
+KOLTAI et al 537 
+
+group of patients, historical evidence suggests that 
+eventually this will happen in some percentage of 
+cases.15 Our concern is not trivial and has been the 
+primary reason for considering chronic tonsillitis, 
+and even infrequent tonsillitis, as a contraindication 
+to partial tonsillectomy for now. We acknowledge 
+these problems and recognize that they will 
+be a cause of controversy. Nevertheless, today, 
+when most tonsillectomies in children are done for 
+hypertrophy, partial tonsillectomy relieves OSDB 
+as effectively as total tonsillectomy but with less 
+pain and perhaps a greater margin of safety. 
+
+We have continued to use the endoscopic microdebrider, 
+and thus far it seems to be the most 
+useful device for partial tonsillectomy, although it 
+is not ideal. None of the other techniques we have 
+tried, including the guillotine,16 electrocautery,17 
+CO2 laser,9,10 coblation,18 radiofrequency ablation,
+19 and the harmonic scalpel,14 provide nearly 
+as rapid, complete yet precise control in resecting 
+the tonsil without violating the capsule. One disadvantage 
+of the microdebrider is that it increases 
+the intraoperative blood loss, which can obscure 
+tissue specificity, especially in the deeper sections 
+of the tonsillar excavation, risking injury of the 
+pharyngeal musculature. This is preventable by 
+maintaining visual contact with the cutting tip of 
+the shaver blade, performing a layered resection 
+and intermittently using the suction cautery to 
+control excessive bleeders. 
+
+Other negative considerations include the cost 
+of the shaver blade, around $80, which increases 
+the expense of the procedure. On the other hand, 
+the same shaver blade may be used for both partial 
+tonsillectomy and power-assisted adenoidectomy. 
+Finally, microdebrider partial tonsillectomy takes 
+a few minutes longer to perform than total electrocautery 
+tonsillectomy, although the average difference 
+in an informal survey of 20 conservative 
+cases was only 3 minutes. 
+
+As with any retrospective study, we attempted 
+to control for factors other than surgical technique 
+that might have an impact on patient outcome. 
+However, our methodology using retrospective 
+chart reviews and unblinded telephone surveys 
+renders our results vulnerable to both recall bias 
+and survey bias. Moreover, our preoperative explanation 
+about the diminished postoperative pain 
+expected with partial tonsillectomy introduces in
+
+
+
+538 KOLTAI et al 
+
+formation bias, which weakens the power of our 
+results. A randomized trial will be an important 
+step in clarifying the superiority of partial versus 
+total tonsillectomy in all outcomes of interest. 
+
+CONCLUSION 
+
+We have revived an old style of tonsillar surgery, 
+partial tonsillectomy, using contemporary 
+technology in the form of an endoscopic microdebrider 
+for the management of tonsillar hypertrophy 
+causing OSDB in children. We have found the 
+technique safe and reliable and have shown that it 
+effectively relieves OSDB, but results in significantly 
+less postoperative pain and a more rapid 
+recovery compared with electrocautery dissection 
+total tonsillectomy. We have not had a problem of 
+tonsillar regrowth or subsequent chronic infection 
+of the tonsil remnants in any of the children thus 
+far treated. 
+
+The authors would like to acknowledge the assistance of 
+Scott Beam in preparation of the manuscript. 
+
+REFERENCES 
+
+1. Koltai PJ, Solares CA, Mascha EJ, et al. Intracapsular 
+“partial” tonsillectomy: for pediatric tonsillar hypertrophy. 
+Laryngoscope 2002;112:17-9. 
+2. Koltai PJ, Kalathia AS, Sanislaw P, et al. Power assisted 
+adenoidectomy. Arch Otolaryngol Head Neck Surg 1997; 
+123:685-8. 
+3. Moore I. The tonsils and adenoids and their diseases: 
+including the part they play in systemic diseases. London: 
+William Heinemann; 1928. p. 133. 
+4. Physick PS. Am J Med Sci 1828;1:262-5. 
+5. Koempel JA. On the origin of tonsillectomy and the 
+dissection method. Laryngoscope 2002;112:1583-6. 
+Otolaryngology– 
+Head and Neck Surgery 
+
+November 2003 
+
+6. Mauken GH. The surgical anatomy of the so-called capsule 
+of the facial tonsil. Trans Am Laryngol Assn 1915; 
+117-28. 
+7. Sluder G. Tonsillectomy by means of the alveolar eminence 
+of the mandible and a guillotine with a review of 
+the collateral issues. St Louis (MO): CV Mosby; 1923. p. 
+17-8. 
+8. Whillis SS, Pybus FC. The enucleation of tonsils with the 
+guillotine. Lancet 1910; September 17:875-8. 
+9. Linder A, Markstrom A, Hultcrantz E. Using the carbon 
+dioxide laser for tonsillotomy in children. Int J Pediatr 
+Otolaryngol 1999;50:31-6. 
+10. Hultcrantz E, Linder A, Markstrom A. Tonsillectomy or 
+tonsillotomy? a randomized study comparing postoperative 
+pain and long term effects. Int J Pediatr Otolaryngol 
+1999;51:171-6. 
+11. Committee on Deaths Associated with Anesthesia (T & 
+A). Anesthesia 1955;10:218-20. 
+12. Johnson F. Electrocautery in tonsil and adenoid surgery. 
+Arch Otolaryngol 1962;75:127-9. 
+13. Pizzuto MP, Brodsky L, Duffy L, et al. A comparison of 
+microbipolar cautery dissection to hot knife and cold 
+knife cautery tonsillectomy. Int J Pediatr Otolaryngol 
+2000;52:239-46. 
+14. Walker RA, Syed ZA. Harmonic scalpel tonsillectomy 
+versus electro-cautery tonsillectomy: a comparative pilot 
+study. Otolaryngol Head Neck Surg 2001;125:449-55. 
+15. Loeb HW. The susceptibility to infection manifested by 
+the remains of incompletely removed tonsils. Trans Am 
+Laryngol Assn 1917;88-101. 
+16. Homer JJ, Williams BT, Semple P, et al. Tonsillectomy 
+by guillotine is less painful than by dissection. Int J 
+Paediatr Otorhinolaryngol 2000;52:25-9. 
+17. Hall GM. Cautery tonsillectomy–saves time. Laryngoscope 
+1984;94:1381-2. 
+18. Temple RH, Timms MS. Pediatric coblation tonsillectomy. 
+Int J Pediatr Otolaryngol 2001;61:195-8. 
+19. Friedman M, Ibrahim H. Radiofrequency tonsil and adenoid 
+ablation. Oper Tech Otolaryngol Head Neck Surg 
+2001;12:196-8. 
+

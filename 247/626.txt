@@ -1,0 +1,606 @@
+Difficult Endotracheal Intubation in Patients with Sleep 
+Apnea Syndrome 
+
+Mohammad A. Siyam and Dan Benhamou 
+De´partement d’Anesthe´sie-Re´animation, Hoˆpital de Biceˆtre, Assistance Publique-Hoˆpitaux de Paris, Biceˆtre Cedex, France 
+
+Although sleep apnea syndrome (SAS) is common, 
+studies assessing the anesthetic management of these 
+patients are rare and consist mainly of case studies. 
+We performed a retrospective case-control study to 
+determine the incidence of difficult intubation in SAS 
+patients and to determine the relationship between 
+the severity of SAS and the occurrence of difficult intubation. 
+Among 113 patients included (36 and 77 in 
+the SAS and control groups, respectively), difficult 
+
+intubation occurred more often in SAS patients than 
+in controls (21.9% versus 2.6%, respectively; P . 
+0.05). No relationship was found between the severity 
+of SAS and the occurrence of difficult intubation. 
+Disappointingly, no single factor was associated with 
+the occurrence of difficult intubation in SAS patients. 
+We conclude that SAS is a risk factor for difficult 
+intubation. 
+
+(Anesth Analg 2002;95:1098 –102) 
+
+T
+T
+wo percent of women and 4% of men in the 
+middle-aged US workforce meet the minimal diagnostic 
+criteria for sleep apnea syndrome (SAS) 
+(1). Because 93% of women and 82% of men with 
+moderate to severe SAS have not been previously 
+diagnosed (2), many patients with undiagnosed SAS 
+undergo general or regional anesthesia. Nevertheless, 
+SAS studies that concern anesthesia are rare (3) and 
+consist mainly of case studies (4,5). One of the important 
+issues of anesthesia management in patients with 
+SAS is control of the upper airway. The concept of 
+difficult endotracheal intubation in these patients is 
+mostly derived from assumptions of anesthesia experts 
+(6,7) and from case studies (8). Hiremath et al. (9) 
+found a high prevalence of SAS in patients with difficult 
+intubation. Gentil et al. (10) studied a small 
+group of 18 patients undergoing ear, nose, and throat 
+(ENT) surgery and found a (9) frequent percentage of 
+difficult intubation (44%) in patients with SAS but also 
+a high prevalence of difficult intubation in the control 
+group. Moreover, the disease severity and the associated 
+diseases were not mentioned. Although there are 
+good theoretical grounds to suspect an association 
+between the severity of SAS and the occurrence of 
+difficult intubation, this remains speculative (11). 
+Thus, we designed this retrospective case-control 
+
+Accepted for publication June 14, 2002. 
+
+Address correspondence and reprint requests to Dan Benhamou, 
+De´partement d’Anesthe´sie-Re´animation, Hoˆpital de Biceˆtre, 94275 
+Le Kremlin-Biceˆtre Cedex, France. Address e-mail to 
+dan.benhamou@bct.ap-hop-paris.fr. 
+
+DOI: 10.1213/01.ANE.0000028094.89634.E5 
+
+study to assess the incidence of difficult intubation in 
+SAS patients, to assess the relationship between difficult 
+intubation and the severity of SAS, and to search 
+for any factor associated with difficult intubation in 
+patients with SAS. 
+
+Methods 
+
+This retrospective study took place in a university 
+teaching hospital between April 1999 and July 2001. 
+All patients with a polysomnography-confirmed diagnosis 
+of SAS who were undergoing surgery under 
+general anesthesia were included in the study after 
+approval by the Scientific Committee on Human 
+Studies. SAS severity was measured by the apneahypopnea 
+index (AHI), defined as the number of 
+apnea and hypopnea events per hour of sleep, and 
+the lowest oxygen saturation associated with an 
+abnormal respiratory event during sleep (LSAT). 
+For each SAS patient, the next two (or three when 
+possible) control patients from the same week’s list 
+were included in the study if they had the same sex, 
+similar age (10 yr), and were assigned to the same 
+type of surgery. Patients were divided into two types of 
+surgery: ENT and non-ENT surgery. Patients having any 
+of following criteria were excluded: history of snoring, 
+without a diagnostic polysomnography examination; 
+age 16 yr; emergency surgery; and history of a predicted 
+difficult intubation for other causes (temporomandibular 
+joint malformation, laryngeal tumor or 
+maxillary/mandibular injury in trauma patients). All 
+
+©2002 by the International Anesthesia Research Society 
+1098 Anesth Analg 2002;95:1098–102 0003-2999/02 
+
+
+ANESTH ANALG 
+2002;95:1098–102 
+
+patients who were not receiving general anesthesia with 
+tracheal intubation were also excluded. 
+
+The two groups were compared for factors previously 
+described as having an important relationship 
+with SAS in the perioperative period (7). These factors 
+included a history of smoking or excessive alcohol 
+intake; history of previous tracheal intubation; history 
+of arterial hypertension, right heart failure, pulmonary 
+artery hypertension, cardiac arrhythmia, or coronary 
+artery disease; and history of diabetes mellitus, depression, 
+or gastroesophageal reflux. Preoperative hemoglobin 
+(Hb) values were also compared. Difficult 
+intubation was anticipated when the preanesthetic assessment 
+performed by the anesthesiologist confirmed 
+that the patient had a Grade III or IV Mallampati 
+classification as modified by Samsoon and Young (12). 
+Other risk factors of difficult intubation, such as neck 
+extension, thyromental distance, and mouth opening, 
+were also assessed. Difficult intubation was assessed 
+by the anesthesiologist during laryngoscopy by using 
+the Cormack and Lehane classification (13) and was 
+defined as Grade III or IV, as well as the possibility of 
+postextubation obstruction of the upper airway. Data 
+pertaining to the stay in the postanesthesia care unit 
+(PACU) were recorded: oxygen saturation on arrival, 
+the minimal oxygen saturation, the need for morphine, 
+the respiratory treatment applied (oxygen supplementation, 
+nasal continuous positive airway pressure, 
+and tracheal intubation), the length of stay in the 
+PACU, and the occurrence of complications. 
+
+The sample size was calculated postulating that difficult 
+intubation may occur in up to 1% of general-
+surgery patients (including ENT surgery) and in 20% 
+of SAS patients. Considering a one-sided test with . 
+at 
+
+0.05 and . 
+at 0.2, 32 patients were necessary to show a 
+significant difference between SAS and control patients 
+(http://www.statistics.com). 
+Data are presented as mean . 
+sd or percentage 
+when needed. Student’s t-tests, the Mann-Whitney 
+U-test, and the 2 test were used to compare the two 
+groups. P . 
+0.05 was defined as statistically significant. 
+
+Results 
+
+Among 113 patients (12 women and 101 men) included, 
+36 and 77 patients were in the SAS and control 
+groups, respectively. Three women and 33 men with 
+SAS were included. Age varied from 16 to 82 yr. The 
+general characteristics of the two groups are shown in 
+Table 1. The AHI was 41.7 . 
+22.1, and LSAT was 
+65.9% . 
+18.1%. SAS surgery included bilateral turbinectomy, 
+tonsillectomy, septoplasty, and uvulopalatopharyngoplasty. 
+These procedures were often combined. 
+In the preoperative period, no significant 
+difference was found between the two groups for 
+history of smoking, excessive alcohol intake, or previous 
+tracheal intubation. Control group patients were 
+
+SIYAM AND BENHAMOU 1099 
+SLEEP APNEA AND ANESTHESIA 
+
+more often classified as ASA status I than SAS patients. 
+Arterial hypertension was more frequently encountered 
+in SAS patients than in controls. Moreover, 
+although this was not statistically significant, patients 
+with SAS more frequently had right heart failure, coronary 
+artery disease, and pulmonary artery hypertension 
+and were more likely to have cardiac arrhythmias. 
+Also, preoperative Hb values were significantly 
+higher in SAS compared with control patients. Difficult 
+intubation was more often anticipated and occurred 
+more often in SAS patients compared with 
+controls (Table 2, Figs. 1 and 2). The incidence of 
+difficult intubation was not more frequent in patients 
+operated on for SAS than in SAS patients undergoing 
+surgery unrelated to SAS (18% versus 30%, respectively; 
+not significant). For all patients, the anticipation 
+of difficult intubation was significantly related to 
+weight, body mass index (BMI), and difficult intubation 
+(Table 3). This was not true in SAS patients. In 
+SAS patients in whom difficult intubation was found, 
+modified Mallampati class, BMI, AHI, and LSAT were 
+not different from values obtained in SAS patients 
+who underwent easy intubation (Table 4). This was 
+also true for risk factors of difficult intubation (data 
+not mentioned). In the PACU, oxygen saturation on 
+arrival and morphine consumption were not different 
+between the two groups (Table 2). However, in SAS 
+patients the lowest arterial oxygen saturation was 
+lower than in controls. SAS patients required respiratory 
+treatment more often than control patients. SAS 
+patients had more complications than control patients. 
+All complications (mainly hypertension-related bleeding 
+at the surgical site) occurred in the first hours of 
+their PACU stay. Nevertheless, no life-threatening 
+complication was noted. 
+
+Discussion 
+
+This study has mainly shown that, when compared 
+with patients matched for sex, age, and surgery, patients 
+with SAS exhibit preoperative cardiac disease 
+more often and present with a more frequent incidence 
+of difficult intubation and with postoperative 
+oxygen desaturation in their PACU stay, requiring 
+oxygen. Interpretation of these significant differences 
+must be tempered by the retrospective nature of the 
+analysis. 
+
+Many studies have demonstrated the relationship 
+between arterial hypertension and the AHI (14,15). It 
+is thus not surprising that, in our SAS patients, arterial 
+hypertension was more prevalent than in control patients. 
+Although the prevalence of arterial hypertension 
+in our patients was slightly more frequent than in 
+a standard SAS population (20%–40%) (15), this was 
+related to a high AHI. Also, the prevalence of arterial 
+hypertension was more frequent in the control group 
+
+
+1100 
+SIYAM AND BENHAMOU ANESTH ANALG 
+SLEEP APNEA AND ANESTHESIA 2002;95:1098–102 
+
+Table 1. Preoperative and Intraoperative Characteristics of Control Patients and Patients with Sleep Apnea Syndrome 
+(SAS) 
+
+SAS Control 
+Variable (n . 
+36) (n . 
+77) P value 
+Age (yr) 54.8 . 
+13.2 53.7 . 
+12.7 NS 
+Male sex (%) 92 88 NS 
+Height (m) 1.72 . 
+0.07 1.71 . 
+0.08 NS 
+Weight (kg) 
+BMI (kg/m2) 
+89.6 . 
+13.7 
+29.7 . 
+4.4 
+76.3 . 
+14.5 
+25.8 . 
+4.7 
+0.0001 
+0.0001 
+Smoking (%) 26 30 NS 
+Alcoholism (%) 15 10 NS 
+History of previous tracheal intubation (%) 65 65 NS 
+Arterial hypertension (%) 50 23 0.009 
+PAH or RHF (%) 11 3 NS 
+Arrhythmia (%) 11 1 0.06 
+Coronary artery disease (%) 17 5 NS 
+ASA I physical status (%)a 22 43 0.03 
+Hb 14 g/dL (%) 75 44 0.01 
+ENT surgery (%) 67 47 NS 
+Duration of anesthesia (min) 147.6 . 
+79.8 159 . 
+98.5 NS 
+Duration of surgery (min) 112.3 . 
+68.5 117 . 
+90 NS 
+
+BMI . 
+body mass index; PAH . 
+pulmonary hypertension; RHF . 
+right heart failure; Hb . 
+hemoglobin; ENT . 
+ear, nose, and throat; NS . 
+not significant. 
+Results are presented as mean . 
+sd or %. 
+a Sleep apnea syndrome itself was not taken into account in the ASA classification. Only associated diseases were susceptible to modify ASA classification. 
+
+
+Table 2. Characteristics of Difficult Endotracheal Intubation and Postoperative Events in Sleep Apnea Syndrome (SAS) 
+and Control Patients 
+
+Variable 
+SAS Control P value 
+
+Difficult intubation anticipated (%) 53 5 0.0001 
+Difficult intubation (%) 21.9 2.6 0.003 
+Postoperative events 
+
+Sao2 on arrival in the PACU (%) 96.8 . 
+2.4 97.1 . 
+2.6 NS 
+Minimal Sao2 in the PACU (%) 95.6 . 
+2 96.6 . 
+1.8 0.03 
+Duration of PACU stay (min) 1560 . 
+530 294 . 
+515 0.0001 
+Use of morphine (%) 44.4 40 NS 
+No respiratory treatment (%) 2.7 20 0.001 
+Complications (%) 8.3 0 0.0001 
+
+PACU . 
+postanesthesia care unit; Sao2 . 
+oxygen saturation of hemoglobin; NS . 
+not significant. 
+Data are mean . 
+sd or %. 
+
+than in a similar population (3%–5%) (15). Many studies 
+have also shown that patients with SAS are more 
+likely to present with diabetes mellitus (16), depression 
+(17), or gastroesophageal reflux (18). It is thus not 
+surprising that only 33% of our SAS group had none 
+of these diseases and that only 22% of patients with 
+SAS were classified as ASA status I. Because apnea-
+induced hypoxemia during sleep stimulates erythropoietin 
+production from the kidneys (7), Hb values 
+were more than in control patients. 
+
+The prevalence of difficult intubation in our control 
+group was more frequent than in a standard population. 
+This is probably related to the large percentage of 
+ENT surgery. Hiremath et al. (9) found that in 8 of 
+their 15 patients with difficult intubation, SAS was 
+diagnosed. The relationship between difficult intubation 
+and SAS was strong enough to make the authors 
+believe that “All patients who have a trachea that is 
+difficult to intubate should be regarded as having SAS 
+
+until excluded by clinical features and, where doubt 
+exists, sleep studies.” All patients with SAS should be 
+regarded as having a high risk of difficult intubation. 
+Several factors account for this increased risk. Obesity 
+is significantly related to difficult intubation (19,20), 
+and SAS patients present with a significantly greater 
+BMI. Diabetes mellitus also increases the risk of difficult 
+intubation (21) and is more frequently encountered 
+in SAS patients. Finally, SAS patients frequently 
+present with abnormal facial and upper airway morphology 
+(retrognathia, short and thick neck, large 
+tongue) well known to be associated with an increased 
+risk of difficult intubation. In the letter of Gentil et al. 
+(10), 18 patients operated for SAS were studied. The 
+authors did not mention the associated diseases found 
+in their patients and did not study the relationship 
+between difficult intubation and the severity of SAS. 
+Moreover, patients operated on for conditions unrelated 
+to SAS were not included. Obese SAS patients 
+
+
+ANESTH ANALG 
+2002;95:1098–102 
+
+Figure 1. Distribution between sleep apnea syndrome (SAS) and 
+control patients for modified Mallampati classification (P 0.0001) 
+
+
+Figure 2. Distribution between sleep apnea syndrome (SAS) and 
+control patients for Cormack and Lehane classification (P 0.003) 
+
+
+often have an excess of pharyngeal tissue deposited 
+mainly in the pharyngeal lateral walls. Theoretically, 
+the larger the amount of pharyngeal tissue, the higher 
+the AHI and the lesser the LSAT, and thus the greater 
+modified Mallampati and Cormack and Lehane 
+scores. There was, however, no clear relationship 
+among BMI, AHI, LSAT, modified Mallampati score, 
+or Cormack and Lehane score in this study. Moreover, 
+we found that patients operated on for SAS did not 
+present an increased risk of difficult intubation when 
+compared with those with SAS operated on for unrelated 
+indications. We also demonstrated that the severity 
+of the underlying disease is not correlated with 
+a proportionately increased risk of difficult intubation. 
+SAS thus appears to be a factor for difficult intubation. 
+It is disappointing that no preoperative factor obtained 
+in a routine preoperative assessment was associated 
+with difficult intubation in patients with SAS. 
+Further studies are needed to explore this issue. 
+
+SIYAM AND BENHAMOU 1101 
+
+SLEEP APNEA AND ANESTHESIA 
+
+Table 3. Difference Between Patients With and Without 
+Anticipated Difficult Endotracheal Intubation 
+
+Patients Patients 
+with without 
+anticipated 
+difficult 
+anticipated 
+difficult P 
+Variable intubation intubation value 
+Weight (kg) 
+BMI (kg/m2) 
+Difficult intubation (%) 
+87.9 . 
+16.5 
+29.5 . 
+5.5 
+23.8 
+78.5 . 
+14.6 
+26.5 . 
+4.5 
+4.7 
+0.008 
+0.014 
+0.018 
+
+BMI . 
+body mass index. 
+Data are mean . 
+sd. 
+
+
+Table 4. Demographics of Sleep Apnea Syndrome (SAS) 
+Patients With and Without Difficult Endotracheal 
+Intubation 
+
+SAS patients SAS patients 
+with difficult without difficult 
+Variable intubation intubation 
+
+Age (yr) 59 . 
+10 54 . 
+14 
+Height (m) 1.72 . 
+0.08 1.72 . 
+0.08 
+Weight (kg) 88 . 
+13 89 . 
+14 
+BMI (kg/m2) 29.5 . 
+3.7 29.8 . 
+4.7 
+ASA I class (%) 28 20 
+Hb 14 g/dL (%) 40 82 
+Mallampati Class 3–4 (%) 57 48 
+AHI 37 . 
+28 43 . 
+20 
+LSAT (%) 63 . 
+23 67 . 
+16 
+Length of stay in PACU 1440 . 
+0 1589 . 
+589 
+
+(min) 
+Minimal oxygen saturation 96 . 
+2 96 . 
+2 
+in the PACU 
+Oxygen saturation at 96 . 
+2 97 . 
+3 
+arrival in the PACU (%) 
+No respiratory treatment in 0 3 
+the PACU (%) 
+
+BMI . 
+body mass index; AHI . 
+apnea-hypopnea index; LSAT . 
+lowest 
+oxygen saturation associated with an abnormal respiratory event during 
+sleep; PACU . 
+postoperative anesthesia care unit; Hb . 
+hemoglobin. 
+
+Data are mean . 
+sd or %. 
+
+In the postoperative period, patients with SAS spent 
+more time in the PACU than did controls. This can be 
+explained by our hospital policy to maintain SAS patients 
+in PACU for one night, especially if they need 
+opioids for postoperative analgesia, although this is 
+controversial, with several authors questioning the 
+usefulness of systematic admission of SAS patients for 
+the first postoperative night in the PACU (22–24). This 
+policy is supported by the fact that oxygen desaturation 
+occurs more frequently in the postoperative period 
+in SAS patients, and 97% of our SAS patients 
+required respiratory treatment in the first night after 
+surgery. More complications occurred in our SAS 
+group, although life-threatening complications were 
+not seen. Several authors have mentioned that the risk 
+of upper airway obstruction after extubation is increased 
+in SAS patients (25), especially after uvulopalatopharyngoplasty 
+surgery (26). However, no patient 
+
+
+1102 SIYAM AND BENHAMOU 
+
+SLEEP APNEA AND ANESTHESIA 
+
+in this study experienced postextubation obstruction of 
+upper airway. Further studies are needed to determine 
+the postoperative management of SAS patients. Our 
+study also emphasizes how important it is to maintain 
+arterial blood pressure in the normal range in SAS patients 
+(22), because a significant proportion of immediate 
+postoperative complications were arterial hypertension-
+related hemorrhage. 
+
+In conclusion, our study demonstrated that SAS is a 
+factor for difficult intubation. The associated diseases 
+often seen in these patients require careful attention in 
+the perioperative period. 
+
+References 
+
+1. Young T, Palta M, Dempsey J, et al. The occurrence of sleep-
+disordered breathing among middle-aged adults. N Engl J Med 
+1993;328:1230–5. 
+2. Young T, Evans L, Finn L, Palta M. Estimation of clinically 
+diagnosed proportion of sleep apnea syndrome in middle-aged 
+men and women. Sleep 1997;20:705–6. 
+3. Hendolin H, Kansenen M, Koski E, Nuutinen J. Propofol-nitrous 
+oxide versus thiopentone-isoflurane-nitrous oxide anaesthesia 
+for uvulopalatopharyngoplasty in patients with sleep apnea. 
+Acta Anaesthesiol Scand 1994;38:694 –8. 
+4. Ostermeier AM, Roizen MF, Hautkappe M, et al. Three sudden 
+postoperative respiratory arrests associated with epidural opioids 
+in patients with sleep apnea. Anesth Analg 1997;85:452–60. 
+5. VanDerger DH, 
+Martinez AP, De Lisser EA. Sleep apnea 
+syndromes: a potential contraindication for patient-controlled 
+analgesia. Anesthesiology 1991;74:623–4. 
+6. Connolly LA. Anesthetic management of obstructive sleep apnea 
+patients. J Clin Anesth 1991;3:461–9. 
+7. Boushra NN. Anesthetic management of patients with sleep 
+apnea syndrome. Can J Anaesth 1996;43:599 –616. 
+8. Biro P, Kaplan V, Bloch KE. Anesthetic management of a patient 
+with obstructive sleep apnea syndrome and difficult airway 
+access. J Clin Anesth 1995;7:417–21. 
+9. Hiremath AS, Hillman DR, James AL, et al. Relationship between 
+difficult tracheal intubation and obstructive sleep apnoea. 
+Br J Anaesth 1998;80:606 –11. 
+ANESTH ANALG 
+2002;95:1098–102 
+
+10. Gentil B, De Larminat JM, Boucherez C, Lienhart A. Difficult 
+intubation and sleep apnoea syndrome. Br J Anaesth 1994;72: 
+368. 
+11. Loadsman JA, Hillman DR. Anaesthesia and sleep apnoea. Br J 
+Anaesth 2001;86:254 –66. 
+12. Samsoon GLT, Young JRB. Difficult tracheal intubation: a retrospective 
+study. Anaesthesia 1987;42:487–90. 
+13. Cormack RS, Lehane J. Difficult tracheal intubation in obstetrics. 
+Anaesthesia 1984;39:1105–11. 
+14. Lavie P, Herer P, Hoffstein V. Obstructive sleep apnoea syndrome 
+as a risk factor for hypertension: population study. BMJ 
+2000;320:479–82. 
+15. Peppard PE, Young T, Palta M, Skatrud J. Prospective study of 
+association between sleep-disordered breathing and hypertension. 
+N Engl J Med 2000;342:1378 –84. 
+16. Strohl KP. Diabetes and sleep apnea. Sleep 1996;19(10 Suppl): 
+S225–8. 
+17. Pillar 
+G, Lavie P. Psychiatric symptoms in sleep apnea 
+syndrome: effects of gender and respiratory disturbance index. 
+Chest 1998;114:697–703. 
+18. Ing AJ, Ngu MC, Breslin AB. Obstructive sleep apnea and 
+gastroesophageal reflux. Am J Med 2000;108(Suppl 4):120S–5. 
+19. Rose DK, Cohen MM. The airway: problems and prediction in 
+18,500 patients. Can J Anaesth 1994;41:372–83. 
+20. Wilson ME, Spiegelhalter D, Robertson JA, Lesser P. Predicting 
+difficult intubation. Br J Anaesth 1988;22:969 –73. 
+21. Reissel E, Orko R, Maunuksela E-L, Lindgren L. Predictability of 
+difficult laryngoscopy in patients with long-term diabetes mellitus. 
+Anaesthesia 1990;45:1024 –7. 
+22. Terris DJ, Fincher EF, Hanasono MM, et al. Conservation of 
+resources: indications for intensive care monitoring after upper 
+airway surgery on patients with obstructive sleep apnea. Laryngoscope 
+1998;108:784 –8. 
+23. Mickelson AS, Hakim I. Is postoperative intensive care monitoring 
+necessary after uvulopalatopharyngoplasty? Otolaryngol 
+Head Neck Surg 1998;119:352–6. 
+24. Ulnick KM, Debo RF. Postoperative treatment of the patient 
+with obstructive sleep apnea. Otolaryngol Head Neck Surg 
+2000;122:233–6. 
+25. Kadota Y, Imabayashi T, Gushiken T, et al. Pulmonary edema 
+due to acute airway obstruction immediately after tracheal extubation 
+[in Japanese]. Masui 1998;47:1333–7. 
+26. Gabrielczyk MR. Acute airway obstruction after uvulopalatopharyngoplasty 
+for obstructive sleep apnea syndrome. Anesthesiology 
+1988;69:941–3. 
+

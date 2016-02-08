@@ -1,0 +1,896 @@
+ORIGINAL ARTICLES 
+Metabolic correlates with obstructive sleep apnea 
+in obese subjects 
+
+Roland C. de la Eva, MD, DPPS, Louise A. Baur, MBBS, BSc (Med), PhD, FRACP, 
+Kim C. Donaghue, MBBS, PhD, FRACP, and Karen A. Waters, MBBS, PhD, FRACP 
+
+Objective: To examine links between obstructive sleep apnea (OSA), insulin 
+
+resistance, and dyslipidemia. 
+Study design: Obese (body mass index [BMI] >95th percentile for age and 
+gender) children who snored (n = 62, 46 males, age 10.89 [5-16 years] underwent 
+polysomnography and metabolic studies. 
+
+
+Results: Respiratory disturbance index (RDI) was 9.23 (0-95), with 23 children 
+(39%) recommended for treatment. Fasting insulin levels were 154.6 
+pmol/L ± 79.8 (52-486), and fasting glucose levels were high in 7 children 
+(11%). Fasting insulin levels correlated with sleep variables, including log 
+transformed RDI (log10RDI) (P = .01), desaturation events (P = .05), arousal 
+index (P = .01), and sleep-time with oxygen saturation in arterial blood <90% 
+(P = .03) (adjusted r2 = 0.21, F = 3.9, P = .005), but not with age, or BMI Z 
+score. Log10RDI correlated with fasting insulin (P = .001) and BMI Z score (P 
+= .03) (adjusted r2 = 0.12, F = 3.9, P = .005), but not age or other metabolic variables. 
+The correlation between log10RDI and fasting insulin persisted in models 
+combining sleep and metabolic variables: log10RDI, adjusted r2 = 0.75, F = 
+35.2, P < .001, and for fasting insulin, adjusted r2 = 0.42, F = 6.1, and P < .001. 
+
+
+Conclusions: The severity of OSA (log10RDI) correlated with fasting insulin 
+levels, independent of BMI. Insulin levels may be further elevated as a consequence 
+of OSA in obese children. (J Pediatr 2002;140:654-9) 
+
+
+The prevalence of childhood and ado-ronmental changes.1-3 Obesity in childlescent 
+obesity has increased dramati-hood is associated with significant medcally 
+throughout the past few decades, ical and psychosocial morbidity and an 
+presumably as a result of major envi-increased risk for the development of 
+
+From Sleep Disorders Unit, Ray Williams Institute of Pediatric Endocrinology, Diabetes and Metabolism, The Childrens’ 
+Hospital, Westmead, and Departments of Paediatrics and Child Health and Medicine, University of Sydney, 
+Australia. 
+
+Supported by the Children’s Hospital Fund and by an Astra Australian Lung Foundation Career 
+Development Award (to K. A. W.). 
+
+Submitted for publication July 20, 2001; revision received Nov 7, 2001; accepted Feb 1, 2002. 
+Reprint requests: Karen A. Waters, MD, Dept of Respiratory Medicine, The Children’s Hospital 
+at Westmead, Locked Bag 4001, Westmead, NSW 2145, Australia. 
+
+Copyright © 2002, Mosby, Inc. All rights reserved. 
+0022-3476/2002/$35.00 + 0 9/21/123765 
+doi:10.1067/mpd.2002.123765 
+
+cardiovascular and related diseases in 
+later life.4,5 Obesity in adults is closely 
+linked to a number of diseases that 
+
+See editorial, p 641. 
+
+cause significant morbidity and mortality, 
+including type 2 diabetes mellitus, ischemic 
+heart disease, hypertension, and 
+dyslipidemia (specifically hypertriglyceridemia 
+and low levels of high density 
+lipoprotein [HDL] cholesterol). This 
+cluster of diseases has been termed “the 
+metabolic syndrome” with insulin resistance, 
+or the relative failure of insulin 
+action being a hallmark of the disorder.
+6,7 In childhood and adolescence, insulin 
+resistance as indicated by the 
+presence of hyperinsulinemia, appears 
+to precede the development of a potentially 
+atherogenic risk factor profile that 
+
+BMI Body mass index 
+ECG Electrocardiogram 
+EEG Electroencephalogram 
+EMG Electromyogram 
+HDL High-density lipoprotein 
+log10RDI Log transformed RDI 
+OSA Obstructive sleep apnea 
+RDI Respiratory disturbance index 
+REM Rapid-eye movement 
+SaO2 Oxygen saturation in arterial blood 
+includes low HDL cholesterol, hypertriglyceridemia, 
+and hypertension.8,9 
+
+Epidemiologic evidence has shown a 
+link between obstructive sleep apnea 
+(OSA) and insulin resistance in 
+adults.10,11 High fasting insulin levels 
+occur in the majority of adult patients 
+with moderate-to-severe OSA.10 In 
+adults, OSA is associated with an 
+increased risk for cardiovascular mor
+
+
+
+THE JOURNAL OF PEDIATRICS 
+VOLUME 140, NUMBER 6 
+
+bidity and mortality.11 A popular hypothesis 
+is that hypoxia leads to an increased 
+sympathetic neural discharge 
+and, thus, to insulin resistance.12 Evidence 
+has been accumulating to support 
+this hypothesis, including associations 
+between OSA and increased plasma cat-
+echolamines,13-15 elevated cortisol levels,
+16 increased insulin levels,17,18 and 
+dyslipidemia.18,19 
+
+We hypothesized that the link between 
+OSA and insulin resistance commences 
+in childhood. To test whether 
+obese children with OSA have insulin 
+resistance and metabolic derangement, 
+overnight sleep studies were undertaken 
+with concurrent metabolic evaluation in 
+obese children who snored. We found 
+that the severity of OSA was linked to 
+fasting insulin levels, and therefore, disturbance 
+in the insulin-glucose axis. 
+
+PATIENTS AND 
+METHODS 
+
+Obese children with a history of snoring 
+were eligible for the study. Obesity 
+was defined as a body mass index (BMI; 
+weight/height2) >95th percentile for age 
+and sex reference values.20 Children 
+were excluded from the study if they had 
+an intercurrent respiratory tract infection, 
+a neuromuscular disorder, or they 
+were being treated with anticonvulsant 
+or sedative medication. Children were 
+recruited from a range of hospitals and 
+private clinics, as well as primary referrals 
+to the 2 major pediatric hospitals in 
+Sydney (Sleep Units of the Children’s 
+Hospital at Westmead and the Sydney 
+Children’s Hospital). The studies were 
+conducted in the Sleep Unit at Children’s 
+Hospital at Westmead. 
+
+A comprehensive physical examination 
+was performed on all patients. 
+During a single overnight hospitalization, 
+a sleep study was performed, and 
+anthropometric measurements and a 
+fasting blood sample were taken. The 
+study had institutional ethics committee 
+approval, and the parents of each child 
+gave written consent before the study. 
+
+DE LA EVA ETAL 
+
+Table I. Characteristics of the study population 
+
+Mean ± SD Range 
+Age (y) 10.89 ± 3.14 5–16 
+Males, n (%) 46 (74%) 
+Weight (kg) 72.6 ± 29.4 26.5–150.0 
+Height (cm) 150.6 ± 19.7 104–200 
+Height (percentile) 74.6 ± 29.0 4–100 
+BMI (kg/m2) 31.2 ± 7.0 19.7–54.8 
+BMI (Z score) 3.5 ±1.9 1.7–11.8 
+
+Table II. Sleep study results for the study population 
+
+Mean ± SD Range 
+
+RDI 9.1 ± 16.2 0-95.4 
+
+ORDI 4.1 ± 11.1 0-60.3 
+
+Central apnea index 1.3 ± 2.4 0-15.5 
+
+Duration apnea/hypopnea (sec) 17.2 ± 8.6 0-44 
+
+Desaturation % 3.3 ± 2.0 0-13 
+
+Arousal index 10.6 ± 8.1 0-54.4 
+
+%SaO2 >96 77.3 ± 29.2 0-106.4 
+
+%SaO2 91-95 19.3 ± 26.8 0-95.4 
+
+%SaO2 86-90 1.2 ± 6.1 0-47.1 
+
+%SaO2 <86 0.6 ± 1.5 0-7.4 
+
+Highest TcCO2 (mm Hg) 48.6 ± 6.5 36-66 
+
+Sleep efficiency (%) 73.7 ± 15.1 33-97.3 
+
+ORDI, Obstructive respiratory disturbance index. This correlated strongly with the total RDI 
+(Pearson correlation coefficient 0.82, P < .001), so RDI was used in the final analysis. 
+
+Anthropometry digital data acquisition system (Com-
+
+Anthropometric measurements were pumedics, Melbourne, Australia) and 
+made by using standardized techniques. later analyzed for sleep and respiratory 
+Standing stretched height to the nearest variables. A minimum of 5 channels was 
+
+0.1 cm was measured using a Harpen-included for sleep staging, and 7 
+den stadiometer (Holtain Ltd, Crym-channels for respiratory analysis. Sleep 
+mych, Dyfed, Wales). Body weight to staging channels included electroenthe 
+nearest 0.01 kg in light clothing was cephalogram (EEG; C3/A2 O1/A2), 
+measured using digital scales. BMI was electro-oculogram and submental eleccalculated 
+as weight/height2 (kg/m2). tromyogram (EMG). Respiratory vari-
+Height, weight, and BMI values were ables included abdominal and thoracic 
+compared with US reference val-effort by inductance plethysmography 
+ues.20,21 Because of the large age-range (uncalibrated Respitrace, Ambulatory 
+of children, anthropometric measure-Monitoring Inc, Ardsley, NY), airflow 
+ments were expressed as positive stan-by a nasal cannula connected to a presdard 
+deviation (Z scores) above the sure transducer and diaphragm EMG 
+mean for age and gender.22 by cutaneous electrodes. Ventilatory 
+status was evaluated using oxygen satu-
+Sleep Studies ration in arterial blood (SaO2 by a finger 
+
+A single overnight sleep study was probe, Ohmeda Biox 3700e Pulse 
+undertaken for each child under condi-Oximeter, Louisville, Colo) and trantions 
+that approximated his/her usual scutaneous carbon dioxide (TcCO2, 
+sleep habits. Data were recorded on a Radiometer, Copenhagen, Denmark). 
+
+
+DE LA EVA ET AL THE JOURNAL OF PEDIATRICS 
+JUNE 2002 
+
+Table III. Regression model explaining fasting insulin levels of obese children 
+
+Fasting insulin 
+Adjusted r2 = 0.42 
+
+Standardized 
+Variable Pt coefficient (ß) 
+
+Subject Age (y) .02 2.40 0.26 
+BMI (kg/m2) — — — 
+Sleep parameters Log10RDI 
+Arousal Ix (hr–1) 
+.02 
+.007 
+2.44 
+–2.80 
+0.45 
+–0.52 
+Time <90% (min) .03 2.20 0.41 
+SaO2 min (%) .09 1.73 0.27 
+Metabolic parameters Glucose (mmol/L) .002 3.27 0.36 
+
+Triglyceride (mmol/L) .07 1.82 0.20 
+
+Arousal Ix, Arousal index or number of arousals per hour of sleep time; time <90%, total sleep time 
+spent with a saturation <90%; SaO2 min, minimum oxygen saturation recorded. 
+
+Table IV. Regression model explaining respiratory disturbance index of obese children 
+
+Log10RDI 
+Adjusted R2 = 0.75 
+
+Standardized 
+Variable Pt coefficient ß 
+
+Subject 
+Sleep parameters 
+Age (y) 
+BMI (kg/m2) 
+Arousal Ix (hr-1) 
+— 
+— 
+<.001 
+— 
+— 
+5.36 
+— 
+— 
+0.46 
+SaO2 min (%) <.001 –4.76 –0.37 
+CO2 rise (mm Hg) .003 3.06 0.25 
+Metabolic parameters Fasting insulin .001 3.06 0.24 
+
+Arousal Ix, Arousal index or number of arousals per hour of sleep time; SaO2 min, minimum saturation 
+recorded; CO2 rise, rise in CO2 from wake to sleep maximum. 
+
+An electrocardiogram (ECG) using 
+chest leads was always included. 
+
+Analysis of Sleep Studies 
+
+Sleep studies were analyzed by one 
+of the principal investigators (R. C. E. 
+or K. A. W.). Sleep stages were assigned 
+with the criteria of Rechtschaffen 
+and Kales.23 Respiratory events 
+were defined by a fall in baseline amplitude 
+of the airflow signal. An apnea 
+was marked when airflow amplitude 
+was =20% of the baseline, and hypopnea 
+when amplitude was 20% to 60% 
+of the baseline. Respiratory events 
+were designated obstructive if respiratory 
+efforts persisted on diaphragm 
+EMG and/or chest and abdominal 
+
+movements, or central if there were 
+no respiratory efforts. Respiratory 
+events were considered significant if 
+they were of at least 2 respiratory cycles 
+duration (based on the respiratory 
+rate of the preceding minute) and 
+terminated by an arousal and/or de-
+saturation of =3%.24 Respiratory disturbance 
+index (RDI) was defined as 
+the number of respiratory events per 
+hour of sleep time, calculated as (total 
+number of central and obstructive apneas 
++ hypopneas)/total sleep time in 
+minutes  60. 
+
+Two types of arousal were defined 
+for the use in this study: “full EEG 
+arousal” and “movement arousal.” A 
+full EEG arousal was defined as a 
+
+marked increase in EEG frequency or 
+amplitude for >1 second, associated 
+with an increase in submental EMG 
+tone and a marked variability in respiratory 
+efforts and nasal airflow. A 
+movement arousal was defined as a 
+large change in =2 independent channels 
+(eg, the EMGs and respiratory 
+effort channels) without EEG disturbance 
+for >1 second.25 Parameters for 
+TcCO2 included range (the difference 
+between a stable baseline during 
+wakefulness and peak levels in sleep), 
+peak and average for rapid-eye movement 
+(REM) and non-REM sleep. 
+SaO2 parameters included maximum, 
+minimum, and average. Sleep efficiency 
+refers to the percentage of the total 
+recording time spent asleep. Respiratory 
+disturbance index (RDI) was defined 
+as the number of respiratory 
+events per hour of sleep time. 
+
+Metabolic Studies 
+
+On the night of the sleep study, patients 
+fasted from 12 AM until the 
+blood collection at 6 AM the following 
+day. Plasma levels of glucose, insulin, 
+cholesterol (HDL and total) and 
+triglycerides were analyzed in the Department 
+of Biochemistry and the 
+Ray Williams Institute of Paediatric 
+Endocrinology at the Children’s Hospital 
+of Westmead. Lipid and glucose 
+profiles were measured on a Beckman 
+CX5 high performance liquid chromatography 
+automated analyzer (Beckman 
+Instruments Inc, Fullerton, 
+Calif). Glucose concentrations were 
+measured using the glucose oxidase 
+method. Total cholesterol and triglyceride 
+levels were analyzed using 
+standard enzymatic colorimetric procedures. 
+HDL cholesterol was measured 
+after precipitation of other 
+lipoproteins using PEG 6000, a 
+method for lipid quantification. Plasma 
+specimens for insulin determination 
+were frozen within 2 hours of 
+collection and stored at –20°C until 
+they were assayed. All samples were 
+assayed in duplicate within 2 weeks of 
+collection. The insulin levels were de
+
+
+
+THE JOURNAL OF PEDIATRICS 
+VOLUME 140, NUMBER 6 
+
+termined using the Linco Human Insulin 
+Specific Radioimmunoassy Kit 
+(Linco Research, Inc, St Charles, 
+Mo). Interassay coefficients of variation 
+for quality controls were 8.2% at 
+64 pmol/L, 8.0% at 249 pmol/L, and 
+6.8% at 752 pmol/L. Samples were reanalyzed 
+if the coefficient of variation 
+of the duplicates was >10%. 
+
+Statistical Analysis 
+
+Data were analysed using SPSS for 
+Windows version 9.0 (SPSS Inc, 
+Chicago, Ill). Results are presented as 
+mean ± SD unless otherwise stated. 
+RDI was log-transformed to correct 
+for skewed distribution. Backward, 
+stepwise multiple regression was used 
+to develop models that predicted the 
+major determinants of the RDI and 
+fasting insulin levels. Age and BMI Z 
+scores were initially included in each 
+multiple regression analysis. A P value 
+of < .05 was considered statistically significant. 
+
+
+RESULTS 
+
+Patient Characteristics 
+
+Obese children (n = 62, 46 males) 
+aged 5 years to 16 years (mean ± SD, 
+
+10.9 ± 3.2) were recruited (Table I). 
+The mean Z score for the BMI was 3.48 
+± 1.88 kg/m2 (range, 1.7-11.8) indicating 
+morbid obesity in the majority. 
+Mean fasting insulin levels on the 
+morning after the sleep study were 
+
+154.6 ± 79.8 pmol/L (range, 52-486). 
+Mean plasma glucose level was 4.94 ± 
+0.61 mmol/L, and fasting glucose was 
+elevated in 7 children (11%). There was 
+a wide variation in RDI values for the 
+patients, with a median RDI of 3.4 hr–1 
+(range, 0-95.4). The mean sleep efficiency 
+was 73.7% ± 15.1%. The mean 
+arousal index was not elevated for our 
+laboratory at 10.6 hours ± 8.1 hours–1. 
+The average desaturation with respiratory 
+events was 3.3% ± 2.0%. Respiratory 
+events occurred most commonly 
+during REM sleep, (median RDI in 
+REM sleep, 4.3 hr–1), and at wake-
+sleep transition (stages 1 and 2). Sleep 
+Figure. Regression line for the correlation between fasting insulin levels and RDI.The two lines on 
+this figure represent 5- and 18-year-old age groups. See text for statistical analysis. 
+
+
+study analyses are summarized in Table 
+
+II. Note that there were children with a 
+“zero” RDI in this study population. 
+Regression Analyses 
+
+Our first analysis was to determine 
+which sleep study variables correlated 
+with fasting insulin levels, including age 
+and BMI Z score in the analysis. Fasting 
+insulin correlated with log10RDI 
+(P = .002), arousal index (P = .01), lowest 
+SaO2 (P = .02), and time spent with 
+<90% SaO2 (P = .03) with an adjusted r2 
+of 0.27 (F = 3.7, P = .006). BMI Z scores 
+were not significantly correlated with 
+fasting insulin in this model. The results 
+of multiple regression analysis for predicting 
+insulin levels are shown graphically 
+in the Figure, with the equation: 
+
+Insulin = 7.9(age) + 41.7 
+(log10RDI) + 40.3 
+
+Because it remains possible that insulin 
+resistance promotes OSA, a second 
+analysis was undertaken to 
+determine which metabolic variables 
+correlated with the severity of OSA 
+(log10RDI), including age and BMI Z 
+score in the analysis. Log10RDI correlated 
+with the BMI Z score (P = .03) 
+and fasting insulin (P = .001), with an 
+adjusted r2 of 0.15 (F = 4.9, P = .01). 
+Insulin was the only measured meta-
+
+DE LA EVA ETAL 
+
+bolic parameter that correlated with 
+log10RDI from the fasting blood sample. 
+The regression equation was: 
+
+Log10RDI = 0.07(BMI Z score) + 
+0.002(Insulin in pmol) + 0.19 
+
+Multiple regression analysis was then 
+repeated for insulin and for log10RDI to 
+determine the relative contribution of 
+both metabolic and sleep study variables. 
+Age and BMI Z scores were, 
+again, initially included. For fasting insulin, 
+significant correlations were present 
+for age (P = .02), glucose (mmol/L, 
+P = .002), time <90% SaO2 (P = .03), 
+arousal index (P = .007), and log10RDI 
+(P = .02). The adjusted r2 for fasting insulin 
+was 0.42 (F = 5.5, P < .001) (Table 
+III). When log10RDI was used as the 
+outcome measure, significant correlations 
+were present, with fasting insulin 
+(P = .001), TcCO2 range (wake-tosleep, 
+P = .003), lowest SaO2 (P < .001), 
+and arousal index (P < .001). Note that 
+BMI Z scores did not correlate with 
+log10RDI. For log10RDI, adjusted rwas 0.75 (F = 37.2, P < .001) (Table IV). 
+Thus, whether fasting insulin or 
+log10RDI was used as the outcome 
+measure, the independent and significant 
+correlation between these 2 variables 
+persisted after adjusting for other 
+sleep study and metabolic variables. 
+
+
+DE LA EVA ET AL THE JOURNAL OF PEDIATRICS 
+JUNE 2002 
+
+DISCUSSION 
+
+This study evaluated the association 
+between OSA and insulin resistance in 
+children; studies have shown similar 
+perturbations in adult populations. We 
+have demonstrated that the severity of 
+OSA relates to fasting insulin levels in 
+obese children. The severity of OSA 
+was independently correlated with fasting 
+insulin levels, after accounting for 
+age and BMI. Stoohs et al10 showed 
+that the association between insulin resistance 
+and OSA was BMI-dependent 
+in adults. The BMI range (15-39 
+kg/m2) shows that nonobese patients 
+were included in Stooh’s study. Our patients 
+were more homogeneously obese 
+because it was an inclusion criterion. It 
+is possible that if nonobese children 
+were included, BMI Z scores could become 
+another important predictor of 
+the severity of OSA. Nonetheless, this 
+result leads us to hypothesise that 
+OSA, as measured by RDI, has a more 
+significant effect on insulin levels in 
+children than the level of obesity. We 
+used total RDI in our analysis, thus accounting 
+for obstructive hypopneas 
+and central events, as well as obstructive 
+apneas. The correlations remained 
+significant if obstructive events were 
+considered alone. In nonobese diabetic 
+children without OSA and with no 
+clinical evidence of autonomic nervous 
+dysfunction, poor glycemic control has 
+been shown to be a risk factor for central 
+apnea during sleep.32 Any component 
+of the association demonstrated 
+here, attributable to central apnea, 
+would be small relative to that shown 
+for OSA. 
+
+Fasting insulin levels were used as a 
+proxy measure of insulin resistance, 
+consistent with other population studies. 
+To optimize correlations, authors 
+often recommend formulas that combine 
+insulin with other metabolic indices 
+(eg, triglycerides33 or glucose) in 
+the “homeostasis model assessment.”34 
+These formulas did not improve correlations 
+in our study, and the frequent 
+sampling required for the glucose clamp 
+
+technique35 was not possible in this 
+population. It remains possible that insulin 
+resistance promotes OSA. A study 
+of the metabolic profile in nonobese 
+children who have OSA may help to 
+answer whether insulin resistance is 
+part of the original pathologic features 
+of the metabolic syndrome. 
+
+We chose multiple linear regression 
+analysis because all patients in this 
+study had fasting insulin levels above 
+normal reference range of 5 µU/mL 
+(using a conversion to pmol/L of 7.5, 
+this equates to 37.5 pmol/L), with the 
+lowest value in the group being 50 
+pmol/L.36 Similarly, all children in this 
+study had an insulin:glucose ratio >10. 
+There is no one true “cut-off” when assessing 
+“hyperinsulinemia” in this population, 
+and the variability in insulin 
+levels simply reflects the degree of insulin-
+resistance. Further studies will be 
+required to elucidate the relative importance 
+of OSA compared with obesity in 
+this disorder, the extent to which treatment 
+of OSA affects the metabolic disturbances, 
+and the mechanisms by 
+which these metabolic perturbations 
+have occurred. 
+
+A correlation has been shown between 
+higher fasting insulin levels in 
+childhood and subsequent hypertriglyceridemia 
+in adulthood.9 Clustering of 
+cardiovascular risk variables for the 
+metabolic syndrome was also found in 
+children and young adults in the Bogalusa 
+Heart Study.4 Of the risk factors 
+for cardiovascular disease (insulin resistance, 
+high BMI, dyslipidemia, and 
+high blood pressure [>75th percentile]), 
+insulin resistance and BMI demonstrated 
+the strongest correlations.37 
+Evidence supporting RDI as an independent 
+risk factor for insulin resistance 
+is found in another Australian 
+study of obese, type 2 diabetic adult patients. 
+In that group of patients, the use 
+of continuous positive airway pressure 
+improved sleep apnea and significantly 
+improved insulin resistance, as measured 
+by hypinsulinemic euglycemic 
+clamp, in the absence of significant 
+changes in BMI.35 
+
+Obesity is not a commonly cited risk 
+factor for children coming to a sleep-
+unit. In a study of obese children, 
+examining for type 2 diabetes, Pinhas-
+Hamiel and Zeitler26 found an incidence 
+of OSA of 6%. Of our initial population, 
+40% were recommended for treatment. 
+This number is greater than that anticipated 
+from epidemiologic studies of 
+other pediatric populations27-29 and one 
+previous study of morbidly obese children 
+with a history of sleep breathing 
+abnormalities.30 In this limited study, we 
+were not able to confirm the findings of 
+Silvestri et al,31 who suggest that clinical 
+screening increases the likelihood of 
+predicting OSA in obese children. 
+
+We thank the parents and children for their particpation 
+in the study, Ms Kellie Tinworth for her 
+assistance in preparation of the manuscript, and 
+Assistant Professor Jennifer Peat for her advice 
+on statistical analyses. 
+
+REFERENCES 
+
+1. 
+Lazarus R, Wake M, Hesketh K, Waters 
+E. Change in body mass index in 
+Australian primary school children, 
+1985-1997. Int J Obes Relat Metab 
+Disord 2000;24:679-84. 
+2. 
+Troiano RP, Flegal KM, Kuczmarski 
+RJ, Campbell SM, Johnson CL. Overweight 
+prevalence and trends for children 
+and adolescents: the National 
+Health and Nutrition Examination Surveys, 
+1963 to 1991. Arch Pediatr Adolesc 
+Med 1995;149:1085-91. 
+3. 
+Sokol RJ. The chronic disease of 
+childhood obesity: the sleeping giant 
+has awakened. J Pediatr 2000;136: 
+711-3. 
+4. 
+Bao W, Srinivasan SR, Berenson GS. 
+Persistent elevation of plasma insulin 
+levels is associated with increased cardiovascular 
+risk in children and young 
+adults: the Bogalusa Heart Study. Circulation 
+1996;93:54-9. 
+5. 
+Must A, Strauss RS. Risks and consequences 
+of childhood and adolescent 
+obesity. Int J Obes Relat Metab Disord 
+1999;23 (Suppl 2):S2-11. 
+6. 
+Reaven GM. Role of insulin resistance 
+in human disease (syndrome X): an expanded 
+definition. Annu Rev Med 
+1993;44:121-31. 
+7. 
+Ferrannini E, Haffner SM, Mitchell 
+BD, Stern MP. Hyperinsulinaemia: 
+
+THE JOURNAL OF PEDIATRICS DE LA EVA ET AL 
+VOLUME 140, NUMBER 6 
+
+the key feature of a cardiovascular 
+and metabolic syndrome. Diabetologia 
+1991;34:416-22. 
+
+8. 
+Steinberger J, Moorehead C, Katch V, 
+Rocchini AP. Relationship between insulin 
+resistance and abnormal lipid profile 
+in obese adolescents. J Pediatr 
+1995;126:690-5. 
+9. 
+Raitakari OT, Porkka KV, Ronnemaa 
+T, Knip M, Uhari M, Akerblom HK, et 
+al. The role of insulin in clustering of 
+serum lipids and blood pressure in children 
+and adolescents: the Cardiovascular 
+Risk in Young Finns Study. 
+Diabetologia 1995;38:1042-50. 
+10. 
+Stoohs RA, Facchini F, Guilleminault 
+C. Insulin resistance and sleep-
+disordered breathing in healthy humans. 
+Am J Respir Crit Care Med 
+1996;154:170-4. 
+11. 
+Grunstein RR, Stenlof K, Hedner J, 
+Sjostrom L. Impact of obstructive sleep 
+apnea and sleepiness on metabolic and 
+cardiovascular risk factors in the 
+Swedish Obese Subjects (SOS) Study. 
+Int J Obes Relat Metab Disord 
+1995;19:410-8. 
+12. 
+Reaven GM, Lithell H, Landsberg L. 
+Hypertension and associated metabolic 
+abnormalities: the role of insulin resistance 
+and the sympathoadrenal system. 
+N Engl J Med 1996;334:374-81. 
+13. 
+Ozaki N, Okada T, Iwata T, Ohta T, 
+Kasahara Y, Kiuchi K, et al. Plasma 
+norepinephrine in sleep apnea syndrome. 
+Neuropsychobiology 1986;16: 
+88-92. 
+14. 
+Minemura H, Akashiba T, Yamamoto 
+H, Akahoshi T, Kosaka N, Horie T. 
+Acute effects of nasal continuous positive 
+airway pressure on 24-hour blood 
+pressure and catecholamines in patients 
+with obstructive sleep apnea. Intern 
+Med 1998;37:1009-13. 
+15. 
+Fletcher EC, Miller J, Schaaf JW, 
+Fletcher JG. Urinary catecholamines 
+before and after tracheostomy in 
+patients with obstructive sleep apnea 
+and hypertension. Sleep 1987; 
+10:35-44. 
+16. Bratel T, Wennlund A, Carlstrom K. Pituitary 
+reactivity, androgens, and catecholamines 
+in obstructive sleep apnoea: 
+effects of continuous positive airway 
+pressure treatment (CPAP). Respir 
+Med 1999;93:1-7. 
+17. 
+Strohl KP, Novak RD, Singer W, 
+Cahan C, Boehm KD, Denko CW, et al. 
+Insulin levels, blood pressure, and sleep 
+apnea. Sleep 1994;17:614-8. 
+18. Katsumata K, Okada T, Miyao M, Katsumata 
+Y. High incidence of sleep 
+apnea syndrome in a male diabetic population. 
+Diabetes Res Clin Pract 1991; 
+13:45-51. 
+19. 
+Strohl KP, Boehm KD, Denko CW, 
+Novak RD, Decker MJ. Biochemical 
+morbidity in sleep apnea. Ear Nose 
+Throat J 1993;72:34. 
+20. 
+Hammer LD, Kraemer HC, Wilson 
+DM, Ritter PL, Dornbusch SM. 
+Standardized percentile curves of 
+body-mass index for children and adolescents. 
+Arch Pediatr Adolesc Med 
+1991;145:259-63. 
+21. World Health Organization. Measuring 
+change in nutritional status. Geneva 
+(Switzerland): World Health Organization; 
+1983. p. 61-101. 
+22. 
+Dibley MJ, Staehling N, Nieburg P, 
+Trowbridge FL. Interpretation of Z 
+score anthropometric indicators derived 
+from the international growth reference. 
+Am J Clin Nutr 1987;46:749-62. 
+23. Rechtschaffen A, Kales A. A manual for 
+standardized terminology, techniques, 
+and scoring system for sleep stages of 
+human subjects. Los Angeles (CA): 
+Brain Information Service/Brain Research 
+Institute; 1968. 
+24. Waters KA, Everett FM, Bruderer JW, 
+Sullivan CE. Obstructive sleep apnea: 
+the use of nasal CPAP in 80 children. 
+Am J Respir Crit Care Med 1995; 
+152:780-5. 
+25. 
+Mograss MA, Ducharme FM, Brouillette 
+RT. Movement/arousals. Description, 
+classification, and relationship to 
+sleep apnea in children. Am J Respir 
+Crit Care Med 1994; 150:1690-6. 
+26. Pinhas-Hamiel O, Zeitler P. Insulin resistance, 
+obesity, and related disorders 
+among black adolescents [editorial; 
+comment]. J Pediatr 1996;129:319-20. 
+27. Ali NJ, Pitson DJ, Stradling JR. Snoring, 
+sleep disturbance, and behaviour in 
+4-5 year olds. Arch Dis Child 1993; 
+68:360-6. 
+28. 
+Pitson DJ, Stradling JR. Autonomic 
+markers of arousal during sleep in patients 
+undergoing investigation for 
+obstructive sleep apnoea, their relationship 
+to EEG arousals, respiratory 
+events, and subjective sleepiness. J 
+Sleep Res 1998;7:53-9. 
+
+29. Sánchez-Armengol A, Fuentes-Pradera 
+MA, Capote-Gil F, García-Díaz E, 
+Cano-Gómez S, Carmona-Bernal C, et 
+al. Sleep-related breathing disorders in 
+adolescents aged 12 to 16 years: clinical 
+and polygraphic findings. Chest 
+2001;119:1393-400. 
+30. 
+Mallory GB, Fiser DH, Jackson R. 
+Sleep-associated breathing disorders in 
+morbidly obese children and adolescents. 
+J Pediatr 1989;115:892-7. 
+31. 
+Silvestri JM, Weese-Mayer DE, Bass 
+MT, Kenny AS, Hauptman SA, 
+Pearsall SM. Polysomnography in 
+obese children with a history of sleep-
+associated breathing disorders. Pediatr 
+Pulmonol 1993;16:124-9. 
+32. Villa MP, Multari G, Montesano M, Pagani 
+J, Cervoni M, Midulla F, et al. 
+Sleep apnoea in children with diabetes 
+mellitus: effect of glycaemic control. Diabetologia 
+2000;43:696-702. 
+33. 
+McAuley K, Williams S, Mann JI, 
+Walker R, Lewis-Barned N, Temple L, 
+et al. Diagnosing insulin resistance in 
+the general population. Diabetes Care 
+2001;24:460-4. 
+34. Lansang MC, Williams GH, Carroll JS. 
+Correlation between the glucose clamp 
+technique and the homeostasis model 
+assessment in hypertension. Am J Hypertens 
+2001;14:51-3. 
+35. 
+Brooks B, Cistulli PA, Borkman M, 
+Ross G, McGhee S, Grunstein RR, et 
+al. Obstructive sleep apnea in obese 
+noninsulin-dependent diabetic patients: 
+effect of continuous positive airway 
+pressure treatment on insulin 
+responsiveness. J Clin Endocrinol 
+Metab 1994;79:1681-5. 
+36. Quon M. Limitations of the fasting glucose 
+to insulin ratio as an index of insulin 
+sensitivity. J Clin Endorinol 
+Metab 2001;86:4615-7. 
+37. 
+Chen W, Bao W, Begum S, Elkasabany 
+A, Srinivasan SR, Berenson 
+GS. Age-related patterns of the clustering 
+of cardiovascular risk variables 
+of syndrome X from childhood to 
+young adulthood in a population 
+made up of black and white subjects: 
+the Bogalusa Heart Study. Diabetes 
+2000;49:1042-8. 
+

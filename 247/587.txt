@@ -1,0 +1,386 @@
+The Laryngoscope 
+Lippincott Williams & Wilkins 
+© 2007 The American Laryngological, 
+Rhinological and Otological Society, Inc. 
+Behavior and Obstructive Sleep Apnea 
+in Children: Is Obesity a Factor? 
+Emily F. Rudnick, MD; Ron B. Mitchell, MD 
+Objectives: Children with obstructive sleep apnea 
+(OSA) frequently exhibit behavioral and neurocognitive 
+problems. There is a high prevalence of OSA among obese 
+children. This study aims to evaluate the relationship 
+between OSA and behavioral problems in obese children 
+as compared with normal-weight children (controls). 
+Study Design: Prospective, nonrandomized, controlled 
+study of obese and normal-weight children with 
+OSA presenting to a tertiary medical center for 
+adenotonsillectomy. 
+Methods: All study participants underwent preoperative 
+polysomnography to document OSA. Obesity was 
+defined as age- and sex-adjusted body mass index at the 
+95th percentile or higher. Behavior was evaluated using 
+the Behavior Assessment System for Children (BASC). 
+Preoperatively, the Behavioral Symptoms Index (BSI), a 
+global measure of behavior, and BASC scores for obese 
+and normal-weight children were compared using an unpaired 
+t test. 
+Results: The study population included 52 children, 
+18 (35%) of whom were obese. The mean age of obese 
+children was 8.6 (range, 2.0–14.9) years. The mean age of 
+normal-weight children was 6.4 (range, 2.1–12.9) years. 
+Demographics were otherwise similar. The mean apneahypopnea 
+index for obese children was 17.2 (5.0–38.0) 
+and for normal-weight children was 15.7 (5.3–88.0). The 
+BSI score was 55.3 (SD, 15.9) for obese and 55.9 (SD, 15.0) 
+for normal-weight children. Seven (38.9%) obese and 12 
+(35.3%) normal-weight children had clinically significant 
+or abnormal behavior. Similar results were seen for the 
+BASC scales of atypicality, depression, hyperactivity, and 
+somatization in both groups. 
+Conclusions: Behavioral problems are highly prevalent 
+in children with OSA. However, these problems exist 
+independently of whether children are obese or normal 
+weight. 
+Key Words: Pediatric obesity, obstructive sleep 
+apnea, behavior. 
+Laryngoscope, 117:1463–1466, 2007 
+INTRODUCTION 
+Obesity in children has increased dramatically over 
+the last two decades and is now a priority focus of modern 
+public health initiatives. In 2004, approximately 17% of 
+children nationally were obese (95th percentile of sexand 
+age-specific body mass index [BMI]).1 Obesity in children 
+accounts for multiple physical sequelae that can 
+cause significant health-related morbidity. In addition to 
+known cardiovascular, pulmonary, and endocrine consequences, 
+children with obesity are known to exhibit behavioral, 
+neurocognitive, and psychosocial problems. Recent 
+reports have shown that obese children experience 
+decreased self-esteem, decreased quality of life, and increased 
+depression.2 Obese children also display poorer 
+academic performance when compared with age-matched 
+peers.3,4 
+Approximately one third of obese children exhibit 
+sleep-disordered breathing (SDB) or obstructive sleep apnea 
+(OSA).5 SDB represents a spectrum of sleep disturbances 
+in children ranging from primary snoring to OSA. 
+Several studies have shown that children with SDB experience 
+problems with both behavior and neurocognition. 
+Specifically, children with SDB have been noted to display 
+hyperactivity, increased aggression, irritability, emotional 
+and peer problems, and somatic complaints.6–8 Problems 
+with neurocognition include decreased skills in memory, 
+attention, and intelligence.8 These behavioral and neurocognitive 
+deficits improve after surgical intervention with 
+adenotonsillectomy.9 
+Although behavioral problems have been associated 
+with children with obesity and children with OSA, there is 
+limited knowledge regarding the extent of behavioral 
+problems in children who are both obese and have OSA. 
+Therefore, this report evaluates the prevalence and severity 
+of behavioral impairment in obese children with OSA 
+(as documented by polysomnography) compared with 
+healthy-weight controls. 
+From the Department of Otolaryngology–Head and Neck Surgery 
+(E.F.R.), Virginia Commonwealth University Medical Center, Richmond, 
+Virginia, U.S.A.; and the Division of Pediatric Otolaryngology, Department 
+of Otolaryngology–Head and Neck Surgery (R.B.M.), Cardinal Glennon Children’s 
+Medical Center, St. Louis University School of Medicine, St. Louis, 
+Missouri, U.S.A. 
+Editor’s Note: This Manuscript was accepted for publication March 
+26, 2007. 
+Presented to the Triological Society Combined Sections Meeting, 
+Marco Island, Florida, U.S.A., February 17, 2007. 
+The authors have received no financial support or funding for this 
+manuscript. 
+Send correspondence to Dr. Emily F. Rudnick, Department of Otolaryngology–
+Head and Neck Surgery, PO Box 980146, Richmond, VA 
+23298. E-mail: emilyrudnick@yahoo.com 
+DOI: 10.1097/MLG.0b013e318063e866 
+Laryngoscope 117: August 2007 Rudnick and Mitchell: Obesity and Behavior in Pediatric Obstructive Sleep Apnea 
+1463
+
+METHODS 
+The institutional review board approved this study. Children 
+aged 2 to 18 years referred to the pediatric otolaryngology 
+service with OSA, as documented by polysomnography, were 
+included in the study. OSA was defined as an apnea-hypopnea 
+index (AHI) of 5 or greater or an apnea index of 1 or greater. 
+Children were excluded from the study if they had previously 
+undergone adenotonsillectomy or if they exhibited craniofacial 
+syndromes, neuromuscular disease, developmental delay, or 
+known psychiatric disorders. 
+Caregivers signed an informed consent document prior to 
+enrollment in the study. Children with clinical symptoms of 
+OSA (including snoring, daytime fatigue, and witnessed apnea 
+during sleep) underwent polysomnography. Caregivers of children 
+with OSA, as documented by polysomnography, were then 
+asked to complete the Behavioral Assessment Survey for Children 
+(BASC)10 prior to surgery. 
+The age- and sex-corrected BMI was calculated for each 
+child using established guidelines.1 Children were considered 
+“obese” if they had a BMI-for-age at the 95th or greater percentile. 
+Children with BMI-for-age at less than the 95th percentile 
+were used as controls. 
+Age-specific BASC instruments were used for the following 
+age groups: 2.5 to 5 years, 6 to 11 years, and 12 to 18 years. The 
+BASC behavioral scales used were aggression, anxiety, atypicality, 
+depression, hyperactivity, and somatization. BASC composite 
+scales are made up of several behavioral scales that are weighted 
+differently as a function of age. This weighting reflects the relative 
+contribution of individual scales to problem behaviors in 
+different age groups. The composite scales used were the Behavioral 
+Symptoms Index (BSI), externalizing problems, and internalizing 
+problems. Only BASC scales and composites that were 
+applicable to all age groups were included in this study. Raw 
+scores on the BASC scales and composites were converted to 
+T-scores with a mean of 50 and an SD of 10. Children who scored 
+from 60 to 69 were considered to have “borderline” behavioral 
+impairment. Children who scored 70 or above were considered to 
+have “clinically significant” behavioral impairment. 
+The AHI and BASC T scores of obese children and controls 
+were compared using an unpaired t test. A P value less than or 
+equal to .05 was considered significant. A comparison was also 
+made between children with normal BASC T-scores (60) and 
+children with abnormal T-scores (60). Statistical analyses were 
+performed with SPSS, version 12.0 (Chicago, IL). 
+A power analysis indicated that a sample size of 15 was 
+adequate to detect a 10 point difference in BASC T-scores with 
+80% power and   .05. Because a difference of 10 in a BASC 
+T-score is clinically significant, the present study has sufficient 
+power to detect a significant difference in behavior between 
+groups. 
+RESULTS 
+The study population included 52 children, of whom 
+18 (34.6%) were obese. Table I shows the demographics of 
+obese children and controls with OSA. Overall, the mean 
+age was 7.2 (range, 2.0 –14.9; SD, 3.4) years. The mean age 
+of obese children was 8.6 years, and the mean age of 
+controls was 6.4 years (P  .02). The predominant racial/ 
+ethnic group was Hispanic (55.8%), followed by non- 
+Hispanic white (28.8%) and Native American (9.6%). The 
+mean AHI was 16.2 (range, 5.0–88.0; SD, 14.4). 
+The mean BMI for the obese and control groups was 
+26.3 (range, 18.9–37.9) and 17.0 (range, 13.5–24.8), respectively. 
+This difference was significant (P  .001). 
+Mean BASC T-scores with SD for the two groups of 
+children with OSA are presented in Table II. For both 
+groups of children, the BASC domain scale with the highest 
+mean score was somatization, and the domain scale 
+with the lowest mean score was aggression. There were no 
+significant differences in scores for the BSI, externalizing 
+symptoms, and internalizing symptom composite scales or 
+for the individual behavioral scales of atypicality, depression, 
+hyperactivity, aggression, and somatization between 
+obese children and controls. 
+Overall, 19 (36.5%) children had BSI scores that indicated 
+borderline or clinically significant behavioral impairment 
+(T  60), of whom 7 (13.5%) were obese. Eight 
+(15.4%) children had scores that indicated borderline significant 
+behavioral impairment (T  60 to 70), and 11 
+(21.2%) children had scores that indicated clinically significant 
+behavioral impairment (T  70). The demographics 
+and mean BASC T-scores for the three composite scales 
+in obese children and controls with borderline or clinically 
+significant behavioral impairment are presented in Table 
+III. There were no significant differences in age, AHI, or 
+scores for the three composite scales between obese children 
+and controls. There were no significant differences 
+between BASC T-scores for obese children with borderline 
+behavioral impairment compared with controls or obese 
+TABLE I. 
+Patient Demographics. 
+Obese Controls 
+n (%) 18 (34.6) 34 (65.4) 
+Mean age, year (range) 8.6 (2.0–14.9) 6.4 (2.1–12.9)* 
+Mean AHI (range) 17.2 (5.0–38.0) 15.7 (5.3–88.0) 
+Sex (%) 
+Male 11 (61.1) 18 (52.9) 
+Ethnicity (%) 
+Hispanic 13 (72.2) 16 (47.1) 
+Non-Hispanic White 4 (22.2) 11 (32.4) 
+Native American 0 5 (14.7) 
+Other 1 (5.6) 2 (5.9) 
+*P  .05. 
+TABLE II. 
+Mean Behavior Assessment System for Children (BASC) T-Scores 
+for Obese Children as Compared With Controls.* 
+BASC Scale 
+Obese Controls 
+Mean (SD) Mean (SD) 
+Atypicality 57.9 (15.4) 52.8 (9.6) 
+Depression 54.5 (16.5) 55.5 (15.9) 
+Hyperactivity 53.4 (14.3) 57.0 (13.7) 
+Aggression 48.9 (14.8) 52.2 (14.1) 
+Somatization 60.8 (13.1) 60.9 (14.0) 
+Externalizing symptoms 51.3 (16.6) 54.5 (15.0) 
+Internalizing symptoms 56.7 (14.6) 58.1 (13.8) 
+BSI 55.3 (15.9) 55.9 (15.0) 
+*P values .05, not significant. 
+Laryngoscope 117: August 2007 Rudnick and Mitchell: Obesity and Behavior in Pediatric Obstructive Sleep Apnea 
+1464
+
+children with clinically significant behavioral impairment 
+compared with controls. 
+DISCUSSION 
+To the best of our knowledge, this study is the first to 
+report that behavioral problems are highly prevalent in 
+both obese and normal-weight children with OSA and that 
+these problems exist independently of whether children 
+are obese. This study uses a validated instrument to evaluate 
+behavior in obese children and normal-weight children 
+with polysomnography-proven OSA. 
+In the present study, greater than one third of both 
+obese and normal-weight children with OSA had clinically 
+significant behavioral impairment that was not influenced 
+by age, sex, or ethnicity. The BASC10 survey was used because 
+it is age-specific and is intended to specifically quantify 
+emotional and behavioral impairment as well as socialization 
+skills in children. Numerous other studies have used 
+validated instruments to show a significant correlation between 
+OSA and behavioral problems in children. Previous 
+studies using the Conners’ Rating Scale11 showed that children 
+with SDB are more likely to show inattentive, aggressive, 
+and hyperactive behavior.6,7 Other reports have evaluated 
+behavior using the Child Behavior Checklist (CBCL),12 
+concluding that children with SDB are more anxious and 
+depressed, display poorer attention and socialization, and 
+have increased aggression when compared with healthy controls.
+8 In addition to documenting a high prevalence of behavioral 
+problems in children with OSA, behavior and OSA 
+have been shown to significantly improve after treatment 
+with adenotonsillectomy.9 
+Although behavioral problems in children with OSA 
+are clearly documented, behavioral problems in children 
+with obesity are less well defined. Datar and Sturm13 
+evaluated 9,949 nationally representative kindergartners 
+by using teacher- and parent-reported behavioral questionnaires 
+that identified problems according to internalizing 
+and externalizing symptom scales. The teacher and 
+parent questionnaires were modified from the Social 
+Skills Rating System instrument,14 a validated tool used 
+to assess problems with adaptive and social skills in children. 
+They showed that behavioral symptoms were increased 
+only in girls at the start of kindergarten and that 
+obesity did not independently predict development of behavioral 
+problems in boys or girls during the first 2 school 
+years. In contrast, Lumeng et al.,4 in a study of 755 children 
+aged 8 to 11 years from a nationally representative 
+cohort, showed that behavioral problems were independently 
+associated with obesity and that normal-weight 
+children with behavioral problems were more likely to 
+become overweight within 2 years. This study evaluated 
+behavior using the Behavioral Problems Index,15 a derivative 
+of the original CBCL, and was adjusted for demographic 
+variables including age, sex, ethnicity, and maternal 
+risk factors. Clearly, a relationship exists between 
+childhood obesity and behavioral problems; however, future 
+studies are needed to better define what demographic 
+and environmental factors determine this association. 
+The prevalence of SDB in children with obesity is 
+alarmingly high, reported as up to 40%.5 Knowing that 
+behavioral problems exist in increased frequency in populations 
+of children with OSA and in children who are 
+obese, a reasonable expectation would be for obese children 
+with OSA to have an even higher prevalence of 
+behavioral problems and possibly more severe behavioral 
+impairment. However, in the present study, no significant 
+differences were found in either the prevalence or severity 
+of behavioral problems when obese children with OSA 
+were compared with normal-weight controls. 
+This study offers strengths in that it has a prospective, 
+controlled design. Children evaluated were objectively 
+diagnosed with OSA using polysomnography, and a 
+nationally standardized BMI for age was used to measure 
+obesity. Likewise, behavioral problems were evaluated 
+with the BASC, a globally validated instrument. 
+A number of limitations in this study require further 
+discussion. First, the BASC instrument is not disease 
+specific for OSA. Likewise, the BASC instrument does not 
+measure neurocognitive impairment, which may be impacted 
+differently in obese children with OSA. Next, because 
+of the small number of children in the study, the 
+effect of covariates such as age, sex, and ethnicity could 
+not be fully evaluated using the current data. In addition, 
+the children evaluated in this study were not representative 
+of the general pediatric population, which would include 
+children of a broader demographic and socioeconomic 
+distribution. Finally, behavioral data were collected 
+at only one point in time, so the long-term relationship 
+between obesity, OSA, and behavioral problems in children 
+is unknown and is the subject of ongoing current 
+research. Despite these limitations, this study clearly 
+identifies a high prevalence of behavioral problems in 
+children with OSA that is independent of obesity. 
+CONCLUSIONS 
+Behavioral problems are highly prevalent in children 
+with OSA. However, these problems exist independently 
+of whether children are obese or normal weight. 
+TABLE III. 
+Demographics and Mean T-Scores of Children With Borderline or 
+Clinically Significant Behavioral Impairment. 
+Obese Controls 
+BSI 60, n (%) 7 (38.9) 12 (35.3) 
+BSI 60 to 70, n 3 5 
+BSI 70, n 4 7 
+Male, n (%) 3 (42.9%) 7 (58.3%) 
+Hispanic, n (%) 6 (85.7%) 4 (33.3%) 
+Age, mean (SD) 9.7 (2.9) 8.2 (3.0) 
+AHI, mean (SD) 14.7 (11.3) 9.7 (6.8) 
+BSI, mean (SD) 72.1 (6.2) 72.6 (8.8) 
+Externalizing symptoms, mean (SD) 65.0 (17.4) 70.7 (13.0) 
+Internalizing symptoms, mean (SD) 70.0 (9.5) 68.8 (14.1) 
+Borderline behavioral impairment indicates Behavioral Symptoms Index 
+(BSI) T-score 60 to 70; clinically significant behavioral impairment 
+indicates BSI 70. P values .05, not significant. 
+AHI  apnea-hypopnea index. 
+Laryngoscope 117: August 2007 Rudnick and Mitchell: Obesity and Behavior in Pediatric Obstructive Sleep Apnea 
+1465
+
+BIBLIOGRAPHY 
+1. Ogden CL, Carroll MD, Curtin LR, et al. Prevalence of overweight 
+and obesity in the United States, 1999–2004. 
+JAMA 2006;295:1549–1555. 
+2. Goodman E, Whitaker RC. A prospective study of the role of 
+depression in the development and persistence of adolescent 
+obesity. Pediatrics 2002;110:497–504. 
+3. Datar A, Sturm R. Childhood overweight and elementary 
+school outcomes. Int J Obes (Lond) 2006;30:1449–1460. 
+4. Lumeng JC, Gannon K, Cabral HJ, et al. Association between 
+clinically meaningful behavior problems and overweight in 
+children. Pediatrics 2003;112:1138–1145. 
+5. Shine NP, Coates HL, Lannigan FJ. Obstructive sleep apnea, 
+morbid obesity, and adenotonsillar surgery: a review of the 
+literature. Int J Pediatr Otorhinolaryngol 2005;69: 
+1475–1482. 
+6. Chervin RD, Archbold KH, Dillon JE, et al. Inattention, hyperactivity, 
+and symptoms of sleep-disordered breathing. 
+Pediatrics 2002;109:449–456. 
+7. Gottlieb DJ, Chase C, Vezina RM, et al. Sleep-disordered 
+breathing symptoms are associated with poorer cognitive 
+function in 5-year-old children. J Pediatr 2004;145:458–464. 
+8. Lewin DS, Rosen RC, England SJ, et al. Preliminary evidence 
+of behavioral and cognitive sequelae of obstructive sleep 
+apnea in children. Sleep Med 2002;3:5–13. 
+9. Goldstein NA, Post JC, Rosenfeld RM, et al. Impact of tonsillectomy 
+and adenoidectomy on child behavior. Arch Otolaryngol 
+Head Neck Surg 2000;126:494–498. 
+10. Reynolds C, Kamphaus R. Manual for Behavioral Assessment 
+System for Children. Circle Pines, MN: American Guidance 
+Service Inc.; 1998. 
+11. Conners CK. Manual for the Conner’s Rating Scales. Toronto: 
+Multi Health Systems Inc.; 1990. 
+12. Achenbach T. Manual for the Child Behavior Checklist/2–3 
+and 1992 Profile. Burlington, VT: Department of Psychiatry, 
+University of Vermont; 1992. 
+13. Datar A, Sturm R. Childhood overweight and parent- and 
+teacher-reported behavior problems: evidence from a prospective 
+study of kindergartners. Arch Pediatr Adolesc 
+Med 2004;158:804–810. 
+14. Gresham F, Elliott S. Social Skills Rating System. Circle 
+Pines, MN: American Guidance Service; 1990. 
+15. Zill N, Peterson J. Behavior Problems Index. Washington, 
+DC: Child Trends Inc.; 1986. 
+Laryngoscope 117: August 2007 Rudnick and Mitchell: Obesity and Behavior in Pediatric Obstructive Sleep Apnea 
+1466
+

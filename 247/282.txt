@@ -1,0 +1,1157 @@
+An Epidemiologic Study of Sleep-Disordered Breathing Symptoms Among 
+Adolescents 
+
+Eric O. Johnson, PhD1; Thomas Roth, PhD2 
+
+1Behavioral Health Research Division, Research Triangle Institute International, Research Triangle Park, NC; 2Sleep Disorders and Research Cen
+
+
+ter, Henry Ford Health System, Detroit, MI 
+
+Study Objectives: To examine the prevalence and distribution of the 
+symptoms of sleep-disordered breathing (SDB) in a community-based 
+sample of adolescents, and to assess association of SDB with body mass 
+index, daytime sleepiness, school performance, and attention-deficit/hyperactivity 
+disorder. 
+Design: Epidemiologic study of a community-based sample of adolescents 
+and 1 parent with whom separate structured face to face diagnostic 
+interviews were conducted. 
+Setting: Metropolitan Detroit, Michigan, USA. 
+Participants: One thousand fourteen adolescents aged 13 to 16 years 
+and a paired parent. 
+Measures and Results: SDB was defined as report of loud snoring, 
+gasping/choking or snorting, awakening with gasping or choking, or momentary 
+periods of stopped or abnormal breathing occurring weekly. More 
+than 20% of the adolescents snored at least a few nights per month, 6% 
+snoring every or nearly every night. Apnea-like symptoms affected from 
+
+2.5% to 6.1% of adolescents. The prevalence of weekly SDB was 6.0% 
+according to both adolescent and parental report and was twice as likely 
+among African Americans as Caucasians. The association of body mass 
+index with SDB was twice as great among Caucasian adolescents as 
+African American adolescents. SDB was independently associated with 
+excessive daytime sleepiness, poorer grade point averages, and attention-
+deficit/hyperactivity disorder–inattention type; each being more than 
+twice as likely to occur among those with SDB than those without SDB. 
+Conclusions: Symptoms of SDB appear to be common among adolescents 
+and independently associated with short- and longer-term adverse 
+outcomes. These associations appear to be complex in the population 
+and will require longitudinal epidemiologic studies to clarify the nature of 
+their relationships and the opportunities for intervention. 
+Keywords: Sleep disordered breathing, epidemiology, adolescent 
+Citation: Johnson EO; Roth T. An epidemiologic study of sleep-disordered 
+breathing symptoms among adolescents. SLEEP 2006;29(9):1135-1142. 
+
+INTRODUCTION ference according to the age of the children.6 Among a subsample 
+
+of these snorers 4.3% met polysomnographic criteria for OSA. 
+THERE HAS BEEN INCREASING INVESTIGATION OF At the other end of the prevalence continuum, 2 small school-
+SLEEP-DISORDERED BREATHING (SDB: THE OCCUR-based studies of adolescents from Germany and Spain found the 
+RENCE OF APNEAS OR HYPOPNEAS DURING sleep) among prevalence of snoring “at least sometimes” to be 28% and 29%, 
+
+children since Guilleminault and colleagues first described its respectively.7,8 Finally, in a community-based sample (n = 2147) 
+presence in children.1,2 In recent reviews of pediatric studies of from Istanbul, Turkey, 7.0% of parents reported that their children 
+SDB and obstructive sleep apnea (OSA), the prevalence of these habitually snored.9 To our knowledge, there have been no popula2 
+disorders has ranged from 2% to 20%, depending on the defini-tion- or community-based studies of SDB symptoms among adotion 
+employed, samples surveyed , and study designs.3-5 However, lescents in the United States. 
+there have been few population- or community-based studies in A number of risk factors for SDB symptoms in children have 
+children. In a large school-based sample of Greek children 1 to 18 been identified, including family history of snoring or SDB, 
+
+years of age (n = 3680), approximately 4% of children were habit-chronic rhinitis, exposure to secondhand smoke, African Ameriual 
+snores according to a parent’s report, with no significant dif-can race/ethnicity, and obesity.6,10-12 It appears that the male preponderance 
+of SDB may develop at puberty; studies of young 
+children have not found the sex difference that has typically 
+Disclosure Statement been observed among adults,11,13-17 but at least 1 study compar-
+This was not an industry supported study. Dr. Roth has received research ing prepubertal and postpubertal onset rates of SDB has shown 
+support from Aventis, Cephalon, GlaxoSmithKline, Neurocrine, Pfizer, Sano-a significant increase in SDB among boys, relative to girls.18 The 
+fi, Sepracor, Somaxon, Syrex, Takeda, TransOral, Wyeth, and Xenoport; is evidence for a difference in the rate of SDB in children based 
+
+a consultant for Accadia, Acoglix, Arena, AstraZeneca, Aventis, Cephalon, 
+
+on race or ethnicity has been mixed.3 For example, in a retro-
+
+Eli Lilly, Evotec, GlaxoSmithKline, Hypnion, King, Ludbeck, McNeil, Medi
+
+
+spective patient-record study of adults, Scharf et al19 showed that 
+
+ciNova, Novadel, Merck, Neurocrine, Neurogen, Orexo, Organon, Orginer, 
+
+the increased rates of SDB among African Americans relative to 
+
+Proctor and Gamble, Pfizer, Roche, Sanofi, Sepracor, Shire, Somaxon, 
+
+Caucasians are eliminated after controlling for body mass index 
+
+Syrex, Takeda, TransOral, Vanda, Vivometrics, Wyeth, Xenoport; and has 
+
+(BMI) and median household income, whereas, among high-risk 
+
+participated in speaking engagements supported by Sanofi and Takeda. Dr. 
+
+children, Redline et al10 found the association of African Ameri-
+
+Johnson has indicated no financial conflict of interest. 
+
+can and moderate SDB to be significant even after controlling for 
+BMI.
+
+Submitted for publication January 16, 2006 
+
+SDB has been associated with daytime consequences, in-
+
+Accepted for publication March 22, 2006 
+
+cluding excessive daytime sleepiness; impaired school perfor-
+
+Address correspondence to: Eric O. Johnson, PhD, Behavioral Health Research 
+Division Research Triangle Institute International, PO Box 12194, mance; possibly depression; and, finally, behavior problems, 
+3040 Cornwallis Road, Research Triangle Park, NC 27709-2194; Tel: (919) including symptoms of attention-deficit/hyperactivity disorder 
+990-8347; Fax: (919) 485-5555; E-mail: ejohnson@rti.org (ADHD).12,13,20-27 Studies on snoring, SDB, and OSA have taken 
+
+SLEEP, Vol. 29, No. 9, 2006 1135 Epidemiology of SDB in Adolescents—Johnson and Roth 
+
+
+a number of approaches, including case-series studies and other 
+clinically referred patients designs, which have generally shown 
+higher externalizing behavior problems in patients who snore or 
+have OSA.3 A more representative school-based study by Chervin 
+and colleagues found a significant association between hyperactivity/
+inattention scores and habitual snoring. Moreover, some 
+studies have found that tonsillectomy and adenoidectomy procedures 
+reduce ADHD symptoms and other behavior problems relative 
+to controls.22,28 
+
+To our knowledge, there have been no epidemiologic studies 
+of the prevalence of SDB symptoms, risk factors, and potential 
+consequences in a large community-based sample of adolescents 
+in the United States. In this study, we examined the prevalence 
+and distribution of SDB symptoms, some of their risk factors, and 
+their association with potential consequences among a sample of 
+1014 adolescent–parent pairs. Specifically we (1) examined the 
+prevalence and distribution of SDB symptoms and a syndrome of 
+SDB according to both parental and youth report, (2) assessed the 
+level of agreement between youth and parent reports, (3) tested 
+the association of SDB with suspected risk factors (e.g., BMI) and 
+potential daytime consequences (e.g., excessive daytime sleepi-
+
+According to what others have told you how often, if ever . . . 
+
+• Do you snore during sleep? 
+• Do you gasp, choke, or make snorting sounds during sleep? 
+• Do you seem to have momentary periods during sleep when 
+you stop breathing or you breathe abnormally? 
+Have you awakened suddenly with the feeling of gasping or choking? 
+
+
+Response categories for all above questions were: 
+
+a. Never 
+b. Rarely – a few times ever; 
+c. Sometimes – a few nights per month; 
+d. Often – at least once a week; 
+e. Very often – every night or almost every night. 
+Among snores: 
+According to what others have said, would you say that your snoring 
+is: quiet, moderate, loud, or very loud? 
+
+
+Figure 1—Questions assessing sleep-disordered breathing symptoms: 
+youth version. 
+
+
+cifically for children or adolescents; however, they are very simi
+
+
+ness, and school outcomes), (4) tested the association between 
+
+lar to those used in other studies of SDB in children.12 Moreover, 
+
+SDB and ADHD–both the inattentive and hyperactive subtypes. 
+
+available questionnaires for children have focused on parental 
+report of symptoms, which may not be optimal for adolescents, 
+
+METHODS 
+
+since parents are less likely to monitor their children’s sleep in 
+
+Sample 
+
+this age group, as opposed to in younger children. Thus, we took 
+the approach of assessing symptoms from both the parent’s and 
+
+A sample of 1676 youth–parent pairs was randomly selected 
+
+adolescent’s perspectives—attempting to capture snoring and ap
+
+
+from all households with at least 1 adolescent aged 13 to 15 years 
+
+neic symptoms that are likely to be missed by relying on a single 
+
+from a 400,000-member health maintenance organization in the 
+
+source of self-report. Our approach to the analyses of these data 
+
+Detroit metropolitan area. Although it was not required that the 
+
+also allowed us to test whether there were differences between 
+
+interviewed parent be a biologic parent, it was required that the 
+
+parents’ versus children’s reports in the association between 
+
+person live with the adolescent. The target population was de-
+
+symptoms of SDB and risk factors and consequences, providing 
+
+fined by Wayne, Oakland, and Macomb counties, encompassing 
+
+at least 1 test of the reliability of the associations found, in ad-
+
+the city of Detroit and surrounding communities. Of this sample, 
+
+dition to the predictive validity of finding associations between 
+
+251 (15%) were ineligible for the study due to incorrect date of 
+
+these symptoms of SDB and expected risk factors (e.g., BMI).
+
+birth in the health maintenance organization database, inability 
+
+The questions used to assess SDB symptoms shown in Figure 
+
+to speak English, severe cognitive impairment, incarceration, or 
+
+1 were ask of the adolescent. These questions were adapted for 
+
+residence outside the area. Of the remaining 1425 pairs, 1014 par-
+
+parent report of adolescent symptoms (e.g. how often if ever, does 
+
+ticipated in this study (response rate 71.2%); 233 youth–parent 
+
+your child snore during sleep).
+
+pairs refused participation (16.3%), and 178 (12.5%) could not be 
+
+Affirmative responses to 5 questions related to symptoms of 
+
+contacted. 
+
+loud snoring or any apnea symptoms occurring at least weekly 
+
+The demographic characteristics of this sample (see Table 1) 
+
+was taken to identify a probable case of SDB according to youth 
+
+reflect the health maintenance organization membership, repre
+
+
+report and separately parent report. These dichotomous variables 
+
+senting the tricounty population, excluding the extremes of socio
+
+
+(youth and parent report of SDB) were the focus of most of the 
+
+economic status. The racial composition is similar to that of the 
+
+analyses in this study. Although this threshold for probable cases 
+
+tricounty population (i.e., 67.3% white, 25.0% black, and 7.7% 
+
+of SDB is arbitrary in the absence of polysomnography, the pres
+
+
+other), but the median income ($60,000-$69,999) and proportion 
+
+ence of symptoms occurring at least weekly has been used to in-
+
+of parents with at least a bachelor’s degree (44%) were higher 
+
+dicate a meaningful level of severity of SBD symptoms,52 and, as 
+
+in this study than in the general population ($49,740 and 19.7%, 
+
+shown in the results of this study, has some predictive validity in 
+
+respectively).29 
+
+that adolescents meeting this threshold show significant expected 
+differences from those adolescents below this threshold (see 
+
+MEASURES 
+
+results). Thus employing this threshold for identifying probable 
+
+Adolescent SDB 
+cases of SDB allows us to provide some general estimate of the 
+magnitude of public health problem that SDB may pose among 
+
+Symptoms were self-reported by the adolescents and measured 
+
+adolescents even in the absence of polysomnographic results.
+
+independently by parents’ reports about their children. Adolescents 
+and parents were asked parallel questions, derived from 
+
+Body Mass Index
+
+Young et al30 to assess SDB symptoms, including both snoring 
+and apneic symptoms. These questions were not developed spe-Body Mass Index (BMI) was calculated from youth and parent 
+
+SLEEP, Vol. 29, No. 9, 2006 
+1136 Epidemiology of SDB in Adolescents—Johnson and Roth 
+
+
+Table 1—Sample Characteristics From 1014 Subjects 
+
+Sex No. % 
+Male 504 49.7 
+Female 510 50.3 
+
+Race 
+Caucasian 632 62.3 
+African American 316 32.2 
+Other 63 6.2 
+
+Age 
+13 226 22.3 
+14 250 24.6 
+15 415 40.9 
+16 123 12.1 
+
+Family Income, $ 
+< 30,000 114 11.2 
+30,000 - 49,999 152 15.0 
+50,000 - 69,999 264 26.0 
+70,000 - 99,999 175 17.2 
+100,000 225 22.2 
+
+Parent Marital Status 
+Married 717 70.7 
+Divorced/Widowed/Separated 181 17.8 
+Single 113 11.1 
+
+Parent Education 
+High school or less 224 22.1 
+Some College 343 33.8 
+College Graduate 248 24.5 
+Graduate or professional school 198 19.5 
+
+Household Location 
+City 270 26.6 
+Suburb 744 73.4 
+
+on-one in-home interviews were conducted in as private a setting 
+as possible without the presence of other family members or any 
+other people. Prior to the interview, written informed consent and 
+assent were obtained from the adolescents’ parent or guardian and 
+the adolescent participant, respectively. The study was approved 
+by the Institutional Review Board at Henry Ford Health System. 
+On-going analyses were approved by the Institutional Review 
+Board at RTI International. Interviews took place between February 
+of 2001 and May of 2003. 
+
+Analysis 
+
+Lifetime prevalence estimates for all measures are presented 
+based on the youth and parent reports, except GPA, for which 
+only parental report was available. Level of agreement between 
+youth and parents on SDB and ADHD was assessed by . statistic. 
+
+
+Treating BMI as a continuous variable in logistic-regression 
+models assumes that BMI is linearly associated with SDB. We 
+tested this assumption using the fractional polynomial method.
+34,35 In this analytic method, successive combinations of the 
+degree and power of polynomials are fit to the data. The best-fitting 
+degree and power of polynomial, including a linear function, 
+is determined by partial likelihood ratio tests for significantly 
+increased model fit for each increasing degree of polynomial. 
+Separate models were estimated for youth and parent report of 
+SDB and these continuous outcomes, although generalized estimating 
+equations (GEE, reviewed below) were used to combine 
+estimates across multiple observers or reports, this method cannot 
+account for the potential nonlinearity of these relationships. Thus, 
+the linearity of the association between BMI and SDB was tested 
+
+reported weight and height of the youth using the standard for-for both youth and parent reports prior to GEE analyses. 
+mula for measures in pounds and inches (BMI = [weight × 703] / GEE with a logit link was used to test the hypothesis that SDB 
+height squared). is associated with significantly increased odds of several fac
+
+
+tors: race/ethnicity, asthma, school-related sleep problems, and 
+Daytime sleepiness, school performance, and ADHD ADHD. Because of the generally observed disagreement between 
+informants and the lack of consensus about methods for recon-
+
+Daytime sleepiness was assessed using the Sleep Wake Activ
+
+
+ciling disagreements between informants, GEE can be used to 
+
+ity Inventory.31 Thus, sleepiness was assessed using a self-report 
+
+estimate the association of independent variables with dependent 
+
+measure validated among adults. The few available measures for 
+
+variables combining multiple observations.36,37 The addition of an 
+
+use in children focus on parental report. Since parents are less 
+
+interaction term to the model was used to test for significant dif
+
+
+likely to be aware of sleepiness in adolescents than they are in 
+
+ferences in the relationship of SDB with these variables by report-
+
+younger children, we chose to use a validated self-report measure 
+
+er—youth or parent. Although the SDB questions assessed how 
+
+rather than a parent report. However, as mentioned below, our sta
+
+
+often, if ever, these symptoms occurred, indicating lifetime frame 
+
+tistical analysis allows for combining both parent and adolescent 
+
+of reference, we also assessed the association between SDB and 
+
+reports as well as for testing for any differences in association by 
+
+past month ADHD in secondary GEE analyses to examine the 
+
+reporter. 
+
+current association. All analyses were carried out using STATA 
+
+Several school-performance indicators were also assessed, in
+
+
+8.0 SE.38 
+cluding parent-reported grade point average (GPA), frequency of 
+late school arrival due to oversleeping, and frequency of falling 
+
+RESULTS 
+
+asleep in a morning class. Lifetime diagnosis ADHD and its subtypes 
+(Inattention and Hyperactive) were made according to the Prevalence SDB 
+Diagnostic and Statistical Manual of Mental Disorders, Fourth 
+
+The prevalence of snoring and other symptom of SDB are pre-
+
+Edition criteria,32 using the Computerized Diagnostic Schedule 
+
+sented in Table 2. Across all symptoms, youth and parent reports 
+
+for Children version 4.33 
+
+showed similar results. Of the 1014 adolescents 13 to 16 years 
+of age who participated in this study, approximately 20% were 
+
+PROCEDURES 
+
+reported to snore at least a few nights a month. Among snorers, 
+
+Separate structured face-to-face interviews were conducted 11.9% and 12.3% were reported to snore loudly or very loudly acwith 
+the adolescent and 1 parent at participants’ homes or Henry cording to youth and parent report, respectively. The apnea symp-
+Ford Health System offices by trained interviewing staff. One-toms were reported less frequently, ranging from 6.1% for parent 
+
+SLEEP, Vol. 29, No. 9, 2006 1137 Epidemiology of SDB in Adolescents—Johnson and Roth 
+
+
+Table 2—Lifetime Prevalence of Sleep-Disordered Breathing Symptoms 
+– Youth and Parent Report 
+
+Youth Report Parent Report 
+Na% b N %b 
+Snoring 
+
+Never 576 56.8 522 52.9 
+Rarely 203 20.0 227 23.0 
+A few nights per month 104 10.3 124 12.6 
+At least once a week 49 4.8 46 4.7 
+Every or almost every night 59 5.8 59 6.0 
+
+
+Loudness of snoring 
+Quiet 197 19.4 258 25.4 
+Moderate 166 16.4 140 13.7 
+Loud 35 3.4 39 3.8 
+Very Loud 14 3.4 17 1.7 
+
+Gasping, choking or snorting during sleep 
+Never 901 88.9 830 85.0 
+Rarely 55 5.4 87 8.9 
+A few nights per month 22 2.2 36 3.7 
+At least once a week 13 1.3 13 1.3 
+Every or almost every night 5 0.5 11 1.1 
+
+Awakened with feeling of gasping or choking 
+Never 929 91.6 940 94.3 
+Rarely 52 5.1 32 3.2 
+A few nights per month 23 2.3 18 1.8 
+At least once a week 7 0.7 5 0.5 
+Every or almost every night 2 0.2 2 0.2 
+
+Momentary periods during sleep when you stop breathing or 
+breath abnormally 
+
+Never 934 92.1 944 95.2 
+Rarely 38 3.7 23 2.3 
+A few nights per month 22 2.2 16 1.6 
+At least once a week 10 1.0 5 0.5 
+Every or almost every night 3 0.3 4 0.4 
+
+
+aNumbers do not always add to 1014 due to missing responses to 
+particular questions 
+bPercentages for loudness of snoring are based on the entire sample 
+to provide overall prevalence estimates. Percentages for loudness of 
+snoring among snorers are presented in the text. 
+
+report of youth gasping choking or snorting during sleep at least 
+a few times per month to 2.5% for parent report of youth awaking 
+with gasping or choking or momentary cessation of breathing. 
+
+Approximately 6% of adolescents had at least weekly loud 
+snoring and/or apnea-like symptoms according to both youth 
+and parent reports separately. These youth were thus classified 
+as probable cases of SDB. The level of agreement between youth 
+and parent report of SDB was moderate (. = 0.46). Among demographic 
+characteristics, SDB was significantly associated only 
+with being African American, showing an over 2-fold increased 
+risk of SDB relative to Caucasian youth (see Table 3). 
+
+BMI and SDB 
+
+A key risk factor for SDB and OSA in adults is a high BMI. 
+The median BMI in this study was 21.5, as reported by both youth 
+and parent. The association between SDB and BMI was examined 
+using GEE to combine youth and parent reports but allowing for 
+testing of significant differences by source of the report. It was 
+found that, on average, for every 1-unit increase in BMI. there 
+was a 12% increased risk of SDB, after adjusting for adolescent 
+age, sex, family income, and race or ethnicity (odds ratio [OR]= 
+
+Table 3—Lifetime Prevalence of Sleep-Disordered Breathing – Youth 
+and Parent Report 
+
+Youth Report Parent Report 
+N% % 
+SDB OR 95% CI SDB OR 95% CI 
+
+Total 1014 5.9 6.0 
+
+Sex 
+Male 504 6.0 1.0 5.6 1.0 
+Female 510 5.9 1.00 0.59 – 1.66 6.5 1.18 0.70 – 2.00 
+
+Age 
+13 226 6.2 1.0 6.6 1.0 
+14 250 7.2 1.17 0.57 – 2.42 7.2 1.09 0.54 – 2.22 
+15 415 5.3 0.84 0.42 – 1.69 5.5 0.82 0.42 – 1.62 
+16 123 4.9 0.78 0.29 – 2.07 4.1 0.60 0.21 – 1.68 
+
+Race/ Ethnicity 
+Caucasian 632 3.8 1.0 4.6 1.0 
+African 316 10.1 2.85 1.65 – 4.94 9.2 2.10 1.23 – 3.58 
+American 
+Other 63 6.3 1.72 0.58 – 5.12 4.8 1.04 0.31 – 3.51 
+
+Family Income, $ 
+< 30,000 114 6.1 1.0 9.6 1.0 
+30,000 -49,999 152 7.2 1.20 0.45 – 3.17 5.9 0.59 0.23 – 1.48 
+50,000 -69,999 264 6.4 1.05 0.42 – 2.61 5.3 0.52 0.23 – 1.19 
+70,000 -99,999 175 5.7 0.93 0.34 – 2.51 5.7 0.57 0.23 – 1.38 
+100,000 225 4.4 0.71 0.26 – 1.92 6.2 0.62 0.27 – 1.42 
+
+SDB refers to sleep-disordered breathing; OR, odds ratio; CI, confidence 
+interval 
+
+1.12, 95% confidence interval [CI] 1.08-1.16). There was no significant 
+difference by youth versus parent report (p = .55). 
+
+Treating BMI as a continuous variable in these analyses was 
+supported by finding that no polynomial higher than the linear 
+model fit these data better for either youth or parent reports, as 
+tested by fractional polynomial analysis (p > .59 and p > .32, 
+respectively). A linear model of this relationship suggests that 
+there is no point at which the degree of association between BMI 
+and SDB is substantially greater than at any other point across 
+the distribution of BMI. However, for illustrative purposes, those 
+adolescents with a BMI above the sample median (median = 21.5, 
+interquartile range 19.4-24.5) were more than twice as likely to 
+have SDB as were those below the median (OR = 2.57, 95% CI 
+1.6-4.08), using GEE analyses that adjusted for age, sex, family 
+income, and race or ethnicity. 
+
+In each of these analyses of the association of BMI with SDB, 
+African American youth had an increased risk of SDB independent 
+of BMI, relative to Caucasian adolescents (continuous 
+analysis: OR = 2.29, 95% CI 1.38-3.81; median split analysis: 
+OR = 2.63, 95% CI 1.61-4.29). Being African American was the 
+only demographic factor associated with SDB throughout these 
+analyses. However, a statistically significant interaction between 
+BMI and race or ethnicity was also found in the GEE analyses 
+(p = .06, which is below the criteria for logit regression, p < .10, 
+recommend by Hosmer & Lemeshow).35 Specifically, the linear 
+association between BMI and SDB was significantly greater for 
+Caucasian than for African American adolescents (OR = 1.17, 
+95% CI 1.11-1.23; OR = 1.09, 95% CI 1.04-1.13, respectively). 
+These differences translate into a nearly 4-fold increased risk of 
+SDB for Caucasian adolescents above the sample median BMI 
+of 21.5, compared with those below it (OR = 3.92, 95% CI 1.616.05), 
+whereas among African American adolescents, there was 
+less than a 2-fold increased risk (OR = 1.82, 95% CI 0.98-3.40). 
+
+SLEEP, Vol. 29, No. 9, 2006 1138 Epidemiology of SDB in Adolescents—Johnson and Roth 
+
+
+Table 4—Association of Sleep-Disordered Breathing with Daytime Table 5—Combined Generalized Estimating Equations Model of the 
+Factors Association of Sleep-Disordered Breathing With Daytime Factors 
+
+Excessive Daytime Adjusted Odds 95% CI Lifetime ADHD – Adjusted Odds 95% CI 
+Sleepiness Ratioa Inattention Ratioa 
+
+
+1st Quartile 1.0 No 1.0 
+2nd Quartile 1.10 0.60 – 2.01 Yes 2.17 1.06 – 4.44 
+3rd Quartile 2.13 1.23 – 3.71 Excessive Daytime Sleepiness 
+4th Quartile 3.07 1.72 – 5.46 1st Quartile 1.0 
+
+Falling asleep in a morning class during the past 2 weeks 2nd Quartile 1.02 0.55 – 1.87 
+Never 1.0 3rd Quartile 1.82 1.04 – 3.19 
+Once 1.05 0.58 – 1.89 4th Quartile 2.66 1.49 – 4.75 
+More than once 2.21 1.42 – 3.44 Grade point average 
+
+
+Grade point averageb A 1.0 
+A 1.0 B 1.89 0.97 – 3.70 
+B 2.01 1.03 – 3.90 C 2.40 1.17 – 4.87 
+C 2.62 1.30 – 5.26 D/F 2.82 1.08 – 7.32 
+D/F 3.14 1.24 – 7.97 
+
+
+aGeneralized estimating equations model using youth and parent reaGeneralized 
+estimating equations model using youth and parent re-ports, adjusting for sex, age, race/ethnicity, family income, conduct 
+ports, adjusting for sex, age, race/ethnicity, and family income. disorder and oppositional defiant disorder, of which only race/ethnicbThis 
+analysis adjusted for attention-deficit/hyperactivity disorder, ity was statistically significant: African American vs Caucasian – odds 
+conduct disorder, and oppositional defiant disorder in addition to the ratio = 2.20, 95% confidence interval (CI) 1.31 – 3.71. ADHD refers 
+above demographic characteristics. to attention-deficit/hyperactivity disorder. 
+CI refers to confidence interval. 
+
+lifetime history of ADHD—2.7% met the criteria for inattentive 
+
+Thus, there was a main effect increasing the risk of SDB among subtype, 3.0% for hyperactive subtype, and 1.2% for combined. 
+African American relative to Caucasian adolescents and an inter-Parent reports identified 7.8% of adolescents as having a lifetime 
+action indicating a differing degree of association between SDB history of ADHD: 6.1% inattentive subtype, 3.7% hyperactive, 
+and BMI for these groups. There was no interaction between the and 2.0% combined. There were no significant associations be-
+race/ethnicity category “other” and BMI (p = .89). tween demographic characteristics and ADHD (results available 
+upon request). The level of agreement between parent and youth 
+
+Daytime Sleepiness, School Factors, and SDB reports of lifetime ADHD diagnosis was moderate (. = 0.40). 
+There was no association between SDB and ADHD overall (OR 
+
+Level of daytime sleepiness was examined by quartile of the 
+
+= 1.77, 95% CI 0.86-3.64). However, SDB was associated with 
+
+SWAI excessive daytime sleepiness scale score in GEE analyses 
+
+a 2.5-fold increased risk of Inattention subtype of ADHD (OR = 
+
+that paralleled those of the assessment of BMI and SDB. Those 
+
+2.49, 95% CI 1.17-5.30) but not combined ADHD or Hyperactive 
+
+adolescents with SDB were 2 to 3 times more likely to be in the 
+
+subtype (OR = 0.94, 95% CI 0.28-3.21). There was no statistical-
+
+highest 2 quartiles of SWAI excessive daytime sleepiness scores, 
+
+ly significant interaction between SDB and parent versus youth 
+
+adjusting for race/ethnicity, age, sex, and family income (see Ta
+
+
+report (p > .10), indicating that a combined youth and parent GEE 
+
+ble 4), with no significant difference by youth versus parent report 
+
+analysis is appropriate. All analyses were adjusted for sex, age, 
+
+(p > .13). 
+
+race/ethnicity, family income, ADHD medication, conduct disor-
+
+Given the association of SDB with higher levels of excessive 
+
+der, and oppositional defiant disorder. Although there were fewer 
+
+daytime sleepiness, school consequences might be expected. Al-
+
+cases of past-month Inattention subtype of ADHD (youth n = 10 
+
+though there was no difference between those with and without 
+
+and parent n = 27). there was a significant association with SDB 
+
+SDB in the probability of being late to school in the past 2 weeks 
+
+in an unadjusted GEE model (OR = 2.74, 95% CI 1.05-7.15).
+
+due to oversleeping (p = .13), there was a significantly increased 
+risk of falling asleep in a morning class more than once among 
+
+Final Model of Daytime Factors Associated with SDB 
+
+those with SDB relative to those without SDB (see Table 4). There 
+was no significant difference in this association by youth versus As a final assessment of the daytime factors associated with 
+parent report (p = .30). SDB, a GEE model that included ADHD-inattention subtype, 
+
+Finally, there was a substantial association between SDB and daytime sleepiness, and GPA was estimated, adjusting for race/ 
+
+parent-reported GPA (rounded to the nearest whole letter grade). ethnicity, sex, age, family income, conduct disorder, and opposi-
+Those adolescents with SDB were approximately 2 to 3 times tional defiant disorder (see Table 5). Each of these daytime facmore 
+likely to have a B, C, or D/F GPA, compare to an A, than tors remained independently associated with SDB, with each of 
+were those without SDB, adjusting for age, sex, race/ethnicity, these adverse conditions being more than twice as likely among 
+family income, ADHD, conduct disorder, and oppositional defi-adolescents with SDB as among those without SDB. 
+ant disorder (see Table 4). 
+
+DISCUSSION 
+ADHD and SDB 
+
+In this community-based sample of adolescents 13 to 16 years 
+According to youth report, 4.5% met Diagnostic and Statis-of age, snoring was found to be common, with both youth and 
+tical Manual of Mental Disorders, Fourth Edition criteria for a parents reporting that more than 20% of the adolescents snored 
+
+SLEEP, Vol. 29, No. 9, 2006 1139 Epidemiology of SDB in Adolescents—Johnson and Roth 
+
+
+at least a few nights per month and approximately 6% snoring 
+every or nearly every night. Apnea-like symptoms, such as gasping, 
+choking, snorting, being awakened by these occurrences, or 
+appearing to stop breathing, were also relatively common, with 
+occurrences reported at least a few times per month ranging from 
+2.5% to 6.1% of adolescents. Both youth and parents reported 
+a prevalence of 6% of probable SDB. African Americans were 
+found to have a 2- to 3-fold increased risk of SDB, relative to 
+Caucasian adolescents. There was a significant interaction between 
+BMI and being African American, compared with being 
+Caucasian: BMI having nearly twice the association with SDB 
+among Caucasian, compared with African American, adolescents. 
+SDB was also significantly associated with a number of daytime 
+factors. Those adolescents with SDB were 2 and 3 times more 
+likely to have excessive daytime sleepiness, were twice as likely 
+to have fallen asleep during a morning class at school in the past 
+2 weeks, and were more likely to have a lower GPA than those 
+adolescents without SDB, adjusting for age, sex, race/ethnicity, 
+and family income. Additionally, SDB was associated with an approximately 
+2.5-times increased risk of Inattention type of ADHD 
+than were those without SDB symptoms but not the Hyperactivity 
+subtype of ADHD, independent of other behavior problems 
+and potential demographic confounders. In a final model of SDB 
+and daytime factors, current excessive daytime sleepiness, GPA 
+and ADHD–inattention subtype were independently associated 
+with SDB adjusting for sex, age, race/ethnicity, conduct disorder, 
+and oppositional defiant disorder. These independent associations 
+with both short-and longer-term potential consequences suggest 
+the possibility of complex development of multiple adverse conditions 
+associated with SDB in adolescents. 
+
+Prevalence of Symptoms of SDB 
+
+The results of this study build upon and extend the increasing 
+body of work on SDB and OSA among children. The prevalence 
+of snoring symptoms reported by other studies are comparable 
+with those reported here: 4% of a Greek and 7% of Turkish children 
+were reported to be habitual snorers6,9 (6% of this study’s 
+adolescents snored every or nearly every day); in samples from 
+Germany and Spain, approximately 28% of adolescents were reported 
+to snore at least sometimes7,8 (20% of this study’s adolescents 
+snored at least of few times per month). This study extended 
+beyond these studies by also assessing other known symptoms 
+associated with SDB (e.g., awakening with gasping or choking), 
+indicating that approximately 6% of adolescents aged 13 to 16 
+years may experience some of these symptoms at least weekly, 
+according to independent reports of both youth and parents. This 
+estimated prevalence of SDB is a somewhat higher than recent 
+SDB estimates from population-based studies of children using 
+traditional polysomnography clinical thresholds (approximately 
+2%)52 and about the same as those found among adults in Western 
+countries (5%),3 suggesting that this self-report measure, while 
+lacking the validity of polysomnography, is not an unrealistic one 
+for adolescents. 
+
+BMI, Race/Ethnicity, and SDB 
+
+Differences in the rates of SDB and OSA in children by race or 
+ethnicity have been mixed.3 Redline et al10 reported an increased 
+prevalence of SDB among African American children, compared 
+
+with Caucasian children among a high-risk sample derived from 
+a genetic epidemiology study, even after adjusting for obesity. 
+However, among adults in a retrospective chart review study, 
+Scharf et al19 found no difference by race or ethnicity in the respiratory 
+disturbance index once BMI and median income were 
+statistically controlled. In this study, however, African American 
+adolescents were more than 2 times more likely than Caucasian 
+adolescents to have SDB, even after adjusting for family income, 
+sex, age, and BMI. Indeed, this main effect for African Americans 
+remained even with finding a significant interaction between 
+BMI and race/ethnicity. 
+
+SDB and Daytime Factors 
+
+It has been observed that young children with OSA do not 
+routinely present with excessive daytime sleepiness, but, rather, 
+they may also present with externalizing behaviors such as hyperactivity 
+24 however some researchers have found an association 
+with daytime sleepiness.12,13,15 It has also been reported in the 
+few school-based cohort studies that OSA and SDB are associated 
+with poor school performance.20-22 In this study, SDB was 
+moderately associated with excessive daytime sleepiness, falling 
+asleep during class, and poorer overall GPA, after adjusting for 
+age, sex, race/ethnicity, family income, ADHD, conduct disorder, 
+and oppositional defiant disorder. This latter finding suggests an 
+effect of SDB on school performance beyond its association with 
+demographic factors or behavior problems more generally. 
+
+Although a number of studies have identified an association 
+between SDB or OSA and behavior problems in children, including 
+inattention and hyperactivity, the majority of these studies 
+have been based on clinic-derived samples. The few population-
+based pediatric studies have focused on younger children, finding 
+significant associations between symptoms of SDB and both hyperactivity 
+and inattention.12 The 1 general-pediatric-clinic study 
+included children 2 to 14 years of age and found a stronger association 
+of symptoms of SDB and hyperactivity in children less 
+than 8 years of age, with weak or nonsignificant associations in 
+children 8 years of age or older.27 In contrast, this study found that 
+adolescents with weekly symptoms of SDB were approximately 
+
+2.5 times more likely to meet Diagnostic and Statistical Manual 
+of Mental Disorders, Fourth Edition criteria for Inattention type of 
+ADHD than those without SDB symptoms but found no association 
+between SDB symptoms and Hyperactivity type of ADHD. 
+Although studies of young children have found symptoms of SDB 
+to be associated with both hyperactivity and inattention, among 
+adults, symptoms of SDB have been consistently associated with 
+symptoms of inattention-sleepiness rather than hyperactivity.3941 
+Placing this study in the context of these studies, adolescence 
+may be a period of a transition in the symptomatology of ADHD 
+that changes the association between SDB and ADHD subtypes. 
+Such a change in association would parallel observed changes in 
+ADHD presentation in adulthood (more inattention) versus childhood 
+(more hyperactivity).42-44 
+Finally, we estimated a single model that included excessive 
+daytime sleepiness, parent-reported GPA, and ADHD–inattention 
+subtype, adjusting for demographic characteristics, conduct disorder, 
+and oppositional defiant disorder. SDB was independently 
+associated with a greater than 2-fold increased risk of each of 
+these potential daytime consequences. Thus, SDB may have both 
+near-term consequences (i.e., excessive daytime sleepiness in the 
+
+SLEEP, Vol. 29, No. 9, 2006 1140 Epidemiology of SDB in Adolescents—Johnson and Roth 
+
+
+past 2 weeks) and, independently, longer-term or sustained con-may have both immediate effects on daytime sleepiness and also 
+sequences (e.g., ADHD symptoms). Recently, Beebe and Gozal independent longer-term effects on outcomes such as GPA and 
+developed a theoretical model of this link between OSA or SDB ADHD–inattention subtype. Thus, there appears to be increasing 
+and long-term deficits in executive functioning beyond the im-justification for more population-based studies of SDB and OSA 
+mediate effects of daytime sleepiness.45 In their model, the sleep among children that are sufficiently large and preferably longitudisruption 
+and the intermittent hypoxia and hypercarbia associ-dinal and that incorporate objective measure of SDB in order to 
+ated with these disorders interfere with the restorative and chemi-substantially increase our understanding of this important health 
+cal homeostatic processes of sleep and create persistent prefrontal problem. 
+cortical dysfunction. As evidence that persistent executive-function 
+effects occur, Beebe and Gozal pointed to several studies in ACKNOWLEDGMENTS 
+adults that indicate residual executive-function deficits among 
+
+Funding: NIH Grant MH61385
+
+adults whose OSA or SDB has been resolved with continuous 
+positive airway pressure,46-49 as well as some evidence that treated 
+
+REFERENCES
+
+pediatric patients retain learning deficits well after SDB has been 
+corrected.50,51 Thus, this study provides epidemiologic evidence 1. Guilleminault C, Eldridge FL, Simmons FB, Dement WC. Sleep 
+that is consistent with treatment-based studies of adults and chil-apnea in eight children. Pediatrics 1976;58:23-30. 
+dren, suggesting long-term consequences of SDB in addition to 2. Guilleminault C, Winkle R, Korobkin R, Simmons B. Children 
+
+and nocturnal snoring: evaluation of the effects of sleep related 
+
+current excessive daytime sleepiness. 
+respiratory resistive load and daytime functioning. Eur J Pediatr 
+
+1982;139:165-71.
+
+Limitations 
+
+
+3. Young T, Peppard PE, Gottlieb DJ. Epidemiology of obstructive 
+The primary limitation of this study is that symptoms of SDB 
+sleep apnea: a population health perspective. Am J Respir Crit Care 
+Med 2002;165:1217-39.
+
+were assessed by self-report or parental observation instead of ob
+
+
+4. Cohen-Zion M, Ancoli-Israel S. Sleep in children with attentionjective 
+measures of breathing during sleep. This study is unique 
+
+deficit hyperactivity disorder (ADHD): a review of naturalistic and 
+
+among studies of SDB in children or adolescents in that it incor
+
+
+stimulant intervention studies. Sleep Med Rev 2004;8:379-402.
+
+porates multiple observations. Having multiple reports for each 
+
+5. Ferini-Strambi L, Fantini ML, Castronovo C. Epidemiology of obadolescent 
+may go some way toward addressing this limitation, structive sleep apnea syndrome. Minerva Med 2004;95:187-202.
+particularly since all tests of difference by youth versus parent re-6. Kaditis AG, Finder J, Alexopoulos EI, et al. Sleep-disordered 
+ports were not statistically significant and suggest some reliability breathing in 3,680 Greek children. Pediatr Pulmonol 2004;37:499in 
+the associations found here. Indeed, the estimated prevalence of 509. 
+6% is a somewhat higher than recent SDB estimates from popula-7. Ipsiroglu OS, Fatemi A, Werner I, Tiefenthaler M, Urschitz MS, 
+
+
+Schwarz B. Prevalence of sleep disorders in school children be
+
+
+tion-based studies of children using traditional polysomnographic 
+
+tween 11 and 15 years of age Wien Klin Wochenschr 2001;113:235
+
+
+clinical thresholds (approximately 2%)52 and about the same as 44.those found among adults in Western countries (5%),3 suggesting 
+
+8. Sanchez-Armengol A, Fuentes-Pradera MA, Capote-Gil F, Gar-
+that this self-report measure is not unrealistic. A second limita
+
+
+cia-Diaz E, Cano-Gomez S, Carmona-Bernal C, Castillo-Gomez J. 
+tion was that the sample was obtained from a health maintenance Sleep-related breathing disorders in adolescents aged 12 to 16 years: 
+membership directory, which will not include those without health clinical and polygraphic findings. Chest 2001;119:1393-400. 
+insurance and those with traditional insurance. However, prior 9. Ersu R, Arman AR, Save D, Karadag B, Karakoc F, Berkem M, 
+studies based on similarly derived samples of adults have shown Dagli E. Prevalence of snoring and symptoms of sleep-disordered 
+substantial similarity to the population in the Detroit metropolitan breathing in primary school children in Istanbul. Chest 2004;126:19area 
+(Breslau et al 1991) and to current Census estimates (United 24. 
+
+10. Redline S, Tishler PV, Schluchter M, Aylor J, Clark K, Graham G. 
+States Census Bureau, 2003). A third limitation is that we do not 
+
+Risk factors for sleep-disordered breathing in children. Associations 
+
+have information on allergies that adolescents might have and 
+
+with obesity, race, and respiratory problems. Am J Respir Crit Care 
+
+could be related to both SDB and daytime symptoms we have 
+
+Med 1999;159:1527-32.
+examined here.53,54 Finally, these data were cross-sectional, so the 11. Quan SF, Enright PL, Kaemingk KL, Rosen GM, Morgan WJ, 
+directionality of associations (e.g., SDB . Inattention or Inatten-Fregosi RF. Prevalence of obstructive sleep apnea in children: pretion 
+. SDB) remains uncertain. liminary report of the Tucson Children Assessment of Sleep Apnea 
+Study (TuCASA). Sleep 2000;23:A195. 
+
+12. Gottlieb DJ, Vezina RM, Chase C, et al. Sleep-disordered breath-
+CONCLUSIONS 
+
+
+ing in 5-year old children: correlates and association with problem 
+In this first community-based study of SDB among adoles-behaviors. Am J Respir Crit Care Med 2001;163:A299. 
+cents, the symptoms of SDB were found to be common, with 13. Ali NJ, Pitson DJ, Stradling JR. Snoring, sleep disturbance, and be-
+even “at least weekly” loud snoring and/or apnea-like symptoms havior in 4–5 year olds. Arch Dis Child 1993;68:360-6. 
+
+14. Teculescu DB, Caillier I, Perrin P, Rebstock E, Rauch A. Snoring in 
+being reported by approximately 6% of both youth and parents. 
+
+French preschool children. Pediatr Pulmonol 1992;13:239-44.
+
+Such SDB was associated with race/ethnicity, BMI, daytime fac
+
+
+15. Gislason T, Benediktsdottir B. Snoring, apneic episodes, and noctors, 
+and ADHD, as might be expected. However, the results of 
+
+turnal hypoxemia among children 6 months to 6 years old. Chest 
+
+this study suggest that the nature of their relationships may be 
+
+1995;107:963-6.
+complex (e.g., the substantially larger association between BMI 16. Corbo Giuseppe M, Fuciarelli F, De Benedetto F. Snoring in chiland 
+SDB among Caucasian than African American adolescents dren: association with respiratory symptoms and passive smoking. 
+or the association of SDB only with the Inattention subtype of Br Med J 1989;299:1491-4. 
+ADHD). Moreover, this study adds to the evidence that SDB 17. Redline S, Tishler PV, Schluchter M, Aylor J, Clark K, Graham G. 
+
+SLEEP, Vol. 29, No. 9, 2006 
+1141 
+Epidemiology of SDB in Adolescents—Johnson and Roth 
+
+
+Risk factors for sleep-disordered breathing in children. Am J Respir 
+Crit Care Med 1999;159:1527-32. 
+
+18. 
+Fuentes-Pradera MA, Sanchez-Armengol A, Capote-Gil F, et al. Effects 
+of sex on sleep-disordered breathing in adolescents. Eur Respir 
+J 2004;23:250-4. 
+19. 
+Scharf SM, Seiden L, DeMore J, Carter-Pokras O. Racial differences 
+in clinical presentation of patients with sleep-disordered breathing. 
+Sleep Breath 2004;8:173-83. 
+20. 
+Gislason T, Benediktsdottir B. Snoring, apneic episodes, and nocturnal 
+hypoxemia among children 6 months to 6 years old. Chest 
+1995;107:963-6. 
+21. 
+Weissbluth M, Davis AT, Poncher J, Reiff J. Signs of airway obstruction 
+during sleep and behavioral, developmental, and academic 
+problems. J Dev Behav Pediatr 1983;4:119-21. 
+22. 
+Gozal D. Sleep-disordered breathing and school performance in 
+children. Pediatrics 1998;102:610-20. 
+23. 
+Guilleminault C, Winkle R, Korobkin R, Simmons B. Children 
+and nocturnal snoring: evaluation of the effects of sleep related 
+respiratory resistive load and daytime functioning. Eur J Pediatr 
+1982;139:165-71. 
+24. 
+Gozal D, Wang M, Pope DW. Objective sleepiness measures in pediatric 
+obstructive sleep apnea. Ped 2001:108:693-7. 
+25. 
+Means MK, Lichstein KL, Edinger JD, et al. Changes in depressive 
+symptoms after continuous positive airway pressure treatment for 
+obstructive sleep apnea. Sleep Breath 2003;7:31-42. 
+26. 
+Crabtree VM, Varni JW, Gozal D. Health-related quality of life and 
+depressive symptoms in children with suspected sleep-disordered 
+breathing. Sleep 2004;27:1131-8. 
+27. 
+Chervin RD, Archbold KH, Dillon JE, Panahi P, Pituch KJ, Dahl 
+RE, Guilleminault C. Inattention, hyperactivity, and symptoms of 
+sleep-disordered breathing. Pediatrics 002;109:449-56. 
+28. 
+Tran KD, Nguyen CD, Weedon J, Goldstein NA. Child behavior and 
+quality of life in pediatric obstructive sleep apnea. Arch Otolaryngol 
+Head Neck Surg 2005;131:52-7. 
+29. 
+U.S. Census Bureau (2003). Online summary tables of 2000 U.S. 
+Census data. available at: http://factfinder.census.gov/servlet/SAFFPeople?_
+sse=on. Accessed on March 27, 2006. 
+30. 
+Young T, Palta M, Dempsey J, Skatrud J, Weber S, Badr S. The occurrence 
+of sleep-disordered breathing among middle-aged adults. 
+N Engl J Med 1993;328:1230-5. 
+31. 
+Rosenthal L, Roehrs TA, Roth T. The Sleep-Wake Activity Inventory: 
+a self-report measure of daytime sleepiness. Biol Psychiatry 
+19931;34:810-20. 
+32. 
+Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition 
+– Text Revision. Washington, DC: American Psychiatric Association; 
+2000. 
+33. 
+Shaffer D, Fisher P, Lucas C, Comer J. Computerized Diagnostic 
+Interview Schedule for Children (CDISC-IV). New York: New York 
+State Psychiatric Institute, Columbia University; 2000. 
+34. 
+Royston P, Altman DG. Regression using fractional polynomials of 
+continuous covariates: parsimonious parametric modeling (with discussion). 
+Appl Stat 1994;43:429-67. 
+35. 
+Hosmer DW, Lemeshow S. Applied Logistic Regression, 2nd ed. 
+New York: John Wiley & Sons; 2000:91-141 
+36. 
+Fitzmaurice GM, Laird NM, Zahner GE, Daskalakis C. Bivariate 
+logistic regression analysis of childhood psychopathology ratings 
+using multiple informants. Am J Epidemiol 1995;142:1194-203. 
+37. 
+Chilcoat HD, Breslau N. Does psychiatric history bias mothers’ reports? 
+An application of a new analytic approach. J Am Acad Child 
+Adolesc Psychiatry 1997;36:971-9. 
+38. 
+StataCorp. Stata Statistical Software: Release 8.0. College Station, 
+TX: Stata Corporation, 2003. 
+39. 
+Jennum P, Sjol A. Self-assessed cognitive function in snorers and 
+sleep apneics: an epidemiological study of 1,504 females and 
+males aged 30-60 years. The Dan-MONICA II study. Eur Neurol 
+1994;34:204-8. 
+40. 
+Kim HC, Young TB, Matthews CG, Weber SM, Woodard AR, Palta 
+M. Sleep-disordered breathing and neuropsychological deficits: a 
+population-based study. Am J Respir Crit Care Med 1997;156:18139. 
+41. 
+Mazza S, Pepin JL, Naegele B, Plante J, Deschaux C, Levy P. Most 
+obstructive sleep apnoea patients exhibit vigilance and attention 
+deficits on an extended battery of tests. Eur Respir J 2005;25:7580. 
+42. 
+Biederman J, Faraone S, Milberger S, Curtis S, Chen L, Marrs A. 
+Predictors of persistence and remission of ADHD into adolescence: 
+results from a four-year prospective follow-up study. J Am Acad 
+Child Adolesc Psychiatry 1996:35:343-51. 
+43. 
+Biederman J, Mick E, Faraone SV. Age-dependent decline of symptoms 
+of attention deficit hyperactivity disorder: impact of remission 
+definition and symptom type. Am J Psychiatry 2000;157:816-8. 
+44. 
+Rasmussen P, Gillberg C. Natural outcome of ADHD with developmental 
+coordination disorder at age 22 years: a controlled, longitudinal, 
+community-based study. J Am Acad Child Adolesc Psychiatry 
+2000;39:1424-31. 
+45. 
+Beebe DW, Gozal D. Obstructive sleep apnea and the prefrontal 
+cortex: towards a comprehensive model linking nocturnal upper 
+airway obstruction to daytime cognitive and behavioral deficits. J 
+Sleep Res 2002;11:1-16. 
+46. 
+Bearpark H, et al. Cognitive and psychological dysfunction in 
+sleep apnea before and after treatment with CPAP. Sleep Res 
+1987:16:303. 
+47. 
+Bedard MA, Montplaisir J, Malo J, Richer F, Rouleau I. Persistent 
+neuropsychological deficits and vigilance impairment in sleep apnea 
+syndrome after treatment with continuous positive airway pressure 
+(CPAP). J Clin Exp Neuro-psychol 1993;15:330-41. 
+48. 
+Feuerstein C, Naegele B, Pepin JL, Levy P. Frontal lobe-related 
+cognitive functions in patients with sleep apnea syndrome before 
+and after treatment. Acta Neurologica Belgia 1997;97:96-107. 
+49. 
+Naegele B, Pepin JL, Levy P, Bonnet C, Pellat J, Feuerstein 
+C.Cognitive executive dysfunction in patients with obstructive sleep 
+apnea syndrome (OSAS) after CPAP treatment. Sleep 1998;21:3927. 
+50. 
+Gozal D, Pope D. Snoring during early childhood and academic 
+performance at ages thirteen to fourteen years. Ped 2001;107:13949. 
+51. 
+Gozal D, Holbrook CR, Mehl RC et al. Correlation analysis between 
+NESPY battery scores and respiratory disturbance index in 
+snoring 6-year old children: a preliminary report. Sleep 2001;24: 
+A126. 
+52. 
+Rosen CL, Larkin EK, Kirchner HL, et al. Prevalence and risk factors 
+for sleep-disordered breathing in 8- to 11-year-old children: association 
+with race and prematurity. J Pediatr 2003;142:383-9. 
+53. 
+Ekici A, Ekici M, Kurtipek E, Keles H, Kara T, Tunckol M, Kocyigit 
+P. Association of asthma-related symptoms with snoring and apnea 
+and effect on health-related quality of life. Chest 2005;128:335863. 
+54. 
+Ng DK, Chan CH, Kwok KL, Cheung JM. Allergic rhinitis as a risk 
+factor for habitual snoring in children. Chest 2005;127:2285-6. 
+SLEEP, Vol. 29, No. 9, 2006 
+1142 
+Epidemiology of SDB in Adolescents—Johnson and Roth 
+
+

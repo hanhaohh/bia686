@@ -1,0 +1,978 @@
+Symptoms Related to Sleep-Disordered 
+Breathing in White and Hispanic Children * 
+
+James L. Goodwin, Sardar I. Babar, Kris L. Kaemingk, Gerald M. Rosen, 
+Wayne J. Morgan, Duane L. Sherrill and Stuart F. Quan 
+
+Chest 2003;124;196-203 
+DOI 10.1378/chest.124.1.196 
+
+The online version of this article, along with updated information 
+and services can be found online on the World Wide Web at: 
+
+http://www.chestjournal.org/content/124/1/196.full.html 
+
+CHEST is the official journal of the American College of ChestPhysicians. It has been published monthly since 1935. Copyright 2007 
+by the American College of Chest Physicians, 3300 Dundee Road, 
+Northbrook IL 60062. All rights reserved. No part of this article or PDF 
+may be reproduced or distributed without the prior written permission 
+of the copyright holder. 
+(http://www.chestjournal.org/misc/reprints.shtml) ISSN:0012-3692 
+
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2003 American College of Chest Physicians 
+
+
+
+Symptoms Related to Sleep-Disordered 
+Breathing in White and Hispanic 
+Children* 
+
+The Tucson Children’s Assessment of Sleep 
+Apnea Study 
+
+James L. Goodwin, PhD; Sardar I. Babar, MD; Kris L. Kaemingk, PhD; 
+Gerald M. Rosen, MD; Wayne J. Morgan, MD; Duane L. Sherrill, PhD; and 
+Stuart F. Quan, MD, FCCP 
+
+Study objectives: The Tucson Children’s Assessment of Sleep Apnea (TuCASA) study is designed 
+to investigate the prevalence and correlates of objectively measured sleep-disordered breathing 
+(SDB) in preadolescent children. This article describes the parental report of sleep symptoms 
+associated with SDB in Hispanic and white children. 
+Design: A 13-question sleep habits screening questionnaire designed to assess the severity of 
+sleep-related symptoms associated with SDB in children 4 to 11 years of age. 
+Setting: Questionnaires were completed by the parents of children attending elementary school 
+in the Tucson Unified School District, Tucson, AZ. 
+Participants: There were 1,494 questionnaires returned, which comprised a sample of whites 
+(38%), Hispanics (45%), and other races (17%). Of these questionnaires, 1,214 were returned for 
+the children of white (45.8%; 556 children) or Hispanic (54.2%; 658 children) ethnicity only. The 
+primary analysis was completed on these 613 boys (50.5%) and 601 girls (49.5%). 
+Results: In the total sample of 1,494 children, parents were more likely to report excessive 
+daytime sleepiness (EDS) in female children than in male children (p < .01), however, this 
+association did not achieve significance in the sample of only white and Hispanic children 
+(p < .07). Composite variables for EDS and witnessed apnea (WITAP) show that parents of 
+Hispanic children were more likely to report EDS (p < .01) and WITAP (p < .007). Hispanic 
+children were also more likely to have learning problems (LPs) [p < .03] and to snore frequently 
+(SN) [p < .02] than were white children. There were no significant differences between boys and 
+girls for SN or WITAP. Hispanic boys were more likely to have reports of EDS (p < .02) and LPs 
+(p < .04) than white boys, however, there were no other significant differences in gender or 
+ethnicity in reports of EDS or LPs for white or Hispanic boys and girls. Those children with 
+frequent LPs were significantly more likely to have SN (p < .001), EDS (p < .001), and WITAP 
+(p < .001). A logistic regression model predicting LP resulted in significant adjusted odds ratios 
+(ORs) of 2.4 for SN, 2.5 for EDS, and 2.1 for children aged 8 to 11 years. A similar model for EDS 
+resulted in significant adjusted ORs of 3.2 for SN, 5.7 for WITAP, and 1.6 for female gender. 
+Ethnicity was not significant in either model. 
+Conclusions: Hispanic children in the population-based TuCASA study experienced more 
+frequent symptoms associated with SDB, such as SN, EDS, WITAP, and LPs, than did white 
+children. Children with LPs are 2.4 times more likely to have SN, 2.5 times more likely to have 
+EDS, and were 2.1 times more likely to be between the ages of 8 and 11 years. Children with EDS 
+were 3.2 times more likely to have SN, 5.7 times more likely to have WITAP, and were 1.6 times 
+more likely to be a girl. (CHEST 2003; 124:196–203) 
+
+Key words: children; excessive daytime sleepiness; Hispanic; sleep; sleep apnea; sleep-disordered breathing; white; 
+witnessed apnea 
+
+Abbreviations: CI . 
+confidence interval; EDS . 
+excessive daytime sleepiness; LP . 
+learning problem; OR . 
+odds 
+ratio; OSA . 
+obstructive sleep apnea; OSAS . 
+obstructive sleep apnea syndrome; SDB . 
+sleep-disordered breathing; 
+SN . 
+snoring frequently or almost always; TuCASA . 
+Tucson Children’s Assessment of Sleep Apnea; TUSD . 
+Tucson 
+Unified School District; WITAP . 
+witnessed apnea 
+
+Clinical Investigations
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2003 American College of Chest Physicians 
+
+
+
+T
+T
+here is increasing recognition that sleep disturbances 
+and snoring are important factors in 
+childhood development. Sleep-disordered breathing 
+(SDB) including obstructive sleep apnea (OSA) syndrome 
+(OSAS) is acknowledged as an important 
+cause of morbidity in children. Clinical symptoms of 
+OSAS in children include daytime sleepiness, snoring, 
+restlessness during sleep, hyperactivity, nocturnal 
+arousals, and enuresis.1– 4 Evidence also suggests 
+that the adverse effects of frequent nighttime arousals 
+include learning, behavioral, and personality 
+problems.5–8 A recent review of evidence9 has shown 
+an almost threefold increase in behavioral and neurocognitive 
+abnormalities in children with SDB. 
+
+Snoring in children has been associated with daytime 
+sleepiness, restless sleep, and hyperactivity, and 
+is an indicator for the presence of OSA.10–13 Despite 
+the fact that no definitive epidemiologic study to 
+determine the prevalence of OSA in children has 
+been done, estimates range from 1 to 3%.12,14 –16 
+This would place an estimated 320,000 of the 
+32 million children between 6 and 11 years old in the 
+United States at risk for adverse health consequences 
+due to OSA.17 
+
+Excessive daytime sleepiness (EDS) occurs less 
+frequently in children with OSAS than in adults with 
+OSAS.18,19 This may occur because children with 
+OSAS are less prone than adults to develop sleep 
+fragmentation.20,21 In addition, EDS in children 
+tends to occur mostly among those who are more 
+obese or have severe OSAS.19 Cross-sectional studies4,22 
+have reported EDS ranging from 8 to 62% of 
+children with OSAS, thus, estimates of the prevalence 
+of EDS in children at risk for OSAS vary 
+substantially. 
+
+The American Thoracic Society has stated23,24 that 
+the assessment of OSAS in children is important 
+work that needs to be extended to include a larger 
+number of children from different risk groups. One 
+study15 showed an increased risk of OSAS for African-
+American children, however, no studies have 
+been performed to examine the risk of OSAS for 
+
+*From the Arizona Respiratory Center (Drs. Goodwin, Babar, 
+Morgan, Sherrill, and Quan), and the Children’s Research Center 
+(Dr. Kaemingk), University of Arizona College of Medicine, 
+Tucson, AZ; and the Department of Pediatrics (Dr. Rosen), 
+University of Minnesota School of Medicine, Minneapolis, MN. 
+This research was supported by grant HL 62373 from the 
+National Heart, Lung, and Blood Institute. 
+Manuscript received July 19, 2002; revision accepted December 
+6, 2002. 
+Reproduction of this article is prohibited without written permission 
+from the American College of Chest Physicians (e-mail: 
+permissions@chestnet.org). 
+
+
+Correspondence to: James L. Goodwin, PhD, Arizona Respiratory 
+Center, University of Arizona College of Medicine, 1501 N 
+Campbell, Room 2306, Tucson, AZ 85724; e-mail: jamieg@respsci.
+arizona.edu 
+
+Hispanic children. The year 2000 US census25 shows 
+that the Hispanic population increased 50% from 
+1990 to 2000, with Hispanics accounting for 12.5% 
+of the US population. An estimated 4 million Hispanic 
+children from 6 to 11 years of age currently live 
+in the United States,26 therefore, estimates of the 
+prevalence of symptoms associated with OSAS in 
+Hispanic children are becoming essential. Many 
+reports of sleep symptoms that are indicative of 
+OSAS occur in clinical or small samples, therefore, it 
+would be useful to determine the prevalence of these 
+conditions in a population-based sample of children 
+and to assess whether there are differences between 
+Hispanic and white children. 
+
+The Tucson Children’s Assessment of Sleep Apnea 
+(TuCASA) study is a prospective cohort study 
+that was designed to determine the prevalence of 
+objectively documented SDB in preadolescent children 
+and to investigate its relationship to symptoms, 
+performance on neurobehavioral measures, and 
+physiologic and anatomic risk factors. This report 
+describes the prevalence of reported symptoms associated 
+with SDB in Hispanic and white children 
+obtained while screening children for home polysomnography 
+in the TuCASA study. 
+
+Materials and Methods 
+
+The design of the TuCASA study specified the recruitment of 
+Hispanic and white children aged 6 through 11 years to undergo 
+unattended home polysomnography, to complete a pediatric 
+sleep-habits questionnaire, and to perform a neurocognitive 
+assessment.27 Recruitment was accomplished by soliciting the 
+cooperation of selected elementary schools in the Tucson Unified 
+School District (TUSD). TUSD is a very large district with an 
+elementary school population that is representative of children 
+living in southern Arizona. To ensure that an adequate number of 
+Hispanic children were surveyed and recruited for polysomnography, 
+elementary schools were contacted that had a larger 
+proportion of Hispanic children than white children. The population 
+of the schools recruited was 33.7% white vs 52.5% 
+Hispanic, to achieve approximately equal participation of Hispanic 
+and white children. 
+
+Typically, a short sleep-habits screening questionnaire was sent 
+home with children in a “notes home” folder. Parents were asked 
+to complete the questions and to provide their contact information 
+if they agreed to allow study personnel to call and schedule 
+a polysomnogram for their child. Because we sent questionnaires 
+home to all children attending a school targeted for recruitment, 
+some questionnaires (292 questionnaires; 19%) were received 
+from schoolchildren who were below the recruitment window for 
+polysomnography of 6 years of age. However, these questionnaires 
+were accepted and included in this analysis since we kept 
+all questionnaires from children who would have the potential to 
+complete polysomnography before the end of data collection. In 
+order to maximize parent participation, a letter of endorsement 
+from the principal of the school was included with the screening 
+questionnaire. Incentives such as pizza parties were provided to 
+classrooms that returned the highest number of screening questionnaires. 
+Additionally, an honorarium based on the percentage 
+
+www.chestjournal.org CHEST / 124/1/ JULY, 2003 197
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2003 American College of Chest Physicians 
+
+
+
+of questionnaires returned was given to the school in order to 
+encourage maximum response from all students. 
+
+The screening questionnaire is a one-page, English/Spanish 
+survey designed to assess the severity of sleep-related symptoms 
+in addition to requesting demographic information such as 
+ethnicity, age, and gender. The survey was forward-translated 
+and backward-translated into Spanish, then it was pilot tested 
+prior to implementation for Spanish-speaking parents. Parents 
+were asked to answer 13 questions pertaining to their child’s 
+sleep habits (Appendix). These questions were evaluated by the 
+parent on the scale of “never,”“rarely,”“occasionally,”“frequently,”“
+almost always,”or “don’t know.”Parents were encouraged to 
+answer the 13 questions and to return the survey even if they 
+wished to provide little or no other demographic information. 
+The questionnaire informed the parent that we would complete 
+sleep studies on approximately 300 children, but it did not give 
+any information about the purpose of the research. The complete 
+list of survey questions is provided in the “Appendix.” 
+
+Composite variables were created based on a combination of 
+some of the survey items. Subjects were classified as having EDS 
+if the parent reported that their child was sleepy in the daytime, 
+fell asleep while watching TV or in school “frequently”or more. 
+Witnessed apnea (WITAP) was present if the parent reported 
+that their child stopped or struggled to breathe, their child’s lips 
+turned blue, or they shook their child because they were worried 
+about their child’s breathing during sleep “frequently”or more. 
+Snoring was present if parents reported their child snored loudly 
+“frequently”or “almost always”(SN). The child was classified as 
+having learning problems (LPs) if the parent reported them 
+“frequently”or more. 
+
+Statistical analysis was done using a statistical software package 
+(SPSS, version 11.0 for Windows; SPSS, Inc; Chicago, IL). 
+Comparisons of proportions were based on contingency tables. 
+Statistical significance (p . 
+0.05) was determined using the 
+Pearson 2 test. Logistic regression was used to model those 
+variables found to be significant during an exploratory bivariate 
+analysis. Cronbach . 
+was used to model the internal consistency 
+of the screening survey for reliability analysis. 
+
+Results 
+
+Of the 4,880 screening questionnaires that were 
+sent home, a total of 1,494 were returned, for a 
+response rate of 30.6%. The return rate was similar 
+for boys and girls (49.7% and 49.4%, respectively), 
+and was higher for Hispanics than for whites (45.4% 
+
+and 38.1%, respectively). Other ethnicities comprised 
+16.6% (247 surveys) of the surveys. As shown 
+in Table 1, from a sample of 1,481 children reporting 
+gender and race, the prevalence of SN was 10.5%. 
+The percentages of parents reporting EDS and 
+WITAP in their children were 8.1% and 3.8%, 
+respectively. The parents of girls were more likely to 
+report EDS than those of boys (9.9% vs 6.3%, 
+respectively; p . 
+0.01). However, the prevalences of 
+reported SN, WITAP, and LP did not differ between 
+boys and girls. 
+
+A date of birth was reported on 1,416 of the 1,494 
+returned questionnaires. There were 763 children 
+(53.9%) who were between 4 years and 7 years of 
+age, and 653 children (46.1%) who were between 
+8 years and 11 years of age. No significant differences 
+were found between age categories for SN 
+(10.7% vs 10.4%, respectively; p . 
+0.05), EDS (8.5% 
+vs 7.7%, respectively; p . 
+0.05), or WITAP (3.3% vs 
+3.8%, respectively; p . 
+0.05). However, the prevalence 
+of LPs in children 8 to 11 years old was higher 
+than that observed in those 4 to 7 years old (7.2% vs 
+3.8%, respectively; p . 
+0.01). Further analysis 
+showed that this effect was more evident among 
+older girls (ie, 8 to 11 years of age, 6.3%; 4 to 7 years 
+of age, 2.5%; p . 
+0.02) than among older boys (ie, 
+8 to 11 years of age, 8.1%; 4 to 7 years of age, 5.0%; 
+p . 
+0.12). 
+
+Of the 1,494 surveys, 1,247 reported white or 
+Hispanic ethnicity (83.4%). We restricted further 
+analyses to this sample due to the small number of 
+children with other ethnicities in Tucson elementary 
+schools and because the primary focus of the 
+TuCASA study was SDB in Hispanic and white 
+children. Table 1 shows the reported prevalence of 
+symptoms for Hispanic and white children as well as 
+gender differences. The parents of Hispanic children 
+were more likely to report SN than were those 
+of white children (11.4% vs 7.4%, respectively; 
+p . 
+0.02), as well as being more likely to report EDS 
+
+Table 1—Prevalence of Symptoms Reported Frequently on the TuCASA Sleep-Habits Screening Questionnaire 
+
+Gender Ethnicity 
+Variables 
+Boys 
+(n . 
+743) 
+Girls 
+(n . 
+738) 
+Total 
+(n . 
+1,481) 
+White 
+(n . 
+556) 
+Hispanic 
+(n . 
+658) 
+Total 
+(n . 
+1,214) 
+
+SN* 11.6 9.3 10.5 7.4 11.4† 9.5 
+LP‡ 5.4 4.2 4.8 3.7 6.5† 5.2 
+EDS§ 6.3 9.9† 8.1 5.8 9.6† 7.9 
+WITAP. 
+3.5 4.1 3.8 1.9 4.7† 3.4 
+
+*Relates to question 6 in Appendix. 
+
+†p . 
+0.05. 
+‡Relates to question 13 in Appendix. 
+§Relates to questions 10, 11, and 12 in Appendix. 
+Relates questions 1 to 4 in Appendix. 
+Clinical Investigations
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2003 American College of Chest Physicians 
+
+
+
+(9.6% vs 5.8%, respectively; p . 
+0.01) and WITAP 
+(4.7% vs 1.9%, respectively; p . 
+0.007). Hispanic 
+children were also more likely to have LPs than 
+were white children (6.5% vs 3.7%, respectively; 
+p . 
+0.03). This observation was a result of there 
+being more LPs seen in Hispanic boys than in white 
+boys (8.2% vs 4.0%, respectively; p . 
+0.03). No 
+difference was found in LPs between Hispanic and 
+white girls. 
+
+An examination of the sleep-habits screening 
+questionnaire was undertaken to see whether the 
+increased symptoms reported by Hispanic parents 
+could be due to translation anomalies. Hispanic 
+parents had the option of completing the questionnaire 
+in either English or Spanish. Questions completed 
+by the parents of Hispanic children were 
+analyzed to see whether these differences were 
+dependent on the language version of the questionnaire 
+that was completed. For all composite variables, 
+there were no statistically significant differences 
+in Hispanic reports regardless of whether the 
+English or Spanish translations were used. On each 
+individual question that comprised the composite 
+variables, there were also no statistically significant 
+differences for those reporting symptoms frequently 
+or more often. The only question that was used in 
+this report that showed a statistically significant 
+difference between questionnaire versions within 
+those reporting Hispanic ethnicity was “How often 
+does your child snore loudly.” Hispanic parents 
+completing the questionnaire in Spanish (333 parents) 
+were more likely to report that their child 
+
+snored loudly than were Hispanic parents completing 
+the questionnaire in English (13.8% vs 9.0%, 
+respectively; p . 
+0.05). Finally, the internal consistency 
+of the questionnaire was found to be satisfactory 
+with a Cronbach . 
+of 0.768, which is a level that 
+remained similar regardless of whether the questionnaire 
+was completed in Spanish or English, or 
+whether by white or Hispanic parents. 
+
+In addition to the higher prevalence of LPs in 
+Hispanics and in older children, LPs were significantly 
+associated with SN, EDS, and WITAP (Fig 1). 
+However, there was no overall relationship between 
+LPs and gender. As shown in Table 2, additional 
+stratified analyses were conducted to further explore 
+the association of LPs with SN, EDS, and WITAP as 
+a function of ethnicity and gender. LPs remained 
+associated with these symptoms across ethnicity and 
+gender categories, although, in a few cases, statistical 
+significance was not quite achieved. 
+
+The prevalence rates of EDS as a function of SN, 
+WITAP, gender, and age are shown in Figure 2. In 
+addition to a greater prevalence in Hispanics, EDS 
+was more common in those children with SN and 
+WITAP. In this analysis, which was restricted to 
+whites and Hispanics only, EDS also was more 
+common in girls than in boys (9.3% vs 6.5%, respectively), 
+although statistical significance was not 
+achieved (p . 
+0.07). Thus, it is consistent with the 
+same analysis performed in the sample of children 
+with all ethnicities (see above). No differences were 
+noted between older and younger children. 
+
+SN was highly associated with WITAP (17.9 vs 1.8, 
+
+
+Figure 1. Associations between LPs and SN, EDS, WITAP, gender, and race. 
+
+www.chestjournal.org CHEST / 124/1/ JULY, 2003 199
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2003 American College of Chest Physicians 
+
+
+
+Table 2—Relationship of LPs to Symptoms Associated With OSA According to Ethnicity and Gender (n . 
+1,214)* 
+
+Ethnicity Gender 
+White (n . 
+556) Hispanic (n . 
+658) Boys (n . 
+613) Girls (n . 
+601) 
+Variables LPs Ratio % Ratio % Ratio % Ratio % 
+
+SN Yes 5:41 12.2† 11:76 14.5† 10:69 14.5† 6:48 12.5† 
+No 16:515 3.1 33:582 5.7 29:544 5.3 20:553 3.6 
+EDS Yes 3:33 9.1 11:63 17.5† 7:40 17.5† 7:56 12.5† 
+No 18:523 3.4 33:595 5.5 32:573 5.6 19:545 3.5 
+WITAP Yes 2:11 18.2† 6:30 20.0† 2:18 11.1 6:23 26.1† 
+No 19:545 3.5 38:628 6.1 37:595 6.2 20:578 3.5 
+
+*See Table 1 for information relating variables to questions in the Appendix. 
+
+†p . 
+0.05, LPs vs no LPs. 
+respectively; p . 
+0.001). However, there were no 
+significant differences in SN between boys and girls 
+or between older and younger children. 
+
+Logistic regression was used to model LPs with 
+those variables found to be associated in the exploratory 
+bivariate analysis (p . 
+0.10). The adjusted odds 
+ratio (OR) for SN was 2.4 (95% confidence interval 
+[CI], 1.2 to 4.70; p . 
+0.02), the adjusted OR for 
+EDS was 2.5 (95% CI, 1.2 to 5.0; p . 
+0.01), and the 
+adjusted OR for age 8 to 11 years was 2.1 (95% CI, 
+
+1.2 to 3.5; p . 
+0.01). However, WITAP and ethnicity 
+were not significant in this model. A similar model 
+was constructed to predict EDS, which showed an 
+adjusted OR for SN of 3.2 (95% CI, 1.8 to 5.5; 
+p . 
+0.001), an adjusted OR for WITAP of 5.7 (95% 
+CI, 2.8 to 11.7; p . 
+0.001), and an adjusted OR for 
+female gender of 1.6 (95% CI, 1.01 to 2.45; 
+p . 
+0.04). Similar to the model constructed for LPs, 
+ethnicity was not significant. 
+
+Discussion 
+
+The TuCASA study has demonstrated that children 
+with LPs who are between 4 years and 11 years 
+of age were significantly more likely to have a 
+parental report of SN and EDS. Also, children with 
+EDS were much more likely to have SN and 
+
+
+Figure 2. Associations between EDS and SN, WITAP, gender, and race. 
+
+Clinical Investigations
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2003 American College of Chest Physicians 
+
+
+
+WITAP, and to be female. Additionally, the parents 
+of Hispanic children reported significantly more 
+EDS, WITAP, and SN in their children than did 
+white parents. Furthermore, Hispanic boys were 
+more likely to have reports of EDS and LPs than 
+were Hispanic girls or whites of both genders. 
+Finally, the parents of children of all ethnicities were 
+significantly more likely to report frequent daytime 
+sleepiness in girls than in boys. 
+
+LPs were consistently and significantly associated 
+with EDS, SN, WITAP, and all of their component 
+variables, regardless of gender or ethnicity. Although 
+LPs are frequently reported in clinical studies that 
+include patients with confirmed SDB, few studies 
+have shown that LPs are common in a general 
+population across gender and ethnicity for those 
+children with reported EDS, WITAP, and SN. Our 
+findings were similar to those of Gozal et al,28 who 
+reported that SN during early childhood resulted in 
+an OR of 2.79 for those children with LPs vs those 
+with no LPs, a result that is very similar to that of the 
+TuCASA study (OR, 2.4). These associations were 
+highly significant in this sample, however, we were 
+not able to control for variables known to be associated 
+with LPs, such as socioeconomic status or 
+parent education. Because our sample included Hispanic 
+children in schools in which a large proportion 
+of the population are in low income census tracts 
+and/or eligible for reduced lunch programs, it is 
+possible that these LPs are magnified due to other 
+social problems. In several of the TUSD schools in 
+our sample, English-as-a-second-language programs 
+are employed as part of the curriculum for those 
+students in grades 1 to 3 who may not be US citizens 
+or speak English fluently. Although teaching is done 
+in both English and Spanish for these children until 
+they are assimilated into full English-speaking 
+classes, it is possible that Hispanic parents may 
+perceive a LP in a child who does not speak fluent 
+English. However, not only Hispanics, but also 
+whites with reported LPs were more likely to have 
+EDS, WITAP, and SN. Finally, our assessment of 
+LPs was based on the answer to one question on the 
+screening survey, therefore, parental report could be 
+subject to interpretation or cultural bias. We realize 
+that LPs constitute a broad area that encompasses 
+issues with scholastic performance and class discipline 
+as well as interactions with the home learning 
+environment. 
+
+Several studies7,15,28,29 have reported the prevalence 
+of sleep problems, suggestive of SDB in a 
+population-based sample of children. Our overall 
+snoring prevalence of 10.5% is within the upper end 
+of the range reported by others.13,29,30 Snoring rates 
+in these studies vary considerably depending on the 
+questionnaire wording and the definition used for 
+
+www.chestjournal.org 
+
+ascertainment. There are fewer epidemiologic studies 
+that have reported the prevalence of WITAP and 
+EDS.11,31 However, our overall WITAP prevalence 
+rate of 3.8% is comparable to that of previous 
+studies11,14 despite differences in questionnaire 
+wording. We observed that EDS was present in 8.1% 
+of our children, which is approximately twice the 
+prevalence observed by Camhi et al32 in a different 
+cohort of Tucson children but is similar to that 
+observed by others.33,34 Like the other sleep apnea 
+symptoms that we assessed, the comparison of our 
+EDS prevalence to other studies is difficult because 
+of differences in the definition of EDS. For example, 
+in the study by Camhi et al,32 “excessive daytime 
+sleepiness” was the only symptom used to define 
+EDS. In contrast, in our study, EDS was present if 
+there was parental report of one of three symptoms 
+of “sleepiness.” Thus, it is not surprising that our 
+reported prevalence rate of EDS is higher than those 
+of previous studies. Other studies of children in this 
+age group have not reported the gender difference in 
+parental report of EDS that we found in this sample. 
+Given the limited amount of information obtained 
+on our screening survey, a plausible explanation for 
+the higher prevalence of EDS in girls is not readily 
+available. 
+
+There are no previous studies documenting the 
+prevalence of sleep symptoms associated with OSA 
+in Hispanic children. However, our findings are 
+consistent with the few reports comparing sleep 
+symptoms in Hispanic adolescents and adults to 
+other ethnic groups. A study by Roberts et al35 
+reported a higher prevalence of insomnia and hypersomnia 
+in Mexican-American youths (in grades 6, 7, 
+and 8) compared to that in white youths. Hicks et al36 
+found that Hispanic college students were more 
+likely to be dissatisfied with their sleep quality than 
+were white college students. Therefore, it might be 
+expected that the parents of young Hispanic children 
+would also report a higher prevalence of OSAS-
+associated symptoms. Although it cannot be excluded 
+that differences between Hispanic and white 
+children are due to translation irregularities, the 
+consistency of reporting within the Hispanic group, 
+regardless of whether the Spanish or English version 
+was used, would argue that the differences are not 
+due to translation problems. 
+
+Some studies20,37,38 have found that hyperactivity 
+and other types of neurobehavioral abnormalities 
+are common in children with reports of SDB, 
+whereas EDS is unusual. In addition, a Finnish 
+study11 found that the absence of excessive sleepiness 
+was protective against OSAS in children. 
+However, this study supports the contention that 
+children also experience EDS as a result of 
+
+SDB.12,13,33,34 
+
+Furthermore, the presence of SN 
+
+CHEST / 124/1/ JULY, 2003 201
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2003 American College of Chest Physicians 
+
+
+
+and WITAP were found to be predictive of those 
+children with EDS, a finding that supports the 
+premise that symptoms associated with SDB can 
+be used to predict EDS. 
+
+Although the specific range and order of questions 
+used in the TuCASA screening questionnaire have 
+not been validated previously, most are standard 
+questions that are seen on sleep-habits questionnaires 
+pertaining to SDB in children. The subsequent 
+composite variables also have not been systematically 
+validated, although they do have face 
+validity. A conscientious decision to limit the number 
+and breadth of questions was made in order to keep 
+the questionnaire short in hopes that this would 
+encourage maximum response on essential items 
+related to SDB. This was done with the knowledge 
+that further questionnaires would be administered to 
+those parents and children who were recruited for 
+polysomnography. 
+
+It is possible that selection bias occurred if parents 
+who believed that their children had a sleep problem 
+were more likely to return the completed questionnaire. 
+Efforts to reduce this bias were made by giving 
+incentives for classroom and whole-school participation, 
+as well as allowing the parent to return the 
+survey anonymously. The prevalence of symptoms 
+such as SN, EDS, and WITAP in our sample were 
+similar to those reported in other population-based 
+samples, therefore, we believe selection bias has 
+been reduced to the minimum possible. This leads 
+us to believe that our survey return rate of 30.6 was 
+a good representation of the general population of 
+Tucson public school children. 
+
+In conclusion, the TuCASA study has shown that 
+children between 4 years and 11 years of age with 
+LPs are more likely to have SN and EDS, and are 
+more likely to be older. Children with EDS were 
+more likely to have SN and WITAP, and to be 
+female. Additionally, Hispanic children who were 4 
+to 11 years of age were more likely to have a parental 
+report of EDS, WITAP, and SN. Hispanic boys were 
+more likely to have reports of EDS and LPs than 
+were white boys or girls of the same age group. 
+Furthermore, girls who were 4 to 11 years of age 
+were more likely to have parental reports of daytime 
+sleepiness than were boys. These differences in sleep 
+symptoms that are associated with OSA do not 
+appear to be attributable to language or interpretation 
+anomalies. 
+
+ACKNOWLEDGMENT: The authors thank Charles Wynstra, 
+MBA, RRT, and Martin Ukockis, RPSGT, RRT, for their diligence 
+in data collection and polysomnogram scoring. The authors 
+also wish to thank Albert Gould, PhD, Chair, Research Committee, 
+and the principals, teachers, parents and students from the 
+TUSD for their ongoing support of this research. 
+
+Appendix 
+
+TuCASA Screening Questionnaire 
+
+1. Does your child stop breathing during sleep? 
+2. Does your child struggle to breathe during sleep? 
+3. Do you 
+ever shake your child during sleep to make 
+him/her breathe again? 
+4. Do your child’s lips ever turn blue or purple while he/she 
+is sleeping? 
+5. Are you 
+ever concerned about your child’s breathing 
+during sleep? 
+6. How often does your child snore loudly? 
+7. How often does your child have a sore throat? 
+8. Does your child complain of morning headaches? 
+9. Is your child a daytime mouth breather? 
+10. Is your child sleepy during the daytime? 
+11. Does your child fall asleep at school? 
+12. Does your child fall asleep while watching television? 
+13. Does your child have learning problems? 
+Possible Responses 
+
+1. Don’t know 
+2. Never 
+3. Rarely 
+4. Occasionally 
+5. Frequently 
+6. Almost always 
+References 
+
+1 Gaultier C. Clinical and therapeutic aspects of obstructive 
+sleep apnea syndrome in infants and children. Sleep 1992; 
+15:S36 –S38 
+
+2 Guilleminault C. Obstructive sleep apnea. Med Clin North 
+Am 1985; 69:1187–1203 
+
+3 Guilleminault C. Obstructive sleep apnea syndrome in children. 
+In: Guilleminault C, ed. Sleep and its disorders in 
+children. New York, NY: Raven, 1987; 213–224 
+
+4 Carroll J, Loughlin G. Obstructive sleep apnea syndrome in 
+infants and children: clinical features and pathophysiology. 
+In: Ferber R, Kryger M, eds. Principles and practice of sleep 
+medicine in the child. Philadelphia, PA: WB Saunders, 1995; 
+163–191 
+
+5 Chervin R, Archbold K. Hyperactivity and polysomnographic 
+findings in children evaluated for sleep-disordered breathing. 
+Sleep 2001; 24:313–320 
+
+6 Gozal D. Sleep-disordered breathing and school performance 
+in children. Pediatrics 1998; 102:616–620 
+
+7 Owens J, Opipari L, Nobile C, et al. Sleep and daytime 
+behavior in children with obstructive sleep apnea and behavioral 
+sleep disorders. Pediatrics 1998; 102:1178 –1184 
+
+8 Hansen D, Vandenberg B. Neuropsychological features and 
+differential diagnosis of sleep apnea syndrome in children. 
+J Clin Child Psychol 1997; 26:304 –310 
+
+9 American Academy of Pediatrics. Clinical practice guideline: 
+diagnosis and management of childhood sleep apnea syndrome. 
+Pediatrics 2002; 109:704–712 
+
+10 Chervin R, Dillon J, Panahi P, et al. Inattention, hyperactivity, 
+and symptoms of sleep-disordered breathing. Pediatrics 2002; 
+
+109:449 – 456 
+11 Nieminen P, Tolonen U, Lopponen H, et al. Snoring children: 
+factors predicting sleep apnea. Acta Otolaryngol Suppl 
+1997; 529:190 –194 
+
+Clinical Investigations
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2003 American College of Chest Physicians 
+
+
+
+12 Ali N, Pitson D, Stradling J. Snoring, sleep disturbances, and 
+behaviour in 4–5 year olds. Arch Dis Child 1993; 68:360–366 
+
+13 Ali N, Pitson D, Stradling J. Natural history of snoring and 
+related behaviour problems between the ages of 4 and 7 
+years. Arch Dis Child 1994; 71:74 –76 
+
+14 Gislason T, Benediktsdottir B. Snoring, apneic episodes, and 
+nocturnal hypoxemia among children 6 months to 6 years old. 
+Chest 1995; 107:963–966 
+
+15 Redline S, Tishler P, Schluchter M, et al. Risk factors for 
+sleep-disorders breathing in children: associations with obesity, 
+race, and respiratory problems. Am J Respir Crit Care 
+Med 1999; 159:1527–1532 
+
+16 Brunetti L, Rana S, Lospalluti M, et al. Prevalence of 
+obstructive sleep apnea syndrome in a cohort of 1,207 
+children of southern Italy. Chest 2001; 120:1930 –1935 
+
+17 Greene M, Carroll J. Consequences of sleep-disordered 
+breathing in childhood. Curr Opin Pulm Med 1997; 3:456– 
+463 
+
+18 Rosen C. Clinical features of obstructive sleep apnea hypoventilation 
+syndrome in other wise healthy children. Pediatr 
+Pulmonol 1999; 27:403– 409 
+
+19 Gozal D, Wang M, Pope D Jr. Objective sleepiness measures 
+in pediatric obstructive sleep apnea. Pediatrics 2001; 108: 
+693–697 
+
+20 Frank Y, Kravath C, Pollak C, et al. Obstructive sleep apnea 
+and its therapy: clinical and polysomnographic manifestations. 
+Pediatrics 1983; 71:737–742 
+
+21 McNamara F, Issa F, Sullivan C. Arousal pattern following 
+central and obstructive breathing abnormalities in infants and 
+children. J Appl Physiol 1996; 81:2651–2657 
+
+22 Carroll J, McColley S, Marcus C, et al. Inability of clinical 
+history to distinguish primary snoring from obstructive sleep 
+apnea syndrome in children. Chest 1995; 108:610 – 618 
+
+23 American Thoracic Society. Standards and indications for 
+cardiopulmonary sleep studies in children. Am J Respir Crit 
+Care Med 1996; 153:866–878 
+
+24 American Thoracic Society. Cardiorespiratory sleep studies in 
+children: establishment of normative data and polysomnographic 
+predictors of morbidity. Am J Respir Crit Care Med 
+1999; 160:1381–1387 
+
+25 United States Census Bureau, Population Division. United 
+States census, 2000 
+
+26 United States Census Bureau, Population Division, Racial 
+Statistics Branch. United States census, 2000 
+
+27 Goodwin J, Enright P, Morgan W, et al. Feasibility of using 
+unattended polysomnography in children for research: report 
+of the Tucson Children’s Assessment of Sleep Apnea Study 
+(TuCASA). Sleep 2001; 24:937–944 
+
+28 Gozal D, Wang M, Pope D, et al. Snoring during early 
+childhood and academic performance at ages thirteen to 
+fourteen years. Pediatrics 2001; 107:1394 –1399 
+
+29 Anuntaseree W, Rookkapan K, Kuasirikul S, et al. Snoring 
+and obstructive sleep apnea in Thai school-age children: 
+prevalence and predisposing factors. Pediatr Pulmonol 2001; 
+32:222–227 
+
+30 Owen G, Canter R, Maw R. Screening for obstructive sleep 
+apnoea in children. Int J Pediatr Otorhinolaryngol 1995; 
+32(suppl):S67–S69 
+
+31 Bower C, Gungor A. Pediatric obstructive sleep apnea syndrome. 
+Otolaryngol Clin North Am 2000; 33:49 –75 
+
+32 Camhi S, Morgan W, Pernisco N, et al. Factors affecting 
+sleep disturbances in children and adolescents. Sleep Med 
+2000; 1:117–123 
+
+33 Owens J, Spirito A, McGuinn M, et al. Sleep habits and sleep 
+disturbances in elementary school-aged children. J Dev Behav 
+Pediatr 2000; 21:27–36 
+
+34 Archbold K, Pituch K, Panahi P, et al. Symptoms of sleep 
+disturbances among children at two general pediatric clinics. 
+J Pediatr 2002; 140:97–102 
+
+35 Roberts R, Roberts C, Chen I. Ethnocultural differences in 
+sleep complaints among adolescents. J Nerv Ment Dis 2000; 
+188:222–229 
+
+36 Hicks R, Lucero-Gorman K, Bautista J. Ethnicity, sleep 
+duration, and sleep satisfaction. Percept Mot Skills 1999; 
+88:234–235 
+
+37 Rosen CL. Obstructive sleep apnea syndrome (OSAS) in 
+children: diagnostic challenges. Sleep 1996; 19:S274 –S277 
+
+38 Carroll JL, McColley SA, Marcus CL. Reported symptoms of 
+childhood obstructive sleep apnea syndrome (OSA) vs. primary 
+snoring. Am Rev Respir Dis 1992; 145:A177 
+
+www.chestjournal.org CHEST / 124/1/ JULY, 2003 203
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2003 American College of Chest Physicians 
+
+
+
+Symptoms Related to Sleep-Disordered Breathing in White and 
+Hispanic Children *
+
+
+James L. Goodwin, Sardar I. Babar, Kris L. Kaemingk, Gerald M. Rosen, 
+Wayne J. Morgan, Duane L. Sherrill and Stuart F. Quan 
+Chest 2003;124; 196-203 
+DOI 10.1378/chest.124.1.196 
+
+
+This information is current as of February 20, 2009 
+
+& Services 
+Updated Information 
+http://www.chestjournal.org/content/124/1/196.full.html 
+high-resolution figures, can be found at: 
+Updated Information and services, including 
+References 
+tml#ref-list-1 
+http://www.chestjournal.org/content/124/1/196.full.h 
+accessed free at: 
+This article cites 33 articles, 15 of which can be 
+Citations 
+tml#related-urls 
+http://www.chestjournal.org/content/124/1/196.full.h 
+articles: 
+This article has been cited by 3 HighWire-hosted 
+Open Access 
+option 
+Freely available online through CHEST open access 
+Permissions & Licensing 
+http://chestjournal.org/misc/reprints.shtml 
+(figures, tables) or in its entirety can be found online at: 
+Information about reproducing this article in parts 
+Reprints 
+http://chestjournal.org/misc/reprints.shtml 
+Information about ordering reprints can be found online: 
+Email alerting service 
+online article. 
+article. sign up in the box at the top right corner of the 
+Receive free email alerts when new articles cit this 
+format 
+Images in PowerPoint 
+format. See any online article figure for directions. 
+downloaded for teaching purposes in PowerPoint slide 
+Figures that appear in CHEST articles can be
+
+
+Downloaded from www.chestjournal.org on February 20, 2009 
+Copyright © 2003 American College of Chest Physicians 
+
+
+

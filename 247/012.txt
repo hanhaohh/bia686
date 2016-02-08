@@ -1,0 +1,1046 @@
+Twenty-four–hour Ambulatory Blood Pressure in 
+Children with Sleep-disordered Breathing 
+
+Raouf S. Amin, John L. Carroll, Jenny L. Jeffries, Charles Grone, Judy A. Bean, Barbara Chini, Ronald Bokulic, 
+and Stephen R. Daniels 
+
+Sleep Disorder Center, Divisions of Pulmonary Medicine, Epidemiology and Biostatistics, and Cardiology, The University of Cincinnati College 
+of Medicine, Cincinnati Children’s Hospital Medical Center, Cincinnati, Ohio; and Department of Pediatric Pulmonary Medicine, University 
+of Arkansas for Medical Sciences, Little Rock, Arkansas 
+
+Obstructive sleep apnea causes intermittent elevation of systemic 
+blood pressure (BP) during sleep. To determine whether obstructive 
+apnea in children has a tonic effect on diurnal BP, 24-hour ambulatory 
+blood pressure was obtained from 60 children with mean age 
+of 10.8 . 
+3.5 years. Thirty-nine children had obstructive apnea 
+and 21 had primary snoring. Children with obstructive apnea had 
+significantly greater mean BP variability during wakefulness and 
+sleep, a higher night-to-day systolic BP, and a smaller nocturnal 
+dipping of mean BP. Variability of mean arterial pressure during 
+wakefulness was predicted by the desaturation, body mass, and 
+arousal indices, whereas variability during sleep was predicted by 
+apnea–hypopnea and body mass indices. Nocturnal BP dipping was 
+predicted by the desaturation index. There were no significant differences 
+in systolic, diastolic, or mean arterial BP during sleep between 
+the groups. Diastolic BP during wakefulness was significantly 
+different between the groups and correlated negatively with 
+apnea–hypopnea index. We conclude that obstructive apnea in 
+children is associated with 24-hour BP dysregulation and that, independent 
+of obesity, the frequency of obstructive apnea, oxygen de-
+saturation, and arousal contributes to abnormal BP control. 
+
+Keywords: obstructive apnea; ambulatory blood pressure; child; cardiovascular 
+
+
+Obstructive sleep apnea (OSA) in adults increases the risk for 
+heart failure, coronary artery disease, and stroke (1–3). The 
+mechanisms underlying the link between OSA and cardiovascular 
+diseases are not completely understood; however, systemic 
+hypertension is thought to be one pathway leading to end-organ 
+damage and cardiovascular morbidity (4–6). The early stages of 
+abnormal blood pressure (BP) control may present with autonomic 
+dysfunction in the form of increased sympathetic activity 
+and/or decreased vagal tone. These autonomic changes alter the 
+diurnal control and variability of BP (7). The adverse effect of 
+abnormal BP control on the cardiovascular system is not only 
+due to hypertension but also to earlier stages of abnormal BP 
+control, such as increased BP variability and decreased nocturnal 
+dipping (8–16). Because children with OSA, in comparison with 
+children with primary snoring, are at greater risk for developing 
+end-organ damage in the form of left ventricular hypertrophy 
+(17), we hypothesized that children with OSA will demonstrate 
+the earlier stages of abnormal BP control in the form of elevation 
+
+(Received in original form September 23, 2003; accepted in final form February 4, 2004) 
+
+Supported by the American Heart Association. 
+
+Correspondence and requests for reprints should be addressed to Raouf S. Amin, 
+M.D., Division of Pulmonary Medicine, Cincinnati Children’s Hospital Medical 
+Center, 3333 Burnet Avenue, Cincinnati, OH 45229. E-mail: aminr0@chmcc.org 
+
+Am J Respir Crit Care Med Vol 169. pp 950–956, 2004 
+Originally Published in Press as DOI: 10.1164/rccm.200309-1305OC on February 5, 2004 
+Internet address: www.atsjournals.org 
+
+and decreased dipping of nocturnal BP and an increase in BP 
+variability. Some of the results of these studies have been reported 
+previously in the form of an abstract (18). 
+
+METHODS 
+
+Study Design 
+
+Pediatric subjects who were referred for evaluation of obstructive 
+breathing disorder during sleep underwent polysomnography (PSG) 
+with continuous BP recording, followed by a 24-hour recording of 
+ambulatory blood pressure (AMBP). Evaluation at the time of enrollment 
+consisted of a history and physical examination, BP, and body 
+mass index (BMI). All subjects presented with a history of snoring 
+7 nights per week. PSG results were used to divide subjects into those 
+with OSA and those with primary snoring. Subjects were classified 
+as having primary snoring when they had no evidence of nocturnal 
+hypoventilation and had an obstructive apnea–hypopnea index (AHI) 
+between 0 and 1 per hour of sleep (Group 1). Subjects with AHI greater 
+than 1 per hour of sleep were classified as having OSA and were further 
+subdivided into two groups: those with AHI from 1 to 5 (Group 2) and 
+those with AHI greater than 5 per hour of sleep (Group 3). Informed 
+consent was obtained from the parents/legal guardian of each child, 
+and assent was obtained from children older than 11 years of age. The 
+Institutional Review Board of Cincinnati Children’s Hospital Medical 
+Center, Ohio, approved the study. 
+
+Study Group 
+
+Subjects aged 5 to 17 years, who were referred to the pediatric Sleep 
+Disorder Clinic at Cincinnati Children’s Hospital Medical Center for 
+evaluation of obstructive breathing during sleep, were recruited sequentially. 
+Children with genetic syndromes, children with chronic medical 
+conditions including psychiatric conditions and attention deficit/hyperactivity 
+disorders, children with conditions that might alter BP, and 
+children who receive daily medications were excluded from the study. 
+
+PSG 
+
+PSG studies were performed overnight according to the American 
+Thoracic Society standards (19, 20) using computerized systems (Grass; 
+Telefactor, West Warwick, RI). The following parameters were recorded 
+during the study: (1 )EEG,(2 ) right and left electrooculogram, 
+
+(3 ) submental and tibial EMG, (4 ) ECG, (5 ) nasal/oral airflow measured 
+by thermocouple, (6 ) end-tidal Pco2 measured at the nose by 
+infrared capnometry and SaO2 using the Nelcor N1000 (Nelcor, Van 
+Nuys, CA) and oximeter pulse waveform, (7 ) snoring microphone, (8 ) 
+video monitoring using an infrared video camera, and (9 ) chest and 
+abdominal wall motion by computer-assisted respiratory inductance 
+plethysmograph (Somnostar; Noninvasive Monitoring System Inc., Miami 
+Beach, FL). 
+The following parameters were measured. 
+
+Sleep staging was scored according to published standards (21). 
+Arousals were defined as recommended by the American Sleep Disorders 
+Association (22). Awakening from sleep was defined as an increase 
+in the frequency of the EEG for more than 15 seconds. 
+
+
+Amin, Carroll, Jeffries, et al.: Blood Pressure in Children with Sleep Apnea 
+
+Obstructive apnea was defined as the presence of chest/abdominal wall 
+motion in the absence or decrease of airflow and/or the sum channel 
+from the inductive plethysmography by more than 80% of the preceding 
+breath. All obstructive events greater than or equal to two 
+breaths duration were counted. 
+
+Obstructive hypopnea was defined as a reduction in airflow and/or the 
+sum channel from the inductive plethysmography between 20 to 
+50% in the presence of chest/abdominal wall motion, associated 
+with oxyhemoglobin desaturation greater than/or equal to 4% and 
+or followed by an arousal. 
+
+AHI was defined as the number of obstructive apneas and obstructive 
+hypopneas per hour of sleep. 
+Oxyhemoglobin desaturation index (DI) was defined as the number of 
+events per hour of sleep when SaO2 decreased by 4% or greater. 
+
+The average end-tidal Pco2 was calculated as an average of the maximum 
+values per 30-second epoch. Maximum carbon dioxide (CO2) 
+level and time spent during sleep with an end-tidal CO2 level above 
+45 and 50 mm Hg were calculated. The diagnosis of alveolar hypo-
+ventilation during sleep was made when two-thirds of the sleep time 
+was spent with an end-tidal CO2 higher than 45 mm Hg and/or 10% 
+of the time was spent with level above 50 mm Hg. 
+
+BP Recording 
+
+BP was recorded with a SpaceLab monitor (Spacelabs Medical, Redmond, 
+WA). The reproducibility and validity of Spacelabs monitors 
+have been extensively studied (23–28). Subjects were asked to keep a 
+sleep diary and report their wake and sleep time. We ensured that 
+sleep–wake time was clearly documented before an AMBP study was 
+considered acceptable. When in doubt, the research coordinator contacted 
+the child’s parent to confirm the reported data. The monitor was 
+programmed to cycle every 15 minutes, giving a maximum number of 
+measurements of 96 per 24 hours. The readings were divided into BP 
+during wakefulness and BP during sleep on the basis of the information 
+acquired from the sleep diary. The study was considered adequate when 
+a minimum of 70% of the measurements were obtained without errors 
+both for sleep and/or wake BP. The effect of BP recording on sleep 
+was derived from the BP data acquired during PSG from 41 subjects. 
+The percentage of BP measurements associated with an arousal or 
+awakening in the 30-second epoch that preceded the measurement and 
+the 30 seconds during the measurement was calculated. The BP cuff 
+was placed around the same arm as the pulse oximeter. The timing of 
+BP measurement could therefore be accurately determined because 
+cuff inflation was associated with gradual loss of the pulse amplitude 
+waveform obtained from the oximeter. The following parameters were 
+obtained and/or calculated from the continuous BP recording. 
+
+Measures of BP variability. BP variability was derived from the 24hour 
+AMBP by calculating the average SD of awake and sleep systolic, 
+diastolic, and mean BP. 
+
+Measures of nocturnal BP dipping. The degree of systolic, diastolic, 
+and mean BP dipping during sleep was derived by calculating the 
+difference between awake and sleep BP obtained from 24-hour 
+AMBP and expressed as a percentage of BP during wakefulness. 
+To determine whether the change in the degree of BP dipping is 
+stage specific, the difference between mean awake BP derived from 
+the 24-hour AMBP and BP obtained during the PSG while awake in 
+bed and during each stage of sleep was also calculated. A comparison 
+between groups for night-to-day systolic BP ratio was performed, 
+given its prognostic value in predicting future cardiovascular events 
+(14, 15). 
+
+Average BP during wakefulness and sleep. Average systolic, diastolic, 
+and mean arterial BP during wakefulness and sleep was calculated. 
+Pressure load was measured by calculating the percentage of systolic 
+and diastolic BP measurements above the 95th percentile for awake 
+BP. Published age-appropriate values for the 95th percentile for BP 
+according to age and sex were used to determine the percentage of 
+BP greater than the 95th percentile (29). 
+
+Statistical Analysis 
+
+All results are expressed as mean . 
+SD. Log transformation of BMI, 
+AHI, BP SDs and night-to-day systolic BP ratio was performed to 
+achieve normal distribution. BP measurements were expressed as a 
+
+mean of awake and sleep BP. To control for the effect of the wide age 
+range on BP, we calculated the difference between measured BP and 
+the published systolic and diastolic 95th percentile for each subject (30). 
+We indexed this value to the 95th percentile using the following formula: 
+
+(Measured BP . 
+BP at 95th percentile) 
+
+BP index . 
+100 
+
+BP at 95th percentile 
+
+The average of this index was compared between groups. BP results 
+were also expressed as a percentage of the 95th percentile and compared 
+between groups. The BMI was converted into a Z score according to 
+the standards published by the CDC (Z BMI) (31). For comparison of 
+means, a one-factor analysis of variance was performed. An orthogonal 
+contrast for a linear trend was used to determine if a linear trend existed 
+across the mean of the groups: primary snorers, children with an AHI 
+between 1 and 5, and children with an AHI greater than 5. Pearson 
+correlation was performed between log-transformed BP measurements 
+and log-transformed polysomnographic and demographic variables. 
+Multiple regression analysis was performed to identify demographic 
+and polysomnographic factors that might predict measures of BP variability 
+and nocturnal BP dipping. The following independent variables 
+were entered in a backward elimination regression analysis: age, sex, 
+race, Z BMI, AHI, arousal index, DI, lowest SaO2, and maximum end-
+tidal CO2. Variables with a p value less than or equal to 0.05 were kept 
+in the model. To control for possible effect of BMI on nocturnal BP 
+dipping, this variable was forced into the model despite a p value greater 
+than 0.05. Race was also forced into the model to control for ethnicity. 
+
+RESULTS 
+
+Study Population 
+
+Seventy-two subjects consented to participate in the study. 
+Twelve subjects requested the discontinuation of BP recording 
+during the night and refused to complete the 24-hour AMBP 
+recording. Subjects who withdrew from the study were: 41% 
+females, 11.6 . 
+2.6 years old with a BMI of 28.7 . 
+9.7. Sixty 
+subjects completed the 24-hour AMBP monitoring. Forty-nine 
+subjects completed the BP recording during the PSG and 24hour 
+AMBP monitoring. Eleven subjects refused to complete 
+BP monitoring during PSG but adequately completed the 24hour 
+study. The demographic and polysomnographic characteristics 
+are shown in Tables 1 and 2. 
+
+Effect of BP Recording on Sleep 
+
+The effect of BP recording on sleep efficiency and frequency of 
+arousals was determined by calculating the percentage of BP 
+
+TABLE 1. DEMOGRAPHIC AND POLYSOMNOGRAPHIC 
+CHARACTERISTICS OF 60 SUBJECTS WHO COMPLETED 
+24-HOUR AMBULATORY BLOOD PRESSURE RECORDING 
+
+24-h AMBP (n . 
+60) 
+
+Group 1 Group 2 Group 3 p Value 
+n 21 17 22 
+Age, yr 10.1 . 
+3 10.7 . 
+4 11.6 . 
+3 NS 
+Male, % 57 53 68 NS 
+White, % 90 53 64 0.03 
+BMI 23 . 
+8 24 . 
+8.7 31 . 
+9 0.01 
+AHI 0.17 . 
+0.2 2.7 . 
+0.9 26.8 . 
+28 . 
+0.001 
+DI 0.75 . 
+0.7 1.7 . 
+1.6 19.9 . 
+25 0.002 
+Lowest saturation 91 . 
+2.3 90 . 
+2.9 80 . 
+10 . 
+0.001 
+Maximum 
+carbon dioxide 49 . 
+1.9 51 . 
+3.5 54 . 
+7.8 0.003 
+Arousal index 11 . 
+7 10 . 
+4 25 . 
+25 0.003 
+
+Definition of abbreviations: AHI . 
+apnea–hypopnea index; AMBP . 
+ambulatory 
+blood pressure; BMI . 
+body mass index; DI . 
+desaturation index; NS . 
+not 
+significant. 
+
+Group 1 . 
+AHI less than 1 per hour of sleep; Group 2 . 
+AHI 1 to 5 per hour 
+of sleep; Group 3 . 
+AHI greater than 5 per hour of sleep. 
+
+
+952 AMERICAN JOURNAL OF RESPIRATORY AND CRITICAL CARE MEDICINE VOL 169 2004 
+
+TABLE 2. DEMOGRAPHIC AND POLYSOMNOGRAPHIC 
+CHARACTERISTICS OF 49 SUBJECTS WHO COMPLETED 
+BLOOD PRESSURE RECORDING DURING 
+POLYSOMNOGRAPHY FOLLOWED BY 24-HOUR 
+AMBULATORY BLOOD PRESSURE MONITORING 
+
+24-h AMBP and BP-PSG (n . 
+49) 
+Group 1 Group 2 Group 3 p Value 
+n 14 17 18 
+Age 10.6 . 
+3 10.7 . 
+4 12 . 
+3 NS 
+Male, % 57 58 66 NS 
+White, % 86 47 61 NS 
+BMI 23.9 . 
+8.4 24.1 . 
+8.7 31.7 . 
+9 0.03 
+AHI 0.15 . 
+0.16 2.7 . 
+0.9 34 . 
+34 . 
+0.001 
+DI 0.5 . 
+0.5 1.7 . 
+1.6 21 . 
+27 0.005 
+Lowest saturation 91 . 
+2.1 90 . 
+2.9 79 . 
+11 . 
+0.001 
+Maximum 
+carbon dioxide 49 . 
+2 51 . 
+3.5 56 . 
+8 0.01 
+Arousal index 12 . 
+9 10 . 
+4 28 . 
+27 0.004 
+
+Definition of abbreviations: AHI . 
+apnea–hypopnea index; AMBP . 
+ambulatory 
+blood pressure; BMI . 
+body mass index; BP . 
+blood pressure; DI . 
+desaturation 
+index; NS . 
+not significant; PSG . 
+polysomnography. 
+
+Group 1 . 
+AHI less than 1 per hour of sleep; Group 2 . 
+AHI 1 to 5 per hour 
+of sleep; Group 3 . 
+AHI greater than 5 per hour of sleep. 
+
+measurements obtained during the PSG that were associated 
+with arousals and those associated with full awakening. Forty-
+one of the 49 subjects who completed BP recording during PSG 
+had data that could be accurately analyzed. The remaining eight 
+subjects requested that the BP monitor be placed on the opposite 
+arm from the oximeter; therefore, the exact timing of the measurement 
+could not be estimated and the relationship between 
+cuff inflation and arousals could not be determined. The percentage 
+of measurements associated with arousals was 18% . 
+6, 
+16% . 
+10, and 20% . 
+11 for Groups 1, 2, and 3, respectively 
+(p . 
+not significant). The percentage of measurements associated 
+with arousals that led to awakenings was 5% . 
+5, 4% . 
+4, and 4% . 
+5, respectively. These results show that more than 
+80% of the measurements do not affect sleep and that a very 
+small number of measurements lead to full awakening. Total 
+sleep time was similar for all three groups. Sleep time was 390 . 
+55, 381 . 
+49, and 391 . 
+77 minutes for Groups 1, 2, and 3, 
+respectively. Sleep efficiency after sleep onset as a percentage 
+of total sleep time was 89% . 
+7, 89% . 
+6, and 85% . 
+10 for 
+Groups 1, 2, and 3, respectively. 
+
+For subjects who completed 24-hour AMBP recording and 
+BP monitoring during PSG, there was no significant difference 
+found between nocturnal BP obtained in the sleep laboratory 
+and nocturnal BP obtained at home. Mean sleep systolic BP at 
+home was 104 . 
+6, 106 . 
+10, and 107 . 
+10 mm Hg, whereas 
+mean systolic BP during PSG was 101 . 
+8, 104 . 
+10, and 110 . 
+11 mm Hg for Groups 1, 2, and 3, respectively. Mean sleep 
+diastolic BP at home was 58 . 
+5, 60 . 
+6, and 59 . 
+6mm Hg, 
+whereas mean sleep diastolic BP during PSG was 58 . 
+5, 59 . 
+5, and 60 . 
+8 for Groups 1, 2, and 3, respectively. 
+
+Systolic, Diastolic, and Mean Arterial BP 
+
+For daytime BP, a significant difference in diastolic BP was 
+observed among the three groups with the lowest pressure seen 
+in Group 3. There was no difference measured among groups for 
+systolic or mean arterial BP. Similarly, there was no significant 
+difference detected among groups for systolic, diastolic, and 
+mean arterial BP during sleep. A trend toward a higher systolic 
+BP during sleep was observed with increased severity of OSA 
+
+TABLE 3. TWENTY-FOUR–HOUR AMBULATORY SYSTOLIC, 
+DIASTOLIC, AND MEAN ARTERIAL BLOOD PRESSURE 
+(mm Hg) OBTAINED FROM 60 SUBJECTS DURING 
+WAKEFULNESS AND DURING SLEEP* 
+
+Group 1 Group 2 Group 3 p Value 
+Mean wake SBP 115 . 
+7 116 . 
+10 116 . 
+8 NS 
+Mean sleep SBP 102 . 
+6 106 . 
+10 107 . 
+9 NS 
+Mean wake DBP 70 . 
+5 70 . 
+7 66 . 
+5 0.014 
+Mean sleep DBP 58 . 
+4 60 . 
+6 58 . 
+6 NS 
+Mean wake MAP 86 . 
+4 85 . 
+6 83 . 
+4 NS 
+Mean sleep MAP 74 . 
+4 76 . 
+6 76 . 
+6 NS 
+% SBP . 
+95th 22. . 
+15 21 . 
+25 26 . 
+22 NS 
+% DBP . 
+95th 13 . 
+10 13 . 
+15 11 . 
+14 NS 
+
+Definition of abbreviations: AHI . 
+apnea–hypopnea index; DBP . 
+diastolic blood 
+pressure; % DBP . 
+95th . 
+percentage of diastolic blood pressure measurements 
+above the 95th percentile; MAP . 
+mean arterial pressure; NS . 
+not significant; 
+SBP . 
+systolic blood pressure; % SBP . 
+95th . 
+percentage of systolic blood 
+pressure measurements above the 95th percentile. 
+
+Group 1 . 
+AHI less than 1 per hour of sleep; Group 2 . 
+AHI 1 to 5 per hour 
+of sleep; Group 3 . 
+AHI greater than 5 per hour of sleep. 
+
+* Also shown are the systolic and diastolic BP load expressed as the percentage 
+of BP measurements above the 95th percentile across the three groups. 
+but did not reach statistical significance (Table 3). When BP 
+index was used to normalize for the effect of age and growth 
+on BP, a trend similar to the one seen with absolute BP was 
+observed (Figure 1). A significant trend for diastolic BP index 
+during wakefulness was demonstrated. There was no change in 
+the trend of systolic and diastolic BP across groups when BP 
+was expressed as a percentage of the 95th percentile (data not 
+shown). There was also no significant difference in pressure load 
+for systolic or diastolic BP among the three groups (Table 3). 
+
+BP Variability 
+
+A dose-dependent increase in BP variability was observed across 
+the three groups with the largest SD seen in subjects with AHI 
+greater than 5 per hour of sleep. A significant linear trend was 
+found for the variability of awake systolic and mean arterial BP 
+and for sleep systolic, diastolic, and mean BP (Figures 1 and 2). 
+This observation demonstrates that increased BP variability with 
+
+
+Figure 1. Trend for blood pressure (BP) index for systolic and diastolic 
+BP during wakefulness and during sleep across the three groups. Diastolic 
+BP index showed a significant trend across the three groups with 
+the larger difference seen in Group 3 (*p . 
+0.005). Group 1 . 
+apnea– 
+hypopnea index (AHI) less than 1 per hour of sleep; Group 2 . 
+AHI 1 
+to 5 per hour of sleep; Group 3 . 
+AHI greater than 5 per hour of sleep. 
+SDBP . 
+sleep diastolic blood pressure; SSBP . 
+sleep systolic blood 
+pressure; WDBP . 
+awake diastolic blood pressure; WSBP . 
+awake systolic 
+blood pressure. 
+
+
+Amin, Carroll, Jeffries, et al.: Blood Pressure in Children with Sleep Apnea 
+
+Figure 2. BP variability during wakefulness and sleep. 
+
+(A) Log-transformed SD across the three groups of systolic 
+(**p 0.01), diastolic, and mean arterial BP (*p . 
+0.014) during wakefulness. (B) Log-transformed SD 
+across the three groups of systolic (**p 0.01), diastolic 
+(**p 0.01), and mean arterial BP (**p 0.01) 
+during sleep. Group 1 AHI less than 1 per hour of 
+sleep; Group 2 AHI 1 to 5 per hour of sleep; Group 
+3 AHI greater than 5 per hour of sleep. WMAP . 
+awake mean arterial blood pressure; SMAP sleep 
+an increased severity of OSA is not limited to nighttime BP but 
+persists during wakefulness. 
+
+Nocturnal BP Dipping 
+
+A significant linear trend for the difference between awake and 
+sleep BP expressed as a percentage of awake BP was observed 
+for systolic, diastolic, and mean arterial BP from Groups 1 to 3. 
+The trend from Group 1 to Group 3 was 11.5% 4.2, 8.6% 4.9, 
+7.4% 7.3 for systolic BP (p 0.01); 17.5% 5, 14% 8, 
+11% 9 for diastolic BP (p 0.01); and 13.4% 4.3, 10.6% . 
+5.9, 8.4% 6.7 for mean arterial pressure (p 0.002). The ratio 
+of night-to-day systolic BP was 0.88 0.04, 0.90 0.04, and 
+
+0.93 0.07 for Groups 1, 2, and 3, respectively (p 0.02). 
+These results indicate that children with OSA have a night-today 
+systolic BP ratio that surpasses the cutoff ratio of 0.899 for 
+females and 0.9009 for males that is known to increase the risk 
+for cardiovascular morbidity in adults (14, 15). The difference 
+between awake BP and BP during different stages of sleep demonstrates 
+that BP dipping during sleep is not stage specific and 
+that the effect of OSA on nocturnal BP is similar during REM 
+and non–REM sleep (Figure 3). 
+Bivariate Correlations 
+
+Diastolic BP during wakefulness correlated negatively with AHI 
+and DI and positively with Z BMI. BP variability during wakefulness 
+correlated positively with log AHI, DI, and Z BMI, 
+whereas BP variability during sleep correlated positively with 
+
+
+Figure 3. Difference between mean arterial BP obtained from 24-hour 
+ambulatory BP recording during daytime wakefulness, and BP during 
+wakefulness in bed, and BP during different stages of sleep. A significant 
+linear trend was observed for the difference in mean arterial BP across 
+the three groups, with the largest difference seen in Group 1 and the 
+smallest in Group 3 (*p 0.05). Group 1 AHI less than 1 per hour 
+of sleep; Group 2 AHI 1 to 5 per hour of sleep; Group 3 AHI greater 
+than 5 per hour of sleep. AW difference in mean arterial BP when 
+active awake and awake in bed; A2 difference in mean BP when active 
+awake and Stage 2 sleep; ASWS difference in mean BP when 
+active awake and slow wave sleep (SWS); AREM difference in mean 
+BP when active awake and REM sleep. 
+
+mean arterial blood pressure. 
+
+log AHI, maximum end-tidal CO2, and Z BMI. The degree of 
+nocturnal BP dipping correlated negatively with measures of 
+severity of OSA, namely, log AHI, DI, and maximum end-tidal 
+CO2 (Table 4). These results show that there is an association 
+between the degree of BP dysregulation and increased severity 
+of OSA in children with sleep-disordered breathing. 
+
+Multiple Regression Analysis 
+
+BP variability. Variability of mean arterial pressure during 
+wakefulness was predicted by a model (p 0.0001) that 
+included DI (p 0.002), Z BMI (p 0.005), and arousal index 
+(p 0.006). Variability of mean arterial pressure during sleep 
+was predicted by a model (p 0.0001) that included AHI 
+(p 0.001) and Z BMI (p 0.003). Models for BP variability and 
+the dependent variables remained significant after controlling for 
+ethnicity. 
+
+Nocturnal dipping of BP. Nocturnal BP dipping was predicted 
+by a model (p 0.015) that only included DI. The model 
+and the dependent variable remained significant after controlling 
+for Z BMI and ethnicity. 
+
+These results suggest that sleep-related factors that affect BP 
+variability during sleep differ from factors affecting variability 
+during wakefulness and that intermittent oxygen desaturation 
+contributes to BP dysregulation in children with OSA both during 
+wakefulness and sleep. 
+
+Diastolic BP. Diastolic BP index during wakefulness was 
+predicted by a model (p . 
+0.001) that included age 
+(p 0.001), AHI (p 0.014), race (p 0.03), and Z BMI 
+(p 0.04). 
+
+DISCUSSION 
+
+This study demonstrates that children with OSA show evidence 
+of dysregulation of systemic BP in the form of increased BP 
+variability and a decreased degree of nocturnal dipping and that 
+BP dysregulation correlates with measures of severity of OSA. 
+
+Previous studies have demonstrated that children with OSA 
+tend to have higher systolic and/or diastolic BP compared with 
+control subjects; however, the prevalence of systemic hypertension 
+remained insignificant between the two groups (27, 32–35). 
+In our study, we have shown that the early stages of BP dysregulation 
+in children do not present with sustained elevation of BP 
+but rather with an alteration in the circadian rhythm of BP 
+profile and an increase in BP variability. Although this study 
+concurs with previous observations as to the lack of significant 
+difference in the prevalence of hypertension in children with 
+OSA compared with control subjects, it differs regarding the 
+trend of diastolic BP during sleep and during wakefulness. Marcus 
+and coworkers (34) have shown that children with OSA 
+tend to have a higher diastolic BP during sleep compared with 
+children with primary snoring. We, on the contrary, showed 
+no difference among groups in diastolic BP during sleep. The 
+discrepancy between the two studies raises an important ques
+
+
+
+954 AMERICAN JOURNAL OF RESPIRATORY AND CRITICAL CARE MEDICINE VOL 169 2004 
+
+TABLE 4. PEARSON CORRELATION BETWEEN BLOOD PRESSURE PARAMETERS AND 
+POLYSOMNOGRAPHIC VARIABLES* 
+
+
+Wake Diastolic BP index Wake–Sleep MAP Log SD WMAP Log SD SMAP 
+
+Log AHI 0.37 (p . 
+0.0037) 0.3 (p . 
+0.019) 0.29 (p . 
+0.02) 0.47 (p . 
+0.0002) 
+DI 0.38 (p . 
+0.0023) 0.31 (p . 
+0.013) 0.30 (p . 
+0.01) NS 
+Maximum carbon dioxide NS 0.29 (p . 
+0.024) NS 0.31 (p . 
+0.013) 
+Z BMI 0.28 (p . 
+0.03) NS 0.45 (p . 
+0.0001) 0.46 (p . 
+0.0002) 
+
+Definition of abbreviations: AHI . 
+apnea–hypopnea index; BMI . 
+body mass index; BP . 
+blood pressure; DI . 
+desaturation 
+index; NS . 
+not significant; SMAP . 
+sleep mean arterial pressure; Wake–sleep MAP . 
+difference between wake to sleep mean 
+arterial pressure; WMAP . 
+wake mean arterial pressure; Z BMI . 
+Z score for BMI. 
+
+* Four BP parameters, namely, diastolic BP index, difference between wake-to-sleep mean arterial BP as a measure of nocturnal 
+BP dipping, and log-transformed SD of awake and asleep BP as a measure of variability were correlated with polysomnographic 
+variables and Z BMI. 
+tion as to whether the cardiovascular morbidity of OSA in children 
+is age dependent, given the younger age of the population 
+in Marcus’s study. Future studies are needed to determine if 
+young age increases the susceptibility to cardiovascular morbidity 
+from OSA. This study is the first to characterize the diurnal 
+and nocturnal BP profile in children with OSA. We have observed 
+in this study a lower diastolic BP during wakefulness in 
+children with severe OSA compared with children with a milder 
+degree of sleep apnea and children with simple snoring. Low 
+diastolic BP during wakefulness seen in children with more severe 
+OSA suggests abnormal elastic recoil of blood vessels during 
+diastole. This finding, in addition to increased BP variability, 
+could represent the early stages of autonomic and/or endothelial 
+dysfunction in children with OSA (36–38). 
+
+In hypertensive and normotensive adults, increased BP variability 
+and decreased nocturnal BP dipping are associated with 
+end-organ damage and increased risk for cardiovascular diseases 
+(1, 2, 11, 12, 14–16, 22). In a prospective study that examined 
+prognostic significance of BP variability in 1,542 subjects 40 years 
+or older, Kikuya and coworkers (39) showed a significant linear 
+relationship between daytime systolic AMBP variability and relative 
+risk for cardiovascular mortality. In a study of 1,433 subjects, 
+the variance of systolic BP was significantly associated 
+with coronary artery disease after adjustment for mean systolic 
+pressure (40). The relationship between BP variability and cerebrovascular 
+diseases has been examined in several studies. Havlik 
+and coworkers (10) demonstrated in a prospective study that 
+systolic BP variability in midlife is associated with increased risk 
+for white matter lesions in the brain later in life and that subjects 
+who were in the highest category of systolic BP variability had 
+significantly more brain atrophy. The importance of this observation 
+stems from the knowledge that the presence of periventricular 
+white matter lesions, which are thought to be caused by 
+small-vessel disease, strongly correlates with progressive loss of 
+cognitive function (18, 41, 42). Knowledge about the association 
+between BP variability and adverse cardiovascular outcomes in 
+children is limited. Because evidence is growing that children 
+with symptoms of obstructive breathing during sleep are at an 
+increased risk for low academic performance (43–46), further 
+studies are needed to determine whether OSA-associated neurocognitive 
+morbidity in children is related to BP dysregulation 
+and small-vessel disease. 
+
+Several studies have examined the relationship between 24hour 
+BP profile and end-organ damage and have demonstrated 
+that AMBP is superior prognostically to office BP (47, 48). Verdecchia 
+and coworkers (14, 15) studied a group of 1,187 hypertensive 
+subjects and 205 normotensive control subjects and found 
+that a night-to-day systolic BP ratio greater than 0.899 for men 
+and greater than 0.9009 for women was associated with significantly 
+higher risk for cardiovascular events after adjusting for 
+
+risk factors and 24-hour systolic BP. In our study, we demonstrate 
+that children with OSA have a higher night-to-day systolic BP 
+ratio compared with children with simple snoring. More recently, 
+Hoshide and coworkers (49) examined the association between 
+nondipping of nocturnal BP and left ventricular geometry in 
+normotensive subjects. They demonstrated that left ventricular 
+mass index and relative wall thickness were greater in nondippers 
+than in dippers, suggesting that even in the absence of sustained 
+diurnal or nocturnal hypertension, nondipping of BP increases the 
+risk for myocardial damage. It is therefore plausible that the BP 
+profile we described in children with sleep-disordered breathing 
+could lead to future cardiovascular morbidity. 
+
+We observed in this study that increased BP variability in 
+subjects with OSA is present both during sleep and wakefulness, 
+suggesting that the hemodynamic and blood gas abnormalities 
+associated with OSA have a tonic effect on the cardiovascular 
+system. In subjects with OSA, the repeated fall in intrathoracic 
+pressure and the marked increase in left ventricular transmural 
+pressure and afterload contribute largely to BP variability during 
+sleep. In addition to the mechanical effects of OSA on the systemic 
+circulation, there is also repeated activation of the central 
+and peripheral chemoreceptors, which elicit both hyperventilation 
+and increased sympathetic traffic to peripheral blood vessels. 
+Simultaneously, the enhanced chemoreceptor response elicits 
+an inhibitory response from the baroreceptors and pulmonary 
+stretch receptors. Therefore, the final BP response and variability 
+are the product of this intricate interaction among the chemoreceptors, 
+baroreceptors, pulmonary stretch receptors, and the 
+mechanical effect of OSA on cardiac dynamics and function (50, 
+51). This study has shown that the AHI is a strong predictor of 
+BP variability during sleep, whereas the frequency of oxygen 
+desaturation is a strong predictor for daytime variability. A plausible 
+explanation of these findings is that during wakefulness, 
+when the mechanical effect of OSA is not affecting BP variability, 
+there is a residual perturbing effect of intermittent hypoxia 
+on the balance between chemoreceptor and baroreceptor function. 
+We have also demonstrated that the DI is the best predictor 
+of the degree of BP dipping. This suggests that intermittent 
+hypoxia plays an important role in BP dysregulation in children 
+with OSA. 
+
+This study shows the independent effects of obesity and OSA 
+on BP variability. This study has shown that BMI contributes 
+to increased BP variability both during wakefulness and sleep. 
+Studies that examined the changes in the autonomic nervous 
+system among obese subjects showed that obesity is associated 
+with decreased sympathetic and parasympathetic tone, altered 
+ratio of sympathetic to parasympathetic tone, and decreased 
+baroreceptor sensitivity. Both the duration of obesity and the 
+fat distribution contribute to these autonomic changes (52–56). 
+It is likely that obesity and OSA contribute to dysregulation of 
+
+
+Amin, Carroll, Jeffries, et al.: Blood Pressure in Children with Sleep Apnea 
+
+BP by different mechanisms and independently contribute to 
+cardiovascular morbidity. 
+
+There are several limitations to this study. The control group 
+consisted of children with primary snoring. It is possible that 
+with normal control subjects a significant trend for mean BP 
+across the three groups would have been identified. It is also 
+likely that the small sample size provided limited power to detect 
+a significant difference in nocturnal BP among the three groups. 
+Although this study showed an independent effect of OSA on 
+BP regulation, it does not address the possibility that OSA might 
+have a differential effect on BP control in lean versus obese 
+children. 
+
+In summary, this study shows that children with OSA have 
+evidence of BP dysregulation that manifests during sleep and 
+wakefulness. These findings could represent the early stages 
+of BP dysregulation, which could ultimately lead to sustained 
+hypertension if OSA is left untreated or if additional risk factors 
+for hypertension develop over time. Lack of nocturnal dipping 
+and increased BP variability may also be useful in determining 
+a subset of patients for whom more aggressive management of 
+OSA is indicated. 
+
+Conflict of Interest Statement : R.S.A. has no declared conflict of interest; J.L.C. has 
+no declared conflict of interest; J.L.J. has no declared conflict of interest; C.G. has no 
+declared conflict of interest; J.A.B. has no declared conflict of interest; B.C. has 
+no declared conflict of interest; R.B. has given lectures for Astra-Zeneca over the 
+last three years with payment $5,000; S.R.D. has no declared conflict of interest. 
+
+References 
+
+1. Shahar E, Whitney CW, Redline S, Lee ET, Newman AB, Javier Nieto F, 
+O’Connor GT, Boland LL, Schwartz JE, Samet JM. Sleep-disordered 
+breathing and cardiovascular disease: cross-sectional results of the 
+Sleep Heart Health Study. Am J Respir Crit Care Med 2001;163:19–25. 
+2. Silvestrini M, Rizzato B, Placidi F, Baruffaldi R, Bianconi A, Diomedi 
+M. Carotid artery wall thickness in patients with obstructive sleep 
+apnea syndrome. Stroke 2002;33:1782–1785. 
+3. Schafer H, Koehler U, Ewig S, Hasper E, Tasci S, Luderitz B. Obstructive 
+sleep apnea as a risk marker in coronary artery disease. Cardiology 
+1999;92:79–84. 
+4. Hla KM, Skatrud JB, Finn L, Palta M, Young T. The effect of correction 
+of sleep-disordered breathing on BP in untreated hypertension. Chest 
+2002;122:1125–1132. 
+5. Peppard PE, Young T, Palta M, Skatrud J. Prospective study of the 
+association between sleep-disordered breathing and hypertension. 
+NEnglJMed 2000;342:1378–1384. 
+6. Nieto FJ, Young TB, Lind BK, Shahar E, Samet JM, Redline S, D’Agostino 
+RB, Newman AB, Lebowitz MD, Pickering TG. Association of 
+sleep-disordered breathing, sleep apnea, and hypertension in a large 
+community-based study: Sleep Heart Health Study. JAMA 2000;283: 
+1829–1836. 
+7. Davrath LR, Goren Y, Pinhas I, Toledo E, Akselrod S. Early autonomic 
+malfunction in normotensive individuals with a genetic predisposition 
+to essential hypertension. Am J Physiol Heart Circ Physiol 2003;285: 
+H1697–H1704. 
+8. Lucini D, Mela GS, Malliani A, Pagani M. Impairment in cardiac autonomic 
+regulation preceding arterial hypertension in humans: insights 
+from spectral analysis of beat-by-beat cardiovascular variability. Circulation 
+2002;106:2673–2679. 
+9. Liu M, Takahashi H, Morita Y, Maruyama S, Mizuno M, Yuzawa Y, 
+Watanabe M, Toriyama T, Kawahara H, Matsuo S. Non-dipping is a 
+potent predictor of cardiovascular mortality and is associated with 
+autonomic dysfunction in haemodialysis patients. Nephrol Dial Transplant 
+2003;18:563–569. 
+10. Havlik RJ, Foley DJ, Sayer B, Masaki K, White L, Launer LJ. Variability 
+in midlife systolic blood pressure is related to late-life brain white 
+matter lesions: the Honolulu-Asia aging study. Stroke 2002;33:26–30. 
+11. Staessen JA, Asmar R, De Buyzere M, Imai Y, Parati G, Shimada K, 
+Stergiou G, Redon J, Verdecchia P. Task force II: blood pressure 
+measurement and cardiovascular outcome. Blood Press Monit 2001;6: 
+355–370. 
+12. Tozawa M, Iseki K, Yoshi S, Fukiyama K. Blood pressure variability as 
+an adverse prognostic risk factor in end-stage renal disease. Nephrol 
+Dial Transplant 1999;14:1976–1981. 
+13. Goldstein IB, Bartzokis G, Hance DB, Shapiro D. Relationship between 
+blood pressure and subcortical lesions in healthy elderly people. Stroke 
+1998;29:765–772. 
+14. Verdecchia P, Clement D, Fagard R, Palatini P, Parati G. Blood pressure 
+monitoring: Task force III: target-organ damage, morbidity and mortality. 
+Blood Press Monit 1999;4:303–317. 
+15. Verdecchia P, Schillaci G, Borgioni C, Ciucci A, Gattobigio R, Guerrieri 
+M, Comparato E, Benemio G, Porcellati C. Altered circadian blood 
+pressure profile and prognosis. Blood Press Monit 1997;2:347–352. 
+16. Sega R, Corrao G, Bombelli M, Beltrame L, Facchetti R, Grassi G, 
+Ferrario M, Mancia G. Blood pressure variability and organ damage 
+in a general population: results from the PAMELA study (Pressioni 
+Arteriose Monitorate E Loro Associazioni). Hypertension 2002;39: 
+710–714. 
+17. Amin RS, Kimball TR, Bean JA, Jeffries JL, Willging JP, Cotton RT, 
+Witt SA, Glascock BJ, Daniels SR. Left ventricular hypertrophy and 
+abnormal ventricular geometry in children and adolescents with obstructive 
+sleep apnea. Am J Respir Crit Care Med 2002;165:1395–1399. 
+18. De Groot JC, De Leeuw FE, Oudkerk M, Van Gijn J, Hofman A, Jolles 
+J, Breteler MM. Periventricular cerebral white matter lesions predict 
+rate of cognitive decline. Ann Neurol 2002;52:335–341. 
+19. Standards and indications for cardiopulmonary sleep studies in children: 
+American Thoracic Society. Am J Respir Crit Care Med 1996;153: 
+866–878. 
+20. Cardiorespiratory sleep studies in children: establishment of normative 
+data and polysomnographic predictors of morbidity: American Thoracic 
+Society. Am J Respir Crit Care Med 1999;160:1381–1387. 
+21. Rechtschaffen A, Kales A. editors. A manual of standardized terminology: 
+techniques and scoring systems for sleep stages of human subjects. 
+UCLA Brain Information Service. Los Angeles: Brain Research Institute; 
+1968. 
+22. Sleep Disorders Atlas Task Force: C. Guilleminault, Chairman. 
+Sleep 
+1992;15:173–184. 
+23. Sun M, Tien J, Jones R, Ward R. A new approach to reproducibility 
+assessment: clinical evaluation of SpaceLabs medical oscillometric 
+blood pressure monitor. Biomed Instrum Technol 1996;30:439–448. 
+24. Sulbaran TA, Silva Rondon E. Normal values during ambulatory blood 
+pressure monitoring in male adolescents. Invest Clin 1997;38:55–63. 
+25. Schillaci G, Verdecchia P, Zampi I, Battistelli M, Bartoccini C, Porcellati 
+C. Non-invasive ambulatory BP monitoring during the night: randomised 
+comparison of different reading intervals. J Hum Hypertens 1994; 
+8:23–27. 
+26. Hietanen E, Wendelin-Saarenhovi M. Ambulatory blood pressure reproducibility 
+and application of the method in a healthy Finnish cohort. 
+Scand J Clin Lab Invest 1996;56:471–480. 
+27. Enright PL, Goodwin JL, Sherrill DL, Quan JR, Quan SF. Blood pressure 
+elevation associated with sleep-related breathing disorder in a community 
+sample of white and Hispanic children: the Tucson Children’s 
+Assessment of Sleep Apnea Study. Arch Pediatr Adolesc Med 2003;157: 
+901–904. 
+28. Dimsdale JE, von Kanel R, Profant J, Nelesen R, Ancoli-Israel S, Ziegler 
+M. Reliability of nocturnal blood pressure dipping. Blood Press Monit 
+2000;5:217–221. 
+29. National High Blood Pressure Education Program Working Group on 
+Hypertension Control in Children and Adolescents. Update on the 
+1987 task force report on high blood pressure in children and adolescents: 
+a working group report from the National High Blood Pressure 
+Education Program. Pediatrics 1996;98:649–658. 
+30. Rosner B, Prineas RJ, Loggie JM, Daniels SR. Blood pressure nomograms 
+for children and adolescents, by height, sex, and age, in the United 
+States. J Pediatr 1993;123:871–886. 
+31. Ogden CL, Kuczmarski RJ, Flegal KM, Mei Z, Guo S, Wei R, Grummer-
+Strawn LM, Curtin LR, Roche AF, Johnson CL. Centers for Disease 
+Control and Prevention 2000 growth charts for the United States: 
+improvements to the 1977 National Center for Health Statistics version. 
+Pediatrics 2002;109:45–60. 
+32. Guilleminault C, Eldridge FL, Simmons FB, Dement WC. Sleep apnea 
+in eight children. Pediatrics 1976;58:23–30. 
+33. Shiomi T, Guilleminault C, Stoohs R, Schnittger I. Obstructed breathing 
+in children during sleep monitored by echocardiography. Acta Paediatr 
+1993;82:863–871. 
+34. 
+Marcus CL, Greene MG, Carroll JL. Blood pressure in children with obstructive 
+sleep apnea. Am J Respir Crit Care Med 1998;157:1098–1103. 
+35. Kohyama J, Ohinata JS, Hasegawa T. Blood pressure in sleep disordered 
+breathing. Arch Dis Child 2003;88:139–142. 
+36. Imadojemu VA, Sinoway LI, Leuenberger UA. Vascular dysfunction in 
+
+956 AMERICAN JOURNAL OF RESPIRATORY AND CRITICAL CARE MEDICINE VOL 169 2004 
+
+sleep apnea: a reversible link to cardiovascular disease? Am J Respir 
+Crit Care Med 2004;169:328–329. 
+
+37. Imadojemu VA, Gleeson K, Quraishi SA, Kunselman AR, Sinoway LI, 
+Leuenberger UA. Impaired vasodilator responses in obstructive sleep 
+apnea are improved with continuous positive airway pressure therapy. 
+Am J Respir Crit Care Med 2002;165:950–953. 
+38. Imadojemu VA, Gleeson K, Gray KS, Sinoway LI, Leuenberger UA. 
+Obstructive apnea during sleep is associated with peripheral vasoconstriction. 
+Am J Respir Crit Care Med 2002;165:61–66. 
+39. Kikuya M, Hozawa A, Ohokubo T, Tsuji I, Michimata M, Matsubara 
+M, Ota M, Nagai K, Araki T, Satoh H, et al. Prognostic significance 
+of blood pressure and heart rate variabilities: the Ohasama study. 
+Hypertension 2000;36:901–906. 
+40. Grove JS, Reed DM, Yano K, Hwang LJ. Variability in systolic blood 
+pressure: a risk factor for coronary heart disease? Am J Epidemiol 
+1997;145:771–776. 
+41. de Leeuw FE, de Groot JC, Oudkerk M, Witteman JC, Hofman A, van 
+Gijn J, Breteler MM. Hypertension and cerebral white matter lesions 
+in a prospective cohort study. Brain 2002;125:765–772. 
+42. de Groot JC, de Leeuw FE, Oudkerk M, Hofman A, Jolles J, Breteler 
+MM. Cerebral white matter lesions and subjective cognitive dysfunction: 
+the Rotterdam Scan Study. Neurology 2001;56:1539–1545. 
+43. Gozal D. Sleep-disordered breathing and school performance in children. 
+Pediatrics 1998;102:616–620. 
+44. Gozal D, Pope DW Jr. Snoring during early childhood and academic 
+performance at ages thirteen to fourteen years. Pediatrics 2001;107: 
+1394–1399. 
+45. Peker Y, Hedner J, Norum J, Kraiczi H, Carlson J. Increased incidence 
+of cardiovascular disease in middle-aged men with obstructive sleep 
+apnea: a 7-year follow-up. Am J Respir Crit Care Med 2002;166: 
+159–165. 
+46. Urschitz MS, Guenther A, Eggebrecht E, Wolff J, Urschitz-Duprat PM, 
+Schlaud M, Poets CF. Snoring, intermittent hypoxia and academic 
+performance in primary school children. Am J Respir Crit Care Med 
+2003;168:464–468. 
+47. Perloff D, Sokolow M, Cowan R. The prognostic value of ambulatory 
+blood pressures. JAMA 1983;249:2792–2798. 
+48. Perloff D, Sokolow M, Cowan RM, Juster RP. Prognostic value of ambulatory 
+blood pressure measurements: further analyses. J Hypertens 
+Suppl 1989;7:S3–S10. 
+49. Hoshide S, Kario K, Hoshide Y, Umeda Y, Hashimoto T, Kunii O, Ojima 
+T, Shimada K. Associations between nondipping of nocturnal blood 
+pressure decrease and cardiovascular target organ damage in strictly 
+selected community-dwelling normotensives. Am J Hypertens 2003;16: 
+434–438. 
+50. Narkiewicz K, Somers VK. Sympathetic nerve activity in obstructive 
+sleep apnoea. Acta Physiol Scand 2003;177:385–390. 
+51. Kara T, Narkiewicz K, Somers VK. Chemoreflexes: physiology and clinical 
+implications. Acta Physiol Scand 2003;177:377–384. 
+52. Martini G, Riva P, Rabbia F, Molini V, Ferrero GB, Cerutti F, Carra 
+R, Veglio F. Heart rate variability in childhood obesity. Clin Auton 
+Res 2001;11:87–91. 
+53. Nagai N, Matsumoto T, Kita H, Moritani T. Autonomic nervous system 
+activity and the state and development of obesity in Japanese school 
+children. Obes Res 2003;11:25–32. 
+54. Laederach-Hofmann K, Mussgay L, Ruddel H. Autonomic cardiovascular 
+regulation in obesity. J Endocrinol 2000;164:59–66. 
+55. Beske SD, Alvarez GE, Ballard TP, Davy KP. Reduced cardiovagal 
+baroreflex gain in visceral obesity: implications for the metabolic syndrome. 
+Am J Physiol Heart Circ Physiol 2002;282:H630–H635. 
+56. Rabbia F, Silke B, Conterno A, Grosso T, De Vito B, Rabbone I, Chiandussi 
+L, Veglio F. Assessment of cardiac autonomic modulation during 
+adolescent obesity. Obes Res 2003;11:541–548. 
+

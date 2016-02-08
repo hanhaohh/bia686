@@ -1,0 +1,352 @@
+Acta Pædiatrica, 2006; 95: 561564 
+
+
+Screening of obstructive and central apnoea/hypopnoea in children 
+using variability: A preliminary study 
+
+JONG YONG A FOO1, ANDREW P BRADLEY2, STEPHEN J WILSON2, 
+GORDON R WILLIAMS3, CAROLYN DAKIN3 & DAVID M COOPER3 
+
+1Biomedical Engineering Research Centre, Nanyang Technological University, 50 Nanyang Drive, Singapore 637553, 
+2School of Information Technology and Electrical Engineering, The University of Queensland, Australia, 3Department of 
+Respiratory and Sleep Medicine, Mater Misericordiae Children’s Hospital, South Brisbane, Queensland, Australia 
+
+Abstract 
+
+Aim: Polysomnography (PSG) is the current standard protocol for sleep disordered breathing (SDB) investigation in 
+children. Presently, there are limited reliable screening tests for both central (CE) and obstructive (OE) respiratory events. 
+This study compared three indices, derived from pulse oximetry and electrocardiogram (ECG), with the PSG gold 
+standard. These indices were heart rate (HR) variability, arterial blood oxygen de-saturation (SaO2) and pulse transit time 
+(PTT). Methods: 15 children (12 male) from routine PSG studies were recruited (aged 314 years). The characteristics of 
+the three indices were based on known criteria for respiratory events (RPE). Their estimation singly and in combination was 
+evaluated with simultaneous scored PSG recordings. Results: 215 RPE and 215 tidal breathing events were analysed. For 
+OE, the obtained sensitivity was HR (0.703), SaO2 (0.047), PTT (0.750), considering all three indices (0) and either of the 
+indices (0.828) while specificity was (0.891), (0.938), (0.922), (0.953) and (0.859) respectively. For CE, the sensitivity was 
+HR (0.715), SaO2 (0.278), PTT (0.662), considering all indices (0.040) and either of the indices (0.868) while specificity 
+was (0.815), (0.954), (0.901), (0.960) and (0.762) accordingly. 
+
+Conclusions: Preliminary findings herein suggest that the later combination of these non-invasive indices to be a promising 
+screening method of SDB in children. 
+
+Key Words: Sleep apnoea, hypopnoea, oximetry, heart rate variability, pulse transit time, oxygen saturation 
+
+Introduction 
+
+Nocturnal polysomnography (PSG) is the accepted 
+diagnostic test for sleep disordered breathing (SDB) in 
+children [1]. However, this is a limited resource with no 
+simple screening test to facilitate prioritisation, clinical 
+symptoms and signs distinguishing poorly between 
+normal sleep and significant SDB. The development 
+of screening tests, based on appropriate and simply 
+monitored physiological signals can prove most valuable 
+in prioritising PSG studies, and may allow for 
+institution of therapy [2]. It is clear that SDB may 
+produce a variety of immediate physiologic consequences. 
+The commonly assessed consequences are 
+oxygen desaturation, electroencephalogram (EEG) 
+arousal and a variety of autonomic activation indices 
+like increases in heart rate (HR) and/or blood pressure 
+(BP). Thus, many of the screening tests are based on 
+known autonomic arousal markers such as variations in 
+
+HR [34], peripheral vasoconstriction [5] and pulse 
+transit time (PTT) [3,6]. Such markers are, at least in 
+part, manifestations of the orienting reflex response to 
+alerting stimuli during sleep. This reflex does not 
+habituate to recurrent arousing stimuli and so is 
+considered to be a sensitive marker of transient arousal 
+stimuli [4]. It is further suggested that measurement of 
+a single physiologic consequence may be limited in 
+detecting SDB [12]. Hence, the objectives of this 
+study performed on children were to assess: (1) the 
+independent use of three physiologic indices of HR, 
+arterial blood oxygen saturation (SaO2) and PTT in 
+detecting SDB events against corresponding PSG 
+scorings; and (2) their combined use. 
+
+Methods 
+
+Routine overnight PSG was performed in the 
+sleep laboratory with monitoring that included EEG 
+
+Correspondence: Jong Foo, BMERC, Nanyang Technological University, 50 Nanyang Drive, Research Techno Plaza, Singapore 637553. Tel: /65 6316 2957. 
+Fax: /65 6791 2274. Email: jong@ntu.edu.sg 
+
+(Received 29 June 2005; accepted 16 November 2005) 
+
+ISSN 0803-5253 print/ISSN 1651-2227 online # 
+2006 Taylor & Francis 
+DOI: 10.1080/08035250500477552 
+
+
+562 J. Y. A. Foo et al. 
+
+(electrodes C3-A2 and O2-A1), left and right electrooculogram 
+(EOG) (LE-A2 and RE-A1), oronasal 
+airflow tracing (via pressure transducer), AC-coupled 
+respiratory inductance plethysmography (RIP) 
+recording of chest and abdominal movement 
+(Respitrace Calibrator System, Ambulatory Monitoring 
+Inc., Ardsley, USA), infrared photoplethysmography 
+(PPG) and SaO2 measure by a pulse oximetry 
+(Novametrix Medical Systems Inc, Wallingford, 
+USA), HR estimations from a single-lead electrocardiogram 
+(ECG) monitor (S&W Medico, Teknik, 
+Denmark). The studies were continuously observed 
+and recorded by a PSG system (Uniquant system, 
+LaMont Medical Inc., Wisconsin, USA). Recommended 
+criteria for children were used for scoring 
+respiratory events (RPE) [7]. To simplify the categorising 
+process, central apnoea or hypopnoea were 
+regarded as central event (CE) in this study. Similarly, 
+obstructive apnoea or hypopnoea were classified as 
+obstructive event (OE). Mixed apnoeas or hypopnoeas 
+were also classified as OE to simplify the 
+comparison process. A stand-alone microcontrollerbased 
+device was used to estimate PTT with a 1 ms 
+resolution [8]. 
+
+Children were eligible if they had a diagnostic PSG 
+study following referral for investigation of SDB. This 
+study included 15 children (12 male) aged 8.89/3.0 
+years. Their height and weight were 1.309/0.24 m 
+and 36.99/22.5 kg respectively. Verbal instruction and 
+consent were obtained from children and their caregiver 
+prior to any test activity. Institutional ethical 
+approval was also given for the study. The presence of 
+
+SDB events were verified against the corresponding 
+readings of both the RIP and oronasal airflow 
+measures based on standard PSG criteria [7]. Increased 
+breathing efforts are seen on RIP monitoring 
+of children as de-synchronization of chest and abdominal 
+movements. As cardiac diseases can affect 
+the isometric contraction time of the left ventricle that 
+forms a major part of the measured PTT [6], children 
+with coexisting cardiac diseases were excluded in this 
+study. 
+
+All SDB events were identified manually by two 
+blinded observers who were not aware of the present 
+study. For each OE, the following characteristics were 
+evaluated: (1) SaO2 de-saturation of ]/4% within 10 s 
+of event termination [4,9]; (2) increase in HR by 
+]/6bpm in the 10s following the event using its 
+baseline calculated 10 s after the event [4,10]; and 
+
+(3) decrease in PTT by 15ms from its baseline for at 
+least a 5 s period as the presence of OE [6]. Similar 
+HR and SaO2 evaluations were applied to the CE. For 
+the PTT measurement, the variance of PTT has 
+previously been shown to indicate the occurrence of 
+CE [8]. Hence, (4) a decrease in PTT SD of 5/4ms 
+over a 10 sample period was used instead. A typical 
+PSG recording of OE and CE are illustrated in Figure 
+1. As PTT is a semi-quantitative inspiratory effort 
+measure, PTT examination needs to be determined 
+over several breaths by observing the relative fluctuations 
+from its baseline history value [6,8]. In this 
+study, the classifications of RPE are performed by 
+using the 10 PTT samples associated with each event. 
+For each valid RPE, data from the three indices was 
+Figure 1. (A) PSG recordings of an OE that leads to significant PTT variations when compared to prior tidal breathing PTT baseline can 
+be observed. (B) Epochs of CE which have relatively minimal PTT variations. Due to their proximity, the first two events (as indicated by 
+the circular notation in the figure) can be mistaken as one event based on the indices’ characteristics used in the present study. SOE and 
+EOE denote the start and end of OE while SCE and ECE denote the start and end of CE respectively. 
+
+
+Screening of sleep disordered breathing with three indices 563 
+
+extracted for the duration of the event and for an 
+equal duration of tidal breathing directly prior to the 
+event. This was to give an equal amount of data for 
+both the tidal breathing events and the respiratory 
+events. In this study, sensitivity (Se) is defined as the 
+probability of correctly identifying a true positive OE 
+or CE event. Specificity (Sp) is the probability of 
+correctly identifying a true negative tidal breathing 
+event. Positive predictive value (PPV) is the probability 
+that a child with a positive test having OE or 
+CE. Negative predictive value (NPV) is the probability 
+that a child with a negative test not having OE 
+or CE. Statistical analysis was performed using the 
+Excel XP (Microsoft Corporation, Seattle, USA) and 
+Matlab (R14, the Mathworks Inc., Natick, USA) 
+packages. 
+
+Results 
+
+The recorded mean total sleep time (TST) was 
+6.989/1.50 h with sleep efficiency of 85.49/13.7%. 
+The total number of OE and CE occurred in the 
+PSG studies were 87 and 156 respectively. Hence, 
+the associated mean apnoea-hypopnoea index (AHI) 
+was found to be 2.259/1.93. From the 243 identified 
+PSG RPE, only 215 of them (64 OE and 151 CE) 
+were considered as suitable for comparison with 
+the PSG scorings. The exclusion of the remaining 
+events can be due: (1) events with motion artefact; 
+
+(2) RPE with less than 15 s apart (the proximity 
+of these events can affect the characteristics accuracy 
+used here as illustrated by Figure 1); or (3) scoring 
+discrepancies between the two blinded observers. 
+Another 215 tidal breathing events were also recorded 
+as part of the analysis. 
+With the 430 recorded events, the Se, Sp, PPV 
+and NPV were calculated for the three indices: 
+HR, SaO2 and PTT. Based on the individual 
+results, they were then combined with the other 
+two indices to produce a complex classification. 
+If the indices are combined with a logic OR statement, 
+then an event s detected if either of the 
+individual conditions is met. Combining indices in 
+this way potentially results in a classification 
+with increased Se and NPV, but reduced Sp and 
+PPV compared to the individual indices. If the 
+indices are combined with a logic AND statement, 
+then an event is detected only if all conditions are 
+met. This potentially results in a classification 
+with increased Sp, but with all other measures 
+reduced. The results obtained with single indices 
+and combinations of indices for both OE and CE 
+are given in Table 1. It is worth noting there can be 
+numerous combinations with the indices, but only the 
+most restrictive (HR AND SaO2 AND PTT) and 
+least restrictive (HR OR SaO2 OR PTT) are presented 
+here. 
+
+Table 1. The use of the three indices is assessed singly and in 
+combination to predict OE and CE. Only the most restrictive, logic 
+AND combination (HR AND SaO2 AND PTT) and least 
+restrictive, logic OR combination (HR OR SaO2 OR PTT) are 
+included in the results. 
+
+Index used HR SaO2 PTT OR AND 
+For OE 
+Sensitivity (Se) 0.703 0.047 0.750 0.828 0 
+Specificity (Sp) 0.891 0.938 0.922 0.859 0.953 
+Positive predictive 0.865 0.429 0.906 0.855 0 
+value (PPV) 
+Negative predictive 0.750 0.496 0.787 0.833 0.488 
+value (NPV) 
+For CE 
+Sensitivity (Se) 0.715 0.278 0.662 0.868 0.040 
+Specificity (Sp) 0.815 0.954 0.901 0.762 0.960 
+Positive predictive 0.794 0.857 0.870 0.784 0.500 
+value (PPV) 
+Negative predictive 0.741 0.569 0.727 0.852 0.500 
+value (NPV) 
+
+Discussion 
+
+The benefits of simple and accessible SDB screening 
+for children are obvious. Numerous techniques 
+and screening tools have been developed with results 
+of clinical trials showing diverse implications [2]. 
+Despite this, diagnostic PSG remains the gold 
+standard against which these techniques are 
+compared [1,7]. The present study has investigated 
+the usefulness of HR, SaO2 and PTT indices in 
+screening for SDB in children. 
+
+In the obtained recordings, 28 out of the 243 RPE 
+scored by the PSG studies were excluded. This is 
+expected as with few and simpler instruments, artefact 
+minimisation and scoring criteria can become less 
+ideal. Based on the remaining 215 events, it is shown 
+that by using these indices, either on their own or in 
+combination, various practical levels of Se and Sp, 
+and hence PPV and NPV, can be achieved. For 
+example, in a diagnostic application it is important 
+to have both high Se and Sp whilst for screening 
+applications a lower Sp (and therefore increased 
+false alarms) can be tolerated. In particular, the 
+OR combination shows an improved Se, with only 
+marginally reduced Sp. However, the AND combination 
+results in a significantly lower Se, but higher Sp. 
+As for OE, where the most accurate single index was 
+mean PTT, the most accurate single index for CE is 
+based on the SD of PTT. However, it has been shown 
+that classification based on mean PTT decrease is 
+unable to detect CE [8]. These results suggest that 
+selected test outcomes coupled with a strong clinical 
+SDB suspicion may prove useful for clinicians in their 
+investigations. 
+
+It is worth noting that the present study has some 
+limitations. First, Pes monitoring is not included in 
+
+
+564 J. Y. A. Foo et al. 
+
+this study despite being the reference method 
+for measuring changes in negative intrathoracic 
+pressures and inspiratory efforts [6]. It is excluded 
+due to the possible lack of patient acceptability and 
+interference with the accuracy of the PSG [3,6]. 
+Second, present literature suggests that there is a 
+significant correlation between Pes and PTT [6]. 
+In addition, the study population does not have 
+significant symptoms of SDB. Hence, future work 
+can involve a second group of paediatric patients, 
+especially those with known significant SDB symptoms. 
+Third, the facility of these indices has not 
+been tested in a non-hospital environment including a 
+standalone time indication for the indices besides that 
+of the PSG system. However, the preliminary results 
+herein suggest the possibility for further investigations 
+in such a setting. 
+
+Conclusions 
+
+From this study, it can be seen that the combination 
+OR of HR, SaO2 and PTT has the potential to be a 
+useful screening tool for SDB. It fulfils the criteria for 
+simplicity as it only requires the recordings of signals 
+from the ECG and oximetry. This requires fewer 
+electrodes for the study when compared to some other 
+remote sleep study systems. Furthermore, both the 
+ECG and oximetry can be generally implemented 
+with portable devices. Hence, further investigations 
+
+can be conducted to test their suitability in domiciliary 
+monitoring of SDB in the paediatric population. 
+
+References 
+
+[1] Coleman 
+J. Sleep studies: Current techniques and future 
+trends. Otolaryngol Clin North Am 1999;32:195210. 
+[2] Douglas NJ. Home diagnosis of the obstructive sleep apnoea/ 
+hypopnoea syndrome. Sleep Med Rev 2003;7:539. 
+[3] Pitson D, Chhina N, Knijn S. Changes in pulse transit time 
+and pulse rate as markers of arousal from sleep in normal 
+subjects. Clin Sci 1994;87:26973. 
+[4] Raymond B, Cayton RM, Chappell MJ. Combined index of 
+heart rate variability and oximetry in screening for the sleep 
+apnoea/hypopnoea syndrome. J Sleep Res 2003;12:5361. 
+[5] Schnall RP, Shlitner A, Sheffy J, Kedar R, Lavie P. Periodic, 
+profound peripheral vasoconstriction-A new marker of obstructive 
+sleep apnea. Sleep 1999;22:93946. 
+[6] Katz ES, Lutz J, Black C, Marcus CL. Pulse transit time as a 
+measure of arousal and respiratory effort in children with 
+sleep-disordered breathing. Pediatr Res 2003;53:5808. 
+[7] American Thoracic Society. Medical Section of the American 
+Lung Association. Standards and indications for cardiopulmonary 
+sleep studies in children. Am J Respir Crit Care Med 
+1996;153:86678. 
+[8] Foo JYA, Wilson SJ, Bradley AP, Williams GR, Harris M-A, 
+Cooper DM. Use of pulse transit time to distinguish respiratory 
+events from tidal breathing in sleeping children. Chest 
+2005;128:30139. 
+[9] Uliel S, Tauman 
+R, Greenfeld M, Sivan Y. Normal polysomnographic 
+respiratory values in children and adolescents. 
+Chest 2004;125:8728. 
+[10] Ayappa 
+I, Rapaport BS, Norman RG, Rapoport DM. 
+Immediate consequences of respiratory events in sleep disordered 
+breathing. Sleep Med 2005;6:12330. 
+

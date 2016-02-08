@@ -1,0 +1,593 @@
+Eur Respir J 2007; 29: 307–311 
+DOI: 10.1183/09031936.00059706 
+CopyrightERS Journals Ltd 2007 
+
+Impact of CPAP on asthmatic patients with 
+obstructive sleep apnoea 
+
+C. Lafond*, F. Se´rie`s# and C. Lemie`re* 
+ABSTRACT: The impact of continuous positive airway pressure (CPAP) treatment on the airway 
+responsiveness of asthmatic subjects with obstructive sleep apnoea (OSA) has scarcely been 
+studied. 
+
+A prospective study was performed comparing the changes in airway responsiveness and 
+quality of life in stable asthmatic OSA patients, before and 6 weeks after their nocturnal CPAP 
+treatment. 
+
+A total of 20 subjects (11 males and nine females) participated in the study. With the nocturnal 
+CPAP treatment, the apnoea/hypopnoea index dropped from 48.1¡23.6?h-1 to 2.6¡2.5?h-1. There 
+were no significant changes in airway responsiveness after CPAP treatment (provocative 
+concentration causing a 20% fall in forced expiratory volume in one second (FEV1;PC20 
+
+2.5 mg?mL-1 (1.4–4.5)) compared with baseline (PC20 2.2 mg?mL-1 (1.3–3.5)). There was no 
+significant change in FEV1 either. However, the asthma quality of life of the subjects improved 
+from 5.0¡1.2 at baseline to 5.8¡0.9 at the end of the study. 
+In conclusion, nocturnal continuous positive airway pressure treatment did not alter airway 
+responsiveness or forced expiratory volume in one second in subjects with stable mild-tomoderate 
+asthma and newly diagnosed obstructive sleep apnoea. However, nocturnal continuous 
+positive airway pressure treatment did improve asthma quality of life. 
+
+KEYWORDS: Airway responsiveness, asthma, asthma quality of life, continuous positive airway 
+pressure, obstructive sleep apnoea 
+
+T
+T
+he prevalence of asthma varies widely effective in reducing nocturnal asthma attacks in 
+depending on the country studied [1]. In asthmatic and apnoeic patients [14–16]. Two 
+Canada, the 1998/1999 National Popu-studies reported an improvement of airway 
+lation Health Survey reported a prevalence of responsiveness with CPAP treatment in four out 
+physician-diagnosed asthma in 8.4% of the over-of 20 apnoeic nonasthmatic patients [17] and in 
+all population [2]. The estimated prevalence of nine stable asthmatic nonapnoeic patients [18], 
+sleep nocturnal breathing disorder, defined as an respectively. However, a deleterious effect of 
+apnoea/hypopnoea score ,is4%in CPAP on airway responsiveness was reported
+
+o15?h-1females and 9% in males [3]. in six out of 31 OSA patients [19]. To the best of 
+the present authors’ knowledge, no study has 
+
+Asthma and obstructive sleep apnoea (OSA) 
+
+specifically evaluated the effects of CPAP treat-
+
+syndrome are two prevalent diseases that may 
+
+ment on airway responsiveness of asthmatic OSA 
+
+coexist [4] and adversely affect health-related 
+
+patients.
+
+quality of life [5]. A high body mass index (BMI) 
+may be an impediment in both conditions [6]. The primary aim of the present prospective study 
+Furthermore, nasal symptoms and gastro-was to observe the changes in airway responoesophageal 
+reflux that are often reported in siveness in stable asthmatic OSA patients before 
+OSA [7, 8] may exacerbate asthma [9, 10]. In and 6 weeks after CPAP treatment. The second-
+patients suffering from both conditions, noctur-ary aim was to study the impact of CPAP on 
+nal breathing disorder may be related to asthma, quality of life specific to asthma (QOLAs) and 
+OSA or both [11, 12]. OSA (QOLAp). 
+
+It is well known that continuous positive airway MATERIAL AND METHODS 
+pressure (CPAP) is the most effective treatment Study design 
+for OSA [13]. It has also been reported to be 
+
+Before entering the study, subjects underwent 
+
+three serial methacholine inhalation challenges 
+For editorial comments see page 226. measured 2–3 days apart. Baseline QOLAs and 
+
+
+AFFILIATIONS 
+*Sacre-Coeur Hospital, University of 
+Montreal, Montreal, and 
+#Pneumology Research Unit, Laval 
+Hospital Research Centre, University 
+Institute of Cardiology and 
+Pneumology, Laval University, 
+Quebec City, QC, Canada. 
+
+CORRESPONDENCE 
+
+C. Lafond 
+5400 Boul. Gouin Ouest 
+Montreal 
+QC H4J-1C5 
+Canada 
+Fax: 1 5143383699 
+E-mail: chantal.lafond@umontreal.ca 
+Received: 
+May 04 2006 
+Accepted after revision: 
+September 29 2006 
+
+
+SUPPORT STATEMENT 
+This study was funded by the 
+Respiratory Health Network of FRSQ 
+(Fonds de Recherche en Sante´ du 
+Que´bec). 
+
+
+STATEMENT OF INTEREST 
+None declared. 
+
+
+European Respiratory Journal 
+
+Print ISSN 0903-1936 
+Online ISSN 1399-3003 
+
+EUROPEAN RESPIRATORY JOURNAL VOLUME 29 NUMBER 2 
+
+307 
+
+
+CPAP IN ASTHMATIC PATIENTS WITH OSA C. LAFOND ET AL. 
+
+QOLAp questionnaires were completed. An atopic status was 
+assessed using skin-prick tests to common inhalants. Gastrooesophageal 
+symptoms and/or antireflux medication usage 
+were assessed by way of open questionnaires. 
+
+CPAP titration was completed during a full-night polysomnography 
+(PSG). Afterwards, CPAP treatment was started at 
+home. After the second and fourth week of nocturnal treatment 
+with CPAP, patients were contacted by the research nurse to 
+verify the control of their asthma and their adaptation to the 
+CPAP treatment. 
+
+After 6 weeks of nocturnal treatment with CPAP, objective 
+CPAP utilisation was determined by downloading information 
+from the CPAP unit. An in-laboratory PSG was repeated with 
+CPAP therapy as prescribed at home. The airway responsiveness 
+and QOLAs and QOLAp questionnaires were reassessed 
+as performed at baseline. 
+
+Subjects 
+
+Individuals aged o18 yrs with stable asthma and a new 
+diagnosis of OSA syndrome were considered for enrolment in 
+two centres (Sacre-Coeur Hospital, Montreal and Laval 
+Hospital, Quebec, QC, Canada) between October 2001 and 
+March 2005. The study was approved by the research ethics 
+committee of each participating centre. All subjects gave their 
+written consent. 
+
+Inclusion criteria 
+
+Asthma was defined according to the American Thoracic 
+Society (ATS) criteria [20]. Acceptable asthma control was 
+defined by occasional respiratory symptoms and absence of 
+asthma exacerbation without changes in the maintenance 
+therapy in the month preceding the study. All subjects showed 
+airway responsiveness defined by a provocative concentration 
+of methacholine causing a 20% fall in forced expiratory volume 
+in one second (FEV1) f8mg?mL-1 (PC20). 
+
+All patients complained of symptoms suggestive of OSA 
+syndrome and their apnoea/hypopnoea index (AHI) was 
+determined during one in-laboratory PSG, the recording of 
+which was o15?h-1. 
+
+Exclusion criteria 
+
+Initially, subjects were not eligible to continue the study when 
+the variation between the lowest and the highest measure of 
+PC20 was more than two dilutions. This assumed that their 
+asthma was not optimally controlled or that the methacholine 
+challenge could not be reproduced in these patients. 
+
+Withdrawal criteria 
+
+No changes in the patients’ maintenance therapy for asthma 
+were allowed during the study (which included changes in 
+inhaled or systemic steroids, long-acting inhaled b2-agonists, 
+theophylline or leukotriene receptor antagonists) nor were the 
+addition of steroids in nasal vaporisation and/or medication 
+against gastro-oesophageal reflux. 
+
+Patients were withdrawn during the course of the study when 
+compliance to their CPAP treatment was considered inadequate 
+(average daily use ,4h?night-1) or when asthma 
+exacerbations unrelated to CPAP use occurred (e.g. respiratory 
+tract infection, allergenic exposure and recurrence of smoking). 
+
+Methacholine challenges 
+
+Spirometry was performed according to the ATS standards 
+[21]. Methacholine challenges were performed according to 
+previously described standardised techniques [22]. 
+
+Sleep studies 
+
+Initial PSG recordings consisted of in-laboratory continuous 
+acquisition of electroencephalogram, electro-occulogram, sub-
+mental electromyogram, arterial oxyhaemoglobin saturation 
+by transcutaneous pulsed oxymetry, naso-oral airflow with 
+thermistors, nasal pressure with nasal cannula, chest and 
+abdominal movements by impedance plethysmography 
+(RespitraceTM; Ambulatory Monitoring Inc., Ardsley, NY, 
+USA), ECG and breathing sounds. Sleep position was 
+continuously assessed by the attending technician using an 
+infrared camera. All variables were digitally recorded 
+(Sandman EliteTM System; Mallinckrodt, Kenilworth, NJ, 
+USA). Sleep and respiratory variables were manually scored 
+according to standard criteria [23]. 
+
+During the CPAP titration sleep study, airflow was recorded 
+via a pneumotachograph connected to a tightly fitting nasal 
+CPAP mask. The titration procedure was manually completed 
+by the attending technician, who adjusted the pressure level in 
+order to abolish apnoeic and hypopnoeic obstructive events, 
+snoring and inspiratory flow-limited events (effective pressure 
+level). 
+
+CPAP apparatus 
+
+The units used at home (Fisher-Paykel, Auckland, New 
+Zealand) were set at the effective pressure level. All the 
+CPAP devices included a heated humidifier (ambient tracking), 
+a ramp function and a micro-processor allowing for time 
+of usage measurement. A nasal or a facial mask could be used. 
+
+Quality-of-life questionnaires 
+
+Validated QOLAs and QOLAp questionnaires were used [24, 
+25]. Scores were reported on a scale of 1–7, with higher scores 
+equating to better quality of life. The QOLAs questionnaire 
+was divided into four sections: emotional function, environmental 
+stimuli, symptoms and activity limitation. 
+
+Data analysis 
+
+All values were expressed as mean¡SD.PC20 values were log-
+transformed and the mean of the three serial methacholine 
+challenges before and after CPAP was calculated on this 
+transformation to get one representative value before and after 
+CPAP. Statistical results from PC20 before and after treatment 
+were expressed with the log-transformed values as the 
+geometric means (average of three individual geometric means 
+before and after CPAP) and 95% confidence interval (CI). 
+Different correlations were examined by a Spearman rank-
+order test. Significance was accepted at the level of 95%. 
+
+RESULTS 
+
+In total, 33 patients were invited to participate in the study. Six 
+were excluded due to the high variability of their PC20 results 
+during the screening visits. Seven were withdrawn during the 
+study due to CPAP use ,4h?night-1 (n53), an upper 
+respiratory tract infection (n52), resumed smoking (n51) or 
+elective orthopaedic surgery (n51). A total of 20 patients 
+completed the study. The baseline characteristics of these 
+
+VOLUME 29 NUMBER 2 EUROPEAN RESPIRATORY JOURNAL 
+
+
+C. LAFOND ET AL. CPAP IN ASTHMATIC PATIENTS WITH OSA 
+TABLE 1 Characteristics of the subjects at baseline 
+Characteristics Completed the study Did not complete the study 
+Subjects n 20 13 
+Age yrs 49¡9 52¡11 
+Male/female 11/9 9/4 
+BMI kg?m -2 37¡9 41¡7 
+Smoker status 
+Current smoker 1 3 
+Ex-smoker 11 6 
+Pack-yrs# 22¡19 36¡26 
+GERD " 
+6 2 
+Atopy 15 10 
+AHI 48¡24 45¡31 
+FEV1 % pred 82¡14 81¡20 
+Maintenance therapy for asthma None+ 
+None+ 
+ICS1 
+ICSe 
+ICS+LABA## ICS+LABAe 
+LTRA+LABAe ICS+theophyllinee 
+ICS+LABA+theophylline+prednisonee ICS+LABA+prednisonee 
+Equivalent of fluticasone mg?day-1 among ICS users 600¡376 500¡0 
+
+Data are presented as n and mean¡SD, unless otherwise stated. BMI: body mass index; GERD: gastro-oesophageal reflux disease; AHI: apnoea/hypopnoea index; 
+FEV1: forced expiratory volume in one second; % pred: % predicted; ICS: inhaled corticosteroids; LABA: long-acting b2-agonists; LTRA: leukotriene receptor antagonists. 
+Among the 13 patients who did not complete the study, six were initially excluded because their PC20 had more than two dilution variations following the three serial 
+methacholine inhalation challenges. #: among current and ex-smokers; " 
+: symptoms and/or medication; +:n59; 1:n53; e:n51; ##:n56. 
+
+patients are summarised in table 1. No differences were 
+observed in the baseline characteristics between patients who 
+completed the study and those who did not. 
+
+Following 6 weeks of nocturnal CPAP used on an average of 
+6.7¡0.9 h at a mean pressure of 9.3¡2.8 cmH2O, the AHI 
+significantly dropped from 48.1¡23.6?h-1 at the baseline to 
+2.6¡2.5?h-1 on control PSG (p,0.001). All patients except one 
+
+TABLE 2 Functional and clinical characteristics of the 
+subjects at baseline (pre-) and after 6 weeks of 
+treatment (post-) with continuous positive airway 
+pressure (CPAP) 
+Pre-CPAP Post-CPAP 
+FEV1 % pred 82.2¡13.6 80.4¡13.6 
+FEV1/FVC % 77.3¡8.3 76.3¡10.1 
+PC20 mg?mL-1 2.2 (1.3–3.5) 2.5 (1.4–4.5) 
+AHI 48.1¡23.6 2.6¡2.5*** 
+QOLAs 5.0¡1.2 5.8¡0.9*** 
+QOLAp 4.1¡1.4 6.0¡1.0 *** 
+Data are presented as mean¡SD or geometric means (95% confidence 
+interval), i.e. average of three individual geometric means before and after 
+CPAP. FEV1: forced expiratory volume in one second; % pred: % predicted; 
+FVC: forced vital capacity; PC20: provocative methacholine concentration 
+causing a 20% fall in FEV1; AHI: apnoea/hypopnoea index; QOLAs: quality of 
+life specific to asthma; QOLAp: quality of life specific to obstructive sleep 
+apnoea. *** :pf0.001. 
+used CPAP with a nasal interface. The clinical and functional 
+characteristics related to OSA and asthma before and 6 weeks 
+after the CPAP treatment are summarised in table 2. 
+
+No significant change in airway responsiveness before (PC20 
+(95% CI) 2.2 mg?mL-1 (1.3–3.5)) and after 6 weeks of CPAP 
+(PC20 2.5 mg?mL-1 (1.4–4.5); p50.3; fig. 1a) was found. In three 
+patients, a reduction of airway responsiveness was noticed 
+after 6 weeks of CPAP, as reflected by a two-fold increase in 
+PC20. Compared with the other patients, no differences were 
+found in their age, effective CPAP pressure, CPAP compliance, 
+BMI, AHI, gastric reflux, atopy or quality-of-life scores. 
+However, their baseline PC20 was higher (7.3 mg?mL-1) than 
+the subjects who did not have any change in airway 
+responsiveness (1.7 mg?mL-1;p50.02). There were no significant 
+changes in the mean FEV1 before (82.2¡13.6% predicted) 
+and after 6 weeks of CPAP (80.4¡13.6% pred). The QOLAp 
+statistically and clinically improved from 4.1¡1.4 at baseline to 
+6.0¡1.0 at the end of the study (p,0.001). The QOLAs also 
+improved statistically and clinically from 5.0¡1.2 at baseline to 
+5.8¡0.9 at the end of the study (p50.001; fig. 1b). Clinical 
+improvement for each QOL questionnaire is established by a 
+score increase o0.5. The QOLAs at baseline were inversely 
+correlated with the patient’s BMI (rho5-0.5, p50.02). 
+Following the CPAP treatment, an improvement in QOLAs 
+was positively correlated with the BMI (rho50.5, p50.03) and 
+the AHI at baseline (rho50.5, p50.03). 
+
+There was no correlation between the BMI and the baseline 
+AHI, or between BMI and baseline PC20. Furthermore, 
+following the CPAP therapy, no relationship was observed 
+between the changes in QOLAs and QOLAp as well as 
+
+EUROPEAN RESPIRATORY JOURNAL VOLUME 29 NUMBER 2 
+
+309 
+
+
+CPAP IN ASTHMATIC PATIENTS WITH OSA 
+
+
+FIGURE 1. a) Changes in provocative concentration causing a 20% fall in 
+forced expiratory volume in one second (PC20) after 6 weeks of treatment with 
+continuous positive airway pressure (CPAP). PC20 is calculated as the geometric 
+mean of the three serial methacholine challenges performed. #: patients with more 
+than a two-fold increase in methacholine dilutions. b) Changes in asthma quality of 
+life after 6 weeks of treatment with CPAP. Horizontal bars represent the mean. #: 
+p50.3; " 
+:p50.001. 
+
+between the changes in QOLAs and PC20. Following CPAP 
+use, the BMI was correlated with the improvement of the 
+emotional (rho50.5, p50.02) and the environmental (rho50.5, 
+p50.01) domains of QOLAs. The AHI at baseline was 
+correlated with the improvement of the symptomatic 
+(rho50.6, p50.01), the emotional (rho50.6, p50.01) and the 
+environmental (rho50.5, p50.05) domains of QOLAs. 
+
+DISCUSSION 
+
+It was found that nocturnal CPAP treatment used with a 
+heated humidifier in patients with stable asthma and newly 
+diagnosed OSA did not modify the respiratory functional 
+parameters, such as PC20 or FEV1. Nevertheless, the CPAP 
+treatment improved the QOLAs. This improvement was 
+greater in obese patients and in patients with a high AHI at 
+baseline. 
+
+The present authors decided to enrol only stable asthmatic 
+subjects in order to avoid potential variations in airway 
+responsiveness related to poorly controlled asthma. Indeed, it 
+must be remembered that the primary aim of the present study 
+
+C. LAFOND ET AL. 
+was to assess the effect of CPAP on airway responsiveness and 
+not the control of asthma. 
+
+A total of 20 subjects may appear to be quite a small sample 
+size, but the present authors feel that it was enough to allow 
+detection of a clinically significant change in PC20 with greater 
+than two-fold dilutions after CPAP use to a 99% power, with 
+an a-error of 5%. Therefore, it is believed that should a major 
+effect of CPAP on airway responsiveness occur, the present 
+study would have been able to detect it. 
+
+The number of patients excluded due to insufficient use of 
+nocturnal CPAP (three out of 23) is less than the CPAP dropout 
+rate reported among OSA patients, since the acceptance 
+rate of CPAP treatment among OSA patients, at large, is 
+considered to be ,70–80% [26]. It is important to notice that 
+patients had a heated humidifier integrated into their CPAP 
+unit, thus preventing the effects of nasopharyngeal congestion 
+in all but one subject. 
+
+An important variability in PC20 (more than two methacholine 
+dilutions) was found in six patients at baseline in spite of a 
+clinically adequate control of asthma. These patients were 
+excluded from the study. This exclusion criterion may explain 
+the discrepancy between the present results and those from 
+other studies, which found an improvement in PC20 after 
+CPAP treatment [17, 18]. In those studies, PC20 was measured 
+on one occasion before and one after CPAP treatment. 
+Therefore, a spontaneous PC20 variability may have occurred, 
+which could be unrelated to CPAP treatment. 
+
+The lack of a control group comprising stable asthmatic 
+patients without OSA prevents the present authors from 
+concluding with certainty that the improvement of QOLAs 
+following CPAP utilisation is specifically related to CPAP 
+treatment. Indeed, this improvement may be due to other 
+factors, such as a placebo effect of CPAP or improvement of 
+adherence to asthma treatment during the study. The lack of 
+correlation between the changes in QOLAs and QOLAp 
+suggests that the improvement in QOLAs cannot be explained 
+by an overall feeling of well-being consecutive to sleep 
+normalisation following OSA treatment with CPAP. The 
+interdependence of the questionnaires should not be completely 
+excluded and should be addressed by experts in a future 
+study. In a future larger study, additional analysis could 
+possibly and more accurately determine whether BMI and AHI 
+are independent contributors to QOLAs and its improvement 
+with CPAP treatment. 
+
+Further randomised controlled studies including moderate-tosevere 
+asthmatic patients with and without obstructive sleep 
+apnoea need to be conducted in order to assess the impact of 
+continuous positive airway pressure on asthma quality of life 
+and its control. 
+
+REFERENCES 
+
+1 Janson C, Anto J, Burney P, et al. The European 
+
+Community Respiratory Health Survey: what are the main 
+
+results so far? European Community Respiratory Health 
+
+Survey II. Eur Respir J 2001; 18: 598–611. 
+
+2 Health Canada. Respiratory Disease in Canada. Ottawa, 
+
+Canada Lung Association, 2001. 
+
+VOLUME 29 NUMBER 2 EUROPEAN RESPIRATORY JOURNAL 
+
+
+C. LAFOND ET AL. 
+3 
+Young T, Palta M, Dempsey J, Skatrud J, Weber S, Badr S. 
+The occurrence of sleep-disordered breathing among 
+middle-aged adults. N Eng J Med 1993; 328: 1230–1235. 
+
+4 
+Larsson LG, Lindberg A, Franklin KA, Lundba¨ck B. 
+Symptoms related to obstructive sleep apnoea are common 
+in subjects with asthma, chronic bronchitis and rhinitis in a 
+general population. Respir Med 2001; 95: 423–429. 
+
+5 
+Ekici A, Ekici M, Kurtipek E, et al. Association of asthma-
+related symptons with snoring and apnea and effect on 
+health-related quality of life. Chest 2005; 128: 3358–3363. 
+
+6 
+Jubber AS. Respiratory complications of obesity. Int J Clin 
+Pract 2004; 58: 573–580. 
+
+7 
+Young T, Finn L, Kim H. Nasal obstruction as a risk factor 
+for sleep-disordered breathing. The University of Wisconsin 
+Sleep and Respiratory Research Group. J Allergy Clin 
+Immunol 1997; 99: 757S–762S. 
+
+8 
+Demeter P, Pap A. The relationship between gastroesophageal 
+reflux disease and obstructive sleep apnea. J 
+Gastroenterol 2004; 39: 815–820. 
+
+9 Togias A. Rhinitis and asthma: evidence for respiratory system 
+integration. J Allergy Clin Immunol 2003; 111: 1171–1183. 
+10 Cibella F, Cuttitta G. Nocturnal asthma and gastroesophageal 
+reflux. Am J Med 2001; 111: 31S–36S. 
+11 Thomas PS, Geddes DM, Barnes PJ. Pseudo-steroid 
+resistant asthma. Thorax 1999; 54: 352–356. 
+
+12 
+Yigla M, Tov N, Solomonov A, Rubin AH, Harlev D. 
+Difficult-to-control asthma and obstructive sleep apnea. J 
+Asthma 2003; 40: 865–871. 
+
+13 
+Hoffstein V, Viner S, Mateika S, Conway J. Treatment of 
+obstructive sleep apnea with nasal continuous positive 
+airway pressure. Patient compliance, perception of benefits, 
+and side effects. Am Rev Respir Dis 1992; 145: 841–845. 
+
+14 
+Guilleminault C, Quera-Salva MA, Powell N, et al. 
+Nocturnal asthma: snoring, small pharynx and nasal 
+CPAP. Eur Respir J 1988; 1: 902–907. 
+
+15 
+Chan CS, Woolcock AJ, Sullivan CE. Nocturnal asthma: 
+role of snoring and obstructive sleep apnea. Am Rev Respir 
+Dis 1988; 137: 1502–1504. 
+
+CPAP IN ASTHMATIC PATIENTS WITH OSA 
+
+16 
+Ciftci TU, Ciftci B, Guven SF, Kokturk O, Turktas H. 
+Effect of nasal continuous positive airway pressure 
+in uncontrolled nocturnal asthmatic patients with 
+obstructive sleep apnea syndrome. Respir Med 2005; 99: 
+529–534. 
+
+17 
+Lin CC, Lin CY. Obstructive sleep apnea syndrome and 
+bronchial hyperreactivity. Lung 1995; 173: 117–126. 
+
+18 
+Lin HC, Wang CH, Yang CT, et al. Effect of nasal 
+continuous positive airway pressure on methacholineinduced 
+bronchosconstriction. Respir Med 1995; 89: 
+121–128. 
+
+19 
+Wenzel G, Schonhofer B, Wenzel M, Kohler D. Bronchial 
+hyperractivity and nCPAP therapy. Pneumologie 1997; 51: 
+Suppl. 3, 770S–772S. 
+
+20 
+American Thoracic Society. Standards for the diagnosis of 
+patients with chronic obstructive pulmonary disease 
+(COPD) and asthma. Am Rev Respir Dis 1987; 136: 225–244. 
+
+21 
+American Thoracic Society. Standardization of spirometry, 
+1994 Update. Am J Respir Crit Care Med 1995; 152: 1107– 
+1136. 
+
+22 
+Juniper EF, Cockcroft DW, Hargreave FE. Histamine and 
+methacholine inhalation tests. 2nd Edn. Lund, Canadian 
+Thoracic Society and Astra Draco AB, 1994. 
+
+23 
+An American Academy of Sleep Medicine Task Force. 
+Sleep-related breathing disorders in adults: recommendations 
+for syndrome definition and measurement techniques 
+in clinical research. Sleep 1999; 22: 667–689. 
+
+24 
+Juniper EF, Guyatt GH, Epstein RS, Ferrie PJ, Jaeschke R, 
+Hiller TK. Evaluation of impairment of health related 
+quality of life in asthma: development of a questionnaire 
+for use in clinical trials. Thorax 1992; 47: 76–83. 
+
+25 
+Lacasse Y, Bureau MP, Se´rie`s F. A new standardized and 
+self-administered quality of life questionnaire specific to 
+obstructive sleep apnoea. Thorax 2004; 59: 494–499. 
+
+26 
+Collard P, Pieters T, Aubert G, Delguste P, Rodenstein DO. 
+Compliance with nasal CPAP in obstructive sleep apnea 
+patients. Sleep Med Rev 1997; 1: 33–44. 
+
+EUROPEAN RESPIRATORY JOURNAL 
+VOLUME 29 NUMBER 2 
+
+

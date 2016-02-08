@@ -1,0 +1,1006 @@
+ORIGINAL ARTICLE ORIGINAL ARTICLE 
+Impact of Adenotonsillectomy on Quality of Life 
+in Children With Obstructive Sleep Disorders 
+
+Lianne M. de Serres, MD; Craig Derkay, MD; Kathleen Sie, MD; Michael Biavati, MD; 
+Jacqueline Jones, MD; David Tunkel, MD; Scott Manning, MD; Andrew F. Inglis, MD; 
+Joseph Haddad, Jr, MD; Dimitra Tampakopoulou, MD; Alan D. Weinberg, MS 
+
+Objectives: To determine the impact of adenotonsillectomy 
+on quality of life (QOL) in children with 
+obstructive sleep disorders (OSDs) before and after 
+surgery. 
+
+Design: Prospective, observational, before-and-after trial. 
+
+Setting: Seven tertiary pediatric otolaryngology practices. 
+
+
+Patients: Convenience sample of 101 children (mean 
+age, 6.2 years) with adenotonsillar hypertrophy and OSD 
+scheduled for adenotonsillectomy. 
+
+Intervention: Adenotonsillectomy was performed in 
+children for OSDs. Quality of life was assessed using the 
+Obstructive Sleep Disorders–6 survey, a validated instrument 
+for detecting QOL change in children with OSDs. 
+Surveys were completed at the initial office visit (visit 1), 
+the day of surgery (visit 2), and at the postoperative office 
+visit (visit 3). Physical characteristics were assessed 
+using tonsillar and orocraniofacial scales (visit 1). Satisfaction 
+with health care decisions was assessed using 
+
+the Satisfaction With Decision and Satisfaction With Office 
+Visit scales (visit 1). 
+
+Main Outcome Measures: Short-term changes in QOL 
+before (visits 1 and 2) and after (visits 2 and 3) surgery. 
+
+Results: Changes in QOL before surgery were trivial or 
+small, and smaller than changes after surgery (mean 
+change score, 0.18 vs 2.3; P.001). Large, moderate, and 
+small improvements in QOL were seen in 74.5%, 6.1%, 
+and 7.1% of children, respectively. Sleep disturbance, caregiver 
+concern, and physical suffering were the most improved 
+domains, although significant changes also occurred 
+for speech and swallowing problems, emotional 
+disturbance, and activity limitations. Five percent of children 
+had poorer QOL after surgery, but no predictive factors 
+were identified. 
+
+Conclusion: Adenotonsillectomy produces large improvements 
+in at least short-term QOL in most children 
+with OSDs. 
+
+Arch Otolaryngol Head Neck Surg. 2002;128:489-496 
+
+Author affiliations are listed 
+at the end of this article. 
+
+T
+T
+HE TERM obstructive sleep disorders 
+(OSDs) refers to the 
+spectrum of sleep-disordered 
+breathing that is severe 
+enough to cause clinical 
+symptoms. This includes children 
+with upper airway resistance syndrome 
+(UARS), in which the respiratory distress 
+index is often normal on standard polysomnographic 
+testing, and children with 
+obstructive sleep apnea. The prevalence 
+of sleep-disordered breathing in children 
+is not exactly known but may approach 
+11%.1 The impact of OSDs on child functioning 
+has been extensively documented. 
+Children with OSDs may manifest an increase 
+in total sleep time, nonspecific behavioral 
+difficulties, hyperactivity, irritability, 
+bed-wetting, and morning headaches. 
+A more severe manifestation is failure to 
+thrive, and, in general, untreated children 
+
+are at risk for cardiovascular complications. 
+Daytime sleepiness and obese body 
+habitus, common features in adult sleep 
+apnea, are frequently absent. The most common 
+cause of OSDs in children is adenotonsillar 
+hypertrophy, and adenotonsillectomy 
+is a curative procedure in most cases.2-5 
+
+Anecdotal evidence for the success of 
+this procedure in improving patient symptoms, 
+health, and well-being is abundant; 
+however, there have been no studies to date, 
+to our knowledge, that document improvement 
+in health-related quality of life (QOL) 
+after adenotonsillectomy. In the context 
+of OSDs, QOL describes the net consequences 
+of sleep-disordered breathing on the 
+child’s daily activities, physical symptoms, 
+social interactions, and emotional wellbeing. 
+The effect of adenotonsillectomy on 
+these areas of functioning is important information 
+for parents considering the pro
+
+
+(REPRINTED) ARCH OTOLARYNGOL HEAD NECK SURG/VOL 128, MAY 2002 WWW.ARCHOTO.COM 
+
+489 
+
+Downloaded from www.archoto.com on March 4, 2009 
+
+©2002 American Medical Association. All rights reserved. 
+
+
+PARTICIPANTS AND METHODS 
+
+This study was conducted at 7 tertiary care pediatric otolaryngology 
+practices across the United States. The study 
+protocol received approval from the institutional review 
+board at each site. Informed consent for enrollment in the 
+study was obtained from each caregiver. 
+
+The study protocol was modeled after a recent study7 
+that examined QOL improvement after tympanostomy tube 
+placement. Eligible participants comprised a convenience 
+sample of caregivers of patients aged 2 to 12 years undergoing 
+adenotonsillectomy for OSDs. Participants were required 
+to be English speaking to avoid semantic issues in interpretation 
+of the domains and symptom clusters.8 Caregivers 
+were excluded if their child had other adenotonsillar pathologic 
+findings or if another procedure was to be performed 
+on the same day. Demographic data (age and sex) and tonsillar 
+size were recorded for all patients, including those whose 
+caregivers refused enrollment or dropped out of the study. 
+Children were diagnosed as having OSDs by the attending 
+pediatric otolaryngologist based on findings from a combination 
+of any of the following modalities, as determined by 
+the standard clinical practice of the attending physician: history, 
+physical examination, lateral neck radiograph, nasopharyngoscopy, 
+sleep audiotape, and polysomnographic study. 
+
+Data were collected at 3 times during the perioperative 
+care of the child: at the initial visit (visit 1), at the day 
+of surgery (visit 2), and at the postoperative visit (visit 3). 
+
+Before surgery, the physician completed a physical assessment 
+form that documented the method of diagnosis 
+
+(history, physical examination, nasopharyngoscopy, lateral 
+radiograph, sleep audiotape, or sleep study), OSD symptoms 
+(snoring, gasping, restless sleep, apneas, night 
+terrors, daytime somnolence, daytime hyperactivity, enuresis, 
+nocturnal sweating, and morning headaches), and 
+physical examination findings, including degree of tonsillar 
+obstruction (absent, 0%-25%, 26%-50%, 51%-75%, 
+and 76%-100%), and a clinical orocraniofacial (OCF) scale.9 
+High scores on the OCF scale correlate with a diagnosis of 
+sleep-disordered breathing (UARS and obstructive sleep 
+apnea).9 The OCF characteristics included chin size (0-3, 
+wide to small and triangular), steepness of mandibular plane 
+(0-3, horizontal to steep), position of maxilla vs mandible 
+(0-4, prognathic to significant retrognathia), height of hard 
+palate (0-2, low placed to high placed), shape of face (0-3, 
+square to long), length of soft palate (0-2, short to long), 
+and intermolar width (0-2, wide to narrow). 
+
+Changes in QOL were determined by administration 
+of the 6-item, health-related instrument for OSD, the Obstructive 
+Sleep Disorders–6 survey (OSD-6), a validated survey 
+for assessing health-related QOL in OSDs7 (Figure 1). 
+The OSD-6 is composed of 6 domains that reflect functioning 
+of the child regarding (1) physical suffering, (2) 
+sleep disturbance, (3) speech and swallowing difficulties, 
+
+(4) emotional distress, (5) activity limitations, and (6) level 
+of concern of the caregiver relating to the patient’s sleep 
+disorder and associated symptoms. Each domain is represented 
+by a question designed to reflect the global impact 
+of an OSD-related symptom cluster on an individual child 
+(Figure 1). Caregivers rated the domains on a scale from 0 
+(“no problem”)to6(“could not be worse”) based on how 
+cedure for their child and is evidence of the procedure’s 
+effectiveness that can be presented to third-party payers in 
+support of decisions for surgery. 
+
+A 6-item, disease-specific QOL instrument was recently 
+validated as a measure for assessing change in patients 
+with OSDs who undergo adenotonsillectomy.6 Data 
+from the validation study suggested large improvements 
+in QOL for most children undergoing the procedure. 
+This study was designed to document the improvements 
+in QOL using the validated instrument in a larger 
+number of children from geographically diverse regions 
+of the United States. 
+
+RESULTS 
+A total of 115 caregivers meeting the eligibility criteria 
+were enrolled in the study; 14 were lost to follow-up and 
+were thus excluded. Sampling bias was assessed to ensure 
+that the enrolled population was representative of 
+those eligible. Mean preoperative domain and survey 
+scores, as well as physical examination variables, were 
+compared between patients who completed the postoperative 
+survey and those who did not. There were no differences 
+in demographics, physical examination variables, 
+or mean survey scores from visits 1 and 2. 
+Demographic data, physical examination findings, and 
+mean survey and domain scores were also compared by 
+site and were not significantly different. Patient age was 
+
+6.2 (2.5) years. Forty-six percent of patients were girls 
+and 54% were boys. Forty-two patients (41.6%) were from 
+the northeastern United States, 27 (26.7%) were from the 
+south, 19 (18.8%) were from the west, and 13 (12.9%) 
+were from the central part of the country. 
+
+Sleep symptoms were documented by the examining 
+attending physician (Table 1). All patients from whom 
+data were obtained were snorers, and 91.8% had restless 
+sleep. Only a small percentage of children had enuresis 
+(13.4%), nocturnal sweating (7.2%), or morning headaches 
+(3.1%). Physical characteristics, including tonsil size 
+(Table 2) and OCF characteristics (Table 3), were also 
+rated by the physician. Tonsil size was 3.4 (0.65). Orocraniofacial 
+scores were tabulated and then divided into low, 
+medium, and high scores by 33rd percentiles. The scores 
+were 7.7 (1.3) in the lowest-scoring group (n=37), 10.5 
+
+(0.51) in the mid-scoring group (n=27), and 13.6 (1.5) in 
+the high-scoring group (n=35). 
+In 55 (54.5%) of 101 patients, diagnosis was based 
+on history and physical examination alone; an additional 
+diagnostic test was used in the remainder. Nasopharyngoscopy 
+was performed in 10 patients (9.9%), and 
+lateral neck films were taken in 6 (5.9%). Sleep audiotapes 
+were obtained in 25 patients (24.8%); data from 
+these audiotapes were not objectively rated. Sleep studies 
+were obtained in 8 patients (7.9%). Of these 8 patients, 
+the severity of obstructive sleep apnea was graded 
+as mild in 50% and moderate in 50%. A respiratory distress 
+index was available for 6 of these patients (mean, 
+
+6.7 [3.1]). 
+(REPRINTED) ARCH OTOLARYNGOL HEAD NECK SURG/VOL 128, MAY 2002 WWW.ARCHOTO.COM 
+
+490 
+
+Downloaded from www.archoto.com on March 4, 2009 
+
+©2002 American Medical Association. All rights reserved. 
+
+
+they felt the symptoms affected their child. The OSD-6 was A secondary outcome measure, the standardized regiven 
+to the patient’s caregiver at the 3 visits. The timing sponse mean (SRM), was also calculated. This statistic al-
+of visits was determined by the treating physicians, but it lows comparisons to be made between QOL instruments 
+was requested that the final OSD-6 be administered 4 to 5 and was calculated by dividing the mean OSD-6 change score 
+weeks after surgery so that the potential for sampling any by its SD.11 An SRM of 0.2 reflects a small responsiveness 
+symptoms of recovery would be bypassed. to clinical change; 0.5, moderate responsiveness; and 0.8 
+
+To distinguish QOL changes resulting from surgery or more, large responsiveness. The SRM was calculated for 
+from potentially confounding factors, parents completed a the mean survey score and the individual domains of the 
+satisfaction survey at visit 1. This enabled determination survey before and after surgery. 
+of whether changes in survey scores were independent of 
+parental satisfaction with the office visit and physi-STATISTICAL METHODS 
+cian interaction and the decision to have surgery. Validated 
+surveys were abbreviated as described previously.7 A matched-pairs design allowed each child to act as his or 
+In addition, patients also served as their own control as her own control. Preoperative and postoperative change 
+QOL changes were compared in individual patients be-scores are expressed as means with 95% CIs for each do-
+fore (between visits 1 and 2) and after (between visits 2 main and for the survey as a whole. Preoperative and post-
+and 3) surgery, which also served to eliminate con-operative SRMs are also expressed with 95% CIs. The paired 
+founding. t test was used to compare the differences between preop-
+
+The mean survey score was calculated by summing the erative and postoperative change scores and SRMs. Stan-
+individual domain scores and then dividing by 6 the total dard contingency 2 analysis was used for categorical data. 
+number of domains. A lower survey score indicates a bet-Multiple regression techniques were used to discern if any 
+ter QOL. The change score was calculated by subtracting factors correlated with improvement in QOL. This tech-
+the postintervention OSD-6 score from the preinterven-nique was also used to explore which factors, if any, may 
+tion OSD-6 score. The change score was then used to de-have been associated with a poor QOL at baseline. All data 
+fine the level of change in QOL as trivial, small, moderate, were analyzed using SAS statistical software (SAS Institute 
+or large and was summarized using the mean value and the Inc, Cary, NC). The cutoff level for statistical significance is 
+95% confidence intervals (CIs). The magnitude of clinical P.05. A sample size calculation showed that 32 particichange 
+for the mean OSD-6 score was classified as trivial pants would be required to detect a difference in change scores 
+(0.5), small (0.5-0.9), moderate (1.0-1.4), or large (1.5) of 0.5 between the surgical and nonsurgical measurements, 
+according to standard definitions for a survey on a 7-point assuming matched samples with an =.05 and 80% statisscale.
+10 tical power. Data are reported as mean (SD). 
+
+All caregivers easily self-administered the questionnaire 
+in several minutes after a brief explanation of its 
+contents. The distribution of baseline domain scores is 
+shown in Figure 2. Physical suffering, sleep disturbance, 
+and speech and swallowing difficulties were classified 
+as moderate or greater problems (score of 3) for 
+82.1%, 95.0%, and 62.4% of patients, respectively; 52.5% 
+of caregivers rated their level of concern over their child’s 
+sleep disturbance in the 2 most severe categories (“very 
+much” and “could not be worse”), and 77% rated their 
+level of concern as a moderate or worse problem. Median 
+baseline survey responses for the 101 caregivers are 
+given in Table 4. Sleep disturbance (score, 4.6 [1.1]), 
+physical suffering (score, 3.9 [1.3]), and caregiver concern 
+(score, 3.8 [1.9]) were the highest-rated items, 
+whereas activity limitations (score, 1.5 [1.6]) were rated 
+as the least affected. 
+
+At the initial visit, parents also completed the Satisfaction 
+With Decision Scale and the Satisfaction With 
+Office Visit Scale, validated measures of outpatient satisfaction. 
+Overall, parents were satisfied with their decision 
+to pursue surgery for their child’s OSDs (Table 5) 
+and were very satisfied with their office visit experience 
+(Table 6). 
+
+Changes in QOL were determined by measuring the 
+differences in scores between consecutive visits. Preoperative 
+change in QOL was determined by the change in scores 
+between visits 1 and 2, and postoperative change in QOL 
+was determined by the change in score between visits 2 and 
+
+3. Patients were determined to have a valid change score if 
+the time between surgery (visit 2) and the postoperative 
+visit (visit 3) was 21 days or longer. This prevented sampling 
+of symptoms in the recovery period, which could distort 
+QOL ratings. Ninety-eight (97.0%) of 101 patients were 
+determined to have valid change scores. Time between visits 
+1 and 2 was 31.0 (25.9) days (range, 4-162 days) and 
+between visits 2 and 3 was 35.7 (14.8) days (range, 21-98 
+days) for these patients. 
+The change score before surgery (visit 1 to visit 2) was 
+
+0.18 (95% CI, 0-37), indicating trivial change overall. This 
+change was not significantly different than zero (t97=1.91; 
+P=.06). Before surgery, 42 (42.9%) of 98 patients had trivial 
+or small changes in QOL, whereas 16 (16.3%) had moderate 
+or large changes in QOL. Forty patients (40.8%) had 
+worsening of their QOL before surgery. The change score 
+after surgery (visit 2 to visit 3) was 2.3 (95% CI, 2.1-2.6), 
+which indicates a large improvement in QOL (t97=15.7; 
+P.001). After surgery, 73 patients (74.5%) demonstrated 
+a large degree of improvement in QOL (change score 
+1.5), 6 (6.1%) had a moderate improvement, 7 (7.1%) 
+had a small improvement, and 7 (7.1%) had a trivial improvement. 
+In addition, 5 patients (5.1%) had a worsening 
+of their QOL after surgery: 1 (1.0%) to a large extent, 
+2 (2.0%) to a moderate extent, and 2 (2.0%) to a small 
+extent. The differences in degree of clinical change before 
+and after surgery were significant (24=87.2; P.001). 
+Change scores were converted into a measure of 
+effect size, the SRM, to facilitate interpretation of results 
+
+(REPRINTED) ARCH OTOLARYNGOL HEAD NECK SURG/VOL 128, MAY 2002 WWW.ARCHOTO.COM 
+
+491 
+
+Downloaded from www.archoto.com on March 4, 2009 
+
+©2002 American Medical Association. All rights reserved. 
+
+
+Impact of Obstructive Sleep Disorders on Child Quality of Life Problem Scale (Circle the Best Answer): 
+
+Please help us understand the impact of enlarged tonsils and adenoids on your child’s sleep-related None 
+
+quality of life. Please CIRCLE ANY SYMPTOM(S) that affect your child AS WELL AS THE NUMBER 
+
+THAT DESCRIBES THE SEVERITY OF THE PROBLEM for each question below. 
+
+Problem List 
+
+1. Physical Suffering 
+For example: Sore throat, dry throat, nasal congestion, completely blocked nose, bed-wetting, excessive 
+
+daytime tiredness, failure to gain weight, and bad breath. 
+
+Overall, how much has physical suffering been a problem for your child during the past 4 wk because of 
+enlarged tonsils and adenoids? 
+
+2. Sleep Disturbance 
+For example: Snoring, choking/gasping for air, stopping breathing for a few seconds, restless sleep, difficult 
+to awaken from sleep, and chest caving in with breathing. 
+
+Overall, how much has sleep disturbance been a problem for your child during the past 4 wk because of 
+enlarged tonsils and adenoids? 
+
+3. Speech or Swallowing Problems 
+For example: Difficulty swallowing certain foods, choking on foods, muffled speech, nasal sounding speech, 
+and poor pronunciation. 
+
+Overall, how much have speech or swallowing difficulties been a problem for your child during the past 
+4 wk because of enlarged tonsils and adenoids? 
+
+4. Emotional Distress 
+For example: Irritable, frustrated, sad, restless, poor appetite, cannot pay attention, and child made fun of 
+because of snoring. 
+
+Overall, how much of a problem has emotional distress been for your child during the past 4 wk because 
+of enlarged tonsils and adenoids? 
+
+5. Activity Limitations 
+For example: Playing, participating/excelling at sports, doing things with friends/family, and attending school 
+or day care. 
+
+Overall, how much have your child’s activities been limited during the past 4 wk because of enlarged 
+tonsils and adenoids? 
+
+6. Caregiver Concerns 
+Have you, as a caregiver, been worried, concerned, or inconvenienced because of your child’s snoring 
+and difficulty breathing at night during the past 4 wk? 
+Figure 1. The Obstructive Sleep Disorders–6 survey. 
+Table 1. Clinical Sleep Symptoms Reported to the Physician 
+
+
+Hardly at All 
+Somewhat 
+Moderate 
+Quite a Bit 
+Very Much 
+Could Not Be Worse 
+0 1 2 3 4 5 6 
+0 1 2 3 4 5 6 
+0 1 2 3 4 5 6 
+0 1 2 3 4 5 6 
+0 1 2 3 4 5 6 
+0 1 2 3 4 5 6 
+
+Patients, No. (%) 
+
+Sleep Symptom With Symptom Without Symptom Unknown Total 
+
+Snoring 98 (100) 0 0 98 
+Gasping or struggling for air 79 (80.6) 14 (14.3) 5 (5.1) 98 
+Restless sleep 90 (91.8) 5 (5.1) 3 (3.1) 98 
+Apneas 80 (81.6) 10 (10.2) 8 (8.1) 98 
+Frequent nightmares 12 (12.4) 72 (74.2) 13 (13.4) 97 
+Daytime somnolence 39 (40.2) 51 (52.6) 7 (7.2) 97 
+Hyperactivity 23 (24.0) 65 (67.7) 8 (8.3) 96 
+Enuresis 13 (13.4) 66 (8.0) 18 (18.6) 97 
+Nocturnal sweating 7 (7.2) 59 (60.8) 31 (32.0) 97 
+Morning headaches 3 (3.1) 73 (75.3) 21 (21.6) 97 
+
+whole (Table 7). After surgery, however, effect sizes 
+Table 2. Degree of Tonsillar Obstruction in 96 Children were large for the mean survey score and all domains 
+With Obstructive Sleep Disorders 
+
+except activity limitations, which had a moderate effect. 
+Excluding emotional distress and activity limitations, 
+
+Tonsillar Obstruction, % (Size) Patients, No. (%) 
+
+postoperative effect sizes greatly exceeded the 0.8 cutoff 
+
+0-25 (1+) 2 (2.1) value for large change.11 The largest improvements were 
+26-50 (2+) 2 (2.1) 
+
+seen in physical suffering, sleep disturbance, and care
+
+
+51-75 (3+) 44 (45.8) 
+
+giver concern. 
+
+76 (4+) 48 (50.0) 
+Multivariate analysis did not reveal any predictive 
+factors for improvement in QOL other than undergoing 
+adenotonsillectomy. Specifically, factors not related to out-
+and comparisons with other health status measures. come included age, sex, degree of tonsillar obstruction, 
+Effect sizes before surgery indicated that effects were OCF score, parental satisfaction with decision for surtrivial 
+or small for all domains and the survey as a gery, parental satisfaction with office visit, and sleep symp
+
+
+(REPRINTED) ARCH OTOLARYNGOL HEAD NECK SURG/VOL 128, MAY 2002 WWW.ARCHOTO.COM 
+
+492 
+
+Downloaded from www.archoto.com on March 4, 2009 
+
+©2002 American Medical Association. All rights reserved. 
+
+
+toms. Tonsil obstruction greater than 75% was the only 
+factor predictive of poorer QOL before surgery (P=.004). 
+
+We performed a variety of statistical tests to discern 
+whether longer follow-up was related to change in 
+QOL score because some prospective studies have indicated 
+that QOL scores may change after surgery. Although 
+follow-up ranged from 21 to 98 days, mean follow-
+up was 35.7 (14.8) days (median, 30 days). Note that 
+75% of patients were followed for 41 days or less; 90% 
+were followed for 55 days or less. There were only 3 extreme 
+outliers: 1 patient at 76 days and 1 each at 97 and 
+98 days. Linear regression analysis measuring any linear 
+relationship between length of follow-up and improved 
+QOL found no such relationship (r=0.13; P=.21). 
+In addition, using a standard t test, we divided the group 
+into 2 groups: (1) 30 days or less of follow-up and (2) 
+more than 30 days of follow-up. The difference in survey 
+change score was statistically significant, with a change 
+of 1.97 (1.6) (n=50) vs 2.74 (1.24) (n=48) for the 2 
+groups, respectively (P.01). However, this 0.77 difference 
+represents a small difference in QOL change score 
+as defined by Juniper et al.10 We also calculated the rate 
+of change of QOL change scores by taking the change 
+scores and dividing by the length of follow-up. This cal
+
+
+culation yields a “QOL improvement score per patient-
+month.” We then compared the average rates for the 2 
+groups and found that the mean rate of improvement was 
+slightly higher in the group with 30 days or less of follow-
+up compared with the group with more than 30 days 
+of follow-up: 2.24 (1.8) vs 1.97 (0.99); however, this difference 
+was not statistically significant (P=.35). 
+
+COMMENT 
+As decisions concerning resource allocation become 
+increasingly stringent, it is important to understand the 
+personal impact of diseases and their treatments beyond 
+the standard medical morbidity or functional limitations 
+so that this can be incorporated into the decision-
+making process. Procedures or treatments that have an 
+impact on patient functioning above and beyond laboratory 
+value improvements should be recognized. This 
+study is the first, to our knowledge, to define QOL 
+changes in children who undergo adenotonsillectomy 
+for an OSD. We hope that this information will be helpful 
+for clinicians to provide to parents who are considering 
+the procedure for their child. Studies such as this 
+will provide evidence for the effectiveness of this proce-
+
+Table 3. Clinical Orocraniofacial (OCF) Scale Characteristics 
+
+Score, Patients, 
+OCF Characteristic Mean (SD) Total No. 
+
+Chin size 1.80 (0.80) 92 
+Steepness of mandibular plane 1.63 (0.72) 92 
+Position of the maxilla vs mandible 1.89 (0.75) 92 
+Height of the hard palate 1.30 (0.46) 90 
+Shape of face 1.73 (0.95) 92 
+Length of soft palate 1.12 (0.33) 92 
+Intermolar width 1.20 (0.41) 91 
+Total OCF Score 10.60 (2.79) 90 
+
+*See the “Participants and Methods” section of the text for ratings of OCF 
+characteristics. 
+
+dure to others involved in medical decision making. 
+
+Table 4. Initial Obstructive Sleep Disorders–6 Survey 
+Results for 101 Caregivers 
+
+Score, 
+Item Mean (SD) 
+
+Physical suffering 3.9 (1.3) 
+Sleep disturbance 4.4 (1.1) 
+Speech and swallowing problems 3.1 (1.8) 
+Emotional disturbance 2.6 (1.9) 
+Activity limitations 1.5 (1.6) 
+Caregiver concern 3.8 (1.9) 
+Total 3.6 (1.0) 
+
+50 
+40 
+30 
+20 
+10 
+0 
+Patients, No. 
+Physical Suffering Speech and Swallowing ProblemsSleep Disturbance 
+Patients, No. 
+
+50 
+40 
+30 
+20 
+10 
+0 
+
+Emotional Disturbance 
+0123456 
+Score 
+
+
+Activity Limitations 
+0123456 
+Score 
+
+
+Caregiver Concern 
+01 3 524 
+Score 
+
+
+Figure 2. Distribution of Obstructive Sleep Disorders–6 survey item responses. Higher scores indicate poorer quality of life (N=101). 
+
+(REPRINTED) ARCH OTOLARYNGOL HEAD NECK SURG/VOL 128, MAY 2002 WWW.ARCHOTO.COM 
+
+493 
+
+Downloaded from www.archoto.com on March 4, 2009 
+
+©2002 American Medical Association. All rights reserved. 
+
+
+Table 5. Parents’ Satisfaction With Decision to Pursue Adenotonsillectomy for Their Child* 
+
+Baseline Parent Response, No. (%) 
+
+Item Strongly Agree Agree Neutral Disagree Strongly Disagree 
+
+Told enough to make decision (n = 99) 63 (63.6) 
+Best decision for my child (n = 100) 65 (65.0) 
+Consistent with my own values (n = 99) 56 (56.6) 
+Expect to follow through with my decision (n = 100) 65 (65.0) 
+Content with my decision (n = 99) 63 (63.6) 
+
+Table 6. Parent Satisfaction With Office Visit 
+
+Baseline Parent Response, No. 
+(n = 100) 
+
+Very 
+Item Excellent Good Good Fair Poor 
+
+Visit overall 65 28 6 1 0 
+Technical skills of physician 75 21 3 1 0 
+Personal manner of physician 84 13 3 0 0 
+Explanation of what was done 69 27 4 0 0 
+
+Table 7. Effect Sizes for Change in Quality of Life 
+Before and After Adenotonsillectomy* 
+
+SRM (95% CI)† 
+(n = 98) 
+
+Item Before Surgery After Surgery 
+
+Physical suffering 0.23 (-0.60 to 0.52) 1.36 (0.98 to 1.74) 
+
+Sleep disturbance 0.19 (-0.03 to 0.41) 1.70 (1.29 to 2.11) 
+
+Speech and swallowing 0.19 (-0.14 to 0.52) 0.83 (0.40 to 1.26) 
+
+problems 
+
+Emotional disturbance 0.03 (-0.29 to 0.35) 0.82 (0.38 to 1.26) 
+
+Activity limitations 0.02 (-0.29 to 0.33) 0.57 (0.25 to 0.89) 
+
+Caregiver concern 0.84 (-0.26 to 0.42) 1.49 (1.08 to 1.90) 
+
+Survey as a whole 0.19 (0 to 0.38) 1.59 (1.39 to 1.79) 
+
+*SRM indicates standardized response mean; CI, confidence interval. 
+
+†An SRM of 0.2 reflects a small effect; 0.5, moderate effect; and 0.8 or 
+more, large effect. 
+General health status instruments enable comparisons 
+of health status impact between diseases. A recent 
+study using the Child Health Questionnaire, a general 
+instrument of child health-related QOL, reported that the 
+impact of adenotonsillar disease (recurrent infection and 
+adenotonsillar hypertrophy) on child QOL is similar to 
+that of juvenile rheumatoid arthritis.12 Disease-specific 
+instruments such as the OSD-6 and others12-14 focus on 
+areas of function that pertain to a particular disease or 
+condition and are used to describe the impact of disease 
+on individuals above and beyond the usual biomedical 
+variables used to assess severity of the particular disease 
+or condition. 
+
+The OSD-6 is a disease-specific instrument that has 
+been shown to be of use as an evaluative measure, showing 
+changes in QOL before and after an intervention (eg, 
+adenotonsillectomy). In the present study, almost 90% of 
+all children undergoing the procedure had improvements 
+in QOL after surgery. Seventy-five percent had large im
+
+
+32 (32.3) 3 (3.0) 1 (1) 0 
+30 (30.0) 5 (5.0) 0 0 
+40 (40.4) 3 (3.0) 0 0 
+33 (33.0) 2 (2.0) 0 0 
+27 (27.3) 9 (9.1) 0 0 
+
+
+provements, and an additional 6% had moderate improvements 
+in child QOL. Findings of this magnitude indicate 
+the benefit of adenotonsillectomy for most children with 
+OSDs. These findings support the objective improvements 
+that are seen in follow-up polysomnographic studies 
+and symptom questionnaires2-4,15 and quantify the subjective 
+improvements that occur after the procedure. 
+
+As is standard in most outcome studies, this study was 
+conducted using information obtained in routine clinical 
+practice. Sleep studies were not obtained routinely and in 
+fact were performed on only 8% of patients. This finding 
+concurs with usual clinical practice because most adenotonsillectomies 
+are performed without preoperative polysomnographic 
+testing unless there are special circumstances.
+16,17 Sleep studies that are available to most 
+practitioners are not considered diagnostic of the spectrum 
+of OSDs because of the lack of esophageal pressure 
+monitoring and the subsequent inability to diagnose 
+UARS.1,9,18,19 Inability to diagnose UARS would lead to the 
+misdiagnosis of children with significant sleep fragmentation.
+1 A recent validation study14 of an OSD survey showed 
+a statistically significant but only fair correlation with respiratory 
+distress indices obtained from nap studies. This 
+finding is likely because (1) a significant proportion of children 
+with problematic sleep-disordered breathing have normal 
+sleep study findings and (2) nap studies have been validated 
+for use in adults only,20 and their sensitivity in 
+detecting sleep-disordered breathing in children is so far 
+undemonstrated, to our knowledge. Clearly, accurate diagnosis 
+of the full spectrum of OSDs in children is still in 
+evolution. However, as stated previously by others21 in reference 
+to children with “normal” polysomnograms who underwent 
+adenotonsillectomy subsequently, “otolaryngologists 
+with good clinical sense decided to pursue the 
+appropriate course of action despite a normal test.” As the 
+diagnostic process evolves for determining who will benefit 
+from surgery in a readily available and reliable manner, 
+it is helpful to know that most children with compelling 
+history and physical examination findings of OSDs who 
+are selected for surgery will have large improvements in 
+their QOL. In fact, given that 75% of children had large improvements 
+and 88% had some degree of improvement in 
+QOL after adenotonsillectomy, the debate over the necessity 
+of routine polysomnographic testing may be moot. 
+
+Regarding the 5 children who worsened after surgery, 
+no predictive factors could be demonstrated, although 
+the small sample size of patients in this category 
+would limit the ability to find significant trends. Four of 
+5 patients who worsened were seen after surgery at 22 
+days, so it is possible that they were still experiencing 
+
+(REPRINTED) ARCH OTOLARYNGOL HEAD NECK SURG/VOL 128, MAY 2002 WWW.ARCHOTO.COM 
+
+494 
+
+Downloaded from www.archoto.com on March 4, 2009 
+
+©2002 American Medical Association. All rights reserved. 
+
+
+symptoms of recovery. We do not have longer-term data 
+to know whether these patients ultimately improved. The 
+fact that a small percentage of patients seems to worsen 
+after surgery without explanation merits discussion with 
+the parents, as does any other possible outcome discussed 
+in obtaining informed consent. 
+
+The times at which patients were seen for postoperative 
+follow-up were variable (range, 21-98 days) because 
+of factors beyond our control. However, mean follow-up 
+was 35.7 days and median follow-up was 30 days. Note that 
+75% of patients were followed for 41 days or less. Ninety 
+percent of patients were followed for 55 days or less. Linear 
+regression analysis found no relationship between length 
+of follow-up and improved QOL. We divided the group into 
+2 subgroups based on length of follow-up: (1) 30 days or 
+less of follow-up and (2) more than 30 days of follow-up. 
+The difference in survey change score was statistically significant, 
+with a change of 1.97 (1.6) (n=50) vs 2.74 (1.24) 
+(n=48) (P.01) for the 2 groups, respectively, using a standard 
+t test. This 0.77 difference represents a small improvement 
+in QOL change score as defined by Juniper et al.10 
+This analysis reflects that QOL may continue to improve 
+even beyond the early postoperative period (30 days), 
+which would be a desirable outcome for these patients. This 
+finding makes sense considering the usual clinical course 
+of patients who demonstrate overall improved health and 
+well-being within several months of adenotonsillectomy. 
+We do not have longer-term follow-up data on these patients 
+to be able to comment on whether this finding holds 
+true for these patients. 
+
+As seen in the previous study,6 there was poor correlation 
+between clinical ratings of degree of airway obstruction 
+and the mean survey score. In the present study, 
+we attempted to find a better model for defining physical 
+characteristics that would be predictive of improvement 
+in QOL. Guilleminault et al9 showed that high scores on 
+the clinical OCF scale and tonsillar scale were correlated 
+with a diagnosis of UARS and obstructive sleep apnea in 
+411 children presenting to a sleep center for evaluation. 
+In the present study, these factors were not predictive of 
+improved QOL in multivariate analysis. However, virtually 
+all of our patients had a degree of tonsillar obstruction 
+greater than 50%, so the data may have been too homogeneous 
+to give a meaningful correlation. Regarding 
+the OCF score, we found that children in all categories 
+(low, medium, or high) had substantial improvements in 
+QOL. This may indicate a lack of sensitivity of the scale 
+or incorrect categorization of the physical characteristics 
+by the many physicians participating in the study. It could 
+also reflect that children with all types of OCF characteristics 
+can achieve a large benefit in QOL from adenotonsillectomy. 
+A larger sample size is needed to further clarify 
+these findings. 
+
+The results of the parental Satisfaction With Decision 
+and Satisfaction With Office Visit scales were also 
+not correlated with patient outcome. This was an important 
+finding because we wanted to show that improvements 
+after surgery were due to the surgery itself and were 
+not biased by parents who were exceptionally satisfied 
+with the perioperative care. Findings from the satisfaction 
+survey were similar to those of Rosenfeld et al7 in 
+parents who were having their children evaluated for tym
+
+
+panostomy tube placement. Sixty-five percent of parents 
+rated the overall visit as excellent, and 93% rated 
+their visit as very good or excellent. The lowest area of 
+satisfaction was concerning the explanation by the physician 
+of what was done for the child. This was rated as 
+excellent by only 69% of parents, although it was rated 
+as very good and good by an additional 27% and 4% of 
+parents, respectively. This finding reiterates the need to 
+make sure parents have a true understanding of visit proceedings. 
+Findings on the Satisfaction With Decision Scale 
+were also independent of outcome. Results showed that 
+only about two thirds of parents felt strongly that they 
+were told enough to make a good decision for their child, 
+felt it was the best decision for their child, expected to 
+follow through with the decision, and were content overall 
+with the decision to have surgery. These findings may 
+indicate the apprehension that parents feel when electing 
+to have a surgical procedure performed on their child, 
+but they may also reinforce the need for adequate physician 
+education so that parents can be as comfortable 
+as possible with their decision. 
+
+Strengths of this study include the high generalizability 
+of the findings given the geographically diverse regions 
+in which the study was performed, which included 
+urban and suburban populations. The findings of this study 
+are also easily generalizable to clinical practice because patients 
+included in this study likely represent children all 
+along the spectrum of sleep-disordered breathing. No effort 
+was made to limit study participants to those with documented 
+polysomnographic abnormalities. As discussed previously, 
+this could have led to the exclusion of children with 
+significant sleep fragmentation. 
+
+Another limitation is the short time after surgery at 
+which follow-up questionnaires were obtained. Most postoperative 
+visits were scheduled beyond the point (4-5 
+weeks) at which many clinicians typically see their patients 
+(2-3 weeks) to avoid sampling symptoms of recovery. 
+We found that compliance with the postoperative 
+visit is often poor, and we believed that extension of 
+the time any later after surgery would decrease patient 
+return rates even further. Therefore, our results can only 
+give insight into short-term QOL improvements. There 
+is no reason to believe that the OSD would recur in most 
+children, although there is a small possibility of symptomatic 
+adenoid regrowth.22 In addition, there is the possibility 
+that the onset of puberty in boys can lead to upper 
+airway anatomic changes that can cause recurrence 
+of sleep-disordered breathing.1,23,24 Further research is 
+needed to comment on the long-term effects of adenotonsillectomy 
+on child QOL. However, as more time 
+elapses after surgery for patient evaluation, the more difficult 
+it will be to dissect out improvement in QOL due 
+to the surgical procedure from other medical, social, and 
+developmental factors. 
+
+In conclusion, most children with OSDs who are selected 
+for surgery in pediatric otolaryngology practices 
+will have a large improvement in QOL, at least in the short 
+term, after adenotonsillectomy. 
+
+Accepted for publication October 26, 2001. 
+
+From the Division of Pediatric Otolaryngology, The 
+Children’s Hospital of New York, NY Presbyterian Hospi
+
+
+(REPRINTED) ARCH OTOLARYNGOL HEAD NECK SURG/VOL 128, MAY 2002 WWW.ARCHOTO.COM 
+
+495 
+
+Downloaded from www.archoto.com on March 4, 2009 
+
+©2002 American Medical Association. All rights reserved. 
+
+
+tal, Columbia University, New York (Drs de Serres, Had-
+dad, and Tampakopoulou); the Department of Otolaryngology–
+Head and Neck Surgery, Children’s Hospital of the 
+King’s Daughter, Eastern Virginia Medical School, Norfolk 
+(Dr Derkay); the Division of Pediatric Otolaryngology, 
+Children’s Hospital and Regional Medical Center, Department 
+of Otolaryngology–Head and Neck Surgery, 
+University of Washington, Seattle (Drs Sie, Manning, and 
+Inglis); the Division of Pediatric Otolaryngology, Children’s 
+Hospital of Dallas, Dallas, Tex (Dr Biavati); the Division 
+of Pediatric Otolaryngology, New York Weill Cornell 
+Medical Center, NY Presbyterian Hospital, Cornell 
+University, New York (Dr Jones); the Department of Otolaryngology–
+Head and Neck Surgery, Johns Hopkins University, 
+Baltimore, Md (Dr Tunkel); and the Department of 
+Surgery, NY Presbyterian Hospital, Columbia University, 
+New York (Mr Weinberg). 
+
+This study was presented at the American Society of 
+Pediatric Otolaryngology meeting, Scottsdale, Ariz, May 10, 
+2001. 
+
+We thank Farrel J. Buchinsky, MD, and Jeffrey Keller, 
+MD, for contributing patient data to this study and Leslie 
+Schmidt, RN, Anna Squillante, RN, Amelia Morris, RN, Sandra 
+Neal, RN, Monica Belmonte, MD, and Lynn Golembiewski, 
+RN, for their help with data collection. 
+
+Corresponding author and reprints: Lianne M. de Serres, 
+MD, Division of Pediatric Otolaryngology, The Children’s 
+Hospital of New York, 3959 Broadway, Room 501N, New 
+York, NY 10032 (e-mail: LMD54@columbia.edu). 
+
+REFERENCES 
+1. 
+Guilleminault C, Pelayo R. Sleep-disordered breathing in children. Ann Med. 1998; 
+30:350-356. 
+2. Suen JS, Arnold JE, Brooks LJ. Adenotonsillectomy for treatment of obstructive 
+sleep apnea in children. Arch Otolaryngol Head Neck Surg. 1995;121:525-530. 
+3. Stradling J, Thomas G, Warley A, et al. Effect of adenotonsillectomy on nocturnal 
+hypoxaemia, sleep disturbance, and symptoms in snoring children. Lancet. 
+1990;335:249-253. 
+4. Croft C, Brockbank M, Wright A, et al. Obstructive sleep apnoea in children undergoing 
+routine tonsillectomy and adenoidectomy. Clin Otolaryngol. 1989;15: 
+307-314. 
+
+5. Marcus C. Management of obstructive sleep apnea in childhood. Curr Opin Pulm 
+Med. 1997;3:464-469. 
+6. de Serres L, Derkay C, Astley S, et al. Measuring quality of life in children with 
+obstructive sleep disorders. Arch Otolaryngol Head Neck Surg. 2000;126:14231429. 
+7. Rosenfeld R, Bhaya M, Bower C, et al. Impact of tympanostomy tubes on child 
+quality of life. Arch Otolaryngol Head Neck Surg. 2000;126:585-592. 
+8. Streiner D, Norman G. Health Measurement Scales: A Practical Guide to Their 
+Measurement and Use. 2nd ed. Oxford, England: Oxford University Press; 1995. 
+9. Guilleminault C, Pelayo R, Leger D, et al. Recognition of sleep-disordered breathing 
+in children. Pediatrics. 1996;98:871-882. 
+10. 
+Juniper E, Guyatt G, Willan A, et al. Determining a minimal important change 
+in a disease-specific quality of life questionnaire. J Clin Epidemiol. 1994;47:8187. 
+11. 
+Liang M, Fossel A, Larson M. Comparisons of five health status measurements 
+for orthopedic evaluation. Med Care. 1990;28:632-642. 
+12. 
+Stewart M, Friedman E, Sulek M, et al. Quality of life and health status in pediatric 
+tonsil and adenoid disease. Arch Otolaryngol Head Neck Surg. 2000;126: 
+45-48. 
+13. 
+Rosenfeld R, Goldsmith A, Tetlus L, et al. Quality of life for children with otitis 
+media. Arch Otolaryngol Head Neck Surg. 1997;123:1049-1053. 
+14. 
+Franco R, Rosenfeld R, Rao M. Quality of life for children with obstructive sleep 
+apnea. Otolaryngol Head Neck Surg. 2000;123:9-16. 
+15. 
+Nieminen P, Tolonen U, Lopponen H. Snoring and obstructive sleep apnea in 
+children. Arch Otolaryngol Head Neck Surg. 2000;126:481-486. 
+16. 
+Messner A. Evaluation of obstructive sleep apnea by polysomnography prior to 
+pediatric adenotonsillectomy. Arch Otolaryngol Head Neck Surg. 1999;125:353356. 
+17. 
+Coleman J. The diagnosis of OSAS and UARS in children: trying to relieve the 
+frustration. Arch Otolaryngol Head Neck Surg. 1999;126:356-357. 
+18. Guilleminault C, Winkle R, Korobkin R, et al. Children and nocturnal snoring: evaluation 
+of the effects of sleep related respiratory resistive load and daytime functioning. 
+Eur J Pediatr. 1982;139:165-171. 
+19. 
+Guilleminault C, Kushida C, Stoohs R, et al. Should everyone be monitored for 
+upper-airway resistance and how? Sleep. 1996;19(suppl):S260-S262. 
+20. 
+Man G, Kang B. Validation of a portable sleep apnea monitoring device. Chest. 
+1995;108:388-393. 
+21. 
+Guilleminault C, Pelayo R. ... And if the polysomnogram was faulty? Pediatr Pulmonol. 
+1998;26:1-3. 
+22. 
+Buchinsky F, Lowry M, Isaacson G. Do adenoids regrow after excision? Otolaryngol 
+Head Neck Surg. 2000;123:576-581. 
+23. 
+Guilleminault C. Obstructive sleep apnea syndrome in children: areas of agreement 
+and controversy. Pediatr Pulmonol. 1987;3:429-436. 
+24. 
+Guilleminault C, Partinen M, Praud J, et al. Morphometric facial changes and obstructive 
+sleep apnea in adolescents. J Pediatr. 1989;114:997-999. 
+(REPRINTED) ARCH OTOLARYNGOL HEAD NECK SURG/VOL 128, MAY 2002 WWW.ARCHOTO.COM 
+
+496 
+
+Downloaded from www.archoto.com on March 4, 2009 
+
+©2002 American Medical Association. All rights reserved. 
+
+

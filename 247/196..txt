@@ -1,0 +1,560 @@
+Obstructive Sleep Apnea Syndrome analysis in children by Decreases in 
+the Amplitude Fluctuations of Pulse Photoplethysmography: role of 
+recording duration and Heart Rate Variability. 
+Eduardo Gil, Jos´e Mar´ia Vergara, Anna M. Bianchi and Pablo Laguna 
+Abstract—Heart rate variability (HRV) during Decreases in 
+the Amplitude fluctuations of Pulse Photopletysmography signal 
+events (DAP) is studied. The DAP duration and the time span 
+of the polysomnography (PSG) recording under study are also 
+considered for identification of Obstructive Sleep Apnea events 
+in children. Oxygen desaturation is used as reference. The study 
+involves recordings of 21 children. 
+Periods of time associated with a drop in SaO2 of 3% 
+from baseline during at least 5% of the time were labeled as 
+pathologic. DAP events were detected using an automatic detector, 
+HRV signal processing using the Smooth Pseudo Wigner- 
+Ville Distribution was carried out in order to obtain several 
+time and frequency HRV indexes. T-test was used to analyze 
+differences between groups. The results show discrimination 
+power between groups that increases as the duration of the time 
+period under analysis, becomes shorter, and so more tune to the 
+apneic episodes. Also HRV increase the discrimination power 
+helping in discriminating DAP event non related to apnea. 
+I. INTRODUCTION 
+Obstructive sleep apnea syndrome (OSAS) is a breathing 
+disorder characterised by brief periods of breathing cessation 
+during sleep, with recurrent arousals being required 
+to reestablish upper airway patency [1]. The prevalence of 
+OSAS is estimated as 2% to 3% in children, most of whom 
+are undiagnosed and untreated. The associated consequences 
+include sleep fragmentation, associated with malfunctioning 
+of sleep-related restorative processes, blood gas modifications 
+which induce chemical and structural injuries in the 
+cells of the central nervous system and it may lead to 
+adverse cardiovascular consequences such as myocardial 
+infarction and hypertension [2]. Repeated failures related to 
+sleep fragmentation at critical stages of development like 
+childhood can fundamentally influence a child’s motivation 
+and behavior. 
+Polysomnography (PSG) is the most commonly used 
+diagnostic sleep procedure, but some alternatives to this 
+technique have been proposed because of the cost and 
+requirement for technical expertise. One alternative to PSG 
+is pulse photopletismography signal (PPG) which is a simple 
+This work was partially supported by project TEC2004-05263-c02-02 
+from MCyT and FEDER, CIBER CB06/01/0062 by Instituto de Salud 
+Carlos III and Grupo Consolidado GTC from DGA. 
+E. Gil and P. Laguna are with the Communications Technology 
+Group, Arag´on Institute of Engineering Research (I3A), University of 
+Zaragoza, Mar´ia de Luna 1, 50018 Zaragoza, Spain {edugilh, 
+laguna}@unizar.es. 
+J. M. Vergara is with Sleep Department, Miguel Servet Children Hospital, 
+Spain, vergeur@comz.org. 
+Anna M. Bianchi is with Department of Biomedical Engineering, Politecnico 
+di Milano, Italy. annamaria.bianchi@polimi.it. 
+and useful method for measuring the pulsatile component of 
+the heartbeat and evaluating peripheral circulation. 
+Several studies suggest that when apnea occurs, sympathetic 
+activity increases. Hypoxia plays a key role in 
+that relationship. The increase in sympathetic activity is 
+associated with vasoconstriction and, possibly, is related to 
+transient arousal [3]. Vasoconstriction is reflected in the PPG 
+signal by a decrease in the fluctuation of the signal amplitude 
+[4], [5]. Therefore, the automatic detection of decreases in 
+the amplitude fluctuations of PPG (DAP) might be useful 
+in indirectly quantifying apneas during sleep [6]. There are 
+studies of the diagnosis of OSAS based on the detection 
+of vasoconstriction using peripheral arterial tonometry [7], 
+which is a similar physiological signal. The relationship 
+between autonomic nervous system (ANS) and PPG has been 
+the subject of some studies [5], [8]. 
+Nevertheless, not all of the DAP events are associated with 
+an apnea event [9]. These events may be related to arousals 
+not associated with apnea. Some studies [7], [10] include 
+HRV as an alternative criteria for discriminating between 
+DAP events associated with apnea and those without that 
+association, according to [11]. 
+The main objective of this study is to assess the potential 
+value of DAP events together with HRV in diagnosing 
+OSAS. To that end, different DAP events duration and HRV 
+parameters have been analyzed for diverse time span of the 
+PSG recording under study. 
+II. DATA 
+This study includes the records of 21 children (11 boys, 10 
+girls) whose mean age was 4.47±2.04 (mean±S.D.) years. 
+The PSG registers were acquired in Miguel Servet Children’s 
+Hospital, Zaragoza, Spain, according to the standard 
+methods defined by American Thoracic Society [12], using a 
+commercial digital polygraph (EGP800, Bitmed) and recording 
+six EEG channels, two electro-oculogram channels, a 
+chin electromyogram channel, two ECG channels, air flow 
+(oronasal thermocoupler), and respiratory plethysmography, 
+with transducers placed around the chest and abdomen. PPG 
+and arterial oxygen saturation (SaO2) were recorded continuously 
+by pulse oximetry (COSMO ETCO2/SpO2 Monitor 
+Novametrix, Medical Systems). All of the signals were stored 
+at a sampling rate of 100 Hz, except ECG channels whose 
+sampling rate was 500 Hz. Only PPG, SaO2 and ECG 
+signals were used in the automatic analysis. The PSG data 
+were scored manually following standard procedures used 
+Proceedings of the 29th Annual International 
+Conference of the IEEE EMBS 
+Cité Internationale, Lyon, France 
+August 23-26, 2007. 
+SaD07.1 
+1-4244-0788-5/07/$20.00 ©2007 IEEE 6089
+
+TABLE I 
+FRAGMENTS CLASSIFICATION 
+PSG Fragments # control # pathologic # doubt # total 
+D 15 365 74 58 497 
+D 30 159 41 31 231 
+D 60 78 23 21 122 
+D 120 41 13 9 63 
+D 180 27 10 7 44 
+D 240 22 7 6 35 
+D all 12 3 6 21 
+to discriminate children suffering from OSAS (10 children) 
+from those who are not (11 children). 
+III. METHODS 
+A. Classification of different time-span of the PSG recording. 
+Complete night PSG recordings were split into segments 
+DL corresponding to length L = 15, 30, 60, 120, 180, 240 
+minutes. This fragments and the complete night were classified 
+as control, doubt or pathologic based on SaO2 desaturation. 
+To establish this classification, a baseline level , 
+corresponding to the SaO2 signal mode of the entire night, is 
+considered. In all recordings   97% and the probability of 
+its value was higher than 0.3 from a bin resolution of 1%. The 
+total time intervals that SaO2 signal is below  -3%, t-3, 
+was calculated for each fragment in DL. PSG fragments were 
+classified according to 
+t-3/L < 0.015 control 
+0.015< t-3/L < 0.05 doubt 
+t-3/L > 0.05 pathologic 
+(1) 
+This imply a minimum of 5% of the time with evident 
+oxygen desaturation to be consider as pathologic, which 
+corresponds to a severe OSAS criteria of 20 apneas/hour 
+having a mean duration of 10 seconds. For control group the 
+threshold corresponds to 5 apneas/hour. This classification 
+is the reference used here to assess the utility of DAP and 
+HRV for OSAS evaluation in children. Table I shows the 
+classification for the different PSG time-span fragments. 
+B. DAP events detection 
+PPG signal was analyzed using the method described in [6] 
+for DAP detection. This detector is based on a preprocessor 
+stage which suppress the mean, an envelope detection using 
+root mean square technique and a decision rule based on 
+an adaptive threshold. The detector also includes an artifact 
+detector stage based on Hjorth parameters, see figure 1. 
+C. HRV analysis 
+A HRV signal processing analysis was carried out in order 
+to obtain several time and frequency indexes to study their 
+PPG 
+Preprocessing 
+s(n) Envelope 
+Detection 
+xe(n) Decision 
+Rule 
+DAP 
+events 
+Artifact 
+Detector 
+artifacts 
+Fig. 1. DAP Detector diagram. 
+value for discriminate between apneic and non-apneic DAP 
+events. 
+Previous to QRS detection, we implemented a preprocessing. 
+Nonlinear filtering technique was used for removal of the 
+powerline interference [13]. A wavelet-based ECG delineator 
+[14] was used for QRS detection. After that, a ECG signal 
+spline interpolation around each QRS detection was carried 
+out to increase resolution in time of the fiducial point up 
+to an equivalent sampling rate of 2000 Hz. An anomalous 
+beat exclusion rule [15] was applied in order to determine 
+normal beats which were used for the interval tachogram 
+generation used in HRV. To analyze the spectral parameters 
+of the HRV in a time-frequency plane we used the Smooth 
+Pseudo Wigner-Ville Distribution Sx(t, f), since this heart 
+rhythm signal is clearly non stationary. This distribution 
+is characterized by an independent smoothing, in time and 
+frequency, originated by (t) and (
+2 
+) (-
+2 
+) windows 
+respectively and is defined as: 
+Sx(t, f)= Z Z '(t- t', )x(t'
++ 
+
+2
+)x*
+(t'
+- 
+
+2
+)e-j2fdt'd (2) 
+'(t,  )= (t)(
+
+2
+)*
+(- 
+
+2
+) (3) 
+LF and HF indexes are computed as the power in the LF 
+(0.004-0.15 Hz) and HF (0.15-0.5 Hz) bands respectively. 
+D. Statistical analysis 
+To be sure that HRV measures are robust, only DAP events 
+containing a mean of 0.8 normal beats per second within the 
+previous to DAP minute and within the subsequent minute 
+in the ECG signal were considered. 
+The number of DAP events per hour ratio r was obtained 
+for each analysis segment DL. From those detected DAP, it 
+was excluded the ones which do not satisfy some restrictions 
+based on DAP events duration and HRV parameters. 
+DAP onset was considered as the time reference for HRV 
+analysis. According to [10], two windows, five seconds 
+duration each, were defined for each DAP event in order to 
+determine changes in ANS: a control window starting at 10 
+seconds previous to DAP (Wc) and another window starting 
+at 2 seconds after the DAP detection onset (Wd), see Fig. 2. 
+-40 -20 0 20 40 
+0 
+500 
+1000 
+PPG (a.u.) 
+-40 -20 0 20 40 
+0.6 
+0.8
+1 
+time (s) 
+RR (s)
+W c W 
+d 
+time reference 
+D A P event 
+Fig. 2. Analysis windows for determining HRV changes with respect to 
+DAP onset (top). 
+6090
+
+TABLE II 
+HRV CONDITIONS 
+Condition to accept a DAP Associate index 
+R R d/RR c > 1.1 rRR 
+10 
+R R d/RR c > 1.2 rRR 
+20 
+R R d/RR c > 1.3 rRR 
+30 
+R R d/RR c > 1.4 rRR 
+40 
+R R d/RR c > 1.5 rRR 
+50 
+(LF /H F )d/(LF /H F )c > 1.1 rLH 
+10 
+(LF /H F )d/(LF /H F )c > 1.2 rLH 
+20 
+(LF /H F )d/(LF /H F )c > 1.3 rLH 
+30 
+(LF /H F )d/(LF /H F )c > 1.4 rLH 
+40 
+(LF /H F )d/(LF /H F )c > 1.5 rLH 
+50 
+No restriction r 
+Mean RR (R R ) and mean low to high frequency ratio 
+(LF /H F ) were calculated for each analysis window by 
+averaging Sx(t, f) in the time span of each window, and 
+then computing the LF and HF indexes, finally the ratios 
+between this indexes in Wd and Wc were considered as 
+exclusion criteria of the DAP event. Only DAP that fulfills 
+the HRV conditions showed in Table II were considered 
+in the corresponding DAP per hour ratio r calculation. rRR 
+x 
+meaning ratio satisfying RR criteria of x% and rLH 
+x meaning 
+ratio satisfying low to high frequency criteria of x% . 
+Depending on DAP events duration 5 different situations 
+were considered by restricting to DAP event fulfilling some 
+length restrictions: DAP events of any length (G all), shorter 
+than 4 seconds (G -4), shorter than 2 seconds (G -2), larger 
+than 2 seconds (G +2 ) and larger than 4 seconds (G +4 ). 
+A statistical analysis based on Student’s t test was used 
+to compare between groups (control, pathologic) for each 
+DAP per hour ratio index r (Table II). p values < 0.05 were 
+considered statistically significant. 
+IV. RESULTS 
+The total number of DAP events included in the analysis 
+after applying the exclusion criteria in III-D were 3031. 
+0 
+0.2 
+0.4 
+0.6 
+0.8
+1
+G +4 G +2 G all G -4 G -2 
+D 
+all 
+D 240 
+D 180 
+D 120 
+D 30 D 60 
+D 15 
+p Fig. 3. p values for r ratio depending on the DAP events duration for the 
+different time span of the PSG recording. 
+Figure 3 shows the p values for r ratio depending on the 
+DAP events duration for the different time span of the PSG 
+recording defined in the study. 
+In all cases the highest p values are obtained for DAP 
+durations larger than 2 seconds (G +2 ) and larger than 4 
+seconds (G +4 ), so these restrictions to DAP durations are 
+not considered in the subsequent analysis for HRV. 
+G all 
+0 
+0.1 
+0.2 
+0.3 
+0.4 
+0.5 
+0.6 
+0.7 
+D 
+all
+D 240
+D 180
+D 120
+D 60 
+D 30 
+D 15 r rLH 
+10 
+rLH 
+20 
+rLH 
+30 
+rLH 
+40 
+rLH 
+50 
+rRR 
+10 
+rRR 
+20 
+rRR 
+30 
+rRR 
+40 
+rRR 
+50 
+p 
+(a) p values for the different r ratios for any DAP events duration 
+G -4 
+0 
+0.1 
+0.2 
+0.3 
+0.4 
+0.5 
+0.6 
+0.7 
+0.8 
+D 
+all
+D 240
+D 180
+D 120
+D 60 
+D 30 
+D 15 r rLH 
+10 
+rLH 
+20 
+rLH 
+30 
+rLH 
+40 
+rLH 
+50 
+rRR 
+10 
+rRR 
+20 
+rRR 
+30 
+rRR 
+40 
+rRR 
+50 
+p 
+(b) p values for the different r ratios for DAP events shorter than 4 seconds 
+G -2 
+0 
+0.2 
+0.4 
+0.6 
+0.8
+1 
+D 
+all
+D 240
+D 180
+D 120
+D 60 
+D 30 
+D 15 r rLH 
+10 
+rLH 
+20 
+rLH 
+30 
+rLH 
+40 
+rLH 
+50 
+rRR 
+10 
+rRR 
+20 
+rRR 
+30 
+rRR 
+40 
+rRR 
+50 
+p 
+(c) p values for the different r ratios for DAP events shorter than 2 seconds 
+Fig. 4. p values for the different r ratios depending on the increases of 
+HRV parameters for the different time span of the PSG recording. 
+6091
+
+TABLE III 
+RESULTS FOR EACH PSG TIME-SPAN ANALYSED 
+PSG Duration DAP duration p(r) p(best index) 
+D 15 G -4 r: 0.000004 rLH 
+10 : 0.000001 
+D 30 G all r: 0.000183 r: 0.000183 
+D 60 G -2 r: 0.027570 rLH 
+40 : 0.005756 
+D 120 G -2 r: 0.088331 rLH 
+40 : 0.007869 
+D 180 G -4 r: 0.248608 rRR 
+40 : 0.024846 
+D 240 G -4 r: 0.358634 rRR 
+40 : 0.051962 
+D all G -2 r: 0.288491 rRR 
+50 : 0.037334 
+Figure 4 shows the p values for the different r ratios 
+defined in Table II depending on the increases of HRV 
+parameters for the different time span of the PSG recording 
+and for any DAP events duration 4(a), DAP events shorter 
+than 4 seconds 4(b) and shorter than 2 seconds 4(c). 
+Table III shows the best index for discriminating between 
+groups, indicating DAP events duration, and the associated 
+p value for each of the PSG time-span analysed. 
+V. DISCUSSION AND CONCLUSIONS 
+In our research, we have investigated the value of DAP 
+events in conjunction with HRV for OSAS analysis in 
+children. To that end, a clinical study have been developed 
+for diverse time span of the PSG recordings. Fragments 
+of PSG where classified, based on SaO2 desaturation, for 
+reference. 
+Our results related to DAP events duration showed better 
+discrimination between groups for shorter DAP events. This 
+result is concordant with the previous study [9]. That might 
+imply that many of the larger DAP events are not associated 
+with apnea; or even, they could be missed PPG artifacts. 
+The best result for discrimination between groups corresponds 
+to the rLH 
+10 index restricted to DAP duration G -4and 
+applied to 15 minutes PSG fragments, resulting in a p value 
+of 0.000001. 
+Results showed in Fig. 3 and in Fig. 4 indicate that 
+discrimination power between groups increases as the PSG 
+time-span under analysis becomes shorter, and so more tune 
+to the apneic episodes. In general, for pathologic patients, 
+larger PSG time-span comprise both oxygen desaturation 
+periods related to apneas and normal periods without sleep 
+problems making more difficult their classification. 
+HRV increase the differentiation power in some cases, 
+mainly when large PSG time-span is considered, then helping 
+in discriminating DAP event non related to the apneic 
+event. This improvement by including HRV analysis is more 
+relevant for indexes depending on LF/HF restriction, rLH than 
+for those depending on RR restriction, rRR for shorter PSG 
+time-span. On the other hand rRR get better results when PPG 
+fragments are larger. 
+The described method was compared just to oximetry 
+which is not sufficiently accurate or validated to recommend 
+for use in OSAS diagnosis according to ASDA criteria. 
+Nevertheless most of the pathologic fragments corresponds to 
+children suffering from OSAS according to clinical diagnosis 
+(93% for D15, 98% for D30, 100% for D60, D120, D180, 
+D240 and Dall) so the results could be extrapolated from 
+oxygen desaturation events to pathological events, at least 
+within each record. 
+In conclusion the number of DAP events per hour ratio is 
+able to classify PSG fragments of children as related to SaO2 
+desaturation or normal breathing within a high statistically 
+significant probability (p = 0.000001). This discrimination 
+between groups is better for shorter PSG time-span and 
+the inclusion of HRV analysis improve the results, mainly 
+when large PSG time-span is considered which corresponds 
+to the situation of more difficult discrimination. The results 
+evidence a clear link between oxygen desaturation and DAP 
+events presence. 
+REFERENCES 
+[1] American Academy of Pediatrics, “Clinical practice guideline: Diagnosis 
+and management of childhood obstructive sleep apnea syndrome,” 
+Pediatrics, vol. 109, pp. 704–712, 2002. 
+[2] F. J. Nieto, T. B. Young, B. K. Lind, E. Shahar, J. M. Samet, S. Redline, 
+R. B. D’Agostino, A. B. Newman, M. D. Lebowitz, and T. G. 
+Pickering, “Association of sleep-disordered breathing, sleep apnea, and 
+hypertension in a large community-based study,” JAMA, vol. 283, pp. 
+1829–1836, 2000. 
+[3] V. K. Somers, M. E. Dyken, M. P. Clary, and F. M. Abboud, 
+“Sympathetic neural mechanisms in obstructive sleep apnea,” J. Clin. 
+Invest., vol. 96, pp. 1897–1904, 1995. 
+[4] Y. Mendelson, “Pulse oximetry: Theory and applications for noninvasive 
+monitoring,” Clinical chemistry, vol. 38, no. 9, pp. 1601–1607, 
+1992. 
+[5] M. Nitzan, A. Babchenko, B. Khanokh, and D. Landau, “The variability 
+of the photoplethysmographic signal-a potential method for the 
+evaluation of the autonomic nervous system,” Physiol. Meas., vol. 19, 
+pp. 93–102, 1998. 
+[6] E. Gil, V. Monasterio, J. M. Vergara, and P. Laguna, “Pulse photopletismography 
+amplitude decrease detector for sleep apnea evaluation 
+in children,” Annual International Conference of the IEEE Engineering 
+in Medicine and Biology Society, 2005. 
+[7] R. P. Schnall, A. Shlitner, J. Sheffy, R. Kedar, and P. Lavie, “Periodic, 
+profound peripheral vasoconstriction-a new marker of obstructive sleep 
+apnea,” Sleep, vol. 22, no. 7, 1999. 
+[8] M. Nitzan, A. Babchenko, I. Faib, and E. Davidson, “Assessment 
+of changes in arterial compliance by photoplethysmography,” IEEE 
+Convention of the Electrical and Electornic Engineers in Israel, pp. 
+351–354, 2000. 
+[9] E. Gil, J. M. Vergara, and P. Laguna, “Study of the relationship 
+between pulse photopletismography amplitude decrease events and 
+sleep apnea in children,” 28th Annual International Conference of the 
+IEEE Engineering in Medicine and Biology Society, 2006. 
+[10] E. Gil, M. O. Mendez, O. Villantieri, J. Mateo, J. M. Vergara, A. M. 
+Bianchi, and P. Laguna, “Heart rate variability during pulse photoplethysmography 
+decreased amplitude fluctuations and its correlation 
+with apneic episodes,” Computers in Cardiology, 2006. 
+[11] C. Guilleminault, R. Winkle, S. Connolly, K. Melvin, and A. Tilkian, 
+“Cyclical variation of the heart rate in sleep apnoea syndrome : 
+Mechanisms, and usefulness of 24 h electrocardiography as a screening 
+technique,” The Lancet, vol. 323, pp. 126–131, 1984. 
+[12] American Thoracic Society, “Standards and indications for cardiopulmonary 
+sleep studies in children,” Am. J. Respir. Crit. Care Med., vol. 
+153, pp. 866–878, 1996. 
+[13] D. Mortara, “Digital filters for ecg signals,” in IEEE Computer Society 
+Press, 1977, pp. 511–514. 
+[14] J. P. Mart´inez, R. Almeida, S. Olmos, A. P. Rocha, and P. Laguna, “A 
+wavelet-based ecg delineator: Evaluation on standard databases.” IEEE 
+Transactions on Biomedical Engineering, vol. 51, no. 4, pp. 570–581, 
+2004. 
+[15] J. Mateo and P. Laguna, “Analysis of heart rate variability in the presence 
+of ectopic beats using the heart timing signal,” IEEE Transactions 
+on Biomedical Engineering, vol. 50, no. 3, pp. 334–343, 2003. 
+6092
+

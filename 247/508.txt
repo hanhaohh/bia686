@@ -1,0 +1,729 @@
+PEDIATRICS 
+Autonomic Dysfunction in Children with Sleep-Disordered Breathing 
+
+Louise M. O’Brien, PhD; David Gozal, MD 
+
+Kosair Children’s Hospital Research Institute, and Division of Pediatric Sleep Medicine, Department of Pediatrics, University of Louisville, Louisville, 
+KY 
+
+Study Objectives: To measure sympathetic responses in children with 
+and without sleep-disordered breathing. 
+Design: Prospective, observational study. 
+Setting: Kosair Children’s Hospital Sleep Medicine and Apnea Center. 
+Participants: Subjects were prospectively recruited from children undergoing 
+overnight polysomnographic assessments and were retrospectively 
+grouped according to the results of the polysomnogram. Sleep-disordered 
+breathing was defined as an apnea-hypopnea index >5 and children were 
+assigned to the control group if their apnea-hypopnea index was < 1. 
+Intervention: N/A. 
+Measurements and Results: During quiet wakefulness, pulse arterial 
+tonometry was used to assess changes in sympathetic activity following 
+vital capacity sighs in 28 children with sleep-disordered breathing and 29 
+controls. Each child underwent a series of 3 sighs, and the average maximal 
+pulse arterial tonometry signal attenuation was calculated. Further, a 
+cold pressor test was conducted in a subset of 14 children with sleep-disordered 
+breathing and 14 controls. The left hand was immersed in ice cold 
+water for 30 seconds while right-hand pulse arterial tonometry signal was 
+
+INTRODUCTION 
+
+SLEEP-DISORDERED BREATHING (SDB) IN ADULTS IS 
+ASSOCIATED WITH INCREASED CARDIOVASCULAR 
+MORBIDITY AND MORTALITY, PARTICULARLY SYSTEMIC 
+hypertension and ischemic heart disease.1-6 Although the mechanisms 
+that mediate cardiovascular morbidity in adults with SDB 
+are poorly understood, autonomic nervous system dysfunction is 
+believed to play a key role.7 It is likely that both intermittent hypoxia 
+and increased arousals mediate the elevation in sympathetic 
+nerve activity that results in altered vasomotor tone regulation. 
+Indeed, recurrent hypoxemia, associated with mild hypercapnia, 
+and increased chemoreceptor firing all lead to increased muscle 
+sympathetic nerve activity and increased blood pressure.8 In addition, 
+arousals during sleep will directly activate the sympathetic 
+nervous system with a resultant pressor response.9 Although the 
+
+Disclosure Statement 
+
+This was an industry supported study supported by Itamar Ltd. Itamar 
+Ltd. provided an unrestricted grant and the PAT instrumentation required 
+for the measurements. No involvement by Itamar occurred in regards 
+to the original idea for the research project or project design. Dr. Gozal 
+serves on the national speakers’ bureau for Merck Inc. Dr. O’Brien has 
+indicated no financial conflict of interest. The data were analyzed and 
+the paper was written by the authors. 
+
+Submitted for publication September 2004 
+Accepted for publication February 2005 
+
+Address correspondence to: David Gozal, MD, Kosair Children’s Hospital 
+Research Institute, University of Louisville School of Medicine, 570 S. 
+Preston Street Suite 204, Louisville, KY 40202; Tel: (502) 852 2323; Fax: 
+
+(502) 852 2215; E-mail: david.gozal@louisville.edu 
+SLEEP, Vol. 28, No. 6, 2005 
+
+continuously monitored during immersion and 20-minute recovery periods. 
+Signal amplitude changes were expressed as percentage change 
+from corresponding baseline. 
+Results: The magnitude of sympathetic discharge-induced attenuation 
+of pulse arterial tonometry signal was significantly increased in children 
+with sleep-disordered breathing during sigh maneuvers (74.1%±10.7% 
+change compared with 59.2%±13.2% change in controls; P<.0001) and 
+the cold pressor test (83.5%±7.3% change compared with 74.1%±11.4% 
+change in controls; P=.039). Further, recovery kinetics in control children 
+were faster than those of children with sleep-disordered breathing. 
+Conclusion: Children with sleep-disordered breathing have altered autonomic 
+nervous system regulation as evidenced by increased sympathetic 
+vascular reactivity during wakefulness. 
+Keywords: Sleep-disordered breathing, autonomic nervous system, peripheral 
+arterial tonometry. 
+Citation: O’Brien LM; Gozal D. Autonomic dysfunction in children with 
+sleep-disordered breathing. SLEEP 2005;28(6):747-752. 
+
+effect of SDB on the autonomic nervous system in childhood has 
+not been systematically investigated, it is likely that autonomic 
+nervous system dysfunction is also present in some children, albeit 
+to a lesser degree than in adults.10,11 
+
+A recently developed technique allowing for noninvasive moment-
+to-moment measurement of sympathetic tone is peripheral 
+arterial tonometry, (PAT, Itamar Medical, Caesarea, Israel).12 PAT 
+has been previously well described and employs a finger plethysmographic 
+approach that eliminates venous pulsations and 
+continuously measures the arterial pulse waveform of the digit. 
+PAT continuously measures the pulsatile volume change using a 
+pneumo-optic probe, which reflects the relative change of blood 
+volume in the finger. Changes in sympathetic nervous system activity, 
+which are mediated by alpha adrenoreceptor activation, result 
+in episodic vasoconstriction of the digital vascular beds with 
+corresponding attenuation of PAT signal.13,14 Thus, increases in 
+sympathetic activity will elicit robust changes in peripheral vascular 
+cutaneous perfusion and can be readily detected on a beat-
+to-beat basis. In adults, PAT is exquisitely sensitive to changes 
+in sympathetic autonomic nervous system activity.12 The purpose 
+of this study was, therefore, to investigate dynamic responses of 
+the sympathetic autonomic nervous system in children with and 
+without SDB. 
+
+METHODS 
+
+Subjects were prospectively recruited from children being 
+evaluated for potential SDB at Kosair Children’s Hospital Sleep 
+Medicine Center. In addition, healthy children with no reports of 
+sleep disturbance were also recruited from a community-based 
+survey to act as controls. The study was approved by the University 
+of Louisville Human Research Committee. Parental in
+
+
+747 Autonomic Dysfunction in Apneic Children—O’Brien and Gozal 
+
+
+formed consent and child assent, in the presence of a parent, were 
+obtained. Children were excluded if they had any chronic medical 
+condition, received medications known to alter autonomic nervous 
+system function, or had any psychiatric diagnoses or any genetic 
+or craniofacial syndromes. All children underwent a standard 
+overnight multichannel polysomnographic evaluation in the sleep 
+laboratory to confirm the presence or absence of SDB rather than 
+rely on parental report. No drugs were used to induce sleep. The 
+following parameters were measured: chest and abdominal wall 
+movement by respiratory impedance or inductance plethysmography; 
+heart rate by electrocardiogram; air flow was monitored with 
+a sidestream end-tidal capnograph, which also provided breathby-
+breath assessment of end-tidal carbon-dioxide levels (BCI SC300, 
+Menomonee Falls, Wisc); and a thermistor. The SpO2 was assessed 
+by pulse oximetry (Nellcor N 100; Nellcor Inc., Hayward, 
+Calif), with simultaneous recording of the pulse waveform. The 
+bilateral electrooculogram, 8 channels of electroencephalogram, 
+chin and anterior tibial electromyograms, and analog output from 
+a body position sensor (Braebon Medical Corporation, NY) were 
+also monitored. All measures were digitized using a commercially 
+available polysomnography system (Rembrandt, MedCare Diagnostics, 
+Amsterdam, The Netherlands). Tracheal sound was monitored 
+with a microphone sensor (Sleepmate, Virg), and a digital 
+time-synchronized video recording was performed. 
+
+Sleep architecture was assessed by standard techniques.15 Obstructive 
+apnea was defined as the absence of airflow with continued 
+chest-wall and abdominal movement for duration of at 
+least 2 breaths.16,17 Hypopneas were defined as a decrease in nasal 
+flow of at least 50% with a corresponding decrease in SpO2 of at 
+least 4%, an arousal, or both a decrease in SpO2 and an arousal.17 
+The obstructive apnea-hypopnea index (AHI) was defined as the 
+number of apneas and hypopneas per hour of total sleep time. 
+Children with an AHI of 5 or more per hour of total sleep time 
+were considered to have SDB, whereas children without a history 
+of snoring and an AHI less than 1 were considered to be controls. 
+The mean SpO2, as measured by pulse oximetry, in the presence 
+of a pulse waveform signal void of motion artifact and the SpO2 
+nadir were recorded. Since criteria for arousals have not yet been 
+developed for children, arousals were defined as recommended 
+by the American Sleep Disorders Association Task Force report18 
+using the 3-second rule, the presence of movement arousal, or 
+both.19 Arousals were divided into 2 main subtypes: spontaneous 
+arousals and respiratory arousals. 
+
+Immediately prior to initiation of the polysomnographic recordings, 
+PAT was used to assess changes in sympathetic activity 
+during quiet wakefulness. The PAT probe was placed on the right 
+hand of each child, and both raw and filtered PAT signals were 
+digitally acquired and incorporated into the polysomnographic 
+montage. Each child sat up on the bed with both hands resting on 
+a table in front of him or her. Baseline PAT measurements were 
+obtained when the child was sitting quietly and the PAT signal 
+was steady for at least 2 minutes. Baseline values were obtained 
+by taking the mean measurement across a 10-second period of 
+steady, good-quality signal. Following baseline measures, each 
+child underwent a series of 3 vital capacity sighs, each separated 
+by at least 60 seconds of normal breathing wherein the PAT signal 
+remained steady and artifact free. The maximal attenuation 
+of PAT signal was measured over 10 seconds and calculated as a 
+percentage change from baseline. Measurements were averaged 
+over the series of sighs. Figure 1 illustrates a PAT attenuation associated 
+with a sigh. 
+
+A subgroup of children also underwent a cold pressor test 5 
+minutes after the series of sighs. This subgroup comprised all 
+
+Figure 1—Peripheral arterial tonometry attenuation associated with a 
+vital capacity sigh. 
+children recruited to the study following the addition of the pressor 
+test to the challenge protocol. The left hand was immersed 
+in ice-cold water for 30 seconds while the right hand remained 
+still. PAT signal was continuously monitored throughout the immersion 
+and recovery periods. Changes in signal amplitude were 
+calculated by averaging the mean amplitude over a 10-second 
+period before the pressor test (baseline), during the pressor test 
+(challenge), immediately following the removal of the hand from 
+the water (post challenge), and then at 1-minute intervals during 
+the 20-minute recovery phase. All measures were obtained from 
+a steady and regular artifact-free PAT signal. Amplitudes were 
+expressed as percentage change from corresponding baseline. 
+
+All maneuvers were performed at least 3 hours following ingestion 
+of food or caffeine, since these variables may confound 
+the results. In addition, ambient temperature remained constant 
+throughout the assessments. 
+
+Data Analysis 
+
+All data were coded and analyzed blind to the subject group 
+upon completion of recruitment. Data are presented as means ± 
+SD and 95% confidence intervals (CI) unless otherwise indicated. 
+Independent t tests were employed for comparisons of measures 
+between the study groups, with the Fischer Exact Test used for 
+dichotomous outcomes. For the cold pressor test, an analysis of 
+variance with repeated measures was employed. All P values reported 
+are 2 sided with statistical significance set at <.05. 
+
+RESULTS 
+
+Children were retrospectively grouped according to the results 
+of the overnight polysomnogram. A total of 28 children (14 boys) 
+were found to have SDB, whereas 29 children (19 boys) were 
+designated as controls. Of these, 14 children in each group participated 
+in the cold pressor test. Table 1 illustrates the demographic 
+information for the 2 groups. 
+
+SLEEP, Vol. 28, No. 6, 2005 748 Autonomic Dysfunction in Apneic Children—O’Brien and Gozal 
+
+
+Table —Demographic Characteristics of Children with Sleep-Disordered 
+Breathing and Controls 
+
+Characteristic Subjects 
+Sleep-disordered breathing Control 
+n=28 n=29 
+
+Age, y (range) 10.2 ± 3.1 (6.2-15.8) 9.8 ± 3.0 (5.9-17.0) 
+Boys, % 58 67 
+Apnea-hypopnea index, 
+no./h 12.8 ± 8.1 0.4 ± 0.2 ** 
+Spontaneous arousal 
+index, no./h 5.9 ± 3.2 8.2 ± 4.1 
+Respiratory arousal 
+index, no./h 7.8 ± 6.1** 0.6 ± 0.8 
+SpO2 nadir, % 85.8 ± 10.1 91.5 ± 3.9* 
+Body mass index, 
+kg/m2 26.5 ± 13.7 24.4 ± 8.7 
+Blood pressure, 
+mm Hg 
+
+Systolic 112.2 ± 15.4 103.5 ± 10.0 
+Diastolic 59.2 ± 4.5 57.1 ± 8.0 
+
+
+Data are presented as mean ± SD unless otherwise indicated. 
+*P<.05 vs controls. 
+**P<.001 vs controls. 
+
+
+Sigh Maneuvers 
+
+The mean magnitude of sympathetic-induced attenuation of 
+the PAT signal following a sigh is illustrated in Figure 2. Children 
+with SDB showed significantly greater attenuation as 
+compared with control children; mean attenuation from baseline 
+was 74.1%±10.7% (95% CI 70.1%-78.1%) compared with 
+59.2%±13.2% in controls (95% CI 54.4%-64.0%; P<.0001). No 
+differences were observed between boys and girls. 
+
+Cold Pressor Test 
+
+The magnitude of sympathetic-induced attenuation of the PAT 
+signal during the cold pressor test showed that children with 
+SDB had greater attenuation than controls; 83.5%±7.3% (95% 
+CI 79.7%-87.3%) compared with 74.1%±11.4% (95% CI 68.1%80.1%) 
+respectively; P=.039. Furthermore, the recovery dynamics 
+of the control children were faster than those of children with 
+SDB (Figure 3), with the control children demonstrating a return 
+to baseline within 4 minutes, compared with 10 minutes for children 
+with SDB (P=.018). 
+
+The degree of PAT attenuation in either of the 2 challenges 
+above was not correlated with the severity of SDB. 
+
+DISCUSSION 
+
+The major finding of this study is that children with SDB 
+demonstrate altered autonomic function compared with children 
+without SDB, as evidenced by alterations in vascular reactivity. 
+While substantial evidence has accumulated over the last decades 
+to show that adults with SDB have increased sympathetic nervous 
+system activity compared with that of controls, information on 
+this issue is markedly scant in children. The present study, utilizing 
+PAT as a marker of sympathetic activation, extends the observation 
+on increased sympathetic activity in SDB to the pediatric 
+age range. 
+
+Several aspects of this study merit consideration. A major 
+
+90 
+
+
+* 
+
+80 
+
+
+% PAT 
+Change 
+
+
+70 
+
+
+60 
+
+
+
+50 
+
+
+SDB Control 
+
+*P<.0001 
+
+Figure 2—A box and whiskers plot illustrating the mean and 95% 
+confidence intervals of peripheral arterial tonometry (PAT) signal during 
+the vital capacity sighs. 
+
+strength of the present study is that all children underwent polysomnographic 
+evaluation, and only children with confirmed SDB 
+(ie, AHI>5) were included in the SDB group. Furthermore, control 
+children were recruited from a community sample of healthy 
+children. All children identified as controls also underwent polysomnographic 
+assessment to confirm the absence of SDB. Furthermore, 
+SDB and control groups were similar with respect to 
+age, sex distribution, and body mass index. Nonetheless, children 
+with mild SDB (ie, AHI 1-5) were not included in this cohort, 
+and, therefore, further studies will be required in order to determine 
+whether PAT technology has clinical application in the full 
+spectrum of SDB. In the current study, we used 2 simple noninvasive 
+strategies, namely vital capacity sighs and the cold pressor 
+test, to perturb sympathetic activity and elicit a stereotypic response. 
+The sympathetic nervous system regulates the peripheral 
+vasculature in the limbs,20 and a deep breath causes vasoconstriction 
+in the extremities that is sympathetically mediated21 and is 
+blocked by the a-receptor antagonist phentolamine. Furthermore, 
+the cold pressor test is a classic vasconstrictive stimulus that also 
+induces an a-adrenoreceptor-mediated vasoconstriction in the 
+peripheral vasculature22 and a rise in total peripheral resistance. 
+Increased sympathetic tone can be identified with PAT technology 
+as a corresponding attenuation of the PAT signal, with greater 
+sympathetic activity resulting in greater signal attenuation.12,23-25 
+Thus, the implementation of PAT technology in the assessment 
+of moment-to-moment changes in sympathetic vasomotor tone 
+is novel and permitted accurate noninvasive determination of the 
+sympathetic responses in children. 
+
+Although the mechanisms that link cardiovascular disease and 
+SDB in adults are not fully understood, sustained and aberrant 
+autonomic activation, endothelial dysfunction, and inflammation 
+have all been implicated in the increased prevalence and severity 
+of cardiovascular morbidity associated with SDB.5,6,8,9,26 Such 
+studies are clearly lacking in the pediatric arena. Nevertheless, 
+few studies exist in children with SDB. In 1997 Aljadeff and colleagues10 
+examined heart-rate variability (a noninvasive probe of 
+autonomic nervous system tone) in a small group of children with 
+moderate to severe SDB compared with that of matched controls. 
+Inspection of moment-to-moment changes in RR intervals re-
+
+SLEEP, Vol. 28, No. 6, 2005 749 Autonomic Dysfunction in Apneic Children—O’Brien and Gozal 
+
+
+% change 
+Baseline 
+ControlSDBRecovery time (min) 
+Figure 3—Recovery trajectory of peripheral arterial tonometry signal 
+following the cold pressor test for both controls and children with 
+sleep-disordered breathing (SDB). Figure shows means and 95% 
+confidence intervals of peripheral arterial tonometry signal during 
+the recovery period. Controls returned to baseline values faster than 
+children with SDB (P=.018). 
+ControlSDBRecovery time (min) 
+Figure 3—Recovery trajectory of peripheral arterial tonometry signal 
+following the cold pressor test for both controls and children with 
+sleep-disordered breathing (SDB). Figure shows means and 95% 
+confidence intervals of peripheral arterial tonometry signal during 
+the recovery period. Controls returned to baseline values faster than 
+children with SDB (P=.018). 
+vealed increases in sympathetic activity throughout, as well as 
+increased vagal discharge during, respiratory events. Similarly, 
+Baharav et al11 found evidence for increased sympathetic tone 
+as derived from spectral analysis of cardiac periodicities in children 
+with SDB. Moreover, an index of overall autonomic balance 
+was computed for each subject and was found to correlate well 
+with the respiratory disturbance index. Our study provides further 
+evidence for the occurrence of increased sympathetic tone 
+during wakefulness in pediatric SDB, as evidenced by more-pronounced 
+PAT signal attenuations during both the vital-capacity 
+sighs and the cold pressor tests. Furthermore, children with SDB 
+took significantly more time to return to baseline following the 
+cold pressor test, suggesting the presence of either altered vascular 
+reactivity or the inability to down regulate obstructive sleep 
+apnea-associated sympathetic hyperactivation following a challenge 
+in this group. 
+
+Modifications in autonomic function may alter the diurnal control 
+and variability of blood pressure. Indeed, in adult patients as 
+well as in animal studies, repetitive apneic events not only induce 
+elevation of systemic blood pressure with each apnea, but also 
+induce a more prolonged elevation of blood pressure that extends 
+beyond the apneic period.27 The magnitude and severity of blood 
+pressure elevation in pediatric patients with SDB are not as prominent 
+as those described for older patients, presumably as a result 
+of the increased vascular compliance in the pediatric age range. 
+Nevertheless, elevations of blood pressure do occur, as shown by 
+elevations in systolic, diastolic, or systolic and diastolic blood 
+pressure compared with that of control populations.28-30 In a more 
+recent study by Amin and colleagues,31 pediatric SDB patients 
+exhibited altered state-dependent circadian blood pressure regulation 
+during both sleep and wakefulness, suggesting that alterations 
+in autonomic nervous system control of blood pressure will 
+manifest as increased variability in blood pressure values rather 
+than emerge as a sustained elevation in blood pressure values. 
+
+The exact pathophysiology of autonomic nervous system dysfunction 
+in the context of SDB is still not completely elucidated. 
+However, autonomic alterations are likely mediated by both the 
+episodic hypoxia that may accompany SDB, as well as by the repeated 
+arousals and carbon dioxide elevations of this condition. It 
+
+is also likely that the persistent enhancements in sympathetic activity 
+associated with SDB will facilitate elevation of pulmonary 
+artery pressures,32,33 as well as left ventricular hypertrophy and 
+abnormal ventricular geometry resulting from persistent increases 
+in systemic vascular resistance.34 Indeed, enhanced sympathoadrenal 
+discharge, altered homeostasis of the renin-angiotensin and 
+of the renal kallikrein-kallistatin pathways, and heightened sympathetic 
+autonomic nervous system tone occur with SDB along 
+with increases in small arteriolar vasomotor contractility suggestive 
+of endothelial dysfunction.35-45 The increased sympathetic 
+activation associated with SDB in children could be also mediated 
+from initiation and propagation of inflammatory responses 
+within the microvasculature. C-reactive protein, an important 
+serum marker of inflammation, has emerged as one of the most 
+powerful independent predictors of risk for future cardiovascular 
+morbidity.46-48 In adults with SDB, elevated levels of C-reactive 
+protein have been found and correlate with the severity of SDB.26 
+Elevated C-reactive protein levels decrease following treatment 
+with CPAP,49 suggesting that SDB leads to inflammatory responses 
+that ultimately may promote cardiovascular complications. In a 
+recent study, we reported on our preliminary evidence indicating 
+that C-reactive protein levels are also elevated in children with 
+SDB and are correlated with disease severity.50 
+
+The long-term implications of persistently elevated sympathetic 
+tone on cardiovascular morbidity during later stages of 
+childhood or even adulthood have yet to be explored. It also 
+remains unclear whether untreated or long-lasting SDB will be 
+associated with vascular remodeling of the pulmonary circulation 
+in these children. Evidence from animal models exposed to 
+hypoxia for a short period of time during early postnatal life reveals 
+that pulmonary hypertension is increased when exposed to 
+hypoxia later in infancy.51 These authors speculated that disrupted 
+alveolarization and vascular growth following the brief hypoxic 
+insult during a critical period of development may increase the 
+risk for severe pulmonary hypertension later in life. Moreover, in 
+preliminary animal experiments, when rodents were exposed to a 
+model of obstructive sleep apnea52 at an age corresponding to the 
+peak prevalence of pediatric SDB in childhood, marked attenuation 
+of their baroreceptor function lasting into late adulthood was 
+found.53 Thus, early childhood perturbations may lead to lifelong 
+consequences, or, in other words, certain types of adult cardiovascular 
+disease may represent, at least in part, sequelae from a 
+priori “unrelated events” during childhood. Therefore, identification 
+of children with alterations of baroreceptor and autonomic 
+nervous system function in the context of pediatric SDB may lead 
+to detection of a population potentially at risk for development 
+of hypertension and of other cardiovascular-associated morbidities. 
+While the reversibility and overall long-term implications of 
+the increased sympathetic responses in children with SDB remain 
+unknown, our findings provide, for the first time, conclusive evidence 
+that persistent waking-associated autonomic nervous system 
+dysfunction is present among children with SDB and further 
+support the notion supporting early diagnosis and treatment in 
+such children. 
+
+ACKNOWLEDGEMENTS 
+
+
+This research was supported by NIH grant HL-65270 and an 
+unrestricted educational grant from Itamar Medical, Caesarea, Israel. 
+We thank the parents and children for their cooperation. 
+
+SLEEP, Vol. 28, No. 6, 2005 750 
+Autonomic Dysfunction in Apneic Children—O’Brien and Gozal 
+
+
+cold pressor test is mediated through alpha-adrenoceptors. Clin
+
+REFERENCES 
+
+
+1. 
+Bixler EO, Vgontzas AN, Lin HN, et al. Association of hypertension 
+and sleep-disordered breathing. Arch Intern Med 
+2000;160:2289-95. 
+2. 
+Nieto FJ, Young TB, Lind BK, et al. Association of sleep-disordered 
+breathing, sleep apnea, and hypertension in a large community-
+based study. Sleep Heart Health Study. JAMA 2000;283:182936. 
+3. 
+Peppard PE, Young T, Palta M, Skatrud J. Prospective study of the 
+association between sleep-disordered breathing and hypertension. 
+N Engl J Med 2000;342:1378-84. 
+4. 
+Lavie P, Herer P, Hoffstien V. Obstructive sleep apnoea syndrome 
+as a risk factor for hypertension: population study. BMJ 
+2000;320:479-82. 
+5. 
+Shahar E, Whitney CW, Redline S, et al. Sleep-disordered breathing 
+and cardiovascular disease: cross-sectional results of the Sleep 
+Heart Health Study. Am J Respir Crit Care Med 2001;163:19-25. 
+6. 
+Hayashi M, Fujimoto K, Urushibata K, Uchikawa S, Imamura H, 
+Kubo K. Nocturnal oxygen desaturation correlates with the severity 
+of coronary atherosclerosis in coronary artery disease. Chest 
+2003;124:936-41. 
+7. 
+O’Donnell CP, Schwartz AR, Smith PL, Robotham JL, Fitzgerald 
+RS, Shirahata M. Reflex stimulation of renal sympathetic nerve 
+activity and blood pressure in response to apnea. Am J Respir Crit 
+Care Med 1996;154:1763-70. 
+8. 
+Hedner JA, Wilcox I, Laks L, Grunstein RR, Sullivan CE. A 
+specific and potent pressor effect of hypoxia in patients with sleep 
+apnea. Am Rev Respir Dis 1992;146:1240-5. 
+9. 
+Somers VK, Dyken ME, Clary MP, Abboud FM. Sympathetic 
+neural mechanisms in obstructive sleep apnea. J Clin Invest 
+1995;96:1897-904. 
+10. 
+Aljadeff G, Gozal D, Schechtman VL, et al. Heart rate variability 
+in children with obstructive sleep apnea. Sleep 1997;20:151-7. 
+11. 
+Baharav A, Kotagel S, Rubin BK, Pratt J, Akselrod S. Autonomic 
+cardiovascular control in children with obstructive sleep apnea. 
+Clin Autonomic Res 1999;9:345-51. 
+12. 
+Lavie P, Shlitner A, Sheffy J, Schnall RP. Peripheral arterial 
+tonometry: a novel and sensitive non-invasive monitor of brief 
+arousals during sleep. IMAJ 2000;2:246-7. 
+13. 
+Grote L, Hedner J, Ding Z. Alterations of digital pulse amplitude 
+reflects alpha-adrenoceptor mediated constriction of the digital 
+vascular bed. Sleep 2001;24:A82-3. 
+14. 
+Pillar G, Bar A, Shlitner A, Schnall R, Shefy J, Lavie P. Automatic 
+arousal index: an automated detection based on peripheral arterial 
+tonometry. Sleep 2002;25:543-9. 
+15. 
+Rechtschaffen A, Kales A. A Manual of Standardized Terminology, 
+Techniques and Scoring Systems for Sleep Stages of Human 
+Subjects. Washington DC: National Institutes of Health; 1968. 
+16. 
+Marcus CL, Omlin KJ, Basinski DJ, et al. Normal polysomnographic 
+values for children and adolescents. Am Rev Respir Dis 
+1992;156:1235-9. 
+17. 
+American Thoracic Society: Standards and indications for cardiopulmonary 
+sleep studies in children. Am J Respir Crit Care Med 
+1996;153:866-78. 
+18. 
+EEG arousals: scoring and rules and examples. Sleep Disorders 
+Atlas Task Force. Sleep 1992;15:173-84. 
+19. 
+Mograss MA, Ducharme FM, Brouillette RT. Movement/arousals. 
+Description, classification, and relationship to sleep apnea in 
+children. Am J Respir Crit Care Med 1994;150:1690-6. 
+20. 
+Bevan JA, Bevan RD, Duckles SP. Adrenergic regulation of vascular 
+smooth muscle. In: Handbook of Physiology. Sect. 2, Vol. 2. 
+Pappenheimer JR, Forster RE, Mommaerts WFHM, Bullock TH, 
+eds. Baltimore: Williams & Wilkins; 1980:515-66. 
+21. 
+Greenfield ADM. Methods for the investigation of peripheral blood 
+flow. Br Med Bull 1963; 9:101-4. 
+22. 
+Frank SM, Raja SN. Reflex cutaneous vasoconstriction during 
+Autonomic Res 1994;4:257-61. 
+
+23. 
+Schnall RP, Shlitner A, Sheffy J, Kedar R, Lavie P. Periodic, profound 
+peripheral vasoconstriction – a new marker of obstructive 
+sleep apnea. Sleep 1999;22:939-46. 
+24. 
+Pillar G, Bar A, Shlitner A, Schnall R, Shefy J, Lavie P. Autonomic 
+arousal index: an automated detection based on peripheral arterial 
+tonometry. Sleep 2002;25:541-7. 
+25. 
+Tauman R, O’Brien LM, Holbrook CR, Gozal D. Peripheral 
+arterial tonometry events and EEG arousals in children. Sleep 
+2004;27:502-6. 
+26. 
+Shamsuzzaman A, Winnicki M, Lanfranchi P, et al. Elevated C-reactive 
+protein in patients with obstructive sleep apnea. Circulation 
+2002;105:2462-4. 
+27. 
+Shepard JW. Gas exhange and hemodynamics during sleep. Med 
+Clin North Am 1985;69:1243-63. 
+28. 
+Marcus CL, Greene MG, Carroll JL. Blood pressure in children 
+with obstructive sleep apnea. Am J Respir Crit Care Med 
+1998;157:1098-103. 
+29. 
+Enright PL, Goodwin JL, Sherrill DL, Quan JR, Quan SF. Blood 
+pressure elevation associated with sleep-related breathing disorder 
+in a community sample of white and Hispanic children: the Tuscon 
+Children’s Assessment of Sleep Apnea Study. Arch Pediatr Adolesc 
+Med 2003;157:901-4. 
+30. 
+Kohyama J, Ohinata JS, Hasegawa T. Blood pressure in sleep 
+disordered breathing. Arch Dis Child 2003;88:139-42. 
+31. 
+Amin RS, Carroll JL, Jeffries JL, et al. Twenty-four-hour ambulatory 
+blood pressure in children with sleep-disordered breathing. 
+Am J Respir Crit Care Med 2004;169:950-6. 
+32. 
+Shiomi T, Guilleminault C, Stoohs R, Schnittger I. Obstructed 
+breathing in children during sleep monitored by echocardiography. 
+Acta Paediatr 1993;82:863-71. 
+33. 
+Tal A, Leiberman A, Margulis G, Sofer S. Ventricular dysfunction 
+in children with obstructive sleep apnea: radionuclide assessment. 
+Pediatr Pulmonol 1988;4:139-43. 
+34. 
+Amin RS, Kimball TR, Bean JA, et al. Left ventricular hypertrophy 
+and abnormal ventricular geometry in children and adolescents 
+with obstructive sleep apnea. Am J Respir Crit Care Med 
+2002;165:1395-9. 
+35. 
+Fletcher EC, Bao G. Effect of episodic eucapnic and hypocapnic 
+hypoxia on systemic blood pressure in hypertension-prone rats. J 
+Appl Physiol 1996;81:2088-94. 
+36. 
+Peled N, Greenberg A, Pillar G, Zinder O, Levi N, Lavie P. Contributions 
+of hypoxia and respiratory disturbance index to sympathetic 
+activation and blood pressure in obstructive sleep apnea 
+syndrome. Am J Hypertens 1998;11:1284-9. 
+37. 
+Fletcher EC, Bao G, Li R. Renin activity and blood pressure in 
+response to chronic episodic hypoxia. Hypertension 1999;34:30914. 
+38. 
+Khoo MC, Kim TS, Berry RB. Spectral indices of cardiac autonomic 
+function in obstructive sleep apnea. Sleep 1999;22:443-51. 
+39. 
+Loredo JS, Ziegler MG, Ancoli-Israel S, Clausen JL, Dimsdale JE. 
+Relationship of arousals from sleep to sympathetic nervous system 
+activity and BP in obstructive sleep apnea. Chest 1999;116:655-9. 
+40. 
+Duchna HW, Guilleminault C, Stoohs RA, et al. Vascular reactivity 
+in obstructive sleep apnea syndrome. Am J Respir Crit Care 
+Med 2000;161:187-91. 
+41. 
+Fletcher EC. Effect of episodic hypoxia on sympathetic activity 
+and blood pressure. Respir Physiol 2000;119:189-97. 
+42. 
+Kraiczi H, Hedner J, Peker Y, Carlson J. Increased vasoconstrictor 
+sensitivity in obstructive sleep apnea. J Appl Physiol 2000;89:4938. 
+43. 
+Phillips BG, Somers VK. Neural and humoral mechanisms mediating 
+cardiovascular responses to obstructive sleep apnea. Respir 
+Physiol 2000;119:181-7. 
+44. 
+Elmasry A, Lindberg E, Hedner J, Janson C, Boman G. Obstructive 
+sleep apnoea and urine catecholamines in hypertensive males: 
+SLEEP, Vol. 28, No. 6, 2005 
+751 
+Autonomic Dysfunction in Apneic Children—O’Brien and Gozal 
+
+
+a population-based study. Eur Respir J 2002;19:511-7. 
+
+45. 
+Thongboonkerd V, Gozal E, Sachleben Jr LR, et al. Proteomic 
+analysis reveals differential regulation of renal kallikrein system 
+during episodic and sustained hypoxia. J Biol Chem 2002; 
+277:34708-16. 
+46. 
+Ridker PM, Hennekens CH, Buring JE, Rifai N. C-reactive protein 
+and other markers of inflammation in the prediction of cardiovascular 
+disease in women. N Engl J Med 2000;342:836-43. 
+47. 
+Ridker PM. High sensitivity C-reactive protein: potential adjunct 
+for global risk assessment in the primary prevention of cardiovascular 
+disease. Circulation 2001;103:1813-8. 
+48. 
+Ridker PM, Rifai N, Rose L, Buring JE, Cook NR. Comparison 
+of C-reactive protein and low-density lipoprotein cholesterol 
+levels in prediction of first cardiovascular events. N Engl J Med 
+2002;347:1557-65. 
+49. 
+Yokoe T, Minoguchi K, Matsue H, et al. Elevated levels of C-reactive 
+protein and interleukin-6 in patients with obstructive sleep 
+apnea syndrome are decreased by nasal continuous positive airway 
+pressure. Circulation 2003;107:1129-34. 
+50. 
+Tauman R, Ivanenko A, O’Brien LM, Gozal D. Plasma C-reactive 
+protein in children with sleep-disordered breathing. Pediatrics 
+2004;113:e564. 
+51. 
+Tang J-R, Le Cras TD, Morris Jr KG, Abman SH. Brief perinatal 
+hypoxia increases severity of pulmonary hypertension after reexposure 
+to hypoxia in infant rats. Am J Physiol Lung Cell Mol Physiol 
+2000;278:L356-64. 
+52. 
+Gozal D, Daniel JM, Dohanich GP. Behavioral and anatomical 
+correlates of chronic episodic hypoxia during sleep in the rat. J 
+Neurosci 2001;21:2442-50. 
+53. 
+Soukhova GK, Roberts AM, Lipton AJ, Gozal E, Gozal D. Early 
+postnatal exposure to intermittent hypoxia attenuates baroreflex 
+sensitivity in adult rats. Sleep 2002; 25:A335. 
+SLEEP, Vol. 28, No. 6, 2005 
+752 
+Autonomic Dysfunction in Apneic Children—O’Brien and Gozal 
+
+

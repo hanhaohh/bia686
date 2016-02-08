@@ -1,0 +1,353 @@
+The Laryngoscope 
+Lippincott Williams & Wilkins, Inc. 
+© 2006 The American Laryngological, 
+Rhinological and Otological Society, Inc. 
+Sleep-Disordered Breathing in Children: 
+Survey of Current Practice 
+Ron B. Mitchell, MD; Kevin D. Pereira, MD; Norman R. Friedman, MD 
+Objectives: The American Academy of Pediatrics 
+recommends objective testing with polysomnography 
+(PSG) before adenotonsillectomy for sleep-disordered 
+breathing (SDB) in children. Several studies have also 
+shown that a clinical diagnosis correlates poorly with 
+the presence or severity of SDB as confirmed by PSG. 
+The purpose of this study was to examine surgical 
+practice patterns among members of the American 
+Society of Pediatric Otolaryngologists (ASPO). Methods: 
+A questionnaire was sent electronically to all 
+members of ASPO asking about demographics, PSG 
+facilities, and pre- and postoperative management of 
+children with SDB. Results: A total of 245 questionnaires 
+were sent, and 105 (43%) were completed. 
+The results of the survey show that up to 50% of 
+pediatric visits in individual practices were for 
+SDB. Only 10% of children who underwent adenotonsillectomy 
+had PSG, and the most common reason 
+to request it was doubt about diagnosis. The 
+average wait for PSG was 3 to 6 weeks. Preoperative 
+PSG was routinely requested in children under 
+1 year of age and children with morbid obesity, 
+craniofacial abnormalities, or neuromuscular disease. 
+The majority of pediatric otolaryngologists 
+proceeded with an adenotonsillectomy in symptomatic 
+children with normal PSG findings. Postoperative 
+PSG was requested in less than 5% of children. 
+Approximately 20% of children who underwent adenotonsillectomy 
+for suspected SDB were observed 
+overnight in hospital. Conclusions: A majority of 
+respondents from this survey rely on a clinical 
+diagnosis rather than PSG to recommend an adenotonsillectomy 
+for SDB in children. PSG was 
+generally used when the diagnosis was in doubt. 
+Key Words: Pediatric sleep apnea, pediatric sleepdisordered 
+breathing, snoring, tonsillectomy. 
+Laryngoscope, 116:956–958, 2006 
+INTRODUCTION 
+Adenotonsillar hypertrophy is the main cause of 
+sleep-disordered breathing (SDB) in children, and there is 
+increasing evidence that adenotonsillectomy is effective at 
+improving sleep,1 daytime behavior, and quality-of-life.2 
+Over the last 20 years, there has been recognition of an 
+association between SDB and daytime behavioral problems 
+in children.3,4 
+Adenotonsillectomy has traditionally been performed 
+for recurrent streptococcal tonsillitis and its sequelae. 
+However, in recent times, the prevalence of SDB has made 
+it the primary indication for surgical excision of the tonsils 
+and adenoids in children.5 Several studies have also 
+shown that a clinical diagnosis correlates poorly with the 
+presence or severity of SDB as confirmed by polysomnography 
+(PSG).6 The present study examined the management 
+of children with SDB by members of the American 
+Society of Pediatric Otolaryngologists (ASPO). 
+MATERIALS AND METHODS 
+In March 2004, 245 questionnaires were sent electronically 
+to members of ASPO. A second survey was sent 30 days later to 
+nonresponders. The survey was anonymous but coded to identify 
+nonresponders and ensure elimination of multiple responses. 
+An 18–question survey was designed that asked about the 
+preoperative and postoperative management of children with 
+SDB. The investigators designed the survey after a thorough 
+review of the literature. The survey was pilot tested by five 
+pediatric otolaryngologists and ambiguities corrected. It was then 
+peer–reviewed by two ASPO members anonymously, and their 
+comments were included in the survey. The survey had four 
+domains: demographic information, sleep-laboratory facilities, 
+preoperative management, and postoperative management. Each 
+question had specific choices from a drop-down menu, and none of 
+the questions had an open-ended component. The survey was 
+limited to two pages to optimize the response rate. 
+The data were reported as a percentage of total response to 
+each question. Variables were cross-tabulated, and a Pearson 
+chi-square was used for statistical analysis (SPSS version 12, 
+Chicago, IL). The level of significance was set at P  .05. 
+From the Departments of Otolaryngology and Pediatrics (R.B.M.), VA 
+Commonwealth University, Richmond, Virginia, U.S.A., the Department of 
+Otolaryngology–Head and Neck Surgery (K.D.P.), The University of Texas 
+Medical School at Houston, Houston, Texas, U.S.A., and the Department of 
+Otolaryngology (N.R.F.), University of Colorado Health Sciences Center, 
+Denver, Colorado, U.S.A. 
+Editor’s Note: This Manuscript was accepted for publication February 
+13, 2006. 
+This study was presented at the annual meeting of the American 
+Society for Pediatric Otolaryngology, Las Vegas, Nevada, U.S.A., May 28, 
+2005. 
+Send Correspondence to Dr. Ron B. Mitchell, VA Commonwealth 
+University, Department of Otolaryngology, PO Box 980146, Richmond, VA 
+23298. E-mail: rbmitchell@vcu.edu 
+DOI: 10.1097/01.MLG.0000216413.22408.FD 
+Laryngoscope 116: June 2006 Mitchell et al.: Sleep-Disordered Breathing in Children 
+956
+
+RESULTS 
+Of the 245 questionnaires, 97 were returned within 
+30 days, and 12 more were returned after a second mailing. 
+Two were incomplete and were excluded. Therefore, 
+107 (44%) were considered for analysis. Twenty-six percent 
+of respondents reported being in practice for more 
+than 20 years, 45% between 10 and 20 years, 27% between 
+5 and 10 years, and 2% less than 5 years. Seventy-two 
+percent completed a pediatric otolaryngology fellowship, 
+and 84% practiced in a children’s hospital. The majority of 
+pediatric otolaryngologists (89%) reported that 10% to 
+50% of their practice involved the management of children 
+with a sleep disturbance. 
+Sleep Laboratory Facilities 
+Eighty-three percent of respondents had access to a 
+sleep laboratory, and for 67% of respondents, this was a 
+dedicated pediatric facility. For 43% of respondents, a 
+pediatric sleep study involved a wait of more than 6 
+weeks. 
+Preoperative Evaluation 
+In the majority of children with a sleep disturbance, 
+the diagnosis of SDB was based on clinical criteria. 
+Seventy-five percent of respondents requested PSG in less 
+than 10% of children who presented with a sleep disturbance. 
+Doubt about the diagnosis of SDB was the most 
+common reason (60%) to request PSG. Other reasons included 
+identifying children who require postoperative 
+monitoring (31%) and parental request for PSG (4%). For 
+the following groups of children, respondents routinely 
+requested preoperative PSG: children under 1 year (50%), 
+children 1 to 3 years old (28%), children with morbid 
+obesity (54%), children with Down syndrome (38%), children 
+with craniofacial abnormalities (58%), children with 
+neuromuscular disease (62%), and premature children 
+(11%). 
+Sixty-five percent of respondents relied entirely on 
+the written interpretation of the PSG report. The most 
+important factors in the report were the minimum O2 
+saturation (77%) and the respiratory disturbance index 
+(64%). The majority (64%) of responding pediatric otolaryngologists 
+would proceed with an adenotonsillectomy 
+when the clinical picture strongly suggested SDB irrespective 
+of whether the diagnosis was confirmed by PSG. 
+Postoperative Evaluation 
+Eighty-seven percent of responding pediatric otolaryngologists 
+requested postoperative PSG in 10% or less of 
+children after adenotonsillectomy for SDB. The groups of 
+children in whom respondents routinely requested postoperative 
+PSG included children under 1 (13%), children 1 
+to 3 years old (6%), children with morbid obesity (31%), 
+children with Down syndrome (18%), children with craniofacial 
+abnormalities (24%), children with neuromuscular 
+disease (29%), and premature children (4%). The majority 
+of children were not observed overnight postoperatively, 
+with the most important reasons for overnight observation 
+being associated comorbidities, age of child, and severity 
+of sleep study. 
+Responding pediatric otolaryngologists requested the 
+same percentage of preoperative and postoperative PSG 
+regardless of the respondent’s years in practice, length of 
+wait for PSG, or whether they practiced in a children’s 
+hospital. A comparison of age, sex, and years in practice 
+was not significant for first and second responders. A 
+comparison of age and sex for responders and nonresponders 
+showed no significant difference between the 
+groups. 
+DISCUSSION 
+The present study shows that the overwhelming majority 
+of pediatric otolaryngologists rely on a clinical diagnosis 
+of SDB rather than PSG to schedule surgery. Parents 
+often report snoring, restless sleep, and breathholding 
+episodes in their children. Daytime symptoms 
+include excessive somnolence, hyperactivity, and aggressive 
+behavior. When these signs and symptoms are 
+present, and examination confirms adenotonsillar hypertrophy, 
+a majority of respondents would proceed with surgical 
+therapy despite a normal PSG. 
+Children with SDB make up a significant part of 
+most pediatric otolaryngology practices. Rosenfeld and 
+Green5 reviewed 1,722 tonsil and adenoid procedures over 
+a 9 year period and showed that SDB, as an indication for 
+surgery, increased from 0% to 19% over this period. They 
+predicted that this trend was likely to continue. Indeed, 
+this study confirms that for the majority of pediatric otolaryngologists, 
+the assessment of children with a sleep 
+disturbance makes up from 10% to 50% of their practice. 
+There is ongoing debate as to the role of PSG in the 
+preoperative management of children with SDB. The 
+American Academy of Pediatrics7 in a clinical practice 
+guideline on the diagnosis and management of childhood 
+SDB recommends that children be routinely screened for 
+snoring. In children who are symptomatic, PSG is recommended 
+as the diagnostic test of choice. An official statement 
+of the American Thoracic Society8 gives similar recommendations. 
+In the latter document, there is an 
+additional recommendation that in children with significant 
+airway obstruction, PSG may be deferred to proceed 
+with therapy expeditiously. The present study highlights 
+some of the difficulties in following these recommendations. 
+In this survey, 17% of respondents did not have 
+access to a sleep laboratory, and 40% did not have access 
+to a dedicated pediatric facility. In addition, over 50% 
+waited for 6 weeks or longer to obtain PSG. Clearly, routine 
+preoperative PSG in all children with suspected SDB 
+is currently not feasible. 
+Preoperative PSG is requested more frequently by 
+pediatric otolaryngologists in certain “high-risk” groups of 
+children, including those under 3 years, in children with 
+obesity, children with Down syndrome, children with 
+craniofacial abnormalities, and children with neuromuscular 
+disease. There is evidence that children under 3 
+years of age and those with comorbidities such as Down 
+syndrome and neuromuscular disease9–11 are at a high 
+risk of postoperative respiratory compromise requiring 
+intervention. Preoperative PSG findings have been shown 
+to accurately predict those children who would most benefit 
+from a planned admission.9 In addition, preoperative 
+PSG can be a useful baseline measure in children who are 
+Laryngoscope 116: June 2006 Mitchell et al.: Sleep-Disordered Breathing in Children 
+957
+
+less likely to see resolution of SDB after adenotonsillectomy 
+and may require further intervention. Nevertheless, 
+preoperative PSG is not routinely requested in high-risk 
+children. The majority of pediatric otolaryngologists considered 
+children under 3 and those with obesity, craniofacial 
+abnormalities, and neuromuscular disease as most in 
+need of preoperative PSG. 
+Pediatric otolaryngologists rarely request postoperative 
+PSG. The majority of respondents request postoperative 
+PSG in less than 10% of children. The rate of postoperative 
+PSG is higher in children under 3 years of age and 
+in those with significant comorbidities. Interestingly, the 
+most common reason for routine postoperative PSG was 
+obesity. Both the American Academy of Pediatrics7,12 and 
+the American Thoracic Society8 recommend that children 
+be reevaluated after surgical therapy for SDB and that 
+those who remain symptomatic and high-risk patients 
+undergo objective testing with PSG. Indeed Suen et al.1 
+studied 26 children with SDB with preoperative and postoperative 
+PSG. Four (15%) children had persistent SDB 
+postoperatively, and in all of these children, the parents 
+reported persistent snoring. More research is clearly 
+needed to examine whether the current practice of selective 
+postoperative PSG by pediatric otolaryngologists is 
+adequate for the children with persistent SDB after 
+adenotonsillectomy. 
+The majority of children with SDB are not observed 
+overnight postoperatively. The most important reasons for 
+overnight observation is the young age of the child, associated 
+comorbidities, and severity of preoperative PSG. 
+Krishna et al.13 surveyed 418 randomly selected otolaryngologists 
+and reported a significant variation in admission 
+criteria after adenotonsillectomy. Children under 3, those 
+with severe SDB, or children with significant comorbidities 
+were most likely to be observed overnight. Although 
+criteria for overnight observation of children after adenotonsillectomy 
+for SDB varies widely, it is clear that the 
+majority of children are discharged on the day of surgery. 
+It is likely that this trend will continue. 
+The strength of this study is that it included the 
+practice patterns of over 100 pediatric otolaryngologists 
+from a broad geographic base and drawn from a national 
+professional society. The anonymity of the survey ensured 
+that participants could freely answer the questions without 
+medicolegal concerns. Several limitations need to be 
+recognized. First, the response rate of 44% was low but in 
+keeping with previous surveys.13,14 There was no way of 
+surveying nonresponders and comparing their answers 
+with responders. The study was also directed at ASPO 
+members, who may not represent the practice patterns of 
+non-ASPO otolaryngologists. 
+Despite these limitations, the present study does 
+characterize the management of children with SDB by 
+pediatric otolaryngologists. The majority of children with 
+SDB undergo adenotonsillectomy without preoperative 
+PSG, and they are rarely observed overnight after surgery 
+or undergo postoperative PSG. The current practice of 
+pediatric otolaryngologists differs from the recommendations 
+of the American Academy of Pediatrics7,12 and the 
+American Thoracic Society.8 To achieve compliance, objective 
+criteria for the use of PSG to justify adenotonsillectomy 
+in children with SDB are required. Research to develop 
+these criteria would establish age- and sex-specific 
+criteria based on statistical analysis of the following data: 
+PSG findings; clinical findings; parental reports; patient 
+demographics; and comorbidities. Child behavior and 
+quality of life2–4 may also play a role in the evaluation of 
+therapy for SDB. A long-term research project to develop 
+objective criteria for adenotonsillectomy is currently in 
+progress on the basis of a large sample of children with 
+SDB. 
+CONCLUSIONS 
+The majority of children with SDB undergo adenotonsillectomy 
+without preoperative PSG, and they are 
+rarely observed overnight after surgery or undergo postoperative 
+PSG. The current practice of pediatric otolaryngologists 
+differs from the recommendations of the American 
+Academy of Pediatrics and the American Thoracic 
+Society. 
+BIBLIOGRAPHY 
+1. Suen JS, Arnold JE, Brooks LJ. Adenotonsillectomy for treatment 
+of obstructive sleep apnea in children. Arch Otolaryngol 
+Head Neck Surg 1995;121:525–530. 
+2. Mitchell RB, Kelly J, Call E, et al. Quality of life after adenotonsillectomy 
+for obstructive sleep apnea in children. Arch 
+Otolaryngol Head Neck Surg 2004;130:190–194. 
+3. Goldstein NA, Post JC, Rosenfeld RM, et al. Impact of tonsillectomy 
+and adenoidectomy on child behavior. Arch Otolaryngol 
+Head Neck Surg 2000;126:494–498. 
+4. Goldstein NA, Fatima M, Campbell TF, et al. Child behavior 
+and quality of life before and after tonsillectomy and adenoidectomy. 
+Arch Otolaryngol Head Neck Surg 2002;128: 
+770–775. 
+5. Rosenfeld RM, Green RP. Tonsillectomy and adenoidectomy: 
+changing trends. Ann Otol Rhinol Laryngol 1990;99: 
+187–191. 
+6. Brietzke SE, Katz ES, Roberson DW. Can history and physical 
+examination reliably diagnose pediatric obstructive 
+sleep apnea/hypopnea syndrome? A systematic review of 
+the literature. Otolaryngol Head Neck Surg 2004;131: 
+827–832. 
+7. Clinical practice guideline: diagnosis and management of 
+childhood obstructive sleep apnea syndrome. Pediatrics 
+2002;109:704–712. 
+8. American Thoracic Society. Standards and indications for 
+cardiopulmonary sleep studies in children. Am J Respir 
+Crit Care Med 1996;153:866–878. 
+9. McColley SA, April MM, Carroll JL, et al. Respiratory compromise 
+after adenotonsillectomy in children with obstructive 
+sleep apnea. Arch Otolaryngol Head Neck Surg 1992; 
+118:940–943. 
+10. Mitchell RB, Kelly J. Adenotonsillectomy for obstructive 
+sleep apnea in obese children. Otolaryngol Head Neck Surg 
+2004;131:104–108. 
+11. Biavati MJ, Manning SC, Phillips DL. Predictive factors for 
+respiratory complications after tonsillectomy and adenoidectomy 
+in children. Arch Otolaryngol Head Neck Surg 
+1997;123:517–521. 
+12. Schechter MS. Technical report: diagnosis and management 
+of childhood obstructive sleep apnea syndrome. Pediatrics 
+2002;109:e69. 
+13. Krishna P, LaPage MJ, Hughes LF, et al. Current practice 
+patterns in tonsillectomy and perioperative care. Int J Pediatr 
+Otorhinolaryngol 2004;68:779–784. 
+14. Weatherly RA, Mai EF, Ruzicka DL, et al. Identification and 
+evaluation of obstructive sleep apnea prior to adenotonsillectomy 
+in children: a survey of practice patterns. Sleep 
+Med 2003;4:297–307. 
+Laryngoscope 116: June 2006 Mitchell et al.: Sleep-Disordered Breathing in Children 
+958
+

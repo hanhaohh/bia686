@@ -1,0 +1,1941 @@
+Changes 
+in 
+Upper 
+Airway 
+Size 
+during 
+Tidal 
+Breathing 
+in 
+Children 
+with 
+Obstructive 
+Sleep 
+Apnea 
+Syndrome 
+
+
+Raanan 
+Arens, 
+Sanghun 
+Sin, 
+Joseph 
+M. 
+McDonough, 
+John 
+M. 
+Palmer, 
+Troy 
+Dominguez, 
+Heiko 
+Meyer, 
+David 
+M. 
+Wootton, 
+and 
+Allan 
+I. 
+Pack 
+
+
+Divisions 
+of 
+Pulmonary 
+Medicine, 
+Critical 
+Care, 
+the 
+Children’s 
+Hospital 
+of 
+Philadelphia; 
+Siemens 
+Medical 
+Solutions 
+USA, 
+Inc.; 
+Department 
+of 
+Mechanical 
+Engineering 
+and 
+Mechanics, 
+Drexel 
+University; 
+and 
+Division 
+of 
+Sleep 
+Medicine, 
+Hospital 
+of 
+the 
+University 
+of 
+Pennsylvania, 
+University 
+of 
+Pennsylvania 
+School 
+of 
+Medicine, 
+Philadelphia, 
+Pennsylvania 
+
+
+We 
+performed 
+respiratory-gated 
+magnetic 
+resonance 
+imaging 
+to 
+evaluate 
+airway 
+dynamics 
+during 
+tidal 
+breathing 
+in 
+10 
+children 
+with 
+obstructive 
+sleep 
+apnea 
+syndrome 
+(OSAS; 
+age, 
+4.3 
+. 
+2.3 
+years) 
+and 
+10matchedcontrolsubjects(age, 
+5.0 
+. 
+2.0years).Wehypothesized 
+that 
+respiratory 
+cycle 
+fluctuations 
+in 
+upper 
+airway 
+cross-sectional 
+area 
+would 
+be 
+larger 
+in 
+children 
+with 
+OSAS. 
+Methods: 
+Studies 
+were 
+performed 
+under 
+sedation. 
+Respiratory 
+gating 
+was 
+performed 
+automatically 
+at 
+10, 
+30, 
+50, 
+70, 
+and 
+90% 
+of 
+inspiratory 
+and 
+expiratory 
+volume. 
+Airwaycross-sectionalareawas 
+measuredatfour 
+ascending 
+oropharyngeal 
+levels 
+at 
+each 
+increment 
+of 
+the 
+respiratory 
+cycle. 
+Results: 
+We 
+noted 
+the 
+following 
+in 
+subjects 
+with 
+OSAS 
+compared 
+with 
+control 
+subjects: 
+(1) 
+a 
+smaller 
+upper 
+airway 
+cross-sectional 
+area, 
+particularly 
+during 
+inspiration; 
+(2) 
+airway 
+narrowing 
+occurred 
+during 
+inspiration 
+without 
+evidence 
+of 
+complete 
+airway 
+collapse; 
+
+
+(3) 
+airway 
+dilatation 
+occurred 
+during 
+expiration, 
+particularly 
+early 
+inthe 
+phase;and 
+(4)magnitude 
+ofcross-sectional 
+areasfluctuations 
+during 
+tidal 
+breathing 
+noted 
+in 
+OSAS 
+at 
+levels 
+1 
+through 
+4 
+were 
+317, 
+422, 
+785, 
+and 
+922%, 
+compared 
+with 
+19, 
+15 
+17, 
+and 
+24% 
+in 
+control 
+subjects 
+(p 
+. 
+0.001, 
+p 
+. 
+0.005, 
+p 
+. 
+0.001, 
+and 
+p 
+. 
+0.001, 
+respectively). 
+Conclusions: 
+Fluctuations 
+in 
+airway 
+area 
+during 
+tidal 
+breathing 
+are 
+significantly 
+greater 
+in 
+subjects 
+with 
+OSAS 
+compared 
+with 
+control 
+subjects. 
+Resistive 
+pressure 
+loading 
+is 
+a 
+probable 
+explanation, 
+although 
+increased 
+airway 
+compliance 
+may 
+be 
+a 
+contributing 
+factor. 
+Keywords: 
+magnetic 
+resonance 
+imaging 
+(MRI); 
+respiratory-gated 
+MRI; 
+upper 
+airway 
+
+
+Obstructive sleep apnea syndrome (OSAS) in children is a common 
+disorder and may affect as many as 2% of children (1, 2). 
+Frequently, OSAS is associated with adenoid and/or tonsillar 
+hypertrophy. However, other anatomic and physiologic factors 
+affecting upper airway size, shape, and function may play a role 
+in the causation of OSAS in children (3). 
+
+Studies suggest that the upper airway in children with OSAS 
+is more collapsible compared with control subjects during wakefulness 
+and sleep, and under general anesthesia (4–6). Several 
+mechanisms may lead to more airway collapse in these subjects, 
+including the following: decreased motor tone, increased airway 
+compliance, and excessive inspiratory driving pressures caused 
+by proximal airway narrowing. This increased propensity of the 
+
+(Received 
+in 
+original 
+form 
+November 
+29, 
+2004; 
+accepted 
+in 
+final 
+form 
+February 
+25, 
+2005) 
+
+
+Supported 
+by 
+grants 
+HL-62408 
+and 
+MO1-RR00240 
+from 
+the 
+National 
+Institutes 
+of 
+Health. 
+
+
+Correspondence 
+and 
+requests 
+for 
+reprints 
+should 
+be 
+addressed 
+to 
+Raanan 
+Arens, 
+M.D., 
+Division 
+of 
+Pulmonary 
+Medicine, 
+The 
+Children’s 
+Hospital 
+of 
+Philadelphia, 
+34th 
+Street 
+and 
+Civic 
+Center 
+Boulevard, 
+Philadelphia, 
+PA 
+19104-4399. 
+E-mail: 
+arens@email.chop.edu 
+
+
+This 
+article 
+has 
+an 
+online 
+supplement, 
+which 
+is 
+accessible 
+from 
+this 
+issue’s 
+table 
+of 
+contents 
+at 
+www.atsjournals.org 
+
+
+Am 
+J 
+Respir 
+Crit 
+Care 
+Med 
+Vol 
+171. 
+pp 
+1298–1304, 
+2005 
+Originally 
+Published 
+in 
+Press 
+as 
+DOI: 
+10.1164/rccm.200411-1597OC 
+on 
+March 
+4, 
+2005 
+Internet 
+address: 
+www.atsjournals.org 
+
+
+airway to collapse should be reflected by increased motion of 
+airway boundary during respiration as negative upper airway 
+intraluminal pressure is increased. Hence, the quantification of 
+such changes during respiration is important in understanding 
+the pathogenesis of OSAS in children. 
+
+Various techniques have been used in recent years to detect 
+dynamic changes in the upper airway including the following: 
+fluoroscopy, cine computed tomography, and fast magnetic resonance 
+imaging (MRI) (7–12). However, newer methodologies 
+capable of gating image acquisition to the respiratory cycle are 
+now becoming available and may further enhance our knowledge 
+about the temporal sequence leading to OSAS. 
+
+To this end, we used respiratory-gated MRI to quantify changes 
+in shape and airway cross-section area during tidal breathing in 
+children with OSAS as compared with control subjects. We hypothesized 
+that changes in upper airway cross-sectional area during 
+tidal breathing will be larger in children with OSAS and 
+that maximal narrowing will occur during inspiration when more 
+negative intraluminal pressures are present. 
+
+METHODS 
+
+
+The study was approved by the Institutional Review Board of the 
+Children’s Hospital of Philadelphia. Informed consent was obtained 
+from each subject’s parent, and assent was obtained from children older 
+than 6 years. 
+
+Subjects 
+
+
+Children with OSAS were recruited from the pool of patients evaluated 
+for sleep-disordered breathing and adenotonsillar hypertrophy at the 
+Children’s Hospital of Philadelphia. After OSAS was confirmed by 
+polysomnography, these subjects underwent an upper airway MRI 
+under sedation. 
+
+Control children with normal growth and development and intact 
+tonsils and adenoids were matched to subjects with OSAS. Adenoid 
+and/or tonsillar hypertrophy per 
+se 
+did not exclude them from the study 
+if they did not have symptoms suggestive of OSAS (13). Control subjects 
+were selected from patients who underwent head MRI for other medical 
+indications. Parents gave consent for an upper airway MRI that followed 
+head MRI, with no additional sedation. 
+
+Exclusion criteria for control subjects included the following: (1 
+) 
+likelihood of OSAS assessed by standard questionnaire (13); (2 
+) evidence 
+of a brain tumor or a seizure disorder requiring therapy; (3) genetic 
+disorders associated with any craniofacial anomaly; or (4 
+) chronic respiratory 
+disease, such as asthma. 
+
+Overnight 
+Polysomnography 
+
+
+For subjects with OSAS, polysomnography was performed 0 to 4 weeks 
+before MRI. Subjects were studied in the Sleep Disorders Center at 
+the Children’s Hospital of Philadelphia. The scoring of respiratory 
+variables was performed based on standards set by the American Thoracic 
+Society and previously published data in children (14, 15). Flow was 
+measured using an oral/nasal thermistor and a nasal end-tidal Pco2 catheter. 
+We used the definition of obstructive apnea as the absence of oral/ 
+nasal thermistor signal for at least two respiratory cycles associated 
+with out-of-phase movement of the rib cage and abdomen. Hypopnea 
+
+
+Arens, 
+Sin, 
+McDonough, 
+et 
+al.: 
+Upper 
+Airway 
+Size 
+during 
+Tidal 
+Breathing 
+
+
+was defined as a decrease of 50% or more in oral/nasal thermistor 
+signal and a concurrent fall in 4% or more of basal oxygen saturation. 
+Sleep stages were determined by the criteria of Rechtschaffen and 
+Kales (16). Control subjects did not undergo polysomnography; sleep-
+disordered breathing in these subjects was excluded by a validated 
+questionnaire (13). 
+
+Sleep 
+Questionnaire 
+
+
+Symptoms of sleep-disordered breathing were assessed according to a 
+questionnaire developed by Brouillette and coworkers (13). Subjects 
+with scores below –1 are not expected to have OSAS; a score between 
+–1 and 3.5 is considered intermediate, and a score greater than 3.5 is 
+considered highly suggestive of OSAS. 
+
+MRI 
+
+
+MRI studies were performed in the Department of Radiology at the 
+Children’s Hospital of Philadelphia. All studies were performed under 
+sedation. Sedation was administered as intravenous pentobarbital of 
+2-mg/kg increments until patients were sedated well enough to render 
+their eyes closed and not move or arouse unless by a verbal or physical 
+stimuli. A maximum of three doses or 200 mg was administered. All 
+subjects were monitored continuously by pulse oximetry and were observed 
+by an intensive care unit physician until recovery (. 
+1 hour). 
+
+Images were acquired using a standard, circular, polarized head coil. 
+The patient’s head was positioned supine in the soft tissue Frankfort 
+plane (tragus of the ear to orbital fissure) perpendicular to the table. 
+Axial images were obtained on a 1.5-T Siemens Sonata system (Malvern, 
+PA), using a two-dimensional trueFISP sequence with the following 
+parameters: repetition time/echo time (TR/TE)/4.6/2.3/50; field of 
+view (FOV) 20 0 1 50; matrix (MA) 25 6 1 92; half-Fourier 
+acquisition, acquisition time 300 milliseconds/slice. 
+
+Respiratory gating was performed using the Siemens Sonata gating 
+system. A single respiratory bellows was placed around the lower chest/ 
+upper abdomen to obtain an expansion and contraction synchronous 
+with tidal breath inspiratory and expiratory volumes. The bellows-based 
+Vt 
+waveform signal triggered the scanner at preset volume percentage 
+increments. Data for a 40-mm-thick axial slab from the level of the 
+epiglottis to the upper nasopharynx (Figure 1) were obtained by acquiring 
+10 4-mm-thick slices (0 gap) during 10 successive breaths, each slice 
+gated to the same increment in Vt. Ten slabs were acquired at the 
+following increments: 10, 30, 50, 70, and 90% of inspiration, and 90, 
+70, 50, 30, and 10% of expiration. 
+
+Upper airway cross-sectional areas from four consecutive cross-
+sectional levels 4 mm apart from above the tip of the epiglottis (Figure 
+1) during 10 phases of tidal breathing were measured using Volumetric 
+Image Display and Analysis (Department of Radiology, University 
+of Iowa, Ames, IA) (VIDA) (17, 18). The following analyses were 
+performed: 
+
+1. Cross-sectional area during each phase of inspiration/expiration. 
+2. Minimal cross-sectional area during inspiration. 
+3. Maximal cross-sectional area during expiration. 
+Figure 
+1. 
+Midsagittal 
+magnetic 
+resonance 
+image 
+demonstrating 
+the 
+four 
+ascending 
+levels 
+for 
+analysis 
+(thick 
+dotted 
+lines). 
+Level 
+1 
+is 
+4 
+mm 
+above 
+tip 
+of 
+epiglottis. 
+
+
+4. 
+Group mean of the greatest percentage changes in cross-sectional 
+area during a tidal breath ([area maxexpiration area mininspiration]/ 
+area mininspiration) 100. 
+5. Upper airway shape change during inspiration/expiration: to 
+quantify and compare anteroposterior (A-P) and lateral dimension 
+changes in the airway cross-sections, we measured the maximum 
+width along these axes for each image slice. Results for 
+all subjects were averaged for each gated volume phase and 
+oropharyngeal level. The measured A-P and lateral dimensions 
+were used to create a simple geometric model of the airway cross-
+sections, based on an ellipse. 
+Validation 
+of 
+Gating 
+System 
+
+
+We assessed the accuracy of the Siemens bellows triggering system in 
+a normal, awake, adult volunteer by measuring the timing of the gating 
+signal of the Siemens Sonata bellows volume trigger signal concurrently 
+with the gating signal produced by a mask/pneumotach-based system 
+at each volume level (10, 30, 50, 70, and 90% of inspiration, and 90, 70, 
+50, 30, and 10% of expiration). This measurement was repeated 10 times 
+at each phase of tidal breathing. We later determined the percentage 
+differences between each system’s triggering times. 
+
+Sample 
+Size 
+and 
+Data 
+Analysis 
+
+
+A sample size of 10 subjects in each group was required to obtain 88% 
+power to detect an effect size of 1.5 SD using a two-group t 
+test with a 0.05 
+two-sided significance level. This effect size assumption was calculated on 
+the basis of a previous study of ours assessing mean airway cross-sectional 
+area in subjects with OSAS and control subjects (18). 
+
+Mean and SD were used to summarize continuous variables. For 
+comparisons between the groups for MRI data, demographics, and 
+questionnaire data, we used a two-tailed unpaired t 
+test, Wilcoxon rank 
+test, or 2 test, as appropriate. A p value of 0.05 or less was considered 
+to indicate statistical significance. 
+
+RESULTS 
+
+
+We studied 10 sequential children with adenotonsillar hypertrophy 
+and OSAS; their mean age was 4.3 . 
+2.3 years (range, 
+2.0–7.2 years). The recruitment rate for subjects with OSAS was 
+30%. In addition, 10 control subjects were studied; their mean 
+age was 5.0 2.0 years (range, 2.6–8.0 years). Control subjects 
+were not significantly different from subjects with OSAS with 
+respect to age, sex, ethnicity, height, or weight (Table 1). All 
+subjects had normal development and cognitive function, intact 
+tonsils and adenoids, and no respiratory disorders or craniofacial 
+anomalies. The primary indications for head MRI in control 
+subjects were as follows: migraine/headache (six subjects), single 
+seizure/febrile convulsion (three subjects), and external ear mass 
+(one subject). Thus, none of these clinical indications would be 
+expected to affect upper airway anatomy. 
+
+TABLE 
+1. 
+DEMOGRAPHIC 
+DATA 
+
+
+Subjects 
+with 
+OSAS 
+(n 
+10) 
+Control 
+Subjects 
+(n 
+10) 
+Age, 
+yr 
+Sex, 
+male/female 
+Ethnicity, 
+AA/white 
+Height, 
+cm 
+Weight, 
+kg 
+BMI 
+4.3 
+2.3 
+8/2 
+4/6 
+104 
+18 
+21.2 
+10.1 
+18.7 
+3.9 
+5.0 
+2.0 
+7/3 
+4/6 
+108 
+16 
+21.1 
+7.3 
+17.8 
+2.3 
+
+
+Definition 
+of 
+abbreviations:AA 
+African 
+American; 
+BMI 
+body 
+mass 
+index; 
+OSAS 
+obstructive 
+sleep 
+apnea 
+syndrome. 
+
+
+Values 
+represent 
+means 
+SD; 
+p 
+not 
+significant. 
+
+
+
+1300 
+AMERICAN 
+JOURNAL 
+OF 
+RESPIRATORY 
+AND 
+CRITICAL 
+CARE 
+MEDICINE 
+VOL 
+171 
+2005 
+
+
+Polysomnography 
+
+
+For subjects with OSAS the mean total sleep time during polysomnography 
+was 8.1 . 
+0.7 hours (Table 2). The mean respiratory 
+variables values during this period were as follows: apnea index, 
+
+1.5 . 
+1.9; apnea–hypopnea index, 5.7 . 
+4.7; SpO2 nadir, 85 . 
+5%; peak end-tidal CO2,50 . 
+6 mm Hg; and arousal/awakening 
+index, 16.8 . 
+3.6. Thus, these data suggest mild–moderate OSAS 
+in this group. 
+Sleep 
+Questionnaire 
+
+
+All control subjects had an apnea score of less than –1, indicating 
+the unlikelihood of OSA (10), and as a group, had a mean apnea 
+score of –3.83 . 
+0.0. This score was significantly lower than the 
+apnea score noted in the OSAS group of 2.06 . 
+1.33 (p . 
+0.0001). 
+
+MRI 
+
+
+Mean changes in cross-sectional areas at four ascending oropharyngeal 
+levels during 10 phases of tidal breathing (five inspiratory 
+phases and five expiratory phases) of subjects with OSAS and 
+control subjects are presented in Figure 2. Areas at 0 and 100% 
+of Vt 
+are estimated as the midpoint between measured values 
+(dashed lines). A representative comparison of changes in cross-
+sectional area at midtonsillar level (level 2) during tidal breathing 
+of a subject with OSAS and a control subject is presented in 
+Figure 3. Movies showing gated dynamic images during tidal 
+breathing in a subject with OSAS and control subject are available 
+in the online supplement (Figure E1). 
+
+Changes 
+in 
+cross-sectional 
+area 
+during 
+inspiration/expiration. 
+There is a significantly smaller upper airway cross-sectional area 
+during tidal breathing at most volume increments in subjects 
+with OSAS compared with control subjects, particularly during 
+inspiration (Figure 2). There is also a much larger dynamic change 
+in cross-sectional area in subjects with OSAS throughout the respiratory 
+cycle, compared with the relatively constant cross-sectional 
+area throughout tidal breathing in the control subjects. We now 
+provide quantitative data on these dynamic changes. 
+
+Minimal 
+cross-sectional 
+area 
+measurements 
+during 
+inspiration. 
+Children with OSAS exhibited significantly smaller cross-sectional 
+area at oropharyngeal levels 1, 2, 3, and 4 compared with control 
+subjects (p . 
+0.0001, for all). A trend for a narrower airway at 
+the higher oropharyngeal levels was noted (Figure 4). 
+
+Maximal 
+cross-sectional 
+area 
+measurements 
+during 
+expiration. 
+Maximal cross-sectional area measurements at each oropharyngeal 
+level were similar in subjects with OSAS and control subjects 
+during expiration (p . 
+not significant; Figure 5). 
+
+Percentage 
+of 
+change 
+in 
+upper 
+airway 
+cross-sectional 
+area 
+during 
+expiration/inspiration. 
+Changes in cross-sectional areas from 
+inspiration minimum to expiration maximum with respiration 
+were much larger at all oropharyngeal levels in subjects with 
+OSAS as compared with control subjects (Figure 6). Changes 
+
+TABLE 
+2. 
+POLYSOMNOGRAPHY 
+
+
+OSAS 
+(n 
+. 
+10) 
+
+
+TST, 
+h 
+8.1 
+. 
+0.7 
+Apnea 
+index 
+1.5 
+. 
+1.9 
+Apnea–hypopnea 
+index 
+5.7 
+. 
+4.7 
+Arousal/awakening 
+index 
+16.8 
+. 
+3.6 
+SpO2 
+nadir, 
+% 
+85 
+. 
+5 
+End-tidal 
+CO2,mmHg 
+50 
+. 
+6 
+
+
+Definition 
+of 
+abbreviations: 
+OSAS 
+. 
+obstructive 
+sleep 
+apnea 
+syndrome; 
+TST 
+. 
+total 
+sleep 
+time. 
+
+
+Values 
+represent 
+means 
+. 
+SD. 
+
+
+noted in OSAS at levels 1 to 4 were as follows: 317, 422, 785, and 
+922%, compared with 19, 15, 17, and 24% noted in control subjects 
+(p . 
+0.001, p . 
+0.005, p . 
+0.001, and p . 
+0.001, respectively). 
+
+Shape 
+analysis. 
+Airway configuration in OSAS differed significantly 
+from control subjects in both inspiration and expiration. 
+Results for all subjects were averaged for each gated volume 
+phase and oropharyngeal level and are shown in Figure 7. Consecutive 
+volume phases along each inspiration and expiration 
+
+
+Figure 
+2. 
+Mean 
+upper 
+airway 
+cross-sectional 
+area 
+at 
+5-vol 
+increments 
+of 
+inspiration 
+and 
+5-vol 
+increments 
+of 
+expiration 
+as 
+percentage 
+of 
+VT. 
+Subjects 
+with 
+obstructive 
+sleep 
+apnea 
+syndrome 
+(OSAS) 
+are 
+shown 
+in 
+red, 
+control 
+subjects 
+in 
+blue. 
+Inspiration: 
+open 
+triangles/squares; 
+expiration: 
+closed 
+triangles/squares. 
+Dashed 
+segments 
+represent 
+estimated 
+changes. 
+*p 
+. 
+0.05; 
+**p 
+. 
+0.001; 
+***p 
+. 
+0.0001. 
+
+
+
+Arens, 
+Sin, 
+McDonough, 
+et 
+al.: 
+Upper 
+Airway 
+Size 
+during 
+Tidal 
+Breathing 
+
+
+
+Figure 
+3. 
+Dynamic 
+changes 
+in 
+cross-sectional 
+area 
+at 
+midtonsillar 
+level 
+(level 
+2) 
+during 
+tidal 
+breathing 
+(5-vol 
+increments 
+of 
+inspiration 
+[Ins], 
+5-vol 
+increments 
+of 
+expiration 
+[Exp]) 
+of 
+control 
+subjects 
+(top 
+panels) 
+and 
+subjects 
+with 
+OSAS 
+(bottom 
+panels). 
+Note 
+differences 
+in 
+anteroposterior 
+(A-P) 
+and 
+lateral 
+airway 
+dimension. 
+
+
+are connected by lines. It can be seen that control dimensions 
+through the breathing cycle change very little as compared with 
+the OSAS in both A-P and lateral dimensions. The mean percentage 
+of change in control subjects ranged in the A-P dimension 
+between 0.9 and 2.1%, and in the lateral dimension 
+between 2.3 and 2.9%, compared with 49 to 82% in the A-P 
+and 32 to 91% in the lateral dimensions in OSAS, respectively. 
+The elliptically modeled OSAS cross-sections illustrate a narrowing 
+in the lateral dimension as compared with the A-P, which 
+
+
+Figure 
+5. 
+Mean 
+and 
+SD 
+of 
+maximal 
+upper 
+airway 
+cross-sectional 
+area 
+at 
+four 
+oropharyngeal 
+levels 
+(detailed 
+in 
+Figure 
+1) 
+during 
+expiration. 
+There 
+is 
+no 
+significant 
+difference 
+between 
+subjects 
+with 
+OSAS 
+and 
+control 
+subjects. 
+
+
+is more pronounced at higher levels above the epiglottis (Figure 7). 
+They also exhibit a large change from inspiration to expiration, 
+primarily occurring on the lateral axis. In contrast, the control 
+airway cross-sections are narrower along the A-P axis as compared 
+with the lateral, are similarly sized at all levels, and exhibit 
+only slight narrowing during inspiration. (19). 
+
+Validation 
+of 
+Gating 
+System 
+
+
+Differences in timing of triggering between the Siemens bellow 
+system and the pneumotach-based system did not exceed 5% 
+for any volume levels. 
+
+DISCUSSION 
+
+
+This study describes changes in upper airway area and shape 
+during tidal breathing in mildly sedated children with OSAS. 
+We found that the upper airway in these children is significantly 
+narrower compared with control subjects, particularly during 
+inspiration, whereas dilatation occurs during expiration. In contrast, 
+the upper airway area changed little during tidal respiration 
+in normal children. As compared with control subjects, the magnitude 
+of area change in OSAS was more prominent in the upper 
+oropharyngeal levels, ranging from 317 to 922% in children with 
+
+Figure4.MeanandSDofminimalupperairwaycross-sectionalareaatfouroropharyngeallevels(detailedinFigure1)duringinspiration.
+TherearehighlysignificantdifferencesbetweensubjectswithOSASandcontrolsubjectsatalllevels(p0.0001).
+
+
+Figure 
+6. 
+Maximal 
+percentage 
+of 
+change 
+in 
+upper 
+airway 
+cross-sectional 
+area 
+at 
+the 
+four 
+oropharyngeal 
+levels 
+(detailed 
+in 
+Figure 
+1) 
+during 
+tidal 
+breathing. 
+*p 
+. 
+0.005; 
+**p 
+. 
+0.001. 
+
+
+
+1302 
+AMERICAN 
+JOURNAL 
+OF 
+RESPIRATORY 
+AND 
+CRITICAL 
+CARE 
+MEDICINE 
+VOL 
+171 
+2005 
+
+
+
+OSAS as compared with 15 to 24% in control subjects. Regarding 
+shape, we found, in general, control subjects had airway cross-
+sections wider along the lateral axis, whereas subjects with OSAS 
+exhibited airway shape wider along the A-P axis. 
+
+Several methodologic issues deserve an initial comment. First, 
+MRI can provide both accurate and reliable measurements of 
+the upper airway (18, 20). However, a disadvantage of MRI is 
+its sensitivity to motion artifact. Although we used a fast image 
+sequence of 300 milliseconds/image, acquisition of data required 
+approximately 15 minutes to collect all breath phases for all 
+slices. To minimize movement, light sedation is given routinely 
+for MRI studies to all children younger than 8 years in our 
+institution. Sedation might have differentially affected upper 
+
+Figure 
+7. 
+Shape 
+analysis: 
+average 
+A-P 
+and 
+lateral 
+(LAT) 
+dimension 
+for 
+all 
+percentages 
+of 
+VT 
+levels 
+for 
+both 
+groups. 
+Lines 
+link 
+segmental 
+volume 
+levels. 
+Subjects 
+with 
+OSAS 
+are 
+shown 
+in 
+red; 
+control 
+subjects 
+in 
+blue. 
+Open 
+triangles: 
+inspiratory 
+A-P 
+and 
+lateral 
+dimension 
+in 
+OSAS; 
+closed 
+triangles: 
+expiratory 
+A-P 
+and 
+lateral 
+dimension 
+in 
+OSAS; 
+open 
+squares: 
+inspiratory 
+A-P 
+and 
+lateral 
+dimension 
+in 
+control 
+subjects; 
+closed 
+squares: 
+expiratory 
+A-P 
+and 
+lateral 
+dimension 
+in 
+control 
+subjects. 
+Ellipses 
+illustrate 
+relative 
+differences 
+in 
+A-P 
+and 
+lateral 
+dimensions 
+in 
+OSAS 
+and 
+control 
+subjects. 
+Ellipses 
+are 
+shown 
+for 
+minimum 
+during 
+inspiration 
+(filled 
+ellipses) 
+and 
+maximum 
+during 
+expiration 
+(open 
+ellipses). 
+
+
+airway dilator muscle responses in subjects with OSAS compared 
+with control subjects because in children with OSAS there is 
+increased activity of the upper airway dilator muscles during 
+wakefulness (21). Conceivably, this had an impact on the magnitude 
+of differences we found between groups. 
+
+Second, respiratory gating for obtaining MRI images of the 
+upper airway has not been used previously. We used the Siemens 
+commercial system, which is based on a single respiratory bellows 
+to follow the changes in volume and trigger the imaging at 
+desired inspiratory or expiratory volumes. An optimal system 
+would be one gated by an integrated flow measurement; however, 
+such a system is not yet available for clinical use. The 
+purpose of our validation study was to assess the accuracy of 
+
+
+Arens, 
+Sin, 
+McDonough, 
+et 
+al.: 
+Upper 
+Airway 
+Size 
+during 
+Tidal 
+Breathing 
+
+
+the commercial bellows’ abdominal signal to track lung volume 
+changes as measured by an integrated pneumotach flow signal 
+at the mouth. We demonstrated that, in a normal, awake, adult 
+volunteer, when no obstruction is apparent, the bellows track 
+volume change within . 
+5% of the optimal measurement. We 
+are therefore confident that our images were accurately gated 
+in control subjects. 
+
+Regarding the subjects with OSAS, these subjects had mild 
+to moderate OSAS during polysomnography. However, during 
+data acquisition, none had evidence of obstruction based on 
+direct inspection and respiratory and pulse oximetry monitoring, 
+although snoring in some subjects was noted. Our MRI data 
+obtained from these patients do not demonstrate complete airway 
+occlusion at any point during data acquisition. 
+
+Bellows placement was made on the abdomen or abdominal– 
+chest border where tidal excursion was visibly greatest. The 
+Siemens gating algorithm is designed to avoid triggering an image 
+if the abdominal waveform does not conform to a standard 
+template created by averaging previous regular breaths. In this 
+way, transient and malformed abdominal waveform shapes were 
+definitely excluded. 
+
+It is possible, however, that partial obstructive events inducing 
+some degree of paradoxic motion in the chest during inspiration 
+did occur and could have shifted the inspiratory data points 
+of our curves shown in Figure 2, by delaying thoracic filling 
+with respect to abdominal expansion. In addition, an opposite 
+displacement of the curve points could occur during expiration, 
+when emptying would be delayed with respect to abdominal 
+relaxation. However, for each subject, at each phase of respiration, 
+each image slice was collected by gating a single and different 
+breath, and the calculated airway area values represent averages 
+from all subjects. Therefore, errors caused by sporadic asynchrony 
+would tend to be reduced. In more severe cases of OSAS where 
+obstructions occur, chest and abdominal asynchrony could be 
+expected and a gating system based on measurements of chest 
+wall or abdominal motion alone would be inappropriate. 
+
+Changes in the upper airway size during tidal breathing using 
+gated cine computed tomography have been described by 
+Schwab and colleagues (10) in normal, awake adults. They noted 
+mean tidal change in upper airway cross-sectional area to be 
+17% and that during expiration the upper airway expanded to 
+maximal cross-sectional area. In another study, the same authors 
+compared dynamic changes in airway size during wakefulness 
+in adults with OSAS and control subjects. They noted a smaller 
+airway in subjects with OSAS, particularly in the low retropalatal 
+and retroglossal levels, and that airway narrowing occurred 
+mostly during inspiration, whereas dilatation of the airway occurred 
+in expiration, leading to significant change in cross-sectional 
+area in all oropharyngeal regions in subjects with OSAS. Furthermore, 
+upper airway shape analysis in the regions of maximal 
+dynamic changes showed a lengthened A-P configuration in subjects 
+with OSAS, unlike the normal airway, which had a lengthened 
+lateral configuration (9). The previously described findings 
+in adults with OSAS are very similar to the present study in 
+children. Our findings suggest that, despite a different pathophysiology 
+for OSAS in adults and children, namely adenotonsillar 
+hypertrophy (3), similar mechanical forces influence upper 
+airway dynamics and shape in both age groups. It should also 
+be emphasized that, by using MRI, our subjects were not exposed 
+to ionizing radiation and therefore our methodology may be 
+considered as an advantage over computed tomography when 
+studying airway dynamics. 
+
+Children presenting with adenotonsillar hypertrophy and 
+OSAS do not usually undergo dynamic imaging of the upper 
+airway. However, when OSAS is associated with more complex 
+medical conditions, such as craniofacial anomalies or after upper 
+
+airway surgery, fluoroscopy is commonly used to detect the level 
+of airway obstruction (22, 23). The limitations of fluoroscopy 
+are both radiation exposure and that one obtains only a plane 
+lateral image. More recently, Donnelly and coworkers (24, 25) 
+applied ungated cine MRI to children with OSAS with complex 
+medical conditions. They demonstrated significant fluctuations 
+in airway size during respiration in subjects with OSAS along 
+the entire upper airway compared with control subjects, a finding 
+that is compatible with our results. 
+
+In the present study, we performed respiratory-gated MRI 
+of the upper airway during tidal breathing using respiratory 
+gating to quantify the temporal changes during respiration in 
+children with adenotonsillar hypertrophy who otherwise had no 
+additional risk factors, such as craniofacial anomalies or neurologic 
+disorders. Several observations can be made from our data. 
+The first is further confirmation of previous studies demonstrating 
+a smaller airway size in children with OSAS (18, 26, 27). A 
+second finding is the significant fluctuation in airway area in 
+subjects with OSAS during inspiration and expiration. Because 
+of their increased upper airway resistance caused by adenotonsillar 
+hypertrophy, inspiratory pressure load on the airway was 
+probably more negative than in control subjects on inspiration, 
+thus reducing area, and more positive than control subjects on 
+expiration, thus increasing area. It is possible that a more compliant 
+airway is involved in this effect, but this is impossible to 
+determine without having measured airway pressures. A third 
+finding is the absence of progressive narrowing of the upper 
+airway during inspiration in both control and OSAS subjects. It 
+was expected that at peak inspiratory flow rate (midinspiration), 
+the airway would progressively narrow with the increasing negative 
+intraluminal pressure. The latter finding indirectly supports 
+evidence for inspiratory activation of upper dilator muscles described 
+in normal adults (28–31), and also noted in children with 
+OSAS (32, 33). This mechanism is assumed to protect the airway 
+from collapse during the negative pressures generated in the 
+upper airway during inspiration (34). Previous studies in adults 
+have demonstrated marked attenuation of this reflex, even in 
+the lighter stages of sleep (35). Our conjecture is that this mechanism 
+still seems to be operative in children, even during light 
+sedation given that our subjects with OSAS did not fully obstruct, 
+even under increased negative loads. 
+
+Shape analysis demonstrated different configuration of the 
+airway of children with OSAS in both inspiration and expiration 
+as compared with control subjects. Subjects with OSAS exhibited 
+airway shape narrowed across the A-P axis. This could be caused 
+by anatomic features influencing the width of the lateral pharyngeal 
+wall and/or by neuromotor factors affecting upper airway 
+dilator muscle activity along this axis (i.e., genioglossus activation). 
+These differences together with the magnitude of area 
+changes during tidal breathing may contribute to a more collapsible 
+airway in children with OSAS during sleep as suggested by 
+functional studies (4–6). 
+
+In summary, we describe changes in upper airway area and 
+shape during tidal breathing in children with OSAS and contrast 
+these to changes in control subjects. We noted significantly more 
+fluctuation in airway size, with narrowing during inspiration that 
+was more prominent in higher oropharyngeal levels. 
+
+Conflict 
+of 
+Interest 
+Statement: 
+R.A. 
+does 
+not 
+have 
+a 
+financial 
+relationship 
+with 
+a 
+commercial 
+entity 
+that 
+has 
+an 
+interest 
+in 
+the 
+subject 
+of 
+this 
+manuscript; 
+S.S. 
+does 
+not 
+have 
+a 
+financial 
+relationship 
+with 
+a 
+commercial 
+entity 
+that 
+has 
+an 
+interest 
+in 
+the 
+subject 
+of 
+this 
+manuscript; 
+J.M.M. 
+does 
+not 
+have 
+a 
+financial 
+relationship 
+with 
+a 
+commercial 
+entity 
+that 
+has 
+an 
+interest 
+in 
+the 
+subject 
+of 
+this 
+manuscript; 
+J.M.P. 
+does 
+not 
+have 
+a 
+financial 
+relationship 
+with 
+a 
+commercial 
+entity 
+that 
+has 
+an 
+interest 
+in 
+the 
+subject 
+of 
+this 
+manuscript; 
+T.D. 
+does 
+not 
+have 
+a 
+financial 
+relationship 
+with 
+a 
+commercial 
+entity 
+that 
+has 
+an 
+interest 
+in 
+the 
+subject 
+of 
+this 
+manuscript; 
+H.M. 
+does 
+not 
+have 
+a 
+financial 
+relationship 
+with 
+a 
+commercial 
+entity 
+that 
+has 
+an 
+interest 
+in 
+the 
+subject 
+of 
+this 
+manuscript; 
+D.M.W. 
+does 
+not 
+have 
+a 
+financial 
+relationship 
+
+
+
+1304 
+AMERICAN 
+JOURNAL 
+OF 
+RESPIRATORY 
+AND 
+CRITICAL 
+CARE 
+MEDICINE 
+VOL 
+171 
+2005 
+
+
+with 
+a 
+commercial 
+entity 
+that 
+has 
+an 
+interest 
+in 
+the 
+subject 
+of 
+this 
+manuscript; 
+
+
+A.I.P. 
+has 
+a 
+grant 
+from 
+ResMed, 
+Inc., 
+to 
+study 
+the 
+relative 
+role 
+of 
+ambulatory 
+recording 
+of 
+sleep-disordered 
+breathing 
+as 
+it 
+compares 
+to 
+full-sleep 
+study. 
+He 
+also 
+receives 
+royalties 
+from 
+Marcel 
+Dekker 
+Publishers 
+for 
+a 
+book 
+he 
+edited 
+entitled, 
+“Sleep 
+Apnea: 
+Pathogenesis, 
+Diagnosis, 
+and 
+Treatment.” 
+He 
+has 
+a 
+patent 
+pending 
+related 
+to 
+the 
+use 
+of 
+serotonin 
+agonists 
+to 
+treat 
+sleep 
+apnea 
+in 
+mammals. 
+References 
+
+
+1. Ali NJ, Pitson DJ, Stradling JR. Snoring, sleep disturbance, and behaviour 
+in 4–5 year olds. Arch 
+Dis 
+Child 
+1993;68:360–366. 
+2. Redline S, Tishler PV, Schluchter M, Aylor J, Clark K, Graham G. Risk 
+factors for sleep-disordered breathing in children: associations with 
+obesity, race, and respiratory problems. Am 
+J 
+Respir 
+Crit 
+Care 
+Med 
+1999;159:1527–1532. 
+3. Arens R, Marcus CL. Pathophysiology of upper airway obstruction: a 
+developmental perspective. Sleep 
+2004;27:997–1019. 
+4. Marcus CL, McColley SA, Carroll JL, Loughlin GM, Smith PL, Schwartz 
+AR. Upper airway collapsibility in children with obstructive sleep 
+apnea syndrome. J 
+Appl 
+Physiol 
+1994;77:918–924. 
+5. Gozal D, Burnside MM. Increased upper airway collapsibility in children 
+with obstructive sleep apnea during wakefulness. Am 
+J 
+Respir 
+Crit 
+Care 
+Med 
+2004;169:163–167. 
+6. Isono S, Shimada A, Utsugi M, Konno A, Nishino T. Comparison of 
+static mechanical properties of the passive pharynx between normal 
+children and children with sleep-disordered breathing. Am 
+J 
+Respir 
+Crit 
+Care 
+Med 
+1998;157:1204–1212. 
+7. Suratt PM, Dee P, Atkinson RL, Armstrong P, Wilhoit SC. Fluoroscopic 
+and computed tomographic features of the pharyngeal airway in obstructive 
+sleep apnea. Am 
+Rev 
+Respir 
+Dis 
+1983;127:487–492. 
+8. Shellock FG, Schatz CJ, Julien P, Steinberg F, Foo TK, Hopp M, West-
+brook PR. Occlusion and narrowing of the pharyngeal airway in obstructive 
+sleep apnea: evaluation by ultrafast spoiled GRASS MR 
+imaging. AJR 
+Am 
+J 
+Roentgenol 
+1992;158:1019–1024. 
+9. Schwab RJ, Gefter WB, Hoffman EA, Gupta KB, Pack AI. Dynamic 
+upper airway imaging during awake respiration in normal subjects and 
+patients with sleep disordered breathing. Am 
+Rev 
+Respir 
+Dis 
+1993; 
+148:1385–1400. 
+10. Schwab RJ, Gefter WB, Pack AI, Hoffman EA. Dynamic imaging of 
+the upper airway during respiration in normal subjects. J 
+Appl 
+Physiol 
+1993;74:1504–1514. 
+11. Ciscar MA, Juan G, Martinez V, Ramon M, Lloret T, Minguez J, Armengot 
+M, Marin J, Basterra J. Magnetic resonance imaging of the pharynx 
+in OSA patients and healthy subjects. Eur 
+Respir 
+J 
+2001;17:79–86. 
+12. Ikeda K, Ogura M, Oshima T, 
+et 
+al. 
+Quantitative assessment of the 
+pharyngeal airway by dynamic magnetic resonance imaging in obstructive 
+sleep apnea syndrome. Ann 
+Otol 
+Rhinol 
+Laryngol 
+2001;110:183– 
+189. 
+13. Brouilette R, Hanson D, David R, Klemka L, Szatkowski A, Fernbach 
+S, Hunt C. A diagnostic approach to suspected obstructive sleep apnea 
+in children. J 
+Pediatr 
+1984;105:10–14. 
+14. American Thoracic Society. Standards and indications for cardiopulmonary 
+sleep studies in children. Am 
+J 
+Respir 
+Crit 
+Care 
+Med 
+1996;153: 
+866–878. 
+15. Marcus CL, Omlin KJ, Basinki DJ, Bailey SL, Rachal AB, Von Pechmann 
+WS, Keens TG, Ward SL. Normal polysomnographic values for children 
+and adolescents. Am 
+Rev 
+Respir 
+Dis 
+1992;146:1235–1239. 
+16. Rechtschaffen A, Kales A. A manual of standardized terminology, techniques 
+and scoring systems for sleep stages on human subjects. Washington 
+DC: National Institutes of Health; 1968. Publication No. 204. 
+17. Schwab RJ, Gupta KB, Gefter WB, Metzger LJ, Hoffman EA, Pack AI. 
+Upper airway and soft tissue anatomy in normal subjects and patients 
+with sleep-disordered breathing: significance of the lateral pharyngeal 
+walls. Am 
+J 
+Respir 
+Crit 
+Care 
+Med 
+1995;152:1673–1689. 
+18. Arens R, McDonough JM, Costarino AT, Mahboubi S, Tayag-Kier CE, 
+Maislin G, Schwab RJ, Pack AI. Magnetic resonance imaging of the 
+upper airway structure of children with obstructive sleep apnea syndrome. 
+Am 
+J 
+Respir 
+Crit 
+Care 
+Med 
+2001;164:698–703. 
+19. Leiter JC. Upper airway shape: is it important in the pathogenesis of 
+obstructive sleep apnea? Am 
+J 
+Respir 
+Crit 
+Care 
+Med 
+1996;153:894–898. 
+20. Welch KC, Foster GD, Ritter CT, Wadden TA, Arens R, Maislin G, 
+Schwab RJ. A novel volumetric magnetic resonance imaging paradigm 
+to study upper airway anatomy. Sleep 
+2002;25:532–542. 
+21. Katz ES, White DP. Genioglossus activity in children with obstructive 
+sleep apnea during wakefulness and sleep onset. Am 
+J 
+Respir 
+Crit 
+Care 
+Med 
+2003;168:664–670. 
+22. Felman AH, Loughlin GM, Leftridge CA Jr, Cassisi NJ. Upper airway 
+obstruction during sleep in children. AJR 
+Am 
+J 
+Roentgenol 
+1979;133: 
+213–216. 
+23. Gibson SE, Myer CM III, Strife JL, O’Connor DM. Sleep fluoroscopy 
+for localization of upper airway obstruction in children. Ann 
+Otol 
+Rhinol 
+Laryngol 
+1996;105:678–683. 
+24. Donnelly LF, Casper KA, Chen B. Correlation on cine MR imaging of 
+size of adenoid and palatine tonsils with degree of upper airway motion 
+in asymptomatic sedated children. AJR 
+Am 
+J 
+Roentgenol 
+2002;179: 
+503–508. 
+25. Donnelly LF, Surdulescu V, Chini BA, Casper KA, Poe SA, Amin RS. 
+Upper airway motion depicted at cine MR imaging performed during 
+sleep: comparison between young patients with and those without 
+obstructive sleep apnea. Radiology 
+2003;227:239–245. 
+26. Fregosi RF, Quan SF, Kaemingk KL, Morgan WJ, Goodwin JL, Cabrera 
+R, Gmitro A. Sleep-disordered breathing, pharyngeal size and soft 
+tissue anatomy in children. J 
+Appl 
+Physiol 
+2003;95:2030–2038. 
+27. Arens R, McDonough JM, Corbin AM, et 
+al. 
+Upper airway size analysis 
+by magnetic resonance imaging of children with obstructive sleep 
+apnea syndrome. Am 
+J 
+Respir 
+Crit 
+Care 
+Med 
+2003;167:65–70. 
+28. Tangel DJ, Mezzanotte WS, White DP. Respiratory-related control of 
+palatoglossus and levator palatini muscle activity. J 
+Appl 
+Physiol 
+1995;78:680–688. 
+29. Wiegand L, Zwillich CW, White DP. Collapsibility of the human upper 
+airway during normal sleep. J 
+Appl 
+Physiol 
+1989;66:1800–1808. 
+30. Leiter JC, Knuth SL, Bartlett D Jr. Dependence of pharyngeal resistance 
+on genioglossal EMG activity, nasal resistance, and airflow. J 
+Appl 
+Physiol 
+1992;73:584–590. 
+31. Horner RL, Innes JA, Murphy K, Guz A. 
+Evidence for reflex upper 
+airway dilator muscle activation by sudden negative airway pressure 
+in man. J 
+Physiol 
+1991;436:15–29. 
+32. Thach BT, Menon AP, Schefft GL. Effects of negative upper airway 
+pressure on pattern of breathing in sleeping infants. J 
+Appl 
+Physiol 
+1989;66:1599–1605. 
+33. Katz ES, White DP. Genioglossus activity during sleep in normal control 
+subjects and children with obstructive sleep apnea. Am 
+J 
+Respir 
+Crit 
+Care 
+Med 
+2004;170:553–560. 
+34. Horner RL. Motor control of the pharyngeal musculature and implications 
+for the pathogenesis of obstructive sleep apnea. Sleep 
+1996;19: 
+827–853. 
+35. Horner RL, Innes JA, Morrell MJ, Shea SA, Guz A. The effect of sleep 
+on reflex genioglossus muscle activation by stimuli of negative airway 
+pressure in humans. J 
+Physiol 
+1994;476:141–151. 
+

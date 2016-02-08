@@ -1,0 +1,726 @@
+International Journal of Pediatric Otorhinolaryngology (2008) 72, 879—884 
+
+www.elsevier.com/locate/ijporl 
+
+
+All 
+snoring 
+is 
+not 
+adenoids 
+in 
+young 
+children 
+
+
+Katja 
+Liukkonen 
+a,*, 
+Paula 
+Virkkula 
+a, 
+Eeva 
+T. 
+Aronen 
+b, 
+Turkka 
+Kirjavainen 
+c,d, 
+Anne 
+Pitka¨ranta 
+a 
+
+
+a Helsinki 
+University 
+Central 
+Hospital, 
+Department 
+of 
+Otorhinolaryngology, 
+Finland 
+bHelsinki 
+University 
+Central 
+Hospital, 
+Hospital 
+for 
+Children 
+and 
+Adolescents, 
+Child 
+Psychiatry, 
+and 
+Neuroscience 
+Unit 
+of 
+the 
+Helsinki 
+Brain 
+Research 
+Center, 
+Finland 
+c Helsinki 
+University 
+Central 
+Hospital, 
+Hospital 
+for 
+Children 
+and 
+Adolescents, 
+Finland 
+dDepartment 
+of 
+Pediatric 
+Respiratory 
+and 
+Sleep 
+Medicine, 
+Mater 
+Children’s 
+Hospital, 
+Brisbane, 
+Australia 
+
+
+Received 21 December 2007; received in revised form 21 February 2008; accepted 21 February 2008 
+Available online 8 April 2008 
+
+KEYWORDS 
+
+
+Snoring; 
+Children; 
+Adenotonsillectomy; 
+Risk factors; 
+Nocturnal symptoms 
+
+
+Summary 
+
+
+Objective: 
+To determine the prevalence of snoring in young children and to assess 
+age, growth, previous surgery therapy, respiratory problems and sleep-related symptoms 
+in relation to child’s snoring, and to evaluate the relationship between child’s 
+snoring and parents’ snoring and smoking. 
+Children 
+and 
+methods: 
+Across-sectional study evaluated 2100 children 1—6 years of 
+age in Helsinki, Finland. Child’s frequency of snoring on a five-point scale (never to 
+every night) and age, height, weight and body mass index, previous adenotonsillectomies, 
+tympanostomies, allergic rhinitis and respiratory infections were determined 
+as was frequency of parental snoring and smoking. Sleep problems were determined 
+based on Finnish or Swedish modified version of the sleep disturbance scale for 
+Children. 
+Results: 
+Of the 2100 eligible children, 1471 (71%) returned questionnaires. Children 
+always or often snoring numbered 92 (6.3%), sometimes snoring, 183 (12.4%), and 
+never or occasionally snoring, 1196 (81.3%). No difference in age( p 
+= 0.06) or gender 
+(p 
+= 0.39) existed between snorers and non-snorers. History of previous adenotonsillectomies 
+(p 
+< 
+0.001), allergic rhinitis (p 
+< 
+0.001), recurrent respiratory infections( 
+p 
+< 
+0.001), and otitis media( p 
+< 
+0.001) were more common among snorers 
+than among occasional or never-snorers. Nocturnal symptoms such as breathing 
+problems, sleep hyperhydrosis, sleep-wake transition disorders, and daytime somnolence 
+were associated with children’s snoring. Frequency of children’s snoring was 
+also associated with parental snoring( p 
+< 
+0.001) and smoking( p 
+< 
+0.001). 
+
+* Corresponding author at: Helsinki University Central Hospital, Department of Otorhinolaryngology, PL 220, FIN-00290 Helsinki, 
+Finland. Tel.: +358 50 427 1586. 
+E-mail 
+address: 
+katja.liukkonen@hus.fi (K. Liukkonen). 
+
+0165-5876/$ — see front matter # 
+2008 Elsevier Ireland Ltd. All rights reserved. 
+doi:10.1016/j.ijporl.2008.02.018 
+
+
+K. Liukkonen et al. 
+Conclusions: 
+Snoring is common among young children and is associated with previous 
+adenotonsillectomy, allergic rhinitis, respiratory infections, nocturnal symptoms, and 
+parents’ snoring and smoking. The high prevalence of snoring among children with 
+adenotonsillectomy raises the question whether adenotonsillectomy alone is adequate 
+treatment for snoring in young children. 
+# 
+2008 Elsevier Ireland Ltd. All rights reserved. 
+
+1. 
+Introduction 
+Snoring has been considered relatively common in 
+youngchildren,withtheprevalence rangingfrom5% 
+up to 20% [1—3]. Snoring frequency varies slightly 
+among different age groups, being more common 
+among preschool-age children than during older 
+ones [4,5]. Occurrence of snoring is difficult to 
+interpret because the criteria and definition of 
+snoring vary markedly. Snoring associates with daytime 
+symptoms such as behavioral problems and 
+anxious and depressive symptoms and tiredness, 
+as well as with night-time problems such as restless 
+sleep, nocturnal sweating, teeth-grinding, sleep-
+talking and nightmares [6—8]. 
+
+Hypertrophy of adenotonsillar tissue is an important 
+risk factor for snoring in childhood [9]. Adenotonsillectomy 
+is by far the most widely performed 
+procedure for snoringin youngchildren, andin most 
+of the cases symptomatic improvement is rapid 
+after adenotonsillectomy, but improvement after 
+adenoidectomy without tonsillectomy is minor 
+[10]. Small upper airways and mucosal inflammation 
+may also be important risk factors [11]. Many have 
+reported an association between snoring and allergic 
+rhinitis [9], recurrent upper respiratory infections 
+[1,12], passive smoking [13], and parents’ 
+snoring [14]. 
+
+The aim of the present study was to assess the 
+prevalence of snoring in young children in Finland 
+and to evaluate the child’s age and growth, previous 
+upper respiratory surgery therapy, respiratory problems 
+with child’s snoring as well as sleep-related 
+symptoms and relationship between child’s snoring 
+and parental snoring and smoking. 
+
+2. 
+Children 
+and 
+methods 
+This studyisapartof larger epidemiologicalstudyof 
+child’s sleep-related breathing disorders in Finland. 
+A random sample of 2100 children born between 1 
+September 1998 and 31 August 2005 was collected 
+from the Population Register Center, Helsinki, Finland. 
+The children came from both Finnish-and 
+Swedish-speaking families. The sample accounted 
+for 7% of the city population 1—6 years of age. The 
+questionnaires were mailed to the children’s 
+
+parents periodically from January 2005 to September 
+2006, starting with the oldest age group (5—6 
+years old). Each questionnaire included a prepaid 
+return envelope. Families who failed to return it 
+were re-contacted with a new questionnaire twice. 
+Of the 2100 questionnaires, 12 did not reach the 
+subject, 21 were completed for the wrong child, 
+e.g., a sibling. Overall, 1494 questionnaires (72%) 
+came back. Information on snoring frequency was 
+available for 1471 (71%) children and was further 
+analyzed. 
+
+Children considered to snore were identified 
+based on parents’ response to theitem ‘‘How often 
+does your childsnore? ‘‘Symptoms during the past6 
+months were described. Children were classified as 
+snorersiftheywerereportedto snorealways,often, 
+or sometimes (scores 3—5) or non-snorers if the 
+answer was occasionally or never (scores 1—2). 
+Child’s age, height and weight, previous surgery, 
+and upper respiratory and middle ear infections 
+were recorded. History of allergic rhinitis was 
+assessed with the answer: ‘‘Does your child have 
+allergic rhinitis?’’ ‘‘Respiratory infections were 
+assessed to the question’’: ‘‘Does your child have 
+upper respiratory infection episodes?’’ (common 
+colds, cough, or sore throat during the last 6 
+months). A response of often or always (scores 4— 
+5) was defined as having recurrent respiratoryinfections. 
+The amount of acute otitis media was determined 
+with the options none, one, two, three, or 
+over four episodes during the past 6 months. Children 
+having four or more episodes of acute otitis 
+media during the past 6 months were classified as 
+having recurrent otitis media. 
+
+Snoring and sleep problems were evaluated more 
+extensively by a Finnish or Swedish modified version 
+of the sleep disturbance scale for children (SDSC), 
+an instrument for assessing the frequency of sleep 
+problems on a five-point scale (1 = never, 2 = occasionally 
+(1—2 times/month), 3= sometimes (1—2 
+times/week), 4= often (3—5 times/week) 
+5= always (every day/night)) [15]. The SDSC consists 
+of 26 items grouped into six subscales: (1) 
+disorders of initiating and maintaining sleep (sleep 
+latency, going to bed reluctantly, difficulty falling 
+asleep, falling-asleep anxiety, night awakenings, 
+difficulty in falling asleep after awakenings), (2) 
+sleep-breathing disorders (breathing problems, 
+
+
+All snoring is not adenoids 
+
+sleep apnea), (3) disorders of arousal/nightmares 
+(sleepwalking, sleep terrors, nightmares), (4) 
+sleep—wake transition disorders (hypnic jerks, 
+rhythmic movement disorders, hypnagogic hallucinations,
+nocturnal hyperkinesia, sleep talking, bruxism), 
+(5) disorders of excessive somnolence 
+(difficulty in waking up, tiredness when waking 
+up, daytime somnolence, sleep paralysis, bed-wetting) 
+and (6) sleep hyperhydrosis (night sweating, 
+falling asleep sweating).Parents’ snoring frequency 
+was classified on a five-point scale (non-snorers: 
+scales 1—2, snorers: scales 3—5), and smoking was 
+assessed as only ‘‘yes/no’’. 
+
+Thestudy was approvedbytheEthicsCommittee, 
+Helsinki University Hospital, and informed written 
+consent was provided by the children’s care-givers. 
+
+2.1. 
+Statistical 
+analysis 
+Results were expressed as means (S.D.) for continuous 
+data. Independent t-tests orPearson’s Chi-
+square testswere usedto assessgroup differencesin 
+demographic variables. Age variables were tested 
+by the Mann—Whitney U-test, and Spearman rank 
+correlation coefficients served to evaluate nocturnal 
+symptoms of snoring and non-snoring children. 
+All analyses were done with statistical software 
+(NCSS and PASS 2004. Number Cruncher Statistical 
+Systems, Kaysville, UT). p-Value less than 0.01 were 
+considered to indicate statistical significance. 
+
+3. 
+Results 
+The always or often snoring, 92 (6.3%) and sometimes 
+snoring, 183 (12.4%) children were classified 
+as snorers (n 
+= 275, 18.7%). Never or occasionally 
+snoring children numbered 1196 (81.3%). Ages ranged 
+from 12 to 84 months(mean 46 months), and 719 
+(48.1%) were boys. No differences were apparent 
+between snorers and non-snorers regarding age or 
+gender(Table1). Snoring prevalence did not differ 
+between age groups(Fig.1). 
+
+Of the 1471 analyzed, 214 (15%) children had 
+undergone adenoidectomy and 51 (3.7%) tonsillectomy. 
+The number of adenoidectomies and tympanostomies 
+was significantly higher in the snoring 
+than in the non-snoring group: 63; 24% vs. 151; 
+13%, and 61; 22% vs. 154; 13%( p 
+< 
+0.001)(Table1). 
+
+Allergic rhinitis was more commonin the snoring 
+group (65; 24% vs. 171; 14%, p 
+< 
+0.001). In the 
+previous 6 months, 28% of children have had over 
+four episodes of acute otitis media. Recurrent 
+respiratory infections (58; 21% vs. 109; 9.3%, 
+p 
+< 
+0.001) and otitis media (105; 38% vs. 307; 
+26%, p 
+< 
+0.001) were more common among snorers 
+(Table 1). 
+
+Sleep hyperhydrosis (night sweating, falling 
+asleep sweating), sleep—wake transition disorders 
+(hypnic jerks, rhythmic movement disorders, hypnagogic 
+hallucinations, nocturnal hyperkinesia, 
+sleep talking, bruxism) and daytime somnolence 
+
+Table 
+1 
+Demographic and epidemiologic data from snoring (snoring frequency at least once a week) and non-snoring 
+(never or less than once a week) children 
+
+Snorers (n 
+= 275) Non-snorers (n 
+= 1196) p 
+Male gender (%) 141 (51) 578 (48) 0.39 
+Age (months, median) 48.2 45.9 0.06 
+Mean height (m, S.D.) 1.03 (0.14) 1.01 (0.14) 0.03 
+Mean weight (kg, S.D.) 17.4 (4.9) 16.6 (4.7) 0.01 
+Adenoidectomy (%) 63 (24) 151 (13) <0.001 
+Tympanostomy (%) 61 (22) 154 (13) <0.001 
+Tonsillectomy (%) 16 (6) 35 (3) 0.01 
+Allergic rhinitis (%) 65 (24) 171 (14) <0.001 
+Recurrent respiratory infectionsa (%) 58 (21) 109 (9) <0.001 
+Acute otitis mediab (%) 105 (38) 307(26) <0.001 
+Snoringc (%) 
+Mother 103 (37) 235 (20) <0.001 
+Father 201 (73) 701 (59) <0.001 
+Smoking (%) 
+Mother 27 (14) 71 (8) <0.01 
+Father 42 (20) 202 (20) 0.03 
+Both 40 (20) 96 (10) <0.001 
+
+a Recurrent upper respiratory infections often or always in the previous 6 months (scores 4—5). 
+b Four or more episodes of acute otitis media in the previous 6 months. 
+c Parents snoring sometimes, often, or always (scores 3—5). 
+
+
+
+K. Liukkonen et al. 
+correlated with snoring frequency, with no correla-Table 
+2 
+Correlations between snoring frequency and 
+
+tion between snoring frequency and disorders of 
+initiating or maintaining sleep(Table2). 
+
+Smoking was reported in 32.5% of families for 
+either or both parents. Among snoring children, 
+parental smoking, especially maternal smoking, 
+was more common than among the non-snorers 
+(40; 20% vs. 96; 10%, p 
+< 
+0.001). Parental snoring 
+was significantly higher in the snoring group than in 
+the non-snoring group( p 
+< 
+0.001)(Table 1). 
+
+4. 
+Discussion 
+In the present study based on the random sampling 
+of Population Register Center data, we found that 
+the prevalence of snoring in young children was 
+common without significant changes with age: 19% 
+of Finnish young children snore at least sometimes, 
+and 7% are habitual snorers. Snoring associated with 
+upper respiratory infections and acute otitis media, 
+allergic rhinitis, and parental snoring and exposure 
+to tobacco smoke and a child’s age was not predictive 
+for snoring. Although most of these associated 
+factors are already known risks for children’s 
+snoring [9,12,13,16], we were surprised to find 
+frequent snoring among children who had already 
+undergone upper airway surgery. For a survey ofthe 
+general population, overall response rate to the 
+mailed questionnaires was good (72%). 
+
+In Finland, the adenoidectomy rate for young 
+children has been very high compared to that of 
+other countries [17,18], and in our study population 
+the overall adenoidectomy ratewas 15%. Most of the 
+adenotomies werelikelytobeperformed becauseof 
+recurrent ear infections, not because of snoring. 
+Significant differences appeared in adenoidectomy 
+rates between snoring (24%) and non-snoring children 
+(13%). Adenotonsillectomy, widely accepted 
+treatment of OSA oncethe diagnosis has been established,
+is effective in most cases [2,19—23], but no 
+good studies compare different modes of surgery in 
+
+sleep-related symptoms in children 
+
+Symptom p-Value r 
+Initiating and maintaining sleep 
+Sleep latencya 
+Going to bed reluctantly 
+Difficulty in falling asleep 
+Falling asleep anxiety 
+Night awakenings 
+Difficulty in falling asleep 
+after awakenings 
+0.13 
+0.02 
+0.03 
+<0.001 
+<0.001 
+0.02 
+0.10 
+0.09 
+Sleep breathing disorders 
+Breathing problems b 
+Sleep apnoea c 
+<0.001 
+<0.001 
+0.37 
+0.29 
+Arousals/nightmares 
+Sleepwalking 
+Sleep terrors 
+Nightmares d 
+<0.01 
+<0.01 
+<0.01 
+0.09 
+0.10 
+0.10 
+Sleep/wake transition disorders 
+Hypnic jerks 
+Rhythmic movement disorders 
+Hypnagogic hallucinations e 
+Nocturnal hyperkinesias 
+Sleeptalking 
+Bruxism 
+<0.001 
+<0.01 
+<0.01 
+<0.001 
+<0.001 
+<0.001 
+0.22 
+0.11 
+0.12 
+0.24 
+0.18 
+0.17 
+Disorders of excessive somnolence 
+Difficulty in waking up 
+Tired when waking up 
+Daytime somnolence 
+Sleep paralysis f 
+Bed-wetting 
+<0.01 
+<0.001 
+<0.001 
+<0.01 
+0.33 
+0.10 
+0.14 
+0.09 
+0.11 
+Sleep hyperhydrosis 
+Night sweating 
+Falling asleep sweating 
+<0.001 
+<0.001 
+0.23 
+0.21 
+
+
+a How long after going to bed does child usually fall asleep. 
+
+b Child has difficulty in breathing during the night. 
+
+c Child gasps for breath or is unable to breathe during sleep. 
+
+d Child has nightmares which he/she does not remember the 
+next day. 
+
+e Child experiences vivid dream-like scenes while falling 
+asleep. 
+
+f Child feels unable to move when waking up in the morning. 
+
+
+Fig. 
+1 
+Prevalence of snoring (%) among age groups 1—2, 3—4 and 5—6 years. 
+
+
+All snoring is not adenoids 
+
+OSA management, i.e. comparing the effectiveness 
+of adenotomy, tonsillectomy and combined adenotonsillectomy 
+[10,23—25]. Our findings suggest that 
+removal of adenoids is often insufficient in treating 
+snoring since a large portion of our snoring children 
+already had adenotomies. In our study population, 
+adenoidectomy alone may have been performedfor 
+young children as the first treatment for snoring 
+because of its lower morbidity and mortality than 
+tonsillectomy. The overall number of tonsillectomies 
+was lower, but the same trend emerged, 
+tonsillectomies being 6% among snoring but only 
+3% among non-snoring children. 
+
+Snoring children were heavier, and if the trend 
+toward obesity in children [26] continues, obesity 
+may becomeamore important risk factorfor snoring 
+even in young children. Like some others [27],we 
+saw no significant difference in snoring prevalence 
+by gender. 
+
+Similarly, as in other studies, we found a significant 
+association between snoring frequency and 
+breathing problems, excessive night-time sweating, 
+tiredness upon waking, and daytime somnolence, as 
+well as sleep—wake transition disorders. Conversely, 
+we found no relationship between snoring 
+frequency and disorders of initiating or maintaining 
+sleep, similar to results from other studies [8,28]. 
+
+Of our children, one-third had a smoking parent. 
+Smoking and even passive smoking has been an 
+independent risk factor for snoring in adults [29], 
+and children suffering from snoring are more likely 
+to live in smoking households [30,31]. Ali et al. 
+demonstrated a dose—response relationship 
+between passive smoking and habitual snoring in 
+children, especially for maternal smoking [32]. 
+Although history of parental snoring indicates a role 
+for heredity in development of snoring in young 
+children [33—34], the relationship we found 
+between parental snoring and snoring in children 
+could be explained at least in part by parental 
+smoking. 
+
+As a conclusion we have shown that snoring is 
+more commonin children and ona population level 
+still exists after previous adenoidectomy and tonsillectomy. 
+Snoring is often observed in children 
+with tobacco smoke exposure. 
+
+Acknowledgements 
+
+
+We thank Heini Liukkonen for excellent technical 
+assistance and Timo Pessi for statistical analysis. 
+Helsinki University Central HospitalResearch Funds 
+and the Pa¨ivikki and Sakari Sohlberg Funds supported 
+the study financially. 
+
+References 
+
+
+[1] E. Hultcrantz, B. Lofstrand-Tidestrom, J. Ahlquist-Rastad, 
+The epidemiology of sleep related breathing disorder in 
+children, Int. J. Pediatr. Otorhinolaryngol. 32 (Suppl.) 
+(1995) S63—S66. 
+[2] T. Gislason, B. Benediktsdottir, Snoring, apneic episodes, 
+and nocturnal hypoxemia among children 6 months to 6 
+years old: an epidemiologic study of lower limit of prevalence, 
+Chest 107 (1995) 963—966. 
+[3] L.R. Lu, J.K. Peat, C.E. Sullivan, Snoring in preschool children: 
+prevalence and association with nocturnal cough and 
+asthma, Chest 124 (2003) 587—593. 
+[4] X. Liu,Y.Ma,Y.Wang,Q. Jiang,X. Rao,X.Lu,et al., Brief 
+report: an epidemiologic survey of the prevalence of sleep 
+disorders among children2to12years old in Beijing, China, 
+Pediatrics 115 (2005) 266—268. 
+[5] A.G. Kaditis, J. Finder, E.I. Alexopoulos, K. Starantzis, K. 
+Tanou, S. Gampeta, et al., Sleep-disordered breathing in 
+3680 Greek children,Pediatr. Pulmonol.37 (2004) 499—509. 
+[6] L.M. O’Brien, C.B. Mervis, C.R. Holbrook, J.L. Bruner, C.J. 
+Klaus,J.Rutherford,etal., Neurobehavioral implicationsof 
+habitual snoring in children, Pediatrics 114 (2004) 44—49. 
+[7] S. Blunden, K. Lushington, B. Lorenzen, J. Martin, D. Kennedy, 
+Neuropsychological and psychosocial function in children 
+with a history of snoring or behavioral sleep problems, 
+J. Pediatr. 146 (2005) 780—786. 
+[8] S. Eitner, M.S. Urschitz, A. Guenther,P.M. Urschitz-Duprat, 
+B. Bohnhorst, M. Schlaud, et al., Sleep problems and daytime 
+somnolence in a German population-based sample of 
+snoring school-aged children, J. Sleep Res. 16 (2007) 96— 
+101. 
+[9]W. Anuntaseree,K.Rookkapan,S.Kuasirikul,P. Thongsuksai, 
+Snoring and obstructive sleep apnea in Thai school-age 
+children: prevalence and predisposing factors,Pediatr. Pulmonol. 
+32 (2001) 222—227. 
+[10] B. Joshua, G. Bahar, J. Sulkes, T. Shpitzer, E. Raveh, Adenoidectomy: 
+long-term follow-up, Otolaryngol. Head Neck 
+Surg. 135 (2006) 576—580. 
+[11] D. Gozal,L. Kheirandish, Oxidant stress and inflammationin 
+the snoring child: confluent pathways to upper airway 
+pathogenesis and end-organ morbidity, Sleep Med. Rev. 10 
+(2006) 83—96. 
+[12] M.S. Urschitz, A. Guenther, S. Eitner, P.M. Urschitz-Duprat, 
+M. Schlaud, O.S. Ipsiroglu, et al., Risk factors and natural 
+history of habitual snoring, Chest 126 (2004) 790—800. 
+[13] G. 
+Zhang, J. Spickett, K. Rumchev, A.H. Lee, S. Stick, 
+Snoring in primary school children and domestic 
+environment: aPerth school based study,Respir. Res. 5 
+(2004) 19. 
+[14] L.M. O’Brien, C.R. Holbrook, C.B. Mervis, C.J. Klaus, J.L. 
+Bruner, T.J. Raffield, et al., Sleep and neurobehavioral 
+characteristics of 5-to 7-year-old children with parentally 
+reported symptoms of attention-deficit/hyperactivity disorder, 
+Pediatrics 111 (2003) 554—563. 
+[15] O. Bruni,S. Ottaviano,V. Guidetti,M.Romoli,M. Innocenzi, 
+F. Cortesi, et al., The sleep disturbance scale for children 
+(SDSC): construction and validation of an instrument to 
+evaluate sleep disturbances in childhood and adolescence, 
+J. Sleep Res. 5 (1996) 251—261. 
+[16] A.M. Ferreira,V. Clemente,D. Gozal,A. Gomes,C.Pissarra, 
+H. Cesar, et al., Snoring in Portuguese primary school children, 
+Pediatrics 106 (2000) E64. 
+[17] E.H. Van Den Akker, A.W. Hoes, M.J. Burton, A.G. Schilder, 
+Large international differences in (adeno)tonsillectomy 
+rates, Clin. Otolaryngol. Allied Sci. 29 (2004) 161—164. 
+
+K. Liukkonen et al. 
+[18] G. 
+Karevold, J. Haapkyla, A. Pitkaranta, K.J. Kvaerner, 
+Otitis media surgery: large variability between Finland 
+and Norway, Int. J. Pediatr. Otorhinolaryngol. 71 (2007) 
+1035—1039. 
+[19] S.E. Brietzke, D. Gallagher, The effectiveness of tonsillectomy 
+and adenoidectomy in the treatment of pediatric 
+obstructive sleep apnea/hypopnea syndrome: a meta-analysis, 
+Otolaryngol. Head Neck Surg. 134 (2006) 979—984. 
+[20] P. Nieminen, U. Tolonen, H. Lopponen, T. Lopponen, J. 
+Luotonen, K. Jokinen, Snoring children: factors predicting 
+sleep apnea, Acta Otolaryngol. Suppl. 529 (1997) 190—194. 
+[21] C. Guilleminault, K.K. Li, A. Khramtsov,R.Pelayo, S. Martinez, 
+Sleep disordered breathing: surgical outcomes in prepubertal 
+children, Laryngoscope 114 (2004) 132—137. 
+[22] J. Arrarte, J.F. Lubianca Neto, G.B. Fischer, The effect of 
+adenotonsillectomy on oxygen saturation in children with 
+sleep breathing disorders, Int. J.Pediatr. Otorhinolaryngol. 
+71 (2007) 973—978. 
+[23] A.J. Lipton, D. Gozal,Treatment of obstructive sleep apnea 
+in children:dowe really know how? Sleep Med.Rev.7(2003) 
+61—80. 
+[24] P. Nieminen, U.Tolonen, H. Lo¨ppo¨nen, Snoring and obstructive 
+sleep apnea in children: a 6-month follow-up study, 
+Arch. Otolaryngol. Head Neck Surg. 126 (2000) 481—486. 
+[25] T. Shintani, K. Asakura, A. Kataura, The effect of adenotonsillectomy 
+in children with OSA, Int. J. Pediatr. Otorhinolaryngol. 
+44 (1998) 51—58. 
+[26]P. Canning,M.L. Courage,L.M. Frizzell,T. Seifert, Obesityin 
+a provincial population of Canadian preschool children: 
+differences between 1984 and 1997 birth cohorts, Int. J. 
+Pediatr. Obes. 2 (2007) 51—57. 
+
+[27] D.B.Teculescu,I. Caillier,P.Perrin,E.Rebstock,A. Rauch, 
+Snoring in French preschool children,Pediatr. Pulmonol. 13 
+(1992) 239—244. 
+[28] S. Blunden, K. Lushington, B. Lorenzen, T. Ooi, F. Fung, D. 
+Kennedy, Are sleep problems under-recognised in general 
+practice? Arch. Dis. Child. 89 (2004) 708—712. 
+[29] K.A. Franklin,T. Gislason, E. Omenaas, R. Jogi, E.J. Jensen, 
+E. Lindberg, et al., The influence of active and passive 
+smoking on habitual snoring, Am. J. Respir. Crit. Care 
+Med. 170 (2004) 799—803. 
+[30] R. Ersu, A.R. Arman, D. Save, B. Karadag, F. Karakoc, M. 
+Berkem, et al., Prevalence of snoring and symptoms of 
+sleep-disordered breathing in primary school children in 
+Istanbul, Chest 126 (2004) 19—24. 
+[31] D. Gozal, D.W.Pope Jr., 
+Snoring during early childhood and 
+academic performance at ages thirteen to fourteen years, 
+Pediatrics 107 (2001) 1394—1399. 
+[32] N.J. Ali, D.J. Pitson, J.R. Stradling, Snoring, sleep disturbance, 
+and behaviour in 4—5 year olds, Arch. Dis. Child. 68 
+(1993) 360—366. 
+[33] M. Kalra, G. Lemasters, D. Bernstein, K. Wilson, L. Levin, A. 
+Cohen, et al., Atopy as a risk factor for habitual snoring at 
+age 1 year, Chest 129 (2006) 942—946. 
+[34] S.Redline,P.V.Tishler,M. Schluchter,J.Aylor,K. Clark, G. 
+Graham, Risk factors for sleep-disordered breathing in children. 
+Associations with obesity, race, and respiratory problems, 
+Am.J.Respir. Crit. Care Med. 159 (1999) 1527—1532. 
+Available online at www.sciencedirect.com 
+
+
+

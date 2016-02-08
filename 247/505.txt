@@ -1,0 +1,954 @@
+Pediatric Pulmonology 39:332–338 (2005) 
+
+Sleep and Breathing on the First Night After 
+Adenotonsillectomy for Obstructive Sleep Apnea 
+
+
+1,21 2
+
+G.M. Nixon, MBChB, FRACP, MD, * A.S. Kermack, BSc, C.D. McGregor, RRT, 
+1,234 1
+
+G.M. Davis, MBChB, MD, J.J. Manoukian, MD, K.A. Brown, MD, and R.T. Brouillette, MD 
+Summary. Adenotonsillectomy 
+(T&A) 
+has 
+established 
+effectiveness 
+for 
+the 
+treatment 
+of 
+obstructive 
+sleep 
+apnea 
+(OSA). 
+However, 
+more 
+than 
+20% 
+of 
+children 
+with 
+OSA 
+have 
+respiratory 
+compromise 
+requiring 
+medical 
+intervention 
+in 
+the 
+postoperative 
+period. 
+The 
+reasons 
+for 
+this 
+complication 
+are 
+not 
+well-defined. 
+We 
+aimed 
+to 
+compare 
+the 
+nature 
+and 
+severity 
+of 
+sleep-
+disordered 
+breathing 
+in 
+children 
+with 
+mild 
+and 
+severe 
+OSA 
+on 
+the 
+first 
+night 
+following 
+adenotonsillectomy. 
+Ten 
+children 
+were 
+classified 
+into 
+groups 
+of 
+mild 
+and 
+severe 
+OSA, 
+based 
+on 
+preoperative 
+testing. 
+On 
+the 
+first 
+night 
+after 
+T&A, 
+they 
+underwent 
+polysomnography, 
+including 
+electroencephalograph, 
+submental 
+electromyography, 
+bilateral 
+electro-oculograms, 
+monitoring 
+of 
+respiratory 
+movements, 
+heart 
+rate, 
+ECG, 
+and 
+oxygen 
+saturation. 
+Sleep-disordered 
+breathing 
+was 
+assessed 
+by 
+the 
+apnea-hypopnea 
+index, 
+the 
+SaO2 
+nadir, 
+and 
+the 
+desaturation 
+index, 
+including 
+dips 
+in 
+saturation 
+below 
+90% 
+(DI90). 
+Sleep 
+quality 
+was 
+assessed 
+by 
+sleep 
+efficiency, 
+time 
+spent 
+in 
+each 
+sleep 
+state, 
+and 
+respiratory 
+arousal 
+index. 
+Obstructive 
+events 
+occurred 
+postoperatively 
+in 
+all 
+children, 
+but 
+were 
+more 
+frequent 
+in 
+those 
+with 
+severe 
+OSA 
+preoperatively: 
+the 
+median 
+(interquartile 
+range) 
+mixed/obstructive 
+apnea/hypopnea 
+indicies 
+were 
+6.9 
+(2.2–9.8) 
+events/hr 
+and 
+21.5 
+(15.1– 
+112.1) 
+events/hr 
+for 
+the 
+mild 
+OSA 
+group 
+and 
+the 
+severe 
+OSA 
+group, 
+respectively 
+(P 
+¼ 
+0.009). 
+Obstructive 
+events 
+were 
+the 
+major 
+cause 
+of 
+desaturation 
+during 
+sleep 
+postoperatively. 
+Sleep 
+quality 
+was 
+severely 
+disrupted 
+in 
+both 
+groups, 
+with 
+reductions 
+in 
+both 
+slow-wave 
+sleep 
+and 
+rapid 
+eye 
+movement 
+sleep. 
+In 
+conclusion, 
+despite 
+removal 
+of 
+obstructing 
+lymphoid 
+tissue, 
+upper 
+airway 
+obstruction 
+occurred 
+on 
+the 
+first 
+postoperative 
+night 
+in 
+children 
+with 
+OSA. 
+This 
+study 
+is 
+the 
+first 
+to 
+demonstrate 
+the 
+mechanism 
+of 
+respiratory 
+compromise 
+after 
+adenotonsillectomy, 
+a 
+common 
+postoperative 
+complication 
+in 
+children 
+with 
+severe 
+OSA. 
+Pediatr Pulmonol. 2005; 39:332– 
+
+338. . 
+2005 
+Wiley-Liss, 
+Inc. 
+Key words: obstructive sleep apnea; child; sleep; adenotonsillectomy; complications; 
+oximetry. 
+
+INTRODUCTION 
+
+Upper airway obstruction is an increasingly common 
+indication for adenotonsillectomy (T&A) in children.1 
+T&A has established effectiveness for the treatment of 
+obstructive sleep apnea (OSA).2,3 If adenotonsillar enlargement 
+is the predominant factor contributing to OSA in 
+children,4 removal of the tonsils and adenoids should lead 
+to immediate resolution of airway obstruction during 
+sleep. However, several studies found that more than 20% 
+of children with OSA have respiratory compromise 
+requiring intervention in the postoperative period,5 and 
+we reported that 60% of children with severe OSA 
+required medical or nursing interventions following 
+adenotonsillectomy.6–8 The most common intervention 
+in these studies was the administration of supplemental 
+oxygen. However, 11% of these children required reintubation 
+for obstructive symptoms in the postoperative 
+
+. 
+2005 Wiley-Liss, Inc. 
+1Department of Pediatrics, McGill University, Montreal, Quebec, Canada. 
+
+2Division of Respiratory Medicine, Montreal Children’s Hospital, Montreal, 
+Quebec, Canada. 
+
+3Division of Otolaryngology, Montreal Children’s Hospital, Montreal, 
+Quebec, Canada. 
+
+4Division of Anesthesiology, Montreal Children’s Hospital, Montreal, 
+Quebec, Canada. 
+
+Grant sponsor: Alan Ross Fellowship, McGill University; Grant sponsor: 
+Fonds de la Recherche en Sante´ Que´bec. Grant Sponsor: Montreal 
+Children’s Hospital Research Institute. 
+
+*Correspondence to: Dr. G.M. Nixon, now at the Department of 
+Respiratory Medicine, Starship Children’s Hospital, Private Bag 92-024, 
+Auckland 1, New Zealand. E-mail: gilliann@adhb.govt.nz 
+
+Received 26 May 2004; Revised 2 August 2004; Accepted 6 August 2004. 
+
+DOI 10.1002/ppul.20195 
+Published online 9 February 2005 in Wiley InterScience 
+(www.interscience.wiley.com). 
+
+
+period, a finding at variance with the reduction in 
+obstructive events on the first postoperative night reported 
+by Helfaer et al.9 in 15 children with mild to moderate 
+OSA. 
+
+In this study, we aimed to document the mechanism and 
+severity of sleep-disordered breathing on the first night 
+following adenotonsillectomy, comparing children with 
+mild and severe OSA. We hypothesized that obstructive 
+apnea would explain postoperative desaturation, and that 
+these events would be more frequent in children with 
+severe OSA. 
+
+METHODS 
+
+Otherwise healthy children over age 2 years with a 
+history of habitual snoring and witnessed apnea during 
+sleep were recruited into two groups, based on preoperative 
+severity of OSA. Children with medical conditions 
+other than OSA, including craniofacial syndromes and 
+neuromuscular and cardiac disorders, were excluded. 
+Inclusion in the severe OSA group required a history 
+suggestive of OSA, adenotonsillar enlargement, and an 
+overnight oximetry showing clusters of desaturations with 
+multiple dips in SaO2 below 85%.10 Children with 
+multiple dips below 90% were shown in our previous 
+study to have a median apnea/hypopnea index (AHI) of 
+
+16.4 events/hr.10 Those with mild OSA had a history 
+suggestive of OSA, adenotonsillar enlargement, and an 
+apnea/hypopnea index of 1–10 events/hr on polysomnography, 
+without significant desaturation (SaO2 nadir 
+above 85%). The study was approved by the Ethics Committee 
+of the Montreal Children’s Hospital, and written 
+informed consent was obtained from a parent of each 
+subject. 
+Adenotonsillectomy was performed under general 
+anesthesia with tracheal intubation. All children were 
+extubated awake in the operating room prior to transfer to 
+the recovery room. Postoperative analgesia was managed 
+with morphine until children were able to tolerate enteral 
+codeine (1 mg/kg orally) and acetaminophen (10–15 mg/ 
+kg, orally or per rectum). 
+
+Polysomnography was performed on the first night after 
+surgery, in the usual postoperative unit (surgical ward, 
+postanesthetic care unit, or intensive care unit), and was 
+attended by one or two of the authors (G.M.N. and 
+A.S.K.). Surgery was usually performed in the morning 
+(8 of 10 subjects), with a latest surgery time of 2:40 PM. All 
+children were awake and drinking in the afternoon before 
+polysomnography began. The following signals were 
+recorded once the child settled down for the night and until 
+spontaneous waking after 6 AM: electroencephalogram 
+(C3/A2 and C4/A1), submental electromyogram, right 
+and left electro-oculograms, calibrated respiratory inductance 
+plethysmography (thorax, abdomen, and sum, Respitrace 
+Plus1, Non-Invasive Monitoring Systems, Inc., 
+
+First Night After Adenotonsillectomy for OSA 333 
+
+Miami, FL), electrocardiogram (Respitrace Plus1), SaO2 
+(Nellcor N-200 oximeter set to mode 2, 2–3-sec averaging 
+time, Nellcor Corp., Hayward, CA), and heart rate 
+(Nellcor). All signals were recorded and analyzed using 
+a digital polysomnography system (Nicolet, Ultrasom, 
+Madison, WI). 
+
+Sleep state was scored according to standard criteria.11 
+Sleep quality was assessed using the following measures: 
+total sleep time, sleep period time (time available for 
+sleep), sleep latency, sleep efficiency (proportion of time 
+available for sleep that was spent asleep), time awake after 
+sleep onset, respiratory arousals/hour, and percentages of 
+each stage of sleep. An arousal was defined according to 
+American Sleep Disorders Association (ASDA) criteria.12 
+Apneas and hypopneas were identified using the sum 
+signal of the calibrated respiratory inductance plethysmography 
+(RIP). An American Academy of Sleep Medicine 
+Task Force found that this signal provides acceptable 
+detection of apneas and hypopneas.13 Other flow monitors 
+were not attempted because it was felt that monitors on the 
+face would not be tolerated by these preschool children in 
+the postoperative period, and the copious nasal secretions 
+would render impractical recordings of nasal airflow. 
+Apnea was defined as a reduction in RIP sum signal to less 
+than 20% of baseline, lasting 3 or more seconds. 
+Hypopnea was defined as a reduction in the same signal 
+to 20–50% of baseline, also lasting 3 sec or more, and 
+associated with a reduction in SaO2 of at least 4%. A 
+desaturation event was defined as a reduction in SaO2 of at 
+least 4% in response to a respiratory event. The mixed/ 
+obstructive apnea/hypopnea index (MOAHI, events/hr of 
+sleep) was calculated for each subject. In addition, respiratory 
+parameters were calculated for the first and last 
+thirds of total sleep time, and for rapid eye movement 
+(REM) and non rapid eye movement (NREM) sleep. 
+
+Statistical Analysis 
+
+Statistical analysis was performed using the SPSS for 
+Windows program, version 9.0.0 (SPSS, Inc., Chicago, 
+IL). Statistics for nonparametric data were used in all cases 
+because of the low numbers in each group. Clinical 
+characteristics and all aspects of polysomnography results 
+were compared between the two groups using the Mann-
+Whitney U-test for nonparametric data. Comparisons of 
+respiratory parameters between REM and non-REM 
+sleep, and between the first and the last third of the night, 
+were compared using Wilcoxon signed-rank tests. 
+
+RESULTS 
+
+Five subjects were recruited in each group, matched for 
+gender and age. The clinical characteristics of the two 
+groups are shown in Table 1. The median (interquartile 
+range) oxygen saturation nadir on preoperative testing 
+was 76% (54–79%) in the severe OSA group, and 87% 
+
+
+334 Nixon et al. 
+TABLE 1— Preoperative Clinical Characteristics of Patients by OSA Severity Group1 
+
+
+Mild OSA (n ¼ 
+5) Severe OSA (n ¼ 
+5) P 
+value 
+
+Females (n, %) 2 (40%) 2 (40%) 1.0 
+Age (years) 4.9 (3.2–5.8) 3.9 (2.6–5.1) 0.47 
+Weight percentile 83 (6–88) 10 (1–88) 0.53 
+Height percentile 75 (13–87) 25 (3–35) 0.37 
+SaO2 nadir on preoperative 87 (86–91) 76 (54–79) 0.009 
+
+overnight oximetry (%) 
+Number of drops in SaO2 below 90% 2 (1.5–3.5) 30 (11.0–108.5) 0.009 
+per hour of recording (DI90) 
+
+1Unless otherwise specified, results are given as median and interquartile range. 
+
+(86–91%) in the mild OSA group. The median (interquartile 
+range) number of desaturations below 90% per 
+hour of recording time14 was 30/hr (11.0–108.5) in the 
+severe OSA group, and 2/hr (1.5–3.5) in the mild OSA 
+group. The mild OSA group had a median (interquartile 
+range) AHI preoperatively of 4.4 (2.2–7.1) events/hr. 
+
+One boy in the severe OSA group had tonsillectomy 
+only (having previously had adenoidectomy); all other 
+subjects had adenotonsillectomy. Surgical technique was 
+the same in all cases: hot electrocautery dissection tonsillectomy 
+and electrocautery ablative adenoidectomy.15,16 
+All children received an inhalational induction (halothane, 
+n ¼ 
+1; sevoflurane, n ¼ 
+9). Seven children received propofol 
+(mild OSA group, 4). Maintenance anesthesia was 
+with isoflurane. Intraoperative opioids were used in all 
+children. At the discretion of the anesthesiologist and 
+surgeon, dexamethasone was given intraoperatively to 
+7 children (severe OSA group, n ¼ 
+3; mild OSA group, 
+n ¼ 
+4; P 
+¼ 
+NS). Postoperative analgesia was achieved 
+with morphine, at a mean (SD) dose of 0.08 (0.02) mg/kg. 
+There was no difference in morphine dose between the 
+mild and severe OSA groups (P 
+¼ 
+0.95). Postoperatively, 
+codeine and acetominophen were used in 2 and 4 patients 
+in each group, respectively. 
+
+At least 5 hr (median, 9.3 hr) elapsed between time of 
+surgery and the start of polysomnography recording. The 
+total recording time exceeded 448 min (minimum 7.5 hr; 
+median 10.2 hr) in all cases. Obstructive events were seen 
+
+in all patients on the first postoperative night. Obstructive 
+apneas and hypopneas were about 4 times as frequent and 
+were associated with greater desaturation in the severe 
+OSA group than in the mild OSA group (Table 2, Fig. 1). 
+Desaturation events were mainly due to obstructive apneas 
+and hypopneas, particularly in the severe OSA group. 
+Central apneas caused the other events (Table 2). Hypoxia 
+due to other causes (e.g., hypoventilation, pneumonia, or 
+acute respiratory distress syndrome) did not occur in either 
+group. 
+
+There was a trend toward more apnea and desaturation 
+in REM sleep than during quiet sleep. The postoperative 
+mixed/obstructive apnea-hypopnea index was higher during 
+REM sleep than during NREM sleep in 9 of 10 patients 
+(median of 49 and 6 events/hr, respectively, P 
+¼ 
+0.07). The 
+SaO2 nadir was similar in non-REM sleep and REM sleep 
+(median, 85.5 vs 87.0%; P 
+¼ 
+0.07). 
+
+The SaO2 nadir was lower in the last third of the night 
+(P 
+¼ 
+0.04), but obstructive apneas were not significantly 
+longer in the last third (P 
+¼ 
+0.58). The mean SaO2, the 
+mixed/obstructive apnea-hypopnea index, mean apnea 
+duration, time spent with SaO2 below 90%, and the respiratory 
+arousal index were not different between the first 
+and last thirds of the night (Table 3). This was despite 
+increased REM sleep in the last third compared to the first 
+third of the night in all children (P 
+¼ 
+0.005). 
+
+One patient (male, age 2.8 years, severe OSA group) 
+required intervention for respiratory compromise. Mask 
+
+TABLE 2— Parameters of Sleep and Breathing on First Postoperative Night, by OSA Severity Group1 
+
+Mild OSA (n ¼ 
+5) Severe OSA (n ¼ 
+5) P 
+value 
+Mixed/obstructive apnea/hypopnea index (events/hr) 6.9 (2.2–9.8) 21.5 (15.1–112.1) 0.009 
+SaO2 nadir (%) 88.0 (81.0–90.0) 82.9 (73.5–89.5) 0.46 
+Desaturation index (events/hr) 1.8 (1.4–4.6) 9.3 (6.2–58.9) 0.02 
+Number of drops in SaO2 below 90% per hour of recording (DI90) 2.4 (0.5–5.3) 6.0 (2.4–31.0) 0.25 
+Desaturation events due to obstructive events (%) 66.9 (19.9–89.5) 99.6 (94.0–99.8) 0.02 
+Longest mixed/obstructive apnea (sec) 14.6 (9.1–22.8) 24.3 (23.1–27.2) 0.05 
+Longest central apnea (sec) 14.0 (10.8–19.2) 9.4 (6.7–11.4) 0.25 
+Respiratory arousal index (events/hr) 2.0 (0.7–4.0) 11.8 (6.7–54.3) 0.02 
+Sleep efficiency (%) 85 (74–86) 82 (74–84) 0.35 
+
+1All results expressed as median and interquartile range. 
+
+
+Fig. 1. Lowest oxygen saturation during sleep for each subject, 
+in pre-and postoperative studies. 
+
+
+oxygen was commenced 12 hr after adenotonsillectomy, 
+after repeated obstructive apneas caused desaturations 
+below 80%. He stayed in hospital for 3 nights until 
+desaturation during sleep had resolved. Oximetry trend 
+graphs from the preoperative period, the first postoperative 
+night, and at follow-up 6 weeks after surgery 
+are shown in Figure 2. Frequent desaturations can be seen 
+on the first postoperative night, at a similar level as those 
+seen preoperatively. These events had resolved by 6 weeks 
+after surgery. 
+
+Arousals secondary to respiratory events were more 
+frequent in the severe OSA compared with the mild OSA 
+group (median respiratory arousal index, 11.8 and 
+
+2.0 events/hr, respectively, P 
+¼ 
+0.02). However, sleep 
+quality was poor in both groups, with a mean sleep 
+efficiency of 85% and 82% for the mild and severe OSA 
+groups, respectively (P 
+¼ 
+0.35). The time spent in the 
+stages of sleep for children in each group is shown in 
+Figure 3. No difference was seen between the mild and 
+severe OSA groups, with both groups showing reduced 
+REM and slow-wave sleep, and increased time spent 
+awake after sleep onset, compared to normal values for 
+17 
+
+age. 
+
+First Night After Adenotonsillectomy for OSA 335 
+
+DISCUSSION 
+
+Adenotonsillectomy is well-established as an effective 
+therapy for the majority of otherwise healthy children with 
+OSA and adenotonsillar enlargement.2,3,18 This effectiveness 
+was determined by resolution of signs and symptoms, 
+improved growth, and repeat polysomnography several 
+weeks after T&A. However, adenotonsillectomy for OSA 
+in children may be complicated by postoperative respiratory 
+compromise.5 This study is the first to demonstrate 
+that sleep-related airway obstruction is the mechanism of 
+the common postoperative complication of significant 
+desaturation after adenotonsillectomy in children with 
+severe OSA. Episodes of desaturation occurred during the 
+first postoperative night in all 10 children studied, and 
+these desaturation episodes were predominantly caused 
+by upper airway obstruction. Obstructive apneas and 
+hypopneas were more frequent and were associated with 
+greater desaturation in those with more severe OSA 
+preoperatively. The onset of respiratory compromise in 
+these children was delayed at least 5 hr from surgery and 
+the desaturation occurred during sleep, confirming the 
+report of Koomson et al.19 The delayed onset of 
+respiratory compromise and the occurrence of desaturation 
+during sleep have implications for postoperative care. 
+
+Several mechanisms may explain ongoing upper airway 
+obstruction after T&A, and the observation that this is 
+more marked in the severe OSA group. All children had 
+copious nasal secretions following surgery (personal 
+observation), and reactive, postsurgical edema in the 
+adenoid and tonsillar beds would be expected. In obstructive 
+sleep apnea in children, upper airway obstruction 
+was shown to worsen through the night due to the 
+increased proportion of REM sleep in the latter part of the 
+night.20 Surprisingly, we did not find this pattern, raising 
+the possibility that surgical factors exacerbated upper 
+airway obstruction, particularly in the first part of the 
+night. However, the difference between the mild and 
+severe OSA groups makes this explanation less likely: the 
+anesthesia given was similar for all children, and the 
+surgical operation removes virtually all adenoid and 
+
+TABLE 3— Comparison of Aspects of Sleep-Disordered Breathing in First and Last Thirds 
+of First Postoperative Night1 
+
+First third Last third P 
+value 
+Mean SaO2 (%) 97 (96–98) 97 (96–98) 0.95 
+SaO2 nadir (%) 90 (84–91) 86 (76–90) 0.04 
+Duration SaO2 <90% (%TST) 0.05 (0–0.38) 0.1 (0–2.2) 0.17 
+Mixed/obstructive apnea-hypopnea index (no./hr) 7.7 (3.0–25.8) 11.0 (5.1–26.9) 0.65 
+Mean apnea duration (sec) 10 (9–13) 10 (8–19) 0.84 
+Longest obstructive apnea (sec) 10 (9–16) 12 (8–20) 0.58 
+Longest central apnea (sec) 11 (0–16) 8 (0–16) 0.16 
+Respiratory arousal index (no./hr) 2.0 (1.0–10.1) 4.7 (1.1–18.9) 0.86 
+REM sleep (min) 35 (15–97) 116 (102–138) 0.005 
+
+1All results expressed as median and interquartile range. 
+
+
+336 Nixon et al. 
+
+
+Fig. 2. Overnight oximetry trend reports for subject who 
+required intervention. A: Clusters of desaturation are seen in 
+preoperative study, reflecting obstructive events in rapid eye 
+movement sleep. B: On first postoperative night, obstructive 
+apneas and hypopneas occurred frequently from sleep onset, 
+leading to repetitive desaturation below 80%; note timing of 
+supplemental oxygen administration. C: Oximetry performed 
+6 weeks after surgery is within normal limits. 
+
+tonsillar tissue, irrespective of preoperative size. Subtle 
+differences in airway structure between the mild and 
+severe group cannot be excluded, but magnetic resonance 
+imaging of airways in children with OSA showed that the 
+upper airway is normal apart from enlarged tonsils and 
+adenoids.4 It is possible that children with more severe 
+
+Fig. 3. Percent time spent in each sleep stage by study group. A: 
+Literature normal values for age.17 B: Mild OSA group. C: Severe 
+OSA group. Compared with normal values, study subjects spent 
+more time awake after sleep onset, and less time in rapid eye 
+movement (REM) and slow-wave sleep. 
+
+
+OSA require more surgical dissection and therefore might 
+have more reactive edema and secretions postoperatively. 
+More likely, the severity of OSA that is present pre-
+operatively may be an indicator of the presence of a 
+primary or acquired abnormality that predisposes the child 
+to severe OSA and continues to be present postoperatively, 
+possibly compounded by postoperative edema and secretions. 
+Children with more severe OSA have increased 
+upper airway collapsibility,21,22 and are more susceptible 
+to the respiratory-depressant effects of anesthesia and 
+opiate drugs.23,24 Longer apneas in the severe group raise 
+the possibility of an abnormality in arousal response.25–27 
+While we did not perform repeat polysomnography in all 
+children in this study, the subject with the most severe 
+obstructive events on the first postoperative night did have 
+a normal nocturnal oximetry several weeks after surgery 
+(Fig. 2). 
+
+We demonstrated that the first night after adenotonsillectomy 
+is marked by sleep disturbance, airway obstruction, 
+and desaturation. By excluding children at high risk 
+for postoperative respiratory complications (age under 
+2 years, preterm birth, and comorbidity), we attempted to 
+isolate the effect of preoperative severity of OSA on 
+breathing postoperatively. Our comparison of severity of 
+postoperative upper airway obstruction in the two groups 
+was limited by the fact that the subjects with severe OSA 
+preoperatively did not undergo preoperative polysomnography. 
+However, these children had an average of 30 dips 
+in SaO2 per hour and a median SaO2 nadir of 76%, 
+measures that in our previous work closely correlated with 
+high apnea/hypopnea and respiratory arousal indices.28 
+
+The abnormalities in sleep quality demonstrated in this 
+study were striking. The literature would suggest that 
+sleep architecture, particularly the quantity of REM sleep, 
+is usually preserved in children with OSA before treat
+
+
+20,29
+
+ment.We demonstrated severe sleep disruption in all 
+subjects, including reduced REM sleep, unrelated to the 
+preoperative severity of OSA. This finding is consistent 
+with sleep patterns previously described in adults after 
+
+30,31
+
+surgery.In adults, anesthesia leads to a reduction in 
+slow-wave sleep in the first postanesthetic night,31 and 
+sleep after surgery is characteristically low in REM and 
+slow-wave sleep.30 In addition to possible effects of 
+anesthetic and analgesic drugs, pain, environmental noise, 
+disturbance by nursing interventions, anxiety, and the 
+unfamiliar environment all contribute to poor-quality 
+sleep in the immediate postoperative period. 
+
+The literature does not answer the question of which 
+children should remain in hospital overnight after adenotonsillectomy. 
+Small, intensively monitored, prospective 
+studies such as our own speak to the mechanism of postoperative 
+respiratory compromise.9 Moderate-sized retrospective 
+studies established demographic and medical 
+factors that predispose children to postoperative respiratory 
+complications.32 They also stated that severe OSA is a 
+
+
+risk factor, a condition that requires preoperative diagnostic 
+testing, as it is not identifiable by history or clinical 
+examination.33,34 Given the limitations of retrospective 
+study design, the literature is likely to underestimate the 
+actual amount of postoperative desaturation. All children 
+in our small prospective study demonstrated desaturation 
+on the first postoperative night. In agreement with Helfaer 
+et al.,9 the only other study using polysomnography to 
+document sleep and breathing in the first night after 
+adenotonsillectomy, we report an improvement in SaO2 
+nadir postoperatively in most cases (Fig. 1). However, our 
+study demonstrates desaturation to dangerous levels in the 
+severe OSA group. Helfaer et al.9 suggested that children 
+aged over 3 years with mild OSA (<15 events/hr) could be 
+discharged on the day of surgery. By defining mild OSA as 
+an AHI of up to 15/hr, and by including children with 
+significant preoperative desaturation (6 of 15 subjects had 
+a preoperative SaO2 nadir of <80%), that study may have 
+underestimated the importance of OSA severity, particularly 
+preoperative saturation nadir, as a predictor of 
+significant airway obstruction in the postoperative period. 
+We submit that the severity of OSA as assessed by the 
+saturation nadir is an important predictor of postoperative 
+desaturation (Fig. 3). Large prospective studies are needed 
+to determine the discharge policy in children, given the 
+rare but tragic incidence of respiratory arrest following 
+adenotonsillectomy in the child with OSA.6,8,28 
+
+In our study, continuous pulse oximetry monitoring in 
+the postoperative period detected a high incidence of 
+desaturation. Standard apnea monitoring is not sufficient 
+for postoperative monitoring, as it is unable to detect 
+obstructive apnea and hypopnea, and bradycardia is 
+
+35,36
+
+uncommon.Our local practice is therefore to use 
+continuous pulse oximetry for postoperative monitoring 
+after T&A for children with OSA. Given the frequency 
+and severity of hypoxemia, airway obstruction, and 
+respiratory compromise demonstrated in this study and 
+others, we recommend overnight nursing observation plus 
+continuous pulse oximetry for children with severe OSA 
+for at least 1 night postoperatively in an appropriate unit 
+skilled in pediatric airway management. 
+
+ACKNOWLEDGMENTS 
+
+G.M.N. received an Alan Ross Fellowship from McGill 
+University. A.S.K. was supported by the Fonds de la 
+Recherche en Sante´ Que´bec. The study was supported by 
+the Montreal Children’s Hospital Research Institute. 
+REFERENCES 
+
+1. Rosenfeld RM, Green RP. 
+Tonsillectomy and adenoidectomy: 
+changing trends. Ann Otol Rhinol Laryngol 1990;99:187–191. 
+2. Ali NJ, Pitson D, Stradling JR. Sleep disordered breathing: effects 
+of adenotonsillectomy on behaviour and psychological functioning. 
+Eur J Pediatr 1996;155:56–62. 
+First Night After Adenotonsillectomy for OSA 337 
+
+3. Stradling 
+JR, Thomas G, Warley ARH, et al. Effect of 
+adenotonsillectomy on nocturnal hypoxaemia, sleep disturbance, 
+and symptoms in snoring children. Lancet 1990;335:249–253. 
+4. Arens 
+R, McDonough JM, Costarino AT, et al. Magnetic 
+resonance imaging of the upper airway structure of children with 
+obstructive sleep apnea syndrome. Am J Respir Crit Care Med 
+2001;164:698–703. 
+5. Rosen GM, Muckle RP, 
+Mahowald MW, et al. Postoperative 
+respiratory compromise in children with obstructive sleep apnea 
+syndrome: can it be anticipated? Pediatrics 1994;93:784–788. 
+6. Brown K, Morin I, Hickey C, et al. Urgent adenotonsillectomy: an 
+analysis of risk factors associated with respiratory morbidity. 
+Anesthesiology 2003;99:586–595. 
+7. McColley 
+SA, April MM, Carroll JZ, et al. Respiratory 
+compromise after adenotonsillectomy in children with obstructive 
+sleep apnea. Arch Otolaryngol Head Neck Surg 1992;118:940– 
+943. 
+8. Wilson K, Lakheeram I, Morielli A, et al. Can assessment for 
+obstructive sleep apnea help predict postadenotonsillectomy 
+respiratory complications? Anesthesiology 2001;96:313–322. 
+9. Helfaer MA, McColley SA, Pyzik PL, et al. Polysomnography 
+after adenotonsillectomy in mild pediatric obstructive sleep 
+apnea. Crit Care Med 1996;24:1323–1327. 
+10. Brouillette RT, Morielli A, Leimanis A, et al. Nocturnal pulse 
+oximetry as an abbreviated testing modality for pediatric obstructive 
+sleep apnea. Pediatrics 2000;105:405–412. 
+11. Rechtschaffen A, Kales A, editors. A manual of standardized 
+terminology, techniques and scoring system for sleep stages of 
+human subjects. Los Angeles: Brain Information Service/Brain 
+Research Institute, UCLA; 1968. 
+12. Atlas 
+Task Force of American Sleep Disorders Association. 
+EEG arousals: scoring rules and examples. Sleep 1992;15: 
+174–184. 
+13. American Academy of Sleep Medicine Task Force. Sleep-related 
+breathing disorders in adults: recommendations for syndrome 
+definition and measurement techniques in clinical research. Sleep 
+1999;22:667–689. 
+14. Urschitz MS, Wolff J, von Einem V, et al. Reference values for 
+nocturnal home pulse oximetry during sleep in primary school 
+children. Chest 2003;123:96–101. 
+15. Mann DG, St George C, Scheiner E, et al. Tonsillectomy—some 
+like it hot. Laryngoscope 1984;94:677–679. 
+16. Wright ED, Manoukian JJ, Shapiro RS. Ablative adenoidectomy: 
+a new technique using simultaneous liquefaction/aspiration. 
+J Otolaryngol 1997;26:36–43. 
+17. Sheldon 
+SH, Spire J-P, Levy HB. Pediatric sleep medicine. 
+Philadelphia: W.B. Saunders; 1997. 
+18. Nieminen P, Tolonen U, Lopponen H. Snoring and obstructive 
+sleep apnea in children: a 6-month follow-up study. Arch 
+Otolaryngol Head Neck Surg 2000;126:481–486. 
+19. Koomson A, Morin I, Brouillette R, et al. Children with severe 
+OSAS who have adenotonsillectomy in the morning are less 
+likely to have postoperative desaturation than those operated in 
+the afternoon. Can J Anaesth 2004;51:62–67. 
+20. Goh 
+DYT, Galster P, Marcus CL. Sleep architecture and 
+respiratory disturbances in children with obstructive sleep apnea. 
+Am J Respir Crit Care Med 2000;162:682–686. 
+21. Gozal D, Burnside MM. Increased upper airway collapsibility in 
+children with obstructive sleep apnea during wakefulness. Am J 
+Respir Crit Care Med 2004;169:163–167. 
+22. Marcus 
+CL, McColley SA, Carroll JL, et al. Upper airway 
+collapsibility in children with obstructive sleep apnea syndrome. 
+J Appl Physiol 1994;77:918–924. 
+23. Brown 
+KA, Laferriere A, Moss IR. Recurrent hypoxemia in 
+young children with obstructive sleep apnea is associated with 
+
+338 Nixon et al. 
+
+reduced opioid requirement for analgesia. Anesthesiology 2004; 
+100:806–810. 
+
+24. Waters 
+KA, McBrien F, Stewart P, et al. Effects of OSA, 
+inhalational anesthesia, and fentanyl on the airway and ventilation 
+of children. J Appl Physiol 2002;92:1987–1994. 
+25. Brooks D, Horner RL, Kimoff RJ, et al. Effect of obstructive sleep 
+apnea versus sleep fragmentation on responses to airway 
+occlusion. Am J Respir Crit Care Med 1997;155:1609–1617. 
+26. Marcus CL, Lutz J, Carroll JL, et al. Arousal and ventilatory 
+responses during sleep in children with obstructive sleep apnea. 
+J Appl Physiol 1998;84:1926–1936. 
+27. Fewell JE, Williams BJ, Szabo JS, et al. Influence of repeated 
+upper airway obstruction on the arousal and cardiopulmonary 
+response to upper airway obstruction in lambs. Pediatr Res 1988; 
+23:191–195. 
+28. Nixon GM, Kermack AS, Davis GM, et al. Planning adenotonsillectomy 
+in children with obstructive sleep apnea: the role of 
+overnight oximetry. Pediatrics 2004;113:19–25. 
+29. Yamadera 
+W, Chiba S, Itoh H, et al. Sleep architectures of 
+obstructive sleep apnea syndrome in the young child. Psychiatry 
+Clin Neurosci 2000;54:330–331. 
+30. Knill 
+RL, Moote CA, Skinner MI, et al. Anesthesia with 
+abdominal surgery leads to intense REM sleep during the first 
+postoperative week. Anesthesiology 1990;73:52–61. 
+31. Moote CA, Knill RL. Isoflurane anesthesia 
+causes a transient 
+alteration in nocturnal sleep. Anesthesiology 1988;69:327–331. 
+32. McGowan FX, Kenna MA, Fleming JA, et al. Adenotonsillectomy 
+for upper airway obstruction carries increased risk in 
+children with a history of prematurity. Pediatr Pulmonol 1992;13: 
+222–226. 
+33. Carroll JL, McColley SA, Marcus CL, et al. Inability of clinical 
+history to distinguish primary snoring from obstructive sleep 
+apnea syndrome in children. Chest 1995;108:610–618. 
+34. Guilleminault C, Pelayo R, Leger D, et al. Recognition of sleep-
+disordered breathing in children. Pediatrics 1996;98:871–882. 
+35. D’Andrea LA, Rosen CL, Haddad GG. Severe 
+hypoxemia in 
+children with upper airway obstruction during sleep does not lead 
+to significant changes in heart rate. Pediatr Pulmonol 1993;16: 
+362–369. 
+36. Warburton D, Stark AR, Taeusch HW. 
+Apnea monitor failure 
+in infants with upper airway obstruction. Pediatrics 1977;60: 
+742–744. 
+
